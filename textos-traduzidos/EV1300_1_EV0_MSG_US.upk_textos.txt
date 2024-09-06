@@ -1,31 +1,31 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1300_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-We've returned, my lord.
-How is the chairman?
-It is still too close to call.
-I see.
-What is this!?
-What's going on, Dad?
-Hey, that light's moving.
-Huh?
-Argh...we've lost it.
-What even was it?
-If it showed up on this baby,<0fe003e00ee0>it was a Remnant, of course!
+Estamos de volta, milorde.
+Como está o Presidente?
+Ainda é muito cedo para saber.
+Compreendo.
+O que é isso!?
+O que foi, papai?
+Olhe, essa luz está se movendo.
+Hã?
+Argh... perdemos ela.
+Mas o que era aquilo?
+Se apareceu nessa beleza, pode estar certo<0fe003e00ee0>de que era um Remanescente, é claro!
 Irina?
-Don't! Irina!
-So dark...so deep... <1ae0000025430fe005e001000ee0>The forest...filled with power...<1ae0000034430fe005e001000ee0>The Conqueror... He's there...
-That light is back.
-Where's it at?
-Hmm...Darken Forest, I'd say.
-So, this glowing light is the Conqueror?<1ae0000096420fe005e001000ee0>How come he's on the Remnant tracker thing?
-It must be the talismans he carries.
-Well, Dave?
-Lord David, what shall we do?
-We were unable to protect Duke Ghor.
-We are powerless in the face of the Conqueror.<1ae00000ba420fe005e001000ee0>That's how it was at Nagapur,<0fe003e00ee0>that's how it was at Koenigsdorf.
-Even if we meet him now, at Darken Forest,<0fe003e00ee0>what can we do?<1ae0000007430fe005e001000ee0>How are we even supposed to stand<0fe003e00ee0>against him?
-Mr. David...<1ae000009c420fe005e001000ee0>What you can do is...
+Não! Irina!
+Tão escura... Tão profunda...<1ae0000025430fe005e001000ee0>A floresta... Cheia de energia...<1ae0000034430fe005e001000ee0>O Conquistador... Ele está lá...
+A luz está de volta.
+Onde ela está?
+Hmm... Na Floresta Negra, ao que parece.
+Então, essa luz brilhante é o Conquistador?<1ae0000096420fe005e001000ee0>Porque ele aparece no rastreador de Remanescentes?
+Deve ser por causa dos talismãs que ele carrega.
+Então, Dave?
+Lorde David, o que devemos fazer?
+Não fomos capazes de proteger o duque de Ghor.
+Não podemos fazer nada contra o Conquistador.<1ae00000ba420fe005e001000ee0>Isso ficou claro em Nagapur,<0fe003e00ee0>e também em Koenigsdorf.
+Mesmo que encontrássemos com ele agora, na<0fe003e00ee0>Floresta Negra, o que poderíamos fazer?<1ae0000007430fe005e001000ee0>Como vocês acham que poderíamos<0fe003e00ee0>detê-lo?
+Senhor David...<1ae000009c420fe005e001000ee0>Talvez pudesse...
 Irina!?
 Irina!
 

@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1280_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-What is the Duke of Ghor doing here?<0fe003e00ee0>He wasn't supposed to know about this!
-The Duke has eyes and ears the world over.<0fe003e00ee0>We should not be terribly surprised...
-We've got to save him!
+O que o Duque de Ghor está fazendo aqui?<0fe003e00ee0>Ele não deveria saber de nada sobre isso!
+O Duque tem olhos e ouvidos por todo o mundo.<0fe003e00ee0>Não deveríamos estar assim surpresos...
+Temos que salvá-lo!
 

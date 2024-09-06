@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0685_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Be careful.<0fe003e00ee0>May the God Emperor be with you!
+Tenha cuidado.<0fe003e00ee0>Que o Imperador Celestial esteja com você!
 

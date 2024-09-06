@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0410_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Wow...
-That is the Elysion Remnant.<0fe003e00ee0>Its power keeps the world in balance.
-A thousand years ago, the great Marion<0fe003e00ee0>Marshall bound herself to the Remnant,<1ae0000052430fe005e001000ee0>marking this as the birthplace of<0fe003e00ee0>Remnant culture.
-Huh...
-I thought you were originally from Elysion.
-Yeah, I was born here, but we moved to<0fe003e00ee0>Eulam when I was still a baby.<1ae00000f0420fe005e001000ee0>I don't remember Elysion at all.
-Lord David?
-Right. Let's head to the embassy.
+Uau...
+Esse é o Remanescente de Elysion.<0fe003e00ee0>Seu poder mantém o mundo em equilíbrio.
+Há mil anos atrás, a grande Marion Marshall<0fe003e00ee0>estabeleceu um vínculo com esse Remanescente,<1ae0000052430fe005e001000ee0>convertendo esse lugar no local de nascimento<0fe003e00ee0>da cultura Remanescente.
+Ah...
+Eu pensei que você fosse de Elysion.
+Sim, eu nasci aqui, mas nos mudamos para<0fe003e00ee0>Eulam quando ainda era bem pequeno.<1ae00000f0420fe005e001000ee0>Não me lembro de nada em Elysion.
+Lorde David?
+Certo. Vamos nos dirigir para a embaixada.
 

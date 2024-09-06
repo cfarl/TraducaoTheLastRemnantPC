@@ -1,24 +1,24 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1520_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Damn!
+Droga!
 Irina!?
-I can do this!
-Then, this is what you choose?
-To be someone else's weapon? A tool?<1ae00000b4420fe005e001000ee0>So long as you leave them unchecked,<0fe003e00ee0>that's all you are, Marshall!
-That's not true!<1ae0000070420fe005e001000ee0>Mr. David...The Generals, even the people<0fe003e00ee0>of the Academy<07f0>they would never use me!
-They and Mom and Dad and everyone<0fe003e00ee0>have always worked hard to make a world<1ae0000002430fe005e001000ee0>where I'm not a Marshall<07f00fe003e00ee0>I'm just a normal girl!
-And even if they fail...
-Rush would protect me!
-Foolish girl!
-This power...<0fe003e00ee0>You would choose to destroy all Remnants!?
-But Rush<07f0> If you do that, then you<07f01ae00000a4420fe002e001000be00ee0>
-I know! It's suicide because<07f01ae00000c8420fe005e001000ee01ae0000020410fe005e001000ee0>I'm a Remnant, too, right?
-But...it's not like I can just let this happen!
-You've all done so much for me...<0fe003e00ee0>I can't let you die! I won't!
-Dave...sorry! I don't think you're gonna have<0fe003e00ee0>any Remnants left after this...
-But...it'll be okay! People will figure out<0fe003e00ee0>how to live without us!
-Right. It'll be alright, Rush! I...<0fe003e00ee0>We'll get by somehow!
+Eu cuido disso!
+Então, é isso o que quer?
+Ser a arma de outra pessoa? Uma ferramenta?<1ae00000b4420fe005e001000ee0>Enquanto você não os deixar,<0fe003e00ee0>este será o seu destino, Marshall!
+Isso não é verdade!<1ae0000070420fe005e001000ee0>Senhor David... Seus Generais, as pessoas da<0fe003e00ee0>Academia, eles nunca tentaram me usar!
+Eles, papai, mamãe, todos<0fe003e00ee0>sempre fizeram o possível para que minha vida<1ae0000002430fe005e001000ee0>não fosse a de uma Marshall...<0fe003e00ee0>Mas sim de uma garota normal!
+E mesmo que eles fracassassem...
+Rush sempre me protegeria!
+Garota estúpida!
+Esse poder...<0fe003e00ee0>Você escolheria destruir todos os Remanescentes!?
+Mas Rush... Se fizer isso, então você...<1ae00000a4420fe002e001000be00ee0>
+Eu sei! Seria suicídio porquê...<1ae00000c8420fe005e001000ee01ae0000020410fe005e001000ee0>.. Eu também sou um Remanescente, não é mesmo?
+Mas... Eu tenho de detê-lo!
+Vocês todos fizeram muito por mim...<0fe003e00ee0>Não posso deixá-los morrer! Não mesmo!
+Dave... sinto muito! Acho que não vai<0fe003e00ee0>sobrar nenhum Remanescente depois disso...
+Mas... não se preocupe! As pessoas irão aprender<0fe003e00ee0>como viver sem nós!
+Sim. Não se preocupe, Rush!<0fe003e00ee0>Eu... Nós vamos dar um jeito!
 Rush!
-No!!!
+Não!!!
 

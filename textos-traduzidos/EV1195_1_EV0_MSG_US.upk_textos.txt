@@ -1,10 +1,10 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1195_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-I hear them... Crying out to me...<0fe003e00ee0>I have borne many accusations, but you...<1ae000808a430fe005e001000ee0>you are far more cruel! Just look at<0fe003e00ee0>the destruction you've wrought!
-How can you ignore their cries?<1ae0000005430fe005e001000ee0>The voices of my precious subordinates<0fe003e00ee0>that you so brutally slaughtered!?
-You seem to enjoy the cries of the weak.<1ae00000fa420fe005e001000ee0>I, Ludope the Vengeful, shall have you<0fe003e00ee0>make your own...as you writhe in agony!
-The tracking Remnant says something's here?
-Yes. I can feel it...
-Who's there?
+Consigo ouvi-los.... Ouço seus lamentos...<0fe003e00ee0>Não estou livre da culpa, mas vocês...<1ae000808a430fe005e001000ee0>vocês são muito mais cruéis!<0fe003e00ee0>Olhem só a destruição que vocês causaram!
+Como podem ignorar suas súplicas?<1ae0000005430fe005e001000ee0>Não escutam as vozes dos meus preciosos soldados,<0fe003e00ee0>que vocês assassinaram a sangue frio!?
+Vejo que gostam de ouvir o grito dos mais fracos.<1ae00000fa420fe005e001000ee0>Eu, Ludope o Vingador, mostrarei o que é gritar de<0fe003e00ee0>verdade... Enquanto vocês se retorcem de agonia!
+O Remanescente rastreador disse que há algo aqui?
+Sim. Eu posso sentir sua presença...
+Quem está aí?
 

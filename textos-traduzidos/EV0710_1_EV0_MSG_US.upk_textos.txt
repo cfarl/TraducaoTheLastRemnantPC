@@ -1,31 +1,31 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0710_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-He's coming!
-The Conqueror's on the move!
-What?
-Lord David!
-Emma, Pagus, Rush. We must leave now.
-What's going on? Where's Wilfred?
-Our meeting has been postponed.<0fe003e00ee0>The Conqueror is marching on Celapaleis.
-We've been called back as support. We'll<0fe003e00ee0>return to Athlum, then prepare for battle!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
+Ele está vindo!
+O Conquistador está avançando!
+O quê?
+Lorde David!
+Emma, Pagus, Rush. Devemos partir de imediato.
+O que está acontecendo? Onde está o Wilfred?
+Nossa reunião foi adiada.<0fe003e00ee0>O Conquistador está indo atacar Celapaleis.
+Fomos chamados para ajudar na defesa. Temos que<0fe003e00ee0>voltar a Athlum para nos preparar para a batalha!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
 Rush.
-Irina's here!?
-Apparently, she's in Duke Hermeien's<0fe003e00ee0>custody.
-I suppose you can rest easy, knowing<0fe003e00ee0>she's out of Wagram's hands.
-Wha<07f0>no! Why didn't you take her with you?
-Well, I didn't meet with her directly...<0fe003e00ee0>What's wrong?
-Irina<07f00fe003e00ee0>Irina's got Marion's Blessing!
-...And you think Lord Hermeien is aware<0fe003e00ee0>of this.
-Wait! Where are you going?
-I have to go save her!<0fe003e00ee0>I can't let him use her power!
-Calm down and think for a moment!<1ae0000070420fe005e001000ee0>How are you to save her if you don't<0fe003e00ee0>even know where to find her!?
-Rush, there is only one thing we can do<0fe003e00ee0>right now.
-We must stop this war before anyone has<0fe003e00ee0>a chance to use her power!
-I promise you we will come back for Irina.
-...Fine.
+Irina está aqui!?
+Pelo que parece, ela está sob a custódia<0fe003e00ee0>do duque Hermeien.
+Suponho que possa ficar tranquilo, agora que<0fe003e00ee0>sabe que ela não está nas mãos de Wagram.
+O quê... Não! Por que não trouxe ela com você?
+Bom, eu não a vi pessoalmente...<0fe003e00ee0>Qual é o problema?
+Irina...<0fe003e00ee0>Irina tem a benção de Marion!
+...E você acha que Lorde Hermeien<0fe003e00ee0>sabe disso?
+Espere! Onde você vai?
+Tenho que resgatá-la!<0fe003e00ee0>Não posso deixar que abusem de seu poder!
+Acalme-se e pense por um momento!<1ae0000070420fe005e001000ee0>Como vai resgatá-la se nem mesmo<0fe003e00ee0>sabe onde ela está!?
+Rush, há somente uma coisa que podemos<0fe003e00ee0>fazer agora...
+Temos de pôr fim nessa guerra antes que<0fe003e00ee0>alguém tenha a chance de usar seu poder!
+Eu prometo a você que voltaremos por Irina.
+...Tudo bem.
 

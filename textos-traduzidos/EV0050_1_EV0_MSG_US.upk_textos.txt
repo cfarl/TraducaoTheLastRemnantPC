@@ -2,40 +2,40 @@
 -- (Export 0) EV0050_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
 Irina!
-It's a package from Mom and Dad!
-Aw, it's probably just another lame excuse<0fe003e00ee0>why they can't leave their research.
-Hey, cheer up, Sis.
-Whoops.
-It's a visistone.
-Let me set it up.
+Chegou um pacote da mamãe e do papai!
+Ah, provavelmente é alguma outra desculpa<0fe003e00ee0>para seguirem trabalhando na sua pesquisa.
+Ei, se anime, irmãzinha.
+Ooops.
+É uma visipedra.
+Deixe-me fazê-la funcionar.
 Oh!
-Hi, Rush! Hello, Irina!<0fe003e00ee0>Are you two behaving yourselves?
-Both of us are having a great time here<0fe003e00ee0>at the Academy in Elysion.<1ae00000dc420fe005e001000ee0>And we were lucky enough to have<0fe003e00ee0>a breakthrough in our research...
-But, as you probably guessed, things are<0fe003e00ee0>taking longer than expected...
-See? Told you!
-So your father and I agreed that you should<0fe003e00ee0>come live with us in Elysion.
-It's always about what they want...
-What we've found is a key that lets us use<0fe003e00ee0>the Remnants in new ways.<1ae00000c8420fe005e001000ee0>It's gonna change the world for the better!
-But you kids are more important to us,<1ae00000aa420fe005e001000ee0>and I'm sorry we haven't been out<0fe003e00ee0>to visit for so long.
-Oh...
-John, we're running out of time<07f01ae0000070420fe002e001000be00ee0>
-Oh? Ah, right.
-We'll be sending someone to pick you up.
-Better start packing your bags!
-And Rush, you look after your sister,<0fe003e00ee0>alright?
-Take care of yourselves.
-We'll be seeing yo<07f01ae0000040420fe002e001000be002e0>
-Out of time... Dad's never been good<0fe003e00ee0>at keeping track.
-You worried about leaving?
-A little... I mean, I've never been off<0fe003e00ee0>the island before.
-Ah, I'll be fine!
-After all, we'll be back with Mom and Dad!
-You know it.
-What?
+Olá, Rush! Olá, Irina!<0fe003e00ee0>Como vocês estão se comportando?
+Nós dois estamos muito felizes aqui<0fe003e00ee0>na Academia de Elysion.<1ae00000dc420fe005e001000ee0>E tivemos a sorte de fazer<0fe003e00ee0>uma grande descoberta nas nossas pesquisas...
+Mas, como podem imaginar, as coisas estão<0fe003e00ee0>levando mais tempo que o esperado...
+Viu só? Eu te disse!
+Por isso seu pai e eu concordamos que vocês<0fe003e00ee0>deveriam vir morar conosco em Elysion.
+É sempre o que eles querem...
+Nossa descoberta vai permitir usar<0fe003e00ee0>os Remanescentes de uma forma nunca vista.<1ae00000c8420fe005e001000ee0>Isso vai fazer do mundo um lugar melhor!
+Mas vocês são o mais importante para nós,<1ae00000aa420fe005e001000ee0>e sinto muito por ter se passado tanto<0fe003e00ee0>tempo desde a última vez em que os visitamos.
+Ah...
+John, nosso tempo está acabando...<1ae0000070420fe002e001000be00ee0>
+Hã? Ah, claro.
+Vamos enviar alguém para buscá-los.
+É melhor começarem a fazer as malas!
+E Rush, cuide bem de sua irmã,<0fe003e00ee0>certo?
+Cuidem-se.
+Nos veremos muito em bre...<1ae0000040420fe002e001000be002e0>
+Acabou o tempo... Papai nunca foi bom<0fe003e00ee0>em ir direto ao ponto.
+Está preocupada por causa da viagem?
+Um pouco... Afinal de contas, nunca saí<0fe003e00ee0>dessa ilha antes.
+Ah... vou ficar bem!
+Além disso, estaremos juntos da mamãe e do papai!
+Isso mesmo.
+Mas o quê?
 Rush!!!
-Let me...go...
+Me sol...te...
 Rush!!!
-Aargh! Get your hands off me!
-No! Leave my brother alone!
-Ice him.
+Aargh! Tire as mãos de mim!
+Não! Deixem meu irmão em paz!
+Acabem com ele.
 

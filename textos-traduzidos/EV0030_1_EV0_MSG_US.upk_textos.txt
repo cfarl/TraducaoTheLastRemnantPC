@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0030_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Hey!
-Irina? Huh? Who are you?
-That's what I should be asking you!
-W-wait! Hold on!
+Ei!
+Irina? Hã? Quem é você?
+Isso é o que eu deveria estar perguntando a você!
+C-calma! Espere aí!
 

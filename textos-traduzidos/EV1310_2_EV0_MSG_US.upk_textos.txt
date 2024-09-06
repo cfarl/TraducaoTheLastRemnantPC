@@ -1,27 +1,27 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1310_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Feeling better?
-Mmm... Sorry for worrying you.
-Hey, don't sweat it.
-How is Irina?
-She's fine. Just exhausted from everything.
-I see.
-She wasn't to be mixed up in any of this.<0fe003e00ee0>I gave my word...
-Hey, this isn't your fault, Dave.<0fe003e00ee0>Irina did all this because she wanted to.
+Está se sentindo melhor?
+Mhm... Sinto muito por tê-lo deixado preocupado.
+Ei, não foi nada.
+Como está Irina?
+Ela está bem. Só está cansada depois de tudo.
+Entendo.
+Ela não deveria se envolver com nada isso.<0fe003e00ee0>Eu dei minha palavra...
+Ei, isso não é culpa sua, Dave.<0fe003e00ee0>Irina fez tudo isso porque quis.
 Rush!
-Mom?
-Irina... Irina's gone!
-By the time you get this, I'll be in Darken Forest.<0fe003e00ee0>There's something I need to find out.
-Please, don't worry about me<07f0>I'll be fine.<0fe003e00ee0>If things get too scary, I'll come right back, okay?
-How...how could she do such a foolish thing...
-People can't choose how they're born.<1ae00000c8420fe005e001000ee0>Coming into the world with Marion's Blessing<0fe003e00ee0>isn't a mandate to use it.
-Geez... She's always taking things<0fe003e00ee0>so seriously.
-Dave! I'm gonna go save Irina.
-I know that I can't really do much against <0fe003e00ee0>the Conqueror...<1ae00000b4420fe005e001000ee0>But I've left Irina behind before.<0fe003e00ee0>I'm not gonna do it again!
-I understand.
-However!
-I cannot allow you to go alone.<0fe003e00ee0>I'm coming with you.
-Thanks, Dave!
-Alright! Now that that's decided,<0fe003e00ee0>let's be off!
+Mãe?
+Irina... Irina se foi!
+Quando verem isso, já estarei na Floresta Negra.<0fe003e00ee0>Há algo que preciso comprovar.
+Por favor, não se preocupem comigo. Vou ficar bem.<0fe003e00ee0>Se a coisa ficar feia, voltarei correndo.
+Como... Como ela pôde fazer uma loucura dessas...?
+Ninguém pode escolher como vai nascer.<1ae00000c8420fe005e001000ee0>Vir ao mundo com a benção de Marion não<0fe003e00ee0>significa ter a obrigação de usá-la.
+Droga... Ela está sempre levando as coisas<0fe003e00ee0>muito a sério.
+Dave! Tenho que ir salvar Irina.
+Sei que não posso fazer muita coisa contra<0fe003e00ee0>o Conquistador...<1ae00000b4420fe005e001000ee0>Mas já deixei Irina para trás uma vez.<0fe003e00ee0>Não vou fazer isso de novo!
+Eu entendo.
+No entanto...
+Não posso permitir que vá sozinho.<0fe003e00ee0>Irei com você.
+Obrigado, Dave!
+Muito bem! Agora que está decidido,<0fe003e00ee0>vamos nessa!
 

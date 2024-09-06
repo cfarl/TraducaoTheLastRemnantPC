@@ -1,31 +1,31 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0300_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-That is all, Lord David.<0fe003e00ee0>I pray for your success.
-You're here.
-Who was that?
-Ah, ahem, yes. A messenger from Celapaleis.<0fe003e00ee0>Sent by the Duke of Qubine.
-He wanted to warn us about some<0fe003e00ee0>unidentified troops invading Blackdale.
-He believes they're troops from the Duke<0fe003e00ee0>of Ghor. We are to look into it immediately.
-But I thought Blackdale belonged<0fe003e00ee0>to Athlum.<1ae000008c420fe005e001000ee0>Why's this guy butting into your business?
-It was merely a request, not an order.
-And although we are allies, Athlum is<0fe003e00ee0>actually under the control of Celapaleis.<1ae000002c430fe005e001000ee0>We have little say.
+Isso é tudo, Lorde David.<0fe003e00ee0>Rogarei pelo seu sucesso.
+Aí está você.
+Quem era aquele?
+Ah, ahem, sim... Um mensageiro de Celapaleis.<0fe003e00ee0>Enviado pelo Duque de Qubine.
+Ele veio nos avisar que alguns soldados<0fe003e00ee0>não identificados invadiram Valenegro.
+Ele acredita que são tropas do Duque<0fe003e00ee0>de Ghor. Quer que investiguemos imediatamente.
+Mas eu pensei que Valenegro pertencesse<0fe003e00ee0>a Athlum.<1ae000008c420fe005e001000ee0>Por que esse sujeito está te dando ordens?
+Era apenas um pedido, não uma ordem.
+E apesar de sermos aliados, Athlum se<0fe003e00ee0>encontra sob o controle de Celapaleis.<1ae000002c430fe005e001000ee0>Nossa opinião não conta muito.
 Huh.
-So what do you need me for?
-You will be joining us in our investigation.
-Why's that?
+Então para que precisam de mim?
+Queremos que participe da investigação.
+E por quê?
 Pagus?
-According to the report,<0fe003e00ee0>the troops from Ghor that entered<1ae0000007430fe005e001000ee0>Blackdale were led by a mage dressed<0fe003e00ee0>in white.
-Not only that, but they were accompanied<0fe003e00ee0>by a flying Remnant.
-That sounds like someone we know.<0fe003e00ee0>Like those guys we saw at Dillmoor!
-We must make haste.<0fe003e00ee0>Prepare for departure at once.
-Wait, you're going?<0fe003e00ee0>Aren't you too important for this?
-I was requested to go as well.
-And if nothing else,<0fe003e00ee0>it should satisfy my curiosity.
-We are leaving for Blackdale immediately!<0fe003e00ee0>Is that clear?
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yes, ahem.
+De acordo com o relatório,<0fe003e00ee0>as tropas de Ghor que invadiram<1ae0000007430fe005e001000ee0>Valenegro estavam sob o comando de um mago<0fe003e00ee0>vestido de branco.
+E não só isso, eles estavam acompanhados<0fe003e00ee0>de um Remanescente voador...
+Isso me lembra alguém que conhecemos....<0fe003e00ee0>São os caras que vimos em Pantanoverde!
+Devemos nos apressar.<0fe003e00ee0>Preparem-se para partirmos imediatamente.
+Como, você está indo também?<0fe003e00ee0>Não é muito importante para isso?
+O Duque quer que eu vá também.
+Além disso, assim eu poderei satisfazer<0fe003e00ee0>minha curiosidade.
+Estamos partindo para Valenegro imediatamente!<0fe003e00ee0>Entendido?
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, ahem...
 

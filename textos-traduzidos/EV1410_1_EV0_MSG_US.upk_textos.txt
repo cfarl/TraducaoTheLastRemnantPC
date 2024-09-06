@@ -1,42 +1,42 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1410_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Th-the Conqueror! He's on the move!
-Headed where?
-To Elysion, sir!
-What does he want now?
-He may very well be trying to seize<0fe003e00ee0>the Sacred Lands.<1ae0000010430fe005e001000ee0>However, I am at a loss as to what purpose<0fe003e00ee0>that would fulfill...
-What of the other lords?
-Sir! The other lords have shown no sign<0fe003e00ee0>of movement!
-Although they object to the current situation,<0fe003e00ee0>none wish to be branded a traitor.
-You're right... No one dares oppose<0fe003e00ee0>the God Emperor. Dammit!
-Lord David.
-Man, you guys are useless!<1ae0000054420fe005e001000ee0>Dave, I can go straighten things out<0fe003e00ee0>with the Conqueror if you want.
-I'm not originally from Athlum, so you<0fe003e00ee0>shouldn't take any heat from what I do, right?
-Please tell me you're joking.
-I'm totally serious. I mean, I know<0fe003e00ee0>it won't be easy.
-But I have my talisman,<0fe003e00ee0>so if I play my cards right...
-This is lunacy. You must be joking.
-Dave. I can't tell you how much I<0fe003e00ee0>appreciate what you've done for me.
-If it weren't for you,<0fe003e00ee0>Irina would probably still be kidnapped.<1ae00000ac420fe005e001000ee0>And Mom and Dad would probably<0fe003e00ee0>be in big trouble, too.
-Well...
-It's time I paid you back for everything<0fe003e00ee0>you've done for me.
-Wait!
-Sis, this time I can't take you with me.<0fe003e00ee0>Be good, okay? I'll be back.<1ae0000047430fe005e001000ee0>You know I will.
-...I'm an idiot!<0fe003e00ee0>What am I doing sitting here?
-Rush, you're right. If we leave the Conqueror<0fe003e00ee0>to do as he pleases, it may not matter whether<1ae0000034430fe005e001000ee0>the God Emperor considers us traitors.<0fe003e00ee0>We may be faced with a fate much worse.
-Wagram may have been able to accept this,<1ae00000a0420fe005e001000ee0>but that does not mean<0fe003e00ee0>we have to sit back and do the same!
+O Conquistador! Ele se colocou em marcha!
+Para onde?
+Para Elysion, senhor!
+E o que ele quer agora?
+Não me espantaria se ele estivesse tentando<0fe003e00ee0>se apoderar das Terras Sagradas.<1ae0000010430fe005e001000ee0>O que não sei, no entanto,<0fe003e00ee0>é qual seria o seu propósito...
+E o que fizeram os demais lordes?
+Senhor! Os outros lordes não fizeram<0fe003e00ee0>movimento algum!
+Ainda que não gostem dessa situação,<0fe003e00ee0>ninguém quer ser considerado traidor.
+Tem razão... Ninguém se atreve a<0fe003e00ee0>enfrentar o Imperador. Maldito seja!
+Lorde David.
+Nossa, vocês são mesmo uns inúteis!<1ae0000054420fe005e001000ee0>Dave, eu poderia ir resolver esse assunto<0fe003e00ee0>com o Conquistador, se você quiser.
+Como não sou de Athlum, não poderiam<0fe003e00ee0>culpá-lo pelo que eu fizer, certo?
+Por favor, me diga que está de brincadeira.
+Estou falando sério. Quer dizer, eu sei<0fe003e00ee0>que não vai ser fácil.
+Mas eu tenho meu talismã,<0fe003e00ee0>e se eu jogar bem com minhas cartas...
+Isso é loucura. Você só pode estar brincando.
+Dave. Não sei como agradecer<0fe003e00ee0>por tudo que você fez por mim.
+Se não fosse por você,<0fe003e00ee0>Irina provavelmente ainda estaria sequestrada.<1ae00000ac420fe005e001000ee0>E papai e mamãe provavelmente estariam<0fe003e00ee0>metidos em um tremendo problema, também.
+Bem...
+É hora de pagar por tudo<0fe003e00ee0>que você fez por mim.
+Espere!
+Irmãzinha, dessa vez não posso levá-la comigo.<0fe003e00ee0>Se cuide, tá? Voltarei logo.<1ae0000047430fe005e001000ee0>Você sabe que voltarei.
+...Sou um idiota!<0fe003e00ee0>O que estou fazendo aqui sentado?
+Rush, você tem razão. Se deixarmos o Conquistador<0fe003e00ee0>fazer o que quiser, não vai fazer diferença<1ae0000034430fe005e001000ee0>se o Imperador nos declarar traidores.<0fe003e00ee0>Poderíamos esperar um destino muito pior.
+Wagram pode ter aceitado isso,<1ae00000a0420fe005e001000ee0>mas isso não significa<0fe003e00ee0>que tenhamos de fazer o mesmo!
 Dave...
-The consequences can be dealt with later.<0fe003e00ee0>We must do whatever is necessary to protect<1ae000000e430fe005e001000ee0>our world from the forces which oppose us.
-I command you as Lord David Nassau,<0fe003e00ee0>Marquis of Athlum!<1ae00000dc420fe005e001000ee0>All troops are to head to Elysion immediately!<0fe003e00ee0>We will fight the Conqueror!
-If you do not wish to participate,<0fe003e00ee0>flee Athlum now.<1ae00000a0420fe005e001000ee0>Stay only if this holds purpose to you.
-You really are a fool if you think anyone<0fe003e00ee0>here will abandon you at this crucial time.
-Yeah! We fear nothing and nobody!
-If His Excellency is to find out,<0fe003e00ee0>we can think of a cover story if need be.
-Lord David! Let's go!
-Thank you, everyone...
-For the honor of Athlum!
-Yes, my lord!
-I'm invited too, right?
-...Yeah.
+Podemos lidar com as consequências mais tarde.<0fe003e00ee0>Precisamos fazer o que for necessário para<1ae000000e430fe005e001000ee0>proteger o mundo de nossos inimigos.
+Eu me dirijo a vocês como Lorde David Nassau,<0fe003e00ee0>Marquês de Athlum!<1ae00000dc420fe005e001000ee0>Que todas as tropas se dirijam imediatamente para<0fe003e00ee0>Elysion! Nós vamos enfrentar o Conquistador!
+E quem não quiser participar,<0fe003e00ee0>que abandone Athlum imediatamente.<1ae00000a0420fe005e001000ee0>Que fique apenas quem concordar com essa decisão.
+Você é mesmo um tolo se acha que alguém<0fe003e00ee0>aqui iria abandoná-lo nessa hora crucial.
+Isso! Não tememos nada nem ninguém!
+Se Sua Excelência nos descobrir,<0fe003e00ee0>pensaremos em alguma desculpa.
+Lorde David! Vamos lá!
+Obrigado, a todos vocês...
+Pela honra de Athlum!
+Sim, milorde!
+Eu também estou convidada, não estou?
+...Sim.
 

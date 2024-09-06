@@ -1,13 +1,13 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1000_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Thus, half a year passed.<0fe003e00ee0>After taking control of the Congress,<1ae0000026430fe005e001000ee0>the newly appointed Chairman Ghor deemed<0fe003e00ee0>Lord Wilfred Hermeien a casualty of war.
-The official story was that after<0fe003e00ee0>the Conqueror killed Hermeien,<1ae00000fe420fe005e001000ee0>the Conqueror's forces were destroyed<0fe003e00ee0>in the subsequent fighting.<1ae00000e6420fe005e001000ee0>Without an army to fight, the war was over.
-However, the scars left from the war<0fe003e00ee0>had cut deeper than we'd thought.
-Violence erupted around the world,<0fe003e00ee0>and the Lords,<1ae00000dc420fe005e001000ee0>frustrated from the abundance of futile efforts,<0fe003e00ee0>devised the ultimate plan.
-The Remnants' powers were to be used to<0fe003e00ee0>suppress the violence.<1ae0000007430fe005e001000ee0>Suddenly, the Remnants meant to protect<0fe003e00ee0>the people were being used against them.
-However, the Duke of Ghor did not accept this. <1ae00000b4420fe005e001000ee0>The people had placed their trust in the Congress,<03e0>he said, and it was their duty to repay that trust.
-Thanks to Chairman Ghor's efforts,<0fe003e00ee0>things finally began to change.<1ae000001b430fe005e001000ee0>He declared that we had to uncover<0fe003e00ee0>new Remnants<07f0>something for the people<1ae000000c430fe005e001000ee0>to put their trust into.
-The Congress spread his message to<0fe003e00ee0>the people.<1ae0000016430fe005e001000ee0>Their hearts were moved, and<0fe003e00ee0>the violence subsided.
-A new age was dawning...one without<0fe003e00ee0>the horrors of war.<1ae0000028430fe005e001000ee0>At least, that's what we all believed...
+E assim, seis meses se passaram.<0fe003e00ee0>Depois de assumir a presidência do Conselho,<1ae0000026430fe005e001000ee0>o recém nomeado Presidente Ghor anunciou que<0fe003e00ee0>Lorde Wilfred Hermeien havia sido morto na guerra.
+Segundo a versão oficial, depois<0fe003e00ee0>que o Conquistador acabou com Hermeien,<1ae00000fe420fe005e001000ee0>suas forças foram destruídas<0fe003e00ee0>na batalha subsequente.<1ae00000e6420fe005e001000ee0>Sem um inimigo para lutar, a guerra chegou ao fim.
+No entanto, as cicatrizes deixadas pela guerra<0fe003e00ee0>foram mais profundas que imaginávamos.
+A violência irrompeu pelo mundo,<0fe003e00ee0>e os Lordes,<1ae00000dc420fe005e001000ee0>frustrados com seus esforços inúteis,<0fe003e00ee0>elaboraram um plano derradeiro.
+Os poderes dos Remanescentes seriam usados<0fe003e00ee0>para pôr fim à violência.<1ae0000007430fe005e001000ee0>Assim, os Remanescentes que deveriam proteger<0fe003e00ee0>as pessoas estavam sendo usados contra elas.
+Mas o duque de Ghor se negou a aceitar esse plano.<1ae00000b4420fe005e001000ee0>O povo havia depositado sua confiança no Conselho,<03e0>disse ele, e seu dever era valer essa confiança.
+Graças aos esforços do Presidente Ghor,<0fe003e00ee0>as coisas finalmente começaram a mudar.<1ae000001b430fe005e001000ee0>Ele declarou que novos Remanescentes deveriam ser<0fe003e00ee0>descobertos, para que o povo pudesse<1ae000000c430fe005e001000ee0>depositar neles suas esperanças.
+Quando o Conselho transmitiu essa<0fe003e00ee0>mensagem às pessoas<1ae0000016430fe005e001000ee0>elas se sentiram comovidas,<0fe003e00ee0>e os ânimos se apaziguaram.
+Era o começo de uma nova era...<0fe003e00ee0>uma sem os horrores da guerra.<1ae0000028430fe005e001000ee0>Ou pelo menos, era o que acreditávamos...
 

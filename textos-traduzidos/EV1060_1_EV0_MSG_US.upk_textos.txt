@@ -1,23 +1,23 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1060_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-What's going on?
-It looks like the tracking Remnant has<0fe003e00ee0>already arrived.
-So this is the Remnant...<0fe003e00ee0>When will we be able to put it to use?
-Right away.
-I assume the lights represent the general<0fe003e00ee0>locations of Remnants.
-Yes. Right now, it's set to search only<0fe003e00ee0>the Athlum area.
-This light, here, must be the Gae Bolg.
-That would be the case.
-With a little more time, we can expand<0fe003e00ee0>the detection range to the entire world.<1ae0000020430fe005e001000ee0>We can't pinpoint the exact location of<0fe003e00ee0>each Remnant,<1ae00000c8420fe005e001000ee0>but we can get a general idea of where they're located.
-You have done more than enough.<0fe003e00ee0>I am grateful for your assistance in this matter.
-It's my pleasure. Although we'll need a little<0fe003e00ee0>more time to work out the kinks.
-About what you mentioned earlier...<1ae0000064420fe005e001000ee0>I think we can specify the range<0fe003e00ee0>if we change this thing here...
-Hey, Sis. Didn't expect to find you here.
-I heard they needed all the help they can get,<0fe003e00ee0>so I decided to make myself useful.
-Don't be stupid.<0fe003e00ee0>Just stay away from Remnants, okay?<1ae00000a6420fe005e001000ee0>You're like a danger-magnet when you're<0fe003e00ee0>near them!
-But there's a reason I'm doing this.<0fe003e00ee0>You have to trust me, Rush.
-You don't know what I went through when<0fe003e00ee0>you were gone.<1ae000008c420fe005e001000ee0>I can't go through that again!<0fe003e00ee0>I won't!
-Rush, calm down.
-Hey!
+O que está acontecendo?
+Parece que o Remanescente rastreador<0fe003e00ee0>chegou.
+Então esse é o Remanescente...<0fe003e00ee0>Quando poderemos colocá-lo para funcionar?
+Agora mesmo.
+Suponho que essas luzes indicam a<0fe003e00ee0>localização aproximada dos Remanescentes.
+Sim. Nesse momento ele está configurado para<0fe003e00ee0>rastrear somente a região de Athlum.
+Essa luz, aqui, deve ser o Gae Bolg.
+Parece que sim.
+Com um pouco mais de tempo, conseguiremos ampliar<0fe003e00ee0>seu alcance para cobrir o mundo inteiro.<1ae0000020430fe005e001000ee0>Não podemos apontar a localização exata<0fe003e00ee0>de cada Remanescente, mas podemos<1ae00000c8420fe005e001000ee0>ter uma boa ideia de onde eles se encontram.
+Você fez mais do que o suficiente.<0fe003e00ee0>Sou muito grato pela sua ajuda.
+Foi um prazer. No entanto, vamos precisar de<0fe003e00ee0>um pouco mais de tempo para fazer alguns ajustes.
+Voltando ao que você disse antes...<1ae0000064420fe005e001000ee0>Acho que poderíamos ajustar<0fe003e00ee0>o alcance se mudarmos isso aqui...
+Ei, irmãzinha. Não esperava te ver por aqui.
+Ouvi dizer que precisavam de toda ajuda possível,<0fe003e00ee0>por isso vim ver se poderia ajudar também.
+Não seja estúpida.<0fe003e00ee0>Apenas fique longe dos Remanescentes, ok?<1ae00000a6420fe005e001000ee0>Você é um perigo quando está<0fe003e00ee0>perto deles!
+Mas tenho minhas razões para estar fazendo isso.<0fe003e00ee0>Você precisa confiar em mim, Rush.
+Você não sabe o que passei quando<0fe003e00ee0>desapareceu.<1ae000008c420fe005e001000ee0>Não posso passar por aquilo outra vez!<0fe003e00ee0>Sem chance!
+Rush, acalme-se.
+Ei!
 

@@ -1,35 +1,35 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0630_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-This is just like back then...<1ae0000048420fe005e001000ee0>You coming from nowhere, and somehow<0fe003e00ee0>stopping those monsters...and saving my life.
-I need some fresh air.
-Your father...
-He won't wake up.<1ae0000048420fe005e001000ee0>Dave said that only Wagram has<0fe003e00ee0>the power to bring him out of it.
-Mom.
-Me and Irina<07f0>we've both got the power<0fe003e00ee0>to call out to Remnants.
-All of this is happening because of<0fe003e00ee0>our powers, right?<1ae00000c8420fe005e001000ee01ae0000048420fe005e001000ee0>I need to know!
-What are we?<0fe003e00ee0>And what does that make you?
-I was an orphan.<1ae00000a8420fe005e001000ee01ae000008c420fe005e001000ee0>The director of the Academy<03e0>took me in when I was a child.
-To return the favor, I joined the Academy<0fe003e00ee0>and dedicated my life to their research.
-That's where I learned the truth<0fe003e00ee0>about who I was.
-You might have heard of Marion Marshall.<0fe003e00ee01ae00000dc420fe005e001000ee0>She was the woman who bound the Remnant<03e0>Elysion to herself, and wed the God Emperor.
-The power she held was extraordinary<07f00fe003e00ee01ae00000c8420fe005e001000ee0>the power to erase the bindings of<03e0>Remnants and replace them with her own.
-Inside me rests that same, terrible power.
-For I...<0fe003e00ee0>I possess Marion's Blessing...as does Irina.
-I didn't know about it until after<0fe003e00ee0>Irina was born. Oh, if only I'd known!<1ae0000048430fe005e001000ee0>To think, such terrible things are<0fe003e00ee0>happening to her, all because of me...
-Mom...
-You met Dad, I came along and then with<0fe003e00ee0>Irina, the four of us became a family.<1ae0000020430fe005e001000ee0>Were you... Were you happy with that?
-I have never regretted having a family.<0fe003e00ee0>And I never will.<1ae0000034430fe005e001000ee0>The three of you are what<0fe003e00ee0>make up my happiness.
-Then there's only one thing we can do.<0fe003e00ee0>We can get that back and be a family again!
-They want Marion's Blessing for themselves, right?<1ae0000096420fe005e001000ee0>Then they're not gonna hurt Irina.<0fe003e00ee0>We've still got a chance to save her!
+Foi como da última vez...<1ae0000048420fe005e001000ee0>Você apareceu do nada, e de alguma maneira deteve<0fe003e00ee0>os monstros... e salvou minha vida.
+Preciso tomar um pouco de ar.
+Seu pai...
+Ele não vai acordar.<1ae0000048420fe005e001000ee0>Dave disse que só Wagram tem<0fe003e00ee0>o poder de tirá-lo do coma.
+Mãe...
+Eu e Irina... Nós dois temos o poder de nos<0fe003e00ee0>comunicarmos com os Remanescentes.
+Tudo isso está acontecendo por causa dos<0fe003e00ee0>nossos poderes, certo?<1ae00000c8420fe005e001000ee01ae0000048420fe005e001000ee0>Eu preciso saber!
+O que nós somos?<0fe003e00ee0>E quem é você, de verdade?
+Eu perdi meus pais quando era criança.<1ae00000a8420fe005e001000ee01ae000008c420fe005e001000ee0>O diretor da Academia<03e0>me acolheu quando era pequena...
+Para retribuir o favor, me juntei à Academia<0fe003e00ee0>e dediquei minha vida à sua pesquisa.
+Foi aí que descobri a verdade<0fe003e00ee0>sobre minha verdadeira identidade.
+Você deve ter ouvido falar de Marion Marshall.<0fe003e00ee01ae00000dc420fe005e001000ee0>Ela foi a mulher que forjou um vínculo com o<03e0>Remanescente de Elysion, e casou com o Imperador.
+O poder que ela tinha era extraordinário...<0fe003e00ee01ae00000c8420fe005e001000ee0>Era capaz de desfazer os vínculos dos<03e0>Remanescentes e substituí-los pelos seus.
+Dentro de mim repousa esse mesmo terrível poder.
+Porque eu...<0fe003e00ee0>Eu possuo a benção de Marion... assim como Irina.
+Eu não sabia disso até Irina nascer.<0fe003e00ee0>Ah, se eu soubesse antes!<1ae0000048430fe005e001000ee0>E pensar que tantas coisas terríveis estão<0fe003e00ee0>acontecendo com ela, e tudo por minha culpa...
+Mãe...
+Você conheceu o papai, então eu nasci e depois<0fe003e00ee0>Irina, nós quatro formamos uma família.<1ae0000020430fe005e001000ee0>Era isso... Era isso o que você queria, não era?
+Eu nunca me arrependi por ter tido uma família.<0fe003e00ee0>E nunca me arrependerei.<1ae0000034430fe005e001000ee0>Vocês três são a alegria<0fe003e00ee0>da minha vida.
+Então só nos resta uma coisa a fazer...<0fe003e00ee0>Trazê-los de volta e voltarmos a ser uma família!
+Eles querem a benção de Marion, certo?<1ae0000096420fe005e001000ee0>Então não irão machucar Irina.<0fe003e00ee0>Ainda temos uma chance de salvá-la!
 Rush...
-Thank you. I know what I have to do now.<1ae00000c8420fe005e001000ee01ae0000070420fe005e001000ee0>Here.
-I made it using the tablet. When you find<0fe003e00ee0>Irina, I want you to give her this for me.
-But what are you gonna do, Mom?
-For now, you should just concentrate on<0fe003e00ee0>finding Irina.
-Rush... Please, do as I say.
-Mom...?
-Where has she run off to now?<0fe003e00ee0>Her actions make no sense.<1ae000000c430fe005e001000ee0>Instead of acting on her own, she should<0fe003e00ee0>have come with us to Athlum and explained<1ae0000016430fe005e001000ee0>everything to Lord David.
-I don't get it either. But...<0fe003e00ee0>Don't talk bad about my mom.<1ae0000005430fe005e001000ee0>I'm sure she knows what she's doing.
-...Fair enough. But you can do<0fe003e00ee0>the explaining to Lord David.
+Obrigado. Agora sei o que tenho de fazer.<1ae00000c8420fe005e001000ee01ae0000070420fe005e001000ee0>Pegue...
+Eu fiz isso usando a tabuleta. Quando encontrar<0fe003e00ee0>Irina, quero que dê isso a ela de minha parte.
+Mas o que você vai fazer, mãe?
+Por agora, apenas se concentre em<0fe003e00ee0>encontrar Irina.
+Rush.... Por favor, faça o que digo.
+Mãe...?
+Para onde ela foi dessa vez?<0fe003e00ee0>Não sei o que se passa na sua cabeça.<1ae000000c430fe005e001000ee0>Ao invés de agir por conta própria ela<0fe003e00ee0>devia vir conosco para Athlum e<1ae0000016430fe005e001000ee0>explicar tudo para Lorde David.
+Também não entendo. Mas...<0fe003e00ee0>Não a leve mal.<1ae0000005430fe005e001000ee0>Tenho certeza que ela sabe o que está fazendo.
+Muito bem... Mas você terá que<0fe003e00ee0>explicar isso para Lorde David.
 

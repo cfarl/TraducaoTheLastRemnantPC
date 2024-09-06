@@ -1,28 +1,28 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1380_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-I come as acting chairman of the Congress:<0fe003e00ee0>Marquis David Nassau of Athlum.<1ae000001b430fe005e001000ee0>I am honored to be here in Your Excellency's<0fe003e00ee0>presence.
-Today is truly a memorable day for the people<0fe003e00ee0>of Athlum, as there is no greater glory than<1ae00000f0420fe005e001000ee0>receiving the opportunity for an audience<0fe003e00ee0>with Your Excellency...
-Enough.
-Your Excellency?
-Enough empty formalities, Marquis.<0fe003e00ee0>They are ever so impersonal.
-Peasant or vassal, we treat all as equals.<0fe003e00ee0>Such deference is unnecessary.
-Would you not agree?
-Whatever pleases His Excellency.
-What a weirdo.
-Marquis of Athlum.<1ae000007c420fe005e001000ee0>We have heard of your many achievements.<0fe003e00ee0>To accomplish so much at such a young age<1ae0000034430fe005e001000ee0>is quite impressive. Surely your father<0fe003e00ee0>looks down on you with pride.
-Oh, er... You are too kind.
-Your Excellency! I come bearing a question.
-Concerns about the Conqueror?
-Tis a tricky topic. Though we would like nothing more<0fe003e00ee0>than to satisfy your desire for enlightenment...
-The Conqueror's actions are destroying the world's<0fe003e00ee0>balance. Without question, he must be stopped!<1ae0000034430fe005e001000ee0>Please, you must tell us what you know!
-Destroying the balance of the world,<0fe003e00ee0>you say? A frightening man indeed.
-Your Excellency! Were you not the one who<0fe003e00ee0>bestowed power upon this man?<1ae00000f0420fe005e001000ee0>What were your intentions?
-But a mere child you are, Marquis. <0fe003e00ee0>You see naught but what's before your face.
-You are Irina Sykes?
-Y-yes!
-Then, you are she who bears the blood of Marshall?<1ae00000f2420fe005e001000ee0>The Lady Marion's beauty lies within.
-Marquis. In deference to the blood of our ancient<0fe003e00ee0>consort, the Conqueror's secrets we will reveal.
-However...
-Make certain you have the courage to proceed!
+Venho como Presidente em exercício do Conselho:<0fe003e00ee0>Marquês David Nassau de Athlum.<1ae000001b430fe005e001000ee0>É uma grande honra para mim estar aqui, diante de<0fe003e00ee0>Vossa Excelência.
+Hoje é um dia memorável para o povo<0fe003e00ee0>de Athlum, pois não existe maior glória que<1ae00000f0420fe005e001000ee0>ter a oportunidade de comparecer a<0fe003e00ee0>uma audiência com Vossa Excelência...
+Já é suficiente.
+Vossa Excelência?
+Basta de formalidades, Marquês.<0fe003e00ee0>Elas são muito... impessoais.
+Vassalo ou camponês, aqui tratamos todos<0fe003e00ee0>como iguais. Não é preciso tanta cortesia.
+Você não concorda?
+Como preferir Vossa Excelência.
+Que sujeito mais estranho.
+Marquês de Athlum.<1ae000007c420fe005e001000ee0>Ouvimos falar de suas façanhas.<0fe003e00ee0>Realizar tantas proezas na sua idade é algo<1ae0000034430fe005e001000ee0>realmente impressionante. Sem dúvida, seu pai<0fe003e00ee0>ficaria orgulhoso de você.
+Oh, er... é muita gentileza da sua parte.
+Vossa Excelência! Venho fazer-lhe uma pergunta.
+Ela diz respeito ao Conquistador?
+Esse é um assunto delicado. Ainda que gostaríamos<0fe003e00ee0>de satisfazer vossa sede de conhecimento...
+As ações do Conquistador estão destruindo a<0fe003e00ee0>estabilidade do mundo. Ele precisa ser detido!<1ae0000034430fe005e001000ee0>Por favor, diga-nos o que sabe!
+Destruindo a estabilidade do mundo,<0fe003e00ee0>você diz? Ele é um homem assustador, sem dúvida.
+Vossa Excelência! Não foi você quem<0fe003e00ee0>concedeu a esse homem seus poderes?<1ae00000f0420fe005e001000ee0>Quais foram suas intenções?
+Você parece uma criança, Marquês.<0fe003e00ee0>Não consegue ver o que está diante do seu rosto.
+Você é Irina Sykes?
+S-sim!
+Então é você aquela que leva o sangue de Marshall?<1ae00000f2420fe005e001000ee0>Você herdou a beleza de Lady Marion.
+Marquês. Em respeito ao sangue da nossa antiga<0fe003e00ee0>consorte, revelarei os segredos do Conquistador.
+No entanto...
+Certifique-se de ter coragem antes de continuar!
 

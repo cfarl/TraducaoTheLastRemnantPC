@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1550_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-What will you do now?
-What do you think?
-I'm going back.<0fe003e00ee0>They're waiting for me.
+O que você pensa em fazer agora?
+O que você acha?
+Eu vou voltar.<0fe003e00ee0>Eles estão me esperando.
 

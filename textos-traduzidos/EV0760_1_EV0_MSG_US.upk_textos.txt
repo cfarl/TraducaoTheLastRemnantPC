@@ -2,36 +2,36 @@
 -- (Export 0) EV0760_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
 Rush...
-Mom...
-If it weren't for that tablet...
+Mãe...
+Tudo por culpa daquela tabuleta...
 Emma...
-We can't locate Lord David,<0fe003e00ee0>nor can we find Emma's sword...
-Lord David lost his mother when he was<0fe003e00ee0>just a child.<1ae000000f430fe005e001000ee0>Emma was a mother figure to him.<0fe003e00ee0>It's improbable, but...
-I'll find him.
-This was my mother's garden.<1ae00000a0420fe005e001000ee0>My father burned it when she died.<1ae00000b4420fe005e001000ee0>But...Emma gave it new life.
-From the day I was bound to a Remnant,<0fe003e00ee0>I felt nothing but hatred for the world.<1ae000003f430fe005e001000ee0>But through these flowers, Emma reminded<0fe003e00ee0>me of the good still left in all of us.
-So...
-Duke Hermeien could announce his decision<0fe003e00ee0>to vanquish the Conqueror at any minute.<1ae000001b430fe005e001000ee0>The Lords are sure to gather their<0fe003e00ee0>Remnants and fight by his side.
-That will finish off the Conqueror.
-Dave. Something's been bugging me.
-The Conqueror used Mom's tablet to change<0fe003e00ee0>the Valeria Heart into a talisman.<1ae0000002430fe005e001000ee0>But I thought Wagram had the tablet.
-How can that be?
-This is the doing of one man. A man using<0fe003e00ee0>Wagram as a pawn in his twisted game.
-At the same time, he manipulates<0fe003e00ee0>the Conqueror into sparking a war,<1ae0000012430fe005e001000ee0>for no other reason than to demonstrate<0fe003e00ee0>the horrors Remnants are capable of.<1ae0000002430fe005e001000ee0>Once a world war erupts,<0fe003e00ee0>the people will no longer believe<1ae00000fa420fe005e001000ee0>the Lords fit to control the Remnants.
-If the descendant of Marion Marshall were<0fe003e00ee0>to appear after all that, she would easily<1ae0000025430fe005e001000ee0>be given control of all the Remnants...<1ae000005c420fe005e001000ee0>With Irina by his side, he'll reign as<0fe003e00ee0>the new God Emperor.
-By he you mean...?
-The Chairman of the Congress<07f00fe003e00ee0>Duke Wilfred Hermeien.
-It all makes sense now.
-Lord David, I know this is a selfish request<0fe003e00ee0>to make at a time like this.<1ae0000034430fe005e001000ee0>But you must save my daughter!
-I have already promised Rush that Irina<0fe003e00ee0>will not be a pawn in this war.<1ae0000017430fe005e001000ee0>Please, get up.
-Thank you... Thank you so much!
-Young master!
-Calm down. I am alright.
-Lord David.
-Emma Honeywell the Second has returned to Athlum!<1ae00000f0420fe005e001000ee0>Lord David, your orders!
-Serve me, as did your mother before you.
-Yes, my lord!
-What now, Dave?
-Our true foes await us in Nagapur.<1ae0000070420fe005e001000ee0>I will take along only a few men to<0fe003e00ee0>avoid detection.<1ae000000c430fe005e001000ee0>We will attack when the time is right.<0fe003e00ee0>We shall avenge her death!
-Enough is enough, Dave!<0fe003e00ee0>I'm ready to end this!<1ae00000b4420fe005e001000ee0>Irina, I'm coming!
+Não conseguimos encontrar Lorde David,<0fe003e00ee0>nem a espada de Emma...
+Lorde David perdeu sua mãe quando<0fe003e00ee0>ainda era bem pequeno.<1ae000000f430fe005e001000ee0>Emma era como uma mãe para ele.<0fe003e00ee0>É pouco provável, mas...
+Eu vou encontrá-lo.
+Esse era o jardim da minha mãe.<1ae00000a0420fe005e001000ee0>Meu pai decidiu queimá-lo quando ela morreu.<1ae00000b4420fe005e001000ee0>Mas... Emma deu a ele uma nova vida.
+Desde o dia em que me vinculei a um Remanescente,<0fe003e00ee0>não senti nada além de ódio pelo mundo.<1ae000003f430fe005e001000ee0>Mas, com essas flores, Emma me fez lembrar<0fe003e00ee0>que o bem ainda existe dentro de cada um de nós.
+Então...
+Duque Hermeien deve anunciar sua decisão<0fe003e00ee0>de enfrentar o Conquistador a qualquer minuto.<1ae000001b430fe005e001000ee0>Os Lordes certamente reunirão seus<0fe003e00ee0>Remanescentes para lutar ao seu lado.
+Esse será o fim do Conquistador.
+Dave. Tem uma coisa me incomodando.
+O Conquistador usou a tabuleta da minha mãe para<0fe003e00ee0>transformar o Coração Valente em um talismã.<1ae0000002430fe005e001000ee0>Mas eu pensei que Wagram estava com a tabuleta...
+Como isso é possível?
+Isso é obra de um só homem. Um homem que está<0fe003e00ee0>usando Wagram como peão em seu jogo sórdido.
+Ao mesmo tempo ele está manipulando<0fe003e00ee0>o Conquistador para desencadear uma guerra,<1ae0000012430fe005e001000ee0>e tudo isso para demonstrar as atrocidades<0fe003e00ee0>que podem ser causadas pelos Remanescentes.<1ae0000002430fe005e001000ee0>Quando a guerra assolar o mundo,<0fe003e00ee0>as pessoas não irão mais acreditar que os Lordes<1ae00000fa420fe005e001000ee0>têm a capacidade de controlar os Remanescentes.
+Se nesse momento aparecesse uma descendente de<0fe003e00ee0>Marion Marshall, as pessoas sem dúvida confiariam<1ae0000025430fe005e001000ee0>a ela o controle de todos os Remanescentes...<1ae000005c420fe005e001000ee0>E tendo Irina ao seu lado, ele se tornaria<0fe003e00ee0>o novo Imperador Celestial.
+E você está se referindo a...?
+Ao Presidente do Conselho<0fe003e00ee0>Duque Wilfred Hermeien.
+Tudo faz sentido agora.
+Lorde David, sei que esse não é o momento<0fe003e00ee0>para se fazer pedidos egoístas...<1ae0000034430fe005e001000ee0>Mas você precisa salvar minha filha!
+Eu já havia prometido ao Rush que Irina<0fe003e00ee0>não seria um peão nessa guerra.<1ae0000017430fe005e001000ee0>Por favor, levante-se.
+Obrigada... Muitíssimo obrigada!
+Jovem mestre!
+Acalme-se. Eu estou bem.
+Lorde David.
+Emma Honeywell, a Segunda, retornou para Athlum!<1ae00000f0420fe005e001000ee0>Lorde David, às suas ordens!
+Sirva-me, como fez sua mãe antes de você.
+Sim, milorde!
+E agora, Dave?
+Nosso inimigo nos aguarda em Nagapur.<1ae0000070420fe005e001000ee0>Levarei somente alguns homens<0fe003e00ee0>para evitar de sermos detectados.<1ae000000c430fe005e001000ee0>Atacaremos quando chegar a hora certa.<0fe003e00ee0>E vingaremos a morte de Emma!
+Assim é que se fala, Dave!<0fe003e00ee0>Vamos colocar um fim nessa história!<1ae00000b4420fe005e001000ee0>Irina, estou indo...
 

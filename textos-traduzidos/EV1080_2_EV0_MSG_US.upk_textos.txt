@@ -1,28 +1,28 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1080_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-So it's impossible to track all existing Remnants...
-For the moment, yes.<1ae0000070420fe005e001000ee0>But if we adjust this, right here,<0fe003e00ee0>I think we can increase the accuracy...
-This way, we might be able to find Remnants<0fe003e00ee0>that no one else has discovered yet.
-You may be on to something...<0fe003e00ee0>It's definitely worth a try.
-Great!
-She's a bright young lady.
-Is wittle Rush in a bad mood?
-You miss having her need you, don't you?
-Whatever.
-Who knows what Remnants could be hiding<0fe003e00ee0>under our noses?<1ae00000ce420fe005e001000ee0>They can look like anything<07f0>maybe even<0fe003e00ee0>a mitra.
-You have quite an imagination!
-The meeting over already?
-It was canceled. The lords of Melphina,<0fe003e00ee0>Balterossa, Royotia, and Celapaleis...<1ae0000048430fe005e001000ee0>None were present.
-This cannot be a coincidence.
-We have been asked to find out where<0fe003e00ee0>they are and why.
-The Duke of Ghor sure is a slave-driver.
-We must leave immediately.<0fe003e00ee0>As for you, Miss Irina...
-I'll go too!
-But, that... Well...
-Mr. David, I beg of you. There has to be<0fe003e00ee0>something I can do to help.
-And...I don't want to be scared of<0fe003e00ee0>my power for the rest of my life.
-Alright. You may accompany us.<0fe003e00ee0>Emmy, I place you in charge of her.<1ae0000052430fe005e001000ee0>Teach her a few things about self-defense.
-Yes, my lord!
-Thank you so much, Mr. David!
+Então é impossível rastrear todos Remanescentes...
+Por agora, sim.<1ae0000070420fe005e001000ee0>Mas se ajustarmos essa coisa aqui,<0fe003e00ee0>acredito que podemos melhorar a precisão...
+Assim, poderíamos encontrar Remanescentes<0fe003e00ee0>que ainda sequer foram descobertos.
+Você parece estar no caminho certo...<0fe003e00ee0>Vale a pena tentar.
+Ótimo!
+Ela é uma jovem brilhante.
+O pequenino Rush está de mal humor?
+Você sente falta dela precisar de você, não sente?
+Tanto faz.
+Quem sabe que Remanescentes podem estar<0fe003e00ee0>se ocultando debaixo de nossos narizes?<1ae00000ce420fe005e001000ee0>Eles podem ter qualquer aparência,<0fe003e00ee0>talvez até mesmo a forma de um mitra.
+Você tem uma imaginação e tanto!
+A reunião já terminou?
+Ela foi cancelada. Os lordes de Melphina,<0fe003e00ee0>Balterossa, Royotia e Celapaleis...<1ae0000048430fe005e001000ee0>Nenhum deles se apresentou.
+Isso não pode ser uma coincidência.
+Nos foi ordenado descobrir onde<0fe003e00ee0>estão, e o que aconteceu a eles.
+O duque de Ghor é mesmo um escravizador.
+Devemos partir de imediato.<0fe003e00ee0>Quanto a você, Lady Irina...
+Eu quero ir também!
+Mas, isso... Bem...
+Senhor David, eu imploro a você. Deve haver algo<0fe003e00ee0>que eu possa fazer para ajudar.
+E... Não quero ter medo dos<0fe003e00ee0>meus poderes pelo resto da minha vida.
+Muito bem. Você pode nos acompanhar.<0fe003e00ee0>Emmy, deixarei você responsável por ela.<1ae0000052430fe005e001000ee0>Ensine-a algumas coisas sobre defesa pessoal.
+Sim, milorde!
+Muitíssimo obrigado, senhor David!
 

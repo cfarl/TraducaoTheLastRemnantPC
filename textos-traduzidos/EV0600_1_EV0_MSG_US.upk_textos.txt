@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0600_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-It's been a long time...
-You've been here before?
-We have an old family tradition.<0fe003e00ee0>To carry on the Honeywell name, one must<1ae000000c430fe005e001000ee0>journey to find Remnants when one<0fe003e00ee0>reaches adulthood.
-That's cool.
-My father died in the war.<1ae00000a0420fe005e001000ee0>But he dreamed of a new great<0fe003e00ee0>Athlumian Remnant...
-I decided to search here after I heard<0fe003e00ee0>the Academy had its eye on this place.<1ae00000e6420fe005e001000ee0>I thought perhaps I could find one...
-And then...I met her.
-You mean my mom?
-I'm sorry. I don't mean to bore you.<0fe003e00ee0>We should get out of here.<1ae0000002430fe005e001000ee0>Your mother is waiting.
-Uh, okay.
+Já faz tanto tempo...
+Você já esteve aqui antes?
+Na minha família nós temos uma antiga tradição.<0fe003e00ee0>Para carregar o nome dos Honeywell, os jovens<1ae000000c430fe005e001000ee0>devem partir em busca de Remanescentes assim<0fe003e00ee0>que chegam na idade adulta.
+Interessante.
+Meu pai morreu na guerra...<1ae00000a0420fe005e001000ee0>Mas ele sonhava encontrar um novo e<0fe003e00ee0>grandioso Remanescente para Athlum...
+Decidi investigar esse lugar quando ouvi dizer<0fe003e00ee0>que a Academia estava procurando algo por aqui.<1ae00000e6420fe005e001000ee0>Pensei que talvez encontraria um Remanescente...
+E foi então... que eu a encontrei.
+Você quer dizer, minha mãe?
+Me perdoe. Não quero te aborrecer.<0fe003e00ee0>Precisamos seguir em frente.<1ae0000002430fe005e001000ee0>Sua mãe está nos esperando.
+Hã, certo.
 

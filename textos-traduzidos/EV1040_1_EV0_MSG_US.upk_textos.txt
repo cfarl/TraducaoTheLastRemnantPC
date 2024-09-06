@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1040_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-I'm off to the Congress.<0fe003e00ee0>Wait for me at the embassy.<1ae00000b4420fe005e001000ee0>Rush...
-I'm certain Irina would appreciate it<0fe003e00ee0>if you got her something.<1ae00000c8420fe005e001000ee0>In matters of the heart,<0fe003e00ee0>actions speak louder than words, you know.
-What's he going on about!<0fe003e00ee0>I'm<07f0>I'm not... Arg!
+Estou indo para o Conselho.<0fe003e00ee0>Esperem por mim na Embaixada.<1ae00000b4420fe005e001000ee0>Rush...
+Tenho certeza que Irina iria gostar<0fe003e00ee0>que você levasse alguma coisa para ela.<1ae00000c8420fe005e001000ee0>Nas questões do coração,<0fe003e00ee0>um gesto vale mais que mil palavras.
+Mas quem ele pensa que é?<0fe003e00ee0>Eu não... Eu não... Aaagh!
 

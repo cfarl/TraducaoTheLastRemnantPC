@@ -1,39 +1,39 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0520_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Move. I am finished here.
-Please, the Chairman will be here<0fe003e00ee0>any moment!
-Please, just a moment longer,<0fe003e00ee0>Lord Conqueror!
-Conqueror...?
-You alright?
-Chairman Hermeien!
-I am the Chairman of the Congress,<0fe003e00ee0>Duke Wilfred Hermeien.
-Mister...Conqueror, is it?<0fe003e00ee0>If you could please state your intentions.
-I believe you know my intentions.
-You want to be named a Lord,<0fe003e00ee0>and get your own Remnant, hmm?
-Inconceivable, taking over a backwater<0fe003e00ee0>place like Veyriel and then expecting to<07f01ae0000047430fe002e001000be00ee0>
-I believe you were told to wait patiently<0fe003e00ee0>until the Congress handed down<1ae0000002430fe005e001000ee0>its decision.
-I am he whose coming was foretold by<0fe003e00ee0>the God Emperor himself.<1ae0000000430fe005e001000ee0>What need have I of the Congress's blessing?
-The days when the God Emperor's word was<0fe003e00ee0>law are long gone.<1ae000000c430fe005e001000ee0>He should know that more than anyone...
-It matters not. You would not give me<0fe003e00ee0>a Remnant, so I took one myself.<1ae0000048430fe005e001000ee0>My intentions have already been fulfilled.
-You bound the Ark?<1ae00000b4420fe005e001000ee01ae000002041>Well, forgive me if I'm skeptical.
-They have borne witness.
-And you are...?
-I am Torgal,<0fe003e00ee0>one of the Four Generals of Athlum.
-And you saw this?
-Yes... Without a doubt, the Conqueror<0fe003e00ee0>bound himself to the Ark.
+Afastem-se. Eu já terminei aqui.
+Por favor, o Presidente vai chegar<0fe003e00ee0>a qualquer momento!
+Por favor, só mais um momento,<0fe003e00ee0>senhor Conquistador!
+Conquistador...?
+Você está bem?
+Presidente Hermeien!
+Eu sou o Presidente do Conselho,<0fe003e00ee0>duque Wilfred Hermeien.
+Senhor... Conquistador, é isso?<0fe003e00ee0>Será que poderia nos declarar suas intenções?
+Acredito que já conheça minhas intenções.
+Você deseja ser nomeado senhor, e quer que seja<0fe003e00ee0>outorgado a você seu próprio Remanescente, hmm?
+Isso é inconcebível! Conquistar um fim de mundo<0fe003e00ee0>como Veyriel e depois esperar que...<1ae0000047430fe002e001000be00ee0>
+Acredito que você tenha sido avisado para<0fe003e00ee0>aguardar pacientemente até que o Conselho<1ae0000002430fe005e001000ee0>tenha tomado sua decisão.
+Eu estou aqui porque minha vinda foi profetizada<0fe003e00ee0>pelo próprio Imperador Celestial.<1ae0000000430fe005e001000ee0>Que necessidade tenho eu da aprovação do Conselho?
+Os dias em que as palavras do Imperador<0fe003e00ee0>eram a lei há muito se foram.<1ae000000c430fe005e001000ee0>Ele deveria saber disso melhor que ninguém...
+Não importa. Já que não querem me conceder um<0fe003e00ee0>Remanescente, então eu mesmo tomarei posse de um.<1ae0000048430fe005e001000ee0>Meu objetivo já foi cumprido.
+Você se vinculou ao Arca!?<1ae00000b4420fe005e001000ee01ae000002041>Bem, perdoe-me se estou sendo cético...
+Eles foram testemunhas.
+E vocês são...?
+Eu sou Torgal,<0fe003e00ee0>um dos Quatros Generais de Athlum.
+E você viu isso?
+Sim... sem nenhuma dúvida, o Conquistador<0fe003e00ee0>formou um vínculo com o Arca.
 Hmmm.
-I-impossible...<0fe003e00ee0>I didn't think the Ark could be bound!
-H-he's just like Marshall...!
-We are finished now.
-Wait!
-Fair is fair. You can be a Lord.
-We'll even grant you a Remnant. So...
-Understood. I shall release the Ark.
-Today's meeting of the Congress is on<0fe003e00ee0>indefinite recess!
-An update will be forthcoming, so Lords<0fe003e00ee0>will take no actions 'til it does!
-Marquis of Athlum!
-I trust you understand the meaning of<0fe003e00ee0>no actions.
-Sorry, Dave.<0fe003e00ee0>Everything's all screwed up now...
-By no fault of yours, Rush. To the embassy.<0fe003e00ee0>We'll discuss things there.
+I-impossível... Achei que ninguém pudesse<0fe003e00ee0>formar um vínculo com o Arca!
+E-ele é como a Marshall...!
+Não há mais nada a dizer.
+Espere!
+Estamos de acordo. Você pode ser um Lorde.
+E até lhe daremos um Remanescente. Assim que...
+Compreendo. Irei desfazer o vínculo com o Arca.
+A reunião do Conselho está sendo<0fe003e00ee0>adiada por tempo indeterminado!
+Convocaremos outra reunião em breve, até lá<0fe003e00ee0>ninguém deve tomar nenhuma ação!
+Marquês de Athlum!
+Espero que entenda a que me refiro quando<0fe003e00ee0>digo que "ninguém tome nenhuma ação".
+Sinto muito, Dave.<0fe003e00ee0>Está tudo acabado agora...
+Não é sua culpa, Rush. Vamos voltar para a<0fe003e00ee0>embaixada. Discutiremos esse assunto lá.
 

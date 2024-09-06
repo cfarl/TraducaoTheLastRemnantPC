@@ -1,38 +1,38 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0390_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-There you are.
-What's going on?
-Rush, the Congress will be holding<0fe003e00ee0>a session in Elysion several days from now.
-The Congress? What's that?
-Put simply, the Congress is a group<0fe003e00ee0>that makes sure the world plays nice.<1ae0000002430fe005e001000ee0>Once every few years, the Lords meet and<0fe003e00ee0>discuss pressing matters.
-We'll be heading to Elysion as well.
-So, you just called me here to<0fe003e00ee0>say goodbye?
-Oh, no. On the contrary, traveling with us<0fe003e00ee0>should be a free ticket into Elysion.
-Gaining entrance to Elysion during<0fe003e00ee0>a Congress year is especially difficult.
-And let's not forget the increased security,<0fe003e00ee0>what with the influx of important figures.
-So if I can get to Elysion,<0fe003e00ee0>I can go to the Academy!<1ae00000ec420fe005e001000ee0>Aw, Dave, that's absolutely mint!
-Though who knows if Lord David will even<0fe003e00ee0>be invited to the assembly meeting...
-What do you mean?
-Usually, only the most powerful leaders<0fe003e00ee0>are called to the Congress.<1ae0000007430fe005e001000ee0>It's likely that a young successor like<0fe003e00ee0>me won't be asked to participate.
-...Did you piss someone off?
-Not yet... I've merely been asking around<0fe003e00ee0>about someone who might be responsible<1ae000002a430fe005e001000ee0>for the shady dealings at the Academy.
-Who?
-Top man at the Academy, and Chairman of<0fe003e00ee0>the Congress...
-The Lord of Nagapur,<0fe003e00ee0>Duke Wilfred Hermeien.
-Wilfred Hermeien, huh...<0fe003e00ee0>So that's the guy who took Irina?
-That's what I aim to find out.
-Lord David!
-The House of Hermeien has chaired<0fe003e00ee0>the Congress for generations.<1ae00000fa420fe005e001000ee0>If provoked, they will not hesitate<0fe003e00ee0>to turn all the Lords against you.
-The late Marquis made painstaking efforts<0fe003e00ee0>to maintain peaceful relations with<1ae0000002430fe005e001000ee0>the Chairman. If you would only consider<0fe003e00ee0>what is best for Athlum...
-So I still cannot compare to my father,<0fe003e00ee0>hmm?
-Enough discussion. We'll continue this<0fe003e00ee0>when we reach Elysion.<1ae00000e8420fe005e001000ee0>Begin preparations to leave.
-Yes, my lord.
-Yes, my lord.
-Yes, my lord.
-Yes, my lord.
-H-hey, Dave...
-What is it?
-Uh... nothing, never mind.<0fe003e00ee0>Catch ya later!
+Ah, está aqui.
+O que está acontecendo?
+Rush, o Conselho vai se reunir<0fe003e00ee0>em Elysion daqui a alguns dias.
+O Conselho? O que é isso?
+Colocado de forma simples, o Conselho é um grupo<0fe003e00ee0>que tenta fazer todo o mundo jogar limpo.<1ae0000002430fe005e001000ee0>De tempos em tempos, os Lordes se reúnem ali<0fe003e00ee0>para discutir assuntos urgentes.
+Então estamos indo para Elysion também.
+Então, você me fez vir aqui só<0fe003e00ee0>para se despedir?
+Ah, não. Pelo contrário, se vier conosco<0fe003e00ee0>poderá conseguir um passe de entrada em Elysion.
+Não é nada fácil entrar em Elysion<0fe003e00ee0>quando o Conselho se reúne.
+E não podemos esquecer do aumento da vigilância,<0fe003e00ee0>por causa da presença de tantos líderes.
+Então, se eu conseguir entrar em Elysion,<0fe003e00ee0>poderei ir até a Academia!<1ae00000ec420fe005e001000ee0>Ah, Dave, isso é absolutamente genial!
+No entanto ainda não sabemos se Lorde David vai<0fe003e00ee0>ser convidado para a reunião da assembleia...
+Como assim?
+Normalmente, somente os líderes mais poderosos<0fe003e00ee0>são convocados para o Conselho.<1ae0000007430fe005e001000ee0>É pouco provável que um herdeiro tão jovem como eu<0fe003e00ee0>seja convidado para participar.
+...Você andou irritando alguém?
+Ainda não... Mas andei investigando uma<0fe003e00ee0>certa pessoa que poderia estar por trás<1ae000002a430fe005e001000ee0>das intrigas da Academia.
+Quem?
+O líder da Academia, e Presidente<0fe003e00ee0>do Conselho...
+O senhor de Nagapur,<0fe003e00ee0>Duque Wilfred Hermeien.
+Wilfred Hermeien, hã?<0fe003e00ee0>Você acha que foi ele quem sequestrou Irina?
+É o que eu gostaria de descobrir.
+Lorde David!
+A família dos Hermeien tem presidido<0fe003e00ee0>o Conselho durante várias gerações.<1ae00000fa420fe005e001000ee0>Se forem provocados, eles não hesitarão em<0fe003e00ee0>colocar todos os Lordes contra você.
+O defunto Marquês fez grandes esforços<0fe003e00ee0>para manter relações pacíficas com o<1ae0000002430fe005e001000ee0>Presidente. Você deve levar em consideração<0fe003e00ee0>o que é melhor para Athlum...
+Então ainda não estou à altura do meu pai,<0fe003e00ee0>hmm?
+Chega de discussão. Vamos tratar desse assunto<0fe003e00ee0>quando chegarmos em Elysion.<1ae00000e8420fe005e001000ee0>Iniciem os preparativos para partirmos.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+E-ei, Dave...
+O que foi?
+Eh... nada, deixa para lá.<0fe003e00ee0>Te vejo mais tarde!
 Hrn.
 

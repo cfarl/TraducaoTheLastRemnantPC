@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1155_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-The tracking Remnant says something's here?
-Yes. I can feel it...
-Who's there?
-How beautiful... You destroyed them<0fe003e00ee0>so beautifully, all for my pleasure.
-Ohh, my poor, poor subordinates.<0fe003e00ee0>Certainly, they were far too incompetent<1ae0000056430fe005e001000ee0>to stop you, but at least they showed me<0fe003e00ee0>a magnificent death.
-Yes, death is the peak of perfection!<1ae00000c8420fe005e001000ee0>The only thing that comes close to<0fe003e00ee0>rivaling me!!!
-But now I must deal with you swine.<1ae00000b4420fe005e001000ee0>You come covered in dirt and grime,<0fe003e00ee0>reeking of sweat, crashing in here like<1ae000001a430fe005e001000ee0>some rabid beast, trampling in here with<0fe003e00ee0>your shoes on!
-And what's more, you've done all that with<0fe003e00ee0>the intent of disrupting the Conqueror's<1ae0000020430fe005e001000ee0>glorious goals! Agh, you are<0fe003e00ee0>the embodiment of all things hideous!
-Dirty, tainted beings like you can only benefit<0fe003e00ee0>from a cleansing...by Snievan, the Aesthete.<1ae0000079430fe005e001000ee0>You'll bathe in a river of your own blood!
-They're with the Conqueror?<0fe003e00ee0>And with Hermeien as well?
-Deal with it later, Dave<07f0>he's coming!
+O Remanescente rastreador disse que há algo aqui?
+Sim. Eu posso sentir sua presença...
+Quem está aí?
+Mas que magnífico.... Vocês acabaram com eles de<0fe003e00ee0>uma forma belíssima, só para o meu prazer.
+Oh, meus pobres, pobres subordinados...<0fe003e00ee0>Sem dúvida eram incompetentes demais<1ae0000056430fe005e001000ee0>para detê-los, mas ao menos me deleitaram<0fe003e00ee0>com suas magníficas mortes.
+Sim, a morte é o ápice da perfeição!<1ae00000c8420fe005e001000ee0>É a única coisa que chega perto de se<0fe003e00ee0>igualar a mim!!!
+Mas agora terei que lidar com vocês, escória.<1ae00000b4420fe005e001000ee0>Vocês chegam cobertos de sujeira e imundície,<0fe003e00ee0>fedendo a suor, se atrevem a aparecer aqui<1ae000001a430fe005e001000ee0>parecendo animais selvagens,<0fe003e00ee0>sem ao menos tirar os sapatos.
+E ainda fazem isso tudo com a intenção<0fe003e00ee0>de atrapalhar os gloriosos planos do<1ae0000020430fe005e001000ee0>Conquistador! Agh, vocês são a personificação<0fe003e00ee0>do que há de mais odioso no mundo!
+Uns seres tão imundos como vocês precisam ser<0fe003e00ee0>purificados... Por Snievan, o Esteta.<1ae0000079430fe005e001000ee0>Eu vou banhá-los em seu próprio sangue!
+Eles estão com o Conquistador?<0fe003e00ee0>E com Hermeien também?
+Esse não é o momento, Dave... Ele está vindo!
 

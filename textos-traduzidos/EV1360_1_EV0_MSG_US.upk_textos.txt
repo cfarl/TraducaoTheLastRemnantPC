@@ -1,30 +1,30 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1360_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Mr. David.
-You're up. How do you feel?
-I'm great! I'm totally fine!<0fe003e00ee0>I hope I didn't worry everyone too much...
-We're just glad you're alright.
-Mr. David. Congratulations on Athlum's independence.
-Thank you. You know, you are one of<0fe003e00ee0>the reasons this was even possible.
-For that, I am truly grateful.
-R-really? Me? I-I didn't do anything!
-I just did what anyone else would've<0fe003e00ee0>done... I just...
-U-um... I-I should go get ready!
+Senhor David.
+Você já levantou? Como está?
+Estou bem! Muito bem!<0fe003e00ee0>Espero não tê-los deixado muito preocupados...
+Estamos contentes por saber que está bem.
+Sr. David. Parabéns pela independência de Athlum.
+Obrigado. Mas você sabe, parte do<0fe003e00ee0>mérito disso foi graças a você.
+Por isso, estou realmente agradecido.
+S-sério? Eu? M-mas... eu não fiz nada!
+Só fiz o que qualquer um teria feito<0fe003e00ee0>no meu lugar... Eu só...
+Hum... Acho que devo ir me preparar!
 
 -- ----------------------------------------------------------------------------------
 -- (Export 1) EV1360_1_MSG
 -- ----------------------------------------------------------------------------------
-Mr. David.
-You're up.How do you feel?
-I'm great! I'm totally fine!I hope I didn't worry everyone too much...
-We're just glad you're alright.
-Mr. David.Congratulations on Athlum's independence.
-Thank you.
-You know, you are one of the reasonsthis was even possible.
-R-really? Me?
-I-I didn't do anything!
-I just did what anyone else would've done...
-I just...
-U-um...I-I should go get ready!
+Senhor David.
+Você já levantou? Como está?
+Estou bem! Muito bem!<0fe003e00ee0>Espero não tê-los deixado muito preocupados...
+Estamos contentes por saber que está bem.
+Sr. David. Parabéns pela independência de Athlum.
+Obrigado. Mas você sabe, parte do<0fe003e00ee0>mérito disso foi graças a você.
+Por isso, estou realmente agradecido.
+S-sério? Eu? 
+M-mas... eu não fiz nada!
+Só fiz o que qualquer um teria feito<0fe003e00ee0>no meu lugar... 
+Eu só...
+Hum... Acho que devo ir me preparar!
 

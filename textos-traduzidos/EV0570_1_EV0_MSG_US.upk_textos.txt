@@ -2,19 +2,19 @@
 -- (Export 0) EV0570_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
 Rush?
-Dad!
-It's good to see you, Son.
-Dad, Irina's been...!
-Yes, I know.
-You're...the Marquis of Athlum!
-What's that?
-This...is what Irina's kidnappers are after.
-This tablet can put Remnants into...a deep<0fe003e00ee0>slumber. It was developed by your mother.
-Where is she, anyway?
-She's out there,<0fe003e00ee0>luring them away from this.
-What!?
-Don't worry. With this, getting Irina<0fe003e00ee0>back should be a snap.<1ae0000006430fe005e001000ee0>Your mother will be back soon.
-You've done well, Rush.<0fe003e00ee0>We're going to be fine.
-I hope so...
-You can get caught up later.<0fe003e00ee0>Let us return to the embassy.
+Papai!
+É bom te ver, meu filho.
+Papai, Irina foi...!
+Sim, eu sei.
+Você é... o marquês de Athlum!
+O que é isso?
+Isso... é o que os sequestradores de Irina procuram.
+Essa tabuleta coloca os Remanescentes em um...<0fe003e00ee0>estado letárgico. Foi descoberto pela sua mãe.
+E onde está ela, afinal?
+Ela está lá fora...<0fe003e00ee0>Tentando afastá-los para longe daqui.
+O quê!?
+Não se preocupe. Com isso, recuperaremos<0fe003e00ee0>Irina em um piscar de olhos.<1ae0000006430fe005e001000ee0>Sua mãe logo estará de volta.
+Você fez bem, Rush.<0fe003e00ee0>Vamos todos ficar bem.
+Espero que sim...
+Vocês podem continuar conversando mais tarde.<0fe003e00ee0>Precisamos retornar à embaixada.
 

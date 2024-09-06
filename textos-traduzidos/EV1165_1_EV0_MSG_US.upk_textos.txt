@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1165_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-The flow of Remnant power doesn't feel<0fe003e00ee0>so strong anymore.
-Are you sure?
-I'm positive. The barrier around Koenigsdorf<0fe003e00ee0>seems weaker than before.
-Then, that was one of those lights?<1ae00000c8420fe005e001000ee0>That fiend we just defeated was sapping power<0fe003e00ee0>from other Remnants and sending it to Koenigsdorf?
-Yes, I think so.
-That can't be! Are you saying that was<0fe003e00ee0>a Remnant?
-I don't know about that...
-Guys, who cares what they are?<0fe003e00ee0>We know we've gotta beat them all to get<1ae00000c8420fe005e001000ee0>into Koenigsdorf, right?<0fe003e00ee0>Let's deal with the questions later!
-You're quite right. Thank you, Rush.
-Let's go. We've got more fighting ahead.
-They're with the Conqueror?<1ae000006c420fe005e001000ee0>And with Hermeien as well?
+O fluxo de energia Remanescente está<0fe003e00ee0>ficando mais fraco.
+Você tem certeza?
+Sim. A barreira em volta de Koenigsdorf<0fe003e00ee0>parece estar mais fraca que antes.
+Então, esse era um daquele pontos escuros?<1ae00000c8420fe005e001000ee0>Esses canalhas estão roubando a energia de<0fe003e00ee0>outros Remanescentes e enviando para Koenigsdorf?
+Sim, eu acho que sim.
+Não pode ser! Você está dizendo que ele era<0fe003e00ee0>um Remanescente?
+Não tenho certeza...
+Gente, quem se importa com o que eles são?<0fe003e00ee0>Sabemos que temos que acabar com eles para<1ae00000c8420fe005e001000ee0>entrar em Koenigsdorf, certo?<0fe003e00ee0>Vamos deixar as perguntas para depois!
+Você tem razão. Obrigado, Rush.
+Vamos. Ainda temos muitas batalhas pela frente.
+Eles estão com o Conquistador?<1ae000006c420fe005e001000ee0>E com Hermeien também?
 

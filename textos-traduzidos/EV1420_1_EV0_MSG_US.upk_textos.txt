@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1420_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Men! The fate of the world rests<0fe003e00ee0>on the outcome of this battle!
-All troops! Charge!
+Homens! O destino do mundo depende<0fe003e00ee0>do resultado desta batalha!
+Soldados! Atacar!
 

@@ -2,9 +2,9 @@
 -- (Export 0) EV1340_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
 Irina! Irina!
-Oops, I guess that didn't work out, huh?
-You idiot... You know how scared I was!?
-You promised you'd come...<0fe003e00ee0>And you did. You came...
-She's fine, she's only sleeping. What was<0fe003e00ee0>she trying to accomplish in coming here?
-Let's return to Athlum for now.<0fe003e00ee0>Your parents must be worried as well.
+Oops, parece que meu plano não funcionou, não é?
+Sua idiota... Você sabe quanto me deixou preocupado?
+Você me prometeu que viria...<0fe003e00ee0>E assim você fez. Você veio...
+Ela está bem, só está dormindo. O que estava<0fe003e00ee0>querendo fazer vindo para um lugar como esse?
+Vamos voltar para Athlum, por agora.<0fe003e00ee0>Seus pais devem estar bem preocupados.
 

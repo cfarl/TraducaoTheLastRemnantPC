@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1310_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-How's she doing?
-She'll be fine. <1ae000004c420fe005e001000ee0>Used a bit too much of<0fe003e00ee0>Marion's Blessing is all...she's asleep.
-Rush...coming back, right?<0fe003e00ee0>...'m waiting for you...
-She's dreaming, of that time she waited for<0fe003e00ee0>you in the forest...<1ae0000016430fe005e001000ee0>She really cares for you, Rush.
+Como ela está?
+Ela vai ficar bem...<1ae000004c420fe005e001000ee0>Ela abusou um pouco da<0fe003e00ee0>Benção de Marion... Está dormindo.
+Rush... você vai voltar, não vai?<0fe003e00ee0>... vou estar esperando por você...
+Ela está sonhando com aquela vez em<0fe003e00ee0>que ficou esperando por você na floresta...<1ae0000016430fe005e001000ee0>Você é muito importante para ela, Rush.
 

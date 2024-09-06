@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1270_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Sure glad that's over with.
-What's she doing here?
-Don't tell me you were behind what just<0fe003e00ee0>happened!
-You certainly do enjoy throwing around<0fe003e00ee0>accusations...
-The Conqueror<07f0>what does he want?<0fe003e00ee0>What's he planning to do?
-Why do you ask questions you already<0fe003e00ee0>know the answers to?
-What do you mean?
-Or are you simply choosing not to see<0fe003e00ee0>the truth?
-You're scared, aren't you?
-No, I'm not!
-Nice try. Good luck, boy.
+Fico feliz que isso tenha terminado.
+O que ela está fazendo aqui?
+Não me diga que está por trás<0fe003e00ee0>do que acabou de acontecer!
+Estou vendo que gosta de<0fe003e00ee0>lançar acusações...
+O Conquistador... O que ele quer?<0fe003e00ee0>O que está planejando fazer?
+Por que faz perguntas se já<0fe003e00ee0>conhece as respostas?
+Como assim?
+Ou será que você não está querendo enxergar<0fe003e00ee0>a verdade?
+Você está com medo, não está?
+Não, não estou!
+Bela tentativa. Boa sorte, garoto.
 

@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1060_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Years ago, when I was just a kid...<1ae0000096420fe005e001000ee0>Mom and Dad suddenly decided to go to<0fe003e00ee0>the Academy and left me in charge of Irina.
-After they left... I took her to the woods<0fe003e00ee0>nearby and left her there.<1ae0000016430fe005e001000ee0>I told her I'd come back for her later.<0fe003e00ee0>She was always their favorite.<1ae00000f0420fe005e001000ee0>I guess I was kinda jealous.
-I just wanted to scare her a little. It wasn't<0fe003e00ee0>far from the house, so I figured she'd come<1ae0000009430fe005e001000ee0>back on her own sooner or later.
-I was wrong.<1ae0000020420fe005e001000ee0>And when it started to get dark outside,<0fe003e00ee0>I got worried and ran back to get her.
-She was still in the exact same spot I'd<0fe003e00ee0>left her in, just staring at some flowers.<1ae0000046430fe005e001000ee0>She was waiting for me to come back, all alone<0fe003e00ee0>in the dark. She didn't doubt me at all.
-That's when I realized something.<0fe003e00ee0>I had to protect her.<1ae0000010430fe005e001000ee0>I decided never to betray her again.
-You better not mention this to her.
-She's not a child anymore.<0fe003e00ee0>You mustn't act like a baby-sitter.
-Oh, yeah?<0fe003e00ee0>Well, how am I supposed to act, then?
-You must treat her with respect, as a fellow<0fe003e00ee0>adult. Let her know she can count on you.
-Respect, huh? Sounds...deep.
+Anos atrás, quando eu era pequeno...<1ae0000096420fe005e001000ee0>Mamãe e papai tiveram de ir até a<0fe003e00ee0>Academia e me deixaram responsável pela Irina.
+Depois que eles se foram... Levei ela para um<0fe003e00ee0>bosque próximo e deixei ela lá.<1ae0000016430fe005e001000ee0>Eu disse que voltaria mais tarde.<0fe003e00ee0>Ela sempre foi a favorita dos meus pais...<1ae00000f0420fe005e001000ee0>Acho que estava com um pouco de ciúmes.
+Eu só queria dar um pequeno susto nela. Como não<0fe003e00ee0>estávamos longe de casa, imaginei que ela<1ae0000009430fe005e001000ee0>voltaria sozinha, mais cedo ou mais tarde.
+Mas eu estava errado.<1ae0000020420fe005e001000ee0>E quando começou a escurecer,<0fe003e00ee0>fiquei preocupado e corri para buscá-la.
+Ela estava exatamente onde eu a havia deixado,<0fe003e00ee0>contemplando algumas flores.<1ae0000046430fe005e001000ee0>Estava ali sozinha no escuro, me esperando<0fe003e00ee0>voltar. Ela nunca duvidou de mim.
+Foi quando me dei conta de uma coisa...<0fe003e00ee0>Eu tinha que protegê-la.<1ae0000010430fe005e001000ee0>Jurei que não voltaria a trair sua confiança.
+É melhor não contar isso para ela.
+Ela já não é mais uma criança.<0fe003e00ee0>Você não precisa agir como se fosse sua babá.
+Ah, é?<0fe003e00ee0>E como eu deveria agir, então?
+Você deve respeitá-la como uma pessoa adulta.<0fe003e00ee0>Deixe que saiba que pode contar com você.
+Respeitá-la, hã? Isso parece... profundo.
 

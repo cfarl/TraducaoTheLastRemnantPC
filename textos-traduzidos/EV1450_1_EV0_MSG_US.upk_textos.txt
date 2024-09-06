@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1450_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Whazzat?
-It's a Remnant<07f0>one that can take us to<0fe003e00ee0>the Sacred Lands!
-Awesome, huh, Dave?
-Then let's get ready to leave.
-I believe you were warned about this...<1ae00000be420fe005e001000ee0>Continued association with the Conqueror<0fe003e00ee0>would be harmful to your health.
+Mas o que é isso?
+É um Remanescente, um que pode nos levar até<0fe003e00ee0>as Terras Sagradas!
+Incrível, não é, Dave?
+Então, vamos em frente.
+Creio que já haviam sido advertidos sobre isso...<1ae00000be420fe005e001000ee0>Continuar se opondo ao Conquistador<0fe003e00ee0>poderia colocar em risco a sua saúde.
 Wagram!
-You still have a chance to escape with <0fe003e00ee0>your lives. Get out of here.
-And if I refuse?
-...As you wish.<1ae0000082420fe005e001000ee0>I shall wipe your very existence from this earth!
-The binding oaths of magick old<0fe003e00ee0>Summon your being and your soul;<1ae0000034430fe005e001000ee0>From whitest heavens you shall soar<0fe003e00ee0>To darkest earth, your home no more.
-Come forth!
+Vocês ainda têm uma última oportunidade para<0fe003e00ee0>escapar com vida. Vão embora daqui.
+E se não fizermos isso?
+Que seja então como desejam...<1ae0000082420fe005e001000ee0>Apagarei sua existência da face da terra!
+Pelo poder dessa magia arcana<0fe003e00ee0>Conjuro teu ser e tua alma imortal;<1ae0000034430fe005e001000ee0>Abandone sua morada de luz celestial<0fe003e00ee0>e desça para a mais escura terra, seu novo lar.
+Venha a mim!
 

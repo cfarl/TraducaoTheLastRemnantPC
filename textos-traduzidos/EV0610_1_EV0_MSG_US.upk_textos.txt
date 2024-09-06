@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0610_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-What are they?
-They nearly killed me in the past.
-Seriously!?
-But not this time!
+Quem são eles?
+Essas coisas quase acabaram comigo, no passado.
+Sério!?
+Mas não dessa vez!
 

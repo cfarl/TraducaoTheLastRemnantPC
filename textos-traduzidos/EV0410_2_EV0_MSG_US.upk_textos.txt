@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0410_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-The Assembly still hasn't started?
-Not yet. The Dukes of Ghor and Qubine<0fe003e00ee0>have yet to arrive.
-I suppose the perks of dukedom include<0fe003e00ee0>never having to be on time...
-That being the case...<0fe003e00ee0>Rush, let's take a walk, shall we?
-Uhh, is that okay?
-I'll be summoned when the time comes.
-Besides, matters should be simplified<0fe003e00ee0>if you stay near me, Rush.<1ae00000f0420fe005e001000ee0>I trust there are no complaints?
-Not so long as you allow us to accompany<0fe003e00ee0>you, my lord.
-Of course. Let us take this opportunity<0fe003e00ee0>to collect as much information as possible.<1ae0000021430fe005e001000ee0>And we wouldn't want to miss out on<0fe003e00ee0>paying the Academy a visit.
-Yeah!
+A assembleia ainda não começou?
+Ainda não. Os duques de Ghor e Qubine<0fe003e00ee0>ainda não chegaram.
+Suponho que os duques podem se permitir<0fe003e00ee0>chegar atrasado em todos os eventos...
+Então nesse caso...<0fe003e00ee0>Rush, vamos dar uma volta, o que acha?
+Ahh, será que isso é uma boa ideia?
+Eu serei avisado quando chegar a hora.
+Além disso, tudo será mais fácil<0fe003e00ee0>se você permanecer perto de mim, Rush.<1ae00000f0420fe005e001000ee0>Há alguma objeção?
+Não se você nos permitir acompanhá-lo,<0fe003e00ee0>milorde.
+Certamente. Vamos aproveitar a oportunidade para<0fe003e00ee0>conseguir o máximo de informações que pudermos.<1ae0000021430fe005e001000ee0>E também não podemos deixar de fazer uma<0fe003e00ee0>visita à Academia.
+Isso!
 

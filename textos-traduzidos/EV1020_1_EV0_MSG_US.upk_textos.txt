@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1020_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-I win, slowpokes! In your face, Blocter!
-No way, ya cheater!
-Please, remember why we're here.<0fe003e00ee0>Lord David is still hiding the fact that<1ae000002a430fe005e001000ee0>you and your sister share Marion's Blessing...<0fe003e00ee0>and that's a significant risk.
-Do not make all his efforts be for naught.
-Yeah, I know...sorry.
-Come now...<0fe003e00ee0>You don't have to worry about that.
-So, they survived...
-Hold it! What're you gonna do with<0fe003e00ee0>that Remnant!?
-And why should we tell you? Your little<0fe003e00ee0>group can't do a thing about it either way.
-We return to Athlum. Now.
-Yes, my lord.
+Eu venci, seu molengão! Toma essa, Blocter!
+Não valeu, seu trapaceiro!
+Lembrem-se do porquê de termos vindo aqui.<0fe003e00ee0>Lorde David ainda está mantendo em segredo<1ae000002a430fe005e001000ee0>que você e sua irmã possuem a benção de Marion...<0fe003e00ee0>E está assumindo um risco considerável.
+Não façam com que seu esforço tenha sido em vão.
+Sim, é verdade... me desculpe.
+Vamos lá...<0fe003e00ee0>Não se preocupe com isso.
+Então, eles sobreviveram...
+Alto lá! O que vão fazer com<0fe003e00ee0>esse Remanescente?
+E porque deveríamos dizer a você? Seu grupinho não<0fe003e00ee0>pode fazer nada a respeito, de qualquer maneira.
+Vamos voltar para Athlum. Agora.
+Sim, milorde.
 

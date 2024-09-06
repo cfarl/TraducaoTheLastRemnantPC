@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0070_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Something's wrong.
-I wasn't expecting this.
-Prepare yourself!
+Estou tendo um mal pressentimento.
+Não estava esperando por isso...
+Prepare-se!
 
 -- ----------------------------------------------------------------------------------
 -- (Export 1) EV0070_1_MSG
 -- ----------------------------------------------------------------------------------
-Something's wrong.
-I wasn't expecting this.
-Prepare yourself!
+Estou tendo um mal pressentimento.
+Não estava esperando por isso...
+Prepare-se!
 

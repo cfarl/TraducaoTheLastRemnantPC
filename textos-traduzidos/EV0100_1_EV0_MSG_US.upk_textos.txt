@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0100_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-We can waste no time in sniffing out<0fe003e00ee0>the rats who kidnapped Irina.
+Devemos encontrar sem perda tempo<0fe003e00ee0>os canalhas que sequestraram Irina.
 Torgal?
-Rush, we have prepared a room for you<0fe003e00ee0>within the castle.
-After your journey from Eulam Island,<0fe003e00ee0>you must want to rest and recover from<1ae0000002430fe005e001000ee0>your presumably arduous journey.
-So I just sit on my butt and do nothing?<0fe003e00ee0>Yeah, right! I'll go find those guys myself!
-Fine, do as you like. But try not to do<0fe003e00ee0>anything too foolish.
-We shouldn't let him have free run of<0fe003e00ee0>the castle until we've verified his story.<1ae00000f0420fe005e001000ee0>I'll get on it.
-Okay, uhh... I'm going now? Hello?
-If it's information you seek, there is<0fe003e00ee0>a certain pub in Virtus Parish<1ae0000002430fe005e001000ee0>you might care to investigate.
-Come to the castle if you need anything of us.
-Alright! I'm on it!
+Rush, preparamos um quarto para você<0fe003e00ee0>no castelo.
+Depois da sua jornada a partir da Ilha Eulam,<0fe003e00ee0>suponho que deve estar querendo descansar<1ae0000002430fe005e001000ee0>para se recuperar da sua árdua viagem.
+Então vou ficar aqui sentando sem fazer nada?<0fe003e00ee0>Tudo bem! Vou encontrar esses caras sozinho!
+Certo, faça o que achar melhor. Mas tente<0fe003e00ee0>não se meter em nenhuma encrenca.
+Não deveríamos deixá-lo passear pelo<0fe003e00ee0>castelo sem antes confirmar sua história.<1ae00000f0420fe005e001000ee0>Eu me encarregarei disso.
+Certo, uhh... Estou indo então... Tudo bem?
+Se o que procura é informação,<0fe003e00ee0>há uma taverna no bairro de Virtus<1ae0000002430fe005e001000ee0>que você deveria visitar.
+Volte ao castelo se precisar falar conosco.
+Entendido! Vou para lá!
 

@@ -1,11 +1,11 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1235_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-The tracking Remnant says something's here?
-Yes. I can feel it...
-Who's there?
-Finally! Feels like I aged 50 years<0fe003e00ee0>waitin' for ya!
-At least you didn't get pounded by the<0fe003e00ee0>other guys. 'Cause Young the Belligerent's<1ae00000dc420fe005e001000ee0>the only one that's worthy enough to beat<0fe003e00ee0>the living crap outta ya!
-So get ready to enjoy some good old-fashioned<0fe003e00ee0>loving from Mr. Young!
-I've been lookin' forward to this moment<0fe003e00ee0>for ages!<1ae00000f0420fe005e001000ee0>Hope you can put up a good fight because<0fe003e00ee0>I want to savor this as long as I can!
+O Remanescente rastreador disse que há algo aqui?
+Sim. Eu posso sentir sua presença...
+Quem está aí?
+Finalmente! Achei que ia envelhecer cinquenta<0fe003e00ee0>anos esperando por vocês!
+Que bom que não foram feridos pelos<0fe003e00ee0>outros... Porque somente Young, o Beligerante,<1ae00000dc420fe005e001000ee0>é digno de dar-lhes uns belos<0fe003e00ee0>chutes no traseiro!
+Preparem-se para levar uma surra antológica<0fe003e00ee0>pelas mãos do senhor Young!
+Há séculos venho esperando<0fe003e00ee0>por esse momento!<1ae00000f0420fe005e001000ee0>Espero que possam me dar uma bela luta,<0fe003e00ee0>porque quero aproveitar ao máximo esse momento!
 

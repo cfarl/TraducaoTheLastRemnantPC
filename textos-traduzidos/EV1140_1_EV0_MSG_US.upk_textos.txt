@@ -1,35 +1,35 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1140_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Who knows where Hermeien could be hiding?<0fe003e00ee0>Nagapur is still in ruins...
-Lord David! I'm glad I caught you.
-What is it?
-Take a look at this.
-What are these black lights?
-They appeared a few days ago.
-These are Remnants as well?
-Well, they should be. But they don't<0fe003e00ee0>seem to be the regular kind.<1ae0000001430fe005e001000ee0>It looks like they're draining the powers of nearby<0fe003e00ee0>Remnants, and then shooting it to a single spot.
-Remnants that can steal the power of others?<0fe003e00ee0>I've never heard of such a thing.
-This is news to us, too.<0fe003e00ee0>We're going to look into it ASAP.
-What is this "single spot" they're<0fe003e00ee0>concentrating their powers into?
-This spot in the center of all<0fe003e00ee0>the black lights. Here.
-Is that...?
-I believe that's Koenigsdorf. It's been<0fe003e00ee0>a valuable stronghold since ancient times.
+Onde será que Hermeien pode estar se escondendo?<0fe003e00ee0>Nagapur ainda está em ruínas...
+Lorde David! Estou contente em vê-lo.
+O que foi?
+Dê uma olhada nisso.
+O que são esses pontos escuros?
+Elas apareceram alguns dias atrás.
+São Remanescentes também?
+Bem, deveriam ser. Mas eles não se parecem<0fe003e00ee0>com Remanescentes comuns.<1ae0000001430fe005e001000ee0>Estão absorvendo a energia dos Remanescentes<0fe003e00ee0>próximos e concentrando-a nesse lugar.
+Remanescentes que podem roubar energia?<0fe003e00ee0>Nunca tinha ouvido falar de nada parecido.
+Isso é novidade para nós, também.<0fe003e00ee0>Vamos investigar agora mesmo.
+Onde fica esse "lugar" onde estão<0fe003e00ee0>concentrando toda a energia?
+É um lugar situado no centro de todos os demais<0fe003e00ee0>pontos escuros... Aqui.
+Esse não é...?
+Acredito que é Koenigsdorf.<0fe003e00ee0>Uma fortaleza cobiçada desde tempos memoriais.
 Irina?
-It...It holds the same power I felt<0fe003e00ee0>in Duke Hermeien.
-He must be there, then.
-Make preparations for battle.<0fe003e00ee0>We are going to launch an assault on Koenigsdorf.
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Oh, yes.
-The Duke of Ghor need not know<0fe003e00ee0>about this. Who knows what he'll do...
-I have a favor to ask you both.<1ae0000070420fe005e001000ee0>If possible, I would like Irina to<0fe003e00ee0>accompany us a little longer.
-I have a feeling she is going to be of<0fe003e00ee0>great help to us.
-I understand if you're concerned for<0fe003e00ee0>her well-being.<1ae00000be420fe005e001000ee0>I will not force her to come.
-Irina is a grownup.<0fe003e00ee0>She can make her own decisions.
-Thank you so much, Mom and Dad!<0fe003e00ee0>Mr. David, I'll help in any way I can!
-Okay, come on. Enough of that.<0fe003e00ee0>We have to get ready.
-O-oh, yes. Indeed.
+Ele... Ele emite a mesma energia que senti<0fe003e00ee0>emanando do duque Hermeien.
+Então ele deve estar lá.
+Preparem-se para a batalha.<0fe003e00ee0>Vamos lançar um ataque contra Koenigsdorf.
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Ah, sim...
+O duque de Ghor não precisa<0fe003e00ee0>saber disso. Não sabemos como iria reagir...
+Queria pedir um favor a vocês.<1ae0000070420fe005e001000ee0>Se possível, gostaria que Irina<0fe003e00ee0>continuasse nos acompanhando.
+Tenho o pressentimento de que ela será<0fe003e00ee0>de grande ajuda para nós.
+Entenderei perfeitamente se estivem preocupados<0fe003e00ee0>com seu bem-estar.<1ae00000be420fe005e001000ee0>Não vou forçá-la a vir conosco.
+Irina já é uma pessoa adulta.<0fe003e00ee0>Ela pode tomar suas próprias decisões.
+Muito obrigada, mamãe e papai!<0fe003e00ee0>Senhor David, ajudarei em tudo que puder!
+Certo, vamos lá. Já está resolvido.<0fe003e00ee0>Temos que nos preparar.
+A-ah, sim. Claro.
 

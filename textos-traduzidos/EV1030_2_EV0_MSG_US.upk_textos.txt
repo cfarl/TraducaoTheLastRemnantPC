@@ -1,27 +1,27 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1030_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Hey, Irina.
-Rush<07f0>Mr. David...
-What're you looking so surprised for?<0fe003e00ee0>You wanted to talk, right?
-Yeah, but...
-My apologies, but an urgent matter requires<0fe003e00ee0>our presence at the Congress.<1ae0000003430fe005e001000ee0>If you don't need him, I'll be borrowing<0fe003e00ee0>your brother for a bit longer...
-W-wait! I heard that the Conqueror<0fe003e00ee0>was still alive.<1ae0000016430fe005e001000ee0>Is Rush...<0fe003e00ee0>Are you still gonna make Rush fight?
-Mr. David... I really appreciate you<0fe003e00ee0>helping Rush and me.<1ae0000019430fe005e001000ee0>But please, you have to let Rush go!<0fe003e00ee0>You can take me instead.
-What the hell are you talking about?
-I'm talking about saving your life! How can<0fe003e00ee0>you talk about keeping me out of danger,<1ae000001c430fe005e001000ee0>and then walk right into it yourself?
-I can help you with this...<0fe003e00ee0>but only if you let me!
-You... I don't want you worrying about<0fe003e00ee0>this kind of stuff.
-Rush. Go get ready.<0fe003e00ee0>I need to speak with Irina.
-...Fine.
-You know that Rush only wants you to<0fe003e00ee0>be safe.
-I know...but...
-Don't be foolish, Irina.<0fe003e00ee0>You're just a normal girl.
-Me? Normal?<0fe003e00ee0>Even with that terrible power I have?
-Just forget about what happened in<0fe003e00ee0>Nagapur, alright?
-Nagapur...<0fe003e00ee0>How am I supposed to just forget that?
-You cannot<07f0>and should not.
-Terrible things are all the more necessary<0fe003e00ee0>to remember. You can end this nonsense.
-What're you doing here?
-Even if you knew, you could not prevent me<0fe003e00ee0>from reaching my goal.<1ae0000021430fe005e001000ee0>That is because I...
+Ei, Irina.
+Rush... Senhor David...
+Por que você parece tão surpresa?<0fe003e00ee0>Você queria me dizer algo, não queria?
+Sim, mas...
+Sinto muito, mas um assunto urgente requer<0fe003e00ee0>nossa presença diante do Conselho.<1ae0000003430fe005e001000ee0>Se não se importar, terei que pegar<0fe003e00ee0>seu irmão emprestado um pouco mais...
+E-espere! Ouvi dizer que o Conquistador<0fe003e00ee0>ainda está vivo.<1ae0000016430fe005e001000ee0>E o Rush...<0fe003e00ee0>Você quer que ele continue lutando?
+Senhor David... Agradeço de verdade que esteja<0fe003e00ee0>nos ajudando, eu e o Rush.<1ae0000019430fe005e001000ee0>Mas por favor, você precisa liberá-lo!<0fe003e00ee0>Você pode me levar no seu lugar.
+Mas que diabos você está dizendo?
+Só estou tentando salvar sua vida!<0fe003e00ee0>Como você pode falar de me manter a salvo,<1ae000001c430fe005e001000ee0>se tudo o que faz é se meter em encrencas?
+Eu posso ajudar nisso...<0fe003e00ee0>Mas só posso ajudar se você deixar!
+Você... Não quero que se preocupe<0fe003e00ee0>com essas coisas.
+Rush. Vá se preparar.<0fe003e00ee0>Preciso conversar com Irina.
+... Certo.
+Você sabe que o Rush só quer que<0fe003e00ee0>esteja a salvo.
+Eu sei... mas...
+Não seja insensata, Irina.<0fe003e00ee0>Você é apenas uma garota normal.
+Eu? Normal?<0fe003e00ee0>Com esse terrível poder que carrego?
+Só esqueça o que aconteceu em<0fe003e00ee0>Nagapur, certo?
+Nagapur...<0fe003e00ee0>Como posso me esquecer de algo assim?
+Você não pode... E não deve.
+As tragédias devem ser lembradas...<0fe003e00ee0>Você pode pôr um fim nessa insensatez.
+O que você está fazendo aqui?
+Ainda que você soubesse, ainda assim não<0fe003e00ee0>poderia me impedir de cumprir meu objetivo.<1ae0000021430fe005e001000ee0>Isso porque eu...
 

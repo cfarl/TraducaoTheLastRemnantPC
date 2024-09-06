@@ -1,32 +1,32 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0590_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-How's my dad?
-His life is not in danger.<0fe003e00ee0>But it looks like he is in a coma.<1ae0000025430fe005e001000ee0>There's no telling when he'll wake.
-I'll bet he was cursed!
-We need to track down that mage<0fe003e00ee0>post-haste.<1ae00000ae420fe005e001000ee0>I believe he's the only one who can save<0fe003e00ee0>Dr. Sykes.
+Como está meu pai?
+Sua vida não corre perigo.<0fe003e00ee0>Mas parece que está em coma.<1ae0000025430fe005e001000ee0>Não sabemos quando irá acordar.
+Tenho certeza que se trata de uma maldição!
+Precisamos encontrar aquele mago<0fe003e00ee0>o mais rápido possível.<1ae00000ae420fe005e001000ee0>Acredito que ele é o único que pode salvar o<0fe003e00ee0>Dr. Sykes.
 Wagram...?
-If only I knew where Mom was...
-That reminds me. Do you remember what<0fe003e00ee0>Dr. Sykes told us earlier?<1ae000002a430fe005e001000ee0>About Ms. Marina luring away the others?
-What did he mean by that?
-I'm at a loss...
-I think I may have an idea of<0fe003e00ee0>her whereabouts.
-Really?
-A fine time to tell us!
-I must ask a favor. I wish to seek her out<0fe003e00ee0>in the company of Rush, and Rush alone.
-Just the two of you?
-Yes, my lord...
-Would you care to explain why?
-I see.
-Lord David!?
-You have been a faithful servant to Athlum<0fe003e00ee0>for many years. I place my trust in you.
-Lord David...
+Se ao menos eu soubesse onde está minha mãe...
+Isso me lembra... Você se lembra do que<0fe003e00ee0>nos disse o Dr. Sykes mais cedo?<1ae000002a430fe005e001000ee0>Que a Sra Marina estava tentando despistar alguém?
+O que ele quis dizer com isso?
+Eu não sei dizer...
+Eu acho que sei onde<0fe003e00ee0>ela pode estar.
+Sério?
+É uma boa hora para nos dizer!
+Devo pedi-lo um favor. Quero ir atrás dela<0fe003e00ee0>na companhia do Rush, e somente com o Rush.
+Só vocês dois?
+Sim, milorde...
+Você poderia me explicar o porquê?
+Entendo.
+Lorde David!?
+Você tem sido uma servidora leal de Athlum<0fe003e00ee0>durante muitos anos. Eu confio em você.
+Lorde David...
 Rush.
-Watch over her.<0fe003e00ee0>She is not as tough as she appears to be.
-Gotcha.
-Let us return to Athlum.<0fe003e00ee0>There is much to be done.
-Yes, my lord!
-Rush, know that your father is in<0fe003e00ee0>good hands.
-I know. Thanks.
-I will see you back in Athlum.
+Cuide bem dela.<0fe003e00ee0>Ela não é tão durona como parece.
+Pode deixar.
+Vamos retornar para Athlum.<0fe003e00ee0>Há muito a ser feito.
+Sim, milorde!
+Rush, saiba que seu pai está em<0fe003e00ee0>boas mãos.
+Eu sei. Obrigado.
+Nos vemos em Athlum.
 

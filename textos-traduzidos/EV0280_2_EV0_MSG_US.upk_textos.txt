@@ -1,18 +1,18 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0280_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Feelin' better?
-You're a picky eater, huh? Sorry the menu's<0fe003e00ee0>not fit for a princess like you.
-Hey.
+Está se sentindo melhor?
+Você tem um paladar refinado, hã? Sinto muito pelo<0fe003e00ee0>cardápio não ser do seu agrado, princesa.
+Ei...
 Rush...
-Rush is dead.
-No...
-Stop mourning the dead and eat your meal.<1ae00000f0420fe005e001000ee0>You are vital to Him.<0fe003e00ee0>You should be honored.
-Hey, wait up!
-How long are we gonna keep her like that?<0fe003e00ee0>Let's just hand her over!
-You pity her?
-This whole deal makes me sick.<0fe003e00ee0>She's just a kid!
-I am merely following the Lord's orders.<0fe003e00ee0>As you should follow mine.
-Fine! Then gimme some real orders!<0fe003e00ee0>I'm sick of bein' a damn baby-sitter!
-As you wish. Let us go forth to<0fe003e00ee0>the next Remnant.
+Rush está morto.
+Não...
+Pare de lamentar os mortos e coma sua refeição.<1ae00000f0420fe005e001000ee0>Você é uma peça chave para Ele.<0fe003e00ee0>Deveria se sentir honrada.
+Ei, espere aí!
+Quanto tempo vamos mantê-la aqui?<0fe003e00ee0>Deveríamos libertá-la!
+Está sentindo pena dela?
+Essa coisa toda me deixa enojado.<0fe003e00ee0>Ela é só uma garota!
+Estou somente seguindo as ordens do meu senhor.<0fe003e00ee0>Assim como você deveria seguir as minhas.
+Certo! Pois então me dê ordens de verdade!<0fe003e00ee0>Estou farto de fazer a droga do papel de uma babá!
+Como quiser. Vamos atrás do<0fe003e00ee0>próximo Remanescente.
 

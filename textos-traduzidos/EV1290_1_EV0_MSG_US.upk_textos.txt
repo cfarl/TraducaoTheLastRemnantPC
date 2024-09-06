@@ -2,15 +2,15 @@
 -- (Export 0) EV1290_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
 Hermeien!
-Conqueror...
-L-Lord Conqueror!<0fe003e00ee0>Please, you must help me!
-Lord David!
-F-forgive me, I didn't mean to get carried<0fe003e00ee0>away<07f0>I was just trying to help!<1ae0000077430fe005e001000ee0>Please, you must show mercy!
-Fool. Without regard for the Remnants or anything<0fe003e00ee0>else, you continued your petty machinations...<1ae000008c430fe005e001000ee0>No more.
-Duke Ghor!
-Enough of this. If you have not awakened<0fe003e00ee0>by now, then you are no longer necessary.
+Conquistador...
+L-Lorde Conquistador!<0fe003e00ee0>Por favor, você precisa me ajudar!
+Lorde David!
+Perdoe-me, não era minha intenção me deixar<0fe003e00ee0>ser levado. Só estava tentando ajudar!<1ae0000077430fe005e001000ee0>Por favor, tenha piedade!
+Tolo. Ao invés de se consagrar aos Remanescentes,<0fe003e00ee0>continua com suas intrigas insignificantes...<1ae000008c430fe005e001000ee0>É o fim.
+Duque Ghor!
+Já basta. Se ainda não despertou até agora,<0fe003e00ee0>é porque deixou de ser necessário.
 Rush!
-Stop!!!
-You...
-W-wait, you can't leave me! Conqueror!
+Pare!!!
+Você...
+E-espere, você não pode me deixar! Conquistador!
 

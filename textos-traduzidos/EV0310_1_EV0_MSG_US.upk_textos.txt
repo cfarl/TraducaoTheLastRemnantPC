@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0310_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Jackpot!
+Bingo!
 Dave!
-I am David Nassau, the Marquis of Athlum!
-Your presence here is regarded as an act of<0fe003e00ee0>aggression against Athlum!<1ae000000c430fe005e001000ee0>Lay down your arms immediately, and state<0fe003e00ee0>your name and intentions!
-If you fail to comply, we shall have<0fe003e00ee0>no choice but to use deadly force.<1ae000000c430fe005e001000ee0>I shall give you only one chance.<0fe003e00ee0>Surrender now!
-What are you doing!?<0fe003e00ee0>A scolding isn't gonna stop guys like that!
-So be it. We shall make them rue the day<0fe003e00ee0>they stepped into Athlum!
-All men! Charge!
+Eu sou David Nassau, o marquês de Athlum!
+Sua presença nesse lugar constitui um ato<0fe003e00ee0>hostil contra Athlum!<1ae000000c430fe005e001000ee0>Entreguem suas armas imediatamente, e declarem<0fe003e00ee0>seu nome e intenções!
+Se não cumprirem essas ordens, não teremos outra<0fe003e00ee0>escolha senão fazer uso da força.<1ae000000c430fe005e001000ee0>Darei a vocês apenas uma chance.<0fe003e00ee0>Rendam-se imediatamente!
+O que você está fazendo!?<0fe003e00ee0>Uma bronca não vai adiantar nada com esses caras!
+Então que assim seja. Faremos eles lamentarem<0fe003e00ee0>o dia em que puseram os pés em Athlum!
+Homens! Atacar!
 

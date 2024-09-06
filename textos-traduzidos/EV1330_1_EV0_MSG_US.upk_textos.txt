@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1330_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-I know what you are.<0fe003e00ee0>I know that you must obey me...
-This power compels you!
-You reversed the power!?
+Eu sei o que você é.<0fe003e00ee0>Sei que deve me obedecer...
+Meu poder te obriga a me obedecer!
+Você inverteu meus poderes!?
 Irina!!!
-I tire of your meddling.
-You bastard!
-What did you do to my sister!?
-I gave her a more appropriate form.<0fe003e00ee0>Now you have no choice but to awaken.
+Estou cansado de suas intromissões.
+Seu desgraçado!
+O que você fez com minha irmã!?
+Dei a ela uma forma mais apropriada.<0fe003e00ee0>Agora você não tem outra escolha senão despertar.
 

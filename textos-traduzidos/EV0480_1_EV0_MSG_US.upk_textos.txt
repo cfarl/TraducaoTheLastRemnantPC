@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0480_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-It's him!
-Over here!
-Hey, the hell's he thinking?
+É ele!
+Por aqui!
+Ei, o que ele pensa que está fazendo?
 Shhh!
-Does he wish to bind the Ark?<0fe003e00ee0>Only one with great power could do so.
-That glow!
-It can't be!
-Yes, I'm afraid it is. This light is...
-It seems like the assembly hall<0fe003e00ee0>is...glowing!
-...Luminescence.
-H-he did it... He bound the Ark...!<0fe003e00ee0>Who...or what is he?
+Ele pretende se vincular ao Arca?<0fe003e00ee0>Só alguém com grande poder pode fazer isso.
+Esse brilho...
+Não pode ser...
+Sim, temo que isso seja verdade. Essa luz é...
+É como se a câmara da assembleia<0fe003e00ee0>estivesse... brilhando!
+... Luminescência.
+E-Ele conseguiu... Ele se vinculou ao Arca...!<0fe003e00ee0>Quem... ou o que é ele?
 

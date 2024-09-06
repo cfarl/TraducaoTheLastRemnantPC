@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0350_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Well, well...<0fe003e00ee0>It seems I've underestimated you.
-The hell!? You can't kill him!<0fe003e00ee0>He's the goddamn Marquis of Athlum!
-It makes no difference. He cannot unlock<0fe003e00ee0>the true power of the Remnants.<1ae000001f430fe005e001000ee0>He is merely fuel for their fire.
-Ancient magicks bound to my call;<0fe003e00ee0>within the void, envelop all!
-D<07f0>Can't believe this...!
-How dare you!
-Rush, get out of here!
+Ora, ora...<0fe003e00ee0>Parece que subestimei vocês.
+O que está fazendo!? Você não pode matá-lo!<0fe003e00ee0>Ele é o maldito marquês de Athlum!
+Isso não importa. Ele não é capaz de liberar<0fe003e00ee0>o verdadeiro potencial dos Remanescentes....<1ae000001f430fe005e001000ee0>Ele só serve para alimentar o seu poder.
+Magias arcanas de eras passadas, responda ao<0fe003e00ee0>meu chamado; no vazio envolva todos!
+N-não consigo acreditar nisso...!
+Como se atreve!?
+Rush, vá embora daqui!
 Irina!?
-Wench!
-Get back! It's caving in!
-Dammit! Irina! Lemme go!
-Lord David! Fall back!
+Vadia!
+Volte aqui! Isso vai desmoronar!
+Maldição! Irina! Me solte!
+Lorde David! Retirada!
 Irina!!!
 

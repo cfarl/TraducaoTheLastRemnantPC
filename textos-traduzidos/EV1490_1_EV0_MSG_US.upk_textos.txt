@@ -1,27 +1,27 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1490_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-You've arrived.
-What's your game, Conqueror?
-I desire to release Remnants from<0fe003e00ee0>the hands of men.
-Release?
-The beings of this planet have become far too<0fe003e00ee0>accustomed to using Remnants as their tools.
-At this rate, they will push the Remnants' power<0fe003e00ee0>beyond their limits. They will destroy all existence.
-Ridiculous! Do you really think so little<0fe003e00ee0>of us?
-Do you really think your trust in mankind<0fe003e00ee0>is founded?
-My duty is to prevent that eventuality.
-Who<07f0>what really are you?
-Merely one warden of the Remnants.
-Warden?
-So there's something here in Elysion you need<0fe003e00ee0>to "release" the Remnants<07f0>is that it?
-You should know. This was not originally<0fe003e00ee0>my task to complete.
-With the activation of this machine, all of<0fe003e00ee0>the world's Remnants will be freed.
-While you're answering questions, maybe you can<0fe003e00ee0>answer me this: Why did you do that to Hermeien?
-I desired to learn to what extent releasing<0fe003e00ee0>the Remnants would affect this world.
-Thankfully, I found that Remnants merely<0fe003e00ee0>consume lesser lifeforms, like men.
-People consumed by Remnants? Then...if all<0fe003e00ee0>the Remnants were released...
-Well? Do you finally understand?
-I understand that you don't really<0fe003e00ee0>give a damn about people's lives.
-But me... My friends and family are<0fe003e00ee0>something I wouldn't trade for the world.<1ae00000f0420fe005e001000ee01ae00000f0410fe005e001000ee0>I'll protect them, no matter what.
-As you wish. I won't hold back.<1ae00000b8420fe005e001001ae00000d24205e001000ee0>Come.
+Finalmente chegaram.
+Qual é seu plano, Conquistador?
+Meu desejo é libertar os Remanescentes das<0fe003e00ee0>mãos dos homens.
+Libertá-los?
+Os seres desse mundo se acostumaram<0fe003e00ee0>a usar Remanescentes como simples ferramentas.
+Nesse ritmo, logo excederão o limite do poder<0fe003e00ee0>dos Remanescentes e destruirão toda a existência.
+Isso é ridículo! Você acha mesmo que somos<0fe003e00ee0>capazes de fazer algo assim?
+Você acredita mesmo que sua confiança nos homens<0fe003e00ee0>pode ser justificada?
+Meu dever é impedir essa possibilidade.
+Quem... O que diabos é você?
+Sou um simples guardião dos Remanescentes.
+Um guardião?
+Então aqui em Elysion tem algo que você precisa<0fe003e00ee0>para "libertar" os Remanescentes, não é?
+Você deveria saber disso. Em princípio,<0fe003e00ee0>não era eu quem deveria cumprir essa missão.
+Quando essa máquina for ativada, todos<0fe003e00ee0>os Remanescentes do mundo serão libertados.
+Já que está respondendo perguntas, talvez possa<0fe003e00ee0>responder isso: por que fez aquilo com Hermeien?
+Eu queria descobrir o que aconteceria a esse mundo<0fe003e00ee0>quando todos os Remanescentes fossem libertados.
+Por sorte, descobri que os Remanescentes só<0fe003e00ee0>consomem seres inferiores, como os homens.
+Os Remanescentes consomem pessoas? Então...<0fe003e00ee0>Se todos os Remanescentes forem libertados...
+Então? Você finalmente compreendeu?
+O que compreendo é que você não<0fe003e00ee0>dá a mínima para a vida das pessoas.
+Mas eu... Meus amigos e familiares são<0fe003e00ee0>algo que eu não trocaria por nada nesse mundo.<1ae00000f0420fe005e001000ee01ae00000f0410fe005e001000ee0>Eu vou protegê-los, aconteça o que acontecer.
+Como desejar. Não terei piedade.<1ae00000b8420fe005e001001ae00000d24205e001000ee0>Venha...
 

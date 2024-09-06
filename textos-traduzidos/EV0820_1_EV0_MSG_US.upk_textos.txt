@@ -1,18 +1,18 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0820_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Impressive.
+Impressionante.
 Wagram!
-My dear Marquis, you know as well as I<0fe003e00ee0>that Duke Hermeien would prefer if you<1ae0000020430fe005e001000ee0>bid a hasty retreat...
-Your life will be in jeopardy if you don't.
-Duke Hermeien can't be serious about<0fe003e00ee0>using Marion's Blessing!
-My place is not to question these things.
-You have been warned, Marquis.
-Lord David...
-We must protect Irina at all costs!<0fe003e00ee0>We cannot allow her power to be abused!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yeah!
+Meu caro Marquês, ambos sabemos que<0fe003e00ee0>o duque Hermeien iria preferir que você<1ae0000020430fe005e001000ee0>se retirasse o quanto antes...
+Caso contrário, sua vida estaria correndo perigo.
+Não acredito que o duque Hermeien pretenda<0fe003e00ee0>fazer uso da benção de Marion!
+Não cabe a mim questionar suas decisões.
+Você foi avisado, Marquês.
+Lorde David...
+Devemos proteger Irina a qualquer custo!<0fe003e00ee0>Não podemos permitir que abusem do seu poder!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Isso!
 

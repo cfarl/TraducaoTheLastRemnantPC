@@ -1,25 +1,25 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1030_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome back, Lord David.
-I trust everything's gone smoothly here?
-No problems, my lord.
+Bem-vindo de volta, Lorde David.
+Está tudo bem por aqui, não está?
+Sem problemas, milorde.
 Rush!
-Glad you're finally back, Rush.
-Good to be back!<0fe003e00ee0>Something going on?
-Hey, Rush.
-Dad!?
-Since when were you awake?
-It hasn't been very long.
-I figured I'd surprise you.
-Sorry for making you worry.
-No... I'm just really glad you're okay.
-I suppose this means you were able to<0fe003e00ee0>dispel Wagram's magick.
-Hmm.
-Rush. I need you.
-Sorry, Dad. I can't stay and chat.<0fe003e00ee0>We'll catch up later, okay?
+Estou feliz por estar de volta, Rush.
+Eu também!<0fe003e00ee0>Será que perdi alguma coisa?
+Ei, Rush.
+Papai?
+Quando foi que você acordou?
+Não tem muito tempo.
+Queria te fazer uma surpresa.
+Sinto muito por tê-lo deixado preocupado.
+Não... Estou muito feliz de ver que está bem.
+Isso significa que vocês conseguiram<0fe003e00ee0>desfazer o feitiço de Wagram.
+Hmm...
+Rush. Preciso falar com você.
+Desculpe, papai. Não posso ficar para<0fe003e00ee0>conversar. Mas nos falamos mais tarde, pode ser?
 Rush...
-Um, there's something I wanted to<0fe003e00ee0>ask you...
-Sorry, kiddo, can it wait?
-Um, yeah, I guess.
+Hã, tem uma coisa que eu queria te<0fe003e00ee0>perguntar...
+Desculpe maninha, será que isso pode esperar?
+Hã... sim, acho que sim.
 

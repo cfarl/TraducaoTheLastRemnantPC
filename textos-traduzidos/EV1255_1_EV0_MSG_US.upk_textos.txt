@@ -1,10 +1,10 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1255_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-The tracking Remnant says something's here?
-Yes. I can feel it...
-Who's there?
-I am Milton, the true disciple!<1ae00000e6420fe005e001000ee0>A loyal servant of the Conqueror, my duty is to<0fe003e00ee0>stop those who are unworthy to step on this path!
-You are but poor, ignorant fools, to dare challenge<0fe003e00ee0>someone with such sublime power!
-The writing on the wall will be as clear as day...<0fe003e00ee0>Once it is written with your blood!
+O Remanescente rastreador disse que há algo aqui?
+Sim. Eu posso sentir sua presença...
+Quem está aí?
+Eu sou Milton, o fiel discípulo!<1ae00000e6420fe005e001000ee0>Como leal servo do Conquistador, meu dever é deter<0fe003e00ee0>aqueles que são indignos de ficar no seu caminho!
+Vocês não passam de pobres ignorantes, se ousam<0fe003e00ee0>desafiar alguém com tamanho poder!
+O epitáfio que estará em seus túmulos será claro<0fe003e00ee0>como o dia... Porque será escrito com seu sangue!
 

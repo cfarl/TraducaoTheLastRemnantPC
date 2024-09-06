@@ -1,35 +1,35 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1130_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-So the urchin from Qubine believes<0fe003e00ee0>someone is behind this?
-Yes, Mr. Chairman.
-Well... I must admit that he may be correct<0fe003e00ee0>in his assumption...
-Who<07f0>!?
-Happy to see me, Duke?
-L-Lord Hermeien...?
-No way...
-I don't understand!
-I hear you nabbed my position as chairman<0fe003e00ee0>of the Congress.<1ae0000023430fe005e001000ee0>My, my, haven't we moved up in the world?
-You okay!?
-This power... This is what I sensed from<0fe003e00ee0>the Duke of Qubine.
-Yes, yes. This power I obtained from the Remnants<0fe003e00ee0>is nothing less than extraordinary.<1ae0000087430fe005e001000ee0>I am now what you would call "omnipotent."
-I shared this power with the others but<0fe003e00ee0>they aren't reacting to it very well.<1ae0000016430fe005e001000ee0>Apparently, it's killing them instead.<0fe003e00ee0>Oh, the guilt!
-You're the one behind all this? But why!?
-Your ignorance never ceases to amaze me.<0fe003e00ee0>I want to rule the world! Join me, Duke!
-Lord Hermeien... I...
-My lord, you must step back!<0fe003e00ee0>He cannot be reasoned with!
+Então o moleque de Qubine acredita<0fe003e00ee0>que alguém está por trás disso?
+Sim, Sr. Presidente.
+Bem... Devo reconhecer que talvez ele tenha razão<0fe003e00ee0>em suas suposições...
+Quem!?
+Feliz em me ver, Duque?
+L-Lorde Hermeien...?
+Não pode ser...
+Eu não entendo!
+Ouvi dizer que você tinha roubado meu posto<0fe003e00ee0>de Presidente do Conselho.<1ae0000023430fe005e001000ee0>Ora, Ora, como o mundo dá voltas...
+Você está bem?!
+Essa energia... É a mesma que senti<0fe003e00ee0>emanando do duque de Qubine.
+Sim, sim. O poder que obtive dos Remanescentes<0fe003e00ee0>é extraordinário.<1ae0000087430fe005e001000ee0>Agora sou o que vocês chamariam de "onipotente".
+Compartilhei esse poder com os outros,<0fe003e00ee0>mas eles não estão reagindo muito bem a ele.<1ae0000016430fe005e001000ee0>Aparentemente, ele os está matando...<0fe003e00ee0>Oh, me sinto tão culpado!
+Você é o responsável por isso? Mas por quê!?
+Sua ignorância nunca deixa de me surpreender.<0fe003e00ee0>Eu quero dominar o mundo! Junte-se a mim, Duque!
+Lorde Hermeien... Eu...
+Milorde, é melhor retroceder!<0fe003e00ee0>Não podemos argumentar com ele!
 Rush!
-My dear maiden of Marshall. This is<0fe003e00ee0>divine will. We must all be released!
-What?
-Irina, get back!
-Very well. I know when I'm not welcome.<0fe003e00ee0>However, I will return expecting a decision, Duke.<1ae0000048430fe005e001000ee0>I hope you make the right one<0fe003e00ee0>and side with me.
-Oh my...
-Lord David, are you hurt?
-I'm fine.
-I thought Lord Hermeien had perished<0fe003e00ee0>in Nagapur.
-This is too weird.<0fe003e00ee0>Does anybody know what's going on!?
-Chairman...what do you intend to do?
-I have no reason to doubt his words.<1ae0000002430fe005e001000ee0>Lord Hermeien will return and I must be<0fe003e00ee0>prepared for him.
-Ensuring his destruction is my duty as<0fe003e00ee0>his successor.
-The time for war has come.
+Minha querida donzela de Marshall. Essa é a<0fe003e00ee0>vontade divina. Todos nós devemos ser libertados!
+O quê?
+Irina, para trás!
+Muito bem. Sei quando não sou bem-vindo.<0fe003e00ee0>Mas voltarei, e quero uma resposta, Duque.<1ae0000048430fe005e001000ee0>Espero que tome a decisão correta<0fe003e00ee0>e se una ao meu bando.
+Minha nossa...
+Lorde David, você está ferido?
+Estou bem.
+Pensei que Lorde Hermeien havia perecido<0fe003e00ee0>em Nagapur.
+Isso é muito estranho.<0fe003e00ee0>Alguém entende o que está acontecendo?
+Presidente... o que pretende fazer?
+Não tenho motivos para duvidar de suas palavras.<1ae0000002430fe005e001000ee0>Lorde Hermeien voltará, e devo<0fe003e00ee0>estar preparado para sua chegada.
+Assegurar-me da sua destruição é meu dever<0fe003e00ee0>como seu sucessor.
+É chegada a hora de lutar.
 

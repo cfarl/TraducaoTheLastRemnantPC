@@ -1,29 +1,29 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0040_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Ow...
-Lady Emma! Are you hurt?
-Is that you, Blocter? I'm fine.
-I can see a light in the distance.<0fe003e00ee0>That should be the way out.
-Yes, ma'am! We're en route now!
-H-hey!
-Wait up, lady! What's going on!?
-The Gae Bolg blew a hole in the ground,<0fe003e00ee0>and now we're in this cave.<1ae00000c8420fe005e001000ee0>Anything else obvious you'd like<0fe003e00ee0>pointed out?
-Cave?
-At least the exit isn't far.
-Hey, wait! Listen to me!<1ae0000084420fe005e001000ee01ae0000070420fe005e001000ee0>Hey!
-I'll hear whatever you have to say<0fe003e00ee0>once we get out of here.
-Your story better be good, spy.
-What do you mean, spy!?
-Think about it, genius.<0fe003e00ee0>Why else would you be on a battlefield?
-What are you talking about?<0fe003e00ee0>I'm just looking for my sister, Irina!
+Ai...
+Lady Emma! Você se machucou?
+É você, Blocter? Estou bem.
+Estou vendo uma luz ali adiante.<0fe003e00ee0>Deve ser a saída daqui.
+Sim, senhora! Estamos indo para lá agora!
+E-ei!
+Espere, senhora! O que está acontecendo aqui!?
+O Gae Bolg abriu um buraco no chão,<0fe003e00ee0>e acabamos caindo dentro de uma caverna.<1ae00000c8420fe005e001000ee0>Isso é tudo, ou você tem alguma outra<0fe003e00ee0>pergunta estúpida?
+Caverna?
+Pelo menos a saída não está tão longe...
+Ei, espere! Me escute!<1ae0000084420fe005e001000ee01ae0000070420fe005e001000ee0>Ei!
+Vou ouvir tudo que tem a dizer<0fe003e00ee0>depois que tivermos saído daqui.
+É bom que tenha uma boa explicação, espião.
+Como assim espião!?
+Está bem claro, espertinho...<0fe003e00ee0>O que você fazia no campo de batalha?
+Mas do que você está falando?<0fe003e00ee0>Eu só estava procurando pela minha irmã, Irina!
 Irina?
-What's your name?
-Me?
+Qual é o seu nome?
+Meu nome?
 Rush! Rush Sykes!
 Rush Sykes.
-Ow...
-So you're looking for your sister.<0fe003e00ee0>What happened to her?
-Speak!
-We're from this island called Eulam...
+Ai...
+Então você está procurando pela sua irmã...<0fe003e00ee0>O que aconteceu com ela?
+Fale!
+Nós viemos de uma ilha chamada Eulam...
 

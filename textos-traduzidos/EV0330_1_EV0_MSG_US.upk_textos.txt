@@ -1,36 +1,36 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0330_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Irina. You must bind this Remnant to<0fe003e00ee0>yourself. You must release its power.
-For that power will change the world...<0fe003e00ee0>Why, it might even bring back the dead.
-You mean...?
-We'd like to see your brother again,<0fe003e00ee0>wouldn't we?
+Irina, você deve forjar um vínculo com esse<0fe003e00ee0>Remanescente. Você deve liberar seu poder.
+Pois esse poder poderá mudar o mundo...<0fe003e00ee0>Ele poderá até mesmo trazer de volta os mortos.
+Isso quer dizer...?
+Gostaríamos de ver seu irmão de novo,<0fe003e00ee0>não gostaríamos?
 Irina!
-Rush, they have a hostage.<0fe003e00ee0>You must stay calm.
-But...!
-Listen, these people are dangerous and<0fe003e00ee0>we don't know what they're capable of.
-Well, well! If it isn't the Marquis of Athlum!
-You know of me? How fortunate.
-Your acts of aggression have not gone<0fe003e00ee0>unnoticed. We know how you manipulated<1ae000000c430fe005e001000ee0>both the Rubber Soul and the Schiavona.<0fe003e00ee0>And let's not forget the kidnapping...
-Your actions are in violation of<0fe003e00ee0>Congressional decree, and for this<1ae00000fa420fe005e001000ee0>you will be punished!
-Both of us are men of reason, Marquis.<1ae00000aa420fe005e001000ee0>A man of your stature surely realizes<0fe003e00ee0>the...impracticality of certain laws.
-But I understand.<0fe003e00ee0>We shall withdraw if that is your wish.<1ae000002f430fe005e001000ee0>We shan't dare do anything to put you out.
-Will that be all?
-No! You will release her and surrender<0fe003e00ee0>immediately!
-Do you think we won't harm you just<0fe003e00ee0>because you're the Marquis of Athlum?
-Your confidence implies you are not alone.<1ae00000c4420fe005e001000ee0>Who is your ally?<0fe003e00ee0>The Duke of Ghor, perhaps?
-By now, you must be aware of<0fe003e00ee0>the Academy's response...<1ae0000048430fe005e001000ee0>or lack thereof.
-You... You're part of the Academy?
-My dear Marquis.<0fe003e00ee0>Irina is special.<1ae0000011430fe005e001000ee0>Her parents desperately wish for her<0fe003e00ee0>to take part in our research.
-She has finally come to understand that.
-We merely...got off on the wrong foot.
-Liar! You're full of it!
-Irina, I know you don't wanna be here!<0fe003e00ee0>But it's okay now! I'm here!<1ae000002a430fe005e001000ee0>It's me, Rush! Your brother!
-It's a shame they do not share<0fe003e00ee0>the same power...
-Marquis, would you be so kind as to<0fe003e00ee0>babysit your brash young friend<1ae0000020430fe005e001000ee0>for the time being?<0fe003e00ee0>Consider it a helping hand in our research.
-Rush, stand down!
-No! I'm gonna go save my sister!
-Marquis, I believe it would be in your<0fe003e00ee0>best interest to stop your little friend.<1ae000001b430fe005e001000ee0>Otherwise, I fear your life may be<0fe003e00ee0>in peril...
-I find your story hard to swallow.<0fe003e00ee0>You will come with us to Athlum to<1ae00000ea420fe005e001000ee0>confirm this with the Academy.
-You do not take my word as fact?<0fe003e00ee0>Very well.<1ae0000007430fe005e001000ee0>Perhaps I shall convince you...by force!
+Rush, eles a têm como refém.<0fe003e00ee0>Mantenha a calma.
+Mas...
+Escute, essas pessoas são perigosas e<0fe003e00ee0>não sabemos do que são capazes.
+Ora, Ora! Se não é o marquês de Athlum!
+Você sabe quem sou? Que ótimo.
+Seus atos de hostilidade não passaram<0fe003e00ee0>despercebidos. Sabemos que manipulou<1ae000000c430fe005e001000ee0>tanto o Almelástica quanto a Schiavona.<0fe003e00ee0>E não vamos esquecer do sequestro...
+Suas ações constituem uma violação<0fe003e00ee0>das leis do Conselho, e por isso<1ae00000fa420fe005e001000ee0>você será punido!
+Nós dois somos homens razoáveis, Marquês.<1ae00000aa420fe005e001000ee0>Uma pessoa de sua posição certamente compreende<0fe003e00ee0>que... certas leis são impraticáveis.
+Mas eu entendo.<0fe003e00ee0>Iremos nos retirar se é isso o que deseja.<1ae000002f430fe005e001000ee0>Não ousaríamos fazer nada que pudesse irritá-lo.
+Isso é tudo?
+Não! Você vai soltá-la e vai se render<0fe003e00ee0>imediatamente!
+Você acha que não iremos feri-lo só<0fe003e00ee0>porque é o marquês de Athlum?
+Sua confiança dá a entender que não está sozinho.<1ae00000c4420fe005e001000ee0>Quem é seu aliado?<0fe003e00ee0>O Duque de Ghor, talvez?
+A essa altura você deveria estar ciente<0fe003e00ee0>da resposta da Academia...<1ae0000048430fe005e001000ee0>ou da falta dela.
+Você... Você faz parte da Academia?
+Meu caro Marquês...<0fe003e00ee0>Irina é muito especial.<1ae0000011430fe005e001000ee0>Seus pais desejam de todo coração que ela<0fe003e00ee0>participe de nossa pesquisa.
+Ela finalmente compreendeu isso.
+Nós somente... começamos com o pé esquerdo.
+Mentiroso! Não acredito em você!
+Irina, sei que não queria estar aqui!<0fe003e00ee0>Está tudo bem agora! Estou aqui!<1ae000002a430fe005e001000ee0>Sou eu, Rush! Seu irmão!
+É uma lástima que não compartilhem<0fe003e00ee0>do mesmo poder...
+Marquês, será que faria a gentileza de<0fe003e00ee0>pedir ao seu jovem e impaciente amigo<1ae0000020430fe005e001000ee0>que se tranquilize um pouco?<0fe003e00ee0>Seria uma grande ajuda para nossa pesquisa.
+Rush, se contenha!
+Não! Eu vou salvar a minha irmã!
+Marquês, acredito que seria bastante<0fe003e00ee0>conveniente que segurasse seu amigo.<1ae000001b430fe005e001000ee0>Pois caso contrário, temo que sua vida possa<0fe003e00ee0>correr perigo...
+Acho que sua história é difícil de engolir.<0fe003e00ee0>Você vai nos acompanhar até Athlum para<1ae00000ea420fe005e001000ee0>confirmá-la com a Academia.
+Você não acredita na minha palavra?<0fe003e00ee0>Muito bem.<1ae0000007430fe005e001000ee0>Talvez eu deva convencê-lo... pela força!
 

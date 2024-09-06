@@ -2,21 +2,21 @@
 -- (Export 0) EV0830_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
 Irina!
-I knew you'd come, Marquis.
-Duke Hermeien. You've manipulated both<0fe003e00ee0>the Conqueror and the Academy.<1ae000000d430fe005e001000ee0>Do you really think you can seize<0fe003e00ee0>the Remnants unchallenged?
-Not by me, you won't!
-You've missed my point.
-I am not after the Remnants.<1ae0000082420fe005e001000ee0>I am searching for someone who can<0fe003e00ee0>control them.
-It takes one with great will to operate<0fe003e00ee0>a Remnant. But it takes a great toll...
-The Gae Bolg killed your father.<0fe003e00ee0>I'm sure you're one to understand.
-Is that why you need Irina?
-So long as I have the Marshall girl,<0fe003e00ee0>the Remnants are mine to command!
-The only divine power that shall be<0fe003e00ee0>connected to them is me!
-How wonderful will that be!?<0fe003e00ee0>A new era will begin!
-I ask you: David Nassau, how would you<0fe003e00ee0>like to join me in ruling this<1ae0000043430fe005e001000ee0>new generation!?
-The Remnants may bring suffering, but I<0fe003e00ee0>will live with it, just as my father did.
-I will never accept your offer!
+Eu sabia que viria, Marquês.
+Duque Hermeien. Você manipulou tanto<0fe003e00ee0>o Conquistador quanto a Academia.<1ae000000d430fe005e001000ee0>Achou mesmo que poderia se apoderar<0fe003e00ee0>dos Remanescentes e permanecer impune?
+Não enquanto eu viver!
+Você não entendeu nada.
+Não estou atrás dos Remanescentes.<1ae0000082420fe005e001000ee0>Estou à procura de alguém que possa<0fe003e00ee0>controlá-los.
+Para controlar os Remanescentes é preciso grande<0fe003e00ee0>determinação. Mas também terríveis sacrifícios...
+O Gae Bolg consumiu seu pai.<0fe003e00ee0>Você deveria saber disso melhor do que ninguém.
+É por isso que precisa da Irina?
+Enquanto eu tiver a descendente de Marshall,<0fe003e00ee0>os Remanescentes estarão sob meu comando!
+O único poder divino diante do qual eles<0fe003e00ee0>responderão será meu!
+Não é maravilhoso!?<0fe003e00ee0>Será o começo de uma nova era!
+Diga-me, David Nassau, você gostaria<0fe003e00ee0>de se juntar a mim e governar comigo<1ae0000043430fe005e001000ee0>essa nova civilização!?
+Os Remanescentes podem trazer sofrimento,<0fe003e00ee0>mas viverei com isso, assim como fez meu pai.
+Eu jamais aceitarei sua oferta!
 Wagram.
-Yes, my lord.
-The Marquis of Athlum wishes to die.<0fe003e00ee0>Fulfill his request!
+Sim, milorde.
+O marquês de Athlum deseja morrer.<0fe003e00ee0>Realize seu desejo!
 

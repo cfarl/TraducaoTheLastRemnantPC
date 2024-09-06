@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1120_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-My lord...
+Milorde...
 Irina?
-You must be Irina Sykes.<1ae0000020430fe005e001000ee0>I've heard many things about you.
-I feel some kind of power flowing into him.<0fe003e00ee0>It feels like... Almost like a Remnant?
-What? I don't understand. How can that be?
-This must be part of someone's plan.
-This power he's sent, it's eating away at me<0fe003e00ee0>from within...trying to control me.<1ae0000087430fe005e001000ee0>And through it, I can feel him...
-David. Can't you feel it?
-Thank you.
-We must head to Ghor Castle and report<0fe003e00ee0>our findings to the Duke.
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Yes, my lord!
-Okay!
-David. Promise me you will not tell that<0fe003e00ee0>old bat about my current condition.<1ae0000082430fe005e001000ee0>Because I will never hear the end of it...
-Understood.
+Você deve ser Irina Sykes.<1ae0000020430fe005e001000ee0>Ouvi muitas coisas a seu respeito.
+Sinto uma corrente de energia fluindo até ele.<0fe003e00ee0>É como se fosse... Quase como um Remanescente?
+O quê? Eu não entendo. Como isso é possível?
+Isso deve ser parte do plano de alguém.
+Essa energia que está me enviando, está me<0fe003e00ee0>devorando por dentro... Tentando me controlar.<1ae0000087430fe005e001000ee0>E através dela, posso sentir sua presença...
+David. Você não sente também?
+Obrigado.
+Precisamos retornar ao Castelo de Ghor e reportar<0fe003e00ee0>nossas descobertas ao Duque.
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Sim, milorde!
+Certo!
+David. Prometa que não dirá nada para<0fe003e00ee0>aquele velhote sobre minha condição atual.<1ae0000082430fe005e001000ee0>Porque nunca saberei o final disso...
+Entendido.
 

@@ -1,31 +1,31 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0370_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Ahh, I thought he'd never let me go...
-Couldn't sleep?
-I... I couldn't save her!
-Dammit! Irina... I...<0fe003e00ee0>What am I supposed to do now!?
-Rush! You need to calm down.<0fe003e00ee0>Irina is alive.
-How do you<07f01ae000008a420fe002e001000be00ee0>
-After we left, a strange flying creature<0fe003e00ee0>was seen leaving Blackdale.<1ae00000c8420fe005e001000ee0>A girl was spotted as well...
-After comparing a few more reports,<0fe003e00ee0>we are certain it was Irina.
-F-for real?
-I had Pagus confirm it personally.<0fe003e00ee0>Without a doubt, your sister lives, Rush.
-What is it?
-...Even if she's alive, I'm not strong<0fe003e00ee0>enough to save her...
-Pull yourself together, Rush! You need to<0fe003e00ee0>keep whatever strength you do have!
-If you won't save her, who will?
-You're right... I've got to find a way.
-As I said, I'll help you as much as I can.<0fe003e00ee0>It's still far too early to give up hope!
-Dave... Thanks.
-Yes... well. That Wagram character implied<0fe003e00ee0>he was an Academy member.<1ae0000002430fe005e001000ee0>If that's true, it means this plot is much deeper<0fe003e00ee0>than we imagined. You cannot face it alone.<1ae0000043430fe005e001000ee0>Moreover... Irina saved us.<0fe003e00ee0>I owe her my life.<1ae00000c8420fe005e001000ee0>And men of Athlum always repay<0fe003e00ee0>their debts.
-You sure it's okay to just help us<0fe003e00ee0>like that? Torgal's not gonna be happy...
-Heh. Cleaning up my messes is his job...<0fe003e00ee0>Has been since I was a baby.
-Oh, man. That's gross.
-Once we learn where that flying creature<0fe003e00ee0>is headed, I'll let you know.
-Okay. I'll keep an eye out, too.
-Lord David...<0fe003e00ee0>You still intend to look into this matter?
-Of course. As if I would allow such<0fe003e00ee0>low fiends to sully Athlum!
-That mage... Find out who that Wagram really is,<0fe003e00ee0>even if it means shaking up the Academy!
-Yes, my lord.
+Ahh, achei que não me soltaria nunca...
+Não consegue dormir?
+Eu... Eu não fui capaz de salvá-la!
+Maldição! Irina... Eu...<0fe003e00ee0>O que devo fazer agora!?
+Rush! Você precisa se acalmar.<0fe003e00ee0>Irina está viva.
+Como você...?<1ae000008a420fe002e001000be00ee0>
+Depois que partimos, uma estranha criatura voadora<0fe003e00ee0>foi avistada perto de Valenegro.<1ae00000c8420fe005e001000ee0>Ela levava uma garota consigo...
+Depois de comparar diversos relatos,<0fe003e00ee0>estamos certos de que se tratava da Irina.
+É-é sério?
+Pagus confirmou isso pessoalmente.<0fe003e00ee0>Não há dúvidas, sua irmã está viva, Rush.
+O que foi?
+...Ainda que esteja viva, não sou forte<0fe003e00ee0>o bastante para salvá-la...
+Não perca a esperança, Rush! Você precisa<0fe003e00ee0>poupar todas as suas forças!
+Se você não for salvá-la, quem irá?
+Você tem razão... Eu encontrarei uma solução.
+Como eu te disse, irei ajudá-lo naquilo que puder.<0fe003e00ee0>Ainda é muito cedo para perder a esperança!
+Dave... Obrigado.
+Sim... tudo bem. Aquele tal Wagram insinuou<0fe003e00ee0>que é um membro da Academia.<1ae0000002430fe005e001000ee0>Se isso for verdade, a situação é bem mais séria<0fe003e00ee0>do que imaginávamos. Você vai precisar de ajuda.<1ae0000043430fe005e001000ee0>Além disso... Irina nos salvou.<0fe003e00ee0>Devo a ela minha vida.<1ae00000c8420fe005e001000ee0>E os homens de Athlum sempre pagam<0fe003e00ee0>suas dívidas.
+Você tem certeza que pode nos ajudar?<0fe003e00ee0>Torgal não ficará nada feliz com isso...
+Heh. Seu trabalho é limpar minhas sujeiras...<0fe003e00ee0>Ele tem feito isso desde quando eu era um bebê.
+Ah, cara. Isso é nojento!
+Assim que descobrirmos para onde foi<0fe003e00ee0>aquela criatura voadora, eu te avisarei.
+Certo. Vou ficar de olho também.
+Lorde David...<0fe003e00ee0>Você ainda pretende investigar esse assunto?
+Mas é claro. Não vou permitir que<0fe003e00ee0>esses bandidos manchem a imagem de Athlum!
+Aquele mago... Descubra quem é esse Wagram, nem<0fe003e00ee0>que precise virar a Academia de pernas para o ar!
+Sim, milorde.
 

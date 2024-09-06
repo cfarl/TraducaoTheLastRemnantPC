@@ -1,32 +1,32 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1400_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Someone's here.
+Tem alguém aqui...
 Wagram!
-Lord Wagram.
-It has been far too long.
-Wagram... What exactly are you scheming?
-Your eyes hold such suspicion! I am merely<0fe003e00ee0>doing what the Remnants desire of us.
-What are you talking about?
-Before man so much as crawled upon the earth,<0fe003e00ee0>Remnants existed, maintaining balance and harmony.
-Remnants were treated as divine creations<0fe003e00ee0>by man<07f0>both feared and worshipped.<1ae0000061430fe005e001000ee0>However, all changed with the birth of<0fe003e00ee0>one who could control them all.
-As time passed, men grew more and more audacious,<1ae000000e430fe005e001000ee0>treating Remnants as nothing more than<0fe003e00ee0>beneficial tools.
-So foolish are men.
-Once again, men must fear Remnants' power...<0fe003e00ee0>they must worship their strength.<1ae0000039430fe005e001000ee0>That is the only role of such unworthy creatures.
-Now, with the coming of a Remnant that <0fe003e00ee0>can express his desires,<1ae000000c430fe005e001000ee0>we must listen, obey,<0fe003e00ee0>and accept all he has to say.
-...Whatever the cost.
-You say there is a Remnant that can express<0fe003e00ee0>his intentions...his desires?
-You mean the Conqueror, right?
-Preposterous...<1ae00000e0410fe005e001000ee0>-Th-that's impossible!<0fe003e00ee0>-That can't be...
-Th-that's impossible!
-That can't be...
-Indeed. This was his home before he awakened.
-Heed my words: You will leave the Conqueror be.<1ae0000025430fe005e001000ee0>That is, if you value your lives.
-Wait! What if the Conqueror's planning something<0fe003e00ee0>horrible, like taking over the entire world?
-You're saying you want us to just sit back<0fe003e00ee0>and watch it happen?
-Weren't you listening, my boy?<1ae0000082420fe005e001000ee0>I said whatever the cost.
-Your Excellency...<0fe003e00ee0>You can't feel the same way...
-The line of God Emperors is due to the Remnants.<1ae00000f0420fe005e001000ee0>Who are we to stand in the way<0fe003e00ee0>of the Conqueror's wishes?
-Hear this, Marquis of Athlum.<0fe003e00ee0>Hereafter, no one shall hinder the Conqueror.<1ae000002a430fe005e001000ee0>Any who go against his goals shall be branded<0fe003e00ee0>a traitor.
-Go and inform the Congress at once.<0fe003e00ee0>You will abide by our command, Marquis.
+Lorde Wagram.
+Já faz muito tempo que não nos vejos...
+Wagram... O que exatamente está tramando?
+Quanta desconfiança vejo no seu olhar! Só estou<0fe003e00ee0>cumprindo a vontade dos Remanescentes.
+Do que você está falando?
+Antes dos homens rastejarem sobre a Terra os<0fe003e00ee0>Remanescentes já existiam trazendo paz e harmonia.
+Para os homens, os Remanescentes eram criações<0fe003e00ee0>divinas, tanto temidas quando adoradas.<1ae0000061430fe005e001000ee0>Mas tudo mudou com o nascimento de<0fe003e00ee0>alguém capaz de controlar todos eles.
+Com o passar do tempo, a ousadia dos homens foi<1ae000000e430fe005e001000ee0>crescendo, até que começaram a considerar os<0fe003e00ee0>Remanescentes como meras ferramentas.
+Como os homens são ignorantes...
+Uma vez mais, os homens devem temer os poderes<0fe003e00ee0>do Remanescentes.. Eles devem adorar o seu poder!<1ae0000039430fe005e001000ee0>Esse é o único papel de criaturas tão indignas.
+Agora, com a chegada de um Remanescente<0fe003e00ee0>que pode expressar suas vontades,<1ae000000c430fe005e001000ee0>devemos ouvi-lo, obedecê-lo,<0fe003e00ee0>e aceitar tudo o que ele tem a nos dizer.
+...A qualquer custo.
+Você diz que existe um Remanescente que pode<0fe003e00ee0>expressar suas vontades... seus desejos?
+Você se refere ao Conquistador, não é?
+Absurdo...<1ae00000e0410fe005e001000ee0>Isso... Isso é impossível!<0fe003e00ee0>Não pode ser...
+Isso.... Isso é impossível!
+Não pode ser...
+Mas é. Esse era o seu lar antes dele despertar.
+Escutem o que digo: deixem o Conquistador em paz.<1ae0000025430fe005e001000ee0>Isso, se dão valor às suas vidas.
+Um momento! E se o Conquistador estiver planejando<0fe003e00ee0>algo terrível, como conquistar o mundo todo?
+Você está dizendo para ficarmos de braços<0fe003e00ee0>cruzados, assistindo isso acontecer?
+Você não estava me ouvindo, garoto?<1ae0000082420fe005e001000ee0>Eu disse a qualquer custo.
+Vossa Excelência...<0fe003e00ee0>Você não pode estar de acordo...
+O poder dos Imperadores provêm dos Remanescentes.<1ae00000f0420fe005e001000ee0>Quem somos nós para nos opormos aos<0fe003e00ee0>desejos do Conquistador?
+Me escute, Marquês de Athlum. De agora em diante,<0fe003e00ee0>ninguém vai se opor ao Conquistador.<1ae000002a430fe005e001000ee0>Todo aquele que se colocar no seu caminho<0fe003e00ee0>será acusado de traição.
+Vá e informe imediatamente o Conselho.<0fe003e00ee0>Obedeça nossas ordens, Marquês.
 

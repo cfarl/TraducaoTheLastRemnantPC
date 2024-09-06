@@ -1,25 +1,25 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV1040_1_EV1_MSG
 -- ----------------------------------------------------------------------------------
-So, the "Blessed Buns" are out?
-You really think she's interested in buns?
+Então, acabaram os bolinhos abençoados?
+Você acha mesmo que ela está querendo bolinhos?
 Umm...
-You're back surprisingly early, my lord.
-Not to speak ill of the dead, but without<0fe003e00ee0>Hermeien, things move a bit more smoothly.
-Congress Chairman Ghor has given Athlum its orders.<1ae00000c8420fe005e001000ee0>We are to stop The Conqueror at any cost.
-This's about some Remnant-finding...resonance...<0fe003e00ee0>oscillating wave...thingamajigger...?
-Hmmm! This was a top-secret project of<0fe003e00ee0>the Academy's, was it not?
-Remnants emit a wave undetectable by<0fe003e00ee0>the naked ear. However, there is a Remnant<1ae0000010430fe005e001000ee0>that can sense these waves and use them<0fe003e00ee0>to pinpoint a Remnant's location.
-...So?
-The Conqueror clearly aims to take possession<0fe003e00ee0>of every Remnant in the world.<1ae000000e430fe005e001000ee0>Our task is to get there and<0fe003e00ee0>protect them before he can.
-I see... That's why this information<0fe003e00ee0>was declassified.
-Pretty important mission...
-Yes. We'll have to keep our wits about us.<1ae00000c8420fe005e001000ee01ae000002041>Rush.
-I'd like to ask your parents' assistance<0fe003e00ee0>with this. Will that be a problem?
-Uh-uh. I'm sure Mom and Dad would be<0fe003e00ee0>happy to help.
-Then we'll return to Athlum immediately.<0fe003e00ee0>Get ready to move out.
-Yes, my lord.
-Yes, my lord.
-Yes, my lord.
-Yes, my lord.
+Você voltou antes do previsto, milorde.
+Não gosto de falar mal dos mortos, mas as<0fe003e00ee0>coisas funcionam um pouco melhor sem Hermeien.
+O Presidente Ghor deu suas ordens para Athlum.<1ae00000c8420fe005e001000ee0>Precisamos deter o Conquistador a qualquer custo.
+É isso que ouvimos falar de um localizador de<0fe003e00ee0>Remanescentes, ressonâncias, ondas oscilantes, etc?
+Hmmm! Trata-se de um projeto ultrassecreto<0fe003e00ee0>da Academia, não é mesmo?
+Os Remanescentes emitem ondas magnéticas<0fe003e00ee0>imperceptíveis para nós. Mas existe um deles que<1ae0000010430fe005e001000ee0>é capaz de detectar essas ondas e usá-las para<0fe003e00ee0>apontar a localização de outros Remanescentes.
+...Então?
+Está claro que o Conquistador pretende tomar<0fe003e00ee0>posse de todos os Remanescentes do mundo.<1ae000000e430fe005e001000ee0>Nossa tarefa é encontrá-los<0fe003e00ee0>antes dele, e protegê-los.
+Entendo... Por isso essa informação foi<0fe003e00ee0>tornada pública.
+Uma missão muito importante...
+Sim. Vamos ter que nos manter alertas.<1ae00000c8420fe005e001000ee01ae000002041>Rush...
+Gostaria de pedir ajuda aos seus pais.<0fe003e00ee0>Você tem alguma objeção quanto a isso?
+Uh-uh. Tenho certeza que eles ficarão<0fe003e00ee0>felizes por poder ajudar.
+Então vamos voltar imediatamente a Athlum.<0fe003e00ee0>Preparem-se para partirmos.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
+Sim, milorde.
 

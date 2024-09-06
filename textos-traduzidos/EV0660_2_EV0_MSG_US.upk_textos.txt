@@ -1,20 +1,20 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0660_2_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Is there really gonna be a war?
-It seems unavoidable at this point.
+Vai mesmo haver uma guerra?
+Agora mesmo, isso parece inevitável.
 Huhhh...
-Once war breaks out, the Remnants will<0fe003e00ee0>be played against each other...
-And all that will remain is scorched earth,<0fe003e00ee0>littered with corpses and Blank Remnants<1ae000002a430fe005e001000ee0>that have lost those they were bound to.
-These are dark days we live in...
-Forgive me. I had something to ask you...<0fe003e00ee0>Did you finally meet with your mother?
-Yeah...
-Well?
-Dave...promise me something.
-I'll fight for you...for Athlum.<1ae000008c420fe005e001000ee0>But please, don't get Irina or my mom<0fe003e00ee0>mixed up in this, okay?
-You have my word.
-Thanks, Dave.
-That's all you had to say?
-Uhh...yeah.
-You'd better hurry and get ready, then.
+Assim que a guerra tiver início, os Remanescentes<0fe003e00ee0>serão usados uns contra os outros...
+E tudo que vai restar serão terras devastadas,<0fe003e00ee0>repletas de cadáveres e Remanescentes que<1ae000002a430fe005e001000ee0>perderam aqueles aos quais estavam vinculados.
+Vivemos tempos sombrios...
+Perdoe-me, mas queria perguntar algo a você...<0fe003e00ee0>Conseguiu finalmente encontrar sua mãe?
+Sim...
+E então?
+Dave... me prometa uma coisa.
+Eu lutarei por você... e por Athlum.<1ae000008c420fe005e001000ee0>Mas por favor, não envolva<0fe003e00ee0>Irina ou minha mãe nisso, pode ser?
+Você tem a minha palavra.
+Obrigado, Dave.
+Isso é tudo que tem a dizer?
+Uhh... Sim.
+Então é melhor começar a se preparar.
 

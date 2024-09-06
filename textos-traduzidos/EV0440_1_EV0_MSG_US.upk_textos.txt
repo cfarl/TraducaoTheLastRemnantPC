@@ -1,25 +1,25 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0440_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Look!
-Who are they?
-Does anyone know who that is?
-They call him "the Conqueror."
-How dare he bring his troops!
-That big guy must be him!
-I am Roeas, messenger for his lordship,<0fe003e00ee0>the Conqueror!
-We hail from the eastern city of Veyriel.<0fe003e00ee0>We've come for the Remnant entrusted to us<1ae000002a430fe005e001000ee0>by the prophecy of the God Emperor!
-His lordship promises prosperity to all!<0fe003e00ee0>The mark of this promise will soon be<1ae0000034430fe005e001000ee0>apparent to the world!
-The Remnant will awaken;<0fe003e00ee0>time will be stagnant no more.<1ae000000c430fe005e001000ee0>The promised time is almost upon us.<0fe003e00ee0>Your dreams will soon become reality!
+Vejam!
+Quem são eles?
+Alguém sabe quem é esse?
+Eles o chamam de "o Conquistador."
+Como se atreve a vir com suas tropas!
+Ele deve ser aquele grandalhão!
+Eu sou Roeas, mensageira de sua alteza,<0fe003e00ee0>o Conquistador!
+Viemos da cidade oriental de Veyriel.<0fe003e00ee0>Estamos aqui para reividicar nosso Remanescente,<1ae000002a430fe005e001000ee0>de acordo com a profecia do Imperador Celestial!
+Sua alteza promete prosperidade a todos!<0fe003e00ee0>O sinal de sua promessa logo<1ae0000034430fe005e001000ee0>será mostrado ao mundo!
+O Remanescente despertará!<0fe003e00ee0>O tempo irá fluir uma vez mais!<1ae000000c430fe005e001000ee0>O tempo prometido se aproxima.<0fe003e00ee0>Seus sonhos logo se tornarão realidade!
 ...
-What rot! A prophecy!? The God Emperor<0fe003e00ee0>would never aid them!
-Ignore them. Let them say what they will.
-They have brought their troops here, to Elysion.<0fe003e00ee0>Perhaps there is truth to their words.
-But did they threaten the God Emperor into<0fe003e00ee0>siding with them?
-A friend of yours?
-What is going on? What has he done?
-I don't know.<0fe003e00ee0>But...there's something about that guy...
-He's gone!
-I need to find him.
-Alright.
+Quanta idiotice! Uma profecia!? O Imperador<0fe003e00ee0>jamais daria a eles seu apoio!
+Ignore-os. Deixe que digam o que quiserem.
+Eles trouxeram suas tropas para Elysion.<0fe003e00ee0>Talvez exista alguma verdade no que dizem.
+Mas talvez tenham ameaçado o Imperador<0fe003e00ee0>para que ele se posicionasse ao seu lado?
+É um amigo seu?
+O que está acontecendo? O que ele fez?
+Eu não sei.<0fe003e00ee0>Mas... tem alguma coisa nesse cara...
+Ele sumiu!
+Eu preciso encontrá-lo.
+Tudo bem.
 
