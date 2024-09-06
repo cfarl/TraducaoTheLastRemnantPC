@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_05GC_MP0_MSG
 -- ----------------------------------------------------------------------------------
-This is the Ring of the Labyrinth.<03e0>If you're not one to take your job<03e0>seriously, get out of here.
-The Third Committee turned my sweet,<03e0>intelligent sister into a monster who will<03e0>devour anything she can get her hands on.<04e0>I've infiltrated the Academy as a spy<03e0>for the Ladies of Bloody Alice to<03e0>get my revenge!
-So you're the punk Nora was talking about.<03e0>I hear ya gave the Third Committee<03e0>a good pounding!<04e0>But nothing will be enough. Our bodies<03e0>are forever cursed. I won't rest till every<03e0>one of those bastards is dead!
+Você está no Círculo do Labirinto.<03e0>Se não vai levar esse trabalho a sério,<03e0>pode ir caindo fora.
+O Terceiro Comitê transformou minha irmã em um<03e0>monstro que devora tudo que encontra pela frente.<03e0>Ela era tão doce e inteligente...<04e0>Foi por isso que me infiltrei na Academia<03e0>como uma espiã das Damas Sangrentas....<03e0>Em busca de vingança!
+Então você é o sujeito do qual Nora estava<03e0>falando. Ouvi dizer que você deu uma boa lição<03e0>naqueles canalhas do Terceiro Comitê!<04e0>Mas isso não vai ser suficiente. Nossos corpos<03e0>estão amaldiçoados para sempre. Não vou descansar<03e0>até que cada um daqueles desgraçados esteja morto!<01e00be0000000>V<000000000000>.
 

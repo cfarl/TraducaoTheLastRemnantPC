@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) UNB_05GN_MP0_MSG
 -- ----------------------------------------------------------------------------------
-There are a lot of soldiers out there who brag about past<03e0>experiences, but it's hard to know who's telling the truth.<04e0>All I know is that anyone who says they've been to<03e0>Siebenbur is a real man<07f0>or a real liar.<04e0>But all the rumors kinda make me wonder what's so<03e0>scary about the place... 'Course, not so much that I'd ever<03e0>try to go!
-You crossed Mt. Vackel?<04e0>God Emperors have used that dangerous mountain to<03e0>test the courage and strength of travelers for ages.<04e0>You must be braver than you look.
+Há muitos soldados aqui que gostam de falar de suas<03e0>batalhas, mas não é fácil saber quem diz a verdade.<04e0>O que posso afirmar é que todos que dizem já ter ido<03e0>a Siebenbur são muito corajosos ou muito mentirosos.<04e0>Mas a verdade é que, depois de ouvir tantas histórias,<03e0>morro de vontade de ver o que tem de tão assustador<03e0>naquele lugar. Mas é claro, nem penso em ir até lá!
+Você atravessou o Monte Vackel?<04e0>Os Imperadores Celestiais enviam pessoas para essa<03e0>montanha para colocar à prova sua força e coragem.<04e0>Você deve ser muito mais corajoso do que parece.
 

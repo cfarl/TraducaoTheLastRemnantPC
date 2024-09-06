@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0390_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-These are the guardians of Marshallton:<03e0>Namul Sin and Niram Sin.
-They continue to protect the tablet held in this<03e0>town, as they have for generations.<04e0>In other words, we'll have to defeat them if<03e0>we're to take the tablet.<04e0>Rather, you will. I can't interfere this time. This<03e0>is something you have to do yourself, Rush.<04e0>Go, Rush. Face this challenge with honor...<03e0>Show me the young man you've become.
-With this tablet, you may change a Remnant to a<03e0>talisman, just as you have now.<04e0>Of course, you can only use the tablet on a Blank<03e0>Remnant<07f0>one that's unbound.<04e0>I really didn't want to take the tablet from this place...<03e0>But with things as they are, there's no other choice.
-Rush... The future of the world's Remnants<07f0>maybe of<03e0>the whole world<07f0>could come down to you and your<03e0>actions. I'll be praying for your success.<04e0>...Despite that heavy speech, don't overdo it,<03e0>alright? Just...be sure to come back to me in<03e0>one piece, understood?
+Esses são os guardiões de VillaMarshall:<03e0>Namul Sin e Niram Sim.
+Desde tempos imemoráveis eles protegem a tabuleta<03e0>que está sendo guardada nessa cidade.<04e0>Em outras palavras, teremos que derrotá-los para<03e0>conseguir pegar a tabuleta.<04e0>Melhor dizendo, você terá que vencê-los, Rush. Dessa<03e0>vez não posso interferir. Isso é algo que deve fazer.<04e0>Vá, Rush. Enfrente com honra esse desafio...<03e0>Mostre para mim o homem que você se tornou.
+Com essa tabuleta você vai poder transformar qualquer<03e0>remanescente em um talismã... Como esse que você tem.<04e0>Mas isso só vai funcionar com remanescentes que não<03e0>estejam vinculados a uma pessoa.<04e0>Eu não queria tirar a tabuleta daqui desse lugar...<03e0>Mas do jeito que as coisas estão, não temos escolha.
+Rush... O futuro dos remanescentes, e talvez do mundo<03e0>inteiro está nas suas mãos. Espero que saia vitorioso.<03e0> <04e0>Sei que isso pode parecer meio dramático, mas tenha<03e0>cuidado, tá? Aconteça o que acontecer, volte inteiro<03e0>para mim, tá bom?
 

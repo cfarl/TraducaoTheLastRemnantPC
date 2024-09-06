@@ -1,35 +1,35 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ASC_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Heya, kid! This yer first time in Athlum?<03e0>This is Xiphos Way.<04e0>Keep going down this way, an' you'll hit the<03e0>Town Square. Veer off from there an' you can<03e0>head out to Virtus Parish.
-Hey, you been keepin' up with that Conqueror<03e0>guy an' his army?<04e0>They're just a bunch o' thugs that'll do<03e0>anything to get hold of a Remnant... Bet they'd<03e0>sell their mama for somethin' cheap, too!<04e0>Talking 'bout them's all the rage here<07f0>some<03e0>say they even wanna take over the world!<03e0>They're a shady bunch, that's fer sure!
-[[3rd Level Message]]
-Damn that Conqueror!<03e0>Takin' away our Lady Emma an' the Valeria Heart...!<04e0>Without 'em, the whole town's become greyer...<03e0>Dammit!
-Huhhh, so is that Conqueror bastard really<03e0>s'posed to be dead?<04e0>Rumor is, his army wasn't completely<03e0>destroyed... Damned if there's anything I<03e0>wouldn't rather hear, though.
-Hey, didja hear? Athlum's finally got free from<03e0>Celapaleis!<04e0>'S been a long time since we had any good news.<03e0>Kinda feels like karma's finally payin' us back!
-If Lord David's goin' toe-to-toe with this Conqueror<03e0>guy, the outcome's already decided!<04e0>Yeahhh, that guy can bring it all he wants<07f0>he's just<03e0>gonna get beat down! Tear 'im a new one for Lady Emma!
-Equipment shops, item shops, customization<03e0>shops...<04e0>Xiphos Way has it all.<03e0>This is the place in Athlum to shop!
-[[2nd level message]]
-[[3rd Level Message]]
-The Valeria Heart was lost, and with it,<03e0>everyone's hopes... People walk down the<03e0>streets like they haven't a friend in the world.<04e0>But...this is no time to wallow in sadness!<03e0>Squeezing out a smile is the job of a merchant,<03e0>isn't it?<04e0>What we've got to do is make lots of top-quality<03e0>weapons and armor, as if to say "take that,<03e0>Conqueror!"
-Ever since Duke Ghor became chairman of the<03e0>Congress, supply patterns have changed a lot!<04e0>I guess all the stuff that used to be saved especially<03e0>for Nagapur is being routed to other cities.
-To think, Athlum's become an independent state!<04e0>You see the people walking around? Compared to before,<03e0>it's like night and day. Everyone's so full of hope...<04e0>Looks like they'll be in the mood for buying, too,<03e0>which makes me happy!
-Ignoring the God Emperor's orders and fighting the<03e0>Conqueror... I can't quite say that I think it's a good thing<03e0>or not.<04e0>But...I trust Lord David. He's not gonna steer us wrong!<03e0>The rest of us shopkeepers, too, of course! Good luck,<03e0>Athlum!
-That large sword is this town's Remnant. It's looked<03e0>after the people of this town for centuries, you know.<04e0>When I was just a little girl and I was feeling down,<03e0>I'd go out to the Town Square.<04e0>It sounds strange, but just looking at the Remnant<03e0>always made me feel better.
-Some men calling themselves "the Conquerors"<03e0>or something are plotting to attack the city, I heard...<03e004e0>That's so silly, isn't it? We've got the Marquis<03e0>and the generals to take care of us. Plus, the<03e0>Valeria Heart will protect us, no matter what.<04e0>Whoever these guys are, who cares? They can't do<03e0>anything, so it's not even worth worrying about.
-The sword...it's gone.<03e0>I can't stop looking up, it's force of habit...<03e0>but there's nothing there.<04e0>What's going to happen to us?
-I heard the army's supposed to be finding some<03e0>new Remnant to replace the Valeria Heart.<03e0>Like anything could!<04e0>Besides... I've already gotten used to seeing<03e0>the sky without it...
-Have you heard? Athlum's become independent of<03e0>Celapaleis.<04e0>It warms me to hear it... Even though the Valeria Heart<03e0>is gone, it still watches over us...
-The Athlumian Guard will march on the Conqueror's<03e0>army... I truly hope everyone can return safely.<04e0>Somehow, the Valeria Heart will look over them, I'm<03e0>sure of it...
-Hmm? Dull face, silly outfit, slouched posture...<04e0>You there, you aren't Rush Sykes, are you?<06e0000008e0000000000000>Yeah...why?<09e008e0010000000000>You're mistaken, old man.
-Whaaat? Impudent little...<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
-*snort* Playing dumb won't get you anywhere<07f0>if you're<03e0>playing at all.<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
-Huh? Yeah...that's the face, that's the clothes...<04e0>You're Rush Sykes, right?<06e0000008e0000000000000>Yup, I'm Rush!<09e008e0010000000000>Who, me? Couldn't be!
-Thought so! I've got a message for you from Lord David.<04e0>He says he's come up with a good starting place for<03e0>information-gathering, and that you should come to<03e0>the <1be0ffbe34ff>castle<1ce0> for details.<04e0>Got it?
-Hahaha, you're a terrible actor, kid. Don't worry,<03e0>though<07f0>you're not in trouble...not with us at least.<03e0>Lord David's put out a summons for you.<04e0>Apparently he's come up with a good starting place for<03e0>your information-gathering, so he'd like you to come<03e0>to the <1be0ffbe34ff>castle<1ce0> so he can share it with you.<04e0>Don't make him wait too long, okay, kid? Or else you<03e0>might end up in trouble with us after all... Just joking!
-Ohh! That valiant form...<04e0>You must be Rush Sykes, are you not?<06e0000008e0000000000000>The one and only!<09e008e0010000000000>Depends on who's asking.
-Well met!<03e0>David, Marquis of Athlum requests that you come<03e0>to <1be0ffbe34ff>Athlum Castle<1ce0> at your nearest convenience.
-Ha ha ha, you are as mischievous as ever, I see!<03e0>I bring a message from Lord David. He requests that<03e0>you come to the <1be0ffbe34ff>castle<1ce0> at your nearest convenience.
-Sorry, man, I'm still setting up.<04e0>When'll I be open?<03e0>Huh, good question!
-The customization shop is open for business!<04e0>[[customization menu]]
+E aí, garoto! É sua primeira vez em Athlum?<03e0>Essa é a Avenida Xiphos.<04e0>Seguindo em frente você chega na Praça Central.<03e0>Siga caminhando e chegará no Bairro de Virtus.<03e0>
+Ei, você ouviu falar do Conquistador e seu exército?<03e0> <04e0>Eles são um bando de cretinos capazes de fazer qualquer<03e0>coisa para conseguir um Remanescente... Eles venderiam<03e0>a própria mãe para conseguir alguns trocados!<04e0>Todo mundo está falando deles por aqui... Alguns acham<03e0>que eles querem dominar o mundo! Eu só sei que são um<03e0>um bando bem perigoso, disso não tenho dúvidas!
+[[Mensagem do nível 3]]
+Aquele maldito Conquistador! Ele tirou de nós nossa<03e0>querida Lady Emma, e também o Coração Valente...<04e0>Sem eles a cidade nunca voltará a ser a mesma...<03e0>Maldito seja!
+Humm... então aquele maldito Conquistador está morto?<03e0> <04e0>Dizem que seu exército não foi totalmente destruído...<03e0>Nada me faria mais feliz que ouvir essa notícia.<03e0>
+Ei, você já está sabendo? Athlum finalmente se tornou<03e0>independente de Celapaleis!<04e0>Já estava na hora de recebermos boas notícias.<03e0>Parece que finalmente a sorte voltou a sorrir para nós!
+Se Lorde David decidir mesmo bater de frente com<03e0>esse tal Conquistador, já sabemos o resultado!<04e0>Ele pode trazer quem quiser, e não terá a menor<03e0>chance! Ele vai pagar pelo que fez com Lady Emma!
+Equipamentos, materiais e artigos de todo tipo...<03e0> <04e0>Tudo isso você encontra aqui, na Avenida Xiphos.<03e0>Esse é o melhor lugar para compras em Athlum!
+[[Mensagem do nível 2]]
+[[Mensagem do nível 3]]
+Perdemos o Coração Valente, e com ele também nossas<03e0>esperanças... As pessoas andam pelas ruas como se a<03e0>vida não fizesse mais sentido.<04e0>Mas esse não é o momento de lamentar! O trabalho de<03e0>um mercador é fazer pessoas sorrirem, não é mesmo?<03e0> <04e0>O que devemos fazer é fabricar muitas armaduras e<03e0>armas da melhor qualidade, para podermos dizer ao<03e0>Conquistador: "Aqui está o que você merece!"
+Desde que o duque de Ghor foi nomeado presidente do<03e0>Conselho, o mercado passou por uma grande mudança!<04e0>Os artigos que antes só eram encontrados em Nagapur<03e0>agora começaram a chegar em outras cidades.
+Quem diria, Athlum virando um estado independente!<04e0>Você notou o olhar das pessoas? Ele passou da água<03e0>para o vinho. Todos estão cheios de esperança...<04e0>E parece que também estão animados para comprar.<03e0>Isso me deixa muito feliz!
+Ignorar as ordens do Imperador Celestial e enfrentar<03e0>o Conquistador... Não estou certo de que essa seja<03e0>uma boa ideia.<04e0>Mas confio em Lorde David, eu e todos os outros<03e0>comerciantes. Ele não nos colocaria em maus lençóis!<03e0>Boa sorte, Athlum!
+Aquela enorme espada é o Remanescente da cidade.<03e0>Ele tem cuidado das pessoas daqui durante séculos.<04e0>Quando eu era só uma garotinha e estava me sentindo<03e0>triste, vinha passear aqui na Praça Central.<04e0>Pode parecer estranho, mas só de olhar para o<03e0>Remanescente eu já me sentia muito melhor.
+Ouvi dizer que alguns homens estão planejando atacar<03e0>a cidade. Parece que se chamam de "conquistadores".<03e004e0>Isso não passa de uma grande bobagem, não é mesmo?<03e0>Temos o Marquês e os generais para cuidar de nós. E<03e0>o Coração Valente nos protege de qualquer perigo.<04e0>Não importa quem sejam esses homens, eles não podem<03e0>conosco, por isso não temos porque nos preocupar.
+A espada... ela se foi. Não consigo evitar de olhar<03e0>para o céu, é um costume... mas não há nada ali.<03e0> <04e0>O que vai ser de nós?
+Ouvi dizer que o exército está procurando um novo<03e0>Remanescente para substituir o Coração Valente...<03e0>Como se isso fosse assim tão fácil!<04e0>Além disso, já me acostumei a olhar para o céu e não<03e0>mais encontrá-lo ali...
+Você já está sabendo? Athlum finalmente se tornou<03e0>independente de Celapaleis.<04e0>Isso não é maravilhoso? Ainda que o Coração Valente<03e0>tenha desaparecido, ele continua olhando por nós...
+A Guarda de Athlum está indo enfrentar o exército do<03e0>Conquistador... Espero que todos retornem a salvo.<04e0>De qualquer maneira, sei que o Coração Valente vai<03e0>protegê-los, tenho certeza disso...
+Hmm? Esse rosto, essas roupas, essa postura...<04e0>Você aí, você não é Rush Sykes?<06e0000008e0000000000000>Sim... Por quê?<09e008e0010000000000>Não, você está enganado.
+Garoto insolente...<04e0>Lorde David está requisitando sua presença. Ele diz<03e0>ter assuntos a tratar com você. Vá até o <1be0ffbe34ff>castelo<1ce0>.
+*bufada* Não tente se fazer de bobo, rapaz. Isso não<03e0>vai levá-lo a lugar algum.<04e0>Lorde David está requisitando sua presença. Ele diz<03e0>ter assuntos a tratar com você. Vá até o <1be0ffbe34ff>castelo<1ce0>.
+Hmm... Essa cara, essas roupas...<04e0>Você deve ser Rush Sykes, não é mesmo?<06e0000008e0000000000000>Sim, sou eu mesmo!<09e008e0010000000000>Não, você está enganado.
+Eu sabia! Trago uma mensagem de Lorde David.<04e0>Ele diz ter encontrado uma boa pista para começar a<03e0>busca por informações, e por isso quer que vá até<03e0>o <1be0ffbe34ff>castelo<1ce0> para explicar com mais detalhes.<04e0>Entendido?
+Hahaha, você mente muito mal, garoto. Mas não fique<03e0>preocupado, não é nada de mais... não que eu saiba.<03e0>Lorde David só quer conversar com você.<04e0>Parece que ele encontrou uma boa pista para começar<03e0>a busca por informações, e por isso quer que vá até<03e0>o <1be0ffbe34ff>castelo<1ce0> para poder explicar com mais detalhes.<04e0>Não o deixe esperando, certo? Senão pode acabar<03e0>tendo problemas de verdade... Estou brincando!
+Ohh! Essa postura destemida...<04e0>Você deve ser Rush Sykes, não é mesmo?<06e0000008e0000000000000>O primeiro e único!<09e008e0010000000000>Depende de quem quer saber.
+Muito bem! Lorde David, o marquês de Athlum, deseja<03e0>vê-lo no castelo assim que for possível para você.<03e0> <1be0ffbe34ff> <1ce0>
+Ha ha ha, você continua o mesmo brincalhão de sempre!<03e0>Trago uma mensagem de Lorde David... Ele deseja vê-lo<03e0>no <1be0ffbe34ff>Castelo de Athlum<1ce0> assim que for possível para você.
+Sinto muito, garoto, ainda não abri a loja.<04e0>Quando vou abrir?<03e0>Hum.... Boa pergunta!
+A oficina está funcionando!<04e0>[[menu de opções]]
 

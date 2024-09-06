@@ -1,34 +1,34 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0290_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Lady Emma! Over here!
-The giant is in a hall further into the ruins. To get there,<03e0>you have to take a secret passage on the second floor.
-You can take this ladder up to the second floor.
-So, you're the one behind all this...<03e0>Surrender your weapons at once unless<03e0>you wish for me to take them by force.
-Oho! If it isn't the ever lovely and genial<03e0>General Honeywell.
-Lively, aren't you, with all your demands...<03e0>Well, I have a demand of you as well:<04e0>Return to Athlum, and open the front gate.
-That will make it a lot easier for us to walk<03e0>right in and take over.
-Just a tip: instead of wasting your lives and my time<03e0>trying to resist us, it would be most prudent if you left<03e0>the ruins right now.
-What are you hiding?
-Hiding? Oh no, my dear lady...
-I believe I have something that belongs to you...
+Lady Emma! Aqui!
+O gigante está em uma sala no interior das ruínas.<03e0>Para chegar lá use a passagem no segundo piso.
+Essa escada conduz ao segundo piso.
+Então é você quem está por trás disso tudo... Entregue<03e0>as armas imediatamente, a menos que prefira que elas<03e0>sejam tomadas de você à força.
+Ora, oras! Vejam se não é a encantadora e adorável<03e0>General Honeywell.
+Você é bem exigente, não é verdade?<03e0>Pois bem, farei uma contraproposta...<04e0>Volte para Athlum e deixe aberto o portão da cidade.
+Assim vai ser ainda mais fácil para nós entrarmos na<03e0>cidade e assumir o controle.
+Ao invés de desperdiçar suas vidas e também meu tempo<03e0>tentando resistir, seria mais prudente aceitar essa minha<03e0>oferta e deixar as ruínas agora mesmo.
+O que você está escondendo?
+Escondendo? Oh, nada, minha querida lady...
+Mas creio ter algo que seja do seu interesse...
 L-Lady Emma...
-Now you understand, don't you?<03e0>Go home, General.
-...No.
-Oho?<03e0>Are you sure you want to do that?<04e0>If you don't do as I say, I'm afraid I cannot guarantee<03e0>the...shall we say, physical integrity of this poor boy.<03e0>I hope my meaning is clear.
-Crystal. You're under the illusion that I'd allow scum<03e0>like you to do as you please.
-I am a soldier of Athlum. No matter the cost, I'll never<03e0>do anything to endanger her. Protecting Athlum is my<03e0>sworn duty.
-Oh! What a revoltingly loyal statement. But I fear your<03e0>words are only worth the paper they're written on.
-I wonder if your tune will change once this boy is dead.<03e0>Do you really want his blood on your hands?
-Hmph. I tire of your dramatics. Besides, I told you<07f003e0>soldiers of Athlum do not bow to threats!
-Can you hold on a bit longer?
-Yes, ma'am!
-Good.<03e0>Let's go, Rush!
-That black-cloaked man... What did he really<03e0>think he was going to do? We were able to stop<03e0>him this time, but he still caught us off-guard.
-You alright?
-Yes, ma'am!<03e0>I'm sorry for causing this trouble...
-It's nothing.<03e0>Let's just be happy you're alright.
+Agora você entende, não é mesmo?<03e0>Volte para casa, General.
+Não...
+É sério? Você tem certeza de que quer fazer isso?<03e0> <04e0>Se não fizer o que estou dizendo, não poderei garantir<03e0>a integridade física desse pobre rapaz. Você não vai<03e0>querer correr esse risco, vai?
+Boa tentativa... Mas acha mesmo que vou permitir que<03e0>uma escória como você faça o que bem quiser?
+Sou um soldado de Athlum. Aconteça o que acontecer,<03e0>não deixarei que ninguém coloque a cidade em perigo.<03e0>Jurei proteger a cidade, e isso é o que vou fazer.
+Oh! Que tremenda declaração de lealdade. Mas receio<03e0>que tais palavras em breve estarão no seu túmulo.
+Será que você vai mudar de ideia depois que o garoto<03e0>estiver morto? Você quer ter o seu sangue nas mãos?
+Hmph. Já estou farta desse teatro. Além disso, já disse:<03e0>Os soldados de Athlum não se dobram a ameaças!
+Você consegue aguentar um pouco mais?
+Sim, senhora!
+Bom.<03e0>Então vamos lá, Rush!
+Esse homem de preto... O que será que ele achou que ia<03e0>conseguir com isso? Dessa vez conseguimos detê-lo, mas<03e0>é certo que ele nos pegou de surpresa.
+Você está bem?
+Sim, senhora!<03e0>Sinto muito por ter causado problemas...
+Não foi nada.<03e0>O que importa é que você está bem.
 Lady Emma!
-We're finished here. Make certain everyone's received<03e0>the first aid they need, then let's get out of here.
-Yes, ma'am!
+Terminamos aqui. Certifique-se de que todos os feridos<03e0>recebam a atenção que precisam, depois vamos embora.
+Sim, senhora!
 

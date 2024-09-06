@@ -1,37 +1,37 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_0104_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Elysion is under the rule of the Congress,<03e0>an organization consisting of the heads<03e0>of each state.<04e0>This is why a research establishment<03e0>like the Academy is here in this city.
+Elysion se encontra sob o controle do Conselho, uma<03e0>organização composta pelos dirigentes de cada nação.<03e0> <04e0>É por isso que decidiram que esse era o melhor lugar<03e0>para um centro de pesquisa como a Academia.
 Message 2
 Message 3
 Message 4
-Every worldly creation has an end<07f003e0>with the exception of Remnants.<04e0>To them, we must have a lifespan<03e0>of mere seconds.
+Tudo nesse mundo tem fim, exceto os Remanescentes.<03e0> <04e0>Para eles, o tempo de vida de um homem deve ser como<03e0>um piscar de olhos.
 Message 6
-This is the highest tier of Elysion.<04e0>The Academy is up these stairs and<03e0>across the main street.<04e0>The assembly hall is at the end of the street,<03e0>but civilians aren't allowed entry.<04e0>The stairs next to the assembly hall lead to<03e0>the Ark. It's a big tourist attraction.<03e0>Is that why you're here, too?
+Esse é o ponto mais elevado de Elysion.<04e0>Para chegar na Academia, primeiro suba essas escadas<03e0>e depois cruze a rua principal.<04e0>A Câmara da Assembleia fica no final da rua, mas os<03e0>civis não estão autorizados a entrar.<04e0>As escadas que ficam próximas da Câmara conduzem ao<03e0>Remanescente Arca. Ele é uma grande atração turística...<03e0>Você também veio visitá-lo?
 Message 2
 Message 3
 Message 4
-The Congress was a mess when<03e0>Chairman Hermeien passed away.<04e0>But now that the Duke of Ghor has taken<03e0>his place, things have gotten a lot better.<04e0>I heard that he was once a great warrior,<03e0>and that he excels in politics as well.
+O Conselho estava passando por uma situação difícil<03e0>quando o Presidente Hermeien morreu.<04e0>Mas agora que o duque de Ghor o substituiu parece que<03e0>as coisas começaram a melhorar.<04e0>Dizem que ele já foi um grande guerreiro, e que tem<03e0>muita aptidão para a política também.
 Message 6
-I've come a long way just to see the Ark.<03e0>I wish I could ride it up to the heavens...<04e0>Not a lot of people know this, but<03e0>the Academy scientists are allowed<03e0>to ride it several times a year!<04e0>I'm so jealous!<04e0>The Ark is just up these stairs, if you want<03e0>to take a peek.
+Vim de muito longe só para ver o remanescente Arca.<03e0>Quem me dera poder viajar nele até o céu...<04e0>Poucas pessoas sabem disso, mas os cientistas da<03e0>Academia podem utilizá-lo várias vezes por ano!<03e0> <04e0>Que inveja tenho deles!<04e0>Se quiser dar uma olhada no Arca, basta subir aquelas<03e0>escadas que se encontram logo ali.
 Message 2
 Message 3
-I came all the way from Nagapur<03e0>to take in the sights.<04e0>I rushed home when I heard about<03e0>the Gwayn, but...<04e0>My neighborhood was nothing but rubble.<03e0>I hope the souls of those who perished<03e0>made it to the Sacred Lands.<04e0>Nothing would make me happier...
-Elysion is referred to as the capital of<03e0>the world, not because of its size, but<03e0>because it's home to the Academy.<04e0>Uncovering the truth about Remnants means<03e0>uncovering the biggest truth ever to exist.
-I just saw a bright light shoot straight from<03e0>the Ark to the Sacred Lands.<04e0>That couldn't have been the work of the Academy.<03e0>Was it possible that someone snuck in to abuse<03e0>the Ark?<04e0>But the Ark is already bound...<03e0>This doesn't make any sense.
+Vim da distante Nagapur para admirar essas paisagens.<03e0> <04e0>Quando fiquei sabendo o que tinha acontecido com o<03e0>Gwayn voltei correndo para casa...<04e0>Mas do meu bairro não sobrou nada além de escombros.<03e0>Espero que as almas daqueles que pereceram tenham<03e0>conseguido alcançar as Terras Sagradas.<04e0>Nada me faria mais feliz...
+Elysion é conhecida como a capital do mundo, mas não<03e0>é por causa do seu tamanho, e sim porque é a cidade<03e0>que abriga a Academia.<04e0>Descobrir a verdade sobre os Remanescentes seria<03e0>como revelar o maior segredo do universo.
+Acabei de ver uma luz brilhante partindo diretamente<03e0>do Arca em direção às Terras Sagradas.<04e0>Não acredito que isso tenha sido coisa da Academia.<03e0>Será que alguém conseguiu usar o Arca?<03e0> <04e0>Mas ele já tem um vínculo estabelecido com alguém...<03e0>Em teoria, isso não seria possível.
 Message 3
-Rumor has it that Chairman Hermeien was<03e0>using his powers to secretly research a way<03e0>to turn Remnants into weapons.<04e0>When that fell through, people began<03e0>to leave the Academy.<04e0>One of the reasons may have been the passing<03e0>of the late Chairman, but the biggest reason<03e0>was due to the Gwayn's actions.<04e0>After the destruction it caused, everyone<03e0>must have realized that Remnants<03e0>can't be truly controlled by anyone.
-This area is off-limits.
-If Master David could come with me...<06e0000008e0000000000000>He's ready to go!<09e008e0010000000300>No<07f0>you can't have him yet!
-Lord David, please allow me to escort you<03e0>to the assembly hall.
-I understand.<03e0>Please come to me when you are ready.
-Hello, Rush!<04e0>Is everything well?
-I don't know why, but I feel comfortable<03e0>here. I guess there are a lot of good<03e0>memories.<04e0>I know it must sound weird to you,<03e0>since they fired me from the Academy.
-I feel comfortable here.<03e0>I have some good memories at the Academy.
-Even though I've left the Academy,<03e0>I still wonder about Remnants and<03e0>what they really are.<04e0>If we can discover their true powers,<03e0>we might be able to use them to stop<03e0>the ongoing war in this world.
-If we can discover the true powers of<03e0>Remnants, we might be able to use them<03e0>to stop the ongoing war!
-Remnants provide us with knowledge<03e0>and enhance our lives in many ways.<03e0>They are the world's greatest treasure.<04e0>But lately, I've been beginning to think<03e0>that we were never meant to use or<03e0>benefit from their powers.<04e0>The sad truth is that the world has<03e0>become reliant on Remnants, which<03e0>seem to have a part in everyone's lives.<04e0>We've spent centuries trying to understand<03e0>what makes them tick, but we've gained very<03e0>little knowledge.<04e0>Rush, maybe we were wrong to have<03e0>taken control over these divine objects.
-Maybe we weren't meant to benefit<03e0>from the powers of Remnants.<03e0>If that's the case...
-Rush, I've thought about some things.<04e0>I haven't been able to find answers to all<03e0>of my questions, but I did figure out something.<04e0>Remnants reflect our morality.<03e0>If we make poor choices, their powers<03e0>reflect that.<04e0>I want to find a way we can coexist<07f003e0>a way for us and Remnants to be happy.<04e0>I want to travel the world and discover<03e0>more of what's out there.<03e0>I may find the answers I need.<04e0>I hope I can find what I'm looking for<03e0>while helping you out with your journey.
-Rush, I want to find a way for us to<03e0>coexist peacefully with Remnants.<03e0>I hope we can work together to find answers.
+Corre por aí um boato de que o Presidente Hermeien<03e0>estava usando de influência para fazer pesquisas em<03e0>segredo e transformar Remanescentes em armas.<04e0>Quando seu plano fracassou, as pessoas começaram<03e0>a deixar a Academia.<04e0>Uma das razões pode ter sido a morte do Presidente,<03e0>mas acredito que o motivo mais importante deve ter<03e0>sido o desastre provocado pelo Gwayn.<04e0>Depois de toda a destruição que ele causou todo mundo<03e0>deve ter percebido que Remanescentes não podem ser<03e0>controlados com tanta facilidade...
+Essa área é restrita.
+Tenho ordens de levar Lorde David até a Assembleia.<06e0000008e0000000000000>Tudo bem, pode levá-lo.<09e008e0010000000300>Espere um momento.
+Lorde David, permita-me conduzi-lo até a<03e0>câmara da Assembleia.
+Entendo. Então me avise quando estiver pronto.<03e0>
+Olá, Rush!<04e0>Está tudo bem?
+Não sei porque, mas me sinto muito bem aqui.<03e0>Acho que esse lugar me traz boas<03e0>lembranças.<04e0>Sei que isso pode parecer meio estranho,<03e0>visto que me mandaram embora da Academia.
+Eu me sinto muito bem aqui.<03e0>Guardo muito boas lembranças da Academia.
+Embora eu tenha deixado a Academia,<03e0>ainda continuo pensando nos Remanescentes e<03e0>o que eles são de verdade.<04e0>Se pudermos descobrir seu verdadeiro poder,<03e0>poderíamos usá-los para deter<03e0>essa guerra que assola o mundo.
+Se pudéssemos descobrir o verdadeiro poder dos<03e0>Remanescentes, poderíamos usá-los<03e0>para deter essa guerra que assola o mundo!
+Os Remanescentes nos oferecem sabedoria<03e0>e melhoram nossas vidas em muitos sentidos.<03e0>Eles são o maior tesouro do mundo.<04e0>Mas ultimamente, estive começando a pensar<03e0>que não deveríamos usar seus poderes<03e0>em nosso benefício próprio.<04e0>A triste verdade é que o mundo se<03e0>tornou dependente dos Remanescentes, e eles<03e0>se tornaram uma parte inseparável de nossas vidas.<04e0>Passamos séculos tentando compreender porque<03e0>eles estão aqui, mas ainda assim seguimos sem<03e0>saber muito sobre eles.<04e0>Rush, e se estivermos errados ao tentar<03e0>controlar esses artefatos divinos?
+Acho que nunca deveríamos ter usado o poder dos<03e0>Remanescentes para nosso benefício próprio.<03e0>E se isso for verdade...
+Rush, estive pensando sobre algumas coisas.<04e0>Não consegui encontrar respostas para todas minhas<03e0>perguntas, mas acho que descobri algo importante.<04e0>Os Remanescentes refletem nossas decisões.<03e0>Todas as vezes que fazemos escolhas ruins,<03e0>os Remanescentes refletem essas escolhas.<04e0>Gostaria de encontrar uma maneira para que nós<03e0>pudéssemos conviver em paz e sermos felizes juntos.<04e0>Quero viajar pelo mundo para descobrir e aprender<03e0>mais sobre o que existe lá fora.<03e0>Quero encontrar as respostas que procuro.<04e0>Por isso, espero encontrá-las enquanto te ajudo<03e0>em sua jornada...
+Rush, gostaria de encontrar uma maneira de<03e0>vivermos em paz com os Remanescentes.<03e0>Espero que possamos juntos encontrar essa resposta.
 

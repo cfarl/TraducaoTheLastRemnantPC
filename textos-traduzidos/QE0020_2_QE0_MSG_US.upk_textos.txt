@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0020_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Violet, let's return to Celapaleis.<03e0>Your husband is sure to have sent some goons after you.
-Gabriel, I don't know what to do.<03e0>The Gilles-Barre family treasure was taken and<03e0>now stands surrounded by filthy monsters!
-Calm down, Violet.<03e0>The Liafort's grandeur is still as apparent as before.
-Who's there?
-He sent you, didn't he?
-I didn't expect such a large party.
-The Gilles-Barres used to own this area,<03e0>but as soon as it came under Celapaleis's rule,<03e0>the land quickly began to decline.<04e0>Many moved to Celapaleis.<03e0>The Duke of Qubine forced me to wed Nielsen<03e0>in hopes of destroying my family name.
-I will not let anyone sully the Gilles-Barre<03e0>name! And I will not remain married<03e0>to that pompous fool!
-Violet, I know why you do this.<03e0>But you have to take action a different way.
-I know you understand me.<03e0>But why do you always stop me<03e0>from doing what I think is right?
-I'm just worried about you.<03e0>Let's return to Celapaleis for now.
+Violet, é melhor voltarmos a Celapaleis.<03e0>Seu marido deve ter enviado pessoas atrás de você.
+Ah, Gabriel, não sei o que fazer. Olhe ao seu redor!<03e0>O Liafort era o tesouro dos Gilles-Barre. E agora<03e0>está abandonado e rodeado de monstros repugnantes!
+Tenha calma, Violet. Tenho certeza que o Liafort<03e0>não perdeu sequer um pingo da sua grandeza.
+Quem vem lá?
+Foi ele que enviou vocês, não foi?
+E parece que vem acompanhados...
+Os Gilles-Barres eram os donos dessas terras, mas a<03e0>região começou a entrar em decadência assim que ficou<03e0>sob o domínio de Celapaleis.<04e0>Muitos que aqui viviam se viram obrigados a migrar<03e0>para a capital, e o duque de Qubine me forçou a casar<03e0>com Nielsen para destruir o nome da minha família.
+Mas não permitirei que ninguém destrua o bom nome<03e0>dos Gilles-Barre! Não vou permanecer casada<03e0>com aquele esnobe insuportável!
+Violet, entendo que não esteja gostando da situação.<03e0>Mas você precisa resolver isso de outra maneira.
+Sei que você me entende.<03e0>Mas porque sempre me impede de<03e0>fazer aquilo que acho certo?
+Porque me preocupo com você.<03e0>Venha, vamos voltar a Celapaleis.
 ...
-You're right. Let's go back.
+Você está certo. Vamos voltar.
 

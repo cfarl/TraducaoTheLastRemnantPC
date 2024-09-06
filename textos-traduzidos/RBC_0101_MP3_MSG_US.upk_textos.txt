@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) RBC_0101_MP3_MSG
 -- ----------------------------------------------------------------------------------
-Rush, we are about to walk into a den of monsters, so<03e0>look sharp. We will be fine as long as we handle each<03e0>one individually.
-Okay, got it.
-Take this. It is an <1be064f4ecff>Alizarin Orb<1ce0>.<03e0>It will enable you to use mystic arts.
-Mystic arts?
-Perhaps the term "spell" is more common... It's a way<03e0>to channel energy through your weapon, with fantastic<03e0>results.
-Huh...
-With this <1be064f4ecff>Alizarin Orb<1ce0>, you can channel spells through<03e0>your weapons as well. Now you can attack enemies<03e0>with mystic arts.
-Cool! Thanks a lot!
-Additionally, let me give you this map of the area.<03e0>With these, you should be ready for anything.<03e0>Now then, shall we go on?
-pagusThis gate is a Remnant.<03e0>Only the one bound to it may open it.
-rush_sykes_sSo what do we do?
-pagusHmm... When it comes down to it, it IS a door...<03e0>It stands to reason that it would have a key.
-pagusThis is it. This Remnant is the key.<03e0>Let's try it on that door.
+Rush, estamos prestes a entrar em um covil de<03e0>monstros, por isso fique atento. Vamos ficar<03e0>bem se cuidarmos deles um de cada vez.
+Entendido.
+A propósito, pegue isso. É uma <1be064f4ecff>Orbe de Alizarina<1ce0>.<03e0>Com ela você vai poder usar artes místicas.
+Artes místicas?
+Feitiços, para ser mais claro. Trata-se de técnicas<03e0>que permitem canalizar energia através de armas,<03e0>com resultados surpreendentes.
+Hum...
+Com a <1be064f4ecff>Orbe de Alizarina<1ce0> você poderá usar artes<03e0>místicas para se defender do inimigo.<03e0>
+Legal! Muito obrigado!
+E por último, deixe-me dar a você esse mapa da área.<03e0>Com isso, você agora está preparado para tudo o que<03e0>encontrarmos pela frente. Podemos continuar?
+pagusHum.... Parece que essa porta é um Remanescente.<03e0>Somente a pessoa vinculada a ele pode abri-lo.
+rush_sykes_sO que fazemos então?
+pagusHmm... Bem, isso não deixa de ser uma porta...<03e0>Deve existir uma chave para abri-lo.
+pagusÉ isso! Esse Remanescente é a chave.<03e0>Vamos tentar abrir a porta.
 

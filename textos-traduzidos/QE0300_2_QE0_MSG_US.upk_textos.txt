@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0300_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Busy at work, I see.
-Who goes there!? We are the Steel Syndicate! We bring<03e0>justice to the world by ridding it of evil and sin!
-Justice?<03e0>Is that what you call it?<03e0>You're nothing but a bunch of fools.
-Though your intentions may be good, we<03e0>must force you to disband.
-You're Torgal, one of the Four Generals of Athlum.<04e0>This is perfect.<03e0>With all the meaningless wars Athlum keeps waging,<03e0>I can't think of a better enemy to destroy!<04e0>Let's go, men!<03e0>We're off to destroy that enemy of justice, Athlum!
-We must crush them before they reach Athlum.<03e0>Ignore the weaklings.<04e0>Come on!
-I don't remember letting them escape being part of the<03e0>plan. Athlum is your city, isn't it? If you want to defend<03e0>it, we have to move faster!<04e0>Ignore the weaklings!
-You call that a battle worthy of the Steel Syndicate?
-D-damn, you're strong...
-You bring shame to the Syndicate.
-What right do you have to say that!?<03e0>The organization's purpose is to bring peace<03e0>to the world. That's what we're doing!
-You half-wit!<03e0>You mitra are all feebleminded.
-The Steel Syndicate was created by<03e0>two sovani. <03e0>We were but a mere vigilante group.<04e0>It is not a means to justify your<03e0>thoughtless and brutal acts of violence.<04e0>I can't stand by and watch idiots<03e0>ruin its name.
-W-wait, what do you mean?<03e0>A-are you...? Are you!?
-It belongs to us and we're taking it back.
-Torgal, take out this trash.
-Hey!<03e0>They're gonna get away if you leave!<03e0>Is that what you want!?
+Estou vendo que está muito ocupado, não é mesmo?
+Quem vem lá? Nós somos a Irmandade de Aço! Trazemos<03e0>a justiça ao mundo lutando contra o mal e o pecado!
+Justiça? É assim que chamam o que estão fazendo?<03e0>Vocês não passam de um bando de ignorantes.<03e0>
+Ainda que suas intenções sejam boas, não<03e0>temos outra escolha senão acabar com esse grupo.
+Você é Torgal, um dos Quatro Generais de Athlum.<04e0>Isso é perfeito. Athlum não faz nada além de se meter<03e0>em guerras sem sentido. Não consigo pensar em um<03e0>inimigo melhor para destruir!<04e0>Vamos lá, homens! Chegou a hora de acabar com esses<03e0>inimigos da justiça! Morte a Athlum!
+Precisamos detê-los antes que cheguem em Athlum.<03e0>Ignore os mais fracos.<04e0>Vamos!
+Não acho que deixá-los escapar seja parte do plano.<03e0>Athlum é sua cidade, não é? Se quer defendê-la,<03e0>então precisamos nos mover mais depressa!<04e0>Ignore os mais fracos!
+Vocês se consideram dignos da Irmandade de Aço?
+D-droga, você é mais forte do que eu pensava...
+Você é uma vergonha para a Irmandade.
+Você não tem o direito de dizer isso!<03e0>O propósito da organização é trazer a paz<03e0>ao mundo. É isso o que estamos fazendo!
+Ah, como vocês mitras são idiotas!<03e0>
+A Irmandade de Aço foi criada por dois sovanis.<03e0>Ela era apenas uma simples milícia.<03e0> <04e0>Não uma desculpa para poder justificar atos<03e0>de violência e brutalidade.<04e0>Não vou ficar de braços cruzados enquanto um bando<03e0>de idiotas tenta destruir o bom nome da Irmandade.
+E-Espere aí... o que você quer dizer com isso?<03e0>F-Foram vocês...? Foram vocês?
+A Irmandade é nossa, e estamos tomando ela de volta.
+Torgal, cuide dessa escória.
+Ei! Se você for embora eles irão escapar!<03e0>É isso mesmo o que quer que aconteça?<03e0>
 

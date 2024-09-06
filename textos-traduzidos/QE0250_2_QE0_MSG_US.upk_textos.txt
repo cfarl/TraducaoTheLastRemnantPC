@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0250_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-You little bastard!<03e0>That monster was mine!
-Goddammit! I finally find something that<03e0>maybe might be worth fighting down here and<03e0>you go and take it out!
-You owe me a corpse, asshole! Mind if I<03e0>take yours!?
-Ugh, whatever. Hannah sent you, didn't she,<03e0>trying to get me to go home and be a lady and<03e0>all that shit?
-Both of you can kiss my ass. I dropped<03e0>something real important in these ruins, and<03e0>I'll be damned if I leave without it.
-Huh?<03e0>What's that you're holding? Show it to me.
-Holy hell<07f0>that's my earring! Where the hell'd<03e0>you find that? I've been looking for that thing<03e0>all over this hole!<04e0>Okay, that almost makes up for having bogarted<03e0>my trophy monster before. Guess I won't have<03e0>to break your legs after all.
-But don't think you'll get off this easy twice.<03e0>Try that again and you're gonna regret it.<04e0>Now...back to Hannah. She's probably going<03e0>apeshit by now.
-Aw, man... I'm covered in dirt and grime. I just<03e0>know Hannah's gonna throw a bitchfit again...
-The girl is surrounded by monsters...
-The Tarnished Earring was snatched away.
+Seu idiota bastardo!<03e0>Aquele monstro era meu!
+Maldição! Quando finalmente encontro um monstro que<03e0>talvez valesse a pena você aparece e acaba com ele!<03e0>
+Eu ia fazer um troféu com a sua cabeça, seu imbecil!<03e0>Agora terei de me conformar a sua!
+Aff, deixa pra lá. Foi a Hannah que enviou você, não<03e0>foi? Certamente quer que eu volte para casa e me<03e0>comporte como uma dama e aquela merda toda...
+Pois ela que vá para o inferno, e você junto dela!<03e0>Perdi algo muito importante nessas ruínas, e não<03e0>vou embora daqui sem antes encontrar.
+Hã? O que é isso que você encontrou?<03e0>Deixe-me ver.
+Não pode ser... é o meu brinco! Onde foi que você o<03e0>encontrou? Estou aqui procurando ele há séculos!<03e0> <04e0>Bem, isso quase compensa o fato de você ter pego meu<03e0>troféu. Dessa vez não vou quebrar as suas pernas.<03e0>
+Mas na próxima você não vai se livrar tão facilmente.<03e0>Tente isso novamente e vai se arrepender.<04e0>Agora... vou ver a Hannah. Tenho certeza que ela deve<03e0>estar tendo um ataque de nervos.
+Aw, droga... Estou coberta de sujeira e porcaria.<03e0>A Hannah vai dar outro chilique...
+A garota está cercada por monstros...
+O Brinco Escurecido foi tomado de você.<01e00be00000000400000000000000>?
 

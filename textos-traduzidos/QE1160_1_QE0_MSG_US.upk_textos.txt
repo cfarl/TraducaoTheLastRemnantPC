@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1160_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Have you noticed? ...Probably not, but, like, the people<03e0>here don't pay attention to you unless you're wearing<03e0>the latest brands.
-This's supposed to be the Imperial City! Shouldn't the<03e0>people here be less materialistic, or some junk?
-Anyways. I've been thinking I should get back to nature,<03e0>so I'm selling this sweet Khrynia ring. It'll up your style<03e0>by 1000%.<06e01900>sEVENT_PRICE_QE1160_P_000<08e0000000000000>Sounds hot. I'll buy it.<09e008e0010000000300>...You need a real job.
-Thanks!
-Totally over you, Undelwalt! Toodles!
-Oh my God Emperor...
-Like, how can you not get it by now? You give<03e0>me money, and I take it<07f0>that's how it works!<03e0>This isn't Remnant science!
-Augh! Why are you so poor? Go make some money<03e0>and come back!
+Você percebeu? ...Provavelmente não, mas, tipo,<03e0>as pessoas daqui não prestam atenção em você<03e0>a menos que esteja usando as marcas da moda.
+Essa aqui é a Cidade Imperial! As pessoas desse lugar<03e0>não deveriam ser menos materialistas, ou algo assim?
+Mas enfim... O caso é que estive pensando em voltar<03e0>ao campo, por isso estou vendendo esse encantador<03e0>anel Khrynia. Com ele você terá muito mais estilo.<06e01900>sEVENT_PRICE_QE1160_P_000<08e0000000000000>Parece legal. Fico com ele.<09e008e0010000000300>Arranje um emprego.
+Obrigado!
+Já chega de Undelwalt! Tchauzinho!
+Ah, pelo Imperador celestial...
+Tipo, será que até agora não entendeu como isso<03e0>funciona? A ideia é que você se ocupe de encher seus<03e0>bolsos para que eu possa esvaziá-los. Simples assim!
+Aaargh! Você é mesmo um maldito morto de fome!<03e0>Vá ganhar algum dinheiro e depois conversamos!
 

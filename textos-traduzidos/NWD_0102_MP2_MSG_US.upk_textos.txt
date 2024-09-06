@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NWD_0102_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Monsters stand in the way of the controls.
+Os monstros estão bloqueando o acesso aos controles.
 

@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1120_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The Duke of Celapaleis is like 10 or something, right?<03e0>'Cause he totally acts like some old guy with a stick<03e0>up his chute.
-He needs to stop being a Duke for a sec and work on<03e0>removing whatever's up in there.
-Anyway... I only ended up here 'coz I kinda mixed up<03e0>east and north. But leaving costs money, and I'm just<03e0>a teensy bit short...<04e0>But, you know what would be awesome? If you bought<03e0>this special Khrynia-brand herb. It's, uh, extra-strength.<06e01900>sEVENT_PRICE_QE1120_P_000<08e0000000000000>I'm all about the herb!<09e008e0010000000300>THIS isn't sketchy. Pass.
-Sweet!
-Hasta la bye-bye, Celapaleis!
-Ugh, for real?
-Dude, like, buy something!
-What? It's, like, so cheap, how can you not have that<03e0>much? What are you, like, a total scrub or something?
+O duque de Celapaleis não passa de um pirralho de dez<03e0>anos de idade, não é mesmo? Não sei porque tenta agir<03e0>agir como se fosse um velho orgulhoso.
+Alguém deveria baixar a bola desse menino, senão<03e0>quando crescer não haverá quem o aguente...
+Mas enfim... O caso é que acabei aqui porque meio que<03e0>me confundi com o mapa. E o pior é que não posso ir<03e0>embora daqui porque acabei ficando sem recursos...<04e0>Mas sabe como você poderia me ajudar a resolver isso?<03e0>Comprando essa erva especial Khrynia. É... superforte!<06e01900>sEVENT_PRICE_QE1120_P_000<08e0000000000000>Passe para cá essa erva!<09e008e0010000000300>ISSO não é confiável. Passo.
+Que encantador da sua parte!
+Hasta la vista, Celapaleis!
+Ugh, é sério?
+Oras, não seja tão miserável... Vamos, compre de mim!
+O quê? É, tipo, tão barato, como não tem dinheiro?<03e0>Você é, tipo, um morto de fome, ou o quê?
 

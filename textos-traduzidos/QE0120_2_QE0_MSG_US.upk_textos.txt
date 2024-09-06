@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0120_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I'm pretty sure that the fighting master we're looking<03e0>for is down here.<04e0>Let's keep our wits about us from here, okay?
-Oh yes. So, the master I'm looking for is said to have<03e0>turned into a monster after a lifetime of battle. Funny<03e0>how things turn out, isn't it?<04e0>Anyhow, I'm sure he's still here<07f0>honestly, there<03e0>aren't that many other places he could go. Most likely<03e0>one of these beasts is him.<04e0>Come along, Rush!<04e0>Keep your eyes open for anything strange, alright?
-So, this is his final technique...?<03e0>Ah... I see...
-Forgive me for being so abrupt,<03e0>but we must return to Nagapur.
+Tenho quase certeza que o mestre guerreiro que<03e0>estamos procurando está por aqui.<04e0>Vamos ficar atentos a partir daqui, certo?
+Ah sim. Então, o mestre que estamos procurando acabou<03e0>se transformando em um monstro depois de dedicar toda<03e0>sua vida ao combate. Como são as coisas, hã?<04e0>De qualquer maneira, tenho certeza que ainda está<03e0>por aqui. Não há outro lugar para onde ele possa ter<03e0>ido. É bem provável que seja uma dessas criaturas.<04e0>Vamos lá, Rush!<04e0>Mantenha os olhos abertos, certo?
+Então, essa é sua famosa técnica?<03e0>Ah... entendo...
+Perdoe-me por ser tão brusca,<03e0>mas precisamos retornar a Nagapur.
 

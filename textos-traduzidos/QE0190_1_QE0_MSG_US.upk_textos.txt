@@ -1,16 +1,16 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0190_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-In a locked room deep in the <1be0ffbe34ff>Robelia Ruins<1ce0>,<03e0>there's a stone goddess that brings you<03e0>together with the one of your choice.<04e0>I received the key from a man who frequently<03e0>went there to pick certain flowers.<04e0>I don't know why he had the key or why he<03e0>gave it to me, but I'm grateful that he did.
-Rush, will you do me a favor and come<03e0>with me to the ruins?<03e0>I have to see my sister again!<03e006e0000008e0000000000000>Of course. Let's go!<09e008e0010000000300>That's just a story...
-Thank you!<03e0>I'm ready to leave right away!
-Why would you say that!?
-Rush, please.<03e0>I need someone to come with me to the ruins.<03e0>I have to see my sister again!<06e0000008e0000000000000>Of course. Let's go!<09e008e0010000000300>That's just a story...
-Thank you!<03e0>I'm ready to leave right away!
-Why would you say that!?
-Come with me to the <1be0ffbe34ff>Robelia Ruins<1ce0>, please!<03e0>I need to find the statue!<06e0000008e0000000000000>Alright, alright.<09e008e0010000000300>You're so naïve.
-Alright, let's get going.
-You gotta be kidding me...
-I can't believe I get to be with my sister again, thanks to you.<04e0>Thank you, Rush.<03e0>I want you to have this.
-Oh, and if you ever need some help,<03e0>my sister's always willing to lend a hand.<03e0>You can find her in the guild.<04e0>Our plan is to earn money now<03e0>so we can retire early and live out<03e0>the rest of our lives peacefully.
+No interior das <1be0ffbe34ff>Ruínas de Robélia<1ce0>, dentro de uma<03e0>sala fechada, há uma estátua de pedra capaz de<03e0>trazer até você a pessoa que desejar.<04e0>Recebi a chave que abre essa sala de um homem que<03e0>com frequência ia até lá para colher umas flores.<04e0>Na verdade, não sei porque ele tinha essa chave, ou<03e0>porque a deu para mim, mas estou muito grato a ele.
+Rush, será que você pode vir comigo até as ruínas?<03e0>Preciso ver minha irmã outra vez!<03e0> <03e006e0000008e0000000000000>Mas é claro. Vamos lá!<09e008e0010000000300>Isso é só uma história...
+Obrigado! Estou pronto para partir agora mesmo!<03e0>
+Mas... Por que você diz isso?
+Rush, por favor. Preciso que venha comigo até<03e0>as ruínas. Tenho de ver minha irmã outra vez!<03e0> <06e0000008e0000000000000>Mas é claro. Vamos lá!<09e008e0010000000300>Isso é só uma história...
+Obrigado! Estou pronto para partir agora mesmo!<03e0>
+Mas... Por que você diz isso?
+Venha comigo até as <1be0ffbe34ff>Ruínas de Robélia<1ce0>, por favor!<03e0>Preciso encontrar essa estátua!<06e0000008e0000000000000>Tudo bem, tudo bem.<09e008e0010000000300>Você é muito inocente...
+Tudo bem, vamos indo então.
+Você só pode estar brincando...
+Não consigo acreditar que encontrei minha irmã.<04e0>E tudo graças a você. Obrigado, Rush.<03e0>Quero que fique com isso.
+Ah, e se você algum dia precisar de uma mão,<03e0>minha irmã estará sempre disposta a ajudar.<03e0>Você pode encontrá-la na guilda.<04e0>Estávamos pensando em ganhar dinheiro suficiente<03e0>para que possamos nos aposentar e viver o resto de<03e0>nossas vidas em paz, sem preocupações.
 

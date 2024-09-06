@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0040_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Would my Charlotte really have come to such a place?
-Aughhhh!!!
-That voice<07f0>it's Charlotte!<03e0>Something must have happened to her!
-I was meant to meet Charlotte at the castle's bell tower.
-Let's hurry!
-Aughhhh!!!
-That's not the right way!
-We're just going in circles...
-Where could they have taken Charlotte?
-There must be a key.<03e0>Let us search for it.
+Por que minha Charlotte viria a um lugar como esse?
+Aaahhhh!!!
+Essa voz... É a Charlotte!<03e0>Deve ter acontecido alguma coisa com ela!
+Combinamos de nos encontrar no campanário do castelo.
+Vamos rápido!
+Aaahhhh!!!
+Não é por aqui!
+Estamos andando em círculos...
+Para onde levaram a Charlotte?
+Deve haver uma chave por aqui.<03e0>Vamos procurar por ela.
 

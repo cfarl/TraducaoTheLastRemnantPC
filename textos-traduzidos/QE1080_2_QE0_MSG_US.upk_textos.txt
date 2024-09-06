@@ -1,37 +1,37 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1080_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Greetings, traveler.<03e0>What brings you to our humble town?<04e0>...<03e0>You wish to know about Melphina's holy chalice,<03e0>you say?<04e0>...It is true that this town has kept a holy chalice for<03e0>centuries. Your interest is appreciated, but...what do<03e0>you want with this information?<04e0>The chalice cannot be taken out of town, much<03e0>less handed to a stranger. If that is what you have<03e0>come here for, then I am afraid we cannot help you.
-What?<03e0>You came from Elysion?<04e0>Then maybe you've seen a qsiti by<03e0>the name of Darien?<04e0>I'm sorry, it's a big city.<03e0>It'd be too much of a coincidence if you<03e0>did know him.<04e0>He left town out of guilt after an incident,<03e0>but everyone's forgiven him by now.<03e0>Yet he still doesn't return...<04e0>Even the daughter of that shopkeeper has forgiven<03e0>him. *sigh* What a stubborn young man...
-I have no idea why Darien won't return to this town.<04e0>Even the daughter of that shopkeeper has forgiven<03e0>him. *sigh* What a stubborn young man...
-My grandson Bino has told me everything. Darien was<03e0>the one who put you up to coming here, correct?<04e0>I see.<03e0>I understand what's going on...<04e0>...<04e0>Fine.<03e0>The chalice is yours.<03e0>Make certain it gets to Darien.
-And give him a message for me.<04e0>...Or is that even necessary? The chalice may be<03e0>enough of a message.<04e0>Never before has the chalice been left in the hands<03e0>of a stranger.<04e0>He must know what it means for me to be doing this.<03e0>Be safe on your journey back to Elysion.
-Make sure the holy chalice gets back to Darien.
-Huh? Darien?<04e0>I told him I'd forgive him, but to be honest, I'm not<03e0>sure I can.<03e0>It's all his fault that that poor girl...<04e0>Ah, I'm sorry. I don't mean to rant to a complete<03e0>stranger.<04e0>But whenever I see Goster, I know he's still in pain...
-I remember that day as if it were yesterday.<04e0>I'd never seen Goster so angry, nor Darien so<03e0>crestfallen.<04e0>In the end, I think Darien left because of Goster.<03e0>Now that it's all over, I wonder how he feels about it?
-Darien is in Elysion now?<04e0>I wonder if he's ever going to come back.<03e0>Though even if he did, I have no idea<03e0>what I would say to him.
-Hello and welcome to Melphina.<03e0>This here is the place to shop!
-What do ya want?<03e0>You have questions about Darien?<04e0>What are ya, his spy or somethin'?<03e0>Get outta here!<03e0>I got nothing to say to you!
-Was that so hard to understand?<03e0>Buzz off!<03e0>I ain't talking to ya!<04e0>I'm on my break. If the old lady sees you,<03e0>I got no idea what she'll do.<03e0>Leave. Now.
-You're still here!?<03e0>Are you freakin' stupid?<03e0>Lemme take my break in peace!
-There you are, HONEY!!!
-Ack!<03e0>Wh-what are you doing here!?
-It was you, wasn't it!?<03e0>You ratted me out!<03e0>Get ready to pay for...
-Shut your mouth!
-Y-yes, dear!
-Not only do I catch you slacking off, but you're about<03e0>to place the blame on someone else for your laziness!?<04e0>You'd better get back to work before I get really mad...<03e0>Do you hear me!?
-Y-yes, loud and clear...
-I'm so sorry you had to see that.<04e0>Oh yes, it seemed like you had a question for my<03e0>husband? Go right ahead, he'll answer anything you<03e0>want. ...Right, sweetie?<04e0>Well, my job here is done. Ta-ta for now~
-I-I didn't think I'd get out of that alive...<04e0>Dammit, I gotta get back to work and now I'm stuck<03e0>answering your dumb questions!?<04e0>Fine, ask away. You want to know what happened<03e0>with me and Darien, then? ...Guess I might as well tell<03e0>you.<04e0>He... Darien...<03e0>He killed my little sister.<04e0>I won't forgive him. I got no reason to. But I can't stand<03e0>the thought of him dyin' in the gutter without payin' for<03e0>what he did to her, either...<04e0>I been waitin' and waitin' for him to come back,<03e0>but it doesn't look like he is.<04e0>That all you needed to know?<04e0>If you wanna know more about Darien, ask Bino.<03e0>They were real close.<04e0>I really gotta go now.<03e0>See yas.
-Nothin' beats a break from the grind.
-Well, hello there. You're not from around here, are you?<03e0>Are you lost?<04e0>What? You want to know about Darien?<04e0>Well... I know that he used to live here, but not much<03e0>else. Sorry, I haven't lived here for that long myself.<04e0>My husband was born in this town.<03e0>Maybe he can answer whatever questions you have.<03e0>...Goodness, where is he!?<04e0>He's supposed to be working, but I don't see him...<03e0>Ooh, that man is asking for it!
-What? You met him by the town entrance?<04e0>Well, well.<03e0>So that's where he decided to skip off to today...<04e0>Excuse me, but I must be off.<03e0>Someone needs to be taught a lesson!
-Oh, hello.<03e0>Did you get the answers you needed?<04e0>It's funny. My husband's never mentioned a Darien<03e0>to me before. I wonder why that is?
+Seja bem-vindo, forasteiro.<03e0>O que o traz à nossa humilde cidade?<04e0>Você quer saber sobre o cálice sagrado de Melphina?<03e0> <03e0> <04e0>Sim, é verdade que nessa cidade temos um cálice que<03e0>vem sendo protegido há muitas gerações. Aprecio seu<03e0>interesse, mas... o que deseja com essa informação?<04e0>O cálice não pode sair da cidade, e muito menos ser<03e0>entregue a um forasteiro. Se é por isso que veio até<03e0>aqui, então receio não poder ajudá-lo.
+Como? Você disse que está vindo de Elysion?<03e0> <04e0>Por coincidência, será que não encontrou um qsiti que<03e0>atende pelo nome de Darien?<04e0>Me desculpe, sei que é uma cidade muito grande, e que<03e0>seria muita coincidência você topar com ele...<03e0> <04e0>Mas trata-se de um jovem que fugiu da cidade cheio de<03e0>culpa por causa de um certo "incidente" que causou...<03e0>Todos aqui o perdoaram, mas ele se recusa a voltar.<04e0>Até mesmo a filha daquele comerciante já se esqueceu<03e0>desse assunto... *suspiro* Que jovem teimoso...
+Não entendo porque Darien não volta para a cidade.<04e0>Até mesmo a filha daquele comerciante já se esqueceu<03e0>desse assunto... *suspiro* Que jovem teimoso...
+Meu neto Bino me falou de você. Foi Darien quem pediu<03e0>para você vir até aqui, não foi?<04e0>Hum... Eu já sei o que está acontecendo...<03e0> <04e0>...<04e0>Tudo bem, vou deixar você levar o cálice... Mas com a<03e0>condição de que ele seja entregue para o Darien.<03e0>
+E dê a ele uma mensagem de minha parte...<04e0>Não, pensando bem, talvez isso não seja necessário.<03e0>O cálice será suficiente para transmitir a mensagem.<04e0>Em outras circunstâncias, jamais confiaria o cálice<03e0>a uma pessoa de fora.<04e0>Mas ele vai entender o significado desse gesto.<03e0>Boa sorte na sua viagem de volta à Elysion.
+Entregue o cálice sagrado ao Darien.
+Hã? Darien?<04e0>Sim, eu disse que iria perdoá-lo, mas na verdade não<03e0>sei se consigo fazer isso. Porque no fim das contas,<03e0>foi por culpa dele que aquela pobre garota...<04e0>Ah, sinto muito. Não sei porque estou contando minha<03e0>vida para um completo desconhecido.<04e0>Mas sempre que vejo Goster, sei o quanto sofre...
+Eu me lembro daquele dia como se fosse ontem.<04e0>Nunca tinha visto Goster tão nervoso, nem Darien tão<03e0>arrependido.<04e0>No fim, acho que Darien partiu por causa de Goster.<03e0>Mas não deve ser fácil para ele também.
+Você diz que Darien está em Elysion?<04e0>Eu me pergunto se ele pensa em voltar algum dia...<03e0>Ainda que fizesse isso, não sei bem<03e0>o que poderia dizer a ele.
+Olá, seja bem-vindo a Melphina.<03e0>Esse aqui é o lugar ideal para fazer suas compras!
+Como? Você quer saber sobre o Darien?<03e0> <04e0>Foi ele quem te pediu para vir até aqui me espionar?<03e0>Vá embora, não tenho nada para dizer a você!<03e0>
+Será que não me ouviu? Vá embora daqui!<03e0>Eu não vou te contar nada!<03e0> <04e0>Nesse momento estou fazendo um pequeno intervalo, tá?<03e0>Se minha mulher te pegar aqui, vai ficar uma fera comigo.<03e0>
+Você ainda está aí? Você é o quê, um idiota?<03e0>Me deixe descansar em paz!<03e0>
+Aí está você, QUERIDO!!!
+AAAH! O-o que você está fazendo aqui?<03e0>
+Foi você, não foi? Tenho certeza que você me entregou!<03e0>Pois eu vou te dar uma...<03e0>
+Cale a sua boca!
+S-sim, querida!
+Não basta pegar você vadiando, ainda por cima tenta<03e0>colocar a colocar a culpa nesse garoto?<04e0>É melhor você voltar ao trabalho antes que eu fique<03e0>brava de verdade... Você me ouviu?
+S-sim, em alto e bom tom...
+Sinto muito por você ter presenciado essa cena.<04e0>Ah sim, parece que você queria perguntar algo para<03e0>o meu marido. Vá em frente, pergunte o que quiser.<03e0>Ele vai te responder. Não é verdade, querido?<04e0>Bem, meu trabalho aqui está feito. Até logo!
+E-eu achei que não iria sair vivo dessa vez...<04e0>Droga, com o tanto de trabalho que tenho para fazer,<03e0>agora também tenho que responder perguntas idiotas?<04e0>Tudo bem, vá em frente. Pode perguntar o que quiser.<03e0>Você quer saber o que aconteceu entre Darien e eu?<03e0>Acho que posso te contar.<04e0>Ele... Darien... Foi o responsável pela morte da minha<03e0>irmã, que naquele tempo estava muito doente.<04e0>Ele disse a ela que seria seu cavaleiro, mas não tinha<03e0>a disciplina necessária para entrar na Ordem. No final<03e0>minha irmã perdeu a fé... e a vontade de viver.<04e0>E como se não fosse o bastante, ele ainda desdenhou<03e0>do cálice sagrado, querendo se vingar da Ordem.<04e0>Isso é tudo que precisava saber?<04e0>Se quiser saber mais sobre ele, pergunte ao Bino.<03e0>Eles eram muito amigos.<04e0>Eu preciso mesmo ir agora.<03e0>Nos vemos depois.
+Nada é melhor do que uma pausa de vez em quando.
+Bem, olá. Você não é daqui, é?<03e0>Está perdido?<04e0>O quê? Você quer saber sobre o Darien?<04e0>Bem... A única coisa que sei é que antes vivia aqui um<03e0>rapaz que tinha esse nome, mas não cheguei a conhecer.<04e0>Mas meu marido morou a vida toda nessa cidade,<03e0>por isso talvez possa responder suas perguntas.<03e0>Eu só não sei onde foi que ele se meteu...<04e0>Ele deveria estar trabalhando, mas não o vejo por aqui.<03e0>Ah, aquele homem está procurando encrenca!
+Como? Você o encontrou perto da entrada da cidade?<04e0>Certo, então é lá que ele decidiu se esconder hoje...<03e0> <04e0>Me perdoe, mas preciso te deixar por um instante...<03e0>Alguém precisa aprender uma lição!
+Ah, olá. Você conseguiu as respostas que procurava?<03e0> <04e0>É curioso... Meu marido nunca havia falado desse tal<03e0>de Darien. Eu me pergunto por quê.
 ...
-He's finally gone back to work.<03e0>He's like this every day!<04e0>I'm sorry if he was rude to you.<03e0>Tell this Darien fellow I said hi!
-Where is he!?<03e0>Where has he gone off to now!?<03e0>Must I go and find him every day!?
-Hi, mister.<03e0>What? Yeah, I'm Bino. That's me.<04e0>You want to know about Darien?<03e0>Hmm, where do I start?<03e0>He's a simple guy but really sensitive.<04e0>He used to live here, but not anymore.<03e0>I don't know where he is now.<04e0>Huh? You heard that he killed someone and<03e0>got run out of town?<04e0>Haha! That's a great story.<03e0>You can't tell, but Darien's a really nice guy.<03e0>He couldn't kill anyone.<04e0>There was this one incident, though...<03e0>Darien left shortly afterwards.<04e0>Why are you so interested in him?<04e0>What!? You met him?<03e0>And he asked you to bring him the holy chalice?<04e0>Oh, I get it. He's still...<04e0>Alright.<03e0>My grandpa's in charge of guarding the chalice.<04e0>You can find him around the town entrance.<03e0>Good luck!
-Cool!<03e0>Grandpa lent you the chalice, huh?<04e0>Tell Darien I say hi and that I hope he comes back<03e0>soon.
-What a nice day!<03e0>The Blue Elf looks clearer than ever.
-I've been feeling slightly sick since<03e0>the Blue Elf has been gone...
+Meu marido finalmente voltou ao trabalho.<03e0>Ele faz isso todos os dias!<04e0>Sinto muito se ele foi mal-educado com você.<03e0>Mande meus cumprimentos a esse Darien!
+Onde ele está? E onde será que se meteu dessa vez?<03e0>Porque tenho de ir procurá-lo todos os dias?<03e0>
+Olá, senhor. Como? Se conheço o Bino?<03e0>Claro que sim... Sou eu!<04e0>Como, você quer saber sobre o Darien? Hm, vejamos...<03e0>Por onde posso começar? Ele é um rapaz bem simples,<03e0>mas bastante sensível.<04e0>Ele antes morava aqui, mas agora não mora mais.<03e0>Não sei onde foi que ele foi parar.<04e0>Te disseram que ele matou alguém e fugiu da cidade?<03e0> <04e0>Hahaha! Essa é uma ótima história. Você pode até não<03e0>acreditar, mas Darien é um bom rapaz... Ele não seria<03e0>capaz de fazer mal a uma mosca.<04e0>Houve aquele incidente, no entanto...<03e0>E Darien partiu logo em seguida.<04e0>Por que você está tão interessado nele?<04e0>O quê? Você o encontrou? E ele te pediu para levar<03e0>para ele o cálice sagrado?<04e0>Ah, entendi. Ele ainda...<04e0>Certo, meu avô está encarregado de guardar o cálice.<03e0> <04e0>Você vai encontrá-lo perto da entrada da cidade.<03e0>Boa sorte!
+Legal! Vovô emprestou o cálice para você?<03e0> <04e0>Leve meus cumprimentos ao Darien e diga a ele que<03e0>tenho esperanças de que volte logo.
+Mas que dia magnífico!<03e0>A Lágrima Azul parece mais brilhante que nunca.
+Tenho me sentido um pouco doente desde que levaram<03e0>embora a Lágrima Azul...
 

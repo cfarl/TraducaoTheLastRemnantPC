@@ -1,11 +1,11 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0400_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hey. Guess you heard the rumors about that "flying<03e0>monster," huh?<04e0>Yeah... Probably ain't a surprise to you, but that "monster"<03e0>is the Lob Omen. With all the shit going down here in<03e0>Nagapur, it's been hiding out up at <1be0ffbe34ff>Wyrmskeep<1ce0>.<04e0>I wanna go up there and get it back, but now that<03e0>Hermeien's gone, a bunch of monsters've moved in.<03e0>It's dangerous, even for me.<04e0>Hey, other than that whole sister-kidnapping-and-trying-<03e0>to-kill-each-other business, we're cool, right?<04e0>Think you could help me get the Lob Omen back?<03e0>I heard finding strong Remnants is what y'all are all<03e0>about lately. So, you down?<06e0000008e0000000000000>Sure, uh, dawg..<09e008e0010000000300>I'm so not "down" I'm up.
-Whaddaya want?<03e0>You gonna help me get the Lob Omen yet?<03e006e0000008e0000000000000>I'm, uh, down with that.<09e008e0010000000300>Oh, has hell frozen over?
-Yeahhh, that's what I like to hear.<04e0>We oughta be able to sneak into the castle through the<03e01be0ffbe34ff>Aqueducts<1ce0>. C'mon, let's roll.
-We oughta be able to sneak into the castle through<03e0>the <1be0ffbe34ff>Aqueducts<1ce0>. C'mon, let's roll.
-Hmph, pussy.<03e0>You don't see me holding a grudge...
-Hey, 'sup. You really helped me out back with the<03e0>Lob Omen.<04e0>Here.<03e0>It ain't much, but shut up and take it anyway.
-The hell're you lookin' at me like that for?<03e0>What, you think I don't know common courtesy?<04e0>Damn, you're such a little<07f003e0>Eh, whatever.<03e0>Holla at me later.
+Ei. Acho que você escutou os boatos a respeito<03e0>desse famoso "monstro voador", não é verdade?<04e0>E imagino que não seja nenhuma surpresa para você,<03e0>o "monstro" é o Lob Omen. Depois do que aconteceu<03e0>em Nagapur ele decidiu se esconder em <1be0ffbe34ff>Fortedragão<1ce0>.<04e0>Eu gostaria de ir até lá para pegá-lo de volta, mas<03e0>depois que Hermeien se foi, o lugar se encheu de<03e0>monstros. É perigoso, até mesmo para mim.<04e0>Mas ei, apesar de eu ter sequestrado sua irmã e ter<03e0>tentando te matar algumas vezes estamos de boa, né?<04e0>Será que poderia me ajudar a recuperar o Lob Omen?<03e0>Ouvi dizer que ultimamente você anda em busca de<03e0>remanescentes poderosos. Então, o que me diz?<06e0000008e0000000000000>Claro, não guardo rancor...<09e008e0010000000300>Nada disso, tô fora!
+E então? Você me ajuda a recuperar o Lob Omen?<03e0> <03e006e0000008e0000000000000>Claro, uh, não guardo rancores.<09e008e0010000000300>Só quando o inferno congelar.
+Yeahhh, era isso que eu queria ouvir.<04e0>Podemos entrar no castelo pelos<03e01be0ffbe34ff>Aquedutos<1ce0>. Vamos lá, pé na estrada.
+Podemos entrar no castelo seguindo pelos<03e0> <1be0ffbe34ff>Aquedutos<1ce0>. Então vamos lá, pé na estrada.
+Hmph, seu covarde.<03e0>Você não me vê guardando rancor...
+Ei, garoto. Você me ajudou de verdade,<03e0>recuperando o Lob Omen.<04e0>Fique com isso.<03e0>Não é grande coisa, mas cale a boca e aceite.
+Por que diabos está me olhando com essa cara?<03e0>O que foi? Você achou que eu não tinha modos?<04e0>Droga, você é mesmo um...<03e0>Ah, deixa pra lá. Até a próxima.<03e0>
 

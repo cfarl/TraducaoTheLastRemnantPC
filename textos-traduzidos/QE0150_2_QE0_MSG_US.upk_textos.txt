@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0150_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Magick...<04e0>Dim as starlight...<04e0>Its beauty is the light that cuts through<03e0>misty seas.
-Magick...<04e0>A gift that transcends fear...<04e0>It is all I have, and everything that is.
-Magick...<04e0>A cherished one living within...<04e0>Found not even at the end of an infinite road.
+A magia arcana...<04e0>Uma arte negra como a sombra de uma estrela...<04e0>Sua beleza é a luz que atravessa as<03e0>névoas que cobrem os oceanos.
+A magia arcana...<04e0>Um dom que transcende o medo...<04e0>É tudo que tenho, e o que há de verdadeiro no mundo.
+A magia arcana...<04e0>Um ser abençoado que vive dentro de nós...<04e0>Encontrado mais além de um caminho sem fim.
 

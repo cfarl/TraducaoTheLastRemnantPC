@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0440_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Ophelia! Where have you been?<03e0>Melphina's been in a state of emergency!
-Leticia the Forest Maiden has been snatched away,<03e0>held captive. The kidnapper's ransom is the Blue<03e0>Elf for the Maiden's life.
-The culprit seemed at his wits' end... Furthermore,<03e0>he closed his ears to all we said. We can neither<03e0>talk him down nor negotiate.
-Verily, it is as you say.
-Unbelievable...
-Wh-what?
-The Order has already considered rescuing the<03e0>girl by force, but the kidnapper is in such a<03e0>state that the wrong move could endanger the girl.
-The Blue Elf is our country's greatest treasure.<03e0>However, there is nothing in this world worth<03e0>more than a life.
-Protecting the lives of the people of Melphina<03e0>is my only desire.<04e0>Likewise, Roberto and the Order, holding the<03e0>souls of true knights, have fiercely protected<03e0>this country until today.
-Then, it is decided.<04e0>We shall give him the Blue Elf<03e0>before he takes the life of the Maiden.
+Ophelia! Por onde você andou?<03e0>Melphina está em estado de emergência!
+Leticia, uma das donzelas do bosque, foi sequestrada e<03e0>o responsável está exigindo a entrega da Lágrima Azul<03e0>como resgate. Se não fizermos isso, ele vai matá-la...
+Ele estava tão transtornado que se recusou a ouvir o<03e0>que tínhamos a dizer. Não conseguimos acalmá-lo, e<03e0>nem mesmo negociar com ele.
+É verdade, você tem razão...
+Não é possível...
+O-o quê?
+A Ordem pensou na hipótese de resgatar a garota pela<03e0>força, mas o sequestrador está tão nervoso que pode<03e0>ser capaz de colocar a donzela em risco.
+A Lágrima Azul é o maior tesouro da nossa terra.<03e0>Mas nada é mais valioso que a vida de uma pessoa.<03e0>
+Meu único desejo é proteger o povo de Melphina.<03e0> <04e0>Assim como Roberto e a Ordem de Melphina, que sempre<03e0>se comportaram como verdadeiros cavaleiros, e lutaram<03e0>com bravura por esse reino, até os dias de hoje.
+Então está decidido.<04e0>Nós vamos entregar ao sequestrador a Lágrima Azul,<03e0>antes que ele possa tirar a vida da donzela.
 

@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) GSD_0201_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Ancient characters are engraved<03e0>in the stele:<04e0>Our powers close the door;<03e0>Our wings reveal the path;<03e0>Our symbol of faith proves us worthy.
-Ancient characters are engraved<03e0>in the stele:<04e0>Our powers close the door;<03e0>Our wings reveal the path;<03e0>Our symbol of faith proves us worthy.<04e0>Use the key Remnant Divine Statue?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>Not right now.
-The stele has lost its power.
-All of the steles have lost their power.
+O pedestal contém uma inscrição muito<03e0>antiga:<04e0>Nossos poderes mantêm a porta fechada;<03e0>Nossas asas revelam o caminho;<03e0>O símbolo de nossa fé demonstra nosso valor.
+O pedestal contém uma inscrição muito<03e0>antiga:<04e0>Nossos poderes mantêm a porta fechada;<03e0>Nossas asas revelam o caminho;<03e0>O símbolo da nossa fé demonstra nosso valor.<04e0>Quer abrir a porta com a Estátua Divina?<06e0000008e0000000000000>Claro que sim!<09e008e0010000000300>Agora não.
+O pedestal perdeu seu poder.
+Todos os pedestais perderam seu poder.
 

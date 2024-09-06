@@ -1,150 +1,150 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) BAR_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Howdy there! It's been a long spell since we've had<03e0>anyone new come 'round these parts<07f0>'specially a<03e0>young buck like you.<04e0>Welcome to Baaluk, the belle of the west<07f0>or the end<03e0>of the world, 'pending on who you ask. This is the<03e01be0ffbe34ff>Grentze Commune<1ce0>, our main settlement.<04e0>We don't get too many visitors, so I'm sure everyone'll<03e0>be real happy to see you!
-[[2nd level message]]
-[[3rd level message]]
-So we've had another traveler come through town<07f003e0>not a cutie like you, though! He said he came from some<03e0>con-grass whozawhatzit group?<04e0>He went on about his organization bein' updated, with<03e0>some new feller in charge, like it was some of my<03e0>business...<04e0>I didn't even know there were organizations like that, but<03e0>so long as he wasn't asking for any money, it didn't<03e0>bother me none.
-[[5th level message]]
-[[6th level message]]
-Oh, it's you again, come back to visit. You'd better keep<03e0>on going through, hon. Somebody's done taken the<03e0>Brimuslabus, can you believe it?<04e0>The Brimuslabus's stood here for hundreds of years,<03e0>sealin' away an evil god.<04e0>Without the Remnant, that god'll be back...and all the<03e0>madder for it, I'll tell you what.<04e0>Our poor village, this's gonna be the end...
-Hoo-wee, can ya believe it? We were saved from that<03e0>terrible disaster by Mr. Wyngale and his posse.<04e0>Phew, I didn't know what to do, I don't even know<03e0>how to start to thank him. I was prayin' to every god I<03e0>could think of!
-[[6th level message]](after the Remnant is stolen)
-I reckon you saw them giant spikes stickin' out of the<03e0>cliff down yonder. That's our Remnant, the Brimuslabus.<04e0>Town legend says there was some terrible monster<03e0>running wild, but the Imperator took the Remnant and<03e0>sealed it in that very spot.<04e0>'Course, that was hundreds of years ago... If'n there's<03e0>any truth to it, I sure ain't the one to tell. Only<03e0>half-believe it myself, actually.
-The Brimuslabus is gone.<04e0>I'm worried<07f0>real worried.<03e0>Sure hope the town legend is nothing more<03e0>than a fancy bedtime story.
-[[3rd level message]]
-Oh, get this. Some fancy-pants messenger strolled in<03e0>from some far-off place. ...Reckon most everyplace is<03e0>pretty far-off from here, though.<04e0>Apparently those big city-types've been havin' themselves<03e0>a war or two, and lost all their Remnants, so, they sent a<03e0>guy to come sniffing 'round here for unbound ones.<04e0>You can bet I gave him the evil eye 'til he gave up on<03e0>tryin' to take the Brimuslabus, I tell you what.<04e0>The nerve of them city folk, comin' here to steal our<03e0>Remnant! They'd just let that varmint sealed by the<03e0>Imperator come back, huh?
-[[5th level message]]
-[[6th level message]]
-I'll be a monkey's uncle. That story 'bout the demon and<03e0>the Imperator was the honest truth after all.<04e0>Damnation, 'til now we been able to drive off everyone<03e0>tryin' to get their hands on the Brimuslabus. How in<03e0>blazes did this happen?<04e0>Welp, ain't nothin' to be done about it now. I was raised<03e0>here by my pappy and him by his pappy before that. I'm<03e0>stayin' here 'til the end.
-Hey, have ya heard?<03e0>Some terrible big beast showed up here, an' that sovani,<03e0>Wyngale, beat the tar out of it!<04e0>All this time I figgered he was just some crazy kook,<03e0>who'd have thunk he'd end up all o' our saviors?
-[[6th level message]](after the Remnant is stolen)
-A couple times a year, a caravan of traders rolls through.<03e0>They come selling all kinds of equipment and other<03e0>exotic stuff from the east.<04e0>Some o' them traders were saying there's s'posed to be<03e0>some huge cities, a couple times bigger than here, even.<04e0>Speaking plainly, I think they were just pulling my leg.<03e0>Like someplace that big could really exist, come on,<03e0>I'm no idiot!
-[[2nd level message]]
-Hoo-wee, was I surprised!<04e0>Some feller from the east<07f0>called himself an emissary<03e0>or somesuch<07f0>came all the way out here to Grentze<03e0>from the capital city, Elysion.<04e0>Seems the folks on the continent all got into some<03e0>fightin', and lost a bunch of their Remnants. Shame,<03e0>ain't it?<04e0>Anyhow, I guess the world's pretty big after all.<03e0>Kinda makes me wanna strike out and do some<03e0>explorin' myself!
-[[4th level message]]
-Whoa there, pardner! This ain't no place to be<03e0>lollygagging!<04e0>Didn't you know? The legendary beast what was<03e0>sealed around here's woken up!<04e0>There ain't nothin' left for this town, sure as<03e0>I'm standin' here<07f0>so I'm hoofing it out. Dunno<03e0>where I'm headin', but it can't be worse.
-Hey, pardner<07f0>izzit true what they say, that the<03e0>varmint what was s'posed to destroy the village was<03e0>beaten?<04e0>I heard tell that square peg of a sovani what lived<03e0>here came in with his pals an' saved the village.<03e0>Pretty amazin', ain't it?<04e0>I was on the road outta town when I heard the<03e0>rumor, so I came back t' check it out.
-See that sovani knight standin' over by the cliffs?<03e0>That's Mr. Wyngale.<04e0>Mama says he's protected Grentze for a long, long<03e0>time<07f0>even since before I was born!
-[[2nd level message]]
-Mr. Wyngale stands there every day and prays towards<03e0>the Brimuslabus.<04e0>Wonder if his arms get tired, standin' like that all the<03e0>time...<04e0>I'd go and switch off with him so he could rest, but I<03e0>haven't got but two arms...
-[[4th level message]]
-Mister, what're we gonna do?<04e0>The Brimuslabus is gone, and Mama says some real<03e0>scary monster's come out!<04e0>Mr. Wyngale'll be able to do somethin' about it...right?
-Hey, mister, didja see? That scary monster ain't here no<03e0>more. Mr. Wyngale found it and whupped it but good!<03e0>He's just amazing!<04e0>When I grow up, I wanna be just like him!
-I am Wyngale.<04e0>I've stood here for hundreds of years, watching over<03e0>the Remnant Brimuslabus and what it seals.
-Foolish qsiti.<03e0>The Brimuslabus has not blessed this town.<04e0>Or perhaps, it has.<03e0>Perhaps it has prevented Him from awakening.<03e0>That would indeed be a blessing.<04e0>Hmph...
-Huh?<03e0>What're you doing here, old lady?
-Wha<07f0>excuse me?<03e0>Do I even know you?
-Oh, oops.<03e0>Um, I thought you were someone else...
-Hmph! Make sure you have the right<03e0>person next time!
-S-sorry...
-Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
-Calling someone "old lady" is rude and inconsiderate...<03e0>especially when they aren't old!
-Hm? You again.
+Olá, como vai? Já fazia um bom tempo que não víamos<03e0>um forasteiro aqui por essas bandas... e ainda mais um<03e0>jovem tão bem apessoado como você.<04e0>Seja bem-vindo a Baaluk, a jóia do Ocidente. Ou fim do<03e0>mundo, dependendo de para quem perguntar... Essa é a<03e01be0ffbe34ff>Comunidade Grentze<1ce0>, nosso principal assentamento.<04e0>Não temos o costume de receber muitos visitantes,<03e0>mas tenho certeza que todos ficarão felizes de te ver!
+[[Mensagem do nível 2]]
+[[Mensagem do nível 3]]
+Alguns dias atrás passou por aqui um outro forasteiro.<03e0>Um que não era tão bonito como você. E ele disse que<03e0>trabalhava para um grupo de nome estranho...<04e0>E não parava de falar sobre as mudanças que essa tal<03e0>organização estava passando, e que agora havia outra<03e0>pessoa no comando, como se fosse da minha conta.<04e0>Eu nem sabia da existência dessa organização, mas como<03e0>ele não estava me pedindo dinheiro aquelas histórias não<03e0>estavam me incomodando.
+[[Mensagem do nível 5]]
+[[Mensagem do nível 6]]
+Ah, é você de novo... Veio fazer uma visita? É melhor<03e0>voltar uma outra hora, pois alguém acabou de roubar<03e0>o Brimuslabus, você acredita nisso?<04e0>Durante centenas de anos o Brimuslabus esteve aqui,<03e0>protegendo a cidade de um deus maligno.<04e0>Mas agora que o Remanescente se foi, essa coisa pode<03e0>voltar. E aí vai ser um deus-nos-acuda!<04e0>Nossa pobre vila... esse vai ser o nosso fim...
+Wuu-Huu, não é incrível? O senhor Wyngale e seus<03e0>rapazes nos salvaram de um terrível desastre.<04e0>Minha nossa, nem sei como agradecê-lo!<03e0>Eu estava rezando para todos os deuses que<03e0>me passava pela cabeça!
+[[Mensagem do nível 6]](após levarem o Remanescente)
+Presumo que tenha visto os espinhos gigantes saindo<03e0>do precipício ali ao fundo. Aquele é o Brimuslabus.<04e0>Segundo a lenda, um monstro terrível habitava essa<03e0>região, mas o primeiro Imperador usou seus poderes<03e0>para aprisioná-lo ali dentro do Remanescente.<04e0>Claro, isso aconteceu há centenas de anos atrás...<03e0>E não sei dizer se essa lenda é verdadeira ou não.<03e0>Para ser sincero, nem sei se acredito nisso.
+O Brimuslabus se foi.<04e0>Agora sim, estou preocupado de verdade. Espero que<03e0>aquela história do monstro não passe de uma fábula<03e0>para fazer as crianças dormirem...
+[[Mensagem do nível 3]]
+Ah, escute isso. Não tem muito tempo que um sujeito<03e0>engomadinho passou aqui, e ele vinha de bem longe.<03e0>Se bem que qualquer lugar é distante daqui, claro.<04e0>Ele contou que aquelas grandes cidades mais uma vez se<03e0>meteram em guerras e parece que perderam todos seus<03e0>Remanescentes. Então ele veio aqui procurando outro.<04e0>Imagine só... O cara-de-pau queria levar embora nosso<03e0>precioso Brimuslabus.<04e0>Que ousadia desse povo da cidade, vir aqui para roubar<03e0>nosso Remanescente! Será que queriam deixar escapar<03e0>o monstro que foi aprisionado pelo Imperador?
+[[Mensagem do nível 5]]
+[[Mensagem do nível 6]]
+Veja só! Aquela história do monstro que havia sido<03e0>aprisionado pelo Imperador era mesmo verdadeira.<04e0>Maldição, até agora tínhamos conseguido afastar todos<03e0>aqueles que haviam tentado levar daqui o Brimuslabus.<03e0>Como é que isso pode ter acontecido?<04e0>Bem, não há muito que possamos fazer agora. Eu nasci<03e0>aqui, assim como o meu pai e o pai dele antes de mim.<03e0>Daqui niguém me tira, aconteça o que acontecer.
+Ei, você ficou sabendo?<03e0>Um monstro enorme e terrível apareceu por aqui<03e0>e aquele sovani, Wyngale, acabou dando cabo dele!<04e0>Durante todo esse tempo pensei que ele era maluco,<03e0>quem diria que acabaria se tornando nosso salvador?
+[[Mensagem do nível 6]](após levarem o Remanescente)
+Duas vezes ao ano passa por aqui uma caravana de<03e0>comerciantes. Eles vendem todo tipo de coisa, de<03e0>artigos a produtos exóticos procedentes do Leste.<04e0>Alguns deles disseram que existem cidades enormes<03e0>no oriente, algumas delas bem maiores que a nossa.<04e0>Sinceramente, acho que estavam tirando uma com<03e0>minha cara. Como pode existir um lugar assim tão<03e0>grande? Oras... será que tenho cara de idiota?
+[[Mensagem do nível 2]]
+Wuu-Huu, mas que baita surpresa!<04e0>Chegou aqui um sujeito vindo do Leste, que dizia ser<03e0>um emissário ou algo parecido... Parece que veio de<03e0>Elysion, que é a capital do continente.<04e0>Pelo visto as cidades lá fora andaram se metendo em<03e0>uma guerra e andaram perdendo um bocado dos seus<03e0>Remanescentes. Mas que vergonha, não é mesmo?<04e0>No final, parece que o mundo é mesmo bem maior do<03e0>que eu imaginava. Estou morrendo de vontade de sair<03e0>por aí para poder conhecê-lo eu também!
+[[Mensagem do nível 4]]
+Cuidado, garoto. Aqui não é lugar para passear!<03e0> <04e0>Você não ficou sabendo?<03e0>O monstro que foi aprisionado despertou!<04e0>Em breve toda essa cidade vai para o buraco, mas não<03e0>pretendo estar aqui quando isso acontecer. Ainda não<03e0>sei onde ir, mas qualquer lugar é melhor que esse.
+Ei, parceiro, é verdade o que estão dizendo por<03e0>aí? Que alguém deu cabo do monstro que queria<03e0>destruir a vila?<04e0>Ouvi dizer que aquele sovani maluco que vivia aqui<03e0>veio com um punhado de amigos e salvou o povoado.<03e0>Nada mal para um maluco das colinas, não é verdade?<04e0>Eu estava indo embora da cidade quando fiquei<03e0>sabendo, então voltei para ver se era mesmo verdade.
+Está vendo aquele cavaleiro sovani perto do penhasco?<03e0>O nome dele é Wyngale.<04e0>Mamãe disse que ele tem protegido Grentze durante<03e0>muito tempo. E que já fazia isso antes de eu nascer!
+[[Mensagem do nível 2]]
+O senhor Wyngale vem aqui todos os dias rezar para<03e0>o Brimuslabus.<04e0>Não sei como seus braços não ficam cansados, depois<03e0>de ficar tanto tempo nessa mesma posição...<04e0>Eu até queria me oferecer para ficar no seu lugar para<03e0>ele poder descansar, mas só tenho dois braços...
+[[Mensagem do nível 4]]
+Senhor, o que será de todos nós?<04e0>O Brimuslabus se foi, e a mamãe disse que um monstro<03e0>assustador foi libertado!<04e0>O senhor Wyngale vai fazer alguma coisa... não vai?
+Ei, senhor, você ficou sabendo? Aquele monstro<03e0>assustador já era. O senhor Wyngale acabou com ele!<03e0>Ele é incrível!<04e0>Quando crescer, quero ser igual a ele!
+Eu sou Wyngale.<04e0>Durante centenas de anos monto guarda nesse lugar,<03e0>vigiando o Brimuslabus. E o que há no seu interior.
+Qsiti estúpido.<03e0>O Brimuslabus não abençoou essa cidade.<04e0>Ou talvez sim... Talvez ele tenha mesmo feito isso, ao<03e0>impedi-lo de despertar. Sim, isso seria uma benção.<03e0> <04e0>Hmph...
+Hã? O que está fazendo aqui, senhora?<03e0>
+Senhora? COMO SE ATREVE? Nem sei quem você é, eu ao<03e0>menos te conheço???
+Ops... Acho que confundi você com outra pessoa.<03e0>É que vocês são muito parecidas...
+Hmph! Na próxima vez, então, tenha certeza de estar<03e0>falando com a pessoa certa antes de abrir a boca!
+E-eu... Sinto muito...
+Hmph... Dessa vez vou deixar passar. Mas que<03e0>isso não volte a se repetir, está me ouvindo?
+Chamar uma dama como eu de "senhora" é uma tremenda<03e0>falta de respeito. Não sou tão velha assim!
+Hm? Oras, é você de novo.
 Uh.
-You don't look happy to see me.
-Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
-Training.<03e0>In my family, it's a rite of passage to travel the world.
-Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
-...Ahh. Thank you.
-You're not as inconsiderate as I thought.
-You're looking well.
-Heya, Ms. Young Maiden.
-...Right. So, could you please not call me that?<03e0>It's rather bothersome, to be honest.
-Well, it's not like I know your name.
-Oh?
+Você não parece feliz de me ver.
+Eh, n-não, não é isso! É que... Enfim, senh...<03e0>er, jovem donzela, o que está fazendo aqui?<03e0>
+Estou em treinamento. Na minha família temos como<03e0>tradição viajar o mundo ao chegar na vida adulta.
+Huh... isso não deve ser nada fácil...<03e0>Então... Sabe... Tenha cuidado, tá?
+...Ahh. Obrigada.
+Parece que seus modos andaram melhorando....
+Você parece muito bem.
+Olá, senhorita... aham... jovem donzela...
+Será que pode fazer o favor de não me chamar assim?<03e0>É que soa um pouco ridículo, para falar a verdade.
+Bem... é que ainda não sei seu nome.
+Hã?
 ...
-The name's Emmy.
-Nice to meet you for real, finally. I'm<07f001e00be00ae0>
-Rush. Rush Sykes.<03e0>Right?
-Wha<07f0>? How did you know!?
-I have my ways.
-Take care, Rush.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-Ohh, Rush.<04e0>Finally, I'm free.<03e0>Finally, the time has come when I can kill that man!
-Who do I mean?<04e0>Who indeed? Could be anyone.<03e0>Could be someone you know very well...<03e0>Heheheheh...
+Pode me chamar de Emmy.
+Fico contente de conhecê-la, finalmente. Eu sou...<01e00be00ae0>
+Não precisa dizer.<03e0>Seu nome é Rush Sykes, não é?
+Co.... Como você sabia?
+Tenho meus recursos.
+Se cuide, Rush.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Ahh, Rush.<04e0>Finalmente estou livre.<03e0>Finalmente chegou a hora de acabar com aquele homem!
+De quem estou falando?<04e0>De quem poderia ser? Oras, poderia ser qualquer um.<03e0>Incluindo alguém que você conhece muito bem...<03e0>Heheheheh...
 Heheheheh...
-I was chained to the Brimuslabus hundreds of years<03e0>ago... Back when the Imperator still ruled the world.<04e0>You don't believe me?<03e0>Heheheh...<04e0>The bastard was...unpleasant, to say the least.<03e0>I infuriated him because of my awesome strength<03e0>and the fact that he couldn't break my spirit.<04e0>So when he ran out of use for me, he forced me<03e0>to bind the Brimuslabus and act as the Fallen's seal.<04e0>What a pitiful man he was.<03e0>Heh heh heh...
+Durante séculos fiquei aprisionado no Brimuslabus.<03e0>Desde o tempo em que o Imperador governava o mundo.<04e0>Você não acredita em mim, não é mesmo?<03e0>Heheheh...<04e0>O Imperador era um imbecil, para dizer o mínimo.<03e0>Ele tinha muita inveja da minha enorme força, e<03e0>sabia que nunca conseguiria controlar meu espírito.<04e0>Quando deixei de ser útil, ele me obrigou a me<03e0>vincular ao Brimuslabus, para vigiar o Condenado.<04e0>Que homem desprezível era ele.<03e0>Heh heh heh...
 Heh heh heh...
-Rush...<04e0>It's...it's beginning to come back to me...<03e0>The person I was then...<04e0>Working with the Imperator, fighting for the Imperator.<03e0>Fighting all the time...<03e0>Anger...destruction...chaos...death...<04e0>It was so much fun.<03e0>The best days I've ever spent...<04e0>And then...that man...<03e0>The Imperator himself tried to snatch it all away!<03e0>But now...now we see who's truly won...<04e0>Muh...muh...mwa-hahahahaha!!!
+Rush...<04e0>Estou... estou começando a me lembrar...<03e0>De como eu era naquele tempo...<04e0>Eu trabalhava para o primeiro Imperador e lutava por<03e0>ele. O tempo todo. Meus dias se encheram de fúria...<03e0>destruição... caos... morte...<04e0>Foi uma época maravilhosa...<03e0>Os melhores anos da minha vida.<04e0>E então... aquele homem...<03e0>O próprio Imperador, tirou tudo isso de mim!<03e0>Mas agora veremos quem vai rir por último...<04e0>Muh...muh...mwa-hahahahaha!!!
 Mwa-hahahahaha!!!
-Before he left me here, he told me something...<03e0>"We'll meet again if the fates allow."<04e0>Heh heh heh...<04e0>I can feel it...feel it strongly.<03e0>The feel of his soul, not fully claimed by death...<04e0>Wait for me, spirit wandering the space between<03e0>heaven and earth. Wait, because I'm going to find<03e0>you and destroy you.<04e0>There won't even be a sliver of soul left when I'm<03e0>done with you!<04e0>Finally, you'll regret what you've done!<03e0>Bwah-hahahahahahah!!!
-Rush! I feel amazing!<04e0>When you go to battle, make sure you tell me. Got it?<03e0>Don't you dare go without me!
-Rush...<03e0>This time at last, all my bonds have been released...<03e0>But... I just don't understand this feeling of emptiness...
-Heya, Rush.<04e0>Sorry I kinda tricked ya into helping Baaluk.<03e0>But I really appreciate the help, honest!
-Hey! You're not still mad at me, are you? I know I went<03e0>about things the wrong way so we kinda got off on the<03e0>wrong foot...<04e0>B-but, anyway, from now on I'm totally committed to<03e0>doing anything to help out Baaluk! So go on, gimme an<03e0>order! I'm all ears!<04e0>I'm all ready to go, so just say the word!
-I'm gonna help out as hard as I can!<03e0>Any time you wanna head out, just say the word!
-Huh? Ah<07f0>R-Rush...<04e0>H-hey, how's it going, did you need something?<04e0>Hm? Something wrong<07f0>with me?<03e0>N-no, of course not! Not a bit! Ahahahah...<04e0>A-anyway, it's not time to go already, is it? If we've<03e0>still got some time, maybe you could give me a moment<03e0>alone...
-H-hey, Rush. Is it time to go already?<03e0>If not, maybe you could leave me alone for a minute...
-Rush...<03e0>I think...I've been tricked.<04e0>Maybe all of us have. And I think it's all my fault...<04e0>Yanno, the one who told me that the Brimuslabus was<03e0>about to Collapse was that guy Wyngale.<04e0>He's always been calm and serious, always acting with<03e0>the town's best interests at heart. But ever since they<03e0>took the Brimuslabus, it's like he totally changed...<04e0>Or maybe he's just showing his true colors. Maybe he<03e0>never cared about Baaluk at all in the first place...<04e0>And what's more, you know those guys we gave the<03e0>Remnant to? I have this really, really bad feeling about<03e0>them...<04e0>Oh man, what if all this time I've been acting high and<03e0>mighty, thinking I was the town's hero, when really I've<03e0>just been playing right into the bad guys's hands?<04e0>Augh, we don't even have a Remnant anymore! What's<03e0>going to happen to Baaluk now? ...I don't know what I'll<03e0>do if something awful happens...
-What's going to happen to Baaluk now?<03e0>I don't know what I'll do if something awful happens...
-There are towns that don't have Remnants?<03e0>And you're from one of them!?<03e0>Wow!<04e0>Then maybe Baaluk will be okay too!<03e0>Just maybe...<04e0>Thanks, Rush!<03e0>Thanks for telling me and giving me hope!<04e0>I said some awful things about Wyngale...<03e0>I don't know why I doubted him. I need to have<03e0>more faith in people and what they can do...<04e0>But now's not the time to dwell on the past.<03e0>It's time to turn Baaluk into a town everyone<03e0>wants to live in!
-Okay, Rush, you've got me fired up!<04e0>I'm gonna work to make Baaluk a town everyone wants<03e0>to live in<07f0>even if it doesn't have a Remnant!
-There's some power coming from the remains<03e0>of the Brimuslabus...something strong... I can't<03e0>believe this happened. I only wanted to help Baaluk...<04e0>...<04e0>Yeah... Maybe...this really is my fault.<03e0>And if so, I've gotta do something to help!<04e0>Rush<07f0>I've gotta bring back the Brimuslabus.<03e0>I mean, if everything's back to how it was before,<03e0>that's gotta make everything okay, right?<04e0>I know that you don't really have time to look into<03e0>what the Academy is doing, but what you are doing<03e0>doesn't seem that far off to me...<04e0>So...please, continue to let me fight with you.<03e0>Even if it's roundabout...I've gotta do something!
-Rush!<03e0>Have you heard anything from the Academy?
-What? Do you need something?
-Something wrong?
-Have you seen Lord David?<04e0>I do not feel comfortable letting him alone.<03e0>If you see him, please tell him I am looking for him.
-Troublemaker...
+Antes de me deixar aqui, ele me disse uma coisa...<03e0>"Voltaremos a nos ver se o destino assim permitir."<04e0>Heh heh heh...<04e0>Consigo sentir sua presença... como se estivesse bem<03e0>aqui. Sua alma ainda recorre a esse mundo...<04e0>Espere por mim, espírito aprisionado entre o céu e<03e0>a terra. Espere por mim, porque vou encontrá-lo e<03e0>destrui-lo...<04e0>Não vai sobrar nem um pedaço da sua alma depois<03e0>eu tiver acabado com você!<04e0>Você vai pagar pelos seus crimes, maldito traidor!<03e0>Bwah-hahahahahahah!!!
+Rush! Estou me sentindo ótimo!<04e0>Da próxima vez que partir para o combate, me avise.<03e0>Está ouvindo? Não se atreva a me deixar para trás!
+Rush... Finalmente consegui me libertar de todas as<03e0>minhas amarras... Mas... Agora sinto vazio que<03e0>não consigo explicar...
+Olá, Rush.<04e0>Sinto muito por ter te enganado para que me ajudasse<03e0>a salvar Baaluk. Mas sou grato pelo que fez, de verdade!
+Ei! Você não vai continuar com raiva de mim, vai?<03e0>Sei que não fui de tudo sincero, e que não começamos<03e0>com o pé direito...<04e0>Mas enfim, daqui pra frente estou disposto a fazer<03e0>o que for preciso pelo bem de Baaluk! Então vamos<03e0>lá, me diga o que devo fazer! Sou todo ouvidos!<04e0>Estou pronto para partirmos, você só precisa avisar!
+Estou disposto a fazer o que for para ajudar!<03e0>Quando quiser partir, é só avisar!
+Hã? Ah... R-Rush...<04e0>Aham... Como vão as coisas? Precisa de algo?<04e0>Hm? Se tem algo de errado comigo?<03e0>N-não, claro que não! Nem um pouco! Ahahahah...<04e0>E-enfim, ainda não está na hora de partirmos, está?<03e0>Se ainda tivermos um tempo, talvez você pudesse me<03e0>deixar um pouco a sós...
+E-ei, Rush. Já está na hora de partirmos?<03e0>Senão, ficaria grato se me deixar um pouco a sós...
+Rush...<03e0>Acho... acho que fui enganado.<04e0>Acho que todos nós fomos. E isso é minha culpa...<04e0>Sabe, foi Wyngale que me disse que o Brimuslabus<03e0>causaria um cataclismo de uma hora para outra.<04e0>Sempre achei que ele fosse alguém calmo e reservado,<03e0>que agia pensando no melhor para a cidade. Mas desde<03e0>que levaram o Brimuslabus, ele parece outra pessoa.<04e0>Talvez agora esteja mostrando sua verdadeira face...<03e0>E nunca tenha se preocupado de verdade com Baaluk...<04e0>Tem mais, sabe aquelas pessoas para quem entregamos<03e0>o Remanescente? Não sei porque, mas tenho um mau<03e0>pressentimento sobre elas...<04e0>Ah droga, e se todo esse tempo em que pensei estar<03e0>ajudando, me achando o herói da cidade, estava<03e0>na verdade sendo manipulado por aquelas pessoas?<04e0>Já não temos mais um Remanescente que nos proteja...<03e0>O que vai ser de Baaluk agora? ... Nunca irei me<03e0>perdoar se algo de terrível acontecer à cidade...
+O que vai ser de Baaluk agora? ... Nunca irei me<03e0>perdoar se algo de terrível acontecer à cidade...
+O quê? Existem cidades que não tem Remanescentes?<03e0>E você está dizendo que veio de uma delas!?<03e0>Uau!<04e0>Então, pode ser que Baaluk também siga em frente!<03e0>Pode ser então que...<04e0>Rush, estou muito grato por você me contar isso...<03e0>Suas palavras me devolveram a esperança!<04e0>E pensar que cheguei a duvidar de Wyngale... Não sei<03e0>porque isso passou pela minha cabeça. Eu deveria<03e0>começar a ter mais fé nas pessoas ao meu redor...<04e0>Mas agora não é hora de lamentar o passado.<03e0>Preciso transformar Baaluk em uma cidade onde todos<03e0>possam viver felizes!
+Muito bem, Rush, você me convenceu!<04e0>Farei o possível para transformar Baaluk em um lugar<03e0>onde todos vivam felizes. Mesmo sem Remanescentes!
+O lugar onde antes se encontrava o Brimuslabus está<03e0>emitindo uma estranha energia. Noto um tremendo<03e0>poder. Não consigo acreditar no que aconteceu...<04e0>Só queria ajudar Baaluk...<04e0>Sim... Talvez isso tudo seja minha culpa...<03e0>E se for mesmo, preciso encontrar alguma solução!<04e0>Rush, preciso trazer de volta o Brimuslabus.<03e0>Suponho que, se tudo voltar a ser como antes, então<03e0>talvez as coisas voltem à normalidade, não é mesmo?<04e0>Sei que você não tem tempo para ver o que essas<03e0>pessoas da Academia estão tramando, mas talvez possa<03e0>descobrir isso durante sua jornada...<04e0>Por favor, deixe-me continuar lutando ao seu lado.<03e0>Ainda que não sirva de nada... Preciso fazer algo!
+Rush!<03e0>Você tem alguma notícia da Academia?
+Sim? Você precisa de alguma coisa?
+Está acontecendo alguma coisa?
+Você viu Lorde David?<04e0>Não gosto que ande sozinho por aí... Se você<03e0>o encontrar, diga que estou procurando por ele.
+Encrenqueiro...
 ...
-On the surface, it does not seem like this place has<03e0>changed very much...<04e0>That said, it is no place to let Lord David run about<03e0>unsupervised. If you see him, tell him I am looking<03e0>for him.
-You haven't seen Lord David?
-If it was only going to be stolen anyway,<03e0>we should have taken the Remnant ourselves...<04e0>...No, Lord David would never have stood for it.
-Please forget I said anything.
-And we must assume the Conqueror is even<03e0>more powerful than that monster...
+À primeira vista, não parece que esse lugar<03e0>tenha mudado tanto assim...<04e0>Mas não é uma boa ideia deixar que Lorde David ande<03e0>sozinho por aí. Se você o encontrar, diga que estou<03e0>procurando por ele.
+Você não viu Lorde David?
+Já que era para alguém roubar o Remanescente,<03e0>deveríamos ter feito isso nós mesmos...<04e0>... Não, Lorde David jamais permitiria isso.
+Por favor, esqueça que disse isso.
+E devemos supor que o Conquistador é ainda mais<03e0>poderoso que esse monstro...
 ...
-The Remnant Ark...<03e0>Surely there must be a similar Remnant elsewhere<03e0>in the world...
-I can think of nothing...
-Lord David is as prepared as he can be.<04e0>All I have to do is to follow.
-Ahh...what a spectacular Remnant.<03e0>It just has a certain mystique, doesn't it?<03e0>I feel as if I'd never tire of looking at it...<04e0>However...it does look a bit like a pincushion,<03e0>doesn't it...
-Incredible...
+O Arca...<03e0>Deve haver algum outro Remanescente parecido com<03e0>ele em algum lugar do mundo...
+Só não consigo imaginar onde...
+Lorde David está tão preparado quanto poderia estar.<04e0>Tudo que devo fazer é segui-lo.
+Ahh... que Remanescente extraordinário.<03e0>Ele possui um certo encanto, não é verdade?<03e0>Acho que nunca me cansaria de olhar para ele...<04e0>Mas observando melhor... ele se parece um pouco com<03e0>um alfineteiro, não é mesmo?
+Incrível...
 ...
-After learning of Remnants disappearing the world<03e0>over, I'd become a bit wary, but look. This place is the<03e0>same as always...it's a small but appreciated blessing.
-Yes, yes.
-Then, it's just like Athlum...<04e0>The whole mood of the town is different.
-What in the world is going on?
-I lived through it yet can hardly believe it...<04e0>To think that such a fiend existed in this world...!
+Fiquei um pouco preocupado depois que Remanescentes<03e0>começaram a desaparecer por todo lado. Mas veja só<03e0>esse lugar... Ele ainda permanece o mesmo de antes.
+Sim, sim...
+Então, é como está acontecendo em Athlum...<04e0>O ambiente da cidade mudou por completo.
+Mas o que diabos está acontecendo?
+Mesmo vendo com meus olhos, não consigo acreditar...<04e0>Nunca imaginei que existisse um monstro assim...!
 ...
-It must exist, somewhere...
-Let's continue to search.
-Let's finish this...learn the true ending of this tale.
-Come and check out the weapons they have!<03e0>Ahh, from blunt to sharp, fancy decorative stuff<03e0>to everyday weapons, I love 'em all!
+Tem que existir, em algum lugar...
+Vamos continuar procurando.
+Vamos lá, temos de saber como termina essa história.
+Dê uma olhada nas armas que temos aqui!<03e0>Armas de lâmina afiada, contundentes, decorativas,<03e0>de uso cotidiano... Armas são minha especialidade!
 Heheheheh...
 Lady Emma...
-Heya, Rush! Check it out<07f0>the Remnant's still alive<03e0>and kicking! So we can't get all down either, right?
-We can't lose hope now!
-Even the weapons seem kinda pooped out...<03e0>Guess it's 'coz the Remnant's gone...
-Geez, even the weapons seem pooped out...
-The heck was that all about?<04e0>Geez, at least we won.<03e0>Don't gotta worry about that thing anymore!
-Don't gotta worry about that thing anymore!
-If I have to think about this Remnant stuff any more,<03e0>my head's gonna explode! You just tell me where<03e0>to go when you've figured it out, okay?
-I'm ready to rock whenever!
-Let's go, Rush!<04e0>Don't worry<07f0>I'll knock down anybody in our way!
-What am I doing?<04e0>Just as it looks, taking a walk. As the Marquis, I can't<03e0>just roam the streets alone in Athlum or Celapaleis...<04e0>I'm certain Torgal is having conniptions, but let's keep<03e0>this between us, shall we?
-Remember<07f0>this is our secret.
-This town's Remnant still stands.
+Veja, Rush! O Remanescente continua como antes!<03e0>Então não precisamos ficar preocupados, certo?
+Não podemos perder a esperança agora!
+Até as armas parecem ter perdido o seu brilho...<03e0>Acho que é porque o Remanescente se foi...
+Até as armas parecem ter perdido o seu brilho...
+Mas que diabos foi aquilo?<04e0>Enfim, pelo menos conseguimos vencer. Já não<03e0>temos mais que nos preocupar com aquela coisa!
+Não temos mais que nos preocupar com aquela coisa!
+Aaagh! Se eu continuar pensando nessa coisa de<03e0>Remanescente, minha cabeça vai explodir! Só me<03e0>avise quando tivermos de ir, certo?
+Estou pronto para mandar ver!
+Vamos lá, Rush... Não se preocupe!<04e0>Coitado daquele que se meter no nosso caminho!
+O que estou fazendo?<04e0>Exatamente o que parece, dando uma volta. Por ser<03e0>marquês não posso passear em Athlum ou Celapaleis.<04e0>Tenho certeza que Torgal está tendo um ataque de<03e0>nervos, mas não diga nada a ele... Combinado?
+Esse será o nosso segredo, tudo bem?
+O Remanescente dessa cidade ainda continua de pé.
 ...
-Here as well...<04e0>It is not only Athlum that's lost its Remnant...
+Aqui também...<04e0>Não foi só Athlum que perdeu seu Remanescente...
 ...
-To think, something like that was sealed by the<03e0>Brimuslabus...<04e0>We're lucky nothing like that was sealed beneath<03e0>the Valeria Heart...
+E pensar que o Brimuslabus mantinha aprisionado uma<03e0>coisa dessas...<04e0>Temos sorte de não haver algo assim aprisionado<03e0>embaixo do Coração Valente...
 ...
-What am I rushing around for?<03e0>To be honest, I was mainly trying not to be recognized...
-I hope we're not too late...
-Let's go, Rush!<04e0>And we'll return together<07f0>victorious!
-The town may look the same as always,<03e0>but that's only at first glance.<04e0>There's plenty of rumbling beneath the surface...<03e0>This is no time to start slacking.
-This place is rotten...
-They've lost their Remnant as well...<03e0>I suppose it could be just coincidence...<04e0>Certainly seems like a plot, though...
-I can't believe someone isn't behind all this...
-Good god... A Remnant powerful enough to seal a<03e0>beast like that<07f0>what kind of being was able to handle<03e0>that sort of power?
+Por que estou com tanta pressa?<03e0>Para ser sincero, não esperava ser reconhecido...
+Espero que não tenhamos chegado tarde demais...
+Vamos lá, Rush!<04e0>Vamos voltar juntos, e vitoriosos!
+Parece que nada mudou nessa cidade,<03e0>mas as aparências enganam.<04e0>Há muito barulho por baixo da superfície...<03e0>Vamos em frente, Rush. Não temos tempo a perder.
+Esse lugar é muito perigoso...
+Eles também perderam seu Remanescente...<03e0>Talvez se trate de uma mera coincidência...<04e0>Mas isso já está parecendo uma conspiração...
+Deve haver alguém por trás de tudo isso...
+Minha nossa... Quem é que teria poder suficiente<03e0>para controlar um Remanescente capaz de aprisionar<03e0>um monstro desses?
 ...
-Hey now, quit playing around and help us search, will<03e0>you? There's got to be another way to get to the<03e0>Sacred Lands, but we won't find it if you don't look.
-Don't worry<07f0>we'll find it.
-I'll look after Lord David since she cannot...<03e0>So you'd better do the same for Irina.
+Pare de brincar e nos ajude a procurar, pode ser?<03e0>Deve haver outra maneira de chegarmos nas Terras<03e0>Sagradas, mas nunca descobriremos se não ajudar.
+Não se preocupe... nós vamos encontrar.
+Agora que minha mãe não pode proteger Lorde David,<03e0>eu o protegerei. Espero que faça o mesmo por Irina.
 

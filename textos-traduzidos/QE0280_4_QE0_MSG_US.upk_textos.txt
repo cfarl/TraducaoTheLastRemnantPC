@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0280_4_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I have a message from Duke Ghor.<04e0>The Duke would like to speak with you regarding<03e0>Leithion's Sword.
-The Duke requests your presence.<03e0>Make haste to the <1be0ffbe34ff>Ghor Castle<1ce0>.
+Trago uma mensagem do Duque de Ghor.<04e0>O Duque gostaria de conversar com você<03e0>a respeito da Espada de Leithion.
+O Duque quer conversar com você.<03e0>Dirija-se imediatamente ao <1be0ffbe34ff>Castelo de Ghor<1ce0>.
 

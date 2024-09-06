@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1150_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Ugh, can you believe this place is so run-down?<03e0>I mean, seriously, would it kill that old fish guy<03e0>to fix this place up?
-Like, I would completely rebuild this place... Paint the<03e0>walls bright pink<07f0>totally in this year<07f0>and everyone'd<03e0>be required to wear roses!<04e0>That would give such a touch of class, don't you think?
-Anyways. I was thinking I should go someplace with,<03e0>like, history and junk? So I'm selling this one-of-a-kind<03e0>Khrynia charm, and, like, you should buy it.<06e01900>sEVENT_PRICE_QE1150_P_000<08e0000000000000>Cute! I'll take it.<09e008e0010000000300>Why don't you get a job?
-Awesome! 'Cause really, you need all the charm<03e0>you can get.<03e0>Oooh! Ice burn!
-Smell ya later, Ghor! I'm outtie!
-Wha-at...?
-Do you ever look in the dictionary and find a picture of<03e0>yourself under the caption "loser"?
-Dude. Can you, like, stop being poor?<03e0>Because it's seriously cramping my style.
+Urgh, você não acha esse lugar muito deprimente?<03e0>Falando sério, esse peixe gordo do duque de Ghor<03e0>não poderia reformá-lo um pouco?
+Tipo, eu poderia redecorar completamente esse lugar...<03e0>Poderia pintar as paredes de rosa, que está na moda, e<03e0>obrigar todo mundo a usar uma rosa na lapela!<04e0>Isso daria um toque de classe aqui, você não acha?
+Enfim... Estava pensando em visitar um lugar com um<03e0>pouco mais de história, por isso estou vendendo esse<03e0>exclusivo talismã da sorte Khrynia. Não é lindo?<06e01900>sEVENT_PRICE_QE1150_P_000<08e0000000000000>Muito! Vou ficar com ele.<09e008e0010000000300>Que tal arrumar um emprego?
+Fantástico! Você não vai se arrepender... Porque de<03e0>verdade, você precisa de todos talismãs do mundo<03e0>para evitar que lhe passem a perna. He, he, he...
+Até nunca mais, Ghor! Vou nessa!
+O q-quê...?
+Sabia que seu retrato aparece na enciclopédia?<03e0>Ele está bem ao lado da palavra "fracassado".
+Será que pode, tipo, fazer um esforço para deixar de<03e0>ser tão pobre? Preciso manter meu estilo de vida.
 

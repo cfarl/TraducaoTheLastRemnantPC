@@ -1,18 +1,18 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0190_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Isn't there anyone you want<03e0>to meet, Rush?
-Maybe someone wild and crazy, like my sister?<06e0000008e0000000000000>Not really my type.<09e008e0010000000000>Hook me up!
-Or someone petite and cute?<06e0000008e0000000000000>Not really my type.<09e008e0010000000000>Hook me up!
-Or someone energetic and cheerful?<06e0000008e0000000000000>Not really my type.<09e008e0010000000000>Hook me up!
-Or someone dark and mysterious?<06e0000008e0000000000000>Not really my type.<09e008e0010000000000>Hook me up!
-Interesting...
-This mirror... Is this a Remnant?<03e0>And where's the statue? I thought<03e0>it was supposed to be in here!<04e0>I need to find my sister!<03e0>Where is she!?
-A Collapse!?<04e0>Oh no!
-Kate!?<04e0>Is that you? Is that really you!?
-I never stopped believing that<03e0>this day would come!<03e0>I knew I would see you again!
-Me too, Rhagoh.<04e0>I know how much time you spent looking for me.<03e0>I know how alone you felt without me.<04e0>I know.<03e0>I know everything about you.
-Kate, I...
-Stop. Let the past stay in the past.<03e0>Let's just concentrate on the future.
-So, I guess you know everything...
+Não há nenhuma garota que você queira conhecer, Rush?<03e0>
+Talvez uma garota louca e selvagem, como minha irmã?<06e0000008e0000000000000>Não faz o meu tipo.<09e008e0010000000000>Seria muito bom!
+Quem sabe uma garota pequena e delicada?<06e0000008e0000000000000>Não faz o meu tipo.<09e008e0010000000000>Seria muito bom!
+Ou ainda uma garota alegre e divertida?<06e0000008e0000000000000>Não faz o meu tipo.<09e008e0010000000000>Seria muito bom!
+Uma garota misteriosa e sedutora?<06e0000008e0000000000000>Não faz o meu tipo.<09e008e0010000000000>Seria muito bom!
+Interessante...
+Esse espelho... é um Remanescente?<03e0>E onde está a estátua? Ela deveria estar aqui!<03e0> <04e0>Preciso encontrar minha irmã! Onde ela está?<03e0>
+Um Cataclismo?<04e0>Ah não!
+Kate?<04e0>É você? É mesmo você???
+Nunca perdi a esperança!<03e0>Sempre soube que esse dia iria chegar!<03e0>Eu sabia que voltaria a vê-la outra vez!
+Eu também, Rhagoh.<04e0>Sei que passou muito tempo me procurando.<03e0>Sei como se sente sozinho sem minha companhia.<04e0>Sei tudo sobre você.<03e0>
+Kate, eu...
+Não diga nada. Deixe o passado no passado.<03e0>Vamos nos concentrar no futuro.
+Então, acho que você sabe de tudo...
 

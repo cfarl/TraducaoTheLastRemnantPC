@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0380_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The tablet of Marshall is reacting<03e0>to the Schiavona.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! It looks so cool!
+A tabuleta de Marshall está reagindo ao Schiavona.<03e0>Quer usar a tabuleta?<03e0> <06e0000008e0000000000000>Claro!<09e008e0010000000300>Não! Gosto da paisagem!
 

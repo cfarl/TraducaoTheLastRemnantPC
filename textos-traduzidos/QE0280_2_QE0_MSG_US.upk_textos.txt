@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0280_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The exact location of Leithion's Sword is unknown to<03e0>even my spies.
-However, we have learned that it is acquiring power in<03e0>the depths of the mine.
-The path to the deepest mineshaft is through that door.<03e0>Keep your eyes open and your sword close.
+Nem mesmo meus informantes conhecem<03e0>a localização exata da Espada de Leithion.
+No entanto, sabemos que seu poder aumenta a cada<03e0>dia que passa, nas profundezas dessa mina.
+O caminho para a galeria mais profunda é por essa<03e0>porta. Mantenha os olhos abertos e a espada na mão!
 

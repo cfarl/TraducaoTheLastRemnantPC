@@ -1,78 +1,78 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) VAL_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Ho there, traveler! This is the "front gate" of Balterossa,<03e0>the Merchant's Lot.<04e0>Traveling merchants stop here to take a break during<03e0>their long journeys or talk shop with other merchants.<03e0>You should take a load off, too!
-[[2nd level message]]
-[[3rd level message]]
-Ho there, traveler! This is the "front gate" of<03e0>Balterossa, the Merchant Lot.<04e0>Lately things've been a bit more muted... Lady<03e0>Bertrude has been suffering from some strange<03e0>illness, and that's all anyone can talk about.
-[[5th level message]]
-[[6th level message]]
-Looks like the Merchant Lot's gone through a<03e0>fire sale...<04e0>Everything went downhill quick since the<03e0>Conqueror's army marched in here<07f0>and<03e0>marched out with our Remnant, the Tao Tie.
-[[5th level message]](after the Remnant is stolen)
-[[6th level message]](after the Remnant is stolen)
-Lady Bertrude, Duchess of Balterossa, once was<03e0>married, but the Duke was killed in an accident<03e0>in the desert, long ago.<04e0>Since then Lady Bertrude has run Balterossa by<03e0>herself.<04e0>Her affection for her daughter, the Lady<03e0>Charlotte, is unmatched... Perhaps as she is<03e0>the only piece of the late Duke left.
-[[2nd level message]]
-[[3rd level message]]
-Lady Bertrude has fallen deathly ill. The town's<03e0>merchants have traveled far and wide, bringing<03e0>back different medicines to try and cure her.<04e0>But it has been to no avail. Her condition has<03e0>steadily worsened...<04e0>What strange affliction could have struck Lady<03e0>Bertrude down?
-[[5th level message]]
-[[6th level message]]
-A half-year previous, we were suddenly attacked<03e0>by a massive army of beasts.<04e0>The army and the Silver Falcons both scrambled<03e0>to Balterossa's defense.<04e0>But amidst the confusion, the Conqueror<03e0>appeared, and used some mysterious stone to<03e0>steal away the Tao Tie.<04e0>Surrounded by the Conqueror's army, there was<03e0>naught we could do but watch...
-[[5th level message]](after the Remnant is stolen)
-[[6th level message]](after the Remnant is stolen)
-The Tao Tie is sooo powerful!<04e0>It can stick its tail in sooo deep, an' drink water<03e0>from, like, super-deep underground!<04e0>When I grow up, I'm gonna be the Tao Tie!
-[[2nd level message]]
-So, I was listening to Daddy talk to some<03e0>rich-looking guy...<04e0>He said that Ms. Lady Bertrude was real sick,<03e0>an' it was all the Tao Tie's fault!<04e0>That guy's gotta be fibbing! The Tao Tie's<03e0>always took good care of us, so it wouldn't<03e0>do anything bad like that!
-[[4th level message]]
-A bunch of scary guys in black hoods came<03e0>here... It was real scary and Mama made me<03e0>stay inside, but I snuck to the window to look...<04e0>There was one guy wearing red, you know? An'<03e0>he touched the Tao Tie, an' it...an' it<03e0>disappeared... It...it's gone... *sniffle*<04e0>Wh-what? I didn't cry or nothing, stupidhead!
-[[4th level message]](after the Remnant is stolen)
-Hey...hey. Have you seen the Duchess's<03e0>daughter, Lady Charlotte?<04e0>She's the most beautiful girl in all Balterossa...<03e0>Whenever I see her, I just want to<07f003e0>Urhurr hurr hurr...<04e0>...But, I-I've heard she has a<07f0>a lover...<04e0>What kind of guy is she interested in? And why<03e0>isn't it me?
-[[2nd level message]]
-Ever since the Duchess got sick, the beautiful<03e0>and selfless Lady Charlotte's been at her side<03e0>every waking moment, taking care of her.<04e0>So lucky! I wish she'd give me some bedside<03e0>care...hurr hurr...<04e0>A-anyway, she's always been dainty<07f0>so<03e0>delicately built, like she could fit in your<03e0>pocket! But lately she's been losing weight...<04e0>At this rate, Lady Charlotte will fall sick as<03e0>well<07f0>and without me there to catch her! I-I<03e0>have to do something!!!<04e0>...Is what I was thinking, but for some reason,<03e0>they won't let me into the castle. *sigh*
-[[4th level message]]
-Those jerks in the Conqueror's army came and<03e0>stole the Tao Tie.<04e0>Ever since, the Duchess, and more importantly,<03e0>Lady Charlotte have been too pained to leave<03e0>the castle at all.<04e0>If only I were there with you, my darling,<03e0>I promise I would erase your fears with my<03e0>healing<07f004e0>A-anyway! So that I can once again enjoy the<03e0>sight of the lovely Lady Charlotte, I'm gonna<03e0>find a new Remnant for Balterossa!<04e0>...Is what I was thinking, but I kinda don't<03e0>have any idea where to start looking... *sigh*
-[[4th level message]](after the Remnant is stolen)
-Huh?<03e0>What're you doing here, old lady?
-"Old lady"!?<03e0>Excuse you! Who the hell do you think you are?
-Huh? ...I guess I mistook you for someone else.<03e0>Totally look the same, though...
-You're awfully rude to people you've just met.
-S-sorry!
-Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
-Calling someone "old lady" is quite inconsiderate...<03e0>especially when they aren't old!
-Hm? You again.
+Saudações, forasteiro! Você está na porta de entrada<03e0> de Balterossa, o Refúgio do Comerciante.<04e0>Os mercadores param aqui para descansar de suas longas<03e0>viagens e também para conversar de negócios com outros<03e0>colegas. Você deveria fazer isso também!
+[[Mensagem do nível 2]]
+[[Mensagem do nível 3]]
+Saudações, forasteiro! Você está na porta de entrada<03e0> de Balterossa, o Refúgio do Comerciante.<04e0>Ultimamente as coisas andam menos agitadas por aqui.<03e0>Lady Bertrude está sofrendo com uma estranha doença,<03e0>e todo mundo só fala sobre esse assunto.
+[[Mensagem do nível 5]]
+[[Mensagem do nível 6]]
+O Refúgio do Comerciante está enfrentando uma crise.<03e0> <04e0>Tudo começou a ir ladeira abaixo quando o exército do<03e0>Conquistador passou aqui e levou embora o Tao Tie.<03e0>
+[[Mensagem do nível 5]](após levarem o Remanescente)
+[[Mensagem do nível 6]](após levarem o Remanescente)
+Lady Bertrude, Duquesa de Balterossa, já foi casada<03e0>uma vez. Mas o Duque morreu depois de sofrer um<03e0>acidente no deserto, há muito tempo atrás.<04e0>Desde então Lady Bertrude tem governado Balterossa<03e0>sozinha.<04e0>O amor que ela sente pela sua filha, Lady Charlotte,<03e0>não tem igual... Talvez porque ela seja a única coisa<03e0>que restou do Duque.
+[[Mensagem do nível 2]]
+[[Mensagem do nível 3]]
+Lady Bertrude está terrivelmente doente. Os mercadores<03e0>da cidade viajaram o mundo todo em busca de uma cura.<03e0> <04e0>Mas todo esse esforço tem sido em vão, porque o seu<03e0>estado continua piorando...<04e0>Que estranha enfermidade atingiu Lady Bertrude?<03e0>
+[[Mensagem do nível 5]]
+[[Mensagem do nível 6]]
+Cerca de meio ano atrás, um enorme grupo de monstros<03e0>nos atacou de surpresa.<04e0>O exército e os Falcões Prateados se uniram<03e0>na defesa de Balterossa.<04e0>Mas no meio de tanta confusão o Conquistador<03e0>apareceu, e levou embora o Tao Tie usando uma<03e0>tabuleta misteriosa.<04e0>Estávamos cercados pelo seu exército, e por isso não<03e0>havia nada que pudéssemos fazer para impedi-lo...
+[[Mensagem do nível 5]](após levarem o Remanescente)
+[[Mensagem do nível 6]](após levarem o Remanescente)
+O Tao Tie é o Remanescente mais forte do mundo!<04e0>Ele pode fincar sua cauda bem fundo no chão, e tirar<03e0>água de muito, muito abaixo do solo!<04e0>Quando eu crescer, quero ser como o Tao Tie!
+[[Mensagem do nível 2]]
+Então, alguns dias atrás estava ouvindo papai falar<03e0>com um homem que parecia ser bastante rico...<04e0>Ele disse que Lady Bertrude estava muito doente,<03e0>e que estava assim por causa do Tao Tie!<04e0>Aquele homem devia estar mentindo! O Tao Tie sempre<03e0>cuidou de nós, ele não faria nada de ruim com a gente!<03e0>
+[[Mensagem do nível 4]]
+Alguns homens usando capuzes negros vieram aqui...<03e0>Eles eram assustadores, e mamãe me mandou entrar<03e0>em casa. Mas eu fiquei espiando pela janela...<04e0>Um deles estava usando uma roupa vermelha, sabe?<03e0>E... e ele tocou no Tao Tie, e ele... ele<03e0>desapareceu... Ele... ele sumiu... *snif*<04e0>O qu-quê? É claro que não chorei, seu bobão!
+[[Mensagem do nível 4]](após levarem o Remanescente)
+Ei... Você já viu Lady Charlotte, a filha da Duquesa?<03e0> <04e0>É a garota mais bonita de toda Balterossa... Toda vez<03e0>que vejo ela, não consigo deixar de... He, he, he, he...<03e0>Acho que você me entendeu.<04e0>Mas ouvi dizer que ela já tem um namorado...<04e0>Quem será que conseguiu arrebatar o seu coração?<03e0>E por que ele, e não eu?
+[[Mensagem do nível 2]]
+Dizem que, desde que a Duquesa ficou doente, a doce e<03e0>generosa Lady Charlotte não saiu do seu lado.<03e0> <04e0>Que sorte tem algumas pessoas! Eu queria tanto que<03e0>ela também pudesse cuidar de mim...<04e0>Sabe, ela sempre foi tão pequena e delicada, parecia<03e0>até que poderia caber no seu bolso! Mas ultimamente<03e0>ela andou perdendo um pouco de peso...<04e0>Se continuar assim, Lady Charlotte também vai ficar<03e0>doente... E eu não vou estar aqui para poder ajudar.<03e0>Isso sim, seria uma grande tragédia!<04e0>Eu daria tudo para poder estar ao seu lado, mas acho<03e0>que não me deixariam entrar no castelo... *suspiro*
+[[Mensagem do nível 4]]
+Esses idiotas do exército do Conquistador vieram<03e0>aqui e levaram embora o Tao Tie.<04e0>Desde então a Duquesa não sai mais do castelo,<03e0>sentindo-se culpada pelo que aconteceu... E o que<03e0>é pior, Lady Charlotte também faz o mesmo.<04e0>Ah, meu amor... Se pelo menos eu estivesse ao seu<03e0>lado, acabaria com suas preocupações e aliviaria sua<03e0>dor com meu...<04e0>Espera aí! Já sei! Vou atrás de um novo Remanescente<03e0>para Balterossa, e assim poderei uma vez mais<03e0>desfrutar da visão da adorável Lady Charlotte!<04e0>...Mas pensando bem, não faço a menor<03e0>ideia de onde começar a procurar... *suspiro*
+[[Mensagem do nível 4]](após levarem o Remanescente)
+Hã? O que está fazendo aqui, senhora?<03e0>
+Senhora? COMO SE ATREVE? Nem sei quem você é, eu ao<03e0>menos te conheço???
+Ops... Acho que confundi você com outra pessoa.<03e0>É que vocês são muito parecidas...
+Você não deveria falar assim com quem não conhece.
+S-sinto muito!
+Hmph... Dessa vez vou deixar passar. Mas que<03e0>isso não volte a se repetir, está me ouvindo?
+Chamar uma dama como eu de "senhora" é uma tremenda<03e0>falta de respeito. Afinal, não sou tão velha assim!
+Hm? Oras, é você de novo.
 Uh.
-You don't look happy to see me.
-Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
-Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
-Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
-...Ahh. Thank you.
-You're not as inconsiderate as I thought.
-You're looking well.
-Heya, Ms. Young Maiden.
-...Right. So, could you not call me that?<03e0>It sounds ridiculous, to say the least.
-Well, it's not like I know your name.
-Oh?
+Você não parece feliz de me ver.
+Eh, n-não, não é isso! É que... Enfim, senh...<03e0>er, jovem donzela, o que está fazendo aqui?<03e0>
+Estou em treinamento. Na minha família temos como<03e0>tradição viajar o mundo ao chegar na vida adulta.<03e0>
+Huh... isso não deve ser nada fácil...<03e0>Então... Sabe... Tenha cuidado, tá?
+...Ahh. Obrigada.
+Parece que seus modos andaram melhorando....
+Você parece muito bem.
+Olá, senhorita... aham... jovem donzela...
+Será que pode fazer o favor de não me chamar assim?<03e0>É que soa um pouco ridículo, para falar a verdade.
+Bem... é que ainda não sei seu nome.
+Hã?
 ...
-The name's Emmy.
-Nice to meet you for real, finally.<03e0>I'm<07f001e00be00ae0>
-Rush Sykes, call you Rush, right?
-Wha!? C-can you see into my brain!?
-Perhaps! Of course, it wouldn't be very difficult...
-Take care, Rush.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-Glory to the Falcons!<03e0>Hello, Rush.<03e0>What? Is it that rare for a sovani to speak to you?
-What are the Silver Falcons?<04e0>...Perhaps the most apt description is that we're a<03e0>group of knights who fight for what we believe.<04e0>It doesn't matter if you don't fully understand.<04e0>There are many others in the organization, but<03e0>not here... Operatives carry out their own missions<03e0>across the continent.<04e0>As commander, I give directions to local operatives<03e0>and they take care of the rest.<04e0>Granted, there are certain inconveniences in<03e0>coordinating large-scale operations.<04e0>However, when necessary, everyone will assemble.<03e0>You've no need to worry.<04e0>Oh, yes.<03e0>If the Falcons are called to act, would you be<03e0>willing to lend us your help?<04e0>Certainly, if it was an action against your beliefs, you<03e0>could refuse, no questions asked. Think about it.
-If the Falcons are called to act, would you be<03e0>willing to lend us your help?<03e0>Think about it.
-How did the Silver Falcons come to be?<03e0>Mmm... A mitra was the founder...<04e0>This all happened decades ago...<03e0>At the time, I had gone to the mountains above<03e0>the town to view the Tao Tie.<04e0>As you know, sovani are very proud beings.<03e0>Like most of us, I had always kept to myself.<04e0>There was a shabby-looking sellsword who wandered<03e0>the area. Whenever he saw me, he'd call out a hello.<03e0>At the time, I found his familiarity rather impertinent...<04e0>Not too much later, monsters assaulted the town.<03e0>It was terrible timing, as the army had been called<03e0>abroad. Balterossa was thrown into a panic.<04e0>That's when that sellsword appeared. He gathered<03e0>the mercenaries of the town, and led them against<03e0>the monster hordes, saving the town.<04e0>I could not understand his actions. Why would<03e0>he risk his life for a bunch of strangers? What<03e0>was his motive?<04e0>He caught my interest. So I decided to join him.<03e0>He was the first leader of the Silver Falcons.<04e0>...<04e0>This story has run long. Perhaps I will continue<03e0>it later... That's enough for now.
-If the Falcons are called to act, I would appreciate<03e0>you lending your help.
-The beastmen are tenacious enough that it is<03e0>impossible for the dukedoms to suppress them.<03e0>That is why the Silver Falcons are necessary.<04e0>Hm? Ah yes, I was in the middle of the story...<04e0>That sellsword who saved the town...<03e0>The founder of the Silver Falcons.<03e0>He intrigued me, and so I joined the Falcons.<04e0>At first, I meant just to see what made him<03e0>tick. But after spending enough time with him,<03e0>I began to share his beliefs.<04e0>To protect those who cannot protect themselves,<03e0>wielding a blade as strong and sure as the wings<03e0>of the proud falcon... That became my credo.<04e0>I grew to respect him a great deal. I was curious<03e0>to his thoughts on many different subjects.<04e0>Nevertheless, especially compared to that of a<03e0>sovani, a mitra's lifespan is incredibly short.<03e0>...I had tried to prepare myself. I'd attempted to...<04e0>It came faster than I'd imagined.<04e0>One night when the moon was full, the beastmen<03e0>launched a sneak attack on a small village... He used<03e0>himself as a lure to lead them away, to the cliffs.<04e0>And, there he met his end.<03e0>He died as he lived, selflessly acting for others...<03e0>He stayed true to his beliefs to the end.<04e0>...<04e0>It seems I've said too much.<03e0>You are a strange one...<04e0>Forgive me, but I'd appreciate it if you left me<03e0>alone right now.
-Forgive me, but I'd appreciate it if I could be<03e0>alone for a while.
-For some reason, fighting alongside all of you<03e0>reminds me of my days with the founder.<04e0>He taught me the value of protecting life...<03e0>That is why when it came time for me to take up<03e0>the mantle of commander, I had no doubts.<04e0>Rush...we are in a time of trial. Power, territory,<03e0>Remnants...it seems like anything can inflame<03e0>tensions to war nowadays.<04e0>If I can reduce casualties by interfering in<03e0>these conflicts, then I will without hesitation...<03e0>even if it means working outside the law.<04e0>...<04e0>Ah, now I see.<03e0>You're a lot like he was, Rush. That must be why<03e0>I find myself chattering on at you so much.<04e0>Heh, intriguing...<03e0>I'll be curious to see where your beliefs take you...<04e0>Feel free for that place to be the Falcons.
-Rush, would you join the Silver Falcons?<03e0>Know that you would always be welcomed into<03e0>our ranks.
+Pode me chamar de Emmy.
+Fico contente de conhecê-la, finalmente.<03e0>Eu sou...<01e00be00ae0>
+Rush Sykes. As pessoas te chamam de Rush, não é?
+Co... Como você sabia? Você leu meus pensamentos?
+Tenho meus recursos...
+Se cuide, Rush.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Glória aos Falcões! Olá, Rush. Por que essa cara?<03e0>Não está acostumado com um sovani falar com você?<03e0>
+Quem são os Falcões Prateados?<04e0>Pode-se dizer que somos um grupo de cavaleiros<03e0>dispostos a lutar por aquilo que acreditamos.<04e0>Não se preocupe se não sabe do que estou falando.<04e0>A organização tem muitos outros membros, mas eu sou o<03e0>único que está aqui. Os agentes executam suas próprias<03e0>missões por todo o continente.<04e0>Minha tarefa, como comandante, consiste em enviar<03e0>instruções aos agentes de cada região.<04e0>Nem sempre é fácil coordenar grandes operações.<03e0> <04e0>Mas você não precisa se preocupar... se for necessário,<03e0>podemos rapidamente reunir um grande exército.<04e0>Ah, sim.... Se os Falcões tiverem de entrar em ação,<03e0>você estaria disposto a nos ajudar?<03e0> <04e0>Obviamente, se for algo contra seus princípios pode<03e0>recusar sem dar explicações. Pense nisso, certo?
+Se os Falcões tiverem de entrar em ação, você estaria<03e0>disposto a nos ajudar? Pense nisso, por favor.<03e0>
+Como surgiram os Falcões Prateados?<03e0>Bem... O fundador foi um mitra...<04e0>Mas isso aconteceu há muitas décadas atrás...<03e0>Na época, eu tinha ido até as montanhas que rodeiam<03e0>a cidade para ver o Tao Tie.<04e0>Você já sabe que sovanis são seres muito orgulhosos.<03e0>E como a maioria de nós, sempre fui muito reservado.<04e0>O caso é que um mercenário de aparência descuidada<03e0>costumava andar por ali. E sempre que me via, me<03e0>cumprimentava. Isso me parecia uma impertinência...<04e0>Não muito tempo depois, um grupo de monstros atacou<03e0>Balterossa. E foi em uma péssima hora, justo quando<03e0>nosso exército estava fora, em terras distantes.<04e0>Quando tudo parecia perdido, aquele homem reuniu<03e0>os guerreiros da cidade e comandou um ataque contra<03e0>os monstros. Graças a ele, a cidade foi salva.<04e0>Eu não conseguia entender porque ele fez aquilo.<03e0>Por que se arriscar por um bando de desconhecidos?<03e0>E o que ele pretendia conseguir com isso?<04e0>Aquele homem me deixou tão intrigado que decidi me<03e0>unir a ele. O primeiro líder dos Falcões Prateados.<04e0>...<04e0>Enfim... é uma longa história. Talvez seja melhor<03e0>continuar depois. Por hoje, é mais que suficiente.
+Se os Falcões forem chamados para entrar em ação,<03e0>gostaria muito de poder contar com sua ajuda.
+Os homens-fera são tão obstinados que até mesmo os<03e0>duques são incapazes de detê-los sem ajuda.<03e0>Por isso o mundo precisa dos Falcões Prateados.<04e0>Hm? Ah sim, eu parei no meio da história, não foi?<04e0>Bem, aquele mercenário que salvou a cidade,<03e0>o fundador dos Falcões Prateados...<03e0>Ele me intrigava, e por isso decidi segui-lo.<04e0>No começo eu só queria descobrir o que se passava na<03e0>sua cabeça. Mas quanto mais tempo passava com ele,<03e0>mais me convencia dos seus ideais.<04e0>Proteger aqueles que não podiam se proteger, com<03e0>a ajuda de uma espada tão firme e segura quanto a<03e0>asa do mais nobre dos falcões. Isso virou meu credo.<04e0>Acabei desenvolvendo muito respeito por ele, e tinha<03e0>muita curiosidade de saber sua opinião sobre tudo.<04e0>Mas a vida de um mitra é muito curta, sobretudo<03e0>comparada com a de um sovani. Eu sabia que sua vida<03e0>logo chegaria ao fim e tentei me preparar para isso.<04e0>Mas sua hora chegou antes do que eu havia imaginado.<04e0>Em uma noite de lua cheia, os homens-fera fizeram um<03e0>ataque surpresa a uma aldeia... E meu mentor tentou<03e0>atraí-los até uns penhascos.<04e0>Ali ele os enfrentou, e ali encontrou o seu fim.<03e0>Morreu como havia vivido, defendendo os outros.<03e0>Ele permaneceu fiel às suas crenças, até o fim.<04e0>...<04e0>Bem, acho que já falei demais, não é mesmo?<03e0>Você é uma pessoa muito estranha...<04e0>Me desculpe, mas eu ficaria agradecido se pudesse me<03e0>deixar sozinho por um tempo...
+Me desculpe, mas eu ficaria agradecido se pudesse me<03e0>deixar sozinho por um tempo...
+Por algum motivo, toda vez que luto ao seu lado me<03e0>lembro dos dias que combatia ao lado do fundador.<04e0>Ele me ensinou a importância de proteger o indefeso.<03e0>Por isso, quando chegou a minha hora de assumir o<03e0>posto de comandante, não pensei duas vezes.<04e0>Rush... estamos vivendo tempos difíceis. Ultimamente<03e0>qualquer coisa parece ser capaz de desencadear uma<03e0>guerra: poder, terras, remanescentes...<04e0>Se minha intervenção nesses conflitos puder<03e0>salvar vidas, então farei isso sem hesitar...<03e0>mesmo que isso signifique agir fora da lei.<04e0>...<04e0>Ah, agora estou começando a entender...<03e0>Você se parece muito com meu mentor, Rush. Deve ser<03e0>por isso que passo tanto tempo conversando com você.<04e0>Heh, isso é intrigante... Estou curioso para ver<03e0>onde suas crenças te levarão... E se esse lugar for<04e0>entre os Falcões, será sempre bemvindo entre nós.
+Rush, gostaria de se juntar aos Falcões Prateados?<03e0>Você será sempre bem-vindo entre nós.<03e0>
 

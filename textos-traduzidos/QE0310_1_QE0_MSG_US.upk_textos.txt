@@ -1,22 +1,22 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0310_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Heya, Rush!<03e0>You lookin' for some action, too?<04e0>Heyyy, I got it! You're just itching to get in on<03e0>that tourney, right?
-"Calling men of honor to the Heroic Ramparts<07f003e0>Welcome to the stage of history."<03e0>How can that not get your soul burning?<04e0>Come on, don't try to hide! Plus, this's a historic<03e0>tournament<07f0>you don't hafta worry.<03e0>Anybody'd kill to be in it!
-Back then there was this incredibly brutal monster that<03e0>lived near the Ramparts. Anybody who came close, it'd<03e0>eat 'em!<04e0>Eventually the most valiant warriors across the land<03e0>showed up to face the beast<07f0>they weren't gonna<03e0>let it get away with anything else!<04e0>And after a fearsome battle, their powers combined<03e0>were enough to take it down!<04e0>Ever since, anyone wanting to really prove themselves<03e0>have held this competition at the <1be0ffbe34ff>Heroic Ramparts<1ce0>.<04e0>Basically, it's a fight to the death against the monsters<03e0>that gather around the Ramparts. And whoever beats<03e0>the strongest baddie gets the title of Hero Exemplar!
-Whooooooop!!!<03e0>Just telling that story's got me raring to go!
-Hell yeah, Rush<07f0>we're gonna kick this tourney's<03e0>ass! We'll show 'em all that real heroes come from<03e0>Athlum!<06e0000008e0000000000000>Yeah! I'm on it!<09e008e0010000000300>Whoa, hold up...
-I know it's not just lip service with you...<03e0>Awright, let's get to the <1be0ffbe34ff>Heroic Ramparts<1ce0>! An'<03e0>we're gonna come back to Athlum as Heroes!
-You're not scared, are ya?<03e0>Okay, okay, I'll wait for you<07f0>but be ready to<03e0>kick ass when you come back!
-Rush! You're ready to fight, right?<03e0>We'll show 'em the power of Athlum!<06e0000008e0000000000000>You betcha!<09e008e0010000000300>Uhh...like, right now?
-Awright! This tourney has got our names all over it<07f003e0>and we're gonna bring those names back to Athlum as<03e0>Heroes Exemplar! C'mon, to the <1be0ffbe34ff>Heroic Ramparts<1ce0>!
-Don't wimp out on me now...<03e0>...But 'sokay, I'll wait for you!<03e0>Find your nerve and come back, alright?
-Heya, Rush!<03e0>So, you ready for our next match?<06e0000008e0000000000000>I was born ready.<09e008e0010000000300>Uhh, gimme a minute?
-Awright! To the <1be0ffbe34ff>Ramparts<1ce0>!
-Oh, alright. Well, lemme know.
-Holy moly, Rush! We did it!<03e0>The title of Hero Exemplar is ours!<04e0>Now Athlum's the land of the brave in word as<03e0>well as deed!<04e0>Whoo!<03e0>Wait'll the young master gets a load of this!
-Ah, oh yeah.<03e0>Here's your part of the prize money, split<03e0>even-Steven, don't worry.
-Awright! For Athlum...for the young master...<03e0>Let's get going and get this stuff taken care of!
-Goodness... So the day has finally come when<03e0>the home of the Heroes Exemplar is Athlum.<04e0>We certainly have come a long way, my town and I.
-But nothing pleases me more than seeing<03e0>my friends happy, and I thank you for that,<03e0>Rush.
+Ei, Rush! Você também está atrás de fortes emoções?<03e0> <04e0>Sim, já estou sabendo! Você está morrendo de vontade<03e0>de participar desse torneio, não é verdade?
+"Guerreiros, venham até as Muralhas do Heroísmo.<03e0>Sejam bem-vindos a esse grande torneio histórico."<03e0>Você não fica emocionado só de pensar nisso?<04e0>Vamos lá, Rush, não tente fugir do assunto! Esse é um<03e0>torneio de grande prestígio. Conheço gente que seria<03e0>capaz de matar só para poder participar!
+Há muito tempo atrás havia um monstro incrivelmente<03e0>cruel que vivia perto dessas Muralhas. Ele era capaz<03e0>de comer qualquer um que chegasse perto daqui!<04e0>Foi então que os guerreiros mais valentes da região se<03e0>cansaram daquela situação e uniram suas forças para<03e0>poder acabar com ele!<04e0>Foi uma batalha terrível, mas trabalhando juntos os<03e0>guerreiros conseguiram vencer o monstro!<04e0>Desde então, para demonstrar o valor dos guerreiros, é<03e0>celebrado um torneio anual nas <1be0ffbe34ff>Muralhas do Heroísmo<1ce0>.<04e0>Basicamente, trata-se de uma luta até a morte contra<03e0>monstros da região. Aqueles que vencem o monstro<03e0>mais forte são proclamados Heróis da Lenda!
+Whooooooop!!! Só de lembrar dessa história já fico<03e0>morrendo de vontade de participar!
+Vamos lá, Rush... vamos mandar ver nesse torneio!<03e0>Vamos mostrar para eles que os heróis de verdade<03e0>estão em Athlum!<06e0000008e0000000000000>Sim! Vamos lá!<09e008e0010000000300>Uou, calma aí...
+Sabia que você não era só de conversa... Certo, vamos<03e0>então para as <1be0ffbe34ff>Muralhas do Heroísmo<1ce0>! E vamos voltar<03e0>para Athlum com o troféu nas nossas costas!
+Você não está com medo, está? Tudo bem, tá certo,<03e0>vou te esperar... Mas esteja pronto quando voltar!<03e0>
+Rush! Você está preparado para lutar?<03e0>Vamos mostrar ao mundo o poder de Athlum!<06e0000008e0000000000000>Isso aí, vamos lá!<09e008e0010000000300>Ehh... tipo, agora mesmo?
+Excelente! Eles já podem ir gravando nossos nomes no<03e0>troféu... porque sem dúvida seremos nós os próximos<03e0>Heróis da Lenda! Para as <1be0ffbe34ff>Muralhas do Heroísmo<1ce0>!
+Vamos lá, não me deixe na mão... Vou ficar esperando<03e0>por você! Quando tomar coragem venha falar comigo.<03e0>
+Ei, Rush! Está preparado para a próxima luta?<03e0> <06e0000008e0000000000000>Já nasci pronto.<09e008e0010000000300>Ehh... Pode me dar um minuto?
+É isso aí! Para as <1be0ffbe34ff>Muralhas do Heroísmo<1ce0>!
+Ah, tudo bem. Avise-me quando estiver pronto.
+Pelas barbatanas do meu pai, Rush! Nós conseguimos!<03e0>Somos os novos Heróis da Lenda!<04e0>Agora Athlum será lembrada na história como a terra<03e0>dos guerreiros mais valentes do mundo!<04e0>Hurra! Deixe Lorde David ficar sabendo!<03e0>
+Ah, já ia esquecendo, aqui está sua parte do prêmio.<03e0>Estamos dividindo meio a meio, conforme combinado.<03e0>
+É isso aí! Por Athlum... e por Lorde David!<03e0>Agora sim, podemos seguir em frente!
+Minha nossa... Então finalmente chegou o dia em que<03e0>Athlum se tornou o lar dos Heróis da Lenda.<04e0>Percorremos um longo caminho, eu e minha cidade.
+Mas nada me deixa mais feliz do que ver meus amigos<03e0>contentes... E agradeço a você por isso, Rush.<03e0>
 

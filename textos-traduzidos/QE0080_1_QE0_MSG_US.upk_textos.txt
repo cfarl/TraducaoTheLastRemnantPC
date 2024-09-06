@@ -1,46 +1,46 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0080_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Marsha...<03e0>Does this Forest Maiden lend her aid to our<03e0>search for the missing members of the Order?
-She does. Meister Olebeag, Sir Roberto, this is<03e0>one of our newest Maidens, Leticia.<04e0>She has very advanced empathic abilities.
-Leticia is bound to one of the missing knights<07f003e0>a man named Neo.<04e0>She has attempted to sense his presence since<03e0>the beginning of this ordeal. Finally, she has been<03e0>able to sense something...
-Go on, Leticia.<03e0>Describe what you see.
-Yes, Mistress.
+Marsha... Será que essa Donzela do Bosque poderia nos<03e0>ajudar a encontrar os cavaleiros da Ordem que estão<03e0>desaparecidos?
+Certamente. Mestra Olebeag, Sir Roberto, quero que<03e0>conheçam Leticia, uma de nossas novas donzelas.<04e0>Ela tem poderes de empatia muito impressionantes.
+Leticia tem um vínculo com Neo, um dos cavaleiros<03e0>que estão desaparecidos.<04e0>Desde que isso tudo começou ela vem tentando sentir<03e0>sua presença. E parece que agora ela conseguiu por<03e0>fim captar alguma coisa...
+Vá em frente, Leticia.<03e0>Descreva o que está vendo.
+Sim, minha Senhora.
 .........
-I see several small, faint lights...<04e0>Plants grow from the stones; they give off<03e0>a beautiful green glow, and there's the sound<03e0>of ever-falling water...
-Glowing plants and falling water...<04e0>By the God Emperor! That must be the cavern<03e0>to the southwest<07f01be0ffbe34ff>Siebenbur<1ce0>!
-Ah, Master Sykes!<04e0>We have gained a clue as to the whereabouts<03e0>of the lost knights of the Order.
-The maid Leticia of the Forest Maidens has seen<03e0>a vision of where our errant knights may be.<04e0>Her description led us believe they must be in<03e0>the great caverns to the southwest...<1be0ffbe34ff>Siebenbur<1ce0>.
-I intend to head to <1be0ffbe34ff>Siebenbur<1ce0> to rescue my<03e0>comrades.
-I would appreciate it muchly if you would assist<03e0>me, Master Sykes. May I once again call upon<03e0>your blade?<06e0000008e0000000000000>Let's bring 'em home!<09e008e0010000000300>Sorry, I'm a bit busy.
-Once again, you honor me with your generosity.<03e0>I am in your debt.<04e0>Let us make preparations and head<03e0>to <1be0ffbe34ff>Siebenbur<1ce0> immediately.
-No<07f0>you have no need to apologize. I knew the<03e0>folly of such an unreasonable request from the<03e0>start.<04e0>That said, if time bids you change your mind,<03e0>let me know.
-Thankfully, all were able to return to Melphina<03e0>safely. This is all due to your assistance,<03e0>Master Sykes. Again, I am in your debt.
-Hmm...<04e0>Ophelia, I believe these men in black are just the face<03e0>of a much larger evil<07f0>an organization with command<03e0>over many powerful Remnants.
-The henchmen we have dealt with are far from<03e0>the fiends controlling all this.<04e0>If we do not uncover the masterminds behind<03e0>this plot against Melphina, they will only send<03e0>another set of assassins.
-Even Master Sykes agrees.<04e0>Ophelia, know that bruised hearts and soiled pride is<03e0>something that the both of us share. Still, this matter<03e0>bids us act with caution, and that cannot be ignored.
-Ophelia... The most important thing for us to protect<03e0>is not our reputation.
-Oh, yes!<04e0>Master Sykes, take this as a token of our gratitude.
-My subcommander is sure of blade, but perhaps oversure<03e0>of judgment... She is still young, and victim to her sense<03e0>of justice at times.
-Setting strength against strength will only escalate<03e0>conflict.<04e0>The Order will look into further movements of this<03e0>black-cloaked group. Hopefully this will lead to a<03e0>peaceful resolution.
-Still, Commander<07f0>the curs responsible for<03e0>kidnapping our men in the first place have yet<03e0>to be brought to justice.
-The tarnished honor of the Order of Melphina<03e0>cries out to be avenged!<04e0>The acts these miscreants have performed are<03e0>unforgivable. Let our punishment be swift and<03e0>unrelenting.
-But...but,<03e0>the good name of the Order...!
+Vejo luzes pequenas e tênues...<04e0>Há plantas crescendo entre as rochas; elas liberam<03e0>um belíssimo brilho esverdeado, e escuto também<03e0>o som de água caindo...
+Plantas que brilham e água caindo...<04e0>Pelo Imperador Celestial! Ela deve estar falando das<03e0>cavernas que ficam no sudoeste... <1be0ffbe34ff>Siebenbur<1ce0>!
+Ah, Mestre Sykes!<04e0>Acabamos de descobrir uma pista sobre o paradeiro dos<03e0>cavaleiros da Ordem que estão desaparecidos.
+Leticia, uma das donzelas do bosque, teve uma visão<03e0>do lugar onde estão os cavaleiros desaparecidos.<04e0>Pela descrição, acreditamos que se trata das cavernas<03e0>que ficam no sudoeste... <1be0ffbe34ff>Siebenbur<1ce0>.
+Em breve partirei para <1be0ffbe34ff>Siebenbur<1ce0> para resgatar meus<03e0>companheiros de armas.
+Agradeceria imensamente sua ajuda, Mestre Sykes.<03e0>Posso pedir uma vez mais que lute ao meu lado?<03e0> <06e0000008e0000000000000>Claro! Vamos resgatá-los!<09e008e0010000000300>Sinto muito, estou ocupado.
+Uma vez mais você me honra com sua generosidade.<03e0>Estou em dívida com você.<04e0>Vamos nos preparar para podermos ir o quanto antes<03e0>para as cavernas de <1be0ffbe34ff>Siebenbur<1ce0>.
+Tudo bem, você não precisa se desculpar. Entendo que<03e0>é ousadia da minha parte fazer semelhante petição.<03e0> <04e0>No entanto, se mudar de ideia e decidir nos ajudar,<03e0>ficarei grato se trouxer isso ao meu conhecimento.
+Felizmente, todos conseguiram retornar a salvo até<03e0>Melphina. Isso graças à sua ajuda, Mestre Sykes.<03e0>Mais uma vez estou em dívida com você.
+Hmm...<04e0>Ophelia, acho que esses homens de preto são apenas<03e0>parte de algo muito mais sinistro... uma organização<03e0>que tem vários remanescentes sob seu poder.
+Esses homens com o qual estamos lidando são peixe<03e0>pequeno, comparados com quem está por trás disso.<04e0>Se não descobrirmos quem são os responsáveis por<03e0>essa trama contra Melphina, é certo que logo será<03e0>enviado outro grupo de assassinos.
+Até mesmo Mestre Sykes concorda comigo.<04e0>Ophelia, compartilho do seu orgulho ferido e da dor<03e0>no seu coração. Mas precisamos agir com cautela,<03e0>se quisermos resolver essa situação.
+Ophelia... A reputação da Ordem não é a coisa mais<03e0>importante a ser protegida.
+Ah, sim!<04e0>Mestre Sykes, aceite isso como agradecimento...
+Minha subcomandante é tão hábil com a espada como é<03e0>impulsiva no seu espírito... Mas ela ainda é jovem, e é<03e0>normal que seja levada pelo senso de justiça...
+Responder a violência com mais violência só serve<03e0>para gerar ainda mais conflitos.<04e0>A Ordem vai ficar de olho nas ações desses homens de<03e0>preto. Espero que possamos resolver isso logo.<03e0>
+Mas comandante... Os canalhas que raptaram nossos<03e0>companheiros ainda não estão nas mãos da justiça.<03e0>
+É nossa obrigação vingar a honra maculada da Ordem!<03e0> <04e0>Os atos que foram praticados por esses canalhas são<03e0>imperdoáveis. Eles merecem uma punição adequada!<03e0>
+Mas... o que será do bom nome da nossa Ordem?<03e0>
 ...
-Isn't it, though! If we roll over and let this stand, the<03e0>Order of Melphina will be a laughing stock across the<03e0>continent!
-Any miscreants who think they can deceive the<03e0>people of Melphina will receive no mercy!
-Any miscreants who think they can deceive the<03e0>people of Melphina will receive no mercy!
-(Two ways to go on this one, huh...)<03e006e0000008e0000000000000>Mmm, better be cautious.<09e008e0010000000000>Honor is serious business.
-Hmm...<03e0>Indeed, that sounds to be the case.
-So, you will go with Roberto, will you?<03e0>You truly are a valiant youth.<04e0>You remind me of myself as a child.
-Roberto. This issue may be discussed at a later time.<03e0>For now, let us be grateful for young Sykes's assistance<03e0>in rescuing our knights.
-Valiant young man...<03e0>For bringing my men from the mouth of danger,<03e0>I give you my thanks.
-<1be0ffbe34ff>Siebenbur<1ce0> has long been known as a terribly<03e0>dangerous area.<04e0>Whyever would someone of the Order go to such<03e0>a place?
-What a blessing that everyone returned safely...
-Oh, Neo...<03e0>Please, please be alright...
-Oh, Neo...<03e0>Please, please be alright...
-You brought my Neo back home safe...<03e0>Rush, thank you so, so much.
-So, the other knights could not use the transport<03e0>Remnant to escape, then?<04e0>There is no need to worry. The power of the Blue Elf<03e0>can reverse the Remnant's actions and send you back.<04e0>Will you return to <1be0ffbe34ff>Siebenbur<1ce0>?<06e0000008e0000000000000>Yeah! Gotta save the others!<09e008e0010000000300>Lemme do something first.
-We all depend on you, young Sykes.
-Hmm. I do worry for the fate of the Order, but<03e0>there is wisdom in being prepared. Ready yourself<03e0>before returning.
+Isso! Está na hora de mostrar para esses malfeitores que<03e0>não haverá piedade para aqueles que ousarem ameaçar<03e0>o povo de Melphina!
+Vamos mostrar a esses miseráveis que não há piedade<03e0>para aqueles que ameaçam o povo de Melphina!
+Vamos mostrar a esses miseráveis que não há piedade<03e0>para aqueles que ameaçam o povo de Melphina!
+(Creio que é hora de tomar partido...)<03e006e0000008e0000000000000>Mmm, melhor agir com cautela.<09e008e0010000000000>A honra em primeiro lugar.
+Hmm... Acho que você tem razão.<03e0>
+Então você vai acompanhar o Roberto, não vai?<03e0>Você é mesmo um jovem muito valente.<04e0>Você me lembra de mim mesmo quando era mais jovem...
+Roberto, é melhor deixarmos esse assunto para outro<03e0>momento. Agora, devemos agradecer ao jovem Sykes<03e0>pela sua ajuda na restauração da barreira.
+Jovem valente... Permita-me expressar minha gratidão<03e0>por salvar meus homens da morte.<03e0>
+<1be0ffbe34ff>Siebenbur<1ce0> tem a fama de ser um dos lugares mais<03e0>perigosos que existe.<04e0>Por que um cavaleiro da Ordem iria para lá?<03e0>
+Pelo menos todos voltaram a salvo...
+Oh, Neo...<03e0>Por favor, esteja bem...
+Oh, Neo...<03e0>Por favor, esteja bem...
+Você trouxe meu Neo de volta, são e salvo...<03e0>Rush, agradeço muito, de verdade.
+Então os outros cavaleiros não puderam escapar<03e0>usando o remanescente transportador?<04e0>Não precisa se preocupar. O poder da Lágrima Azul<03e0>pode enviá-los de volta.<04e0>Você quer retornar a <1be0ffbe34ff>Siebenbur<1ce0>?<06e0000008e0000000000000>Claro! Precisamos salvá-los!<09e008e0010000000300>Preciso fazer algo antes.
+Nós estamos contando com você, jovem Sykes.
+Hmm. Eu me preocupo com o destino da Ordem, mas<03e0>devo admitir que existe sabedoria na prudência.<03e0>Prepare-se bem antes de retornar.
 

@@ -1,10 +1,10 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NUD_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-emma_honeywell_sWhat is it?<03e0>Should we first return to Elysion?<06e0000008e0000000000000>Good idea.<09e008e00a0000000300>No need.
-emma_honeywell_sAlright.<03e0>We shall return to Elysion.
-emma_honeywell_sAlright. We shall keep going.
-emma_honeywell_sShall we return to Athlum?<06e0000008e0000000000000>Yup! Let's go.<09e008e00a0000000300>Nah, not just yet.
-emma_honeywell_sLet us leave for Athlum at once.
-emma_honeywell_sWe cannot keep Lord David waiting.<03e0>Finish your business quickly so we can move on.
+emma_honeywell_sO que aconteceu?<03e0>Não deveríamos ir primeiro até Elysion?<06e0000008e0000000000000>Boa ideia.<09e008e00a0000000300>Não há necessidade.
+emma_honeywell_sTudo bem.<03e0>Vamos voltar para Elysion.
+emma_honeywell_sTudo bem. Vamos seguir em frente.
+emma_honeywell_sNão deveríamos voltar para Athlum?<06e0000008e0000000000000>Sim! Vamos lá.<09e008e00a0000000300>Não, ainda não.
+emma_honeywell_sVamos logo para Athlum.
+emma_honeywell_sNão podemos deixar Lorde David esperando.<03e0>Termine logo o que tem de fazer para podermos ir.
 

@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_05GL_MP0_MSG
 -- ----------------------------------------------------------------------------------
-So you're Caedmon's new pet.<03e0>I know what you're up to.<04e0>You're after his position, aren't you!?<03e0>Heh, keep dreaming.<04e0>I'm next in line! After all, I'm head of<03e0>the Elysion division of the Silver Falcons!<04e0>I hope you're ready for some competition!
-It's been a long time!<04e0>...You don't remember me?<03e0>We fought those monsters at Harphlus Pass...<03e0>Awww...<04e0>Well, I remember you. You sure know how to use<03e0>a weapon! We'll be counting on ya when we get<03e0>another assignment!
+Então você é a nova mascote de Caedmon.<03e0>Sei o que está tramando.<04e0>Você está querendo o seu posto, não é mesmo!?<03e0>Heh, vai sonhando.<04e0>Sou o próximo da fila! Afinal de contas, estou no<03e0>comando da divisão dos Falcões Prateados de Elysion!<04e0>Espero que esteja pronto para essa competição!
+Ei! Há quanto tempo!<04e0>Quê? Você não se lembra mais de mim? Lutamos juntos<03e0>contra aqueles monstros na Passagem de Harphlus...<03e0>Awww...<04e0>Bem, pois eu me lembro de você. Você sim sabe como<03e0>manejar uma arma! Contamos com você para nossa<03e0>próxima missão!
 

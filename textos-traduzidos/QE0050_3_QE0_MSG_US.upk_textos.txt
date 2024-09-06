@@ -1,16 +1,16 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0050_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Seer! You've done so much for us... How could you<03e0>betray our trust so? What is the meaning of this?
-Hmph.<03e0>There is no need for me to explain.
-All I'll have to explain is how I found the two<03e0>of you<07f0>victims of lovers' suicide!
-Charlotte! Are you unharmed?
-Yes, I'm fine.
-Paris...I'm sorry, I can't do this.<03e0>I tried, but...I need to be at Mother's side.
-Why? <07f0>You believe that the times we spent<03e0>together<07f0>the feelings we shared<07f0>were nothing<03e0>more than illusions created by the seer?
-Of course not.<03e0>I know that can't be true, I can feel it...<04e0>I just<07f0>I can't...
-I...I see...<03e0>...It's alright. I knew that someday, we would<03e0>have to face the cruel truth of our situation.<04e0>I only hoped our borrowed time would have lasted<03e0>longer...
-Paris<07f0> I still<07f001e00be00ae0>
-Let us return...<03e0>Back to where each of us belongs.
-Ahh...forgive me, Rush.<03e0>I'm sorry you had to get mixed up in this.
+Vidente! Depois de fazer tanto por nós... Como pôde<03e0>nos trair dessa maneira? Por que fez isso?
+Hmph.<03e0>Não devo a vocês nenhuma explicação.
+Quando encontrarem seus corpos, as pessoas irão supor<03e0>que decidiram se suicidar por um amor incompreendido!
+Charlotte! Você está bem?
+Sim, estou.
+Paris... Sinto muito, mas não posso fazer isso.<03e0>Eu tentei, mas... Preciso ficar ao lado da minha mãe.
+Por quê? Você acha mesmo que o tempo que passamos<03e0>juntos, todos os sentimentos que compartilhamos, nada<03e0>mais foram que mentiras criadas pelo vidente?
+Claro que não.<03e0>Sei que isso não é certo, sinto no meu coração...<04e0>Eu só... não posso...
+Eu... Eu entendo...<03e0>Tudo bem... Eu sabia que algum dia teríamos<03e0>que enfrentar a verdade cruel da nossa situação.<04e0>Só esperava que nosso tempo juntos pudesse ter<03e0>durado um pouco mais...
+Paris... Eu ainda...<01e00be00ae0>
+Vamos voltar...<03e0>Cada um para seu lugar.
+Ahh... Perdoe-me, Rush.<03e0>Sinto muito por ter te envolvido nessa história.
 

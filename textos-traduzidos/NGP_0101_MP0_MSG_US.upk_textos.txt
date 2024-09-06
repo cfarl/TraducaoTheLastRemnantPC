@@ -1,57 +1,57 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NGP_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-You look surprised.<04e0>Yes, that intimidating dragon you see is<03e0>indeed Nagapur's treasured Remnant<07f0>the Gwayn!<04e0>The grand castle in front of it is Wyrmskeep,<03e0>home of our beloved Lord Wilfred Hermeien.
-The Conqueror is after all the Remnants<03e0>he can get his hands on, but we're not<03e0>going to let him get ours!<04e0>We will protect our lord and our Remnant.<03e0>Nagapur will not fall!
+Você parece surpreso.<04e0>Sim, aquele dragão temível que você vê ali adiante<03e0>é o estimado Remanescente de Nagapur, o Gwayn!<04e0>O grande castelo que você está vendo é ForteDragão,<03e0>residência do nosso venerado Lorde Wilfred Hermeien.
+O Conquistador está atrás de todos remanescentes que<03e0>puder conseguir, mas nós não vamos permitir que ele<03e0>leve o nosso embora!<04e0>Vamos proteger nosso senhor e nosso Remanescente.<03e0>Nagapur não sucumbirá!
 Message 3
 Message 4
-This is <1be0ffbe34ff>Flussbahn<1ce0>, the entrance<03e0>to the town built along the canal.<04e0>There are residential districts located under each of<03e0>the Gwayn's wings<07f01be0ffbe34ff>Nordenalm<1ce0> and <1be0ffbe34ff>Sudenalm<1ce0>.
-Directions to <1be0ffbe34ff>Wyrmskeep<1ce0>, you say?<04e0>There's a boat you can take to<03e0>get there.<03e0>The dock is just beneath us.<04e0>Though I don't know if they let<03e0>commoners like you on board.
-Duke Ghor is gathering troops at<03e0>the Plain of Luhang. We will be ready<03e0>to face the Conqueror soon.
+Essa é <1be0ffbe34ff>Flussbahn<1ce0>, a entrada para a cidade.<03e0>Ela foi construída ao longo do canal.<04e0>Há dois bairros residenciais localizados embaixo das<03e0>asas do Gwayn, <1be0ffbe34ff>Nordenalm<1ce0> ao norte e <1be0ffbe34ff>Sudenalm<1ce0> ao sul.
+Você quer saber como chegar em <1be0ffbe34ff>ForteDragão<1ce0>?<04e0>Você precisa pegar um barco para chegar lá.<03e0>As docas ficam bem aqui embaixo.<03e0> <04e0>O que não sei é se vão deixar subir a bordo alguém<03e0>tão sem importância como você.
+O duque de Ghor está reunindo seu exército na planície<03e0>de Luhang. Assim estaremos preparados para enfrentar<03e0>o Conquistador quando ele decidir aparecer por aqui.
 Message 4
-There is no one more powerful and influential than our<03e0>lord, Wilfred Hermeien.<04e0>He is a born leader and chairman of the Congress.<04e0>Being named chairman means that he is the most<03e0>powerful and admired man on the continent.<04e0>I feel honored to be a citizen here.
-The Congress made the right decision. No one is foolish<03e0>enough to believe that the God Emperor has ties with<03e0>the Conqueror.<04e0>I support Lord Hermeien one hundred percent.
+Não existe ninguém com tanta autoridade e influência<03e0>como nosso senhor, lorde Wilfred Hermeien.<04e0>Ele é sem dúvida alguma um líder nato.<04e0>Por isso foi eleito Presidente do Conselho. Esse cargo<03e0>faz dele a pessoa mais poderosa e admirada do mundo.<04e0>É uma honra ser um dos seus súditos.
+O Conselho tomou a decisão correta. Ninguém pode ser<03e0>tão tolo a ponto de acreditar que o Imperador Celestial<03e0>tenha se aliado ao Conquistador.<04e0>Lorde Hermeien tem todo o meu apoio.
 Message 3
 Message 4
-This is the dock.<04e0>Sorry, kiddo.<04e0>This boat IS headed to Wyrmskeep, but I can only let<03e0>you on if you've been granted access by Lord Hermeien.
-This is the dock.<03e0>The boat to Wyrmskeep is just about to leave.<04e0>Kid, you need a ride?<06e0000008e0000000000000>Yeah! Thanks, boat guy!<09e008e0010000000300>Nah, I get seasick easily.
-Alright.<03e0>Just let me know if you change your mind.<04e0>But remember<07f0>I can only allow people who've<03e0>been granted permission to step on the boat.
-The Marquis?<03e0>No, he's not back yet.<04e0>Why don't you take the time to look around town<03e0>a little more?
-We can't leave town until Lord David returns.<04e0>Why don't you take a walk around, do some sightseeing?<03e0>And, by "sightseeing," I mean try to acquire as much<03e0>information as you can.<04e0>Rush, talk to Pagus and myself when you've finished.
-I'm waiting for someone.<03e0>It's been three years since he's<03e0>gone south.<04e0>But I have faith that he'll return.<03e0>I'll continue to wait for him for as<03e0>long as I have to.
-Huh?<03e0>What're you doing here, old lady?
-Wha<07f0>excuse me?<03e0>Do I even know you?
-Oh, oops.<03e0>Um, I thought you were someone else...
-Hmph! Make sure you have the right<03e0>person next time!
-S-sorry...
-Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
-Calling someone "old lady" is rude and inconsiderate...<03e0>especially when they aren't old!
-Hm? You again.
+Sim, essas são as docas.<04e0>Sinto muito, garoto.<04e0>Esse barco vai a ForteDragão, mas só posso permitir<03e0>que embarque com a autorização de Lorde Hermeien.
+Seja bem-vindo às docas.<03e0>O barco que vai a ForteDragão está prestes a partir.<04e0>Você quer que eu te leve, garoto?<06e0000008e0000000000000>Sim! Obrigado, barqueiro!<09e008e0010000000300>Não, fico enjoado em barcos.
+Tudo bem... Me avise se mudar de ideia.<03e0> <04e0>Mas não se esqueça, só posso levar pessoas que<03e0>tem permissão para subir a bordo.
+O Marquês? Não, ele ainda não voltou.<03e0> <04e0>Por que não aproveita o tempo livre para dar uma<03e0>volta pela cidade?
+Não podemos sair da cidade até Lorde David retornar.<04e0>Por que não aproveita para dar uma volta? E quando<03e0>digo "dar uma volta" quero dizer para ficar atento e<03e0>conseguir o máximo de informação que puder.<04e0>Quando tiver terminado, avise Pagus e eu.
+Faz três anos que uma pessoa muito importante para<03e0>mim partiu em direção às terras do Sul. Desde então<03e0>tenho aguardado ansiosamente seu retorno.<04e0>Nunca perdi a esperança de voltar a vê-lo outra vez.<03e0>Continuarei esperando o tempo que for preciso.<03e0>
+Hã? O que está fazendo aqui, senhora?<03e0>
+Senhora? COMO SE ATREVE? Nem sei quem você é, eu ao<03e0>menos te conheço???
+Ops... Acho que confundi você com outra pessoa.<03e0>É que vocês são muito parecidas...
+Hmph! Na próxima vez, então, tenha certeza de estar<03e0>falando com a pessoa certa antes de abrir a boca!
+E-eu... Sinto muito...
+Hmph... Dessa vez vou deixar passar. Mas que<03e0>isso não volte a se repetir, está me ouvindo?
+Chamar uma dama como eu de "senhora" é uma tremenda<03e0>falta de respeito. Não sou tão velha assim!
+Hm? Oras, é você de novo.
 Uh.
-You don't look happy to see me.
-Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
-Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
-Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
-...Ahh. Thank you.
-You're surprisingly...nice.
-Hm, you look cheerful as ever.
-Heya, Ms. Young Maiden.
-...Right. So, could you please not call me that?<03e0>It sounds ridiculous, to say the least.
-Well, it's not like I know your name.
-Oh?
+Você não parece feliz de me ver.
+Eh, n-não, não é isso! É que... Enfim, senh...<03e0>er, jovem donzela, o que está fazendo aqui?<03e0>
+Estou em treinamento. Na minha família temos como<03e0>tradição viajar o mundo ao chegar na vida adulta.<03e0>
+Huh... isso não deve ser nada fácil...<03e0>Então... Sabe... Tenha cuidado, tá?
+...Ahh. Obrigada.
+Você é muito... gentil.
+Hm, Você parece muito bem.
+Olá, senhorita... aham... jovem donzela...
+Será que pode fazer o favor de não me chamar assim?<03e0>É que soa um pouco ridículo, para falar a verdade.
+Bem... é que ainda não sei seu nome.
+Hã?
 Oh.
-The name's Emmy.
-Nice to meet you for real, finally. I'm<07f001e00be00ae0>
-Rush Sykes, call you Rush, right?
-Wha!? C-can you see into my brain!?
-Perhaps!<03e0>Though in this case, it's not much of a challenge.
-Take care, Rush.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-I thought I'd done plenty of training, but I still<03e0>can't even light a candle to Mother...<03e0>But I can't give up.
-I thought I'd done plenty of training, but I still<03e0>can't even light a candle to Mother...<03e0>But I can't give up.
+Pode me chamar de Emmy.
+Fico contente de conhecê-la, finalmente. Eu sou...<01e00be00ae0>
+Rush Sykes. As pessoas te chamam de Rush, não é?
+Co... Como você sabia? Você leu meus pensamentos?
+Eu tenho meus recursos...<03e0>Mas nesse caso, não foi tão difícil assim.
+Se cuide, Rush.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Já tem um bom tempo que estou em treinamento, mas<03e0>ainda tenho um longo caminho pela frente para poder<03e0>me igualar à minha mãe... E não vou desistir.
+Já tem um bom tempo que estou em treinamento, mas<03e0>ainda tenho um longo caminho pela frente para poder<03e0>me igualar à minha mãe... E não vou desistir.
 

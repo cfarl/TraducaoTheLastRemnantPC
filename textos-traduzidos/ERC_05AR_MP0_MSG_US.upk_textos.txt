@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_05AR_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Straight ahead is the Remnant Ark.<04e0>The Academy has the ability to send a<03e0>select few to the Sacred Lands<03e0>several times a year.<04e0>The Remnant that Marion Marshall<03e0>bound to herself is the Sacred Lands,<03e0>the mass of rock above.<04e0>The Sacred Lands is where our souls<03e0>go to rest when we pass away<07f003e0>it is even referred to as a heaven.
-Wh-what happened?<03e0>Wh-where am I...?<04e0>I was... I was talking about the Sacred Lands...<03e0>...and I don't know what happened<03e0>after that...<04e0>Do you know what just happened here!?
-This area has become off-limits to civilians<03e0>following the incident at Nagapur.<03e0>What a shame...
-That light... So celestial...<04e0>Seeing that was worth my trek here.<03e0>I can cross this off of my list of things<03e0>to do before I die.
-That large man clothed in red touched<03e0>the Ark right before that light shot<03e0>up to the heavens.<04e0>Who was he?<03e0>A reaper, perhaps?
-So this is the Ark.<03e0>I thought it would look more like<03e0>something you ride.<04e0>How does this work exactly?
-A bright light shot out of the Ark<03e0>a second ago. I think it means that<03e0>man bound the Ark to himself.<04e0>I wonder how he did it.<03e0>This Remnant is huge!
-This area is off-limits.
+Ali adiante se encontra o Remanescente Arca.<04e0>A academia só pode enviar algumas poucas expedições<03e0>para as Terras Sagradas a cada ano.<03e0> <04e0>Marion Marshall estabeleceu um vínculo com essa enorme<03e0>massa de rochas que se encontra acima de nós, ao qual<03e0>chamamos de Terras Sagradas.<04e0>As Terras Sagradas são o lugar para onde vão<03e0>nossas almas quando deixamos esse mundo.<03e0>Dizem que esse lugar é um paraíso.
+O quê... O que foi que aconteceu?<03e0>Onde... onde eu estou...?<04e0>Eu estava... estava falando das Terras Sagradas...<03e0>E não consigo lembrar do que aconteceu depois...<03e0> <04e0>Você sabe o que aconteceu aqui!?
+Desde aquele incidente de Nagapur não é mais permitido<03e0>que os civis passem por aqui. É uma pena, não é mesmo?<03e0>
+Aquela luz... tão celestial...<04e0>Só de vê-la minha viagem até aqui já valeu a pena.<03e0>Agora já posso tirar isso da minha lista de coisas<03e0>a fazer antes de morrer.
+Aquele homem de vermelho tocou o Arca um pouco antes<03e0>daquela luz brilhante partir em direção ao céu.<03e0> <04e0>Quem será que era ele?<03e0>Será que era a própria morte?
+Então esse é o Arca. Sempre achei que fosse uma<03e0>coisa sobre o qual você pudesse montar.<03e0> <04e0>Como será exatamente que ele funciona?
+Uma luz brilhante foi emitida pelo Arca agora a pouco.<03e0>Isso quer dizer que aquele homem conseguiu criar um<03e0>vínculo com o remanescente....<04e0>Como será que ele conseguiu fazer isso?<03e0>Esse Remanescente é enorme!
+Essa área é restrita.
 

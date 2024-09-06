@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) DLP_0101_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Lady Emma reports that your talisman holds a<03e0>mysterious power.
-Yeah, it does.<03e0>What? You think she's lying?
-Lady Emma is an honest person.<03e0>I have no reason to doubt her.<04e0>So this power...<03e0>Can it be used outside of battles?
-What do you mean?
-Can you show me its power now?
-Hmm, I dunno.<04e0>I can try, though.
-Wh-what just happened!?
-I see...<03e0>It holds the power to manipulate time.<04e0>Proper application of such a power would give a clear<03e0>advantage when battling monsters, as well as allow<03e0>you to engage many foes in battle at once.<04e0>However, it is almost certain that such a power cannot<03e0>be applied indefinitely. Use it wisely.
-The door is sealed shut.
-The door is sealed shut.<03e0>Use the Plateau Key?<06e0000008e0000000000000>'Course!<09e008e0010000000300>I wanna look around a bit more.
-The door has been unlocked.
+Lady Emma comentou comigo que seu talismã<03e0>contém um estranho poder.
+Sim, é verdade. Mas porque a pergunta?<03e0>Você acha que ela está mentindo?
+Lady Emma é uma pessoa de confiança, e não tenho<03e0>motivo algum para duvidar dela.<04e0>Mas esse poder...<03e0>Você já tentou usá-lo fora do campo de batalha?
+Como assim?
+Você consegue me mostrar ele agora, por exemplo?
+Hmm... não sei.<04e0>Mas posso tentar.
+O-o que aconteceu!?
+Entendo... Parece que seu talismã tem o poder de<03e0>manipular o tempo.<04e0>Se souber utilizar isso a seu favor poderá conseguir<03e0>uma grande vantagem na hora de entrar em combate.<03e0>Você poderá enfrentar vários inimigos de uma só vez.<04e0>No entanto, tenho quase certeza que esse poder não<03e0>dura para sempre. Use-o com sabedoria.
+A porta está trancada.
+A porta está trancada.<03e0>Quer usar a chave da Planície?<06e0000008e0000000000000>É claro que sim!<09e008e0010000000300>Ainda não.
+A porta foi destrancada.
 

@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) SBN_0103_MP2_MSG
 -- ----------------------------------------------------------------------------------
-The door is sealed shut.
-The door is sealed shut.<03e0>Use the Moss-Covered Key?<06e0000008e0000000000000>'Course!<09e008e0010000000300>I wanna look around a bit more.
-The door has been unlocked.
-The door is sealed shut.<04e0>The words "Sealed is this door to the sacred lands"<03e0>appear on the door.
+A porta está trancada.
+A porta está trancada.<03e0>Quer usar a chave coberta de musgo?<06e0000008e0000000000000>Mas é claro!<09e008e0010000000300>Ainda não.
+A porta foi destrancada.
+A porta está trancada.<04e0>As palavras "Fechada foi essa porta para as Terras Sagradas"<03e0>estão nela escritas.
 

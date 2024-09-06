@@ -1,24 +1,24 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1210_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Do you know of the Academy's Third<03e0>Committee? Considering what's happened<03e0>to your sister, I gather you know of them.<04e0>I don't have a great history with them either.<03e0>Since they're already in disarray, I was planning<03e0>on taking the opportunity to finish them off.
-Don't ask me for any details, because<03e0>you won't get them.
-What happened is worse than anything<03e0>you can imagine. No words can describe<03e0>this pain.<04e0>We've got the means to lure them<03e0>out. Then we destroy them.<03e0>Are you in?<06e0000008e0000000000000>Definitely!<09e008e0010000000000>So, what happened to you?
-We'll fight on the <1be0ffbe34ff>Plain of Luhang<1ce0>.<03e0>This should end it all...
-We leave now.<03e0>Are you prepared?<06e0000008e0000000000000>Yes!<09e008e0010000000300>Wha<07f0>? No!
-Let's do this!
-Scared, huh?
-Do you have a death wish?
-We're taking down the Third Committee.<03e0>No questions asked.<03e006e0000008e0000000000000>Alright.<09e008e0010000000000>So what happened to you?
-We'll fight on the <1be0ffbe34ff>Plain of Luhang<1ce0>.<03e0>This should end it all...
-We leave now.<03e0>Are you prepared?<06e0000008e0000000000000>Yes!<09e008e0010000000300>Wha<07f0>? No!
-Let's do this!
-Scared, huh?
-Do you have a death wish?
-You want to know if my wounds<03e0>have healed?
-You must be joking.
-Fear and despair can't even begin to<03e0>describe what we went through.<04e0>We have to stick together to survive<03e0>this world filled with ignorant fools.
-You're different. You're neither ignorant<03e0>nor a fool. I appreciate you helping out<03e0>without questioning me.<04e0>Here, take this.
-Maybe I need a man like you in my life.<04e0>Haha! I kid, I kid.
-You can find me in Genaade in Elysion.<03e0>In the meantime, I'll put in a good word<03e0>for you with my friends.
+Você já ouviu falar do Terceiro Comitê da Academia?<03e0>Considerando o que aconteceu com sua irmã, suponho<03e0>que sabe de quem estou falando.<04e0>Sabe, eu também não os tenho em grande estima,<03e0>e como já estão indo de mal a pior, estive pensando<03e0>em aproveitar a oportunidade para acabar com eles.
+Não me peça detalhes, porque não vou dar.<03e0>
+Não tenho palavras para expressar o que se passou.<03e0>A dor que eles me causaram é muito maior do que<03e0>você pode imaginar.<04e0>Mas finalmente temos a oportunidade de atraí-los para<03e0>campo aberto e destrui-los para sempre. Você topa?<03e0> <06e0000008e0000000000000>Definitivamente!<09e008e0010000000000>O que aconteceu com você?
+Vamos enfrentá-los na <1be0ffbe34ff>Planície de Luhang<1ce0>.<03e0>Isso deve pôr um fim nessa história...
+Partiremos agora.<03e0>Você está preparado?<06e0000008e0000000000000>Sim!<09e008e0010000000300>O quê? Não!
+Então vamos!
+Está com medo, hã?
+Você não tem medo da morte?
+Estamos indo acabar de vez com o Terceiro Comitê.<03e0>Sem perguntas. Vem com a gente ou não?<03e006e0000008e0000000000000>Vou sim.<09e008e0010000000000>Mas o que eles te fizeram?
+Vamos enfrentá-los na <1be0ffbe34ff>Planície de Luhang<1ce0>.<03e0>Isso deve pôr um fim nessa história...
+Partiremos agora.<03e0>Você está preparado?<06e0000008e0000000000000>Sim!<09e008e0010000000300>O quê? Não!
+Então vamos!
+Está com medo, hã?
+Você não tem medo da morte?
+Você quer saber se minhas feridas foram curadas?<03e0>
+Você deve estar de brincadeira...
+Medo e desespero não são nada comparados<03e0>com aquilo que passamos.<04e0>A única maneira de sobreviver nesse mundo<03e0>cheio de crueldade é permanecendo unidos.
+Mas você é diferente de todos os demais.<03e0>Agradeço por ter ajudado sem questionar.<03e0> <04e0>Fique com isso como amostra da minha gratidão.
+Talvez eu precise de alguém como você na minha vida.<04e0>Haha! Relaxa, garoto, era só brincadeira!
+Se precisar de mim, estarei no distrito de Genaade,<03e0>em Elysion. Enquanto isso, falarei bem de você<03e0>para minhas amigas...
 

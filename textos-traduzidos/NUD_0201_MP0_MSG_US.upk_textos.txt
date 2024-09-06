@@ -1,10 +1,10 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NUD_0201_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Is everything alright?<03e0>Should we return to Elysion?<06e0000008e0000000000000>Good idea.<09e008e00a0000000300>No, let's stay.
-Alright.<03e0>Let's return to Elysion.
-Alright. Let's keep going.
-Shall we return to Athlum?<06e0000008e0000000000000>Yup! Let's go.<09e008e0010000000300>Nah, not just yet.
-Let us leave for Athlum at once.
-We cannot keep Lord David waiting.<03e0>Finish your business quickly so we can move on.
+Está tudo bem?<03e0>Devemos voltar para Elysion?<06e0000008e0000000000000>Boa ideia.<09e008e00a0000000300>Não, vamos ficar.
+Tudo bem.<03e0>Vamos voltar para Elysion.
+Tudo bem. Vamos continuar.
+Não deveríamos voltar para Athlum?<06e0000008e0000000000000>Sim! Vamos lá.<09e008e0010000000300>Não, ainda não.
+Vamos logo para Athlum.
+Não podemos deixar Lorde David esperando.<03e0>Termine logo o que precisa fazer para podermos ir.
 

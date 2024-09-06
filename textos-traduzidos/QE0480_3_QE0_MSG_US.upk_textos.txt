@@ -1,24 +1,24 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0480_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hey, Leshau!<03e0>Where have you been!?
-Some Academy guys came out of nowhere and...
-The Brimuslabus was stolen.<03e0>Baaluk is done for...
-Everything's fine!
-A Collapse was coming.<03e0>Baaluk has been saved from disaster!
-It is true that the Brimuslabus hasn't been bound<03e0>to anyone since its last keeper passed away...
-What? That's your reason? I've been telling you<03e0>all this time, make me the ruler so I could bind<03e0>the Brimuslabus to myself!
-N-no way!<03e0>You just want to use it to expand your domain!<03e0>I should be the one to...
-A clown like yourself can't bring prosperity<03e0>to Baaluk!
-That's why...!
-That's why I asked the Academy to take<03e0>the Brimuslabus away.<04e0>Neither of you are fit to be the lord!<04e0>And with the Collapse...!
-The Remnant brings ill fortune to Baaluk.<04e0>Ridding the town of it was the best move.<03e0>We don't need a Remnant or a lord for this town<03e0>to flourish!
-What did you do...?
-I think Leshau has a point...
-No Remnant.<03e0>No lord.<03e0>How can you be certain we'll be fine?
-I know we will!<03e0>We just all have to work together!
-Rush, I'm sorry I wasn't honest with you about<03e0>what I was planning.<04e0>Please, take this as an apology and a reward<03e0>for saving Baaluk from danger.
-Perhaps you're right. If we all work together...<03e0>You must show people how it's done, Leshau!<03e0>You must set an example.
-Of course! I'll do anything for this town!
-Rush, if you ever need me, go to the guild!
+Ei, Leshau! Por onde você andou???<03e0>
+Alguns homens da Academia apareceram aqui e...
+O Brimuslabus foi roubado.<03e0>É o fim de Baaluk...
+Está tudo bem!
+Ele estava a ponto de produzir um cataclismo....<03e0>Baaluk se livrou de um desastre!
+E isso porque ninguém se vinculou ao Brimuslabus<03e0>desde que seu último guardião morreu...
+Como assim? Você está de brincadeira? Esse tempo todo<03e0>estive dizendo, me nomeie governador, para eu poder eu<03e0>mesmo me vincular ao Brimuslabus!
+De jeito nenhum! A única coisa que você queria era<03e0>usá-lo para poder expandir seus domínios! EU é que<03e0>deveria governar!
+Um pateta como você não poderia garantir de forma<03e0>alguma a prosperidade de Baaluk!
+Calem a boca!
+Foi por isso que pedi para a Academia levar embora<03e0>o Brimuslabus.<04e0>Nenhum de vocês é digno de governar!<04e0>E o cataclismo teria acabado com todos nós!
+O remanescente se tornaria a perdição de Baaluk.<04e0>Nos livrarmos dele foi o melhor que poderíamos fazer.<03e0>Essa cidade não precisa de um remanescente para ser<03e0>próspera. E muito menos de um senhor!
+Mas o que foi que você fez...
+Eu acho que Leshau tem razão.
+Sem remanescente... Sem senhor...<03e0>Como pode ter certeza de que ficaremos bem?<03e0>
+Eu simplesmente sei! Confiem em mim...<03e0>Tudo que temos de fazer é trabalharmos juntos!
+Rush, sinto muito por não ter sido sincero com você<03e0>sobre o que eu estava planejando.<04e0>Por favor, aceite minhas desculpas e pegue isso como<03e0>recompensa por salvar Baaluk.
+Talvez você tenha razão. Se nós trabalharmos juntos...<03e0>Você pode servir de exemplo para as pessoas, Leshau!<03e0>Elas certamente irão seguir você.
+Claro! Farei qualquer coisa por essa cidade!
+Rush, se algum dia precisar de mim, vá até a guilda!
 

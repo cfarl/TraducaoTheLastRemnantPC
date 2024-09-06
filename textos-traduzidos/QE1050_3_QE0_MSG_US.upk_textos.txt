@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1050_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I'll go straight to Balterossa from here. You've really<03e0>helped this time<07f0>this survey was a success.<04e0>Here, for you.
-The Great Sand Sea is an integral part of the world's<03e0>commerce. Cross the desert, and even you can find<03e0>some great new things.<04e0>Later!
+Daqui posso ir direto para Balterossa.<03e0>Muito obrigado pela ajuda. O traçado da rota<04e0>comercial foi um sucesso. Pegue, isso é para você.
+O Grande Mar de Areia é um verdadeiro eixo do<03e0>comércio entre os reinos. Do outro lado do deserto<03e0>se encontram coisas incríveis.<04e0>Nos vemos!
 

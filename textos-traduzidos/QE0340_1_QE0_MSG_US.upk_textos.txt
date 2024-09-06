@@ -1,10 +1,10 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0340_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Rush, thanks for coming.<03e0>I wanted to ask something of you before the others<03e0>get back.<04e0>I know this is short notice, but would you accompany<03e0>me to <1be0ffbe34ff>Fornstrand<1ce0>? We have a bit of free time, and<03e0>there is someone I am quite overdue to meet.<06e0000008e0000000000000>Yeah, why not?<09e008e0010000000300>Sorry, Dave. It's too far.
-Thank you, Rush.<04e0>Ferocious monsters spawn in <1be0ffbe34ff>Fornstrand<1ce003e0>this time of year.<03e0>We must be careful.
-Oh...<03e0>Well, I'm sure you're busy.<03e0>Sorry for bothering you.
-Would you accompany me to <1be0ffbe34ff>Fornstrand<1ce0>?<03e0>There's someone I want to catch up with while<03e0>I have some free time.<06e0000008e0000000000000>Sure, why not?<09e008e0010000000300>Sorry, Dave. It's too far.
-Thank you for accompanying me.<04e0>This isn't much, but please<03e0>take this.
-Athlum has just barely begun to<03e0>hold her own.<04e0>With the help of everyone, I want to turn<03e0>her into a city that will be looked up to and admired.
+Rush, obrigado por vir. Queria te pedir um favor,<03e0>antes dos outros voltarem.<03e0> <04e0>Sei que é um pedido em cima da hora, mas será que<03e0>pode me acompanhar até <1be0ffbe34ff>Fornstrand<1ce0>? Agora que temos<03e0>tempo livre, queria ir até lá para visitar alguém...<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Desculpa, é muito longe.
+Obrigado, Rush.<04e0>Monstros ferozes costumam aparecer em <1be0ffbe34ff>Fornstrand<1ce003e0>nessa época do ano. Precisamos ter cuidado.<03e0>
+Ah... Claro, tenho certeza de que está ocupado.<03e0>Não queria te incomodar.<03e0>
+Você pode me acompanhar até <1be0ffbe34ff>Fornstrand<1ce0>?<03e0>Agora que temos um pouco de tempo livre, gostaria<03e0>de visitar alguém.<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Desculpa, é muito longe.
+Obrigado por me acompanhar.<04e0>Sei que não é muito, mas por favor aceite isso.<03e0>
+Finalmente Athlum está começando a tomar<03e0>as rédeas do seu próprio destino.<04e0>Com a ajuda de todos, quero transformá-la<03e0>em uma cidade que seja digna de admiração.
 

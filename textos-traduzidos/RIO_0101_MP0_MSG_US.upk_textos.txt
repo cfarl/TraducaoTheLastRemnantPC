@@ -1,136 +1,136 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) RIO_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Hey there, buddy! This's the heart of the mining<03e0>city of Royotia, Byon Sector. There ain't much<03e0>to do, but feel free to make yourself at home.<04e0>That range of mountains over there is the Altonas.<03e0>Mt. Altona's actually a volcano, and if it ever<03e0>blew its top, we'd all be barbeque.<04e0>But it's okay, 'cause we got that big rock there<07f003e0>that's the Emeth Tag. It keeps the volcano in check.
-[[2nd level message]]
-[[3rd level message]]
-Hey, buddy! Welcome to Byon. There ain't much<03e0>to do, but if you're looking for a miner, you're<03e0>in the right place.<04e0>Lately, the big man, Lord Priam, seems to've<03e0>come down with something... The usual<03e0>medicines and potions ain't working, neither.<04e0>All of us miners've been doing our best to<03e0>figure out how to get him better.
-[[5th level message]]
-[[6th level message]]
-Hey kid, what're you doin' in Byon?<04e0>What, you been underground too long? Check<03e0>out the Altonas.<04e0>Ever since that Conqueror goon stole the<03e0>Emeth Tag, the volcano's been getting ready to<03e0>blow.<04e0>There ain't nothing we can do but get out of<03e0>its way...<04e0>You'd better get a move on too, unless you're<03e0>a fan of being roasted alive.
-[[5th level message]](after the Remnant is stolen)
-[[6th level message]](after the Remnant is stolen)
-Psst! Boy, hey boy!<03e0>This ain't somethin' you should go blabbing all<03e0>over, but...<04e0>I hear the little Lord Paris's been makin' eyes<03e0>at the daughter of the Duchess of Balterossa.<04e0>She's a sweet li'l thing, she is, not a lick like<03e0>that harpy of a mother...<04e0>Thing is, with the trade route kerfuffle 'tween<03e0>us and Balterossa, Lord Paris can't just go<03e0>layin' down the charm, if you know what I mean.<04e0>Star-crossed lovers an' all... Can't help but feel<03e0>bad for 'em, eh?
-[[2nd level message]]
-[[3rd level message]]
-Psst! Boy, hey boy!<03e0>This ain't somethin' you should go blabbing all<03e0>over, but...<04e0>That kerfuffle about the trade routes heated<03e0>up, and for a bit we were about to have full-out<03e0>war with Balterossa.<04e0>Oh, but here's the good part!<04e0>So, little Lord Paris and that sweet thing from<03e0>Balterossa got together and ran all the way to<03e0>the battlefield! Defused the whole situation.<04e0>Ahh, kids in love... They can change the world,<03e0>they can. I remember those days...
-[[5th level message]]
-[[6th level message]]
-Psst! Boy, hey boy!<03e0>This ain't somethin' you should go blabbing all<03e0>over, but...<04e0>Ever since the Conqueror took our Emeth Tag,<03e0>our dormant volcano's been getting a lot less<03e0>dormant.<04e0>If Mt. Altona erupts, this whole place'll be<03e0>covered in lava and ash!<04e0>...Eh? That's already common knowledge?<04e0>Well. You didn't have to be so snippy about it.<03e0>Either way, I didn't get this old by standing in<03e0>the path of active volcanoes! Time for me to go!
-[[5th level message]](after the Remnant is stolen)
-[[6th level message]](after the Remnant is stolen)
-What're you doing here, boy? Think ya can mine<03e0>with those shriveled excuses fer arms?<03e0>Run over to the tavern and try eating fer once!<04e0>If ya need a buddy to help ya out, try upstairs<07f003e0>if yer little stick legs can get you that far!<03e0>The guild's full of guys that'll help you for a price.
-[[2nd level message]]
-You heard about Lord Priam's sickness, right?<04e0>We been meetin' to talk 'bout it every night in<03e0>the pub after work. There's gotta be somethin'<03e0>we can do to get him well again...<04e0>Th' whole thing's just crazy, yanno? Lord<03e0>Priam's the healthiest guy in Royotia. He ain't<03e0>never been sick before, not once.<04e0>Too bad all we've figured out so far is a whole<03e0>night of drinkin' packs a punch to your<03e0>paycheck!
-[[4th level message]]
-That bastard Conqueror stole our Emeth Tag,<03e0>but the rumor 'round the pub is that there's<03e0>somethin' worse behind Altona heatin' up...<04e0>Supposedly, like hundreds of years ago some<03e0>evil bird was sealed under Royotia, an' it<03e0>wakin' up is wakin' the volcano, too.<04e0>Sounds blazin' ridiculous, don't it? But either<03e0>way, if the volcano blows, we're all goners.<03e0>Wonder if Ghor needs any miners...
-[[4th level message]](after the Remnant is stolen)
-Long ago, terrible earthquakes shook the land<03e0>here every day.<03e0>It was unlivable.<04e0>One man bound himself to the Emeth Tag, and<03e0>from then on, the volcano was calm.<03e0>That man became the first ruler of Royotia.<04e0>Lord Priam, and of course, his son Paris,<03e0>are the First's direct descendants.<04e0>Lord Priam is a very disciplined and dependable<03e0>man. Conversely, Paris is sensitive and kind...<03e0>much like his mother, may she rest in peace.
-[[2nd level message]]
-Lord Priam's poor health is completely<03e0>unprecedented. For him to be in such a state...<03e0>could it really be due to mere illness?<04e0>It's only a rumor I picked up from the<03e0>merchants, but the rulers of other lands<03e0>have been struck by similar illnesses.<04e0>Such a thing is completely unheard of...and<03e0>crosses the line from mysterious to suspicious.<04e0>Where are you from, son? Is not your<03e0>ruler suffering as well?
-[[4th level message]]
-Half a year ago, a piercing shriek came from Mt.<03e0>Altona. It was like the call of a giant bird...<03e0>Directly after the volcano started to rumble.<04e0>Then a man appeared... Dressed all in red, he<03e0>came to the city and took away the Emeth Tag.<04e0>Certainly, every able man fought to try and stop<03e0>the man. But no matter how we tried, not a<03e0>single one of us could touch him.<04e0>It's so humiliating... We couldn't even protect<03e0>our own city...
-[[4th level message]](after the Remnant is stolen)
-Believe it or not, I haven't been spending my<03e0>years longing to chit-chat with some mitra child.
-Are you truly as imbecilic as you look?<03e0>I have nothing to say to you.<04e0>Ugh, I have absolutely no idea how Torgal can<03e0>stand to live around such idiots.
-I have no idea how Torgal stands to live around<03e0>such idiots without killing himself...or you.
-You again?<04e0>That reminds me... The smallest of your Four<03e0>Generals was saying... "My, Allan, even though<03e0>you're sovani too, you act so differently!"<04e0>What the hell is that supposed to mean!? Trying to<03e0>insult me, is that it? That qsiti's getting too big<03e0>for its nonexistent britches, don't you think?<04e0>Next time you see that little thing, you'd better<03e0>tell him to watch his abnormally long tongue if<03e0>he wishes to keep it!<04e0>...<04e0>No. It's not worth getting this worked up over<03e0>a tiny thing like this. Just...forget about this, boy.
-Rrgh... I can't let myself be baited by the words<03e0>of some pathetic qsiti...
-You again.<04e0>That reminds me... I saw Torgal get angry at one<03e0>of your Four Generals...that hulking lump of a<03e0>fish-man.<04e0>And all over something as insignificant as sneaking<03e0>food. Ah, the lofty concerns of the famed Four<03e0>Generals...simpletons.<04e0>You know, I'd never seen him make such an overt<03e0>reaction before, never. In fact, the prideful bastard<03e0>would brag that only fools would show any emotion...<04e0>Good god, what in the seven hells happened to<03e0>you, Torgal!? How could you change so, you<03e0>hypocritical<07f004e0>...<04e0>Tsk...not again... Ugh, what is making me so angry?<03e0>Even he is not worth that. It must be a side-effect<03e0>of having to debase myself to talk to you!
-Rrgh... I can't believe I let myself get this worked<03e0>up over Torgal, no matter how galling he acts...
-Hmph, you again.<04e0>It seems that Torgal has found someone else he's<03e0>willing to confide in. Someone other than me... Well.<03e0>Fine. It's fine. I'm glad to be rid of his piddling concerns.<04e0>...What. What is that look for? Are you laughing at<03e0>me? Let's see if you're still laughing when I rip you<03e0>limb from limb!<04e0>...<04e0>...That is,<03e0>I believe now I understand why Torgal keeps you<03e0>around. You people do keep things lively, don't you?<04e0>I never felt this way when I lived apart from<03e0>you other races.<04e0>I always considered those who let themselves be<03e0>rankled by little things to be ridiculously foolish.<04e0>And yet, after having spent this time traveling<03e0>with you people, I've found myself increasingly<03e0>burdened by these...feelings.<04e0>Odd... As time passes, the less I've thought that<03e0>to be a bad thing... You people are truly the strangest<03e0>group I have ever had the displeasure of meeting.<04e0>I had planned to leave such a cloyingly buddy-buddy<03e0>group at once, but for some reason you amuse me...<03e0>Perhaps I'll stick around a bit longer.<04e0>...What's that look for? You don't like it!? Don't<03e0>think I was joking about that limb-from-limb bit.
-What do you want?<04e0>I've decided I'll go with you people for a little longer.
-Ah<07f0>Rush! You startled me. To be honest, I'm trying to<03e0>lay low for a bit. Could you leave me be for now?
-Ehh!?<03e0>A-ahh, Rush...<04e0>...<04e0>Well, so long as we're to be fighting together,<03e0>there's no need to keep hiding this from you,<03e0>I suppose...<04e0>I don't know if you know it or not, but I was<03e0>once a general in the Celapaleian army.<04e0>I'm not the strongest of people, but my pride and<03e0>devotion to my position is still unmatched by anyone.<04e0>However...<03e0>Everything changed after...<04e0>Hum hum?<04e0>That yama over there<07f0>did he just move? He did,<03e0>didn't he? ...I'm sorry, this is all I can say for now.<03e0>Constant vigilance, after all...<04e0>For now, please let me alone.
-Forgive me, Rush.<03e0>For now, please leave me alone.
-Hmm...<03e0>Seems like that yama isn't here today.<04e0>Alright, then...<03e0>Let me continue from last time.<04e0>Why is it that I, a former general of the Celapaleian<03e0>army, am now scuttling about, on the run...?<04e0>It's due to the secrets I know...secrets about my<03e0>lord, Duke Qubine.<04e0>Let me tell you, life as a fugitive is not the fun that<03e0>it seems. But of late, I've been impressed by how<03e0>long I've been able to run, if I may say so myself.<04e0>I mean, the search for me is a direct order from<03e0>Duke Qubine. It is something to catch the attention<03e0>of the majority of Celapaleis's army.<04e0>Ho ho ho!<03e0>Didn't expect that, now did you!<04e0>Hwha<07f0>?<04e0>Rush<07f0>did you see that?<03e0>Just now, over there, on that wagon! That qsiti<03e0>looks mighty suspicious!<04e0>No...I had best not say anything further.<03e0>Go, get away...you don't know me.
-Not now<07f0>who knows who is watching us?
-Oh, Rush. Is it time to leave yet?<04e0>Lately, it seems my pursuers have increased in<03e0>number and tenacity... I'd like to avoid staying in<03e0>public places for too long if at all possible.<04e0>Hrm.<03e0>It seems as if my flight is about to come to an end...<04e0>No, no need to worry. I've no intention of giving up<03e0>now. I'll continue to run so long as my feet will move.<04e0>However... If something were to happen to me, I<03e0>want you to flee, and don't turn back. I have no<03e0>intention of causing trouble for you or Pagus.<04e0>You know, since meeting up with you all, even<03e0>these days as a fugitive have been truly enjoyable.<03e0>...I probably should speak to Sibal as well.<04e0>Alright. Go on, go on.
-This time traveling with you all has truly<03e0>been enjoyable.<03e0>I should go speak with Sibal as well...
-Oh, Rush!<03e0>Is it true that Duke Qubine's been struck down<03e0>by some unknown illness?<04e0>Hrn... That Conqueror...it must be his doing. In the<03e0>end, we weren't able to catch him after all...<04e0>Hm? What's that look for?<04e0>Oh, yes...forgive me.<03e0>I suppose I have some explaining to do...<04e0>In truth, I was given a special mission by Duke<03e0>Qubine<07f0>to gather information on the Conqueror.<03e0>Sadly, I was unable to find much of use...<04e0>But, I am quite an actor, hm? I had you and Sibal<03e0>all thinking I was some delusional old man, didn't I!<04e0>Ho ho ho ho ho!<03e0>Come now, don't be angry. It was a cover story...<03e0>Nothing personal, I assure you.<04e0>...<04e0>Rush. It's terrible to think of, but the Conqueror<03e0>still lives. If left to do as he pleases, the world will<03e0>once again be thrown into confusion.<04e0>I want to stop that from happening at any cost.<03e0>...Consider it the final request of an old man who's<03e0>spent the better part of his life fighting.<04e0>And, that's how things are. I hope to continue to<03e0>have your help into the future. I'm counting on you!
-Oh! Hello there, Rush. Lately my pursuers have<03e0>decreased by quite a bit... I can't decide if that's<03e0>a good thing or not, however.
-Hm?<03e0>A plot to tunnel beneath Ghor Castle?<03e0>Ho ho ho ho ho!<04e0>Really now, do you think the Duke of Ghor<03e0>would allow such a thing?<04e0>Goodness, Sibal has gone on about that for years,<03e0>no point in trying to change his mind now. Can't<03e0>teach old Jhana new tricks, you know?
-Huh?<03e0>What're you doing here, old lady?
-Wha<07f0>excuse me?<03e0>Do I even know you?
-Oh, oops.<03e0>Um, I thought you were someone else...
-Hmph! Make sure you have the right<03e0>person next time!
-S-sorry...
-Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
-Calling someone "old lady" is rude and inconsiderate...<03e0>especially when they aren't old!
-Hm? You again.
+Fala aí, parceiro! Você se encontra no setor Byon, o<03e0>coração da cidade mineira de Royotia. Aqui não tem<03e0>muita coisa para se fazer, mas fique à vontade.<04e0>Está vendo aquelas montanhas ali? São as Altonias.<03e0>E aquele é o monte Alton. Ele é um vulcão, e se um<03e0>dia entrar em erupção vamos virar churrasquinho.<04e0>Mas fique tranquilo, não há porque se preocupar.<03e0>O Emeth Tag mantém o vulcão sob controle.
+[[Mensagem do nível 2]]
+[[Mensagem do nível 3]]
+E aí, parceiro! Seja bem-vindo a Byon. Não há muito<03e0>para se fazer aqui, mas se estiver procurando algum<03e0>minerador, então veio ao lugar certo.<04e0>Parece que nosso governador, lorde Priam, contraiu<03e0>uma doença rara... E os medicamentos comuns não<03e0>estão adiantando de nada.<04e0>Todos nós estamos procurando algum remédio que possa<03e0>ajudá-lo a se recuperar.
+[[Mensagem do nível 5]]
+[[Mensagem do nível 6]]
+Ei garoto, o que está fazendo aqui em Byon?<04e0>Como? Você está cansado de ficar embaixo da terra?<03e0>Pois então vá dar uma volta pelas Altonias.<04e0>Desde que aquele desgraçado do Conquistador roubou o<03e0>Emeth Tag, tudo indica que o vulcão poderá entrar<03e0>em erupção a qualquer momento.<04e0>Parece que não há nada que possamos fazer, a não ser<03e0>sair do seu caminho...<04e0>No seu lugar, eu cairia fora também... a não ser que<03e0>queria acabar assado à moda da casa.
+[[Mensagem do nível 5]](após levarem o Remanescente)
+[[Mensagem do nível 6]](após levarem o Remanescente)
+Psst! Garoto, ei garoto! Sim, você mesmo! Vem cá!<03e0>Olha, não é bom sair comentando por aí, mas...<03e0> <04e0>Ouvi dizer que o jovem lorde Paris anda de olho na<03e0>filha da duquesa de Balterossa.<04e0>Isso não me estranha, na verdade... Ela é uma garota<03e0>encantadora, bem diferente da megera da sua mãe...<04e0>Acontece que, por causa da confusão da rota comercial<03e0>envolvendo Royotia e Balterossa, lorde Paris não pode<03e0>mais ficar jogando seu charme por aí, entende?<04e0>Esses pobres pombinhos apaixonados tem os dois lados<03e0>contra eles... É uma pena, você não acha?
+[[Mensagem do nível 2]]
+[[Mensagem do nível 3]]
+Psst! Garoto, ei garoto! Sim, você mesmo! Vem cá!<03e0>Olha, não é bom ficar comentando essas coisas por<03e0>aí, mas...<04e0>Aquela confusão com Balterossa por causa das rotas<03e0>comerciais ficou bastante crítica. Chegamos ao ponto<03e0>de quase iniciar uma guerra entre as cidades.<04e0>Mas sabe como a história terminou?<04e0>O jovem lorde Paris e aquela moça encantadora<03e0>de Balterossa se reconciliaram e foram até o<03e0>campo de batalha para deter a guerra!<04e0>Ah, jovens apaixonados... seus sentimentos às vezes<03e0>podem mudar o mundo. Isso me lembra meus tempos...
+[[Mensagem do nível 5]]
+[[Mensagem do nível 6]]
+Psst! Garoto, ei garoto! Sim, você mesmo! Vem cá!<03e0>Olha, não é bom sair comentando essas coisas por<03e0>aí, mas...<04e0>Desde que o Conquistador levou embora o Emeth Tag,<03e0>parece que o monte Alton não está mais assim<03e0>tão dormente.<04e0>E se o vulcão entrar em erupção, todo esse povoado<03e0>vai terminar debaixo de lava e cinzas!<04e0>...Como? Todo mundo já está sabendo disso?<04e0>Tudo bem, você não precisava ter respondido assim...<03e0>Olha, não cheguei nessa idade arriscando a sorte,<03e0>por isso vou fugir para o longe possível do vulcão.
+[[Mensagem do nível 5]](após levarem o Remanescente)
+[[Mensagem do nível 6]](após levarem o Remanescente)
+O que está fazendo aqui, garoto? Não está pensando<03e0>em ir trabalhar na mina com esses bracinhos finos,<03e0>não é mesmo? Vá comer algo, para ver se cresce!<04e0>Se estiver precisando de ajuda pode perguntar lá em<03e0>cima, na guilda... mas só faça isso se puder subir as<03e0>escadas com essas suas perninhas de frango!
+[[Mensagem do nível 2]]
+Você já sabe que lorde Priam está doente, não sabe?<04e0>Todas as noites, depois do trabalho, nos reunimos na<03e0>taverna para falar sobre esse assunto. Tem de haver<03e0>algo que possamos fazer para que ele se recupere...<04e0>Isso tudo não faz sentido, sabe? Lorde Priam sempre<03e0>foi a pessoa mais forte de Royotia... Ele nunca havia<03e0>ficado doente antes, até esse momento...<04e0>O pior de tudo é que até agora só descobrimos que se<03e0>continuarmos bebendo na taverna a noite toda nosso<03e0>pagamento não vai durar até o fim do mês!
+[[Mensagem do nível 4]]
+Aquele desgraçado do Conquistador roubou o nosso<03e0>Emeth Tag, mas andam dizendo na taverna que a<03e0>situação é ainda mais grave do que imaginávamos...<04e0>Dizem que centenas de anos atrás um pássaro do mal<03e0>foi aprisionado nas profundezas de Royotia. Agora<03e0>ele está despertando... e com ele também o vulcão.<04e0>Isso parece ridículo, não é mesmo? Mas mesmo assim,<03e0>se o vulcão entrar em erupção, vamos todos morrer.<03e0>Será que em Ghor estão precisando de mineradores?
+[[Mensagem do nível 4]](após levarem o Remanescente)
+Há muito tempo atrás, grandes terremotos assolavam<03e0>essa região, todos os dias. E os terremotos eram tão<03e0>terríveis que ninguém podia viver aqui.<04e0>Então um dia, um homem se vinculou ao Emeth Tag, e<03e0>a partir de então o vulcão se acalmou. Aquele homem<03e0>se tornou o primeiro governador de Royotia.<04e0>Lorde Priam, assim como seu filho Paris, são ambos<03e0>descendentes diretos de sua linhagem.<04e0>Lorde Priam é um homem disciplinado e confiável.<03e0>Paris, por sua vez, é um jovem sensível e generoso,<03e0>assim como era sua mãe, que em paz descanse.
+[[Mensagem do nível 2]]
+A enfermidade de Lorde Priam nos pegou de surpresa.<03e0>Nós nunca tínhamos visto ele nesse estado. Será que<03e0>isso é mesmo uma simples doença?<04e0>Escute... Isso é só um boato que está circulando entre<03e0>os mercadores, mas estão dizendo que os governantes<03e0>de outras cidades também estão doentes.<04e0>É a primeira vez que vejo algo assim... e se for mesmo<03e0>verdade, mais que um mistério, isso é muito suspeito.<04e0>De onde você está vindo, garoto?<03e0>Seu governante também está doente?
+[[Mensagem do nível 4]]
+Há cerca de seis meses atrás escutamos um guincho<03e0>agudo vindo do Monte Alton. Parecia o grasnido de um<03e0>pássaro. Pouco depois, o vulcão começou a despertar.<04e0>Então um homem vestido de vermelho apareceu<03e0>na cidade... e levou embora o Emeth Tag.<04e0>Todos os homens daqui se juntaram para detê-lo, é<03e0>claro, mas apesar de tudo que fizeram para tentar<03e0>impedi-lo, nenhum de nós foi capaz de pará-lo.<04e0>Que humilhação... Não conseguimos sequer proteger<03e0>nossa própria cidade...
+[[Mensagem do nível 4]](após levarem o Remanescente)
+Você pode até não acreditar nisso, mas ficar jogando<03e0>conversa fora com um garoto mitra não é para mim.
+Será que você é mesmo um idiota, ou só finge ser?<03e0>Não tenho nada para dizer a você, garoto...<04e0>Aff, não sei como é que Torgal suporta viver rodeado<03e0>de tantos imbecis.
+Não sei como é que Torgal suporta viver rodeado de<03e0>tantos imbecis sem se matar...ou matar vocês.
+Você de novo? Estou aqui sem acreditar...<04e0>Aquele nanico viscoso que vocês chamam de "general"<03e0>acabou de me dizer que, mesmo sendo Torgal e eu<03e0>sovanis, somos muito diferentes um do outro...<04e0>O que diabos ele quis dizer como isso? Será que<03e0>estava tentando me atacar? Aquele qsiti deve estar<03e0>se achando muita coisa, não é mesmo?<04e0>Se você encontrar aquele girino de água doce,<03e0>diga a ele que é melhor aprender a manter a boca<03e0>fechada, ou vou enforcá-lo com sua língua de sapo!<04e0>...<04e0>Enfim... Não vale a pena perder a cabeça por causa<03e0>de uma coisa pequena dessas. Esqueça isso, garoto.
+Argh... Não posso perder a cabeça por causa dos<03e0>comentários de um qsiti estúpido...
+Oras.... é você de novo.<04e0>Isso me lembra que, um momento atrás, vi Torgal<03e0>dando uma bronca em um dos quatro generais...<03e0>naquele brutamontes com cara de peixe.<04e0>E tudo isso por causa de uma coisa insignificante<03e0>como roubar comida da despensa. Ah, que grandes<03e0>preocupações tem os famosos quatro generais, heim!<04e0>Sabe, nunca tinha visto Torgal tendo uma reação<03e0>daquelas, nunca. Na verdade, o cretino orgulhoso<03e0>sempre dizia que só os tolos revelam suas emoções...<04e0>Santo deus, Torgal, o que aconteceu com você?<03e0>Como pôde permitir que te mudassem dessa forma, seu<03e0>hipócrita?<04e0>...<04e0>Tsk... de novo não... Aff, não sei porque perco a<03e0>cabeça. Ele não merece. Acho que de tanto falar com<03e0>cretinos como você minha paciência está acabando.
+Argh... não posso deixar que a atitude de Torgal me<03e0>faça perder a cabeça, por pior que ela tenha sido...
+Hmph, você de novo.<04e0>Parece que Torgal encontrou outra pessoa em quem<03e0>possa confiar. Alguém além de mim... Tudo bem. Assim<03e0>não preciso aguentar seus problemas insignificantes.<04e0>...O que foi? Porque essa cara? Você está rindo de<03e0>mim? Vamos ver se vai continuar sorrindo depois que<03e0>eu tiver esquartejado você e seus amigos!<04e0>...<04e0>...É isso,<03e0>acho que comecei a entender porque Torgal tolera sua<03e0>companhia. Vocês mantêm as coisas animadas, não é?<04e0>Sempre vivi afastado das outras raças, e por isso<03e0>nunca havia pensando nisso antes.<04e0>Sempre acreditei que somente os tolos se deixavam<03e0>ser afetados por coisas pequenas.<04e0>No entanto, depois de ter passado todo esse tempo<03e0>viajando com vocês, sinto cada vez mais o peso<03e0>dessas... emoções.<04e0>O estranho é que estou cada vez mais convencido de<03e0>que isso não é algo ruim. Sabe, vocês são as pessoas<03e0>mais estranhas que tive o desprazer de conhecer.<04e0>Estava pensando em fugir desse seu sentimentalismo<03e0>repulsivo assim que pudesse, mas por algum motivo<03e0>isso me diverte... Talvez eu fique mais um tempo.<04e0>Porque essa cara? Não gostou? Não pense que estava<03e0>de brincadeira sobre esquartejar você e seus amigos.
+O que você quer?<04e0>Já te disse que decidi ficar, não disse?
+Rush! Que susto... Não me leve a mal, mas estou<03e0>tentando passar despercebido. Pode me dar um tempo?
+AAAH!<03e0>Rush! É você! Que susto você me deu!<04e0>...<04e0>Bem, já que vamos continuar lutando juntos por um<03e0>bom tempo, tem uma coisa que eu deveria te contar...<03e0>Ou pelo menos, acho que deveria contar.<04e0>Não sei se você já está sabendo, mas antigamente eu<03e0>era um general do exército de Celapaleis.<04e0>Não era o melhor lutador do mundo, mas a lealdade e<03e0>orgulho que tinha da minha posição eram sem igual.<04e0>No entanto...<03e0>Tudo isso mudou depois que...<04e0>Hum?<04e0>É impressão minha ou aquele yama está nos vigiando?<03e0>Ele estava olhando, não estava? Melhor eu me calar.<03e0>Não posso baixar a guarda nem por um instante!<04e0>Por favor, deixe-me a sós...
+Sinto muito, Rush.<03e0>Por favor, deixe-me a sós...
+Hmm...<03e0>Parece que aquele yama não está por aqui hoje...<04e0>Tudo bem, então...<03e0>Vamos continuar de onde parei.<04e0>Você deve estar se perguntando porque um ex general<03e0>do exército de Celapaleis está fugindo da justiça.<04e0>É por causa dos segredos que conheço... segredos<03e0>sobre o duque de Qubine.<04e0>Deixa eu te falar, viver como fugitivo não tem a<03e0>menor graça, mas confesso que estou impressionado<03e0>por ainda não terem conseguido me encontrar.<04e0>Afinal de contas, a ordem de busca e captura contra<03e0>mim veio diretamente do duque de Qubine. Todo o<03e0>exército de Celapaleis está atrás de mim.<04e0>Ho ho ho!<03e0>Por essa você não esperava, não é mesmo?<04e0>Um momento...<04e0>Rush, você viu aquilo?<03e0>Há um qsiti bem suspeito ali, em cima daquela<03e0>carroça!<04e0>Não... É melhor eu não te contar mais nada.<03e0>Vá embora... finja que não me conhece.
+Agora não... Não sabemos se há alguém nos vigiando!
+Olá, Rush. Será que podemos ir para outro lugar?<04e0>Ultimamente parece que meus perseguidores aumentaram<03e0>tanto em número quanto em tenacidade... Por isso é<03e0>melhor eu evitar lugares públicos por um tempo.<04e0>Hrm.<03e0>Talvez meus dias de fugitivo estejam terminando.<04e0>Não, não se preocupe comigo. Não vou me dar por<03e0>vencido. Vou continuar me escondendo enquanto puder.<04e0>No entanto, se alguma coisa acontecer comigo quero<03e0>que siga em frente, sem olhar para trás. Não quero<03e0>causar nenhum problema para você, nem para o Pagus.<04e0>Sabe, desde que conheci vocês, até mesmo esses<03e0>dias como fugitivo tem sido bastante agradáveis.<03e0>...Acho que devo falar com Sibal também.<04e0>Mas tudo bem. Vamos lá, vamos seguir nosso caminho.
+Esse tempo viajando com vocês tem sido muito<03e0>agradável.<03e0>Acho que devo falar com Sibal também...
+Oh, Rush!<03e0>É verdade que o duque de Qubine foi<03e0>afligido por uma doença desconhecida?<04e0>Hrn... Aquele tal Conquistador deve estar por trás<03e0>disso. No final, não fomos capazes de capturá-lo...<04e0>Hm? Porque essa cara?<04e0>Ah, sim... me perdoe.<03e0>Acho que te devo uma explicação...<04e0>Veja, o duque de Qubine me encarregou de uma missão<03e0>altamente confidencial: conseguir informações sobre<03e0>o Conquistador. Infelizmente, não descobri muito...<04e0>Mas você não pode dizer que não sou um bom ator, hã?<03e0>Todos pensaram que eu era um velho paranoico, não é?<04e0>Ho ho ho ho ho!<03e0>Vamos lá, não fique bravo. Era só um disfarce...<03e0>Não foi nada pessoal, posso te garantir.<04e0>...<04e0>Rush. Sei que é terrível pensar nisso, mas o<03e0>Conquistador ainda continua vivo. Se não o determos,<03e0>ele acabará espalhando o caos pelo mundo inteiro.<04e0>Não posso permitir que isso aconteça.<03e0>Considere isso como o último desejo de um velho que<03e0>passou a maior parte da sua vida lutando.<04e0>Enfim, a vida é assim... Espero continuar contando<03e0>com sua ajuda no futuro.
+Oh! Olá, Rush. Quer saber de uma coisa? Ultimamente<03e0>tenho visto menos pessoas me perseguindo...<03e0>Será que isso é um bom sinal?
+Hã?<03e0>Um túnel embaixo do Castelo de Ghor?<03e0>Ho ho ho ho ho!<04e0>Fala sério... você acha mesmo que o duque de Ghor<03e0>iria permitir uma coisa dessas?<04e0>Sibal está trabalhando nesse projeto há anos... Não<03e0>há como tirar essa ideia da sua cabeça. Um cachorro<03e0>velho não aprende truques novos, sabia?
+Hã? O que está fazendo aqui, senhora?<03e0>
+Senhora? COMO SE ATREVE? Nem sei quem você é, eu ao<03e0>menos te conheço???
+Ops... Acho que confundi você com outra pessoa.<03e0>É que vocês são muito parecidas...
+Hmph! Na próxima vez, então, tenha certeza de estar<03e0>falando com a pessoa certa antes de abrir a boca!
+E-eu... Sinto muito...
+Hmph... Dessa vez vou deixar passar. Mas que<03e0>isso não volte a se repetir, está me ouvindo?
+Chamar uma dama como eu de "senhora" é uma tremenda<03e0>falta de respeito. Não sou tão velha assim!
+Hm? Oras, é você de novo.
 Uh.
-You don't look happy to see me.
-Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
-Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
-Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
-Thank you.
-You're not as inconsiderate as I thought.
-You're looking well.
-Heya, Ms. Young Maiden.
-Could you please not call me that?<03e0>It sounds ridiculous, to say the least.
-Well, it's not like I know your name.
-Oh?
+Você não parece feliz de me ver.
+Eh, n-não, não é isso! É que... Enfim, senh...<03e0>er, jovem donzela, o que está fazendo aqui?<03e0>
+Estou em treinamento. Na minha família temos como<03e0>tradição viajar o mundo ao chegar na vida adulta.<03e0>
+Huh... isso não deve ser nada fácil...<03e0>Então... Sabe... Tenha cuidado, tá?
+...Ahh. Obrigada.
+Parece que seus modos andaram melhorando....
+Você parece muito bem.
+Olá, senhorita... aham... jovem donzela...
+Será que pode fazer o favor de não me chamar assim?<03e0>É que soa um pouco ridículo, para falar a verdade.
+Bem... é que ainda não sei seu nome.
+Hã?
 ...
-The name's Emmy.
-Nice to meet you for real, finally.<03e0>I'm<07f001e00be00ae0>
-Rush. Rush Sykes.<03e0>Right?
-Wha<07f0>? How did you know!?
-I have my ways.
-Take care, Rush.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-What? Do you need something?
-What do you want?
-Have you seen Lord David?<04e0>I do not feel comfortable letting him alone.<03e0>If you see him, please tell him I am looking for him.
-What a troublemaker...
+Pode me chamar de Emmy.
+Fico contente de conhecê-la, finalmente.<03e0>Eu sou...<01e00be00ae0>
+Não precisa dizer.<03e0>Seu nome é Rush Sykes, não é?
+Co.... Como você sabia?
+Tenho meus recursos.
+Se cuide, Rush.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Sim? Você precisa de alguma coisa?
+O que você quer?
+Você viu Lorde David?<04e0>Não gosto que ande sozinho por aí... Se você<03e0>o encontrar, diga que estou procurando por ele.
+Encrenqueiro...
 ...
-On the surface, it does not seem like this place<03e0>has changed very much...<04e0>That said, it is no place to let Lord David run about<03e0>unsupervised.<03e0>If you see him, tell him I am looking for him.
-You haven't seen Lord David?
-If it was only going to be stolen anyway, we should<03e0>have taken the Remnant ourselves...<04e0>...No, Lord David would never have stood for it.
-Please forget I said anything.
-The Remnant Ark...<03e0>Surely there must be a similar Remnant elsewhere<03e0>in the world...
-I can think of nothing...
-Lord David is as prepared as he can be.<04e0>All I have to do is to follow.
-Ahh... What a spectacular Remnant.<03e0>It just has a certain presence, doesn't it?<03e0>I feel as if I'd never tire of looking at it...<04e0>However...<03e0>It doesn't look all that different from any<03e0>other rock, does it...
-Incredible...
+À primeira vista, não parece que esse lugar<03e0>tenha mudado tanto assim...<04e0>Mas não é uma boa ideia deixar que Lorde David ande<03e0>sozinho por aí. Se você o encontrar, diga que estou<03e0>procurando por ele.
+Você não viu Lorde David?
+Se soubéssemos que alguém roubaria o Remanescente,<03e0>poderíamos ter levado ele embora nós mesmos...<04e0>...Não, Lorde David não teria permitido isso.
+Por favor, esqueça que disse isso.
+O Arca...<03e0>Deve haver algum outro Remanescente parecido com<03e0>ele em algum lugar do mundo...
+Só não consigo imaginar onde...
+Lorde David está tão preparado quanto poderia estar.<04e0>Tudo que devo fazer é segui-lo.
+Ahh... que Remanescente extraordinário.<03e0>Ele possui um certo encanto, não é verdade?<03e0>Acho que nunca me cansaria de olhar para ele...<04e0>Mas observando melhor...<03e0>Ele não parece muito diferente de qualquer<03e0>outro pedaço de pedra, não é mesmo?
+Incrível...
 ...
-After learning of Remnants disappearing the world over,<03e0>I'd become more a bit wary, but look. This place is the<03e0>same as always...it's a small but appreciated blessing.
-Yes, yes.
-Then, it's just like Athlum...<04e0>The whole mood of the town is different.
-What in the world is going on?
-It must exist, somewhere...
-Let's continue to search.
-Let's finish this...learn the true ending of this tale.
-Come and check out the weapons they have!<03e0>Ahh, from blunt to sharp, fancy decorative stuff<03e0>to everyday weapons, I love 'em all!
+Fiquei um pouco preocupado depois que Remanescentes<03e0>começaram a desaparecer por todo lado. Mas veja só<03e0>esse lugar... Ele ainda permanece o mesmo de antes.
+Sim, sim...
+Então, é como está acontecendo em Athlum...<04e0>O ambiente da cidade mudou por completo.
+Mas o que diabos está acontecendo?
+Tem que existir, em algum lugar...
+Vamos continuar procurando.
+Vamos lá, temos de saber como termina essa história.
+Dê uma olhada nas armas que temos aqui!<03e0>Armas de lâmina afiada, contundentes, decorativas,<03e0>de uso cotidiano... Armas são minha especialidade!
 Heheheheh...
 Lady Emma...
-Heya, Rush! Check it out<07f0>the Remnant's still alive<03e0>and kicking!<03e0>So we can't get all down either, right?
-We can't lose hope now!
-Even the weapons seem kinda pooped out...<03e0>Guess it's 'coz the Remnant's gone...
-Geez, even the weapons seem pooped out...
-Gah, if I have to think about this Remnant stuff<03e0>any more, my head's gonna explode! You just tell<03e0>me where to go when you've figured it out, okay?
-I'm ready to rock whenever!
-Let's go, Rush!<04e0>Don't worry<07f0>I'll knock down anybody in our way!
-What am I doing?<04e0>Just as it looks, taking a walk. As the Marquis,<03e0>I can't just roam the streets alone in Athlum<03e0>or Celapaleis...<04e0>I'm certain Torgal is having conniptions, but let's<03e0>keep this between us, shall we?
-Remember, you never saw me.
-It seems the Emeth Tag is still untouched...
+Olá, Rush! Dê uma olhada... o Remanescente ainda<03e0>continua vivo e respirando!<03e0>Portanto não devemos ficar para baixo, certo?
+Não podemos perder a esperança agora!
+Até as armas parecem ter perdido o seu brilho...<03e0>Acho que é porque o Remanescente se foi...
+Até as armas parecem ter perdido o seu brilho...
+Aaagh! Se eu continuar pensando nessa coisa de<03e0>Remanescente, minha cabeça vai explodir! Só me<03e0>avise quando tivermos de ir, certo?
+Estou pronto para mandar ver!
+Vamos lá, Rush... Não se preocupe!<04e0>Coitado daquele que se meter no nosso caminho!
+O que estou fazendo?<04e0>Exatamente o que parece, dando uma volta. O problema<03e0>de ser marquês é que não posso andar tranquilamente<03e0>pelas ruas de Athlum ou Celapaleis...<04e0>Tenho certeza que Torgal está tendo um ataque de<03e0>nervos, mas não diga nada a ele... Combinado?
+Lembre-se, você não me viu. Combinado?
+O Emeth Tag ainda permanece intocado...
 ...
-Royotia as well...<04e0>Then, Athlum is not the only victim...
+Royotia também...<04e0>Então, Athlum não foi a única vítima...
 ...
-What am I rushing around for?<03e0>To be honest, I was mainly trying not to be recognized...
-I hope we're not too late...
-Let's go, Rush!<04e0>And we'll return together<07f0>victorious!
-The town may look the same as always, but<03e0>that's only at first glance.<04e0>There's plenty of rumbling beneath the surface...<03e0>This is no time to start slacking.
-This place is rotten...
-They've lost their Remnant as well...<03e0>I suppose it could be just coincidence...<04e0>Certainly seems like a plot, though...
-I can't believe someone isn't behind all this...
-Hey now, quit playing around and help us search,<03e0>will you? There's got to be another way to get to<03e0>the Sacred Lands, but we won't find it if you don't look.
-Don't worry<07f0>we'll find it.
-I'll look after Lord David since she cannot...<03e0>So you'd better do the same for Irina.
+Por que estou com tanta pressa?<03e0>Para ser sincero, não esperava ser reconhecido...
+Espero que não tenhamos chegado tarde demais...
+Vamos lá, Rush!<04e0>Vamos voltar juntos, e vitoriosos!
+Parece que nada mudou nessa cidade,<03e0>mas as aparências enganam.<04e0>Há muito barulho por baixo da superfície...<03e0>Vamos em frente, Rush. Não temos tempo a perder.
+Esse lugar é muito perigoso...
+Eles também perderam seu Remanescente...<03e0>Talvez se trate de uma mera coincidência...<04e0>Mas isso já está parecendo uma conspiração...
+Deve haver alguém por trás de tudo isso...
+Pare de brincar e nos ajude a procurar, pode ser?<03e0>Deve haver outra maneira de chegarmos nas Terras<03e0>Sagradas, mas nunca descobriremos se não ajudar.
+Não se preocupe... nós vamos encontrar.
+Agora que minha mãe não pode proteger Lorde David,<03e0>eu o protegerei. Espero que faça o mesmo por Irina.
 

@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0450_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Balterossa is looking for men of action to assist in<03e0>battle... I stress that this is an opportunity strictly for<03e0>the experienced.<04e0>If you have confidence in your abilities, come to<03e01be0ffbe34ff>Balterossa Castle<1ce0> and speak with the chief of staff.<03e0>He will tell you what you need to know.
+Balterossa está procurando soldados para apoiar seu<03e0>exército em combate... Mas já vou avisando, essa é<03e0>uma oportunidade para guerreiros experientes.<04e0>Se você tem confiança nas suas habilidades, vá até o<03e01be0ffbe34ff>Castelo de Balterossa<1ce0> e fale com o chefe de pessoal.<03e0>Ele vai dizer tudo que precisa saber.
 

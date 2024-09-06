@@ -1,15 +1,15 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0050_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The seer lives further within.<03e0>It should be a simple matter to hide out<03e0>for a while in a place like this...
-Paris...wait, please.<04e0>I...I'm worried, Paris. Is running away like this<03e0>truly the right thing for us to do?
-Charlotte, what's come over you all of a sudden?<03e0>This was your idea to begin with!
-I know...<03e0>And I deeply believe as the seer says,<03e0>that with you I will find true happiness.<04e0>But...<03e0>But still, Paris...<04e0>What about Mother? Will she be able to<03e0>share in our joy? Or will it be the opposite?<03e0>What of your father?
-There is no need to worry...
-Who's there?
-By ridding the world of the two of you,<03e0>our organization will be able to spread joy<03e0>to many, many people.
+A morada do vidente se encontra logo à frente.<03e0>Acho que não vai ser difícil passar despercebido<03e0>em um lugar como esse...
+Paris... Espere, por favor.<04e0>Eu... eu estou preocupada, Paris.<03e0>Você acha que estamos mesmo fazendo a coisa certa?
+Charlotte, o que está acontecendo com você agora?<03e0>Isso tudo foi ideia sua!
+Eu sei...<03e0>E posso garantir que acredito no que diz o vidente,<03e0>que com você encontrarei a verdadeira felicidade.<04e0>Mas...<03e0>Ainda assim, Paris...<04e0>E minha mãe? Será que vai ficar feliz por nós?<03e0>Ou será que vai sofrer quando ficar sabendo?<03e0>E seu pai?
+Você não precisa se preocupar...
+Quem vem lá?
+Nossa organização fará muita gente feliz<03e0>quando livrarmos o mundo da presença<03e0>de vocês dois.
 Augh!
-Charlotte!?<04e0>That voice<07f0>that's the seer...<06e0000008e0000000000000>We've gotta go after 'em!<09e008e0010000000000>What'll we do?
-Right! Thank you.<03e0>The seer's home is further in.<03e0>We must hurry and save Charlotte!
-What to do?<03e0>What else can we do but follow them?<03e0>The seer's home lies ahead!
+Charlotte?<04e0>Essa voz... É o vidente!<06e0000008e0000000000000>Temos que ir atrás deles!<09e008e0010000000000>O que vamos fazer?
+Ótimo! Muito obrigado.<03e0>A casa do vidente se encontra logo à frente.<03e0>Devemos nos apressar e salvar Charlotte!
+O que vamos fazer?<03e0>O que mais? Segui-los!<03e0>A casa do vidente nos espera!
 

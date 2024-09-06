@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0140_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-You seem to hold the Godstones.<04e0>Then, go to the great tower in the desert, and<03e0>offer them up there. You may learn a truth<03e0>hidden for a millennium.<06e0000008e0000000000000>Sure, I'm game!<09e008e0010000000300>I hate history class.
-Excellent. Enter the <1be0ffbe34ff>Great Sand Sea<1ce0>,<03e0>and go east of where the spear leads.<04e0>Phantoms are mirrors that can reflect the truth.<03e0>A word of advice: do not take your eyes from<03e0>them, young Rush Sykes.<06e0000008e0000000000000>Why do you know me?<09e008e0010000000000>Huh? Uhh...right.
-What was begun long ago must finally be<03e0>brought to completion. That is all you need to<03e0>know.
+Vejo que você tem as pedras celestiais.<04e0>Vá então até a grande torre que está no deserto<03e0>e deposite elas ali. Você vai descobrir um segredo<03e0>que esteve escondido durante mil anos.<06e0000008e0000000000000>Claro, irei até lá!<09e008e0010000000300>Eu odiava as aulas de história.
+Excelente. Entre no <1be0ffbe34ff>Grande Mar de Areia<1ce0>, e vá<03e0>para o leste do lugar apontado pela lança.<04e0>E lembre-se, jovem Rush Sykes, não perca de vista os<03e0>espectros. Ele são como espelhos, que refletem a<03e0>verdadeira natureza daqueles que os rodeiam.<06e0000008e0000000000000>Como você sabe o meu nome?<09e008e0010000000000>Hã? Uhh... tá certo.
+A história que teve início a muito tempo atrás<03e0>deve chegar ao fim. Isso é tudo que precisa saber.<03e0>
 Hmph.
-Hmph.<03e0>In my day, we were shamed by our ignorance;<03e0>we did not flaunt it.
-Have you offered the Godstones?<06e0000008e0000000000000>Going right now, promise.<09e008e0010000000300>Keep your pants on, pops.
-Go to the <1be0ffbe34ff>Great Sand Sea<1ce0>, and look east of the<03e0>spear. This is your duty, Rush Sykes.
-The three Godstones have borne witness<03e0>to all of history. You cannot outrun destiny.
-So, you have offered up the three Godstones.<04e0>The Godstones are over a thousand years old,<03e0>and remember all they have seen. Go further<03e0>into the tower to receive that knowledge.<06e0000008e0000000000000>Got it. Here I go!<09e008e0010000000300>Hold on, I'll get there...
-Good journey.
-There is no hurry. Nevertheless, someone<03e0>desperately waits for you to complete your<03e0>task. Do not lose sight of that fact.
-Oho. Well done, son.<04e0>You vanquished the queen's cursed body but<03e0>saved her soul. Impressive.<04e0>Here is something for your service.
-His Highness the Imperator should be very<03e0>pleased.<04e0>Then, I must take my leave.<03e0>Take care to remember your true path...
+Hmph. No meu tempo nós tínhamos vergonha da<03e0>nossa ignorância, ao invés de nos gabarmos dela...<03e0>
+Você levou as pedras celestiais até a torre?<06e0000008e0000000000000>Estou indo agora, prometo.<09e008e0010000000300>Espere sentado, velhote.
+Vá até o <1be0ffbe34ff>Grande Mar de Areia<1ce0>e procure ao leste<03e0>da lança. Esse é seu dever, Rush Sykes.
+As três pedras celestiais tem sido testemunhas de<03e0>toda nossa história. Não se pode escapar do destino.
+Você levou as três pedras celestiais até a torre...<04e0>Essas pedras têm mais de mil anos, e se lembram de<03e0>tudo que viram. Se deseja receber seu conhecimento,<03e0>você deve continuar explorando a torre.<06e0000008e0000000000000>Entendido. Vou até lá!<09e008e0010000000300>Tudo bem, vou fazer isso depois...
+Boa viagem.
+Não tenha pressa. No entanto, você precisa saber que<03e0>há alguém esperando ansiosamente que você cumpra sua<03e0>missão. Não se esqueça disso.
+Oho. Muito bem, meu jovem.<04e0>Você derrotou o corpo amaldiçoado da rainha<03e0>e ainda salvou a sua alma. Estou impressionado.<04e0>Aqui está uma pequena recompensa pelo seu trabalho.
+Tenho certeza que o Imperador ficará muito<03e0>agradecido quando ficar sabendo.<04e0>Bom, agora devo ir.<03e0>Não se esqueça do seu destino...
 

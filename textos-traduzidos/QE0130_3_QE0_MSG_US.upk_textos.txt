@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0130_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Ahh, you again, huh? Yer just in time, I got some new<03e0>inventory.<04e0>The treasure of the ancient mountain country: the<03e01be064f4ecff>Epigraph of the Hundred Sages<1ce0>.<04e0>Just skimming through is like studying with the most<03e0>powerful sorcerers of the empire.<04e0>Now, I like the cut of your jib, so for you... I'll let you<03e0>have it for a fraction of its true worth. A steal, really,<03e0>what do you say?<06e01900>sEVENT_PRICE_QE0130_P_002<08e0000000000000>It's totally mine!<09e008e0010000000300>Quit looking at my jib.
-Good doing business with ya!
-Hey, kid, those coins ain't worth as much as you think<03e0>they are. Come back when yer a little more manifestly<03e0>wealthy, eh?
-Hey, feel free to think about it. But you won't find<03e0>such a deal anywhere else, eh?
+Ahh, você de novo, hã? Chegou bem na hora,<03e0>acabei de receber novas mercadorias.<04e0>O tesouro de um antigo reino da montanha:<03e01be064f4ecff>a Epígrafe dos Cem Sábios<1ce0>.<04e0>Apenas folheá-lo é como estudar com os feiticeiros<03e0>mais poderosos da cidade imperial.<04e0>Mas como gostei de você, então... Vou vendê-lo pela<03e0>metade do preço, só para você. Uma verdadeira<03e0>barganha, o que me diz?<06e01900>sEVENT_PRICE_QE0130_P_002<08e0000000000000>Eu quero!<09e008e0010000000300>Não, obrigado.
+Que bom fazer negócios com você!
+Ei, garoto, essas moedas não valem tanto quanto<03e0>você pensa. Volte aqui quando estiver um pouco<03e0>mais abastado, hã?
+Ei, sinta-se à vontade para pensar no assunto. Mas<03e0>você não vai encontrar nada parecido por aí, hã?
 

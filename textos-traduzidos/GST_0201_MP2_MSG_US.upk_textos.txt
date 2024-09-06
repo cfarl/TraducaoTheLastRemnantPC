@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) GST_0201_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Engraved at the top are the words<03e0>"Chapter III: Love."<03e0>Read the rest?<06e0000008e0000000000000>I love a good story.<09e008e0010000000300>Too much reading...
-Queen Flaumello IV had pledged her love to<03e0>the Lord of Undelwalt.<04e0>The two paramours did nothing to hide their<03e0>affection for each other, and soon announced<03e0>their engagement.<04e0>Celebrations continued throughout the<03e0>Kingdom of Glenys for days.<04e0>However, few within the young country could<03e0>have foretold what the future held for their love.
+Na parte superior há uma inscrição que diz:<03e0>"Capítulo III: Amor". Quer continuar lendo?<03e0> <06e0000008e0000000000000>Sim, adoro uma boa história.<09e008e0010000000300>É muita leitura para mim...
+A rainha Flaumello IV jurou amor eterno<03e0>ao senhor de Undelwalt.<04e0>Os dois amantes não fizeram nada para esconder<03e0>o sentimento que tinham um pelo outro, e logo<03e0>anunciaram seu compromisso para seus súditos.<04e0>O povo do Reino de Glenys comemorou durante<03e0>muitos dias o feliz acontecimento.<04e0>No entanto, ninguém poderia imaginar o terrível<03e0>rumo que iriam tomar os acontecimentos.
 

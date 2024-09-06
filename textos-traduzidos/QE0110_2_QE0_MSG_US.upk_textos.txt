@@ -1,9 +1,9 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0110_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Rush! You came!<04e0>I'm kinda nervous, but I can do this!
-Once you defeat all these monsters,<03e0>I'm going to start the festival!
-Isn't this beautiful?<04e0>Countless lights gather together<03e0>to become one Remnant.<04e0>The Remnant itself doesn't do anything.<03e0>It can't fight monsters or bad guys.<04e0>But this Remnant that is left here has<03e0>a beauty that awes and inspires people.<03e0>This Remnant Syltique...
-It is the most important Remnant<03e0>in all of the world.<04e0>If it weren't for this magnificent piece<03e0>of art, the world would be a place of war<03e0>and nothing but war.
-The Syltique tells us...<03e0>Tells us that there's so much more.<04e0>The world has its horrors, but it<03e0>also has good and beauty.
+Rush! Você veio! Que bom!<04e0>Estou meio nervosa, mas acho que consigo fazer isso!
+Assim que você acabar com todos esses<03e0>monstros, vou dar início ao festival!
+Isso não é lindo?<04e0>Veja como todas essas luzes se unem para se<03e0>transformar em um grande remanescente.<04e0>O remanescente por si só não faz nada.<03e0>Ele não pode lutar contra monstros nem caras maus.<04e0>Mas sua beleza é tanta que assombra e inspira todos<03e0>que o contemplam. Esse é o remanescente Syltique...<03e0>
+Ele é o remanescente mais valioso do mundo.<03e0> <04e0>Se não fosse por essa magnífica obra de arte,<03e0>o mundo estaria assolado pela guerra.<03e0>
+O Syltique nos diz que a vida não é só sofrimento.<03e0> <04e0>O mundo está cheio de horrores, mas<03e0>também tem bondade e beleza.
 

@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0150_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Magick...<04e0>Born from the pit of darkness...<04e0>It is the undeniable truth of the world's order.
-The order of the world must not<03e0>be changed...
+A magia arcana...<04e0>Uma arte nascida de um poço de sombras...<04e0>É a verdade inegável da ordem mundial.
+A ordem mundial não deve ser perturbada...<03e0>
 

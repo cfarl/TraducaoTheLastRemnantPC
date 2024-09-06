@@ -1,9 +1,9 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NGP_05GN_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the guild.<03e0>How may I help?
-I've come all the way from Ghor Castle<03e0>with my friends. What a trek it was<03e0>over the <1be0ffbe34ff>Heroic Ramparts<1ce0>.<04e0>Have you seen it yet with your own eyes?<04e0>It's said that one of the lords of Nagapur<03e0>built that never-ending castle wall.<04e0>It's like it's representing<03e0>the never-ending flow of time.
-I've traveled here with my friends<03e0>from Ghor through the Heroic Ramparts.<04e0>It's hard to believe the state of this town...
-The <1be0ffbe34ff>Plain of Luhang<1ce0> that lies in front<03e0>of Nagapur is the battleground that has<03e0>protected us from invaders for ages.<04e0>This is where the legendary warrior of<03e0>Nagapur, Luhang of Zahaad, fought and beat<03e0>the entire imperial army.<04e0>Although this battle may be just a fictional<03e0>tale, the soldiers of Nagapur still talk about<03e0>him in awe.
-Have you seen the Plain of Luhang lately? There isn't<03e0>a single blade of grass left, thanks to the Gwayn...<03e0>I still can hardly believe that our protector did that...
+Bem-vindo à guilda.<03e0>Como posso ajudar?
+Eu e meus amigos viemos de muito longe, do Castelo<03e0>de Ghor... Você não tem ideia do que passamos para<03e0>atravessar as <1be0ffbe34ff>Muralhas do Heroísmo<1ce0>!<04e0>Você já viu elas com seus próprios olhos?<04e0>Dizem que foram construídas por ordem de um dos<03e0>lordes de Nagapur. Elas parecem não ter fim...<04e0>É como se quisessem representar a passagem do tempo,<03e0>que nunca termina.
+Eu e meus amigos viemos até aqui partindo de<03e0>Ghor e atravessando as Muralhas do Heroísmo.<04e0>É difícil de acreditar em como ficou essa cidade...
+A <1be0ffbe34ff>Planície de Luhang<1ce0> se encontra na frente de Nagapur,<03e0>e é um campo de batalha que tem protegido a cidade<03e0>de invasores durante toda sua história.<04e0>Segundo diz a lenda, foi ali que o grande guerreiro<03e0>Luhang de Zahaad venceu em combate as tropas<03e0>do Imperador celestial.<04e0>É bem possível que essa batalha nunca tenha acontecido<03e0>de verdade, mas mesmo assim os soldados de Nagapur<03e0>ficam emocionados quando ouvem falar dela.
+Você passou recentemente pela Planície de Luhang?<03e0>Não sobrou nenhuma folha ali, por culpa do Gwayn...<03e0>Ainda custo a acreditar que nosso protetor fez isso.
 

@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) UNB_0101_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to Undelwalt.<03e0>This imperial city has been in existence<03e0>since the time of the Imperator.<04e0>Have you come to say your prayers<03e0>to our majesty?
+Seja bem vindo a Undelwalt. A cidade imperial existe<03e0>desde os tempos do primeiro Imperador Celestial.<03e0> <04e0>O que os trazem aqui? Vocês vieram prestar reverências<03e0>à Vossa Excelência?
 Message 2
 Message 3
-Do you see those large stone pillars lining the street?<03e0>That's the Harmonium, the Remnant of the<03e0>God Emperor.<04e0>For ages it's been said that the Remnant's chime<03e0>delivers a blessing upon the town, but...<04e0>Looking at Undelwalt now, I'm not so sure.
+Você está vendo esses pilares de pedra ao lado da rua?<03e0>Eles são parte do Harmonium, o Remanescente que está<03e0>vinculado ao Imperador Celestial.<04e0>Dizem que o som que ele emite lança uma benção sobre<03e0>a cidade. Mas não sei se isso é mesmo verdade.<04e0>Veja o estado em que se encontra Undelwalt.
 Message 2
 Message 3
-When I was still a young lad, these streets were filled<03e0>with people. The pub and the guild were always packed<03e0>like cans of sardines!<04e0>Now the place is nothing short of desolate.
+Quando era jovem, as ruas de Undelwalt estavam sempre<03e0>cheias de gente. Ninguém conseguia entrar na taverna, e<03e0>muito menos na guilda!<04e0>Mas agora não há uma só alma na cidade.
 Message 2
-Ooh, those upstarts with their "Congress"... The group's<03e0>very existence mutes the prestige and honor of the<03e0>God Emperor!<04e0>It's simply blasphemous!
+Aah, esses presunçosos e o seu precioso "Conselho".<03e0>A mera existência dessa instituição ofusca a honra e<03e0>o prestígio do Imperador Celestial!<04e0>Isso é uma verdadeira blasfêmia!
 Message 2
 

@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ASC_05GN_MP0_MSG
 -- ----------------------------------------------------------------------------------
-This is a <1be0ffbe34ff>guild<1ce0>. Sorry, the person in charge<03e0>isn't here right now.<04e0>Try back later.
-What's this? Don't tell me a kid like you's<03e0>trying to take on some guild tasks! You're<03e0>greener than a seasick piece of broccoli!<04e0>Gahahah, impossible, you'd never make it!<04e0>These aren't for kiddies who're gonna get beat<03e0>up by monsters and go home crying to mommy!<03e0>Save yourself the trip and go home now.
-Guild tasks?<03e0>There're all types...from simple stuff to<03e0>really hairy jobs.<04e0>Ehh, if you've got the time, then take a look,<03e0>maybe take one or two, then you'll see.
-Hey, kid, have you heard? Some guys who're the<03e0>tippy-top rank of warriors've started up their own<03e0>little guild.<04e0>They say there's a secret passageway in through the<03e0>back of Warrior's Honor or something...
-Independence? Yeah, yeah, it's great, I'm sure.<03e0>I'm more interested in guild tasks.
-Conqueror? Oh yeah, he's a troublemaker, yeah.<03e0>I'm kinda more interested in guild tasks, though.
-What's wrong, Junior, you lost? This is a guild,<03e0>a place for veteran adventurers to gather.<04e0>It's no place for fresh-faced kids who barely<03e0>know how to hold a blade. Run on home and<03e0>play stickball or something.
-If you're looking for something to do, then the<03e0>guild's the right place to be.<04e0>And I'm not talking charity work. You can get a<03e0>nice reward by picking up the right task.<04e0>Well, it's not like they aren't getting anything<03e0>out of it.
+Isso aqui é uma <1be0ffbe34ff>guilda<1ce0>. Sinto muito, mas o<03e0>encarregado está fora, nesse momento.<04e0>Volte mais tarde, pode ser?
+Como? Não me diga que um pirralho como você<03e0>está pensando em pegar uma das tarefas da guilda!<03e0>Você está mais verde que um maço de brócolis!<04e0>Gahahah, é impossível, você nunca conseguiria!<04e0>Essas não são tarefas para garotos que apanham de<03e0>monstros e voltam para casa chamando pela mamãe!<03e0>Poupe seu tempo e vá embora enquanto ainda pode.
+As tarefas da guilda? Existem tarefas de todo tipo...<03e0>Desde simples recados até missões muito perigosas.<03e0> <04e0>Ehh, se você estiver com tempo, dê uma olhada.<03e0>Tente uma ou duas tarefas, e logo vai saber.
+Ei, garoto, já está sabendo? Alguns dos melhores<03e0>guerreiros da região fundaram sua própria guilda.<03e0> <04e0>Dizem que há uma entrada secreta para ela na parte<03e0>de trás da Honra do Guerreiro, ou coisa parecida...
+Independência? Sim, sim, isso é ótimo, com certeza.<03e0>Mas estou mais interessado nas tarefas da guilda.
+O Conquistador? Ah sim, ele é um encrenqueiro, sim.<03e0>Mas estou mais interessado nas tarefas da guilda.
+O que foi, novato, está perdido? Isso aqui é uma<03e0>guilda, um lugar para guerreiros veteranos.<04e0>Não é lugar para pirralhos de cara limpa que<03e0>mal sabem segurar uma espada. Vá para casa<03e0>jogar frescobol ou coisa parecida.
+A guilda é o lugar ideal para quem está procurando<03e0>alguma coisa para fazer.<04e0>E não estou falando de trabalhar por caridade. Você<03e0>pode ganhar muito dinheiro se souber escolher bem.<04e0>É verdade, eles também ganham com isso, mas pelo<03e0>menos você recebe a sua parte.
 

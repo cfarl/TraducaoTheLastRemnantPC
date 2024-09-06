@@ -1,13 +1,13 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1220_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The Jhana have grown too large in number. We of the<03e0>Silver Falcons will go to <1be0ffbe34ff>Blackdale<1ce0>, lure them into battle,<03e0>and crush them.<04e0>Will you lend a hand?<06e0000008e0000000000000>'Course!<09e008e0010000000000>Sounds dull.
-I would like to proceed to <1be0ffbe34ff>Blackdale<1ce0> as soon as possible.<03e0>Are you prepared?<06e0000008e0000000000000>Yup!<09e008e0010000000300>I need two secs...
-Glory to the Falcons!
-If you have other pending matters, so be it.
-Of all beings that deserve mercy, the Jhana are<03e0>not among their number.
-Well done.<03e0>They will behave themselves...for now.<04e0>Fear is not an emotion they sustain<03e0>for long periods of time.
-Here, take this.
-I may ask you for assistance again<03e0>in the future.<03e0>Until then.
-The Jhana have grown too large in number. We of the<03e0>Silver Falcons will go to <1be0ffbe34ff>Blackdale<1ce0>, lure them into battle,<03e0>and crush them.<04e0>Will you lend a hand?<06e0000008e0000000000000>'Course!<09e008e0010000000000>Sounds dull.
+A população dos jhanas está descontrolada, e os Falcões<03e0>Prateados decidiram ir até <1be0ffbe34ff>Valenegro<1ce0> para atraí-los para<03e0>uma batalha e resolver o problema.<04e0>Quer nos dar uma mão?<06e0000008e0000000000000>Claro!<09e008e0010000000000>Isso parece chato.
+Quero seguir para <1be0ffbe34ff>Valenegro<1ce0> o quanto antes.<03e0>Você está preparado?<06e0000008e0000000000000>Sim!<09e008e0010000000300>Só um segundo...
+Glória aos Falcões!
+Se tem outros assuntos pendentes, que assim seja.
+Sempre digo que é preciso ser piedoso com todos os<03e0>seres vivos, mas os jhanas não merecem essa cortesia.
+Muito bem. Suponho que isso vai tranquilizá-los<03e0>durante uma temporada, pelo menos.<04e0>Os jhanas se assustam com facilidade, mas voltarão...<03e0>e em maior número.
+Tome, fique com isso.
+É possível que eu volte a pedir sua ajuda<03e0>novamente. Até lá então!<03e0>
+A população dos jhanas está descontrolada, e os Falcões<03e0>Prateados decidiram ir até <1be0ffbe34ff>Valenegro<1ce0> para atraí-los para<03e0>uma batalha e resolver o problema.<04e0>Quer nos dar uma mão?<06e0000008e0000000000000>Claro!<09e008e0010000000000>Isso parece chato.
 

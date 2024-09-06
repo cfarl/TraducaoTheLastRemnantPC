@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1130_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Oh. My. Gawd. Elysion is sooo big. It's like one of those<03e0>Lord guys' girlfriends. I bet everybody who comes here<03e0>gets lost all the time.
-At least, I did...
-So, when I was lost, I kind of spent all my cash...<03e0>That means you should buy some of my special<03e0>Khrynia explosives. They're, like, "da bomb."<06e01900>sEVENT_PRICE_QE1130_P_000<08e0000000000000>Sounds like a blast!<09e008e0010000000300>Sounds kinda...unstable.
-Thanks!
-Okay! Time to lose this Elysion!
+Oh. Meu. Deus. Elysion é tãããão grande. É quase tão<03e0>grande quanto a barriga dos nobres. Tenho certeza<03e0>que todo mundo que vem aqui acaba se perdendo.
+Eu, pelo menos, me perdi...
+O caso é que, enquanto andava sem rumo, gastei todas<03e0>minhas economias. Então que tal comprar agora esse<03e0>superexplosivo Khrynia? Ele é tipo, "uma bomba"!<06e01900>sEVENT_PRICE_QE1130_P_000<08e0000000000000>Isso vai ser um estouro!<09e008e0010000000300>Isso parece... instável.
+Obrigado!
+Certo! É hora de deixar Elysion!
 Blarrrg...
-You're totally no fun.
-Seriously? You seriously don't have that much money?<03e0>What were you, raised by Jhana?
+Você é muito sem graça.
+É sério? Você não tem mesmo esse dinheiro?<03e0>De onde você veio, de uma tribo de jhanas?
 

@@ -1,28 +1,28 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0460_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-This is...
-It seems I must request a task from you.<04e0>That roar you hear is the call of this town's<03e0>protector, the Flame Guardian. I know not why,<03e0>but it seems you are being summoned.
-Will you meet with the Flame Guardian?<06e0000008e0000000000000>Okay, whatever.<09e008e0010000000300>Sounds like it'll eat me...
-Excellent.
-Here<07f0>the key to <1be0ffbe34ff>Lavafender<1ce0>.<04e0>With this key you may open the gate my people<03e0>have long stood watch over. Proceed within to<03e0>the deepest lands.<04e0>When you reach a plaza surrounded in fire, you<03e0>may meet the Flame Guardian.
-Ahem.
-Speaking frankly, to my knowledge, this is the first time<03e0>the Flame Guardian has ever met with anyone not part<03e0>of the royal family.<04e0>What could she possibly want with you?
-Forgive me, I'm speaking to myself.<03e0>Then go, young Sykes.
-Don't be ridiculous. The Flame Guardian is a very<03e0>important person to this country. At the very least you<03e0>should hear what she has to say.
-The Flame Guardian, protector of our city,<03e0>requests your presence.<04e0>I trust you will meet her?<06e0000008e0000000000000>Alright, I can do that.<09e008e0010000000300>Um, I'll pass.
-Good.
-Here<07f0>the key to <1be0ffbe34ff>Lavafender<1ce0>.<04e0>With this key you may open the gate my people<03e0>have long stood watch over. Proceed within to<03e0>the deepest lands.<04e0>When you reach a plaza surrounded in fire, you<03e0>may meet the Flame Guardian.
-Ahem.
-Speaking frankly, to my knowledge, this is the first time<03e0>the Flame Guardian has ever met with anyone not part<03e0>of the royal family.<04e0>What would she possibly want with you?
-Forgive me, I'm speaking to myself.<03e0>Go, young Sykes.
-I see.<03e0>When you change your mind, see me.
-It seems the Flame Guardian, protector of<03e0>Royotia, calls for you.
-Once again, will you go to her?<06e0000008e0000000000000>Here I go...<09e008e0010000000300>No, I don't think so.
-Good.<03e0>Go, young Sykes.
-Hmph, leaving her waiting...<03e0>Leaving this be gives me a bad feeling...
-I see.<04e0>To save my country, you must destroy this beast,<03e0>"Vespalia"...<04e0>This is the first I have ever heard of such a monster in<03e0>Royotia... But if the Guardian says so, it must be truth.
-As for these Crimson Shards here, at least I may be of<03e0>assistance.<04e0>Royotia's oldest treasure is a vermillion stone that<03e0>sparkles like flame: the <1be064f4ecff>Manoryll Salia<1ce0>.<03e0>It's said to be the roc's heartbeat.<04e0>It is a fabled gem of our great nation, yet I will give it<03e0>to you.
-I plead to you, Rush Sykes. Do whatever you must to<03e0>protect Royotia.
-This passageway leads to the Flame Guardian. When<03e0>your preparations are complete, please use it.<04e0>Good luck, Rush Sykes. My country is in your hands.
+Você escutou esse som?
+Parece que devo requisitar a você uma tarefa.<04e0>Esse bramido que você ouviu é o chamado da protetora<03e0>dessa cidade, a Guardiã do Fogo. Não sei por quê, mas<03e0>parece que ela quer ver você.
+Você vai se encontrar com a Guardiã do Fogo?<06e0000008e0000000000000>Sim, por que não?<09e008e0010000000300>Mas e se ela me comer...
+Excelente.
+Aqui está a chave de <1be0ffbe34ff>Lavafender<1ce0>.<04e0>Com essa chave você poderá abrir a porta que meu povo<03e0>há muito tempo vem guardando. Entre e siga na direção<03e0>dos níveis mais profundos da caverna.<04e0>Quando encontrar uma praça cercada de lava você vai<03e0>ver a Guardiã do Fogo.
+Aham.
+Para ser sincero, pelo que sei, essa é a primeira vez<03e0>que a Guardiã do Fogo pede para se encontrar com<03e0>alguém que não faz parte da família real.<04e0>O que ela poderia estar querendo com você?
+Perdão, estava aqui pensando em voz alta.<03e0>Agora vá, jovem Sykes.
+Não seja ridículo. A Guardiã do Fogo é uma pessoa de<03e0>grande importância para essa cidade. Você ao menos<03e0>deveria ouvir o que ela tem para dizer.
+A Guardiã do Fogo, protetora da nossa cidade, está<03e0>solicitando sua presença.<04e0>Você vai se encontrar com ela?<06e0000008e0000000000000>Claro, farei isso.<09e008e0010000000300>Hm, vou deixar passar.
+Que bom.
+Aqui está a chave de <1be0ffbe34ff>Lavafender<1ce0>.<04e0>Com essa chave você poderá abrir a porta que meu povo<03e0>há muito tempo vem guardando. Entre e siga na direção<03e0>dos níveis mais profundos da caverna.<04e0>Quando encontrar uma praça cercada de lava você vai<03e0>ver a Guardiã do Fogo.
+Aham.
+Para ser sincero, pelo que sei, essa é a primeira vez<03e0>que a Guardiã do Fogo pede para se encontrar com<03e0>alguém que não faz parte da família real.<04e0>O que ela poderia estar querendo com você?
+Perdão, estava aqui pensando em voz alta.<03e0>Agora vá, jovem Sykes.
+Entendo.<03e0>Volte aqui se mudar de ideia.
+Parece que a Guardiã do Fogo, protetora de<03e0>Royotia, está requisitando sua presença.
+Mais uma vez, você vai ir até ela?<06e0000008e0000000000000>Estou indo...<09e008e0010000000300>Não, acho que não.
+Bom.<03e0>Vá, jovem Sykes.
+Hmph, então vai deixá-la esperando...<03e0>Isso me dá um mau pressentimento...
+Entendo...<04e0>Para salvar meu reino você deve destruir uma criatura<03e0>chamada Vespalia...<04e0>Essa é a primeira vez que ouço falar desse monstro.<03e0>Mas não há motivos para duvidar da Guardiã.
+No que diz respeito a esses fragmentos escarlates...<03e0>Pelo menos nisso posso ser de alguma utilidade.<04e0>O tesouro mais antigo de Royotia é uma gema vermelha<03e0>que brilha como o fogo: a <1be064f4ecff>Manoryll Salia<1ce0>. Dizem que ela<03e0>guarda as batidas do coração de uma rocha.<04e0>Essa é uma joia lendária que pertence à nossa nação,<03e0>mas a partir de agora ela ficará sob a sua guarda.
+Eu imploro a você, Rush Sykes.<03e0>Faça o que puder para proteger Royotia.
+Essa passagem vai levar você até a Guardiã do Fogo.<03e0>Quando estiver preparado, só precisa ir até lá.<04e0>Boa sorte, Rush Sykes. Meu reino está nas suas mãos.
 

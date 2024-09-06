@@ -1,11 +1,11 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0180_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-They should be growin' around here...
-This is it.<03e0>It matches the merchants' description.<03e0>It's gotta be this.
-Rush, thanks for lending a hand.<03e0>Let's get outta here before...
-Damn...<03e0>I was afraid of this.<04e0>The merchants mentioned this monster... Mainly that it<03e0>almost killed 'em.<04e0>It'll go away if we leave the flowers, but I can't do that.<03e0>Come on, Rush!
-What a waste of time.
-Rush, I need another favor.<04e0>I don't want Reya to know what I look like. I'm hideous.<03e0>Can you take these to her instead?<04e0>And give her this message.
-Tell her...I died.
+Elas devem estar por aqui...
+Essa deve ser a flor. Ela coincide com a<03e0>descrição dos mercadores. Deve ser a planta<03e0>que estamos procurando.
+Rush, obrigado pela ajuda.<03e0>Vamos embora daqui antes que...
+Droga... Era disso que eu tinha medo.<03e0> <04e0>Os mercadores me falaram de um certo monstro,<03e0>que quase acabou com eles.<04e0>Acho que está aqui para proteger as flores, mas não<03e0>pretendo voltar de mãos vazias. Vamos lá Rush!
+Mas que perda de tempo.
+Rush, preciso que me faça outro favor.<04e0>Não quero que Reya saiba como sou de verdade.<03e0>Veja... sou horrível! Você pode levar as flores?<04e0>E diga isso a ela também...
+Diga... que morri.
 

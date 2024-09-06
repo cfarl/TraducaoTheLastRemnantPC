@@ -1,16 +1,16 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1100_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-So we meet again.<03e0>Do you remember me?
-Will you listen to my story?<06e0000008e0000000000000>I like stories!<09e008e0010000000300>No can do.
-Thank you.
-I realize there are things you must do.<04e0>Please come back when you have the time.
-I have one last favor to ask of you.<06e0000008e0000000000000>Lay it on me!<09e008e0010000000300>No can do.
-Thank you.
-I realize there are things you must do.<04e0>Please come back when you have the time.
-You have met many people on your<03e0>journey who have helped you grow.<04e0>In return, you have given them something<03e0>very valuable. Something they will treasure<03e0>for always.<04e0>It is hard to describe in words what<03e0>exactly you have bestowed upon others...
+Então nos encontramos novamente.<03e0>Você se lembra de mim?
+Quer ouvir a minha história?<06e0000008e0000000000000>Adoro histórias!<09e008e0010000000300>Não tenho tempo para isso.
+Obrigada.
+Imagino que tenha muitas coisas para fazer....<04e0>Por favor, volte aqui quando estiver com tempo.
+Gostaria de te pedir um último favor.<06e0000008e0000000000000>Claro, pode falar.<09e008e0010000000300>Não tenho tempo para isso.
+Obrigada.
+Imagino que tenha muitas coisas para fazer....<04e0>Por favor, volte aqui quando estiver com tempo.
+Ao longo de suas aventuras você conheceu muitas<03e0>pessoas, que te ajudaram a amadurecer.<04e0>Em troca, você deu a elas algo muito valioso.<03e0>Algo que elas irão guardar para sempre.<03e0> <04e0>É difícil descrever com palavras o que exatamente<03e0>você ofereceu a todas essas pessoas...
 ...
-Allow me to try to explain myself...<04e0>The skies may gray,<03e0>the oceans may disappear,<03e0>and the earth may rot.<04e0>But not even the freest of birds,<03e0>The most hopeful of fish,<03e0>The wisest of men...<04e0>No sight, no sound, no feeling can ever surpass<03e0>the gift you granted those people. In that moment,<03e0>you left behind something that will last for eternity.<04e0>Something only you could have given them...
-And that is what will mold your destiny.
-I must go now.<04e0>To my time, my place.
+Permita-me tentar me explicar...<04e0>Talvez os céus se tornam cinzentos, os oceanos<03e0>possam desaparecer, ou a terra possa apodrecer.<03e0> <04e0>Mas nem mesmo o mais livre dos pássaros, o mais<03e0>ágil dos peixes, ou o mais sábio dos homens...<03e0> <04e0>Nada nem ninguém no mundo poderá superar aquilo<03e0>que você fez por essas pessoas. Ao fazer isso você<03e0>deixou algo que ficou marcado na eternidade.<04e0>Algo que só você poderia ter feito por elas...
+E isso é o que vai determinar o seu destino.
+Agora preciso partir.<04e0>De volta para meu tempo, meu lugar.
 

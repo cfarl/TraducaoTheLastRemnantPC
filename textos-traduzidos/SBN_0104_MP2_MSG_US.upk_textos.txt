@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) SBN_0104_MP2_MSG
 -- ----------------------------------------------------------------------------------
-I'm going to bind the Ark.<03e0>Rush, are you ready?<06e0000008e0000000000000>Go for it, sis!<09e008e0010000000300>Gimme a sec?
-This might change everything...<03e0>Are you really ready?<06e0000008e0000000000000>Stop worrying and let's do this!<09e008e0010000000300>When you put it that way... No.
+Vou me vincular ao Arca.<03e0>Rush, você está preparado?<06e0000008e0000000000000>Vá em frente!<09e008e0010000000300>Você me dá um segundo?
+Isso pode ter sérias consequências...<03e0>Você está mesmo preparado?<06e0000008e0000000000000>Pare de se preocupar e vamos logo!<09e008e0010000000300>Depois que você disse isso... Não.
 

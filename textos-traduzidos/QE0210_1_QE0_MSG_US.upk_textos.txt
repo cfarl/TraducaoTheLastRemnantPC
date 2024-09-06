@@ -1,11 +1,11 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0210_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hey! What are you doing!?
-What the<07f0>?
-A thief...?<03e0>But the store isn't ready yet.<03e0>There's nothing here to steal.
-I run a customization shop, but we're not open yet.<03e0>Come back later, okay?
-A customer, eh?<03e0>I hate to tell you this, but the shop's<03e0>not ready for business yet.
-Let's see...<03e0>The first thing I'll need is some <1be064f4ecff>light metal<1ce0>.<03e0>Can't do customization without it!
-Time to hit the <1be0ffbe34ff>pub<1ce0>!
+Ei! O que você está fazendo?
+Mas o quê...
+Um ladrão? Mas ainda nem abri a oficina...<03e0>Não há nada aqui para ser roubado.<03e0>
+Tenho uma oficina, mas ela ainda não foi aberta.<03e0>Volte mais tarde, está bem?
+Oras, um cliente... Olha, odeio ter que dizer isso<03e0>a você, mas a oficina ainda não está funcionando.<03e0>
+Vamos ver... Primeiro vou precisar de um pouco<03e0>de <1be064f4ecff>metal leve<1ce0>. Não consigo fazer nada sem isso!<03e0>
+É hora de visitar a <1be0ffbe34ff>taverna<1ce0>!
 

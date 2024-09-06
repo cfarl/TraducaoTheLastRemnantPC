@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0080_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-If the maid Leticia's vision was true, the errant<03e0>knights of the Order should be this way.<04e0>Let us make haste!
-Ohh... Neo, Vinnery, Lukorra! Are you alright?
-Commander Roberto! It's the commander!
-Are we saved?
-Boss! I was getting real scared...
-Commander... On the way to the broken seal,<03e0>some men dressed in black assaulted us.<03e0>When we woke up, we were down here...
-Heh... Finally, the Order's commander gets<03e0>around to showing up.
-Ah<07f0>him!<03e0>That's one of the men in black who trapped us in here!
-Melphina's oh-so-important knightly order is<03e0>done for.
-The bridge...<03e0>We...we can't return to Melphina!
-Calm yourselves, everyone.
-It is said that these caverns have existed since<03e0>the days of the Old Kingdoms...<04e0>They consist of six connecting paths, stretching<03e0>across the continent.<04e0>If we continue this way, surely we'll find a<03e0>location where we may return to the surface.
-Whoa there, li'l dogies. I can't just let you go<03e0>around mucking up all my bro's plans!<04e0>You'd better think again if you think you're<03e0>gonna leave here alive! Hypnos...go!
-Wha...what the hell is wrong with you people?<03e0>Keep the hell out of our way!
-Dammit, what'm I gonna do...<04e0>Okay, strategic withdrawal for now. But I'm<03e0>gonna remember this!
-Master Sykes! You've returned!
-The transport Remnant is unable to take everyone back.<03e0>It must be a plot of those varlets in black, no doubt.<04e0>It seems we must find a way to escape this prison<03e0>ourselves.
+Se a visão da donzela Leticia for mesmo verdadeira,<03e0>os cavaleiros perdidos devem estar por aqui.<04e0>Vamos nos apressar!
+Ohh... Neo, Vinnery, Lukorra! Vocês estão bem?
+Comandante Roberto! É o comandante!
+Estamos salvos?
+Chefe! Eu estava começando a ficar assustado...
+Comandante... Fomos surpreendidos por um grupo de<03e0>homens de preto no caminho para a barreira. Eles nos<03e0>deixaram inconscientes e nos trouxeram para cá...
+Heh... Por fim o famoso comandante da Ordem se<03e0>dignou a aparecer.
+Ah... é ele! Esse é um dos homens de preto que nos<03e0>trouxeram até aqui!
+Esse é o fim da oh-tão-importante Ordem dos<03e0>cavaleiros de Melphina...
+A ponte... E agora, como vamos voltar para Melphina?<03e0>
+Fiquem calmos, todos vocês.
+Dizem que essa rede de cavernas existe desde a era<03e0>dos antigos reinados...<04e0>Ela consiste de seis túneis interconectados, que se<03e0>estendem ao longo do continente.<04e0>Se seguirmos nessa direção, certamente iremos<03e0>encontrar uma saída para a superfície.
+Alto lá, camaradas... Não posso deixar que continuem<03e0>se intrometendo nos planos do meu irmão!<04e0>Se acharam que iriam sair vivos daqui, vão ficar bem<03e0>decepcionados! Hipnos... em frente!
+Mas... que diabos há de errado com vocês?<03e0>Fiquem fora do nosso caminho!
+Maldição... E agora, o que vou fazer...<04e0>Tudo bem, retirada estratégica, dessa vez.<03e0>Mas não vou me esquecer disso!
+Mestre Sykes! Você voltou!
+O remanescente transportador não pode levar todos de<03e0>volta. Isso deve ser obra daqueles homens de preto.<04e0>Parece que vamos ter de encontrar outra maneira<03e0>de sair daqui.
 

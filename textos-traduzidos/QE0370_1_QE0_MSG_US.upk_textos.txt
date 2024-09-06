@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0370_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The tablet of Marshall is reacting to the Rubber Soul.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! The view is too nice.
+A tabuleta de Marshall está reagindo ao Almelástica.<03e0>Quer usar a tabuleta?<06e0000008e0000000000000>Claro!<09e008e0010000000300>Não! Gosto da paisagem!
 

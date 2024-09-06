@@ -1,27 +1,27 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0060_4_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Sir Rush! I was able to meet Paris!<03e0>He is willing to help me stop this war...
-Charlotte, we haven't much time.<03e0>We must bring Rush up to speed...
-Oh, yes!
-After our incident with the seer, I returned<03e0>to investigate his home. There I found some<03e0>letters outlining a plot...<04e0>It was to induce Royotia and Balterossa to<03e0>deploy their armies, and then use a legion of<03e0>monsters to completely destroy both forces.<04e0>The letters were coded, their true content hidden<03e0>in innocuous-looking phrases, so it took some<03e0>time to decrypt the message.
-Someone was trying to manipulate our<03e0>countries into war. Mother and Paris's father<03e0>both fell for their tricks...
-They took advantage of both our relationship,<03e0>and Father and the Duchess's distrust of each<03e0>other. To think we were all played so easily...
+Senhor Rush! Finalmente encontrei Paris! Ele está<03e0>disposto a me ajudar a pôr um fim nessa guerra...
+Charlotte, não temos muito tempo.<03e0>Precisamos nos apressar...
+Ah, sim!
+Depois do nosso incidente com o vidente, voltei<03e0>para investigar sua casa. E ali encontrei algumas<03e0>cartas que falavam sobre um tipo de conspiração...<04e0>O vidente pretendia provocar Royotia e Balterossa<03e0>para que mobilizassem seus exércitos, e em seguida<03e0>destruir suas forças usando uma legião de monstros.<04e0>As cartas estavam codificadas, e seu verdadeiro<03e0>conteúdo estava escondido em frases inocentes, por<03e0>isso levamos um certo tempo até decifrar a mensagem.
+Alguém estava tentando manipular nossos reinos para<03e0>desencadear uma guerra. Tanto minha mãe quanto o pai<03e0>de Paris caiu nessa armadilha...
+Eles quiseram se aproveitar da nossa relação,<03e0>e da desconfiança entre o meu pai e a Duquesa.<03e0>E pensar que fomos usados dessa maneira...
 Paris...
-Both Royotia and Balterossa are in great danger.<03e0>However, we cannot approach both at once. Where<03e0>should we stop them from?<06e0000008e0000000000000>Off to Balterossa!<09e008e0010000000000>Off to Royotia!
-We should start in Balterossa, then. They are fighting at<03e0>a battleground known as the <1be0ffbe34ff>Salamander's Tongue<1ce0>.<04e0>Of course, afterwards we should save the Royotians as<03e0>well. Either way, time is of the essence.
-We should head to Royotia first, yes? The troops are<03e0>making their stand at the <1be0ffbe34ff>Salamander's Belly<1ce0>.<04e0>Let us hurry, so that we may save the Balterossans as<03e0>well!
-Paris, is that truly alright? The Royotian Guard is also<03e0>under attack by monsters!
-I know. Let's hurry to save them!<04e0>To the <1be0ffbe34ff>Salamander's Belly<1ce0>!
-Then it's off to help the Balterossan army.<03e0>There's no time to lose!
-Please, Paris, Sir Rush, save the Balterossans!<04e0>They are at a place called the <1be0ffbe34ff>Salamander's Tongue<1ce0>!
-The beasts have fled.<03e0>And both forces have withdrawn.<04e0>There were casualties, but thankfully,<03e0>major losses were avoided.
-The world is so agitated that it even doubts<03e0>the power of Remnants... Why must something<03e0>like this bring us to war?
-Charlotte...all hope is not lost.<03e0>There is still something we can do...<03e0>Something only we can do.<04e0>Together, we can bring many people happiness.
-Paris...<04e0>But... All I've done is hurt you.<03e0>After that, how could you still want me?
-Oh Charlotte...<03e0>The pain you caused me was like someone taking a<03e0>fiery dagger to my heart.<04e0>Yet through that searing pain, I felt a sweet melancholy,<03e0>as if the instrument of torture branding my heart was<03e0>soaked with tears...<04e0>Tears you yourself had shed from the brutal memories<03e0>of causing such anguish to your one true love.<04e0>I loved you enough to let you go... Such emotion is<03e0>not easily forgotten. I only dream that a fraction of<03e0>this love is returned.
-Paris...<03e0>Yes. Always.
-Then... I must win over my pig-headed father!
-Yes, and I will tell Mother...<03e0>Somehow, I'll make her understand!
-Sir Rush, come to the tavern later, alright?<03e0>I'll have something for you!
+Royotia e Balterossa estão correndo um grande perigo.<03e0>Mas não podemos ir aos dois lugares ao mesmo tempo.<03e0>Onde devemos ir primeiro?<06e0000008e0000000000000>Para Balterossa!<09e008e0010000000000>Para Royotia!
+Devemos começar por Balterossa, então. Eles estão<03e0>lutando em um lugar chamado a <1be0ffbe34ff>Língua da Salamandra<1ce0>.<04e0>Claro, depois teremos que ajudar Royotia também.<03e0>O tempo será nosso maior inimigo.
+Devemos ir primeiro para Royotia, então? As tropas<03e0>estão se reagrupando no <1be0ffbe34ff>Ventre da Salamandra<1ce0>.<04e0>Vamos nos apressar, porque temos que ajudar os<03e0>soldados de Balterossa também!
+Paris, será que estamos fazendo o certo? Os monstros<03e0>também estão atacando os guardas de Royotia!
+Eu sei. Precisamos correr para ajudá-los também!<04e0>Para o <1be0ffbe34ff>Ventre da Salamandra<1ce0>!
+Precisamos ajudar o exército de Balterossa.<03e0>Não há tempo a perder!
+Por favor, salvem os soldados de Balterossa!<04e0>Eles estão na <1be0ffbe34ff>Língua da Salamandra<1ce0>!
+Os monstros fugiram.<03e0>E os dois exércitos se retiraram.<04e0>Houve algumas baixas, mas devemos dar graças aos céus<03e0>por não termos que lamentar uma tragédia ainda maior.
+As pessoas estão tão agitadas que estão até mesmo<03e0>duvidando do poder dos remanescentes... Como é<03e0>possível uma besteira dessas nos conduzir à guerra?
+Charlotte... nem tudo está perdido.<03e0>Ainda existe algo que podemos fazer...<03e0>Algo que somente nós podemos fazer.<04e0>Juntos, podemos trazer a felicidade a muita gente.
+Paris...<04e0>Mas... A única coisa que fiz foi te ferir.<03e0>Como é possível que ainda me queira?
+Ah, Charlotte... Sua rejeição me causou tanta dor<03e0>que parecia que havia uma adaga ardente perfurando<03e0>meu coração.<04e0>Mas ainda assim, apesar dessa dor, senti uma doce<03e0>melancolia, era como se o instrumento de tortura que<03e0>atingiu meu coração estivesse coberto de lágrimas...<04e0>Eram as lágrimas que você tinha derramado ao saber<03e0>da angústia que estava causando ao seu amado.<04e0>Charlotte... Eu te amava tanto que estava disposto a<03e0>deixá-la partir. E algo assim não é fácil esquecer.<03e0>Agora só desejo que meu amor seja correspondido.
+Paris... Eu sempre irei te amar.<03e0>
+Então... devo convencer o cabeça-dura do meu pai!
+Sim, e eu vou falar com minha mãe...<03e0>De alguma maneira, ela terá de entender!
+Senhor Rush, venha até a taverna mais tarde, ok?<03e0>Tenho algo para você!
 

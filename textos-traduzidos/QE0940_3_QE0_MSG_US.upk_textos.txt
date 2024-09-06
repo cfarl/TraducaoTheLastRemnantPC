@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0940_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Huh?<03e0>Th' hell do you want?<06e0000008e0000000000000>Hand over the girl!<09e008e0010000000000>Just passing through...
-*snort* So, there're still a couple idiots with<03e0>balls in this town after all. But you picked the<03e0>wrong time to get all high and mighty!
-Ohoho...slow down. You come in here, see our<03e0>faces, and you think we're gonna let you off<03e0>scot-free?
-Boys! Grab these little punks<07f0>they're gonna be<03e0>the latest additions to our inventory!
+Hã? O que diabos você quer aqui?<03e0> <06e0000008e0000000000000>Solte a garota, seu canalha!<09e008e0010000000000>Só estava de passagem...
+*bufando* Então ainda existem idiotas com culhões<03e0>nessa cidade, no final das contas. Mas você escolheu<03e0>a hora errada para dar uma de valente!
+Ohoho... calma lá, garoto. Você chega aqui, vê<03e0>nossas caras, e pensa que vamos deixá-lo ir<03e0>embora assim, sem mais nem menos?
+Rapazes! Peguem esses merdinhas.<03e0>Eles serão as últimas adições ao nosso inventário!
 

@@ -1,236 +1,236 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) RIO_05PB_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the Firestone!
-So I was digging when I ended up all the way in<03e0>Lavafender. Guess I got carried away... Anyway,<03e0>that's when I see it...<04e0>I swear to Marion this wasn't a mirage<07f0>but I'm<03e0>in this sweltering-hot cave full of lava and I see<03e0>this young girl just standing there, all alone.<04e0>So, of course, I go to her<07f0>I mean, it's<03e0>dangerous, no place for some little slip of a<03e0>girl<07f0>and get this: she disappears.<04e0>Insane, right? I figure she's gotta be a ghost<03e0>with unfinished business. That's the only<03e0>explanation.<04e0>Hey, I toldja it wasn't a mirage! I know what I<03e0>saw!
-Apparently Lord Priam's in bad shape.<04e0>It's real hard to believe, though<07f0>he's always<03e0>been healthier than even us miners. He ain't<03e0>the type to get sick, 'specially not bad as this.<04e0>It's damned frustrating... Alls we can do is try<03e0>and dig up some expensive ore, and try and hire<03e0>a healer from abroad.
-Right before that Conqueror bastard marched<03e0>into town, this freaky voice like a bird call or<03e0>something was heard all over town.<04e0>For some reason, hearing it made me think of<03e0>that ghost I saw down in Lavafender that one<03e0>time...<04e0>Maybe the whole reason the Conqueror could<03e0>take the Emeth Tag in the first place was<03e0>because of the ghost's curse!<04e0>...Nah, that's crazy talk. I'm just freaking<03e0>myself out...
-Long time ago, deep within the earth's molten<03e0>core, twin birds signifying good and evil were<03e0>locked in eternal battle.<04e0>The founder of Royotia saved the bird of virtue.<03e0>In return, he gained weapons strong enough to<03e0>defeat and take over the surrounding lands.<04e0>However, the bird of virtue fought again with<03e0>the bird of evil, and lost. The founder was<03e0>absorbed into the evil beast.<04e0>When all was almost lost, the bird of virtue<03e0>began to sing a lament...a lullaby.<04e0>Upon hearing the sad, gentle song, the bird of<03e0>evil fell asleep and sank beneath the lava, to<03e0>slumber for eternity.<04e0>That legend has been told in this land for<03e0>hundreds of years. Still, there aren't too many<03e0>people interested in such fairytales nowadays.
-I heard from Lord Paris that you had defeated<03e0>the bird of evil, Vespalia, once and for all.<04e0>I never would have thought that the legend was<03e0>real...<04e0>The only reason Royotia still stands today is<03e0>due to you. I speak for the entire town when I<03e0>say you have our thanks.
-Just before the Conqueror's army marched on<03e0>Royotia, the harsh sound of a bird's call could<03e0>be heard all through the city.<04e0>That legend...it wasn't just a fairytale. The<03e0>bird of virtue's seal has broken. The bird of<03e0>evil has awakened.<04e0>Whether the Conqueror returns here or not,<03e0>Royotia is finished...
-Hrmm, ain't nothing interesting goin' on at all.
-Do you know Baron Nielsen of Celapaleis? Seems his<03e0>wife's disappeared. Probably left him...it wouldn't be the<03e0>first time. Or the second...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Baron Nielsen...my eternal rival! I'll beat you yet...<03e0>Whenever you realize we have a rivalry, anyway.
-Yeah, yeah!
-Seems like there's some crazy woman plotting to<03e0>assassinate Duke Qubine...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Duke Qubine...what a disagreeable ruler!<03e0>...I guess. Not like we've met or anything.
-Like you ever could!
-So, the desert princess has been sneaking out of<03e0>the castle to meet some guy she's been mooning over.<03e0>Sounds kinda dangerous to me...
-An' that's the story!
-Harumph harumph...harumph!<03e0>The desert princess is my biggest fan!<03e0>...I wish, anyway.
-Impossible!
-Hey!<03e0>So, the desert princess has eloped with her man!
-An' that's the story!
-Harumph harumph...harumph!<03e0>Eloping...this man is also my rival!<03e0>...If only he knew it.
-Not likely!
-Relations between Royotia and Balterossa have taken<03e0>a nosedive lately. The families of soldiers are really<03e0>worried that war is unavoidable.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Balterossa...my beloved Royotia will deal you<03e0>a crushing blow! ...Someday.
-Keep hope alive!
-So there's supposed to be something the Imperator<03e0>sealed out in the great swamp...<03e0>Problem is, the seal's broken...oops!
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Imperator<07f0>another one of my rivals!<03e0>...If he were still alive, that is.
-Riiight.
-So, one of the Forest Maidens bound to those<03e0>Order of Melphina knights can sense what he's<03e0>sensing.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Forest Maidens...more of my fans!<03e0>...That would be incredible, huh?
-Impossible!
-The Forest Maidens and the Order of Melphina<03e0>are mobilizing... Seems something's happened to<03e0>the Last Leaf in Crookfen.
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Last Leaf...I've never seen it and thus have<03e0>nothing to say about it. Next!
-Boo...
-It's almost time for Kosmosfest, huh.<03e0>But apparently the Cosmos Maiden hasn't made it to<03e0>Nagapur yet. Maybe she got mixed up in something...
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Cosmos Maiden...another of my fans!<03e0>...That would be incredible, wouldn't it?
-Impossible!
-So the Cosmos Maiden made it, and they started<03e0>the Kosmosfest alright. Usually the ceremony's a bunch<03e0>of hooey, but this time it was interrupted by monsters.
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Kosmosfest! I've never seen it and thus have<03e0>nothing to say about it. ...Next!
-Boo...
-Some old-fashioned chick is looking to hire<03e0>bodyguards, I hear. She's supposed to be hanging out<03e0>at the pub near the canal.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Ancient lady<07f0>I'm sure she's a fan of me!<03e0>...Right?
-Impossible!
-Apparently a lot of the treasures of the Old Kingdoms<03e0>are turning up on the black market.
-An' that's the story!
-Harumph harumph...harumph!<03e0>The treasures of the Old Kingdoms...they were all<03e0>stolen by me! ...Okay, sorry. That's a lie.
-Not a funny joke!
-Some guy is looking for these three stones that're<03e0>really important to the desert.<03e0>Historically significant, or something.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Three stones...they belong to me!<03e0>...Okay, sorry. That's a lie.
-Not a funny joke!
-Some guy into ancient magick is looking for people<03e0>to help out with research. Seems he's on the verge<03e0>of unlocking some huge mysteries.
-An' that's the story!
-Harumph harumph...harumph!<03e0>A researcher<07f0>obviously he is my rival!<03e0>...I think.
-Nooot really.
-So some folks are crying it's the end of the world<03e0>over some freaky monster. Apparently it was sealed<03e0>by the Imperator, and now it's back...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Freaky monster...obviously you are my rival!<03e0>...Okay, no, I wouldn't have a chance against it.
-Definitely no chance.
-Some amnesiac is wandering around the cities in<03e0>the desert, looking for something that could regain<03e0>his memory.
-An' that's the story!
-Harumph harumph...harumph.<03e0>Amnesiac...obviously you are my rival!<03e0>...Though I guess you wouldn't know it.
-I think you're unforgettable, boss!
-Recently people've been seeing this infamous bandit<03e0>around Athlum. Apparently he's waiting around for<03e0>someone but no one's brave enough to ask who.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Infamous bandit...obviously you are my rival!<03e0>...Hey, I'd be a better bandit than you'd think.
-...Is that something to be proud of?
-There's a goddess statue in the Robelia Ruins that'll<03e0>let you meet anyone in the world, no matter how far.<03e0>Some kid who lost his sister is totally into it...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Goddess statues...I've never seen them and thus<03e0>have nothing to say about them. Next!
-Boo...
-There's a murderer on the loose in the capital!
-An' that's the story!
-Harumph harumph...harumph!<03e0>Murderer...obviously you are my rival!<03e0>...I feel as if I should catch up.
-You can't be serious...
-There's some massive yama sayin' he's lost his<03e0>stuff, but he's kind of a weirdo so people're givin'<03e0>him a wide berth.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Massive yama...you must be my rival!
-Certainly a rival in the strange department!
-Some white qsiti's been looking for a magickal book.<03e0>People seem to think he looks familiar, but no one's<03e0>been able to place him.
-An' that's the story!
-Harumph harumph...harumph!<03e0>White qsiti! You must be another of my rivals!<03e0>...For reasons I cannot quite explain.
-If you say so!
-There's these twins that've turned up as mercenaries<03e0>lately...good ones, too. The one girl is supposed to be<03e0>a real cool customer<07f0>both in looks, and in attitude.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Twin mercenaries...obviously both are huge fans!<03e0>...Even if they don't quite know it yet.
-Impossible!
-Some guy out in the Great Sand Sea's been looking<03e0>for challengers for some game. Seems like<03e0>they've gotta be pretty impressive, too.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Game-playing man...you, too, are my rival!
-You don't even know what the game is...
-Some old warrior's been crossing the Great Sand<03e0>Sea, looking for a special sword.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Old warrior...you, too, are my rival!<03e0>...If only you knew that.
-Riiight.
-A bunch of guards somewhere have sworn to<03e0>follow their ruler for as long as they live.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Ruler of somewhere...you, too, are my rival!<03e0>...I wonder where that "somewhere" is.
-Good question.
-There's not a family in the world as dedicated as<03e0>the Honeywells. If you've got them at your back,<03e0>you can do anything.
-An' that's the story!
-Harumph harumph...harumph! The Honeywells...their<03e0>blood runs through my veins! ...Er, my mother's sister's<03e0>cousin's grandmother's niece's friend!
-That's not related to you at all!
-So, Athlum's General Torgal is supposed to have<03e0>some past what's coming back to haunt him. Stuff<03e0>here, in Royotia...
-An' that's the story!
-Harumph harumph...harumph!<03e0>This General Torgal...you, too, are my rival!<03e0>...If only you knew I existed.
-Whatever you say, boss.
-It's about time for the Tournament of Heroes to start<03e0>up again. It's pretty well-known among the types with<03e0>fighting spirit.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Heroic tournament...I've never heard of it and thus<03e0>have nothing to say about it. Next!
-Boo...
-Apparently there's some mystic academy that's been<03e0>spitting out skilled magi for years.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Mystic academy...I've never heard of it and thus<03e0>have nothing to say about it. Next!
-Boo...
-Athlum's been going through some tough times, and<03e0>people are worried about the new matriarch of<03e0>the Honeywell clan because she's so young.
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Honeywell matriarch...obviously she, too, is one<03e0>of my fans! ...At least, that would be nice.
-Impossible!
-Recently there's been gossip about Athlum's Marquis'<03e0>love interests...or lack thereof. He's never been<03e0>connected with anybody. Wonder if he's a eunuch?
-An' that's the story!
-Harumph harumph...harumph!<03e0>Marquis of Athlum...you, too, are my rival!<03e0>...Impressive, don't you think?
-Definitely a surprise.
-The old head of the Academy's been seen in pubs<03e0>across the continent lately. I guess it stands to reason<03e0>she'd want to drown her sorrows after what happened.
-An' that's the story!
-Harumph harumph...harumph!<03e0>The former head of the Academy...you, too, are my<03e0>rival! ...Or should that be my fan?
-Make up your mind!
-Those Sykes scientists have been seen going in and<03e0>out of Athlum Castle a lot lately. Guess they<03e0>discovered somethin' new?
-An' that's the story!
-Harumph harumph...harumph!<03e0>Doctor Marina Sykes...obviously she is my fan!<03e0>...At least, it'd be pretty impressive if so.
-Impossible!
-Some unidentified flying object's been spotted flying<03e0>around Wyrmskeep. It's got all the people there<03e0>spooked.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Wyrmskeep...I've never seen it and thus have<03e0>nothing to say about it. Next!
-Boo...
-Some hot-blooded female warrior is trying to hunt<03e0>down that group causing trouble in Crookfen. But it's<03e0>against her boss's wishes...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Female warrior...another of my fans!<03e0>...That would be incredible, wouldn't it?
-Impossible!
-Some monster army's appeared in the Great Sand Sea.<03e0>They're so powerful that everyone in Balterossa is<03e0>totally in despair...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Monster hordes...I could destroy them with a flick<03e0>of my wrist! ...Okay, sorry. That's a lie.
-Not a funny joke!
-According to ancient historians, there's something<03e0>dangerous enough to destroy entire cities sealed<03e0>within the volcano...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Volcano...I've never seen it and thus have nothing<03e0>to say about it. Next!
-Seriously!? It's right outside...
-No one knows anything about the stuff going on inside<03e0>the volcano, nor does anyone know how to find out...<03e0>Maybe Marquis Priam knows something?
-An' that's the story!
-Harumph harumph...harumph!<03e0>Inside the volcano! I've never seen it and thus have<03e0>nothing to say about it. Next!
-I guess most people haven't seen the inside of a<03e0>volcano...
-You know there's a town without anyone running it?<03e0>The old ruler's sons are fighting over the seat of power.
-An' that's the story!
-Harumph harumph...harumph!<03e0>A rulerless town? Obviously I must go there and run it!<03e0>...Except it kinda sounds like a hassle, so I'll pass.
-Make up your mind!
-When you're out in the desert, you can hear this sad,<03e0>lonely voice crying from beneath the Great Sand Sea.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Beneath the desert...I've never seen it and thus<03e0>have nothing to say about it. Next!
-Boo...
-A long time ago, there used to be a famed hero that<03e0>lived in the Great Sand Sea.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Famed hero...you, too, are my rival!<03e0>...If only you were still alive.
-Being dead for a couple hundred years does put a<03e0>damper on the rivalry, huh.
-So I was walking through town and heard this guy all<03e0>"you gotta believe me! If you look at the pillars in<03e0>the Great Sand Sea, then...g-g-gra<07f0>!"
-An' that's the story!
-Harumph harumph...harumph!<03e0>Great Sand Sea...I've never been there and thus<03e0>have nothing to say about it. Next!
-You...you can't be serious...
-Some crackpot old scientist has been wandering around<03e0>Melphina. If you go over there, you probably should<03e0>stay away, he's giving people strange looks.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Crackpot scientist...you, too, are my rival!
-...Why?
-The cafe out in Baaluk's supposedly infested with<03e0>bugs...they followed the guy all the way from the desert.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Swarming bugs...you, too, are my rival!
-...Even the bugs? Really?
-Nagapur's been increasingly unsafe. Recently a<03e0>bunch of kids have gone missing...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Nagapur...I've never been there and thus<03e0>have nothing to say about it. Next!
-Boo...
-Yeah, so adventurers have started trading the<03e0>different loot they find on their trips. Seems the fad's<03e0>based right here in Royotia!
-An' that's the story!
-Harumph harumph...harumph!<03e0>Trading loot...I've done that as well!<03e0>...I think.
-Don't you know?
-Royotian merchants are getting frustrated with<03e0>Balterossa...they control all of their trade routes.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Balterossa...I've never been there.<03e0>...Wonder what it's like.
-...Are you serious?
-Some yamaan mercenary's out looking for a partner.<03e0>Could be a good way to make a few G.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Yama mercenary...you, too, are my rival!<03e0>...If I knew who you were.
-Riiight.
-Some crazy guy's just shown up in Celapaleis.<03e0>He'll seem all normal and then will flip out and yell<03e0>at people at the drop of a hat.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Random crazy guy...you, too, are my rival!<03e0>...And a true one, I believe.
-I'll agree with that one...
-Some crazy qsiti's been going to crowded places and<03e0>picking fights with people who run into him. What<03e0>an annoyance...
-An' that's the story!
-Harumph harumph...harumph!<03e0>Annoying qsiti...you, too, are my rival!
-In being annoying?
-Some mysterious lady's been looking for someone<03e0>to help her out. Seems something pretty serious's<03e0>been dropped on her plate.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Mysterious lady...obviously, you, too, are my fan!<03e0>...I hope so, anyway!
-Impossible!
-You've probably seen them if you've been hanging<03e0>around Crookfen, but Bloody Alice has been gathering.<03e0>Looks like something big's going on...
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Ladies of Bloody Alice...obviously, they are all<03e0>my fans!
-Riiight.
-Seems the Jhana have been popping up in the Great<03e0>Sand Sea. Didn't Athlum just beat them up not too<03e0>long ago?
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Jhana...I could destroy them all myself!<03e0>...Okay, sorry. That's a lie.
-Not a funny joke!
-Recently the Silver Falcons took out a pack of Jhana.
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Silver Falcons...the whole lot of them are my<03e0>rivals! ...I'm sure at least one of them realizes this.
-I'm not so sure myself...
-The Silver Falcons have been going after the<03e0>leftovers of the Conqueror's army. Who knows<03e0>what those guys could be up to...
-An' that's the story!
-Harumph harumph...harumph!<03e0>The Conqueror...you, too, are my rival!
-In what!?
-Some gloomy-looking guy's been hanging around<03e0>the pub in Elysion recently...bumming everyone out.
-An' that's the story!
-Harumph harumph...harumph!<03e0>Gloomy man...you, too, are my rival!<03e0>...Though I'm in good spirits, myself.
-Makes it not sound like much of a rivalry...
+Bem-vindo à Taverna Pedra de Fogo!
+Então, eu estava ali cavando na mina, e quando me dei<03e0>conta, já estava em Lavafender. Acho que me distraí...<03e0>Bem, seja como for, foi ali onde eu a vi...<04e0>Juro por Marion que não era uma miragem... Eu estava<03e0>naquela caverna de lava, quando de repente apareceu<03e0>diante de mim uma jovem completamente só.<04e0>Então, claro, fui até ela... Afinal de contas, ali não é<03e0>lugar para uma garota. A caverna é muito perigosa...<03e0>E foi nesse momento que ela desapareceu!<04e0>Parece loucura, não é mesmo? Devia ser algum fantasma<03e0>com assuntos pendentes. Essa foi a única explicação que<03e0>que consegui encontrar para o que aconteceu.<04e0>Ei, eu já te disse que não foi nenhuma alucinação!<03e0>Eu sei exatamente o que vi!
+Parece que Lorde Priam não está nada bem.<04e0>É muito difícil acreditar nisso, ele sempre teve uma<03e0>saúde de ferro. Não é do tipo que fica doente. Muito<03e0>menos assim tão gravemente.<04e0>Isso é frustrante... A única coisa que podemos fazer<03e0>agora é cavar, na esperança de encontrar um metal<03e0>valioso que possa pagar um curandeiro de fora.
+Pouco antes daquele maldito Conquistador aparecer por<03e0>aqui todos ouviram um grito estranho. Ele lembrava o<03e0>grasnido de um pássaro, ou algo parecido...<04e0>Não sei por quê... Mas por algum motivo, esse som me<03e0>fez pensar daquele fantasma que vi em Lavafender...<03e0> <04e0>Talvez a maldição desse fantasma tenha alguma relação<03e0>com a vontade do Conquistador de pegar o Emeth Tag!<03e0> <04e0>Não... isso é loucura. Quanta bobagem estou dizendo,<03e0>minha nossa...
+Há muito tempo atrás, nas profundezas da terra, duas<03e0>aves gêmeas surgiram para travar uma batalha eterna.<03e0>Uma simbolizava o bem; a outra simbolizava o mal.<04e0>O fundador de Royotia salvou a ave do bem, e como<03e0>recompensa recebeu armas muito poderosas. Graças<03e0>a elas, conseguiu conquistar as terras vizinhas.<04e0>Anos mais tarde, a ave do bem enfrentou outra vez a<03e0>ave do mal, e perdeu. A ave do mal então aproveitou<03e0>para tomar para si a alma do fundador.<04e0>Quando tudo parecia perdido, a ave do bem começou a<03e0>emitir um lamento. Uma espécie de canção de ninar...<04e0>E ao ouvir esse canto triste e sentido, a ave do mal<03e0>caiu em um sono eterno e afundou na lava.<03e0> <04e0>Por aqui temos escutado essa lenda durante séculos.<03e0>Mas me parece que hoje em dia já não existem tantas<03e0>pessoas interessadas nesses contos de fadas...
+Lorde Paris me contou que você derrotou Vespália,<03e0>a ave do mal, de uma vez por todas.<04e0>Nunca imaginei que a lenda fosse mesmo verdadeira...<03e0> <04e0>Royotia só permanece de pé graças a você. Creio que<03e0>falo em nome de toda a cidade, ao afirmar que você<03e0>conta com nossa mais sincera gratidão.
+Um pouco antes do exército do Conquistador chegar em<03e0>Royotia, ouviu-se um som terrível por toda a cidade.<03e0>Parecia o grasnido de um pássaro.<04e0>Então a lenda era de fato verdadeira... a prisão que<03e0>foi criada pela ave do bem não existe mais. A ave do<03e0>mal despertou do seu sono eterno.<04e0>Já não importa mais se o Conquistador vai voltar ou<03e0>não. De qualquer maneira, esse é o fim de Royotia.
+Hmm, não tem nada de interessante acontecendo aqui.
+Você já ouviu falar do tal Barão Nielsen de Celapaleis?<03e0>Parece que sua esposa mais uma vez o abandonou...<03e0>Mas essa não é a primeira vez. Nem a segunda...
+E essa é a história!
+Harumph...harumph! Barão Nielsen, meu eterno rival!<03e0>Ainda vou te encontrar. Assim que você ficar sabendo<03e0>dessa nossa rivalidade, claro.
+Isso, isso!
+Parece mentira, mas ouvi dizer que uma mulher maluca<03e0>está planejando assassinar o duque de Qubine...
+E essa é a história!
+Harumph harumph...harumph! Esse duque de Qubine é um<03e0>pirralho insuportável! Nunca falei com ele, mas...<03e0>
+Como se você pudesse!
+Então, parece que a princesa do deserto anda saindo<03e0>escondida do castelo para se encontrar com um rapaz<03e0>por quem está apaixonada. Isso parece perigoso...
+E essa é a história!
+Harumph harumph...harumph! A princesa do deserto é a<03e0>minha maior fã! Assim espero, pelo menos...<03e0>
+Impossível!
+A princesa do deserto fugiu com seu amado!<03e0>
+E essa é a história!
+Harumph harumph...harumph! Ela Fugiu... a partir de<03e0>agora, então, seu amado também é meu rival! Vamos ver<03e0>se ele fica sabendo disso...
+Provavelmente não!
+Parece que as relações entre Balterossa e Royotia vão<03e0>de mal a pior. Os exércitos estão sendo mobilizados e<03e0>as famílias dos soldados estão preocupadas...
+E essa é a história!
+Harumph harumph...harumph! Balterossa... minha amada<03e0>Royotia vai te dar o que merece! Assim espero...<03e0>
+A esperança é a última que morre!
+Parece que o primeiro Imperador ocultou algo por trás<03e0>de uma barreira no grande pântano. E agora a barreira<03e0>foi rompida... oops!
+E essa é a história!
+Harumph harumph...harumph! O primeiro Imperador...<03e0>outro dos meus grandes rivais! É uma pena que tenha<03e0>morrido séculos atrás...
+Ceeeerto.
+Uma das Donzelas do Bosque tem um vínculo tão forte<03e0>com um cavaleiro da Ordem de Melphina que é capaz<03e0>de sentir tudo o que ele está sentindo.
+E essa é a história!
+Harumph harumph...harumph! As Donzelas do Bosque são<03e0>também minhas fãs! Isso sim seria incrível, hã?<03e0>
+Impossível!
+As donzelas do bosque, junto com a Ordem de Melphina,<03e0>estão preparando uma expedição. Parece que aconteceu<03e0>algo com a Folha Caída, o remanescente de Crookfen.
+E essa é a história!
+Harumph harumph...harumph! A Folha Caída... Não sei<03e0>do que você está falando, por isso não tenho nada a<03e0>dizer a seu respeito. Próxima!
+Aff...
+Já está quase na hora da Festa Cósmica começar, mas a<03e0>Donzela Cósmica ainda não chegou em Nagapur. Espero<03e0>que nada de mal tenha acontecido a ela...
+E essa é a história!
+Harumph harumph...harumph! A Donzela Cósmica também<03e0>é minha fã! Isso sim seria incrível, não?<03e0>
+Impossível!
+No final a Festa Cósmica começou conforme planejado.<03e0>A cerimônia costuma ser bem tranquila, mas dessa vez<03e0>apareceram uns monstros e tiveram que interrompê-la.
+E essa é a história!
+Harumph harumph...harumph! A Festa Cósmica! Não sei<03e0>do que você está falando, por isso não tenho nada a<03e0>dizer a seu respeito. Próxima!
+Aff...
+Uma dama apegada a tradições está querendo contratar<03e0>um guarda-costas. Dizem que ela pode ser encontrada<03e0>na taverna de uma cidade cheia de canais.
+E essa é a história!
+Harumph harumph...harumph! Oras, uma dama apegada a<03e0>tradições. Certeza que é minha fã! Não é?<03e0>
+Impossível!
+Parece que os tesouros dos reinos antigos estão sendo<03e0>vendidos no mercado negro...
+E essa é a história!
+Harumph harumph...harumph! Esses tesouros dos reinos<03e0>antigos... pois chegaram tarde, já roubei todos eles!<03e0>Calma, calma... Não é verdade.
+Isso não teve nenhuma graça!
+Há um homem por aí que anda em busca de três pedras<03e0>relacionadas com o antigo reino do deserto. Parece<03e0>que elas têm valor histórico, ou algo parecido.
+E essa é a história!
+Harumph harumph...harumph! Essas três pedras... elas<03e0>pertencem a mim! Calma, calma... Não é verdade.<03e0>
+Isso não teve nenhuma graça!
+Um sujeito interessado na magia arcana está em busca<03e0>de alguém que possa ajudá-lo em seus experimentos.<03e0>Dizem que está prestes a fazer uma grande descoberta.
+E essa é a história!
+Harumph harumph...harumph! Um pesquisador... é claro<03e0>que é mais um rival! Acho que sim...<03e0>
+Na verdade... Nãããããão.
+Parece que está de volta um monstro que havia sido<03e0>aprisionado pelo primeiro Imperador. As pessoas<03e0>estão em pânico, achando que é o fim do mundo!
+E essa é a história!
+Harumph harumph...harumph! Um monstro assustador... é<03e0>claro que também é meu rival! Pensando bem... eu não<03e0>teria nenhuma chance contra ele.
+Definitivamente NENHUMA chance.
+Um homem com amnésia está vagando pelas cidades do<03e0>deserto, em busca de algo que possa ajudar a trazer de<03e0>volta a sua memória.
+E essa é a história!
+Harumph harumph...harumph. Um homem com amnésia...<03e0>é claro que também é meu rival! Mesmo que não consiga<03e0>se lembrar disso.
+Qualquer um se esquece de alguém como você...
+Parece que viram um famoso bandido pelos arredores de<03e0>Athlum. Estão dizendo que ele está procurando alguém,<03e0>mas ninguém tem coragem de ir lá falar com ele.
+E essa é a história!
+Harumph harumph...harumph! Famoso bandido... é claro<03e0>que também é meu rival! Ei... eu seria um bandido bem<03e0>melhor do que você pensa.
+E isso é algo do qual você possa se orgulhar?
+Nas Ruínas de Robélia há uma estátua que te permite<03e0>encontrar qualquer pessoa no mundo, esteja ela onde<03e0>estiver. Um rapaz procura ela, para ver sua irmã...
+E essa é a história!
+Harumph harumph...harumph! Estátuas... Não sei do que<03e0>você está falando, por isso não tenho nada a dizer a<03e0>respeito delas. Próxima!
+Aff...
+Há um assassino à solta na capital!
+E essa é a história!
+Harumph harumph...harumph! Assassino... é claro que<03e0>também é meu rival! Já está faltando espaço no meu<03e0>registro de rivais...
+Espero que não esteja falando sério...
+Parece que um yama enorme perdeu suas coisas. Mas ele<03e0>é meio estranho, e por isso as pessoas estão tentando<03e0>manter distância.
+E essa é a história!
+Harumph harumph...harumph! Yama enorme... você deve<03e0>ser outro dos meus rivais!
+Certamente um rival no departamento de malucos!
+Parece que um qsiti albino está em busca de um certo<03e0>livro sobre a magia arcana. As pessoas estão dizendo<03e0>que ele parece familiar.
+E essa é a história!
+Harumph harumph...harumph! Qsiti albino! Você deve<03e0>ser outro dos meus rivais! Por motivos que eu não<03e0>consigo explicar.
+Se você está dizendo!
+Parece que duas garotas gêmeas começaram a trabalhar<03e0>como mercenárias... E dizem que elas são muito boas!<03e0>Mas uma delas tem um gênio terrível.
+E essa é a história!
+Harumph harumph...harumph! Gêmeas mercenárias... é<03e0>claro que são minhas fãs! Mesmo que ainda não tenham<03e0>se dado conta disso.
+Impossível!
+Um homem está desafiando as pessoas a participar de<03e0>um tipo de jogo no Grande Mar de Areia. Mas parece<03e0>que ele não está aceitando qualquer um...
+E essa é a história!
+Harumph harumph...harumph! Homem organizando jogos!<03e0>Você também é meu rival!
+Você nem sabe do que se trata esse jogo...
+Dizem que um velho guerreiro atravessou todo o Grande<03e0>Mar de Areia em busca de um espada muito especial.
+E essa é a história!
+Harumph harumph...harumph! Velho guerreiro...<03e0>Você também é meu rival! Só falta saber disso...<03e0>
+Ceeeerto.
+Um grupo de soldados, de algum lugar, jurou lealdade<03e0>ao seu comandante até o último dia de suas vidas.
+E essa é a história!
+Harumph harumph...harumph! Comandante de algum lugar,<03e0>você também é meu rival! Só preciso saber onde é que<03e0>fica esse lugar...
+Boa pergunta.
+Não existe nenhuma família no mundo tão leal como os<03e0>Honeywells. Se eles estiverem do seu lado, você pode<03e0>conseguir qualquer coisa.
+E essa é a história!
+Harumph harumph...harumph! Os Honeywells... pois seu<03e0>sangue corre em minhas veias! A cunhada do meu primo<03e0>por parte de mãe tinha um amigo que conhecia eles!
+Eles não têm nenhum parentesco com você!
+Parece que o General Torgal de Athlum guarda coisas<03e0>no seu passado que estão voltando para assombrá-lo.<03e0>Descobriram algo aqui, em Royotia...
+E essa é a história!
+Harumph harumph...harumph! Esse General Torgal... é<03e0>também meu rival! Pena que ele não saiba quem sou...<03e0>
+É como você diz...
+Logo vai começar o Torneio dos Heróis... Essa é uma<03e0>competição bastante conhecida entre os interessados<03e0>pelo combate.
+E essa é a história!
+Harumph harumph...harumph! Torneio dos Heróis...<03e0>Não sei do que você está falando, por isso não<03e0>tenho nada a dizer sobre ele. Próxima!
+Aff...
+Parece que há por aí uma academia de magia, e durante<03e0>anos ela vem treinando os melhores magos do mundo...
+E essa é a história!
+Harumph harumph...harumph! Academia de magia...<03e0>Não sei do que você está falando, e por isso não<03e0>tenho nada a dizer sobre ela. Próxima!
+Aff...
+Athlum tem passado por momentos difíceis e as pessoas<03e0>andam um pouco preocupadas com a nova matriarca do<03e0>clã Honeywell. Ela é tão jovem....
+E essa é a história!
+Harumph harumph...harumph! Matriarca dos Honeywell...<03e0>é claro que é outra das minhas fãs! Isso seria bom...<03e0>
+Impossível!
+Ultimamente tem circulado boatos sobre a vida amorosa<03e0>de Lorde David... ou sobre a falta dela. Isso porque<03e0>nunca o viram envolvido com ninguém...
+E essa é a história!
+Harumph harumph...harumph! Marquês de Athlum... você<03e0>também é meu rival! Isso sim seria impressionante,<03e0>você não acha?
+Definitivamente uma surpresa.
+Dizem que a antiga diretora da Academia anda vagando<03e0>de cidade em cidade, visitando tavernas. Deve estar<03e0>tentando afogar as mágoas, depois do que aconteceu.
+E essa é a história!
+Harumph harumph...harumph! A antiga diretora da<03e0>Academia... você também é minha rival! Ou seria<03e0>uma das minhas fãs?
+Se decida!
+Os doutores Sykes têm sido vistos entrando e saindo<03e0>do castelo de Athlum, com bastante frequência. Será<03e0>que fizeram alguma nova descoberta?
+E essa é a história!
+Harumph harumph...harumph! Doutora Marina Sykes...<03e0>ela também é minha fã! Bem, seria impressionante se<03e0>ela fosse...
+Impossível!
+Um objeto voador não identificado foi avistado nos<03e0>arredores de ForteDragão. As pessoas que vivem ali<03e0>andam histéricas por causa disso...
+E essa é a história!
+Harumph harumph...harumph! ForteDragão... Não sei do<03e0>que você está falando, por isso não tenho nada para<03e0>dizer sobre esse lugar. Próxima!
+Aff...
+Uma guerreira com sede de justiça está caçando aqueles<03e0>homens que andaram causando problemas em Crookfen.<03e0>Mas ela está desobedecendo o líder da sua ordem.
+E essa é a história!
+Harumph harumph...harumph! Guerreira impulsiva...<03e0>é outra para minha lista de fãs! Isso sim seria<03e0>incrível, você não acha?
+Impossível!
+Dizem que apareceu um exército de monstros no Grande<03e0>Mar de Areia. Eles são muito poderosos, e os habitantes<03e0>de Balterossa estão desesperados...
+E essa é a história!
+Harumph harumph...harumph! Exército de monstros...<03e0>Eu poderia destruí-los em um piscar de olhos! Tudo<03e0>bem, desculpe. É mentira...
+Isso não teve nenhuma graça!
+De acordo com antigos historiadores, há alguma coisa<03e0>aprisionada no interior do vulcão, uma coisa capaz de<03e0>destruir uma cidade inteira...
+E essa é a história!
+Harumph harumph...harumph! Vulcão... Não sei do que<03e0>você está falando, e por isso não tenho nada a dizer<03e0>sobre ele. Próxima!
+Você está falando sério? O vulcão está bem ali fora.
+Ninguém sabe exatamente o que acontece no interior do<03e0>vulcão, nem como investigar isso... Mas pode ser que o<03e0>marquês de Royotia saiba o que fazer.
+E essa é a história!
+Harumph harumph...harumph! O interior do vulcão!<03e0>Nunca estive nesse lugar, por isso não tenho nada<03e0>a dizer sobre ele. Próxima!
+De fato, acho que a maioria das pessoas nunca esteve<03e0>no interior de um vulcão...
+Você sabia que existe uma cidade que não tem senhor?<03e0>Dois irmãos estão brigando pelo posto do seu pai.
+E essa é a história!
+Harumph harumph...harumph! Uma cidade sem senhor?<03e0>Então vou ter que governá-la! Pensando bem, isso deve<03e0>ser muito chato... Deixa pra lá.
+Se decida!
+Dizem que, ao cruzar o deserto, é possível ouvir um<03e0>lamento triste e solitário vindo dali de baixo.
+E essa é a história!
+Harumph harumph...harumph! Debaixo do deserto...<03e0>Nunca estive ali, por isso não tenho nada a dizer<03e0>sobre esse lugar. Próxima!
+Aff...
+Há muito tempo atrás, um herói de grande fama vivia<03e0>no Grande Mar de Areia.
+E essa é a história!
+Harumph harumph...harumph! Herói de grande fama...<03e0>ele também é meu rival! É uma pena que não esteja<03e0>mais vivo...
+Estar morto há algumas centenas de anos coloca um<03e0>fim na rivalidade, não é mesmo?
+Eu estava andando pela cidade e ouvi um homem dizer:<03e0>"Você precisa acreditar em mim! Se olhar bem para os<03e0>pilares do Grande Mar de Areia verá os fan... fan..."
+E essa é a história!
+Harumph harumph...harumph! Grande Mar de Areia...<03e0>Nunca estive lá, e por isso não tenho nada a dizer<03e0>sobre esse lugar. Próxima!
+Você... você não pode estar falando sério...
+Um cientista maluco anda perambulando por Melphina.<03e0>Se você for passar por ali é melhor nem chegar perto...<03e0>Ele está olhando as pessoas de um jeito estranho.
+E essa é a história!
+Harumph harumph...harumph! Cientista maluco... pois<03e0>ele também é um dos meus rivais!
+Certo... Mas por quê?
+Parece que a cafeteria de Baaluk está infestada de<03e0>insetos. Eles seguiram seu dono por todo o deserto.
+E essa é a história!
+Harumph harumph...harumph! Insetos do deserto...<03e0>Vocês também são meus rivais!
+Até mesmo os insetos? Está falando sério?
+Nagapur está cada vez mais perigosa. Ouvi dizer que<03e0>várias crianças andaram desaparecendo na cidade...
+E essa é a história!
+Harumph harumph...harumph! Nagapur... Nunca estive<03e0>nesse lugar, por isso não tenho nada a dizer sobre<03e0>ele. Próxima!
+Aff...
+Os aventureiros agora estão trocando os tesouros que<03e0>encontram em suas viagens. E parece que essa moda<03e0>teve início bem aqui, em Royotia!
+E essa é a história!
+Harumph harumph...harumph! Trocando tesouros...<03e0>Eu fazia isso antes de trabalhar nessa taverna...<03e0>Acho que fazia...
+Você não tem certeza?
+Parece que os mercadores de Royotia já estão fartos<03e0>de Balterossa controlar todas suas rotas comerciais.
+E essa é a história!
+Harumph harumph...harumph! Balterossa...<03e0>Nunca estive ali... Como é esse lugar?<03e0>
+Você está falando sério?
+Um mercenário yama está em busca de um parceiro...<03e0>Pode ser uma boa chance de conseguir umas moedas.
+E essa é a história!
+Harumph harumph...harumph! Mercenário yama... ele<03e0>também é meu rival! Só não sei quem ele é...<03e0>
+Ceeeerto.
+Apareceu em Celapaleis um homem com problema de<03e0>personalidade. Dizem que ele é muito simpático, mas<03e0>do nada começa a insultar as pessoas sem motivo!
+E essa é a história!
+Harumph harumph...harumph! Um homem maluco...<03e0>Ele também é meu rival! E estou falando sério.<03e0>
+Dessa vez tenho que concordar com você.
+Tem um qsiti maluco que costuma ir a lugares cheios<03e0>de gente só para ficar bem no caminho das pessoas e<03e0>arrumar confusão com quem esbarra nele.
+E essa é a história!
+Harumph harumph...harumph! Qsiti maluco...<03e0>Você também é meu rival!
+Por ser irritante?
+Uma mulher misteriosa está em busca de ajuda. Parece<03e0>que ela tem um problema muito sério para resolver.<03e0>
+E essa é a história!
+Harumph harumph...harumph! Mulher misteriosa... é<03e0>claro que também é minha fã! Assim espero!<03e0>
+Impossível!
+Não sei se passou recentemente por Crookfen, mas<03e0>parece que as Damas Sangrentas estão se reunindo<03e0>ali. Acho que tem algo importante acontecendo...
+E essa é a história!
+Harumph harumph...harumph! As Damas Sangrentas...<03e0>evidentemente, são todas elas minhas fãs!<03e0>
+Ceeeerto.
+Parece que os jhanas voltaram a mostrar as caras no<03e0>Grande Mar de Areia. Mas Athlum não deu uma lição<03e0>neles há pouco tempo atrás?
+E essa é a história!
+Harumph harumph...harumph! Esses tais de jhana...<03e0>Posso acabar com eles sozinho! Bem, acho que sim...<03e0>
+Isso não teve nenhuma graça!
+Os Falcões Prateados acabaram com um bando de jhanas.
+E essa é a história!
+Harumph harumph...harumph! Os Falcões Prateados...<03e0>todos eles são meus rivais! Tenho certeza que pelo<03e0>menos um deles sabe disso...
+Eu não tenho tanta certeza...
+Os Falcões Prateados estão indo atrás do que restou<03e0>do exército do Conquistador. Que bom! Ninguém sabe o<03e0>que esses homens poderiam fazer...
+E essa é a história!
+Harumph harumph...harumph! Conquistador... você<03e0>também é meu rival!
+No quê?
+Um homem de aparência sombria está deixando todos<03e0>na taverna de Elysion deprimidos com seus lamentos.
+E essa é a história!
+Harumph harumph...harumph! Um homem de aparência<03e0>sombria... ele também é meu rival! Apesar de eu estar<03e0>de bom humor...
+Mas que rivalidade mais absurda...
 

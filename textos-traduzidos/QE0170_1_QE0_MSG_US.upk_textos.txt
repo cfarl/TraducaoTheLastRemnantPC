@@ -1,46 +1,46 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0170_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-You there<07f0>who are you? Do you know me?<03e0>Do I know you?<04e0>I know my name is Jorgen...but I don't know<03e0>anything else.<04e0>What sort of man was I? Where did I live? What<03e0>was my job? What activities did I enjoy? I have<03e0>no memory of any of it.<04e0>Hmm? Your talisman, it<07f004e0>Ah, sorry. I thought you'd reminded me of<03e0>something, but I guess not.<04e0>Wait...<03e0>This could be a good method. Ingenious, even.<04e0>I'm fairly certain that asking you a favor at our<03e0>first meeting seems somewhat rude, but I want<03e0>to do whatever I can to regain my memory.<04e0>Here is what I ask: could you find things that<03e0>seem as if they could have some connection to<03e0>me, and bring them here?<04e0>I feel as if viewing them may trigger a memory.<03e0>Even if I could have only one, I would be<03e0>forever grateful.<06e0000008e0000000000000>I'll see what I can do.<09e008e0010000000300>Be happy...memories suck.
-I appreciate it, truly. I am in your debt.<04e0>I'll trust your intuition. If you can find three things<03e0>that really call to you about me, then please<03e0>bring them to me. I'm sure it will help.
-Perhaps...perhaps so. It's true that some have<03e0>pasts they wish to forget so badly that my<03e0>situation seems a boon.<04e0>Forgive me for asking. I'll try to regain my<03e0>memories by myself.
-Hmm? Oh! You, I remember! Have you come to<03e0>help me remember more?<04e0>I'm just looking for things that could remind<03e0>me of myself. If you could bring such a thing<03e0>here, I'd be much obliged.<06e0000008e0000000000000>Okay, I'll give it a go.<09e008e0010000000300>You can live without 'em!
-I appreciate it, truly. I am in your debt.<04e0>I'll trust your intuition. If you can find three things<03e0>that really call to you about me, then please<03e0>bring them to me. I'm sure it will help.
-Certainly, that is true, I believe... Yet I do not<03e0>wish to do so. I'll do what I can to restore my<03e0>memory on my own.
-Oh, it's the one I remember again! You look like<03e0>you have something for me<07f0>three somethings, even!<06e0000008e0000000000000>Yeah, here you go!<09e008e0010000000300>Nope, still looking!
-That...<06e01900>sEVENT_PRICE_QE0170_P_010<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_020<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_030<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_040<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_050<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_060<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_070<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-That...<06e01900>sEVENT_PRICE_QE0170_P_080<08e0000000000000>Looks familiar, huh?<09e008e0010000000300>That one's mine, dude.
-Such dedication... I'll continue to do what I can<03e0>on my end to regain my memory.
-I'm beginning to remember...
-I remember this...yes, yes!<03e0>Yes... That happened, back then...
-Yes... I remember! I...
-Thanks to your help, I've been able to remember<03e0>how I've lived...how I've come to where I am today.<04e0>But the past is not everything... From now on, I<03e0>must find how to live in my present.<04e0>That said,<03e0>I believe it's well past time to get started. <03e0>Thank you, Rush. Someday, may we meet again.
-This blade...it's as if it were made for my hand.<03e0>What a feeling...surely no other sword would do.<03e0>I must have been a great warrior with this weapon!
-Holding this staff... What a strange, warm feeling<03e0>I get. Yes...I was skilled at mystic arts, wasn't I...
-This bandanna... I feel like just tying it on would<03e0>give me the feeling I could take on the world. Yes...<03e0>This must have given me courage.
-Hm? This is my handwriting... This must be my<03e0>journal! The pages are filled with formulas, and<03e0>worn with use. To think I was so studious...
-Oh! This letter helped me through so many hard times...<03e0>It's from<07f0>yes, from the person I admire most in the<03e0>world. I felt that if I read it, maybe I could be like him...
-This belt... It looks so old<07f0>no, no, call it<03e0>"experienced"... Yes, yes, putting it on made me<03e0>feel as if I overflowed with strength.
-Why...these boots are the same as the ones I'm<03e0>wearing now. Just worn completely through... I must<03e0>have made some incredible journeys in them!
-Yes... I traveled many battlefields with this shield on<03e0>my arm. Got me out of many a scrape! Every notch<03e0>and dent brings back more memories of my battles...
-I was a swordsman...well known for my skill with<03e0>a blade. Once I obtained a certain sword as<03e0>part of my spoils...unfortunately, it held a curse.<04e0>To keep it from absorbing my soul, I had to<03e0>pay a great price...that of my past.
-My father was a famed sage. I'd admired him<03e0>since I was a boy, and studied for years to<03e0>match even a fraction of his skill.<04e0>But then came the accident... My father was<03e0>killed. It was too much for me to bear, and I<03e0>lost control of my faculties...my memories, as well.
-I was the leader of a group of rogues... Hah, that<03e0>makes it sound so romantic, when we were just<03e0>a group of thugs. Backstabbing thugs...<04e0>The group betrayed me...life was hell from then<03e0>on out. I was so focused on getting revenge,<03e0>I'd pay any cost...including my memories.
-I was a powerful general in my home country.<03e0>The fierce assaults I plotted led us to<03e0>countless victories...<04e0>However, the constant focus on war began to<03e0>eat away at me. To restore my equilibrium, I<03e0>erased everything about myself...even my memories.
-I'm scion of the royal family. <07f0>Not of here, but<03e0>of a land far away... After my father's death,<03e0>the kingdom fell into disarray.<04e0>After a drawn-out battle, my younger brother<03e0>claimed the throne, using a magus's spell to<03e0>wipe my memory and banish me here.
-I...I'm not fully mortal. I'm sure a full explanation<03e0>would be wasted on you, so let's just say it's<03e0>not mitra blood that flows through my veins.<04e0>However, I am still an imperfect being...<03e0>Only in exchange for the temporary loss of my<03e0>memories was I allowed to stay in this world.
-I was an adventurer, traveling the world to find<03e0>my fortune. Once, when treasure hunting in a<03e0>deep cavern, I came across a mysterious insect.<04e0>I fought it, thinking it was just another bug. Boy,<03e0>was I wrong... It was a parasite, feeding off of<03e0>memories. So it ate mine...and you know the rest.
-Surely you've searched enough?
-If you can determine what is truly mine, then<03e0>come back and tell me.
-These three things...I can have them?<06e0000008e0000000000000>Yup!<09e008e0010000000300>Mmm...no.
-I guess you can't tell what's mine...
-Did you find anything that could jog my memory<03e0>yet? Or maybe three things, that would be good, yes.<04e0>I'm sure just a little jog would help. I'm counting on you!
-Oh, you have things<07f0>things for me? How kind!<03e0>But...I don't think you have enough. If you could find<03e0>three... Three is a good number, yes.<04e0>But, thanks to you, I feel as if my memories could<03e0>return at any moment. The rest I leave to you...
-So, that's who I am...<03e0>Oh, I really should give you something...<03e0>Ah, yes, take this.
+Você aí... Quem é você?<03e0>Você me conhece? Eu te conheço?<04e0>Eu sei que meu nome é Jorgen...<03e0>Mas não me lembro de mais nada além disso.<04e0>Que tipo de homem eu sou? Onde moro? Qual é a minha<03e0>profissão? O que eu gosto de fazer no meu tempo livre?<03e0>Não me lembro de nada dessas coisas.<04e0>Hmm? Esse seu talismã, ele...<04e0>Ah, me desculpe... Por um momento achei que estava me<03e0>lembrando de alguma coisa, mas acho que não.<04e0>Se bem que... sim, isso não me parece uma má ideia.<03e0>Acho que vale a pena tentar.<04e0>Sei que é um pouco descortês pedir favores a alguém<03e0>que acabou de conhecer, mas preciso fazer o que for<03e0>preciso para recuperar minha memória.<04e0>Então, se você encontrar algum objeto que pareça ter<03e0>alguma relação comigo, será que poderia trazer aqui?<03e0> <04e0>Tenho a impressão de que se vê-los talvez eu possa me<03e0>lembrar de algo. Ainda que consiga só uma  lembrança,<03e0>ficaria eternamente grato.<06e0000008e0000000000000>Vou ver o que posso fazer.<09e008e0010000000300>E se forem más lembranças?
+Agradeço de verdade. Já estou em dívida com você...<04e0>Confio na sua intuição. Se você conseguir encontrar<03e0>três objetos que te façam lembrar de mim, então<03e0>por favor traga-os aqui. Isso deverá me ajudar.
+Sim... talvez sim... Sei que algumas pessoas guardam<03e0>lembranças tão dolorosas que dariam o que for para<03e0>estar no meu lugar.<04e0>Me desculpe por pedir esse favor. Vou ver se consigo<03e0>recuperar minhas memórias por conta própria.
+Hmm? Ah! Eu me lembro de você! Voltou para me ajudar<03e0>a recuperar a memória?<04e0>Estou procurando objetos que possam me ajudar a<03e0>lembrar quem sou. Se você encontrar algum desses<03e0>objetos, ficarei muito agradecido.<06e0000008e0000000000000>Tudo bem, vou tentar.<09e008e0010000000300>Você pode viver sem isso!
+Agradeço de verdade. Já estou em dívida com você...<04e0>Confio na sua intuição. Se você conseguir encontrar<03e0>três objetos que te façam lembrar de mim, então<03e0>por favor traga-os aqui. Isso deverá me ajudar.
+Você tem razão, isso é verdade, eu sei... Mas não<03e0>quero abrir mão das minhas lembranças. Farei o<03e0>que for possível para recuperar minha memória.
+Ah, é você, estou me lembrando! Parece que encontrou<03e0>alguma coisa para mim. Três coisas, na verdade!<06e0000008e0000000000000>Sim, aqui está!<09e008e0010000000300>Não, ainda estou procurando!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_010<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_020<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_030<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_040<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_050<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_060<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_070<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+O que é isso que você encontrou?<06e01900>sEVENT_PRICE_QE0170_P_080<08e0000000000000>Parece familiar?<09e008e0010000000300>Isso é meu!
+Quanta dedicação... Vou ver se também posso fazer<03e0>algo por minha conta para recuperar minha memória.
+Estou começando a me lembrar...
+Eu me lembro disso... sim, sim!<03e0>Sim... aquilo aconteceu, tempos atrás...
+Sim... estou me lembrando, eu...
+Graças a sua ajuda, consegui me lembrar da minha vida<03e0>anterior... e como cheguei a ser quem sou.<04e0>Mas o passado não determina o futuro... De agora em<03e0>diante, viverei cada dia como se fosse o último.<04e0>Acho que já passou da hora de recomeçar.<03e0>Obrigado, Rush. Um dia nos veremos de novo.<03e0>
+Essa espada... parece que foi feita para mim.<03e0>Que sensação... nunca havia sentido algo assim.<03e0>Devo ter sido um grande guerreiro com essa arma!
+Ao tocar esse bastão... sinto uma sensação estranha.<03e0>Sim... eu dominava as artes místicas...
+Essa bandana... tenho a sensação de que ao colocá-la<03e0>eu poderia conquistar o mundo. Sim...<03e0>Ela deveria me dar coragem.
+Hm? Essa é minha letra... Esse deve ter sido meu<03e0>diário! As páginas estão repletas de fórmulas, e<03e0>estão gastas pelo uso. Eu devia ser estudioso...
+Ah! Essa carta me ajudou em momentos difíceis...<03e0>Ela é, sim, da pessoa que mais admiro no mundo.<03e0>Eu achava que, lendo ela, chegaria a ser como ele...
+Esse cinturão... ele parece tão velho... velho não,<03e0>melhor dizer "calejado"... Sim, quando eu o usava<03e0>eu me sentia cheio de força.
+Veja só... essas botas são iguais às que estou<03e0>usando agora. Só que estão muito gastas...<03e0>devo ter feito muitas viagens com elas!
+Sim... atravessei muitos campos de batalha com esse<03e0>escudo. Ele me salvou diversas vezes! Cada entalhe<03e0>me traz lembranças de uma batalha diferente...
+Eu era um guerreiro... famoso pela minha habilidade<03e0>com a espada. Uma vez consegui uma certa espada em<03e0>um combate... mas essa espada carregava uma maldição.<04e0>Para evitar que ela absorvesse minha<03e0>alma, tive de pagar um preço alto... meu passado.
+Meu pai era um sábio famoso. Eu o admirava desde<03e0>criança, e estudei durante anos para tentar ser<03e0>igual a ele.<04e0>Mas então houve o acidente... e ele morreu.<03e0>Não pude suportar isso, e perdi o controle das<03e0>minhas faculdades mentais... e também minha memória.
+Eu era o líder de um grupo de rebeldes... Hah,<03e0>isso soa tão romântico, na verdade éramos um grupo<03e0>de bandidos... Bandidos traiçoeiros.<04e0>O grupo me traiu... e minha vida se tornou um inferno<03e0>dali em diante. Estava tão obcecado com vingança que<03e0>daria o que fosse para isso... até minhas memórias.
+Eu era um poderoso general na minha terra natal.<03e0>Minhas estratégias conduziram minhas tropas a<03e0>incontáveis vitórias...<04e0>No entanto, minha vida girava em torno da guerra, e<03e0>isso acabou corrompendo meu espírito. Para recuperar<03e0>a paz tive de esquecer tudo... até minhas memórias.
+Sou descendente de uma família real. Não daqui,<03e0>mas de uma terra distante... Quando meu pai<03e0>morreu, o reino virou um caos.<04e0>Depois de uma grande batalha, meu irmão mais novo<03e0>reivindicou o trono, usando um feitiço para<03e0>apagar minha memória e me banir para cá.
+Eu... eu não sou de todo mortal. Eu levaria muito<03e0>tempo para conseguir explicar por quê, então digamos<03e0>que nas minhas veias não corre sangue de mitra...<04e0>No entanto, ainda sou um ser imperfeito...<03e0>Somente em troca da perda temporária de memória<03e0>é que me foi permitido permanecer nesse mundo.
+Eu era um aventureiro que viajava pelo mundo em<03e0>busca de fortuna. Um dia, procurando tesouros em<03e0>uma caverna, encontrei um inseto misterioso.<04e0>Lutei com ele, pensando que era apenas um inseto.<03e0>Como estava equivocado... O inseto era um parasita,<03e0>que se alimentava de memórias. O resto você já sabe.
+Tem certeza que procurou o suficiente?
+Se você encontrar algum dos meus pertences, volte<03e0>aqui para me avisar.
+Esses três objetos... Posso ficar com eles?<06e0000008e0000000000000>Claro!<09e008e0010000000300>Mmm... não.
+Acho que não temos como saber se me pertencem...
+Você encontrou alguma coisa que possa refrescar minha<03e0>memória? Ou talvez três coisas, isso seria bom, sim.<04e0>Uma simples lembrança já ajudaria. Conto com você!
+Ah, você trouxe coisas... coisas para mim? Que bom!<03e0>Mas... acho que isso não é o bastante. Se você puder<03e0>encontrar três objetos... Três é um bom número, sim.<04e0>Mas graças a você, tenho a sensação de que minha<03e0>memória vai voltar a qualquer momento...
+Então, esse é quem eu sou... Oh, acho que deveria te<03e0>dar algo pela sua ajuda... Ah, sim, fique com isso.<03e0>
 

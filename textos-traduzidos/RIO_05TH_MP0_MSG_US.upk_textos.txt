@@ -1,36 +1,36 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) RIO_05TH_MP0_MSG
 -- ----------------------------------------------------------------------------------
-I am Priam, Marquis of Royotia.<04e0>You are the fabled adventurer, then? It seems<03e0>you have done a lot for my people.<04e0>I will be looking forward to your further exploits.
-I am Priam, Marquis of Royotia.<04e0>As you can see, our fair city is surrounded on<03e0>all sides by nature's unforgiving strength. Yet<03e0>my people live strong and free. <04e0>Thus I will protect them so this may always<03e0>be the truth.
-For some reason, my body fails me of late...<04e0>It's as if some mysterious power is pulling at<03e0>me...wanting me to<07f004e0>No...never mind. I just don't know what's come<03e0>over me... This weakness is not like me.
-Forgive me...you've come so far, but if you<03e0>could come back later it would be appreciated.
-I am Priam, Marquis of Royotia.<04e0>As you can see, our fair city is surrounded on<03e0>all sides by nature's unforgiving strength. Yet<03e0>my people live strong and free. <04e0>I intend on protecting them from now on.
-Rush. My gratitude for the Balterossa incident. Thanks to you<03e0>and my son, we suffered much fewer losses than I'd feared.<04e0>Still, Paris still has a lot to learn about politics. He still seems<03e0>a bit awkward with these matters of state.
-Still, Paris still has a lot to learn about politics. He still seems<03e0>a bit awkward with these matters of state.
-The Flame Guardian's prayers went unanswered.<03e0>I have no more use for this key.
-I am Priam, Marquis of Royotia...
-For some reason, my body fails me of late...<03e0>I just don't know what's come over me. This weakness<03e0>is simply shameful.
-Lately my son seems to be troubled by something...<03e0>That's just how he is... He comes across situations that<03e0>cannot be helped and tries to help them anyway...<04e0>Paris is not like me at all...far too kind.<03e0>Just like his mother...
-I cannot believe that son of mine... The next<03e0>leader of Royotia, and he's off gallivanting across<03e0>the continent?<04e0>Though...I suppose I traveled the world before<03e0>becoming Marquis myself. That trip gained me<03e0>many things...dear friends, my beloved wife...<04e0>*sigh* I suppose this is a great opportunity for<03e0>him to grow...I certainly cannot begrudge him that.
-I am Paris, heir to the territory of Royotia. Our<03e0>town may not have much to offer, but please<03e0>enjoy it as you can.
-I'm really worried about Father...
-My father's never been sick a day of his life,<03e0>and now he's so weak he can barely stand...<04e0>If only we could determine the cause of this<03e0>illness, then I could save my father from this<03e0>torture!
-Thank you, Rush.<03e0>If you ever need my help, ask for me at the<03e0>guild hall. I shall do all I can.
-Father blames himself for the loss of the Emeth Tag...<03e0>If only there were something I could do to help<03e0>relieve his sorrow...
-You are in the presence of the Marquis of<03e0>Royotia.<03e0>Please be silent.
-The relationship between countries is very<03e0>much affected by the countries that surround<03e0>them.
-You are in the presence of the Marquis.<03e0>Please be silent.
-It seemed like the Balterossa army<03e0>suffered heavy losses.
-You are in the presence of Marquis Priam.<03e0>Quiet yourself!
-Master Paris and Lady Charlotte are still very young.<03e0>I fear they will suffer many hardships in the future...
-Hello.<03e0>Rush, I shall never forget your help in keeping<03e0>Royotia and Balterossa from war.
-Rush, is there anyone you truly admire?<03e0>I suppose my biggest hero is my father.<04e0>Father became Marquis when he was the age I am<03e0>now. He was able to unite and lead the Royotian<03e0>people. Even after Mother died, he never faltered.<04e0>I cannot help but look to him with pride, not<03e0>only as a son, but as a citizen of Royotia.
-It may sound hackneyed, but my personal hero is<03e0>my father. I look up to him not only as a son, but as<03e0>a citizen of Royotia.
-Rush... Your father is the famous Dr. Sykes, is<03e0>he not? Do you ever find yourself compared to him?<04e0>My father is a master fencer... But not only is<03e0>he skilled in combat, his character is such that he<03e0>immediately won the hearts of the people.<04e0>Compared to that, what have I to offer? Nothing...<03e0>I cannot help but look upon myself with shame.<04e0>Someone like me ought not even dream of<03e0>becoming a man like him...<04e0>Forgive me. I-I must be boring you.<03e0>Please, er, forget what I was talking about.
-The more I see my father, the more unworthy I<03e0>realize I am...
-What's this?<03e0>It's a brooch...a gift from my mother when I<03e0>was very young. It's quite old, now...<04e0>My mother always said the soul was like a mirror...<04e0>The feelings you show will always be returned.<03e0>Thus, don't meet others with anger or hatred,<03e0>but with kindness and charity.<04e0>I always admired that about my mother...<04e0>Yet, kindness isn't enough to rule, is it...<03e0>It seems that instead of kindness, strength is<03e0>what's needed to guide the people.<04e0>Ah<07f0> Forgive me. I did not mean to unload my<03e0>thoughts on you, Rush.
-For some reason, I always find myself opening my heart<03e0>to you, Rush. It's strange...
-I've been doing a lot of thinking, and I've decided<03e0>there's no use in trying to compare myself to Father.<04e0>I remembered something else Mother always told me...<04e0>Everyone has their own strengths. Instead of<03e0>comparing them to those of others, we must find<03e0>how to use them best...<04e0>I am a different man from my father.<03e0>Thus, I must earn the trust of the Royotian people<03e0>in my own way.<04e0>It's taken a long time, but in travelling with you,<03e0>and finding my place here, I've been able to come<03e0>to this conclusion.<04e0>My whole life, I've felt equally honored and cursed<03e0>to be the future ruler of Royotia.<04e0>Finally I feel like I can get past my insecurities and<03e0>begin to move forward.<04e0>Rush, please allow me to continue to journey with<03e0>you. I realize I have a great deal more to learn so<03e0>that someday, I'll be someone to be proud of...
-Hello, Rush! Please continue to allow me to travel<03e0>with you. I still have a good deal to learn so that I<03e0>can be a great leader to my people.
+Eu sou Priam, marquês de Royotia.<04e0>Então é você o famoso aventureiro? Ouvi<03e0>dizer que fez muito pelo meu povo.<04e0>Estou ansioso para ver suas próximas façanhas.
+Eu sou Priam, marquês de Royotia.<04e0>A terra onde se encontra essa cidade é inóspita.<03e0>Mas seu povo é forte e vive em liberdade.<03e0> <04e0>Lutarei para que seja assim para sempre...<03e0>
+Por algum motivo, meu corpo está falhando...<04e0>Sinto como se uma força misteriosa estivesse me<03e0>arrastando... querendo que eu...<04e0>Não... deixa pra lá. Não sei o que está acontecendo<03e0>comigo... Não estou acostumado a me sentir assim.
+Peço que me perdoe... sei que veio de muito longe,<03e0>mas agradeceria se pudesse voltar em outro momento.
+Eu sou Priam, marquês de Royotia.<04e0>A terra onde se encontra essa cidade é inóspita.<03e0>Mas seu povo é forte e vive em liberdade.<03e0> <04e0>Lutarei para que seja assim para sempre...
+Rush, foi graças a você e ao meu filho que tivemos<03e0>muito menos perdas do que estávamos esperando.<04e0>Mas Paris ainda tem muito a aprender sobre política.<03e0>Ele ainda é muito leigo nesses assuntos de Estado.
+Paris ainda tem muito que aprender sobre política.<03e0>Ele ainda é muito leigo nesses assuntos de Estado.
+Ninguém respondeu às súplicas da Guardiã do Fogo...<03e0>Essa chave já não serve para mais nada.
+Eu sou Priam, marquês de Royotia...
+Por algum motivo, meu corpo está falhando...<03e0>Não sei o que está acontecendo comigo...<03e0>Não estou acostumado a sentir essa fraqueza.
+Ultimamente meu filho parece preocupado com algo...<03e0>Esse é o seu jeito de ser... Ele passa a vida<03e0>lutando por causas impossíveis...<04e0>Nisso ele não se parece nada comigo... mas ele é<03e0>uma pessoa de bom coração, assim como era sua mãe...
+Não entendo esse meu filho... Ele é o futuro líder<03e0>de Royotia, e anda por aí desperdiçando<03e0>seu tempo dando voltas pelo continente!<04e0>Mas pensando bem... também viajei muito pelo mundo<03e0>antes de me tornar Marquês... E graças a isso fiz<03e0>grandes amigos e conheci minha amada esposa...<04e0>*suspiro* Talvez essa seja uma boa oportunidade para<03e0>ele amadurecer... Não posso ficar chateado com isso.
+Eu sou Paris, herdeiro de Royotia. Nossa cidade<03e0>não tem muito a oferecer, mas espero que<03e0>desfrute da sua estadia.
+Estou muito preocupado com meu pai...
+Meu pai nunca ficou doente durante toda sua vida,<03e0>mas agora está tão fraco que mal pode se levantar.<04e0>Se ao menos pudéssemos descobrir a causa dessa<03e0>doença... Quem me dera poder livrar meu pai dessa<03e0>tortura!
+Obrigado, Rush. Se algum dia precisar da minha<03e0>ajuda, pergunte por mim na guilda. Farei o que<03e0>puder para ajudar.
+Meu pai está se culpando pela perda do Emeth Tag...<03e0>Se ao menos houvesse algo que eu pudesse fazer para<03e0>aliviar seu sofrimento...
+Você se encontra diante do marquês de Royotia.<03e0>Faça o favor de fazer silêncio.<03e0>
+As relações entre países dependem em grande<03e0>medida das nações que os rodeiam.<03e0>
+Você se encontra diante do marquês de Royotia.<03e0>Faça o favor de fazer silêncio.
+Segundo estão dizendo, o exército de Balterossa<03e0>sofreu grandes perdas.
+Você se encontra diante do marquês de Royotia.<03e0>Faça o favor de fazer silêncio.
+Mestre Paris e lady Charlotte ainda são muito<03e0>jovens. Temo que tempos difíceis os aguardem...
+Olá, Rush.<03e0>Nunca vou me esquecer da ajuda que nos deu para<03e0>impedir a guerra entre Royotia e Balterossa.
+Rush, existe alguém que você admire de verdade?<03e0>Para mim, meu maior herói é meu pai.<04e0>Ele foi nomeado Marquês quando tinha minha idade.<03e0>Sozinho ele conseguiu unir o povo de Royotia e<03e0>nunca fraquejou, nem mesmo quando minha mãe morreu.<04e0>Não posso deixar de olhar para ele com orgulho, não<03e0>só como filho, mas também como cidadão de Royotia.
+Isso pode parecer trivial, mas meu grande herói é<03e0>meu pai. Eu o admiro não só como seu filho, mas<03e0>também como cidadão de Royotia.
+Rush... Seu pai é o famoso doutor Sykes,<03e0>não é? Alguma vez te compararam com ele?<04e0>Meu pai é um mestre espadachim... Mas ele não é só<03e0>habilidoso no combate, seu carisma é tão grande<03e0>que conseguiu conquistar o coração do seu povo.<04e0>Comparado a ele, o que eu tenho a oferecer? Nada...<03e0>Não consigo deixar de sentir vergonha de mim mesmo.<04e0>Alguém como eu não deveria sequer sonhar<03e0>em se tornar um homem como ele...<04e0>Me perdoe... Eu devo estar te aborrecendo, não é<03e0>mesmo? Por favor, esqueça o que eu estava dizendo.
+Quanto mais penso no meu pai, mais tenho a impressão<03e0>de que nunca chegarei a sua altura...
+O que é isso? É um broche...<03e0>Um presente que ganhei da minha mãe quando era<03e0>criança. A verdade é que ele é bem antigo...<04e0>Minha mãe sempre dizia que a alma é como um espelho.<04e0>Os sentimentos que mostramos sempre voltam para nós.<03e0>Por isso não devemos tratar as pessoas com raiva ou<03e0>ódio, e sim com bondade e generosidade.<04e0>Eu sempre admirei esse jeito de pensar da minha mãe.<04e0>Mas para governar não basta ter um bom coração...<03e0>Às vezes penso que a força, e não a bondade,<03e0>é a qualidade indispensável para guiar um povo.<04e0>Ah... me perdoe, Rush. Não era minha intenção<03e0>te aborrecer com minhas preocupações.
+Não sei porque, Rush, mas sempre acabo abrindo meu<03e0>coração para você. É estranho...
+Andei pensando muito nos últimos dias, e decidi que<03e0>não adianta ficar tentando me comparar com meu pai.<04e0>Lembrei de uma coisa que minha mãe sempre dizia...<04e0>Todo mundo tem seus pontos fortes. Ao invés de<03e0>compará-los com os dos outros precisamos empregá-los<03e0>da melhor forma possível...<04e0>Meu pai e eu somos pessoas diferentes.<03e0>Por isso, devo ganhar a confiança do povo de Royotia<03e0>do meu jeito.<04e0>Levou muito tempo para eu descobrir isso, mas<03e0>acabei chegando a essa conclusão depois de viajar<03e0>com você e encontrar meu lugar no grupo.<04e0>Durante toda minha vida achei que ser o futuro<03e0>governador de Royotia era uma honra e uma maldição.<04e0>Mas agora finalmente me sinto capaz de superar minha<03e0>insegurança e seguir em frente.<04e0>Rush, por favor, me deixe continuar essa jornada<03e0>com você. Sei que ainda tenho muito a aprender, até<03e0>virar uma pessoa que tenha orgulho de si mesmo...
+Olá, Rush! Por favor me deixe continuar essa jornada<03e0>com você. Sei que ainda tenho muito a aprender, até<03e0>me tornar um grande líder para o meu povo.
 

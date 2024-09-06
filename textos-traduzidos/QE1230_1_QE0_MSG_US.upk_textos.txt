@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1230_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-There's been sighting of a Jhana clan in the vicinity<03e0>of the <1be0ffbe34ff>Nest of Eagles<1ce0>.<04e0>Will you lend a hand again?<06e0000008e0000000000000>'Course!<09e008e0010000000000>Just let 'em be.
-I would like to proceed to the <1be0ffbe34ff>Nest of Eagles<1ce0> as soon<03e0>as possible. Are you prepared?<06e0000008e0000000000000>Yup!<09e008e0010000000300>I need two secs...
-Glory to the Falcons!
-If you have other pending matters,<03e0>so be it.
-I believe I've said this before, but<03e0>they do not deserve your mercy.
-Excellent job.<03e0>They will return, but hopefully not for a very long time.
-It's astonishing how little concern the Lords pay to<03e0>problems outside of their own borders.<04e0>They seem to have no interest in getting involved with<03e0>issues that concern the whole world. Or, perhaps, they<03e0>are fettered by national interests and cannot act freely...
-Either way, that is why we exist.
-Here, take this.
-I may ask you for your assistance<03e0>again in the future. Although I hope<03e0>all stays peaceful.
+Fomos informados de que um clã de jhanas foi<03e0>avistado nas proximidades do <1be0ffbe34ff>Ninho das Águias<1ce0>.<04e0>Você vai nos ajudar de novo?<06e0000008e0000000000000>Claro!<09e008e0010000000000>Deixe-os em paz.
+Quero seguir para o <1be0ffbe34ff>Ninho das Águias<1ce0> o quanto antes.<03e0>Você está preparado?<06e0000008e0000000000000>Sim!<09e008e0010000000300>Só um segundo...
+Glória aos Falcões!
+Se você tem outros assuntos pendentes,<03e0>que assim seja.
+Acredito que já tenha dito isso antes, mas<03e0>eles não merecem sua compaixão.
+Excelente trabalho. Mais cedo ou mais tarde eles<03e0>irão voltar, mas espero que não seja em breve.
+É incrível ver como os lordes se interessam tão pouco<03e0>pelo que acontece mais além dos seus domínios.<04e0>Parece que eles não têm interesse nos assuntos que<03e0>afetam ao mundo todo. Ou talvez estejam tão ocupados<03e0>que não tem tempo de atuar por iniciativa própria...
+De qualquer maneira, é por isso que existimos.
+Tome, fique com isso.
+Pode ser que no futuro eu precise pedir sua ajuda<03e0>uma vez mais. Embora eu tenha a esperança de que<03e0>o mundo permaneça em paz.
 

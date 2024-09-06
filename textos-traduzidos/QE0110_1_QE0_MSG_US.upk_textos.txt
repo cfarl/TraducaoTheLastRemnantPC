@@ -1,22 +1,22 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0110_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Kosmosfest is about to commence!<03e0>The maiden is safe and ready for the festivities!<04e0>Although that doesn't mean this is going to be<03e0>a wild party. We're going to pray quietly along<03e0>the Calm Shores for world peace.
-Speaking of which, I have a task for you.<04e0>To make this festival a success and to ensure<03e0>the maiden's safety, I'd like for someone<03e0>to rid the Calm Shores of monsters.<04e0>Not just one or two<07f0>I want you to<03e0>defeat them all.<03e0>Will you do it for the festival's sake?<06e0000008e0000000000000>I'm on it!<09e008e0010000000300>I'm not up for that right now.
-I knew I could count on you!<03e0>I want you to head to <1be0ffbe34ff>Fornstrand<1ce0> immediately.<04e0>The festival's success lies in your hands.
-Think of the trouble you went through to rescue<03e0>the maiden!<03e0>Please?
-The Calm Shores need to be safe for<03e0>the festival to be a success.<03e0>I really need you to defeat those monsters.<06e0000008e0000000000000>I'm on it!<09e008e0010000000300>I'm still not up for it.
-I knew I could count on you!<03e0>I want you to head to <1be0ffbe34ff>Fornstrand<1ce0> immediately.<04e0>The festival's success lies in your hands.
-Think of the trouble you went through to rescue<03e0>the maiden!<03e0>Please?
-I guess the task was hard for even you<03e0>to handle.<03e0>Are you willing to give it another go?<06e0000008e0000000000000>You know it!<09e008e0010000000300>Not really.
-Great! We're counting on you.
-Everyone will be so disappointed if<03e0>there's no festival this year.
-Thank you so much!<04e0>This festival is important because through it,<03e0>we're trying to convey that war is meaningless<03e0>and unnecessary.
-I know everyone will realize that.<03e0>And when they do, the world will be<03e0>a peaceful place.
-Or no one will realize that and the world<03e0>will fall to pieces.
-I won't let that happen! I can't!
-I'm just kidding, Sheryl.
-Here, take this.
-If you ever need assistance, Rush, don't be shy to<03e0>ask for my help. You can find me in the guild.<04e0>My goal now is to tell the entire world about those poor<03e0>fishies! If there's a war, those fishies will die!
-They're so adorable, but I'm exhausted from counting<03e0>them all! There must have been a hundred of them!
+A Festa Cósmica está prestes a começar!<03e0>A donzela está a salvo e pronta para a celebração!<04e0>Mas isso não quer dizer que será uma festa selvagem.<03e0>Vamos orar em silêncio pela paz mundial ao longo<03e0>das Margens Plácidas.
+Por falar nisso, tenho uma missão para você.<04e0>Para que o festival seja um sucesso e para garantir<03e0>a segurança da donzela, preciso que alguém acabe<03e0>com os monstros das Margens Plácidas.<04e0>Não basta apenas um ou dois monstros...<03e0>Preciso que acabe com todos eles.<03e0>Você faria isso pelo bem do festival?<06e0000008e0000000000000>Conte comigo!<09e008e0010000000300>Ainda não estou preparado.
+Sabia que podia contar com você!<03e0>Preciso que vá imediatamente para <1be0ffbe34ff>Fornstrand<1ce0>.<04e0>O sucesso do festival está nas suas mãos.
+Pense em tudo que passou para resgatar a donzela!<03e0>Por favor...<03e0>
+É necessário que as Margens Plácidas sejam um lugar<03e0>seguro para que o festival tenha êxito.<03e0>Preciso que você acabe com esses monstros.<06e0000008e0000000000000>Conte comigo!<09e008e0010000000300>Ainda não estou preparado.
+Sabia que podia contar com você!<03e0>Preciso que vá imediatamente para <1be0ffbe34ff>Fornstrand<1ce0>.<04e0>O sucesso do festival está nas suas mãos.
+Pense em tudo que passou para resgatar a donzela!<03e0>Por favor...<03e0>
+Eu sabia que a missão seria difícil, até mesmo<03e0>para alguém como você.<03e0>Está disposto a tentar de novo?<06e0000008e0000000000000>Claro que sim!<09e008e0010000000300>Na verdade, não.
+Ótimo! Estamos contando com você.
+As pessoas ficarão muito desapontadas se<03e0>não houver um festival esse ano.
+Muito obrigado!<04e0>Esse festival é importante porque, por meio dele,<03e0>estamos tentando mostrar que a guerra é inútil<03e0>e desnecessária.
+Sei que as pessoas vão se dar conta disso.<03e0>E então, o mundo será um lugar de paz.<03e0>
+Ou pode ser que ninguém se dê conta disso e<03e0>o mundo vá para o buraco...
+Não vou permitir que isso aconteça!
+Eu só estava brincando, Sheryl.
+Tome, fique com isso.
+Se algum dia precisar de ajuda, Rush, não seja tímido<03e0>e me procure. Você vai me encontrar na guilda.<04e0>Quero que o mundo todo saiba do problema daqueles<03e0>peixinhos! Se houver uma guerra, que será deles?
+Eles são adoráveis, mas estou cansada de contá-los...<03e0>Deve haver centenas deles!
 

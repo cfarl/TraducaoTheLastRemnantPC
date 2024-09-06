@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0390_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Sir Rush,<03e0>Dr. Marina is waiting for you in <1be0ffbe34ff>Athlum Castle<1ce0>.<03e0>It seemed urgent...<06e0000008e0000000000000>Guess I'd better go.<09e008e0010000000300>Ehh, she can wait.
-Then, please come this way.
-Understood.<03e0>If you change your mind, please inform me.
+Senhor Rush, a doutora Marina está te aguardando no<03e0><1be0ffbe34ff>Castelo de Athlum<1ce0>. Parece ser um assunto urgente...<03e0> <06e0000008e0000000000000>Acho melhor ir logo.<09e008e0010000000300>Ehh, ela pode esperar.
+Por favor me acompanhe.
+Entendo...<03e0>Me avise se mudar de ideia.
 

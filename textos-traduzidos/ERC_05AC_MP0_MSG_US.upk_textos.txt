@@ -1,30 +1,30 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_05AC_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the Academy.<03e0>I am Haruko, the director.
-You're Rush Sykes?<03e0>I'm so sorry I can't let you<03e0>see your parents...<04e0>I'm Haruko, director of the Academy.
-Don't tell anyone I told you...<04e0>Doctors John and Marina Sykes are off in the <1be0ffbe34ff>Sacred<03e0>Lands<1ce0> for a routine evaluation.
-It will be a while before anyone can get in touch with<03e0>them, because you have to use the <1be0ffbe34ff>Remnant Ark<1ce0> to get<03e0>up there.<04e0>Unfortunately, once the Ark is used, you need to wait<03e0>several months before you can use it again.
-Your parents are in the Sacred Lands for a routine<03e0>evaluation.<04e0>They can't be reached for a while.
-I'm sorry I can't let you see your parents...
-Welcome to the Academy.
-Welcome to the Academy.<03e0>How may I help you?
-Ummm...<06e0000008e0000000000000>I'm here to see Doctor Sykes.<09e008e0010000000000>Never mind.
-I'm sorry, but the doctors are in the middle of some<03e0>extensive research and cannot be disturbed at this time.
-The Academy strives to make the world a better place<03e0>by spreading the fruit of our labor to every corner of<03e0>the world.<04e0>We are never to inject our personal feelings into any<03e0>matters here.
-The laboratory is off-limits to non-Academy members.
-I worked with John on a previous project.<04e0>He's very down-to-earth and kind, especially<03e0>considering that he's one of the best scientists working<03e0>at the Academy.<04e0>He's a family man, too. He has a picture of his family<03e0>on his desk that he's always staring at.
-What? The Ark was activated?<03e0>That's impossible.<04e0>It's bound to a member of the Academy.<04e0>Meaning, it can only be activated by a member of the<03e0>research team that was hand-picked by the Academy.<04e0>Your eyes are just playing tricks on you.
-Since the new Congress came into office, all the<03e0>scientists closest to Duke Hermeien have left the<03e0>Academy.<04e0>Thanks to all this change, I have less say and less pay.<04e0>But ehh, I guess I'll stay and continue my research.
-You're looking for a Remnant that takes you<03e0>to the Sacred Lands?<04e0>I've heard stories of another Ark-like Remnant<03e0>existing outside of Elysion.
-What happens if a town loses its Remnant, you ask?<04e0>As far as I know, the land returns to its normal state.<03e0>Harsh winds dry out the earth and all of the vegetation<03e0>just withers away.<04e0>Sometimes volcanoes erupt and burn down entire towns.<03e0>Or rivers overflow and flood the lands.<04e0>But not all bad things will happen to every town.<03e0>After all, there are towns that don't have Remnants.<04e0>Like Eulam Island. I hear it's not supposed to be that bad<03e0>of a place to live, even though it doesn't have a Remnant.<04e0>Say, why the question?
-I admire both of the Sykes. They're the most brilliant<03e0>scientists working for the Academy.<04e0>But they win my respect because they're both opposed<03e0>to the weaponization of Remnants.<04e0>I hope I get to work with them someday!
-...The Ark was activated!?<03e0>How could that be?<04e0>Once a Remnant's been bound, it can't be activated<03e0>by anyone else until the bind is broken.<04e0>We all learned that in Remnants 101.<04e0>Does that mean that...what we've been taught is wrong?
-After Lord Hermeien passed, the Academy underwent<03e0>some changes. Even Director Haruko was fired.<04e0>She was so passionate and involved in the research.<03e0>She was a great director...<04e0>Then, a bunch of other people picked up and left of<03e0>their own free will.<04e0>I plan to stay, though.<04e0>I need to find a way to prevent what happened in<03e0>Nagapur from happening again.
-The Hermeiens were placed in charge of all Remmants<03e0>once used by the Imperator.<04e0>The late Chairman Hermeien is the only soul I can<03e0>think of that would have had knowledge of what you<03e0>are looking for.
-The previous director was an old fogey appointed way<03e0>back by the previous Congress Chairman.<04e0>He was very pushy and overbearing, always tried to<03e0>keep things to himself. Not many of us liked him.<04e0>There were always rumors flying around about him<03e0>causing problems behind the scenes... Everyone thinks<03e0>this latest personnel shuffle was meant to shut those up.
-Everyone around town is talking about how the Ark<03e0>was activated.<04e0>The legendary Marion Marshall is the only one I've<03e0>ever heard of who can overwrite bindings of Remnants.<04e0>Perhaps she's come back to us...
-The late Duke Hermeien was doing unmentionable things<03e0>using the Academy as a cover.<04e0>The weaponization and duplication of Remnants...<04e0>It saddens me to think that my fellow scientists were<03e0>such unethical people.<04e0>I'll stay and find a way, though<07f0>a way for us to<03e0>use Remnants for the good of the world.
-The Ark was discovered by the Imperator.<04e0>Perhaps there are similar Remnants in the lands<03e0>he has visited?
+Seja bem-vindo à Academia.<03e0>Eu sou Haruko, a diretora.
+Você é Rush Sykes? Sinto muito, mas você não vai<03e0>poder ver seus pais...<03e0> <04e0>Eu sou Haruko, a diretora da Academia.
+Vou te contar uma coisa, mas não pode sair daqui...<04e0>Os doutores John e Marina Sykes estão nas <1be0ffbe34ff>Terras<03e0>Sagradas<1ce0>, trabalhando em uma importante pesquisa.
+Vai demorar um tempo até alguém conseguir falar com<03e0>eles, porque é preciso usar o <1be0ffbe34ff>Remanescente Arca<1ce0> para<03e0>chegar lá.<04e0>Infelizmente, depois de usar o Arca, é necessário<03e0>esperar vários meses para poder usá-lo novamente.
+Seus pais se encontram nas Terras Sagradas<03e0>trabalhando em uma importante pesquisa.<04e0>Não será possível falar com eles durante um tempo.
+Sinto muito por não poder ver seus pais...
+Bem-vindo à Academia.
+Seja bem-vindo à Academia.<03e0>Como posso ajudá-lo?
+Ummm...<06e0000008e0000000000000>Vim ver os doutores Sykes.<09e008e0010000000000>Em nada, esquece.
+Sinto muito, os doutores estão trabalhando em uma<03e0>pesquisa importante e não podem ser importunados.
+A Academia trabalha para fazer do mundo um lugar<03e0>melhor, compartilhando os resultados das suas<03e0>pesquisas com todos os lugares do mundo.<04e0>Não podemos deixar que assuntos pessoais interfiram<03e0>no nosso trabalho.
+O laboratório é restrito a membros da Academia.
+Trabalhei com John em um outro projeto.<04e0>Apesar de ser um dos melhores cientistas da Academia,<03e0>ele é muito gentil e nem um pouco pretencioso.<03e0> <04e0>Além disso, é um homem de família. Ele tem uma foto<03e0>dos filhos na mesa, e está sempre olhando para ela.
+Como? Você está dizendo que o Arca foi ativado?<03e0>Mas isso é impossível!<04e0>Ele está vinculado a um membro da Academia.<04e0>Ou seja, só um membro da equipe de pesquisa, nomeado<03e0>pela Academia, poderia ativá-lo.<04e0>Seus olhos estão pregando peças em você.
+Desde que o novo Conselho iniciou os seus trabalhos,<03e0>todos os cientistas que apoiavam o duque Hermeien<03e0>deixaram a Academia.<04e0>Por conta disso meus deveres e salário diminuíram.<04e0>Mas tudo bem, ficarei para continuar minha pesquisa.<03e0>Tudo para ajudar o John, agora que ele voltou e está<03e0>se sentindo melhor.
+Você está procurando um Remanescente que possa te<03e0>levar até as Terras Sagradas?<04e0>Ouvi dizer que existe um Remanescente parecido com<03e0>o Arca de Elysion em algum lugar do mundo...
+O que acontece se uma cidade perde seu Remanescente?<04e0>Pelo que sei, a terra volta ao seu estado original.<03e0>Nos desertos o vento forte ressecaria a terra e<03e0>todas plantas murchariam até desaparecer.<04e0>Cidades seriam devastadas por vulcões em erupção.<03e0>Rios transbordariam e inundariam suas terras.<04e0>Mas é claro, algumas cidades iriam se salvar...<03e0>Afinal, existem cidades que não tem Remanescentes.<04e0>Como a ilha de Eulam, por exemplo. Dizem que é um<03e0>bom lugar para viver e eles não tem Remanescentes.<04e0>Mas posso saber por que está perguntando isso?
+Eu admiro os doutores Sykes. Eles são os melhores<03e0>cientistas de toda a Academia.<04e0>Mas eles ganharam meu respeito porque são contra<03e0>o uso de Remanescentes como armas.<04e0>Eu adoraria um dia poder trabalhar com eles!
+O Arca foi ativado???<03e0>Como isso foi possível?<04e0>Ao se criar um vínculo com um Remanescente ninguém<03e0>mais pode ativá-lo, a menos que ele seja rompido.<04e0>Todos nós aprendemos isso ao estudar Remanescentes.<04e0>Será então que... tudo que nos ensinaram é mentira?
+Depois da morte de lorde Hermeien, a Academia sofreu<03e0>várias mudanças. Até a diretora Haruko foi demitida.<04e0>Ela era apaixonada pelo seu trabalho e se dedicava<03e0>de corpo e alma à pesquisa. Era uma grande diretora.<04e0>Dentre os poucos pesquisadores que restaram, alguns<03e0>também decidiram sair por conta própria.<04e0>Eu penso em ficar aqui com os doutores Sykes.<04e0>Preciso encontrar uma maneira de evitar que o que<03e0>aconteceu em Nagapur volte a acontecer de novo.
+O primeiro Imperador celestial colocou os Hermeien<03e0>a cargo dos Remanescentes que descobriu.<04e0>O falecido presidente Hermeien é a única pessoa que<03e0>poderia ter ajudado a encontrar outro Remanescente<03e0>parecido com o Arca.
+O antigo diretor era um velhote que foi nomeado<03e0>pelo último Presidente do Conselho.<04e0>Ele era exigente e autoritário, e sempre guardava<03e0>segredos para si mesmo. Ninguém gostava dele.<04e0>Houveram muitos problemas, e não ficamos sabendo<03e0>metade deles... Quase todo mundo acha que a última<03e0>reorganização de pessoal aconteceu para encobri-los.
+Todo mundo na cidade está se perguntando como foi<03e0>possível ativar o Arca.<04e0>A lendária Marion Marshall era a única pessoa capaz<03e0>de anular o vínculo com um Remanescente.<04e0>Será que ela está de volta?
+O falecido duque Hermeien estava usando a Academia<03e0>como fachada para satisfazer interesses pessoais.<04e0>Como duplicar Remanescentes e usá-los como armas...<04e0>Fico triste de pensar que os meus colegas cientistas<03e0>puderam fazer uma coisa dessas.<04e0>Vou ficar e... encontrarei uma maneira de usar<03e0>os Remanescentes para fazer o bem ao mundo.
+O Arca foi descoberto pelo primeiro Imperador.<04e0>Será que existem outros Remanescentes parecidos com<03e0>ele nas terras que ele visitou ao longo da sua vida?
 ...
 

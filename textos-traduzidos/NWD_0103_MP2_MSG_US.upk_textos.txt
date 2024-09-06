@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NWD_0103_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Monsters stand in the way of the controls.
-The doors are shut tight.
+Os monstros estão bloqueando o acesso aos controles.
+As portas estão bem fechadas.
 

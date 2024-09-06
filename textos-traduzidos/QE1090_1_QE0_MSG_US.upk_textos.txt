@@ -1,23 +1,23 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1090_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I assume you heard about me from the pub employee.<03e0>It's hard to escape gossip in such a place.
-I have a dilemma.<03e0>I need to deliver a letter to someone.<04e0>Unfortunately, that person has gone away to a<03e0>monster-infested region, leaving me behind...<04e0>I would like someone to deliver this letter to him.<03e0>Will you please help me?<06e0000008e0000000000000>Sure, I'll do it.<09e008e0010000000300>I don't talk to strangers.
-Thank you!<03e0>I owe you so much!
-Here is the letter to deliver.<04e0>The person I want you to give this<03e0>to should be at the entrance of<03e0>the <1be0ffbe34ff>Robelia Ruins<1ce0>.
-If you leave the <1be0ffbe34ff>Robelia Ruins<1ce0>, speak<03e0>to me again.<04e0>If you do not do so, the situation<03e0>will change and you will lose sight<03e0>of your original goal.
-I understand...
-I need someone to deliver this letter for me.<04e0>Unfortunately, the recipient is in<03e0>a monster-infested area...<06e0000008e0000000000000>I'll go.<09e008e0010000000300>I don't even know you.
-Thank you!<03e0>I owe you so much!
-Here is the letter to deliver.<04e0>The person I want you to give this<03e0>to should be at the entrance of<03e0>the <1be0ffbe34ff>Robelia Ruins<1ce0>.
-If you leave the <1be0ffbe34ff>Robelia Ruins<1ce0>, speak to me again.<04e0>If you do not do so, the situation will change and<03e0>you will lose sight of your original goal.
-I understand...
-Welcome back!<03e0>I'm glad to see you safe and sound.<04e0>Were you able to deliver the letter?
-Thank you so much.<03e0>Here is a little something for your trouble.
-There are so many people in need of a helping hand<03e0>out there. If you come across these people, please<03e0>hear them out.
-Helping those in need will help you, too.<04e0>You will gain so much from it.<04e0>The power to strengthen your will.<04e0>Friends who will risk their lives for you.<04e0>History.<04e0>Truth.<04e0>Hope, fear, hate.<04e0>You will experience many things, both good and bad,<03e0>and they will help you grow as a person.<04e0>I know you will take them to heart...and thus,<03e0>I know you will be able to control your fate.
-We shall meet here again...someday.
-I see you've left the <1be0ffbe34ff>Robelia Ruins<1ce0>.<03e0>Thank you for coming to speak to me once more.<04e0>Are you ready to go back to the ruins?<06e0000008e0000000000000>Ready as I'll ever be.<09e008e0010000000300>Not really.
-Thank you!<03e0>The recipient should be at the entrance.<03e0>I wish you luck.
-Alright. Please come speak to me again<03e0>if you change your mind.
+Presumo que tenha ouvido falar de mim na taverna.<03e0>É difícil escapar das fofocas em um lugar como esse.
+Eu estou com um problema. Tenho aqui uma carta<03e0>que preciso entregar a uma pessoa.<04e0>Mas acontece que essa pessoa partiu para uma<03e0>região infestada de monstros...<04e0>Estou procurando alguém que possa entregar a carta<03e0>por mim. Você acha que pode me fazer esse favor?<06e0000008e0000000000000>Claro, deixe comigo.<09e008e0010000000300>Não falo com estranhos.
+Muito obrigada! Fico te devendo uma!<03e0>
+Aqui está a carta que precisa ser entregue.<04e0>Você vai encontrar a pessoa para quem ela deve<03e0>ser entregue na entrada das Ruínas de Robélia.<03e0> <1be0ffbe34ff> <1ce0>
+Assim que voltar das <1be0ffbe34ff>Ruínas de Robélia<1ce0>, venha<03e0>falar comigo.<04e0>Se você não fizer isso, não poderei te dar sua<03e0>merecida recompensa.<03e0>
+Entendo...
+Preciso que alguém entregue essa carta por mim.<04e0>Mas acontece que o destinatário partiu para<03e0>uma região infestada de monstros...<06e0000008e0000000000000>Eu cuido disso!<09e008e0010000000300>Mas eu nem te conheço.
+Muito obrigada! Fico te devendo uma!<03e0>
+Aqui está a carta que precisa ser entregue.<04e0>Você vai encontrar a pessoa para quem ela deve<03e0>ser entregue na entrada das Ruínas de Robélia.<03e0> <1be0ffbe34ff> <1ce0>
+Assim que voltar das <1be0ffbe34ff>Ruínas de Robélia<1ce0>, venha me ver.<04e0>Se você não fizer isso, não poderei te dar sua<03e0>merecida recompensa.
+Entendo...
+Bem-vindo de volta!<03e0>Estou contente em vê-lo a salvo.<04e0>Conseguiu entregar a carta?
+Muito obrigada.<03e0>Aqui está uma pequena recompensa pelo transtorno.
+Há muitas pessoas nesse mundo precisando de ajuda.<03e0>Se você encontrá-las, escute o que elas têm a dizer.<03e0>
+Nunca se esqueça que ajudar aqueles que precisam<04e0>é a melhor maneira de ajudar a si mesmo.<04e0>Essa experiência fortalecerá seu caráter.<04e0>Pessoas dispostas a arriscar suas vidas por você.<04e0>História.<04e0>Verdade.<04e0>Esperança, medo, ódio.<04e0>Você vai vivenciar muitas coisas, tanto boas quanto<03e0>ruins, e elas o ajudarão a crescer como pessoa.<04e0>Eu sei que vai levá-las no coração... e também,<03e0>elas irão te ajudar a decidir seu próprio destino.
+Espero que voltemos a nos encontrar... algum dia.
+Vejo que voltou das <1be0ffbe34ff>Ruínas de Robélia<1ce0>.<03e0>Obrigado por vir falar comigo.<04e0>Você está pronto para retornar às ruínas?<06e0000008e0000000000000>Pronto para o que der e vier.<09e008e0010000000300>Para falar a verdade, não.
+Muito obrigado!<03e0>O destinatário deve estar perto da entrada.<03e0>Boa sorte.
+Tudo bem... Venha falar comigo se mudar de ideia.<03e0>
 

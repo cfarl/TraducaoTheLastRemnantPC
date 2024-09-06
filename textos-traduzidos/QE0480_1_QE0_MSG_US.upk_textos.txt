@@ -1,24 +1,24 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0480_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Leshau, a monster hunt?<03e0>Are you certain?
-Yes, yes, yes!<03e0>It has to be slain!<06e0000008e0000000000000>What kind of monster?<09e008e0010000000000>(I don't want to get involved.)
-Why hello, traveler!<03e0>What monster, you ask?<04e0>There's a monster called Validus in the <1be0ffbe34ff>Vale of<03e0>the Gods<1ce0>... It's causing quite a ruckus!
-It's never acted this way before...
-But it's acting this way now! A bunch of travelers<03e0>have already been found<07f0>all in bits and pieces!
-Hey, Mr. Traveler.<03e0>You look like a nice, strong fellow!<04e0>Come with me to take care of Validus! If we don't,<03e0>who knows what'll happen to Baaluk...<06e0000008e0000000000000>I'm game!<09e008e0010000000300>Nah.
-I knew I could count on you!<03e0>C'mon, let's go!
-If you insist on doing this, I wish you luck.<03e0>Be careful out there.
-B-but we've gotta save Baaluk!
-Baaluk is done for!
-I don't care much for monster hunts...
-Don't you care what happens to Baaluk?<04e0>You there, traveler!<03e0>Help me slay Validus!<06e0000008e0000000000000>I'm game!<09e008e0010000000300>Nah.
-I knew I could count on you!<03e0>Let's be off!
-If you insist on doing this, I wish<03e0>you luck. Be careful out there.
-B-but we've gotta save Baaluk!
-See? Even a hardy-looking type like that traveler<03e0>bailed on you.
-No... I'm sure he just wasn't finished getting ready!<04e0>Oh<07f0>hey Mr. Traveler!<03e0>You will come with me to slay Validus now,<03e0>won't you?<06e0000008e0000000000000>I'm game!<09e008e0010000000300>Nah.
-Alright! We're off!
-If you insist on going, I can't stop you.<03e0>Be safe out there.
-B-but we've gotta save Baaluk!
+Leshau... Sair à caça do monstro?<03e0>Você tem certeza?
+Sim, sim, sim!<03e0>Temos que acabar com ele!<06e0000008e0000000000000>De que monstro está falando?<09e008e0010000000000>(Não quero me envolver.)
+Ah, olá, forasteiro!<03e0>Que monstro, você diz?<04e0>Um monstro chamado Validus que vive no <1be0ffbe34ff>Vale dos<03e0>Deuses... <1ce0>Ele anda causando muita confusão!
+Mas ele nunca havia se comportado assim antes...
+Mas está se comportando agora! Um grupo de viajantes<03e0>foi encontrado morto, ou melhor, o que sobrou deles!
+Ei, forasteiro.<03e0>Você parece ser forte!<04e0>Venha comigo para darmos um fim nesse Validus!<03e0>Se não fizermos isso, o que será de Baaluk?<06e0000008e0000000000000>Vamos nessa!<09e008e0010000000300>Passo.
+Sabia que podia contar com você!<03e0>Isso mesmo, vamos logo!
+Já que insiste em fazer isso, desejo-lhe boa sorte.<03e0>Mas tenha cuidado lá fora.
+Mas... nós temos que salvar Baaluk!
+Baaluk já era!
+Não me interesso muito por caçar monstros...
+Você não se importa com o que pode ser de Baaluk?<04e0>Você aí, forasteiro!<03e0>Me ajude a acabar com o Validus!<06e0000008e0000000000000>Vamos nessa!<09e008e0010000000300>Passo.
+Sabia que podia contar com sua ajuda!<03e0>Vamos lá então!
+Já que insiste em fazer isso, desejo-lhe boa sorte.<03e0>Mas tenha cuidado lá fora.
+Mas... nós temos que salvar Baaluk!
+Está vendo? Nem mesmo alguém que parece tão forte,<03e0>como esse forasteiro, está disposto a te acompanhar.
+Não... Tenho certeza que ele não estava preparado!<04e0>Oh, ei, forasteiro!<03e0>Você agora vai vir comigo para acabarmos<03e0>com o Validus, não vai?<06e0000008e0000000000000>Vamos nessa!<09e008e0010000000300>Passo.
+É isso aí! Vamos lá então!
+Já que insiste em partir, não posso impedi-lo.<03e0>Mas tenha cuidado lá fora.
+Mas... nós temos que salvar Baaluk!
 

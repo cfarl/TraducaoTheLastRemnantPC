@@ -1,20 +1,20 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0130_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Just look at the depravity of the imperial city today...<03e0>Sickening, isn't it? Though it goes to show that what<03e0>goes around comes around...
-It's a fairly common rumor that treasures from many of<03e0>the old kingdoms have begun circulating through the<03e0>black market here.<04e0>If something from my homeland has ended up there,<03e0>I must have it, no matter the cost. Will you help me<03e0>look?<06e0000008e0000000000000>Let's go treasure hunting!<09e008e0010000000300>Your stuff is long gone.
-Thank you. We'd be looking for something called the<03e01be064f4ecff>Spear of Origin<1ce0>.<04e0>My homeland's good name, its history, its honor...<03e0>I will not allow them to be swept away by this sea of<03e0>corruption.
-I am certain someone with ties to this black market is<03e0>here in the imperial city. It's just a matter of finding the<03e0>right man.
-You may be right...<03e0>But I can't give up! Not after I've come so far.
-Finally... The Spear of Origin has returned to its<03e0>rightful people. Rush...I can't even begin to thank you.<04e0>My long journey has finally come to an end...<03e0>I finally feel right in saying that.
-From now on, Rush, my life is yours.<03e0>I'll fight for you with all I've got!
-Countries have offered up tribute to the God Emperor<03e0>for centuries. Treasures sent from the land's greatest<03e0>artisans were a source of pride.<04e0>But now, the imperial city has fallen so low, even these<03e0>offerings have ended up on the black market.<04e0>My country's tribute must be here as well... I must<03e0>obtain it, no matter what. You'll help me, won't you,<03e0>Rush?<06e0000008e0000000000000>Let's hit the antiques roadshow!<09e008e0010000000300>You're not gonna find it.
-Thank you. We'd be looking for something called the<03e01be064f4ecff>Spear of Origin<1ce0>.<04e0>My homeland's good name, its history, its honor...<03e0>I will not allow them to be swept away by this sea of<03e0>corruption.
-Someone here in <1be0ffbe34ff>Undelwalt<1ce0> will know about the black<03e0>market here. We should find them and ask them about<03e0>the treasures.
-That might be true...<03e0>But I can't give up! Not after I've come so far.
-You again? Can't get enough, eh?<04e0>The Phantom City was respected by even the Imperator.<03e0>This is their greatest treasure: the blade <1be064f4ecff>Finsternis<1ce0>.<03e0>The name means "darkness."<04e0>Trust me, I don't offer this to just anyone. Don't let<03e0>this opportunity pass ya by.<06e01900>sEVENT_PRICE_QE0130_P_003<08e0000000000000>Kinda pricey, but...okay.<09e008e0010000000300>Hell no.
-Good choice.
-Some new product should be coming my way soon...<03e0>Oho, makes it sound like it's hot goods.<03e0>Haw haw haw.<04e0>Come back to give another "contribution" to<03e0>Undelwalt's upkeep, eh?
-You should know by now<07f0>if you ain't buyin',<03e0>get the hell out of here.
-Your loss.
+Veja a perversão que hoje assola a cidade imperial...<03e0>É doentio, não? Mas com o tempo virá a lição: quem<03e0>semeia vento colhe tempestades...
+Estão dizendo por aí que tesouros de reinos antigos<03e0>estão circulando pelo mercado negro daqui.<03e0> <04e0>Se algum tesouro da minha terra veio parar<03e0>ali preciso recuperá-lo, custe o que custar.<03e0>Você vai me ajudar nisso?<06e0000008e0000000000000>Vamos para a caça ao tesouro!<09e008e0010000000300>Seus tesouros já eram.
+Obrigado. Estamos atrás de uma arma chamada<03e01be064f4ecff>Lança dos Primórdios<1ce0>.<04e0>Não permitirei que essa onda de corrupção ultraje o<03e0>bom nome da minha terra, sua história, sua honra...<03e0>
+Tenho certeza de que há pessoas na cidade imperial<03e0>que estão relacionadas com esse mercado negro.<03e0>É só uma questão de encontrá-las.
+Você pode estar certo... Mas não vou desistir!<03e0>Não depois de chegar tão longe.
+Finalmente... A Lança dos Primórdios voltou aos seus<03e0>legítimos donos. Rush... Nem sei como agradecer.<04e0>Minha longa jornada finalmente chegou ao fim...<03e0>Já posso dizer isso, sem me equivocar.
+A partir de agora, Rush, minha vida te pertence.<03e0>Lutarei ao seu lado com tudo que tenho!
+Durante séculos as províncias têm oferecido tributos<03e0>ao Imperador Celestial. Era uma grande honra dar como<03e0>presente tesouros elaborados pelos melhores artesãos.<04e0>Mas agora a cidade imperial decaiu tanto, que mesmo<03e0>essas oferendas estão indo parar no mercado negro.<04e0>O tesouro da minha terra deve estar por aqui...<03e0>Preciso recuperá-lo, a qualquer custo. Você vai<03e0>me ajudar, não vai, Rush?<06e0000008e0000000000000>Claro! Vamos atrás dele!<09e008e0010000000300>Você não vai encontrá-lo.
+Obrigado. Estamos atrás de uma arma chamada<03e01be064f4ecff>Lança dos Primórdios<1ce0>.<04e0>Não permitirei que essa onda de corrupção ultraje o<03e0>bom nome da minha terra, sua história, sua honra...<03e0>
+Alguém aqui em <1be0ffbe34ff>Undelwalt<1ce0> deve saber sobre esse mercado<03e0>negro. Precisamos encontrar essa pessoa e perguntar<03e0>sobre os tesouros.
+Você pode estar certo... Mas não vou desistir!<03e0>Não depois de chegar tão longe.
+Você de novo? Está querendo mais, é?<04e0>A Cidade Espectral era temida até pelo Imperador.<03e0>E esse era seu maior tesouro: a espada <1be064f4ecff>Finsternis<1ce0>.<03e0>Seu nome significa "escuridão."<04e0>Acredite em mim, não ofereço mercadoria como essa<03e0>a qualquer um. Não deixe passar essa oportunidade.<06e01900>sEVENT_PRICE_QE0130_P_003<08e0000000000000>É um pouco cara, mas... ok.<09e008e0010000000300>De jeito nenhum.
+Boa escolha.
+Novas mercadorias devem estar chegando em breve...<03e0>E isso quer dizer coisa boa! Haw haw haw.<03e0> <04e0>Volte depois para fazer outra "contribuição" para a<03e0>manutenção de Undelwalt, hã?
+Você já deveria saber... Se não vai comprar nada,<03e0>caia fora daqui.
+Quem perde é você.<01e00be00000000400000000000000>!
 

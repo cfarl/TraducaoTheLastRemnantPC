@@ -1,11 +1,11 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) GAS_0101_MP3_MSG
 -- ----------------------------------------------------------------------------------
-Listen up, Rush.<03e0>You can have the upper hand if you initiate battles<03e0>instead of being ambushed.
-Yeah, I know.
-And it's always good to fight as many monsters as<03e0>possible at the same time.
-Why? That sounds dangerous.
-The bigger the risk, the bigger the reward, that's what<03e0>I say!
-What do you mean?
-...What do you mean, "what do you mean"!?<03e0>Look, just try it, okay? Let's go!<04e007f0>Oh yeah, I almost forgot. Here's a map of the area.<03e0>Now you don't have any excuse for getting lost,<03e0>awright? Now let's get outta here!
+Escute, Rush. Se você inicia uma batalha, ao invés<03e0>de esperar ser atacado, poderá começar em vantagem.<03e0>
+Sim, eu sei disso.
+E é melhor lutar com o maior número possível de<03e0>monstros de uma só vez.
+Por quê? Isso parece perigoso.
+Oras... Quanto maior o desafio, maior a recompensa!<03e0>É o que sempre digo!
+Como assim?
+Como assim? Será que ainda não entendeu!?<03e0>Você pode ao menos tentar? Vamos lá!<04e0>Ah sim, já estava me esquecendo. Aqui está o mapa<03e0>desse lugar. Agora você não tem mais desculpas para<03e0>se perder, certo? Venha, vamos sair logo daqui!
 

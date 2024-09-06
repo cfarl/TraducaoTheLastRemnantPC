@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0320_4_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Gahahah! Howzabout I put 'em to work here?<03e0>I'll look after 'em good!
-Eheh, sorry about that...
-Say, kid<07f0>ah, Rush. Sorry for the trouble<07f0>I've<03e0>put you through a lot, eh?
-I know he's a meddlesome old coot, but take<03e0>good care of Pagus for me, would you?
-Well! I certainly hadn't felt that sort of fear<03e0>or excitement in a long while.<04e0>Truly, I mustn't forget to teach the young folk<03e0>that experience is just as important as book<03e0>knowledge.
-Pagus. Rush. I'd better be getting back, then.<03e0>Pagus<07f0>let's do a better job of keeping in touch<03e0>this time, hmm?
-Sibal, you'd do well to take care of yourself...<03e0>We might not be there next time you're about<03e0>to be eaten by monsters.
-Alright, lad.<03e0>It's time we returned to Melphina as well.
-Ahh... For a moment, I was back as a young man<03e0>having a great adventure... It's not a feeling<03e0>I'll soon forget.
-Rush, my boy, thank you so much.<03e0>This is for you.
+Hahaha! E que tal eles virem trabalhar aqui comigo?<03e0>Prometo cuidar muito bem deles!
+Hehe, sinto muito por isso...
+Olha, garoto... digo, Rush. Sinto muito por fazer você<03e0>passar por todos esses problemas...
+Sei que Pagus é um velho intrometido, mas cuide bem<03e0>dele por mim, sim?
+Bem... A verdade é que fazia muito tempo que não<03e0>sentia esse tipo de medo ou excitação.<04e0>Preciso me lembrar de ensinar aos meus alunos que a<03e0>experiência é tão importante quanto o conhecimento<03e0>registrado nos livros.
+Pagus. Rush. Agora preciso voltar. Mas Pagus, vamos<03e0>tentar manter contato daqui em diante, certo?<03e0>
+Sibal, tome cuidado... Podemos não estar por aqui na<03e0>próxima vez que estiver prestes a ser devorado por<03e0>um monstro.
+Você está certo, rapaz.<03e0>Já está na hora de também voltarmos para Melphina.
+Ahh... Por um momento voltei a me sentir como um<03e0>jovem vivendo uma grande aventura... Essa é uma<03e0>sensação que não esquecerei tão cedo.
+Rush, meu garoto, muito obrigado.<03e0>Isso é para você.
 

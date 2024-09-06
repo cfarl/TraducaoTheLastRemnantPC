@@ -1,238 +1,238 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) UNB_05PL_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the Blessed Chime!
-Welcome to the Blessed Chime!<04e0>You wish for an audience with the God Emperor?<04e0>Oh my. Only the most important of people are allowed<03e0>an audience with his majesty.<04e0>I'm afraid you're asking the impossible.
-Hey, it's you!<03e0>Long time no see, sonny.<04e0>Thanks to your help, that monster on Mt. Vackel's<03e0>gone, so ah could finally come on home.<04e0>Can't believe you whupped that giant beast!<03e0>You've earned my respect for a lifetime.
-It's hard to believe you defeated<03e0>such a gigantic monster!<03e0>You are a true hero!
-Undelwalt was once the most prosperous<03e0>city in the world until the God Emperor<03e0>became nothing more than a figurehead.<04e0>It pains me to think about it.
-The Blessed Chime has been around<03e0>since the days of the Imperator.<03e0>This place holds history.<04e0>The customers who used to come here<03e0>were very refined. You can't tell from<03e0>looking around the place today, though.
-The Harmonium used to sparkle as it<03e0>reflected sunlight off its sides.<03e0>It was a beautiful sight.<04e0>Now it's covered in a greenish tint.<03e0>It could mean the Harmonium's bind<03e0>is coming to an end.
-Imperial city, my ass!<03e0>It's pretty to look at, but it's empty inside.<04e0>Kinda like the God Emperor himself.
-There is nothing to talk about today.
-That is not true.<03e0>There is always love and compassion.
-It seems the wife of Celapaleis's Baron Nielsen has<03e0>left him again. Their stormy relationship has been<03e0>well-known for ages.
-This is the talk of the town, my lady.
-Perhaps she'll come here for a chat!
-Indeed.
-It seems someone is out to assassinate<03e0>Duke Qubine. A suspicious woman was<03e0>also spotted lurking about the area.
-This is the talk of the town, my lady.
-The case has solved itself.<03e0>It was the suspicious woman!
-Indeed.
-The princess of a desert kingdom is in love<03e0>and sneaks out of the castle frequently.<03e0>People pray she does not get herself into any trouble.
-This is the talk of the town, my lady.
-She is already in trouble.<03e0>Love is the biggest form of trouble<03e0>a woman can get herself in.
-Indeed.
-The princess from the desert kingdom<03e0>eloped with her love.
-This is the talk of the town, my lady.
-My, what excellent news!<03e0>I dream of eloping with a love someday...
-Indeed.
-The conflict between Balterossa and<03e0>Royotia is getting worse by the day.<03e0>Everyone thinks a war is inevitable.
-This is the talk of the town, my lady.
-How horrible!<03e0>I pray this won't affect the trade routes.<03e0>It will destroy my business!
-Indeed.
-It is rumored that in a certain moor,<03e0>the Imperator used his powers to<03e0>seal the entranceway to another realm.
-This is the talk of the town, my lady.
-I am no fan of moors, but I am drawn<03e0>to the one in Melphina.<03e0>There are no words to describe its beauty.
-Indeed.
-Any Forest Maiden that vows eternity<03e0>with a Melphinian knight gains the power of<03e0>seeing and hearing everything her partner does.
-This is the talk of the town, my lady.
-A Maiden and a knight.<03e0>How romantic...
-Indeed.
-It seems something has happened to the Last<03e0>Leaf in Crookfen. The Forest Maidens and<03e0>the knights of Melphina are taking action.
-This is the talk of the town, my lady.
-I just pray whatever action they take,<03e0>the beauty of the landscape will not be harmed.
-Indeed.
-It seems Kosmosfest has yet to begin because<03e0>the Cosmos Maiden has not arrived. Everyone prays<03e0>she is safe.
-This is the talk of the town, my lady.
-I would like to attend this festival.<03e0>Perhaps if I leave now, they will put<03e0>it on hold till I arrive.
-Indeed.
-The Cosmos Maiden has arrived and the festival will<03e0>begin shortly. It is a shame that the tranquil<03e0>event is always disrupted by monsters.
-This is the talk of the town, my lady.
-Why would the monsters do that?<03e0>Who would try to ruin a perfectly<03e0>wonderful evening?
-Indeed.
-An old-fashioned woman is seeking<03e0>a bodyguard. She waits in the pub in<03e0>the town with the canals.
-This is the talk of the town, my lady.
-A woman alone in a pub...<03e0>Perhaps she has just bore some heartache.
-Indeed.
-The treasures from different lands bestowed<03e0>upon the holy city have been stolen and<03e0>are being sold on the black market.
-This is the talk of the town, my lady.
-The black market?<03e0>If they had come to me, I could have<03e0>made them a much better offer.
-Indeed.
-Someone is seeking the three desert stones,<03e0>important to the history of the land.
-This is the talk of the town, my lady.
-I'd like a glimpse of what the stones<03e0>look like, but I'm afraid the desert air<03e0>will dry out my skin.
-Indeed.
-A scientist is seeking an assistant to help<03e0>him with research regarding ancient magick.
-This is the talk of the town, my lady.
-All he needs to do is offer compensation<03e0>and he should find help in no time.
-Indeed.
-A horrible monster sealed by the Imperator<03e0>long ago has been resurrected.<03e0>There will be chaos.
-This is the talk of the town, my lady.
-This is horrible!<03e0>I must live my last days to the fullest.<03e0>Shopping! I must go shopping.
-Indeed.
-A man with amnesia is searching for<03e0>something he lost in the desert.<03e0>Perhaps it is his memory he searches for.
-This is the talk of the town, my lady.
-At times I forget to collect money<03e0>from the customers.
-Indeed.
-A notorious bandit has been seen<03e0>lurking around Athlum. It seems he is<03e0>waiting for someone.
-This is the talk of the town, my lady.
-A bandit!<03e0>I surely hope he doesn't come this way...
-Indeed.
-A lad is searching for the goddess statue in<03e0>the Robelia Ruins that supposedly lets one<03e0>reunite with someone far away.
-This is the talk of the town, my lady.
-I have no need for the statue. I'm surrounded<03e0>every day by those who mean the most<03e0>to me<07f0>the people of Undelwalt.
-Indeed.
-There was a murder in the big city and<03e0>the assailant is still on the loose.
-This is the talk of the town, my lady.
-If he dares come to my shop, I will<03e0>make him rue the day!
-Indeed.
-A large yama is searching for something<03e0>he has lost. His behavior is very odd...
-This is the talk of the town, my lady.
-I understand what he must be going through.<03e0>It takes me months to find something I've lost<03e0>in my own house!
-Indeed.
-A white qsiti has been seen rummaging<03e0>through books written about magick.<03e0>Some say he looks familiar.
-This is the talk of the town, my lady.
-I should read books on how to pour<03e0>a delicious cup of tea. Silly me, I<03e0>usually forget to use tea leaves.
-Indeed.
-Two young ladies, twins as a matter of fact,<03e0>are of the most skilled of the mercenaries.
-This is the talk of the town, my lady.
-If I had a twin, perhaps I would have become<03e0>a mercenary as well.
-Indeed.
-A gentleman is hosting a game in<03e0>the Great Sand Sea.
-This is the talk of the town, my lady.
-I wonder how large the Great Sand Sea<03e0>really is. Although I would never go there<03e0>because I loathe the dry desert air.
-Indeed.
-An old warrior has crossed the Great Sand Sea<03e0>in search of a certain sword.
-This is the talk of the town, my lady.
-I wonder how long it would take to cross<03e0>the Great Sand Sea. Although I would never<03e0>go there because I loathe the dry air.
-Indeed.
-The soldiers of Ghor are quite devoted to their lord.<03e0>They have vowed to protect him with their lives.
-This is the talk of the town, my lady.
-It's wonderful having people in high-ranking<03e0>positions with decent heads on their shoulders.
-Indeed.
-The Honeywell clan serves Athlum well.<03e0>The residents have nothing but trust and<03e0>respect for that family.
-This is the talk of the town, my lady.
-The Honeywool clan?
-Indeed.
-Torgal of the Athlum generals is rather<03e0>touchy about his past.
-This is the talk of the town, my lady.
-What is this "Athlum" people speak of?<03e0>A tasty dish, perhaps?
-Indeed.
-The Tournament of Heroes is about to commence.
-This is the talk of the town, my lady.
-Not for me, thank you.
-Indeed.
-Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things.
-This is the talk of the town, my lady.
-This is an exceptional school for carpenters?
-Indeed.
-Athlum's had its share of hardships.<03e0>People pray the Honeywell girl will do<03e0>as great a job as her mother.
-This is the talk of the town, my lady.
-Hineywool? Honeywood? ...What now?
-Indeed.
-The Marquis of Athlum has quite a number<03e0>of admirers, it seems. All are surprised that<03e0>he does not have a special lady friend.
-This is the talk of the town, my lady.
-So this "Athlum"...<03e0>Ah, perhaps it is a new brand of tea!
-Indeed.
-The ex-director of the Academy<03e0>has been spotted at pubs in various cities.<03e0>No one knows what she is up to.
-This is the talk of the town, my lady.
-She ought to come here so I can<03e0>pour her a drink and listen to<03e0>her worries and put her at ease!
-Indeed.
-Dr. Sykes has been seen making frequent<03e0>trips to Athlum Castle of late.
-This is the talk of the town, my lady.
-"Athlum"... Perhaps it is a new brand<03e0>of wine?
-Indeed.
-A monster was spotted flying around Wyrmskeep.<03e0>The residents are in a flurry.
-This is the talk of the town, my lady.
-A-a monster!?<03e0>Wh-what if it attacks me!?
-Indeed.
-A vicious female warrior is hunting down those<03e0>responsible for the incident at the moor<03e0>against her leader's wishes.
-This is the talk of the town, my lady.
-I wish I were a lady knight...<03e0>I would show everyone what<03e0>women can do!
-Indeed.
-A mob of ferocious monsters has<03e0>been spotted in the Great Sand Sea.<03e0>They are said to be quite overwhelming.
-This is the talk of the town, my lady.
-There are monsters in the desert?<03e0>Another good reason to stay<03e0>away from deserts!
-Indeed.
-Archaeologists are saying that in the depths of<03e0>the volcano, there lies the power to destroy<03e0>an entire city.
-This is the talk of the town, my lady.
-Perhaps it be best not to do anything<03e0>to upset the volcano.
-Indeed.
-There are no means to research the dangers<03e0>that lie within a volcano. But lords have their ways<03e0>of finding things out<07f0>no matter how impossible.
-This is the talk of the town, my lady.
-The world should be rid of volcanoes.
-Indeed.
-There is a town that is being run without a lord.<03e0>His two sons are fighting for the position,<03e0>but neither is succeeding.
-This is the talk of the town, my lady.
-Can they not share the position?
-Indeed.
-By listening closely, one can hear<03e0>crying coming from the depths of<03e0>the Great Sand Sea.
-This is the talk of the town, my lady.
-The desert cries?<03e0>Oh, why do I even bother to ask?<03e0>I have no interest in the desert.
-Indeed.
-Long ago, a hero wandered the Great Sand Sea.
-This is the talk of the town, my lady.
-What was he doing in the desert?<03e0>Wait, the desert doesn't interest me one bit.<03e0>Please forget I asked.
-Indeed.
-A frightened man is sharing his story of the ghosts<03e0>he saw when he spoke to the pillar in the Great<03e0>Sand Sea.
-This is the talk of the town, my lady.
-What is a pillar doing in the desert?<03e0>...I don't know why I keep asking when<03e0>I have no interest in the desert.
-Indeed.
-There is a scientist in Melphina with a tainted<03e0>reputation. People avoid him, saying he is<03e0>not quite all there.
-This is the talk of the town, my lady.
-What could a person do for others<03e0>to call them "looney"? I can't even<03e0>begin to fathom.
-Indeed.
-There is a pub in a city by the desert that is<03e0>infested with desert bugs. The owner, being quite<03e0>desperate, is asking for help from anyone who will listen.
-This is the talk of the town, my lady.
-I had no idea there were bugs in the desert.<03e0>...Oh, why do I bother feigning interest?<03e0>The desert really is boring and dreary.
-Indeed.
-Ever since the incident, Nagapur has become quite a<03e0>dangerous area. There has been a huge increase in<03e0>crime, especially the kidnapping of young children.
-This is the talk of the town, my lady.
-Which incident are you referring to?<03e0>Oh, perhaps you mean the flock of<03e0>birds migrating to Undelwalt!
-Indeed.
-A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures.<03e0>However, everyone soon bored of this game.
-This is the talk of the town, my lady.
-Why would anyone wish to get rid<03e0>of their own treasure?
-Indeed.
-Balterossa is the sole buyer of all of<03e0>Royotia's trade goods. There are countless<03e0>merchants who are unhappy with the situation.
-This is the talk of the town, my lady.
-They are not filled with gratitude?<03e0>Why is that?
-Indeed.
-A yamaan mercenary is seeking help.<03e0>He must have found himself a job too big to<03e0>handle alone.
-This is the talk of the town, my lady.
-A job! How exciting for him!
-Indeed.
-A young lady was overheard talking quite fondly<03e0>about a young man in Celapaleis who is very kind<03e0>one minute but begins yelling the next.
-This is the talk of the town, my lady.
-I suppose it is like being with two<03e0>men at the same time.<03e0>I myself prefer the tall, silent type.
-Indeed.
-There is a qsiti who stands in the middle of<03e0>busy streets, glaring at anyone who bumps into him.
-This is the talk of the town, my lady.
-He must be lonely and seeking friends.<03e0>We should all go and bump into him!
-Indeed.
-A mysterious lady is about. She looks like<03e0>she has the weight of the world on her<03e0>shoulders.
-This is the talk of the town, my lady.
-If you put your mind to it, you can do<03e0>or get anything you want!
-Indeed.
-Bloody Alice soldiers have gathered at the moor.<03e0>Perhaps they are preparing for something.
-This is the talk of the town, my lady.
-Bloody Alice...<03e0>Hmm, I think I shall have a steak<03e0>for dinner tonight<07f0>rare.
-Indeed.
-The Jhana are now causing a ruckus in<03e0>the Great Sand Sea. It seems they have already<03e0>forgotten the wrath of Athlum's Gae Bolg.
-This is the talk of the town, my lady.
-So is this "Athlum" a new brand of<03e0>clothing, perhaps?
-Indeed.
-The Silver Falcons are going to rid<03e0>the area of the Jhana.<03e0>They are dependable soldiers.
-This is the talk of the town, my lady.
-The Silver Falcons...<03e0>That reminds me, I must get someone<03e0>to polish the silverware in these cabinets.
-Indeed.
-The Silver Falcons are going to get rid of<03e0>the remaining soldiers of the Conqueror's army.
-This is the talk of the town, my lady.
-The Silver Falcons...<03e0>That reminds me, I must purchase<03e0>some new cutlery.
-Indeed.
-A gloomy-looking man frequents the pub<03e0>in Elysion. No one seems to know<03e0>anything of him.
-This is the talk of the town, my lady.
-If only he would stop by.<03e0>I would cheer him up!
-Indeed.
+Bem-vindo ao Sino dos Ventos!
+Seja bem-vindo ao Sino dos Ventos!<04e0>Você deseja uma audiência com o Imperador Celestial?<04e0>Vá sonhando... somente as pessoas mais importantes do<03e0>mundo conseguem uma audiência com Vossa Excelência.<04e0>Acho que você está querendo uma coisa impossível.
+Oras, vejam só quem está aqui! Quanto tempo, rapaz!<03e0> <04e0>Graças à sua ajuda, aquele monstro que estava no topo<03e0>do Monte Vackel se foi, e pude voltar para casa.<04e0>Não consigo acreditar que derrotou aquele monstro...<03e0>Com isso você ganhou meu respeito!
+Não consigo acreditar que você derrotou um monstro<03e0>daquele tamanho! Você é um verdadeiro herói!<03e0>
+Undelwalt já foi a cidade mais próspera do mundo, até<03e0>que a figura do Imperador Celestial se transformou em<03e0>um cargo meramente simbólico.<04e0>Me dói muito quando penso nisso...
+O Sino dos Ventos existe desde os tempos do primeiro<03e0>Imperador celestial. Esse lugar tem muita história...<03e0> <04e0>Antes nós tínhamos uma clientela bastante refinada.<03e0>Mas hoje já não podemos mais dizer a mesma coisa.<03e0>Dê só uma olhada em volta!
+Antes, o Harmonium refletia a luz do sol e emitia um<03e0>brilho espetacular. Era uma visão impressionante.<03e0> <04e0>Mas agora ele está coberto por uma cor esverdeada.<03e0>O vínculo que o controla pode estar enfraquecendo...<03e0>
+Cidade imperial... Bah! É muito bonita de se ver, mas<03e0>no fundo não serve para nada.<04e0>Assim como o próprio Imperador Celestial.
+Não há nada de interessante acontecendo hoje.
+E por acaso um dia tranquilo como esse não é algo que<03e0>devemos agradecer, nesses tempos em que vivemos?
+Parece que a esposa do barão Nielsen, de Celapaleis,<03e0>fugiu de casa de novo. Mas isso não é mais nenhuma<03e0>novidade, todos sabem que os dois não se dão bem.
+Em toda a cidade, não se fala de outra coisa.
+Pode ser que ela apareça por aqui para conversar!
+Pois é...
+Ouvi dizer que alguém está planejando assassinar o<03e0>duque de Qubine. Viram uma mulher suspeita rondando<03e0>o palácio.
+Em toda a cidade, não se fala de outra coisa.
+Esse caso já foi solucionado. No final, era aquela<03e0>mulher do qual suspeitávamos!
+Pois é...
+Ouvi dizer que a princesa do deserto está apaixonada<03e0>e foge do castelo com frequência para ver seu amado.<03e0>Espero que não se meta em nenhuma encrenca.
+Em toda a cidade, não se fala de outra coisa.
+Ela já está metida em uma encrenca. O amor é a maior<03e0>encrenca na qual uma mulher pode se meter.<03e0>
+Pois é...
+A princesa do deserto fugiu com seu amado!<03e0>
+Em toda a cidade, não se fala de outra coisa.
+Minha nossa, que excelente notícia! Eu iria adorar<03e0>algum dia fugir com meu amado...
+Pois é...
+O conflito entre Balterossa e Royotia está ficando<03e0>pior a cada dia que passa. Todos estão dizendo que<03e0>a guerra é inevitável.
+Em toda a cidade, não se fala de outra coisa.
+Que horror! Espero que isso não afete nossas rotas<03e0>comerciais. Seria o fim do meu negócio!<03e0>
+Pois é...
+As pessoas estão dizendo que o primeiro Imperador<03e0>celestial encontrou um portal para outra dimensão<03e0>em um pântano e usou seus poderes para fechá-lo.
+Em toda a cidade, não se fala de outra coisa.
+Não gosto de pântanos, mas aquele perto de Melphina<03e0>me parece muito bonito. Não há palavras que possam<03e0>descrever a sua beleza...
+Pois é...
+Parece que, quando uma Donzela do Bosque se une em<03e0>juramento a um cavaleiro de Melphina, ela recebe o<03e0>poder de ver e ouvir tudo que ele faz.
+Em toda a cidade, não se fala de outra coisa.
+Uma donzela e um cavaleiro... Que romântico!<03e0>
+Pois é...
+Ouvi dizer que aconteceu alguma coisa com a Folha<03e0>Caída em Crookfen. As Donzelas do Bosque, junto<03e0>dos cavaleiros de Melphina, já estão investigando.
+Em toda a cidade, não se fala de outra coisa.
+Só espero que, independentemente do que eles venham<03e0>a fazer, a beleza da paisagem seja preservada.
+Pois é...
+Já está quase na hora da Festa Cósmica começar, mas a<03e0>Donzela Cósmica ainda não chegou em Nagapur. Espero<03e0>que nada de mal tenha acontecido a ela...
+Em toda a cidade, não se fala de outra coisa.
+Eu queria muito assistir esse festival. Talvez, se<03e0>eu sair agora, eles o adiem até eu chegar....<03e0>
+Pois é...
+No final a Donzela Cósmica chegou a tempo e a Festa<03e0>Cósmica começou conforme planejado. É uma pena que<03e0>os monstros tenham interrompido a celebração...
+Em toda a cidade, não se fala de outra coisa.
+E por que os monstros iriam fazer isso? Quem é que<03e0>tentaria arruinar uma noite tão maravilhosa?<03e0>
+Pois é...
+Uma dama apegada a tradições está querendo contratar<03e0>um guarda-costas. Dizem que ela pode ser encontrada<03e0>na taverna de uma cidade cheia de canais.
+Em toda a cidade, não se fala de outra coisa.
+Uma mulher sozinha em uma taverna... Pode ser que só<03e0>esteja sofrendo por causa de amor.
+Pois é...
+Parece que os tesouros da cidade sagrada foram parar<03e0>na mão de contrabandistas, e agora estão à venda no<03e0>mercado negro.
+Em toda a cidade, não se fala de outra coisa.
+No mercado negro? Se tivessem oferecido para mim eu<03e0>teria feito uma oferta muito melhor...<03e0>
+Pois é...
+Há um homem por aí que anda em busca de três pedras<03e0>relacionadas com o antigo reino do deserto.
+Em toda a cidade, não se fala de outra coisa.
+Eu adoraria ver essas pedras, mas acho que o vento<03e0>quente do deserto iria ressecar a minha pele.<03e0>
+Pois é...
+Um cientista está em busca de um assistente que possa<03e0>ajudá-lo em uma pesquisa sobre a magia arcana.
+Em toda a cidade, não se fala de outra coisa.
+O que ele precisa fazer é oferecer um bom salário.<03e0>Se fizer isso, vai encontrar ajuda rápido.
+Pois é...
+Parece que está de volta um monstro que havia sido<03e0>aprisionado pelo primeiro Imperador celestial. Algo<03e0>me diz que isso vai ser um caos...
+Em toda a cidade, não se fala de outra coisa.
+Isso é terrível! Preciso então aproveitar ao máximo<03e0>os últimos dias da minha vida... Compras! Preciso ir<03e0>fazer compras!
+Pois é...
+Um homem com amnésia está vagando pelas cidades do<03e0>deserto, em busca de algo que perdeu ali. Pode ser que<03e0>esteja procurando suas lembranças.
+Em toda a cidade, não se fala de outra coisa.
+Eu às vezes também esqueço de cobrar os clientes...<03e0>
+Pois é...
+Um bandido famoso foi visto nos arredores de Athlum.<03e0>As pessoas estão dizendo que está esperando alguém.<03e0>
+Em toda a cidade, não se fala de outra coisa.
+Um bandido! Espero que não passe por aqui...<03e0>
+Pois é...
+Nas Ruínas de Robélia há uma estátua que te permite<03e0>encontrar qualquer pessoa no mundo, esteja ela onde<03e0>estiver. Um rapaz está procurando por ela...
+Em toda a cidade, não se fala de outra coisa.
+Eu não preciso dessa estátua. Já tenho ao meu redor<03e0>as pessoas que são importantes para mim... As pessoas<03e0>que vivem em Undelwalt!
+Pois é...
+Houve um assassinato na grande cidade... E o culpado<03e0>ainda continua solto!
+Em toda a cidade, não se fala de outra coisa.
+Se ele ousar chegar perto do meu estabelecimento,<03e0>vai se arrepender de ter nascido!
+Pois é...
+Um yama enorme está procurando uma coisa que perdeu.<03e0>Mas dizem que ele se comporta de forma estranha...
+Em toda a cidade, não se fala de outra coisa.
+Entendo o que ele está passando... Levei meses para<03e0>encontrar algo que havia perdido dentro de casa!<03e0>
+Pois é...
+Parece que um qsiti albino anda perguntando sobre<03e0>livros que falam da magia arcana. Algumas pessoas<03e0>estão dizendo que ele parece familiar.
+Em toda a cidade, não se fala de outra coisa.
+Eu deveria ler alguns livros para aprender como se<03e0>prepara uma boa xícara de chá. O problema é que eu<03e0>sempre esqueço de colocar as folhas...
+Pois é...
+Parece que duas garotas gêmeas começaram a trabalhar<03e0>como mercenárias, e todos estão encantados com elas.
+Em toda a cidade, não se fala de outra coisa.
+Se eu tivesse uma irmã gêmea, também teria me tornado<03e0>uma mercenária.
+Pois é...
+Um homem está organizando um tipo de jogo no Grande<03e0>Mar de Areia.
+Em toda a cidade, não se fala de outra coisa.
+Fico imaginando qual deve ser a extensão do Grande<03e0>Mar de Areia... Mas eu não colocaria os pés naquele<03e0>lugar. Odeio o ar seco do deserto!
+Pois é...
+Dizem que um velho guerreiro atravessou todo o Grande<03e0>Mar de Areia em busca de um espada muito especial.
+Em toda a cidade, não se fala de outra coisa.
+Fico imaginando quanto tempo levaria para atravessar<03e0>o Grande Mar de Areia... Mas eu não colocaria os pés<03e0>naquele lugar. Odeio o ar seco do deserto!
+Pois é...
+Os guardas de Ghor juraram lealdade ao seu senhor,<03e0>até o último dia de suas vidas.
+Em toda a cidade, não se fala de outra coisa.
+Fico contente de saber que nossos governadores são<03e0>pessoas decentes.
+Pois é...
+A família Honeywell fez muitas coisas por Athlum.<03e0>Os habitantes da cidade sempre depositaram bastante<03e0>confiança e respeito nos seus membros.
+Em toda a cidade, não se fala de outra coisa.
+A família Honeywell?
+Pois é...
+Estão dizendo que Torgal, um dos generais de Athlum,<03e0>raramente fala sobre seu passado.
+Em toda a cidade, não se fala de outra coisa.
+E o que é esse tal de "Athlum", do qual as pessoas<03e0>tanto falam? É alguma receita famosa?
+Pois é...
+O Torneio dos Heróis está prestes a começar.
+Em toda a cidade, não se fala de outra coisa.
+Isso não é para mim, passo...
+Pois é...
+Dizem que a Academia de Artes Místicas é uma escola<03e0>famosa e seus alunos realizam grandes feitos.
+Em toda a cidade, não se fala de outra coisa.
+Não conheço... É uma escola que forma carpinteiros?
+Pois é...
+Athlum está atravessando tempos difíceis. As pessoas<03e0>estão rezando para que a jovem Honeywell possa fazer<03e0>um trabalho tão bom quanto fez sua mãe.
+Em toda a cidade, não se fala de outra coisa.
+Como? Hineywool? Honeywood? É isso mesmo?
+Pois é...
+Parece que o marquês de Athlum tem um monte de fãs.<03e0>Mas ninguém consegue explicar porque ele ainda não<03e0>tem nenhuma mulher na sua vida.
+Em toda a cidade, não se fala de outra coisa.
+Então esse "Athlum"... Já sei, é um novo tipo de chá!<03e0>
+Pois é...
+Dizem que a antiga diretora da Academia anda vagando<03e0>de cidade em cidade, visitando tavernas. Ninguém sabe<03e0>o que ela está planejando.
+Em toda a cidade, não se fala de outra coisa.
+Ela deveria aparecer aqui para eu servir uma bebida<03e0>para ela. Eu escutaria seus problemas...<03e0>
+Pois é...
+A doutora Sykes tem ido com freqüência ao Castelo de<03e0>Athlum, nos últimos tempos.
+Em toda a cidade, não se fala de outra coisa.
+"Athlum"... Será que é um novo tipo de vinho?<03e0>
+Pois é...
+Dizem que há um monstro pelos céus de ForteDragão.<03e0>Os habitantes da região estão muito assustados.
+Em toda a cidade, não se fala de outra coisa.
+U-um monstro!? E se ele me atacar!?<03e0>
+Pois é...
+Uma guerreira com sede de justiça está caçando aqueles<03e0>homens que andaram causando problemas em Crookfen.<03e0>Mas ela está desobedecendo o líder da sua ordem.
+Em toda a cidade, não se fala de outra coisa.
+Quem me dera eu também ser uma guerreira... Eu iria<03e0>mostrar ao mundo todo do que uma mulher é capaz!<03e0>
+Pois é...
+Dizem que há uma horda de monstros ferozes rondando<03e0>o Grande Mar de Areia. Parece que são muito fortes!<03e0>
+Em toda a cidade, não se fala de outra coisa.
+Há monstros no deserto? Essa é uma outra boa razão<03e0>para eu ficar bem longe dos desertos!<03e0>
+Pois é...
+Segundo dizem os historiadores, nas profundezas de um<03e0>vulcão se esconde uma criatura que pode destruir uma<03e0>cidade inteira, senhor!
+Em toda a cidade, não se fala de outra coisa.
+Então é melhor não chegar muito perto do vulcão...<03e0>
+Pois é...
+Ninguém sabe que perigos se escondem no interior de<03e0>um vulcão. Mas os lordes têm recursos para descobrir<03e0>essas coisas, por mais difícil que pareça.
+Em toda a cidade, não se fala de outra coisa.
+Deveríamos acabar com todos os vulcões.
+Pois é...
+Você sabia que existe uma cidade que não tem senhor?<03e0>Os filhos do antigo governador estão brigando para ver<03e0>quem assume o posto do pai.
+Em toda a cidade, não se fala de outra coisa.
+E eles não podem dividir esse posto?
+Pois é...
+Dizem que, se você prestar bastante atenção, poderá<03e0>ouvir um lamento triste e solitário procedendo das<03e0>profundezas do Grande Mar de Areia.
+Em toda a cidade, não se fala de outra coisa.
+Então o deserto se lamenta? Mas... porque me preocupo<03e0>com isso? Não tenho nenhum interesse pelo deserto.<03e0>
+Pois é...
+Há tempos atrás um herói vagava pelo Mar de Areia.
+Em toda a cidade, não se fala de outra coisa.
+Mas o que ele estava fazendo no deserto? Pera aí...<03e0>É mesmo, não tenho nenhum interesse pelo deserto!<03e0>Eu não disse nada, viu?
+Pois é...
+Um homem muito assustado me contou que viu fantasmas<03e0>depois de olhar para um pilar no Grande Mar de Areia.<03e0>
+Em toda a cidade, não se fala de outra coisa.
+E o que um pilar está fazendo no deserto? Oras... Não<03e0>sei porque continuo perguntando essas coisas, já que<03e0>não tenho interesse pelo deserto.
+Pois é...
+Em Melphina há um homem que afirma ser um cientista,<03e0>mas as pessoas tentam não chegar muito perto dele.<03e0>Dizem que ele é meio maluco.
+Em toda a cidade, não se fala de outra coisa.
+Mas o que uma pessoa poderia fazer para ser chamada<03e0>de "maluca"? Eu nem consigo imaginar...<03e0>
+Pois é...
+Dizem que há uma cafeteria, em uma cidade do deserto,<03e0>que está infestada de insetos. O dono, desesperado,<03e0>está pedindo ajuda para todo mundo.
+Em toda a cidade, não se fala de outra coisa.
+Eu não fazia ideia de que havia insetos no deserto.<03e0>Bah, não sei porque finjo que isso me interessa...<03e0>Não há nada mais chato que um deserto!
+Pois é...
+Desde aquele incidente, Nagapur se tornou um lugar<03e0>muito perigoso. Há muita criminalidade, e dizem que<03e0>muitos meninos e meninas estão desaparecidos.
+Em toda a cidade, não se fala de outra coisa.
+De qual incidente você está falando? Ah, claro! Deve<03e0>estar falando da migração de pássaros de Undelwalt!<03e0>
+Pois é...
+Antigamente as pessoas de Royotia tinham como hábito<03e0>trocar os tesouros que encontravam nas suas viagens.<03e0>Mas hoje em dia ninguém mais faz isso.
+Em toda a cidade, não se fala de outra coisa.
+E para que essas pessoas saiam em busca de tesouros,<03e0>se logo acabavam se desfazendo deles?
+Pois é...
+Todas mercadorias produzidas em Royotia passam por<03e0>Balterossa. Os comerciantes não estão nem um pouco<03e0>satisfeitos com essa situação.
+Em toda a cidade, não se fala de outra coisa.
+Eles deveriam é agradecer a existência de uma rota<03e0>comercial... Não entendo do que estão se queixando.
+Pois é...
+Dizem que um mercenário yama está em busca de ajuda.<03e0>Parece que ele pegou um trabalho grande demais para<03e0>ser feito sem ajuda.
+Em toda a cidade, não se fala de outra coisa.
+Um trabalho! Isso por acaso é emocionante?
+Pois é...
+Uma jovem estava me contando que está apaixonada por<03e0>um jovem de Celapaleis. Ela disse que esse rapaz em<03e0>um momento é gentil, mas do nada fica mal humorado.
+Em toda a cidade, não se fala de outra coisa.
+Acho que isso deve ser como estar com dois homens ao<03e0>mesmo tempo... Eu prefiro os mais altos, mas que não<03e0>falam tanto assim.
+Pois é...
+Tem um qsiti que costuma ficar bem no meio de ruas<03e0>movimentadas olhando com ódio quem esbarra nele.
+Em toda a cidade, não se fala de outra coisa.
+Ele deve estar se sentindo sozinho e por isso está<03e0>tentando fazer novos amigos. Devíamos ir lá!
+Pois é...
+Outro dia vi uma mulher pra lá de misteriosa. Parecia<03e0>que ela carregava o peso do mundo nas suas costas.<03e0>
+Em toda a cidade, não se fala de outra coisa.
+Se você quer muito uma coisa, vai acabar conseguindo!<03e0>
+Pois é...
+As Damas Sangrentas estão se reunindo nos pântanos.<03e0>Parece que estão se preparando para algo importante.
+Em toda a cidade, não se fala de outra coisa.
+As Damas Sangrentas... Hmm, acho que hoje de noite<03e0>vou comer um bife bem mal passado...<03e0>
+Pois é...
+Parece que os jhanas voltaram a causar problemas no<03e0>Grande Mar de Areia! Nem o Gae Bolg pôde detê-los.<03e0>
+Em toda a cidade, não se fala de outra coisa.
+E esse "Athlum", o que é? Uma nova marca de roupa?<03e0>
+Pois é...
+Ouvi dizer que os Falcões Prateados vão acabar com<03e0>todos os jhanas da região. O que faríamos sem eles?<03e0>
+Em toda a cidade, não se fala de outra coisa.
+Os Falcões Prateados... Isso me lembra que preciso<03e0>achar alguém para polir a prataria dos armários.<03e0>
+Pois é...
+Os Falcões Prateados estão indo atrás do que restou<03e0>do exército do Conquistador.
+Em toda a cidade, não se fala de outra coisa.
+Os Falcões Prateados... Isso me lembra que preciso<03e0>comprar talheres novos...<03e0>
+Pois é...
+Um homem de aparência sombria tem ido com frequência<03e0>na taverna de Elysion. Ninguém sabe nada sobre o seu<03e0>passado.
+Em toda a cidade, não se fala de outra coisa.
+Ele deveria aparecer por aqui. Eu poderia animá-lo!<03e0>
+Pois é...
 

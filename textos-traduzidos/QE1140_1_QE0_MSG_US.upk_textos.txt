@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1140_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Nagapur's got this huge canal, right? I wonder if you<03e0>can go swimming! I have the cutest bikini! It's totally to<03e0>die for!
-But if someone decides to blow the whistle,<03e0>that would really be a buzzkill, huh...
-Speaking of... I've been super stressed, and I totally<03e0>deserve to treat myself. And you should, too<07f0>with<03e0>my Khrynia-patented lotion.<04e0>The price is like nothing when you think about having<03e0>a clear complexion and soft skin. Girls might even give<03e0>you a second glance!<06e01900>sEVENT_PRICE_QE1140_P_000<08e0000000000000>...Thanks. I'll take it.<09e008e0010000000300>Thanks, but no thanks.
-Thank you! Your skin totally will.
-Okayyy! Auf wiener schnitzel, Nagapur!
-You're worthless.
-Don't you understand the concept of retail therapy?<03e0>Augh!
-Um, excuse you? That's not enough G.<04e0>This is why I try to avoid people without money.
+Nagapur tem uns canais fantásticos, não é verdade?<03e0>Será que posso aproveitar para dar uma nadada ali?<03e0>Comprei um biquíni lindíssimo!
+O problema é que, se as autoridades me descobrirem,<03e0>vão estragar meu dia, huh...
+Falando nisso... Tenho andado super estressada, e mais<03e0>que mereço cuidar de mim mesma. Você pode fazer isso<03e0>também, com esse creme patenteado da marca Khrynia.<04e0>O preço é uma barganha, e essa loção vai te deixar com<03e0>a pele clara e macia. Já pensou? Pode ser que consiga<03e0>até fazer as garotas darem uma olhadinha em você!<06e01900>sEVENT_PRICE_QE1140_P_000<08e0000000000000>É sério? Vou ficar com ela.<09e008e0010000000300>Não faz meu estilo, obrigado.
+Obrigado! Sua pele vai agradecer... Meu bolso também!
+Ceeeerto! Até mais então, Nagapur!
+Você é um inútil mesmo.
+Nunca ouviu falar da terapia consumista?<03e0>Argh!
+Hum, com licença? Isso não é suficiente.<04e0>É isso que dá me misturar com mortos de fome...
 

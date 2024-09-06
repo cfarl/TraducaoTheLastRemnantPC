@@ -1,22 +1,22 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0320_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hum hum...!?<03e0>I know that fine qsiti... That large, reticent mouth,<03e0>the laugh lines around the eyes...<04e0>Pagus...is that you?
-W-well. Life brings us many things, you see...<03e0>More importantly! Pagus!<04e0>Have you heard about Sibal?<03e0>Apparently, he's come across something so<03e0>incredible that you will not believe your ears.
-It is... The Arco Iris. The famed Remnant said to<03e0>bring miracles to life.<03e0>Goodness, we searched for it for ages...
-My word, and the stories around it<07f0>!<04e0>Discovered hundreds of years ago by the famed<03e0>Duke Gulaaj, who, just as his dukedom was<03e0>about to be destroyed by a tsunami,<05e00100>used the miracles granted by the Remnant<03e0>to not only survive, but conquer and absorb the<03e0>surrounding kingdoms.<05e00100>His accomplishments from then on are the<03e0>stuff of legend...
-Indeed, that's what he says.<03e0>However, I've yet to hear the particulars of<03e0>how it all came about...<04e0>It seems Sibal's been leading an excavation team<03e0>in <1be0ffbe34ff>Royotia<1ce0>. Once I've a free moment, I've a mind<03e0>to see what he's up to myself.
-Ohh<07f0>Maddox, isn't it?<03e0>Maddox, goodness me!<03e0>How long has it been? My word...<04e0>What is Celapaleis's famed general doing out here?<03e0>Though, actually, I'd heard you'd retired and become<03e0>somewhat of a recluse.
-I won't?<03e0>...No...it couldn't be...!
-And in the end, Sibal actually saw it?<03e0>He saw the Arco Iris with his own two eyes?
-The ancient Remnant of legend, Arco Iris...<03e0>To think it truly exists...!
-Goodness, I've got the old butterflies in my<03e0>stomach<07f0>I haven't felt that in years! Once I<03e0>have a chance, I'll certainly go to see Sibal!
-Oh, hello, Rush.<03e0>Maddox is an old, old school friend.<04e0>Years ago, we and a third, Sibal, met in a<03e0>seminar studying ancient civilizations.
-Back then, the three of us were obsessed with<03e0>old legends, especially those centered around<03e0>the Arco Iris.<04e0>It is a famous Remnant said to have granted<03e0>miracles to the people of the Old Kingdoms.
-And just now, Maddox says that Sibal's found the<03e0>real thing.<04e0>The Remnant powerful enough to create<03e0>miracles... Seeing it with my own eyes has<03e0>been my dream since I was a student.
-Rush, my boy, I realize it's the foolish conceit<03e0>of an old man, but I've a personal favor to ask<03e0>of you, if you've the time...
-Would you come with me to where Sibal is?<03e006e0000008e0000000000000>Sounds cool! Let's check it out!<09e008e0010000000300>Ehh, do we have to do it now?
-Thank you, lad! It's much appreciated.<03e0>Sibal is in the mining capital of <1be0ffbe34ff>Royotia<1ce0>, south of<03e0>even the great desert.
-Goodness, I haven't seen Sibal in years.<03e0>I'm giddy as a schoolgirl!
-Ahh. I apologize for the sudden request. I know<03e0>you young people have things to do.<03e0>However, if you're free later, please let me know.
+Hum hum... Conheço esse qsiti... Essa boca grande e<03e0>reticente, linhas de expressão ao redor dos olhos...<03e0> <04e0>Pagus... é você?
+Bem, a vida nos traz muitas surpresas...<03e0>E por falar nisso, já ia me esquecendo...<04e0>Você ficou sabendo do Sibal? Parece que ele encontrou<03e0>algo tão incrível que você não vai acreditar...<03e0>
+Ele encontrou... o Arco Íris. O famoso remanescente<03e0>capaz de fazer milagres. Meu Deus, passamos anos<03e0>procurando por ele...
+E quantas histórias existem sobre ele!<04e0>Dizem que foi descoberto há centenas de anos atrás<03e0>pelo duque Gulaaj. Seus domínios estavam prestes a<03e0>serem destruídos por um maremoto,<05e00100>mas os poderes milagrosos desse remanescente<03e0>permitiram a ele não apenas sobreviver, mas<03e0>também conquistar os reinos vizinhos.<05e00100>Desde então suas façanhas se converteram<03e0>em lendas...
+Bem, foi isso que ele disse. Mas ainda não sei dos<03e0>detalhes de como conseguiu encontrá-lo...<03e0> <04e0>Parece que Sibal estava comandando uma equipe de<03e0>escavação em <1be0ffbe34ff>Royotia<1ce0>. Assim que tiver um tempo<03e0>livre vou lá ver com meus próprios olhos.
+Hã? Maddox.... É você? Ah, meu Deus!<03e0>Há quanto tempo não nos vemos?<03e0> <04e0>O que um general famoso de Celapaleis está fazendo em<03e0>um lugar desses? Ouvi dizer que havia se aposentado e<03e0>tinha ido morar em um lugar bem distante.
+Ele encontrou...<03e0>Não... não pode ser...
+Mas afinal de contas, Sibal realmente o encontrou?<03e0>Ele viu o Arco Íris, com seus próprios olhos?
+O antigo remanescente da lenda, o Arco Íris...<03e0>E pensar que ele existe de verdade...
+Minha nossa, estou sentindo cócegas no estômago...<03e0>Há muitos anos não sentia algo parecido! Assim que<03e0>tiver uma chance, com certeza irei ver o Sibal!
+Ah, olá, Rush. Maddox é um velho amigo de escola.<03e0> <04e0>Alguns anos atrás eu, Sibal e Maddox participamos de<03e0>um seminário que falava sobre antigas civilizações.
+Naquela época, nós três estávamos obcecados pelas<03e0>antigas lendas, e em especial aquelas que falavam<03e0>sobre o remanescente chamado Arco Íris.<04e0>Ele é um remanescente famoso, que dizem ter realizado<03e0>milagres para as pessoas dos antigos reinos.
+E agora, Maddox diz que Sibal o encontrou.<03e0> <04e0>O remanescente com o poder de realizar milagres...<03e0>Tenho sonhado em vê-lo com meus próprios olhos<03e0>desde que era apenas um estudante.
+Rush, meu garoto, sei que se trata da necessidade<03e0>tola de um velho, mas gostaria de pedir um favor<03e0>pessoal a você, se estiver com tempo livre...
+Você viria comigo para ver o Sibal?<03e006e0000008e0000000000000>Eu adoraria! Vamos lá!<09e008e0010000000300>Ehh, tem de ser agora?
+Obrigado, meu rapaz! Agradeço de verdade sua ajuda.<03e0>Sibal se encontra na capital mineira de <1be0ffbe34ff>Royotia<1ce0>, que<03e0>fica ao sul do grande deserto.
+Minha nossa, não vejo Sibal há anos.<03e0>Estou mais nervoso que um adolescente!
+Ahh. Me perdoe pelo pedido repentino. Sei que vocês,<03e0>jovens, tem muitas coisas para fazer. Mas se depois<03e0>tiver um tempo, por favor me avise.
 

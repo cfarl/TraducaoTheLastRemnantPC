@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0070_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Pardon my intrusion, but I cannot help but notice you<03e0>look to be handy with a blade...<04e0>Please speak with Commander Roberto of the<03e0>Order of Melphina.<04e0>We have been beset by a number of troubles that<03e0>require the skills of one sure of sword. If you would lend<03e0>your help, speak to him at the <1be0ffbe34ff>Palace of Melphina<1ce0>.
+Perdoe minha intromissão, mas não pude deixar de<03e0>notar que você parece habilidoso com a espada...<04e0>Por favor entre em contato com o comandante Roberto,<03e0>da Ordem de Melphina.<04e0>Nossa cidade está passando por sérios problemas, por<03e0>isso precisamos de lutadores habilidosos como você.<03e0>Se puder nos ajudar, vá até o <1be0ffbe34ff>Palácio de Melphina<1ce0>.
 

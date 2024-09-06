@@ -1,23 +1,23 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0090_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Our men on the front lines reported seeing men<03e0>garbed in black.<04e0>I can think of no other explanation but that the<03e0>men who abducted my knights were the ones<03e0>who destroyed the seal in Crookfen.
-Everyone, I shall restore the seal now. Until it<03e0>is complete, monsters will continue to spawn...<03e0>I leave them to you. Fight well, knights.
-Mistress Marsha...we depend on you.
-This is where it ends...where we, the Order of<03e0>Melphina, stake our reputation and our lives to<03e0>defend our sworn homeland, no matter the cost.<04e0>For Melphina!
-For Melphina!!!
-Wh<07f0>whaaa!? The monsters...<03e0>Hypnos is disappearing! Bro, what'll we do!?
-This power...<03e0>So this is the true strength of the bond<03e0>between the Order and the Forest Maidens?
+Nossos homens da linha de frente disseram ter visto<03e0>alguns homens misteriosos vestidos de preto.<04e0>A única explicação que passa pela minha cabeça é que<03e0>os homens que sequestraram os meus cavaleiros são<03e0>os mesmos que destruíram a barreira de Crookfen.
+Atenção, cavaleiros! Vou restaurar a barreira, mas os<03e0>monstros vão continuar aparecendo enquanto eu não<03e0>tiver concluído o ritual. Cuidem deles!
+Lady Marsha... nós contamos com você.
+Chegou a hora da verdade! Esse é o momento de colocar<03e0>nossas vidas e também a honra da Ordem em risco para<03e0>defender a nossa terra, custe o que custar.<04e0>Por Melphina!
+Por Melphina!!!
+Mas que diabos... Os monstros estão desaparecendo!<03e0>Irmão, o que vamos fazer?
+Esse poder... Então essa é a verdadeira força que vem<03e0>do vínculo entre a Ordem e as Donzelas do Bosque?<03e0>
 Wroahhh!
-We're out of options, and Melphina still won't<03e0>submit...<04e0>They're made of sterner stuff than we thought.<03e0>They...they've got something we just don't.
-But, Bro... If we go home with a report like<03e0>that to the big man, we're gonna<07f001e00be00ae0>
-Right...we won't be living to say much else.<03e0>He hates failure more than anything...
-Yeah...<03e0>Hey<07f0>forget this. How 'bout we just get outta here?<04e0>Maybe if we run back home, the association's<03e0>assassins won't catch up!
+Estamos sem opções, e acredito que Melphina não<03e0>tem nenhuma intenção de se render...<04e0>Eles são mais determinados do que imaginávamos.<03e0>Eles... eles tem algo que nós não temos.
+Mas irmão... o chefe vai nos matar se voltarmos para<03e0>casa com o rabo entre as pernas!<01e00be00ae0>
+Verdade... voltar atrás agora é cometer suicídio.<03e0>Ele não costuma perdoar facilmente os fracassos...
+Sim... Então, esquece isso.<03e0>É melhor darmos o fora daqui.<04e0>Talvez, se fugirmos para bem longe, os assassinos do<03e0>chefe não consigam nos alcançar!
 ...
-It seems I was able to restore the seal.
-Sir Roberto, knights of the Order, Master Sykes...<04e0>Your devotion and dedication to our beloved<03e0>country is what allowed my prayers to be<03e0>received by the heavens.
-It is all thanks to you we still stand,<03e0>Mistress Marsha.
-I must say the same for you, Sir Roberto...
-(...Do these two need a room?)<03e006e0000008e0000000000000>(Maybe they'll be quick.)<09e008e0010000000000>*COUGH COUGH* AHEM!
-Ah<07f0>ahh.<03e0>Come, all, let us return to Melphina.
+Parece que consegui restaurar a barreira.
+Sir Roberto, cavaleiros da Ordem, Mestre Sykes...<04e0>Foi graças à sua devoção e dedicação à nossa causa<03e0>que consegui fazer os céus ouvirem minhas súplicas.<03e0>
+E se permanecemos de pé, Lady Marsha, é graças a você.<03e0>
+Digo o mesmo a você, Sir Roberto...
+(...Será que esses dois precisam de privacidade?)<03e006e0000008e0000000000000>(Talvez sejam rápidos.)<09e008e0010000000000>*COUGH COUGH* AHEM!
+Ah... sim... Vamos, todos, retornemos à Melphina.<03e0>
 

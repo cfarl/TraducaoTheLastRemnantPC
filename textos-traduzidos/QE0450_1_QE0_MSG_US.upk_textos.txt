@@ -1,20 +1,20 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0450_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-A thousand years ago, there was a great kingdom<03e0>in the desert. Its military was renowned around<03e0>the world.<04e0>And within that force was the queensguard<07f0>the<03e0>Mantroskylo. Their prowess in battle is still<03e0>sung in legend today.<04e0>They were heroes who sealed countless wild<03e0>monsters. A brotherhood who protected their<03e0>queen like an iron wall.<04e0>Skilled warriors who could win while<03e0>outnumbered a thousand to one.<04e0>However, they were eventually destroyed by<03e0>their own strength. They turned into monsters,<03e0>and turned upon the Imperator.<04e0>The Imperator immediately struck back. After a<03e0>fierce battle on both sides, the Imperator took<03e0>the Tao Tie and sealed the Mantroskylo.
-Young traveler, this is no simple nursery-tale.<04e0>After a thousand years, the Mantroskylo have<03e0>returned. They assemble against Balterossa to<03e0>take back the Tao Tie.<04e0>This cannot be allowed, no matter the cost.<03e0>Somehow, the force that was strong enough to<03e0>even plague the Imperator must be defeated.<04e0>Balterossa is calling all men of action to assist in its<03e0>defense. Traveler, will you go to the <1be0ffbe34ff>Salamander's Belly<1ce003e0>and fight with us as well?<06e0000008e0000000000000>Sure, I'll help!<09e008e0010000000000>I can't fight a real army!
-The <1be064f4ecff>Vanguard<1ce0> and <1be064f4ecff>Batwings<1ce0> formations would be best<03e0>for this battle. However, both are lost arts.<03e0>This will not be an easy fight.<06e0000008e0000000000000>Yeah<07f0>but I gotta try!<09e008e0010000000300>...Okay, time to give up!
-Then, go, traveler!
-This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
-This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
-After a thousand years, the Mantroskylo, the force<03e0>strong enough to challenge even the Imperator, has<03e0>returned to take the Tao Tie.<04e0>Balterossa is calling all men of action to assist in its<03e0>defense. Traveler, will you head to the <1be0ffbe34ff>Salamander's Belly<1ce003e0>and fight as well?<06e0000008e0000000000000>Alright, I'll do it!<09e008e0010000000000>I can't fight an army!
-The <1be064f4ecff>Vanguard<1ce0> and <1be064f4ecff>Batwings<1ce0> formations would be best<03e0>for this battle. However, both are lost arts.<03e0>This will not be an easy fight.<06e0000008e0000000000000>Yeah<07f0>but I gotta try!<09e008e0010000000300>...Okay, time to give up!
-Then, go, traveler!
-This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
-This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
-Ohh! Did you defeat the Mantroskylo?<06e0000008e0000000000000>Oh yeah!<09e008e0010000000000>Oh no.
-I see, you struck without hesitation.
-Then, I give you this.
-Balterossa's crisis has passed. Still, why<03e0>would the Mantroskylo betray the Imperator to<03e0>begin with?<04e0>Perhaps some day the truth will come to light.<04e0>Until then, be well, young traveler.
-You are surprisingly humble.
+Há cerca de mil anos atrás, havia um grande reino no<03e0>deserto. E seu exército era conhecido no mundo todo.<03e0> <04e0>Entre suas fileiras estava a guarda da rainha, aqueles<03e0>soldados conhecidos como Mantroskylo. Sua destreza<03e0>e valor em combate ainda são lendárias até hoje.<04e0>Eles faziam parte de um grupo de heróis que acabou<03e0>com incontáveis monstros selvagens, e que protegia<03e0>sua rainha como uma parede de ferro.<04e0>Eram guerreiros habilidosos, que podiam derrotar até<03e0>mesmo exércitos muito mais numerosos.<04e0>No entanto, sua própria força foi sua perdição. Com o<03e0>tempo acabaram se transformando em monstros, e se<03e0>rebelaram contra o primeiro Imperador Celestial.<04e0>O Imperador contra-atacou, e depois de uma batalha<03e0>feroz, tomou o Tao Tie e aprisionou o Mantroskylo.<03e0>
+Jovem forasteiro, isso não é um conto de fadas.<04e0>Depois de mil anos terem se passado, o Mantroskylo<03e0>retornou. Agora estão se preparando para enfrentar<03e0>Balterossa e tomar de volta o Tao Tie.<04e0>Devemos impedi-los, custe o que custar. Não sei como,<03e0>mas precisamos derrotar esse exército, que foi capaz<03e0>de desafiar até mesmo o Imperador.<04e0>Balterossa está convocando todos que possam ajudar na<03e0>sua defesa. Você irá também ao <1be0ffbe34ff>Ventre da Salamandra<1ce003e0> para lutar ao nosso lado?<06e0000008e0000000000000>Claro, farei o possível!<09e008e0010000000000>Não podemos vencer.
+As formações <1be064f4ecff>Vanguarda<1ce0> e <1be064f4ecff>Asas de Morcego<1ce0> são as<03e0>melhores para essa batalha, mas seus segredos se<03e0>perderam no tempo. Essa não será uma luta fácil.<06e0000008e0000000000000>Mesmo assim, vou tentar!<09e008e0010000000300>Certo... Posso voltar atrás?
+Então vá, forasteiro!
+Isso é para seu próprio bem. Lembre-se que heróis não<03e0>ganham as guerras. É necessário traçar uma estratégia<03e0>adequada, onde todos têm um papel a cumprir.
+Isso é para seu próprio bem. Lembre-se que heróis não<03e0>ganham as guerras. É necessário traçar uma estratégia<03e0>adequada, onde todos têm um papel a cumprir.
+Depois de mil anos terem se passado, o Mantroskylo, o<03e0>exército que foi capaz de desafiar até mesmo o<03e0>Imperador, retornou para tomar de volta o Tao Tie.<04e0>Balterossa está convocando todos que possam ajudar na<03e0>sua defesa. Diga-me, forasteiro, você vai ao <1be0ffbe34ff>Ventre da Salamandra<1ce003e0>lutar também?<06e0000008e0000000000000>Claro, vou lutar também!<09e008e0010000000000>Não posso vencer um exército!
+As formações <1be064f4ecff>Vanguarda<1ce0> e <1be064f4ecff>Asas de Morcego<1ce0> são as<03e0>melhores para essa batalha, mas seus segredos se<03e0>perderam no tempo. Essa não será uma luta fácil.<06e0000008e0000000000000>Mesmo assim, vou tentar!<09e008e0010000000300>Certo... Posso voltar atrás?
+Então vá, forasteiro!
+Isso é para seu próprio bem. Lembre-se que heróis não<03e0>ganham as guerras. É necessário traçar uma estratégia<03e0>adequada, onde todos têm um papel a cumprir.
+Isso é para seu próprio bem. Lembre-se que heróis não<03e0>ganham as guerras. É necessário traçar uma estratégia<03e0>adequada, onde todos têm um papel a cumprir.
+Ohh! Você derrotou o Mantroskylo?<06e0000008e0000000000000>Mas é claro!<09e008e0010000000000>Ah não.
+Entendo, você lutou sem hesitar.
+Então, vou te dar isso.
+Parece que Balterossa está a salvo por agora...<03e0>Mas me pergunto o levou o Mantroskylo a trair<03e0>o primeiro Imperador Celestial.<04e0>Talvez algum dia a verdade venha à tona.<04e0>Obrigado pela ajuda, jovem forasteiro.
+Você é muito modesto.
 

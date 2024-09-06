@@ -1,22 +1,22 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0530_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Sonny! You knew about that monster, right? The<03e0>one what fought some ancient hero for decades<03e0>before being sealed beneath the desert?<04e0>Thing is, it seems like the monster has been<03e0>brought back. Luckily, it hasn't started making<03e0>too much trouble just yet.<04e0>Still, a bunch of shady-looking out-of-towners<03e0>have been skulking around lately, and they sure<03e0>look like they want trouble<07f0>monster trouble.<04e0>I heard this ancient hero was resurrected to boot.<03e0>The whole thing stinks of conspiracy, I tell ya!<03e0>And it's gotta be stopped before it goes too far.<06e0000008e0000000000000>Call me the Stopmaster!<09e008e0010000000300>Zombies sound scary...
-Good! Then go to the <1be0ffbe34ff>Great Subterrane<1ce0>.<03e0>Wander around enough an' you'll find an island<03e0>within the shifting sands, and that's the place.<04e0>O'course, you muck up and that ancient<03e0>warrior'll come after ya. Don't even think about<03e0>facing 'em both! You'd be a zombie sandwich!
-Bah!<03e0>Wimp!
-There're necromancers goin' around, I tells ya!<04e0>Monsters an' ancient knights bein' woke up<03e0>beneath the desert... You gotta stop it before<03e0>we got a full-on zombie invasion!<06e0000008e0000000000000>I got my boomstick!<09e008e0010000000300>I don't do the undead.
-Good! Step One is goin' to the caverns in the<03e01be0ffbe34ff>Great Subterrane<1ce0>. Find an island in the middle of<03e0>th' shifting sands<07f0>that's where the monster's at.<04e0>O'course, you muck up and that ancient<03e0>warrior'll come after ya. Watch yerself! Even<03e0>your brains are tasty to a zombie!
-What!?<03e0>Pathetic!<03e0>You'll be the first to fall to the mindless minions!
-Oho! That sealed monster spooked ya, did it?<03e0>Quit bein' a wimp and take it out afore it sucks<03e0>out all o' our souls!<06e0000008e0000000000000>Okay, okay.<09e008e0010000000300>Keep your pants on.
-Remember, you want the li'l island in the<03e0>middle of the shifting sands.<04e0>O'course, you muck up and that ancient<03e0>warrior'll come after ya. Watch yerself! Even<03e0>your brains are tasty to a zombie!
-Hey<07f0>you sure you're okay?<03e0>Haven't been thirstin' for qsiti flesh, right?
-Whaaat!?<03e0>You killed that sealed monster!?
+Ei, garoto! Você está sabendo a respeito do monstro,<03e0>não está? Aquele que lutou contra um antigo herói por<03e0>décadas, antes de ser aprisionado embaixo do deserto?<04e0>Pois é, estão dizendo que ele está de volta.<03e0>Por sorte, ainda não chegou a causar muitos<03e0>problemas.<04e0>No entanto, há um bando de forasteiros misteriosos<03e0>que anda rondando a cidade ultimamente, e tenho<03e0>certeza que têm alguma relação com aquele monstro.<04e0>Estão dizendo que ressuscitaram o herói da lenda....<03e0>Esse assunto não está me cheirando bem... Precisamos<03e0>detê-los antes que seja tarde demais.<06e0000008e0000000000000>Falou com a pessoa certa!<09e008e0010000000300>Isso parece perigoso...
+Ótimo! Então, vá para a <1be0ffbe34ff>Passagem Subterrânea<1ce0>.<03e0>Procure entre as areias movediças e<03e0>encontrará uma espécie de ilha. Esse é o lugar.<04e0>E claro, tome cuidado para aquele guerreiro lendário<03e0>não ir atrás de você. Nem pense em enfrentar<03e0>os dois juntos! Eles fariam picadinho de você!
+Bah!<03e0>Fracote!
+E já vou avisando que há necromantes por toda parte!<04e0>Monstros e antigos cavaleiros despertando nas<03e0>profundezas do deserto... Você precisa fazer algo,<03e0>antes que tenhamos uma invasão de mortos-vivos!<06e0000008e0000000000000>Eu tenho minhas armas!<09e008e0010000000300>Não lido com mortos-vivos.
+Ótimo! O primeiro passo é explorar as cavernas na<03e01be0ffbe34ff>Passagem Subterrânea<1ce0>. Encontre uma ilha no<03e0>meio das areias movediças. É ali que o monstro está.<04e0>E claro, tome cuidado para aquele guerreiro lendário<03e0>não ir atrás de você. Tenha cuidado! Até mesmo<03e0>seu cérebro é apetitoso para um morto-vivo!
+O quê?<03e0>Você é patético!<03e0>Será o primeiro a cair, você verá!
+Aha! Aquele monstro te assustou, não é mesmo?<03e0>Deixe de ser covarde e acabe logo com ele, antes<03e0>que devore nossas almas!<06e0000008e0000000000000>Tá bom, tá bom.<09e008e0010000000300>Mantenha a calma.
+Lembre-se... você precisa encontrar a ilha que está<03e0>escondida entre as areias movediças.<04e0>E claro, tome cuidado para aquele guerreiro lendário<03e0>não ir atrás de você. Tenha cuidado! Até mesmo<03e0>seu cérebro é apetitoso para um morto-vivo!
+Ei... Você tem certeza que está bem?<03e0>Não vai ficar com vontade de comer cérebros, vai?
+O quêêêêêêê?<03e0>Você matou o monstro?
 ...
-Ehh, guess it ain't anything bad, then.<03e0>Good job, sonny. Take this.
-But yanno, lately some spooky stuff's been<03e0>goin' on in Balterossa.<04e0>Look out for angry ghosts, sonny!
-Welp, I got a meetin', so later!
-Waitaminnit... So ya didn't just take out the<03e0>monster, but ya banished that zombie ghost<03e0>warrior to boot!?
-Whoo boy, yer a legend o' yer own, sonny...<04e0>Here, this's fer you.
-This should end the thousand-year conflict.<03e0>Stubborn gits, ain't they? Don't no one need to<03e0>be fightin' for a thousand years straight anyhow.<04e0>Sure, before becomin' a ghost, he must've had<03e0>something he was real hung up on... Enough to<03e0>not get around to dyin' for...<04e0>That said, Balterossa's gotta be doin' somethin'<03e0>to deserve it, yeah? I smell a conspiracy, and<03e0>a big one!
-Welp, I got a meetin', so later!
+Ehhh, acho que isso é bom, então...<03e0>Bom trabalho, garoto. Pegue isso como pagamento.
+Mas sabe, ultimamente têm acontecido coisas<03e0>assustadoras em Balterossa.<04e0>Tome cuidado com os fantasmas, garoto!
+Bem, tenho alguns assuntos para resolver, até logo!
+Espere um pouco... Então, além de acabar com o<03e0>monstro, você mandou para o inferno aquele guerreiro<03e0>fantasma-morto-vivo?
+Caramba, rapaz, você é um baita de um herói...<04e0>Pegue, isso é para você.
+Isso deve pôr um fim nesse conflito milenar.<03e0>Como são teimosos, não? Ninguém precisa lutar<03e0>durante mil anos para se fazer entender...<04e0>Com certeza, antes de se tornar um fantasma, esse<03e0>guerreiro devia ser uma pessoa de grandes ideais...<03e0>Grandes o suficiente para fazê-lo driblar a morte...<04e0>Enfim, Balterossa deve ter feito alguma coisa para<03e0>merecer isso, não é verdade? Sinto cheiro de<03e0>conspiração, e das grandes!
+Bem, tenho alguns assuntos para resolver, até logo!
 

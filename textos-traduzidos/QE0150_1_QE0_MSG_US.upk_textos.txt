@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0150_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hey, have you ever heard of something<03e0>called magick?<03e0>It's an ancient art no longer used by anyone.
-The Imperator was rumored to have his hands<03e0>on the art.<03e0>Evidence of this was even found at some ruins.<04e0>But just as we were about to discover the truth,<03e0>the soldiers I hired to protect me began<03e0>getting slaughtered one by one.<04e0>I was able to save myself, but not before<03e0>I laid eyes on a hideous monster.<04e0>Will you investigate the area for me?<03e0>I know what I'm asking of you is dangerous,<03e0>but I need to know what's out there.<06e0000008e0000000000000>I eat danger for breakfast!<09e008e0010000000300>Sorry, I like being alive.
-Thank you.<03e0>The area I speak of is <1be0ffbe34ff>Siebenbur's First Path<1ce0>.<03e0>Good luck to you.
-Ahh...I figured as much. Don't worry, I won't<03e0>spread rumors of you being chicken or anything.
-Will you investigate the area for me?<03e0>You will be facing a hideous monster, and<03e0>the task will be a dangerous one.<06e0000008e0000000000000>I eat danger for breakfast!<09e008e0010000000300>Sorry, I like being alive.
-Thank you.<03e0>The area I speak of is <1be0ffbe34ff>Siebenbur's First Path<1ce0>.<03e0>Good luck to you.
-I thought it would be too much to ask of someone.<03e0>I'm sure you made the wiser choice.
-Have you come with the courage to investigate<03e0>the area I speak of?<06e0000008e0000000000000>I eat danger for breakfast!<09e008e0010000000300>Sorry, I like being alive.
-Thank you.<03e0>The area I speak of is <1be0ffbe34ff>Siebenbur's First Path<1ce0>.<03e0>Good luck to you.
-I thought it would be too much to ask of someone.<03e0>I'm sure you made the wiser choice.
-The pit of darkness?<04e0>Is magick an uncultivated power of the earth?<03e0>If so, any spell that can extract it is far<03e0>more dangerous than anything in existence...
-I'm glad to have you back safe and sound.<03e0>Here is the promised reward.
-Now that I know the dangers of magick,<03e0>I'll refrain from doing anything reckless when dealing<03e0>with anything related to this art.<04e0>Maybe I can find some answers traveling with you<03e0>and your friends. If you ever need another body,<03e0>please come and seek me.<04e0>Thank you again, lad.
+Ei, você já ouviu falar da magia arcana? É uma arte<03e0>ancestral que já não é mais usada por ninguém.<03e0>
+Dizem que o primeiro Imperador era um mestre da<03e0>magia arcana... Por isso, montei uma expedição para<03e0>procurar provas em umas ruínas.<04e0>Mas bem quando estava a ponto de descobrir a verdade,<03e0>os soldados que havia contratado para me escoltar<03e0>foram brutalmente assassinados, um por um.<04e0>Eu consegui me salvar, mas enquanto<03e0>fugia pude ver um monstro terrível.<04e0>Você pode investigar as ruínas para mim?<03e0>Sei que se trata de uma tarefa perigosa,<03e0>mas preciso saber o que está escondido ali.<06e0000008e0000000000000>Eu vivo perigosamente.<09e008e0010000000300>Desculpe, prefiro viver.
+Obrigado. As ruínas estão localizadas na<03e0> <1be0ffbe34ff>Primeira Galeria de Siebenbur<1ce0>.<03e0>Boa sorte.
+Ahh... sabia que era pedir demais. Não se preocupe,<03e0>não direi a ninguém que você ficou com medo.
+Você acha que pode investigar as ruínas para mim?<03e0>Tenha em mente que será uma tarefa perigosa, e você<03e0>vai dar de cara com um monstro terrível.<06e0000008e0000000000000>Eu vivo perigosamente.<09e008e0010000000300>Desculpe, prefiro viver.
+Obrigado. As ruínas estão localizadas na<03e0> <1be0ffbe34ff>Primeira Galeria de Siebenbur<1ce0>.<03e0>Boa sorte.
+Sabia que era pedir demais.<03e0>Tenho certeza que fez uma escolha prudente.
+Será que você tem coragem de ir investigar<03e0>as ruínas das quais te falei?<06e0000008e0000000000000>Eu vivo perigosamente.<09e008e0010000000300>Desculpe, prefiro viver.
+Obrigado. As ruínas estão localizadas na<03e0> <1be0ffbe34ff>Primeira Galeria de Siebenbur<1ce0>.<03e0>Boa sorte.
+Sabia que era pedir demais.<03e0>Tenho certeza que fez uma escolha prudente.
+O poço das sombras?<04e0>Será que magia arcana é o poder bruto da terra?<03e0>Se for assim, um feitiço capaz de canalizar essa<03e0>energia seria mais perigoso do que imaginávamos...
+Estou contente por ver que retornou a salvo.<03e0>Aqui está a recompensa que te prometi.
+Agora que conheço os perigos da magia arcana terei<03e0>o cuidado de não cometer nenhuma imprudência.<03e0> <04e0>Talvez eu possa encontrar mais algumas respostas<03e0>viajando com vocês. Se precisar de outro par de<03e0>mãos, por favor venha me procurar.<04e0>E obrigado mais uma vez, rapaz.
 

@@ -1,13 +1,13 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1020_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Yeah, I'm Rainn...
-Hmm?<03e0>You want Raphus's treasure back?<04e0>Easier said than done... Traded it together with<03e0>some Royotian Ore for this here Ancient Scabbard.<04e0>Huh... Yeah, it's possible that if you give back the<03e0>scabbard, you might get back the old man's treasure...<04e0>Alright. If you want this scabbard, get me the<03e01be064f4ecff>Ring of Morning Calm<1ce0>. A lady named<03e0>Alyssa in <1be0ffbe34ff>Baaluk<1ce0> will know where it's at.
-Hey, there it is<07f0>the Ring of Morning Calm.<03e0>You'll trade it for this Ancient Scabbard, right?<06e0000008e0000000000000>That's why I'm here.<09e008e0010000000300>Nahhh...I don't think so.
-Appreciate it!<03e0>Old Raphus's treasure should be with Beauson<03e0>in <1be0ffbe34ff>Elysion<1ce0>.
-No? Then how 'bout if I throw in this tuck?<06e0000008e0000000000000>Okay, that's doable.<09e008e0010000000300>Don't need it.
-You drive a hard bargain, kid. Raphus's<03e0>treasure should be with Beauson in <1be0ffbe34ff>Elysion<1ce0>.
-...Fair enough. Forget it, then.
-...<04e0>Could you just leave me alone?
-Yup, if you want this old scabbard, you're<03e0>gonna have to get me the <1be064f4ecff>Ring of Morning Calm<1ce0>.<03e0>Ask Alyssa in <1be0ffbe34ff>Baaluk<1ce0> if you're serious about it.
+Sim, eu sou Rainn...
+Hã? Você quer de volta o tesouro de Raphus?<03e0> <04e0>Não vai ser tão fácil assim... Eu o troquei por essa<03e0>Antiga Bainha e um pouco de Minério de Royotia.<04e0>Huh... Sim, se você devolver a bainha é possível que<03e0>consiga de volta o tesouro do velho...<04e0>Tudo bem. Se quer ficar com essa bainha, me traga o<03e01be064f4ecff>Anel do Amanhecer<1ce0>. Uma moça chamada Alyssa, lá da<03e0>cidade de <1be0ffbe34ff>Baaluk<1ce0>, deve saber onde ele está.
+Ei, você conseguiu... o Anel do Amanhecer!<03e0>Então... Quer trocar ele nessa Antiga Bainha?<06e0000008e0000000000000>É por isso que estou aqui.<09e008e0010000000300>Nahhh... Acho que não.
+Muito obrigado!<03e0>O tesouro do velho Raphus deve estar com Beauson<03e0>em <1be0ffbe34ff>Elysion<1ce0>.
+Não? E se eu adicionar ao negócio mais isso aqui?<06e0000008e0000000000000>Tudo bem, agora sim.<09e008e0010000000300>Não preciso disso.
+Você joga duro, garoto. O tesouro de Raphus<03e0>deve estar com Beauson em <1be0ffbe34ff>Elysion<1ce0>.
+... Tudo bem. Deixa para lá então.
+...<04e0>Será que pode me deixar em paz?
+Então, se você quer essa antiga bainha, vai<03e0>ter de trazer para mim o <1be064f4ecff>Anel do Amanhecer<1ce0>.<03e0>Procure Alyssa em <1be0ffbe34ff>Baaluk<1ce0> se estiver interessado.
 

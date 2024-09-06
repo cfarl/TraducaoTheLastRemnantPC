@@ -1,9 +1,9 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ASC_05GC_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Weapons are a mirror to the soul. Likewise, a powerful<03e0>sword in the hands of an inexperienced wielder will<03e0>never reach its true potential.<04e0>Remember, young one, weapons are not just tools to<03e0>perfect techniques. They also serve to strengthen<03e0>your will.
-It seems that you've finally begun to see the true<03e0>value of arts, young one. Don't be careless.
-I've heard a young commander of Athlum has fought<03e0>evenly matched with the warrior Yerva.<04e0>To think that anyone here had such skill... I should like<03e0>to meet swords with him as well.
-Athlum independence, ah?<03e0>If I had my choice, I'd rather the Lords get<03e0>together to bring peace to the country.<04e0>Yes, I realize that afterwards I'd be out of a job...
-A final battle with the Conqueror...<03e0>It does seem that things will not come to an end<03e0>until he is defeated.<04e0>Be very shrewd in your actions<07f0>think things<03e0>through. The road to victory should open up.
+As armas são o espelho da alma. Nas mãos de um<03e0>espadachim inexperiente, nem mesmo a espada mais<03e0>poderosa alcançará seu verdadeiro potencial.<04e0>Lembre-se, meu jovem, as armas são muito mais que<03e0>ferramentas de combate. Elas também servem para<03e0>fortalecer sua vontade.
+Parece que está começando a descobrir o verdadeiro<03e0>valor das artes, meu jovem. Não se descuide.
+Ouvi dizer que uma jovem comandante de Athlum<03e0>enfrentou o guerreiro Yerva em combate singular.<04e0>Quem diria que alguém alcançaria esse poder...<03e0>Gostaria de cruzar espadas com ele também.
+A independência de Athlum, hã? Se eu pudesse<03e0>escolher, iria preferir que os Lordes fizessem<03e0>um acordo para trazer a paz ao mundo.<04e0>Sim, sei que depois disso eu ficaria sem trabalho...
+Você vai enfrentar o Conquistador em uma grande<03e0>batalha? Parece que esse assunto não vai chegar ao<03e0>fim até que ele seja derrotado.<04e0>Terá de ser muito astuto e planejar bem suas ações.<03e0>Só assim o caminho da vitória se abrirá para você.
 

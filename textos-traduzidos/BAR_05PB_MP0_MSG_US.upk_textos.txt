@@ -1,256 +1,256 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) BAR_05PB_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Well, well! It's been a spell since we've had a new face.<03e0>Welcome to the Rift!
-All the mess that guy talks, and when it's actually<03e0>dangerous, that's when he actually follows through?<03e0>Foolish old man...<04e0>And what's up with leaving that ridiculous letter?<04e0>"Not trying to cause trouble"<07f0>more like "there's<03e0>nothing you can do to stop me"!
-I saw you and Wyngale fight that giant monster.<04e0>Thanks.
-I saw you and Wyngale fight that giant monster.<04e0>Thanks. I'm sure the old man's laughing his head off<03e0>up past the pearly gates.
-Hey! Howdy, traveler! Don't see many like you<03e0>'round these parts. Sit and drink a spell!
-Well I'll be! It's been a spell since I've had a<03e0>customer. What can I do you for, sir?
-What's this? You, you are an unfamiliar face.<03e0>Doing a bit of traveling, sport?<04e0>Take a seat, have some tea. At least it doesn't have<03e0>any problems with it... I'm the owner here, and you<03e0>wouldn't believe the troubles I've had.<04e0>I actually started out in Balterossa. Never have to<03e0>worry about having too few customers there, eh?<03e0>It's pricey though. I couldn't turn a profit.<04e0>So...that's how I ended up out here on<03e0>the edge of the world.
-Sad thing is<07f0>and this is where it really adds insult to<03e0>injury<07f0>even this tiny pub out in the boonies couldn't<03e0>be run all alone.<04e0>So...I was desperate. I went to town, found two guys<03e0>who looked like they didn't have anything else to do,<03e0>and hired 'em. Talk about an epic failure!<04e0>Where do I start? The younger guy's a lazy dog. I've<03e0>seen corpses that're more productive, ugh. But you<03e0>know how mitra can be...no offense.<04e0>Then the old guy, bless him, he's enthusiastic enough,<03e0>but completely incompetent. Can't remember customer<03e0>orders for the life of him.<04e0>The customers themselves are mostly down-and-out<03e0>mercenaries, so not really the type you wanna get too<03e0>friendly with, you know?<04e0>*sigh*<04e0>I always dreamed of having a bustling pub full of<03e0>attractive patrons having stimulating conversations<03e0>about adventure and intrigue...
-Ach, sorry, sorry. You come in here for a drink and<03e0>then I end up talking your ear off.<04e0>Anyway, next time you come out here, come back and<03e0>visit, alright? There'll be a hot pot of tea waiting for<03e0>you, my treat.
-In addition to an impressive selection of wines and<03e0>spirits, here at The Rift we offer tea with every order.<04e0>The tea leaves are imported from Melphina<07f0>and<03e0>don't think it doesn't cost a fortune.<04e0>Still, thanks to that, we keep a steady stream of<03e0>customers all day long. ...Er, until recently, anyhow.
-Hey, sport! How's it going? You would not believe what's<03e0>been going on with me lately, it's just terrible, terrible.<03e0>See<07f004e0>...You don't wanna listen? You have to go?<04e0>Oh. I...I see.
-Ohh! Heya, sport!<04e0>Yanno, when I heard some legendary monster'd been<03e0>reborn or whatever, I was all ready to close up shop.<03e0>Damn shame too, after coming all this way and all...<04e0>So you can imagine my relief to find that you guys<03e0>took care of all the trouble! Talk about good news!<03e0>I guess I like this town more than I thought.
-Hey, someone else from the "outside." I'm not from<03e0>here either... Last year I was hired to escort a guy out<03e0>here.<04e0>Thing is, once we made it to town, the guy disappeared<03e0>without paying me!<04e0>I've been trapped here since then... I'm just working<03e0>to make enough cash to get out of this hole.<04e0>Nothing happens here at all...this place is like a complete<03e0>waste of space. I can't wait to get the hell out!
-Oh, hey, outsider.<03e0>Don't worry about the dishes, alright?<04e0>I finally saved up enough to leave Grentze, but I think<03e0>I'm gonna hang around a little bit longer.<04e0>I mean, look at these people. Leaving them alone is like<03e0>sending a bunch of toddlers to face the Ghor army.<03e0>I'm not that cruel!
-Oh man... So apparently, this legendary god-demon<03e0>thing<07f0>no one here can decide which<07f0>has been<03e0>awakened. People are going bananas.<04e0>Geez, I guess it's up to me to take care of everyone...<03e0>I mean, I am a mercenary, after all. Fighting's what I do.<04e0>And I'll fight to protect this town!
-Wyngale stole my gig!<03e0>Didn't I say I was gonna be protecting Grentze?<04e0>...Heh, psych. I tried heading over there and my knees<03e0>started shaking like they were gonna give out...<03e0>Thought I was gonna die just looking at the thing.<04e0>Seriously, Wyngale is this town's hero.
-You again?<04e0>I'm on break, alright? Leave me alone.
-You again.<04e0>Look. I can understand why you'd want to talk to<03e0>me<07f0>I know how impressionable young boys are,<03e0>but break time is me-time, alright?<04e0>...<04e0>...The hell is that stupid expression for?<03e0>Oh, don't tell me...<03e0>You don't have the slightest idea who I am, do you?<04e0>Well, damn.<03e0>I didn't know people like you even existed.
-You have no idea who I am, do you?<03e0>I didn't know they made kids like you anymore.
-Hey.<03e0>Seriously, you've never heard of me?<04e0>Not to toot my own horn, but in the world of mercenaries,<03e0>I'm known as the King.<04e0>Sure, I figured downgrading from war contracts to little<03e0>jobs like this might get me ragged on or something,<03e0>but an employer who doesn't know me from Adam?<04e0>...Whatever. Just looking at you I can tell you're just a<03e0>little puppy, still suckling at his mama's teat, eh?<03e0>How 'bout it then, why don't you test your hand?<04e0>Gotta warn you, though<07f0>just a bout or two of<03e0>sparring ain't gonna bless you with my luck in battle.<03e0>Hahahahaha!<04e0>...<04e0>...You could at least pretend to look interested.
-Not to toot my own horn, but when it comes to<03e0>mercenaries, I'm known as the King.<03e0>C'mon, how 'bout you show me your moves?
-Pup, you're back!<03e0>You ready to show me what you've got?<04e0>...What, now you look like someone stole your last<03e0>bone. Don't like being called a little puppy, do you?<04e0>Don't get me wrong, kid, I'm not trying to put you<03e0>down to look big or anything.<04e0>In fact, you got a good look in your eye... I can tell<03e0>you're a fighter. Let's focus that...make you<03e0>actually worth something.<04e0>Whaddaya think of that, me as your teacher?<03e0>If you ask me, I think you should feel honored.<04e0>What, you doubt my skill? You think I'm full of it?<03e0>Feh. Think what you want. So what're you gonna<03e0>do about it?<04e0>If you know someone who thinks they could beat me,<03e0>bring 'em on. I'll show 'em how strong<07f0>or weak<07f0>they<03e0>really are. Hahahahaha!
-Heya, pup!<03e0>You know someone who thinks they can beat me?<03e0>Bring 'em on! I'll show them the error of their ways.
-You again? You seriously don't understand the point<03e0>of time off, do you? Just let me rest, ugh. I feel like<03e0>the Sacred Lands fell on me.<04e0>This's all your doing, isn't it? Some yama in a mask<03e0>comes up to challenge me to a fight<07f0>come on, like<03e0>I wouldn't know it's Duke Ghor.<04e0>He was carrying the Bilqis, for crying out loud. What<03e0>the hell kind of idiots is he used to dealing with?<04e0>Damn... Thanks to that, I can't feel my face...<04e0>Sorry, Rush. I took a little bruise to my pride and let<03e0>it blow up into all this mess.<04e0>Guess I shouldn't slack on my training either. Whaddya<03e0>think, Rush, you up for some lessons? I wasn't lying<03e0>when I said I saw a lot of potential in you.<04e0>Of course, the number one thing a mercenary needs<03e0>is strength! So the first thing we gotta do is eat!<03e0>Hahahahahahaha!!!
-Rush. We got some time off, eh? You up for some<03e0>training? Or maybe we can grab a bite to eat.
-Words are written on a stained, yellowed paper.<03e0>It seems to be a letter.<04e0>"Grentze is in danger, and it's up to me to defend it.<03e0>  So I'm off to defeat the Fallen (somehow)!<04e0>  I'm not trying to cause trouble for the bartender or<03e0>  nothing, but I can't sit idly by while the world<03e0>  is in trouble.<04e0>  But don't worry! I called my twin brother from<03e0>  Balterossa to take care of things. You won't even<03e0>  know I'm gone! Except for this letter, I guess.<04e0>  All righty, so here I go! Even if I can't give that thing<03e0>  more than a paper cut, I'll make sure it's one that<03e0>  stings! Gahahaha!"
-I'm the cutesy-wutsey girl what attracts boys like you to<03e0>our shop!<04e0>But don't get fresh<07f0>I'm not really a girl!<04e0>Gahahahaha!
+Fazia tempo que não víamos uma cara nova aqui.<03e0>Seja bem-vindo à Fenda!
+Aquele sujeito contava vantagens o tempo todo... Quem<03e0>poderia imaginar que daria uma de herói agora que a<03e0>coisa ficou perigosa de verdade? Velho tolo...<04e0>E o que ele quis dizer com essa carta? "Espero não<04e0>causar problemas"... está mais para "não há nada que<03e0>você possa fazer para me impedir"!
+Eu vi você e Wyngale lutando contra aquele monstro.<04e0>Obrigado.
+Eu vi você e Wyngale lutando contra aquele monstro.<04e0>Obrigado. Tenho certeza que nosso antigo senhor está<03e0>nos observando lá do céu e está sorrindo para nós.
+Olá, forasteiro! Não temos visto muita gente como<03e0>você por essas bandas. Sente-se e tome alguma coisa!
+Bem, quem diria! Fazia séculos que não tínhamos um<03e0>cliente por aqui. Diga, o que posso fazer por você?
+Ora, oras... Mas o que temos aqui? Uma cara nova!<03e0>Como vai, garoto? Está passeando pelo mundo?<04e0>Sente-se e tome um pouco de chá. Aproveite que agora<03e0>não tem problemas para resolver... Sou o dono daqui,<03e0>e você não iria acreditar nas coisas que passei...<04e0>Antes eu tinha uma taverna em Balterossa. Nunca tive<03e0>que me preocupar com a falta de clientes ali, sabia?<03e0>Mas tudo era muito caro. Eu não conseguia ter lucro.<04e0>Então... resolvi trazer meu estabelecimento para cá.<03e0>Para esse lugar afastado do resto do mundo.
+Mas o pior de tudo é que... por mais que eu quisesse,<03e0>não consigo cuidar sozinho de uma taverna, mesmo<03e0>uma pequena como essa, no meio do nada.<04e0>Por isso... eu estava desesperado. Fui até a cidade e<03e0>acabei contratando dois ajudantes que pareciam não<03e0>ter nada melhor para fazer.... Pense num desastre!<04e0>É inacreditável! O mais jovem é um maldito preguiçoso.<03e0>Já vi múmias que se moviam bem mais rápido que ele!<03e0>Você sabe como são os mitras, sem querer ofender.<04e0>O mais velho, por sua vez, até tem boa vontade, mas é<03e0>um tremendo incompetente. Mesmo se esforçando, não<03e0>é capaz de lembrar o que cada cliente pediu.<04e0>E os clientes, na sua grande maioria, são mercenários<03e0>de folga, por isso não posso afirmar que são pessoas<03e0>digamos, muito amistosas, você me entende?<04e0>*suspiro*<04e0>E eu que sonhava em ter uma taverna cheia de gente<03e0>interessante e conversas animadas sobre aventuras<03e0>e conspirações...
+Mas ahhh... me perdoe. Você veio aqui para relaxar e<03e0>estou ocupando seu tempo com meus problemas...<04e0>De qualquer maneira, na próxima vez que estiver de<03e0>passagem pela cidade venha me visitar, combinado?<03e0>Prometo uma boa xicara de chá por conta da casa.
+Além de ter uma impressionante seleção de vinhos e<03e0>licores, na Fenda servimos um chá com cada pedido.<04e0>As folhas de chá são trazidas de Melphina. E acredite<03e0>em mim, elas custam uma fortuna...<04e0>Mas é esse tipo de detalhe que nos garante uma boa<03e0>clientela. Bem... era assim até alguns dias atrás.
+Ei, garoto! Como vai? Você não vai acreditar no que<03e0>aconteceu comigo. É terrível, terrível...<03e0> <04e0>Como? Você não tem tempo para ouvir? Tem de ir?<04e0>Ah. Tudo bem... Eu entendo.
+Ahh! Ei, garoto!<04e0>Sabe, quando me disseram que um monstro lendário<03e0>havia ressuscitado, estive a ponto de fechar.<03e0>E teria sido uma lástima, depois do que passei.<04e0>Imagine o alívio que senti quando fiquei sabendo que<03e0>vocês resolveram o problema! Que excelente notícia!<03e0>Acho que gosto dessa cidade mais do que imaginava.
+Veja só, um outro "forasteiro". Também não sou daqui,<03e0>sabia? No ano passado um sujeito me contratou para<03e0>escoltá-lo até essa cidade.<04e0>Mas assim que chegamos, ele sumiu sem me pagar!<03e0> <04e0>Estou preso aqui desde então... tentando juntar fundos<03e0>para poder ir embora de uma vez desse buraco.<04e0>Aqui não temos nada para fazer... esse lugar é uma<03e0>droga. Mal posso esperar para ir embora!
+Olá, forasteiro. Não se preocupe com os pratos, ok?<03e0> <04e0>Finalmente juntei dinheiro suficiente para ir embora<03e0>de Grentze, mas acho que vou ficar mais algum tempo.<04e0>Quero dizer, dê só uma olhada nessa gente. Deixá-los<03e0>sozinhos seria tão cruel quanto mandar crianças para<03e0>enfrentar o exército de Ghor. Não posso fazer isso!
+Veja isso, as pessoas andam histéricas dizendo que um<03e0>monstro lendário despertou. Dizem que esse monstro é<03e0>um deus, um demônio, ou coisa parecida.<04e0>Droga, acho que vou ter que ajudar essa pessoas...<03e0>Afinal, sou um mercenário. Lutar é minha especialidade.<04e0>Se for preciso, lutarei para proteger essa cidade!
+Wyngale roubou meu posto! Fui o primeiro que prometeu<03e0>defender Grentze!<04e0>Rá, estou brincando! Só de chegar ali perto minhas<03e0>pernas começaram a tremer feito vara de bambu...<03e0>Pensei que morreria só de olhar para aquela coisa.<04e0>Se há um herói nessa cidade, esse herói é Wyngale.
+Você de novo?<04e0>Estou descansando, não está vendo? Me deixe em paz.
+Você de novo.<04e0>Veja. Entendo que tenha vontade de falar comigo. Sei<03e0>que garotos como você se impressionam facilmente, mas<03e0>hora de descanso é hora de descanso, entende?<04e0>...<04e0>Porque está me olhando com essa cara de imbecil?<03e0>Ah, não me diga que... Você não faz a menor ideia<03e0>de quem eu sou, faz?<04e0>Maldição. Achei que tinha me livrado de pessoas<03e0>como você.
+Você não faz a menor ideia de quem eu sou, faz?<03e0>Achei que tinha me livrado de pessoas como você.
+Ei. É sério, você nunca ouviu falar de mim?<03e0> <04e0>Não é querendo me gabar, mas muitos me conhecem como<03e0>o Rei dos mercenários.<04e0>Claro, já imaginava que deixar as grandes guerras<03e0>para me dedicar a trabalhos insignificantes poderia<03e0>afetar minha reputação, mas chegar a esse ponto?<04e0>Enfim. Só de olhar para você noto que não passa de<03e0>um cachorrinho que ainda mama na tetinha da mamãe.<03e0>Por que não tenta me vencer em um duelo?<04e0>Mas preciso dizer, uma ou duas tentativas não serão<03e0>suficiente para aprender todos meus segredos. Hahaha!<03e0> <04e0>...<04e0>...Você poderia pelo menos fingir estar interessado.
+Não é querendo me gabar, mas muitos me conhecem como<03e0>o Rei dos mercenários. Vamos lá, que tal me mostrar<03e0>do que é capaz?
+Cachorrinho, você voltou! Está pronto para me mostrar<03e0>do que é capaz?<04e0>O quê, agora parece que tiraram seu ossinho. Você<03e0>não gosta de ser chamado de cachorrinho, não é?<04e0>Não me leve a mal, garoto, não estou tentando te<03e0>diminuir para parecer importante...<04e0>Na verdade, vejo que tem um brilho no olhar... dá<03e0>para ver que pode se tornar um bom lutador. Vamos<03e0>nos concentrar nisso... Fazer você valer algo.<04e0>O que acha disso, se tornar meu aprendiz? Se pedir<03e0>com humildade posso te oferecer essa honra.<04e0>Como? Você duvida da minha habilidade? Acha que sou<03e0>muito convencido? Rá, pense o que quiser. O que vai<03e0>fazer a respeito disso, hã?<04e0>Se acha que conhece alguém que capaz de me derrotar,<03e0>traga para mim. Vou mostrar a ele quem manda aqui.<03e0>Hahahahaha!
+E então, cachorrinho! Você conhece alguém que acha<03e0>ser capaz de me derrotar? Traga aqui! Vou mostrar<03e0>o quanto está enganado.
+Você de novo? Não sabe mesmo o que significa dar um<03e0>tempo, não é? Me deixe descansar... Sinto como se as<03e0>Terras Sagradas tivessem caído na minha cabeça.<04e0>Isso é coisa sua, não é? Eu digo que ninguém pode me<03e0>vencer e um yama mascarado me desafia para um duelo.<03e0>Como se eu não soubesse que era o Duque de Ghor!<04e0>Ele estava carregando o Bilquis nas costas!<03e0>Com que tipo de imbecis ele está acostumado a lidar?<04e0>Droga... por causa disso mal posso sentir a cara...<04e0>Me desculpe, Rush. Acabei me deixando levar pelo meu<03e0>próprio ego e causei toda essa bagunça.<04e0>Acho que devo retornar ao meu treinamento... O que me<03e0>diz, Rush, de tomar algumas lições comigo? Não menti<03e0>quando disse que tinha potencial.<04e0>E claro, o mais importante para um mercenário é estar<03e0>bem forte! Então, a primeira coisa a fazer é comer!<03e0>Hahahahahahaha!!!
+Rush, parece que temos um tempo livre, certo? Que tal<03e0>treinarmos um pouco? Ou talvez comer algo...
+É uma carta escrita em um papel sujo e amarelado.<03e0>Nela estão escritas as seguintes palavras:<04e0>"Grentze está em perigo, e é meu dever protegê-la.<03e0> Por isso vou acabar com o Condenado (não sei como)!<04e0> Espero não causar problemas para o dono da taverna,<03e0> mas não posso permanecer de braços cruzados enquanto<03e0> o mundo está em perigo.<04e0> Mas não se preocupe! Pedi para meu irmão gêmeo, que<03e0> vive em Balterossa, para me substituir. Ninguém vai<03e0> notar a diferença! Exceto por essa carta, penso eu.<04e0> Pois bem, então aqui vou eu! Mesmo que não consiga<03e0> deixar nada mais que um arranhão naquela coisa,<03e0> vou tentar fazer com que doa! Gahahaha!"
+Eu sou a jovem linda e adorável que tem como trabalho<03e0>atrair clientes para nosso estabelecimento!<04e0>Mas não fique animado, não sou bem uma garota!<04e0>Gahahahaha!
 ...
-Apparently, Sir Nielsen of Celapaleis's wife's<03e0>run off. ...'Course, those two are famous for<03e0>not getting along, so it's no big deal.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And she's gonna marry me instead!<03e0>Woo, will Granny be jealous!<03e0>Gahahahaha!
-Seems there's some crazy woman plotting to<03e0>assassinate Duke Qubine...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so you should keep yer eyes on me!<03e0>I'll go save that li'l kid before you can say boo!<03e0>Gahahahaha!
-So, apparently the desert princess has been sneaking<03e0>out of the castle pretty regularly to meet some guy<03e0>she's been mooning over.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so, it's time for me to transform into a prince!<03e0>Surprised ya, huh?<03e0>Gahahahaha!
-Hey! So, the desert princess has eloped with her man!
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And it wasn't me...<03e0>Surprised ya, huh?<03e0>Gahahahaha!
-Seems relations between Balterossa and Royotia have<03e0>gotten super-bad. All the families of the soldiers are<03e0>getting worried since the armies are being mobilized...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so I've a mind to get my sword and go over an'<03e0>maintain the peace! Now, don't try to stop me<07f003e0>I'm unstoppable! Gahahahaha!
-So there's supposed to be something the Imperator<03e0>sealed out in the great swamp... Problem is, the seal's<03e0>broken. Could be the entrance to some other world...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so I've a mind to go seal it myself!<03e0>Now, don't try to stop me or anything!<03e0>Gahahahaha!
-Apparently one of the Forest Maidens bound to<03e0>a knight of the Order of Melphina can sense<03e0>what he's sensing.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-That sort of binding sounds like hell to me!<03e0>And you can take that however you like!<03e0>Gahahahaha!
-The Forest Maidens and the Order of Melphina<03e0>are mobilizing... Seems something's happened<03e0>to the Last Leaf in Crookfen.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I can feel there's gonna be a disaster...<03e0>Gahahahaha!
-It's almost time for Kosmosfest, huh.<03e0>But apparently the Cosmos Maiden hasn't made it to<03e0>Nagapur yet. Maybe she got mixed up in something...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-So I'm thinking I should go save her! I can't let<03e0>a sweet little thing like that be all by her lonesome.<03e0>I'd be her knight in shining armor! Gahahaha!
-So the Cosmos Maiden made it, and they started<03e0>the Kosmosfest alright. Usually the ceremony's a bunch<03e0>of hooey, but this time it was interrupted by monsters.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Ooo-wee, I love me a festival! 'Course, if it's not<03e0>so bustling, it can be pretty romantic, eh?<03e0>Gahahahaha!
-Some old-fashioned lady is looking to hire bodyguards,<03e0>I hear. She's supposed to be hanging out at some pub<03e0>near a canal.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-So, she's lookin' for skilled knights!<03e0>Howdy, come on over!<03e0>Gahahahaha!
-You into antiques?<03e0>Apparently a lot of the treasures of the Old Kingdoms<03e0>are turning up on the black market.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so I've a mind to go save those treasures myself!<03e0>Then I'd be known as the famous protector of<03e0>ancient treasures! Gahahahaha!
-Some guy is looking for these three stones that're<03e0>really important to the desert. Historically significant,<03e0>or something.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Yanno, I was searching for three sweeties myself!<03e0>What're the chances, eh? Gahahahaha!
-Some guy into ancient magick is looking for people<03e0>to help out with research. Seems he's on the verge<03e0>of unlocking some huge mysteries.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-The reason I'm so energetic is magick, yanno!<03e0>Psyche! Gahahahaha!
-So some giant monster sealed by the Imperator's back!<03e0>It's the end of the world!
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Welp, if the world's in danger, then I'm gonna go save it!<03e0>Gahahahaha!
-Some amnesiac is wandering around the cities in<03e0>the desert, looking for something that could regain<03e0>his memory.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Memories, schmemories! Remember what you had<03e0>for dinner last night? I don't remember the snack<03e0>I had a few minutes ago! Gahahahaha!
-Recently people've been seeing this infamous bandit<03e0>around Athlum. Apparently he's waiting around for<03e0>someone, but no one's brave enough to ask who.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Welp, even if I may look innocent, I'm a bit of a rebel<03e0>myself! Just last night, I let one rip right under Granny's<03e0>nose! Gahahahaha!
-There's a goddess statue in the Robelia Ruins that's<03e0>supposed to let you meet anyone in the world, no<03e0>matter how far. Some kid is looking for it.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Granny wished on one of them statues, too!<03e0>How d'ya think she met me?<03e0>Gahahahaha!
-There's a murderer on the loose in the capital!
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And? It's obvious, innit?<03e0>The culprit's somebody on the continent!<03e0>Gahahahaha!
-There's some massive yama looking for stuff...<03e0>But he's kinda out there so people've been trying<03e0>to keep out of his way.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Yanno, I'm looking for somethin', too...<03e0>Can't remember what it was, though!<03e0>Gahahahaha!
-Some white qsiti's been looking for a magickal book.<03e0>People seem to think he looks familiar, but<03e0>no one's been able to place him.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-When it comes to them mystical arts, I'm the man!<03e0>My special dance can make anybody run away!<03e0>Gahahahaha!
-A set of twins have turned up as mercenaries<03e0>lately...good ones, too. The one girl is supposed to<03e0>be a real cool customer<07f0>both in looks, and in attitude.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I used to be a mercenary too!<03e0>Maybe I should go out and partner with those<03e0>two birds... Gahahahaha!
-Some guy out in the Great Sand Sea's been looking<03e0>for challengers. But he's not interested in Joe<03e0>Schmoes off the street.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so I was gonna go give that guy a real challenge,<03e0>but the wife got a migraine so I figgered I better<03e0>stay here... Gahahahaha!
-Some old warrior's been crossing the Great Sand<03e0>Sea, looking for a special sword.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Yanno, in a lot of ways I'm just like the Great<03e0>Sand Sea. My heart's just as wide<07f0>don't like bein'<03e0>double-crossed, though! Gahahahaha!
-The guards of Ghor have all sworn to follow<03e0>their ruler for as long as they live.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so it's obvious these kiddies have never<03e0>met me! I'd show 'em a real man to follow!<03e0>Gahahahaha!
-There's not a family in the world as dedicated as<03e0>the Honeywells. If you've got them at your back,<03e0>you can do anything.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so it's obvious these kiddies have never<03e0>met me! I'm as dedicated to this pub as anything<03e0>could be! Gahahahaha!
-Apparently one of Athlum's Four Generals<07f0>Torgal<03e0>or something?<07f0>is supposed to have some things in<03e0>his past that're coming back to haunt him in Royotia.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so I can tell you wanna hear about my sordid<03e0>past! Right? Wrong? ...Really?
-It's about time for the Tournament of Heroes to<03e0>start up again. It's pretty well-known among the<03e0>types with fighting spirit.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I can't believe they didn't send me a personal<03e0>invitation! You'd think I'd be in high demand, eh?<03e0>Gahahahaha!
-Apparently there's some mystic academy that's<03e0>been spitting out skilled magi for years.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And, when it comes to skilled magi, how can you<03e0>not think of me? We should be hearing back from<03e0>the Academy soon, eh? Gahahahaha!
-Athlum's been going through some tough times,<03e0>and people are worried about the new matriarch<03e0>of the Honeywell clan because she's so young.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so what's the problem? I've felt like I was 15<03e0>ever since I was 35, and I never had any troubles!<03e0>Gahahahaha!
-Recently there's been gossip about the Marquis of<03e0>Athlum's love interests...or lack thereof.<03e0>He's never been connected with anybody.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-When I think love interests, I think of Granny.<03e0>Yanno, she was totally gaga over me...fifty years<03e0>ago, anyway! Gahahahaha!
-The old head of the Academy's been seen in pubs<03e0>across the continent lately. I guess it stands to reason<03e0>she'd want to drown her sorrows after what happened.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-It's always sad for a girl to have to drink alone.<03e0>She should come on over here, I'll drink with her!<03e0>Gahahahaha!
-Those famous Doctors Sykes have been seen going in<03e0>and out of Athlum Castle lately. People're wondering if<03e0>there's been some sort of discovery.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I bet it's some sort of discovery that will change the<03e0>world forever! I can feel it in my bones!<03e0>Gahahahaha!
-Some unidentified flying object's been spotted<03e0>swooping around Wyrmskeep.<03e0>It's totally been freaking everyone out...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I'll go over and take care of it!<03e0>...Tomorrow, or maybe the day after...<03e0>Gahahahaha!
-Some hot-blooded female warrior is trying to hunt down<03e0>that group causing trouble in Crookfen. But her boss<03e0>wants her to leave 'em alone...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I was pretty hot-blooded in my youth...<03e0>Now I'm even more raring to go!<03e0>Gahahahaha!
-Some monster army's appeared in the Great<03e0>Sand Sea. They're so powerful that everyone in<03e0>Balterossa is totally in despair...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Just like Mama used to say, the key to victory is<03e0>formations! Gahahahaha!
-According to ancient historians, there's something<03e0>dangerous enough to destroy entire cities sealed<03e0>within the volcano...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Yanno, Baaluk's been around ever since I was born!<03e0>So, what's my ancient history, eh?<03e0>Gahahahaha!
-No one knows anything about the stuff going on inside<03e0>the volcano, nor does anyone know how to find out...<03e0>But, the Marquis of Royotia might have some ideas.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Just like Mama used to say, the key to victory is<03e0>the red stones! Gahahahaha!
-You know there's a town without anyone running it?<03e0>The old ruler's sons are fighting over the seat<03e0>of power.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Sounds like trouble's brewing to me!<03e0>...Actually, for some reason that story sounds<03e0>kinda familiar...
-When you're out in the desert, you can hear this sad,<03e0>lonely voice crying from beneath the Great Sand Sea.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Mutant beasts!<03e0>Mutant beasts from inside the earth...!<03e0>Gahahahaha!
-A long time ago, there used to be a famed hero<03e0>that lived in the Great Sand Sea.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I'm a hero<07f0>it's written all over my face!<03e0>At least, it was that one time back in school...<03e0>Gahahahaha!
-So I was walking through town and heard a fella all<03e0>"you gotta believe me! If you look at the pillars<03e0>in the Great Sand Sea, then...g-g-gra<07f0>!"
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-OooOOOooo, scary, innit?<03e0>Gahahahaha!
-Some crackpot old scientist has been wandering around<03e0>Melphina. If you go over there, you probably should stay<03e0>away, he's giving people strange looks.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-...For some reason, I feel like I'd get on pretty well<03e0>with this feller. Strange, innit?<03e0>Gahahahaha!
-There's some cafe infested with bugs...they<03e0>followed the guy all the way from the desert.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Guess what: it's us!<03e0>Gahahahaha!
-Nagapur's been increasingly unsafe.<03e0>Recently a bunch of kids have gone missing...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I'll take care of this!<03e0>...Right after finishing the dishes, that is.<03e0>Gahahahaha!
-Young adventurers have gotten into trading the<03e0>different loot they find on their trips these days.<03e0>Seems Royotia's the main hub for the fad.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Maybe I should join in, eh?<03e0>Gahahahaha!
-Royotian merchants are getting frustrated with<03e0>Balterossa...they control all of their trade routes.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-If people wanna trade, then they should be finding me!<03e0>Come on, when you look at me you totally think<03e0>"millionaire," right? Gahahahaha!
-Some yamaan mercenary's out looking for a partner.<03e0>Could be a good way to make a few G.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Maybe I should look this guy up!<03e0>I'm a great companion...so long as you need<03e0>someone to flail and get hit a lot! Gahahahaha!
-Some guy with a hot-and-cold personality's just<03e0>shown up in Celapaleis. Girls say the way he completely<03e0>changes his personality is really cool.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-When it comes to cool dudes, I'm the coolest!<03e0>I mean, look at this outfit! Gahahahaha!
-There's some crazy qsiti going to crowded places<03e0>and standing directly in everyone's way, and then<03e0>picking fights with people who run into him.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I was kinda annoying as a kid, too.<03e0>Good thing I grew out of that, right?<03e0>Gahahahaha!
-So, apparently there's a mysterious woman<03e0>about...the type that's real hard to get with.<03e0>Seems she's got the whole world on her shoulders...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-A looker like me shouldn't have any trouble giving<03e0>her what she's looking for, eh? Gahahahaha!
-You've probably seen them if you've been hanging<03e0>around Crookfen, but Bloody Alice has been<03e0>gathering. Looks like something big's going on...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-And so of course they're meeting up since they're<03e0>all fans of me! Gahahahaha!
-Seems the Jhana have been popping up in the Great<03e0>Sand Sea. You wouldn't think they'd have forgotten<03e0>being blasted by the Gae Bolg already...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Yanno, once I fought some Jhana in a fierce<03e0>duel to the death! ...Except, not so much.<03e0>Gahahahaha!
-Recently the Silver Falcons took out a pack<03e0>of Jhana.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-When you think "Silver Falcon" you think of me,<03e0>right? I mean, look at this head of hair!<03e0>Gahahahaha!
-The Silver Falcons have been going after<03e0>the remnants of the Conqueror's army.<03e0>Who knows what those guys could be up to...
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-I'll help out on this one too! Somebody's gotta be<03e0>the one to run around like a chicken with its head<03e0>cut off, right? Gahahahaha!
-Some gloomy-looking guy's been hanging around the pub<03e0>in Elysion recently...bumming everyone out.
-...That's the scuttlebutt, anyhoo!
-Izzat so. And?
-Elysion...that's a pretty darned legendary city!<03e0>That's where I proposed to Granny, of course!<03e0>Gahahahaha!
+Parece que a esposa do barão Nielsen, de Celapaleis,<03e0>fugiu de casa de novo. Mas isso não é mais nenhuma<03e0>novidade, todos sabem que os dois não se dão bem.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, ela fugiu para para poder se casar comigo!<03e0>Ahh, a velha vai morrer de ciúmes! Gahahahaha!<03e0>
+Ouvi dizer que uma mulher maluca está planejando<03e0>assassinar o duque de Qubine...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, e aí que você deveria aprender comigo!<03e0>Consigo salvar esse garotinho num piscar de olhos!<03e0>Gahahahaha!
+Então, parece que a princesa do deserto anda saindo<03e0>escondida do castelo para se encontrar com um rapaz<03e0>por quem está apaixonada.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, já está na hora dela vir aqui para me tornar<03e0>seu príncipe! Isso sim seria uma surpresa, não é?<03e0>Gahahahaha!
+Então! A princesa do deserto fugiu com seu amado!
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que não foi comigo que ela fugiu...<03e0>Mas quem saiu perdendo foi ela, não é mesmo?<03e0>Gahahahaha!
+Parece que as relações entre Balterossa e Royotia vão<03e0>de mal a pior. Os exércitos estão sendo mobilizados e<03e0>as famílias dos soldados estão preocupadas...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que estou morrendo de vontade de pegar minha<03e0>espada para deter essa guerra! E não tente me deter!<03e0>Sou invencível! Gahahahaha!
+Parece que o primeiro Imperador ocultou algo por trás<03e0>de uma barreira no grande pântano. E agora a barreira<03e0>foi rompida. Seria um portal para outro mundo?
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que estou morrendo de vontade de resolver isso<03e0>pessoalmente! E não tente me deter, sou invencível!<03e0>Gahahahaha!
+Parece que uma das Donzelas do Bosque tem um vínculo<03e0>tão forte com um cavaleiro da Ordem de Melphina que<03e0>é capaz de sentir tudo o que ele está sentindo.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que ter um vínculo desses deve ser um inferno!<03e0>Um homem precisa ter seus segredos...<03e0>Gahahahaha!
+As donzelas do bosque, junto com a Ordem de Melphina,<03e0>estão preparando uma expedição. Parece que aconteceu<03e0>algo com a Folha Caída, o remanescente de Crookfen.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que algo me diz que isso vai ser um desastre...<03e0>Gahahahaha!
+Já está quase na hora da Festa Cósmica começar, mas a<03e0>Donzela Cósmica ainda não chegou em Nagapur. Espero<03e0>que nada de mal tenha acontecido a ela...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que estou pensando em ir até lá para salvá-la!<03e0>Uma garota tão indefesa não deveria viajar sozinha.<03e0>Serei seu cavaleiro de brilhante armadura! Gahaha!
+No final a Festa Cósmica começou conforme planejado.<03e0>A cerimônia costuma ser bem tranquila, mas dessa vez<03e0>apareceram uns monstros e tiveram que interrompê-la.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Uuu-huu, adoro um festival! Além disso, se não tiver<03e0>muita gente pode ser bem romântico, você não acha?<03e0>Gahahahaha!
+Uma dama apegada a tradições está querendo contratar<03e0>um guarda-costas. Dizem que ela pode ser encontrada<03e0>na taverna de uma cidade cheia de canais.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, se ela procura cavaleiros com experiência,<03e0>basta bater na porta! Gahahahaha!<03e0>
+Você gosta de antiguidades? Parece que os tesouros<03e0>dos reinos antigos estão à venda no mercado negro...<03e0>
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que estou morrendo de vontade de recuperá-los<03e0>para me transformar em um famoso historiador!<03e0>Gahahahaha!
+Há um homem por aí que anda em busca de três pedras<03e0>relacionadas com o antigo reino do deserto. Parece<03e0>que elas têm valor histórico, ou algo parecido.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que, se fosse ele, estaria procurando por três<03e0>namoradas, isso sim! Gahahahaha!
+Um sujeito interessado na magia arcana está em busca<03e0>de alguém que possa ajudá-lo em seus experimentos.<03e0>Dizem que está prestes a fazer uma grande descoberta.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, você quer saber o segredo de toda essa minha<03e0>energia? É a magia arcana! Brincadeira! Gahahahaha!
+Parece que um monstro que havia sido aprisionado<03e0>pelo primeiro Imperador escapou. É o fim do mundo!
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, se o mundo corre perigo, terei que salvá-lo!<03e0>Gahahahaha!
+Um homem com amnésia está vagando pelas cidades do<03e0>deserto, em busca de algo que possa ajudar a trazer de<03e0>volta a sua memória.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Bah, não sei por que ele quer recuperar a memória!<03e0>Você se lembra do que comeu ontem no jantar? Não<03e0>lembro nem do que que comi hoje! Gahahahaha!
+Parece que viram um famoso bandido pelos arredores de<03e0>Athlum. Estão dizendo que ele está procurando alguém,<03e0>mas ninguém tem coragem de ir lá falar com ele.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, posso até parecer inofensivo, mas também sou<03e0>bastante perigoso! Ontem à noite por exemplo, cometi<03e0>um delito bem debaixo do nariz da velha! Gahahahaha!
+Nas Ruínas de Robélia há uma estátua que te permite<03e0>encontrar qualquer pessoa no mundo, esteja ela onde<03e0>estiver. Um rapaz está em busca dela...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, tenho certeza que a velha sabe onde ela está!<03e0>Como você acha que ela me arrastou até o altar?<03e0>Gahahahaha!
+Há um assassino à solta na capital!
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, como e aí? Não é óbvio? Tenho certeza que<03e0>o assassino é alguém do continente! Gahahahaha!<03e0>
+Parece que um yama enorme está precisando de ajuda<03e0>para encontrar algo... Mas ele é meio estranho, e por<03e0>isso as pessoas estão tentando manter distância.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu também estava procurando umas coisas...<03e0>Só que agora já não me lembro mais o que era!<03e0>Gahahahaha!
+Parece que um qsiti albino está em busca de um certo<03e0>livro sobre a magia arcana. As pessoas estão dizendo<03e0>que ele parece familiar.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, quando o assunto é artes místicas, sou o cara!<03e0>Minha dança especial espanta qualquer um! Gahaha!<03e0>
+Parece que duas garotas gêmeas começaram a trabalhar<03e0>como mercenárias... E dizem que elas são muito boas!<03e0>Mas uma delas tem um gênio terrível.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu também fui mercenário quando era jovem...<03e0>Talvez eu devesse me juntar a essas duas beldades...<03e0>Gahahahaha!
+Um homem está desafiando as pessoas a participar de<03e0>um tipo de jogo no Grande Mar de Areia. Mas parece<03e0>que ele não está aceitando qualquer um...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu estava disposto a ir desafiar esse sujeito,<03e0>mas a velha ficou gripada... Então achei melhor<03e0>ficar aqui, fazendo-lhe companhia... Gahaha!
+Dizem que um velho guerreiro atravessou todo o Grande<03e0>Mar de Areia em busca de um espada muito especial.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, meu coração é tão grande quanto o Grande Mar<03e0>de Areia. Mas não gosto que pisem nele! Gahahaha!<03e0>
+Os guardas de Ghor juraram lealdade ao seu senhor,<03e0>até o último dia de suas vidas.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, é óbvio que esses garotos não me conheceram!<03e0>Eu teria ensinado a eles o que é receber ordens de<03e0>um homem de verdade! Gahahahaha!
+Não existe nenhuma família no mundo tão leal como os<03e0>Honeywells. Se eles estiverem do seu lado, você pode<03e0>conseguir qualquer coisa.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eles dizem isso porque nunca me conheceram!<03e0>Minha dedicação a essa taverna é tão grande que não<03e0>dá nem para comparar! Gahahahaha!
+Parece que um dos quatro generais de Athlum, esse<03e0>tal de Torgal, tem um passado um tanto obscuro.<03e0>Acabaram de descobrir algo em Royotia.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, se você quer que eu fale sobre meu passado,<03e0>é só pedir. Gahahahaha!
+Logo vai começar o Torneio dos Heróis... Essa é uma<03e0>competição bastante conhecida entre os interessados<03e0>pelo combate.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, não consigo acreditar que não me convidaram...<03e0>Um lutador como eu não pode faltar a esse evento!<03e0>Gahahahaha!
+Parece que há por aí uma academia de magia, e durante<03e0>anos ela vem treinando os melhores magos do mundo...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu sou o maior mago de todos os tempos, e<03e0>aprendi sozinho tudo que sei... Eles deveriam me<03e0>contratar como mestre, você não acha? Gahaha!
+Athlum tem passado por momentos difíceis e as pessoas<03e0>andam um pouco preocupadas com a nova matriarca do<03e0>clã Honeywell. Ela é tão jovem....
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, não vejo onde está o problema. Eu me sinto<03e0>como se tivesse quinze anos, desde que fiz trinta...<03e0>Gahahahaha!
+Ultimamente tem circulado boatos sobre a vida amorosa<03e0>de Lorde David... ou sobre a falta dela. Isso porque<03e0>nunca o viram envolvido com ninguém...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, quando me falam de romance, me lembro da minha<03e0>velha. Sabe, ela era louca por mim... mas isso foi<03e0>há cinquenta anos atrás! Gahahahaha!
+Dizem que a antiga diretora da Academia anda vagando<03e0>de cidade em cidade, visitando tavernas. Deve estar<03e0>tentando afogar as mágoas, depois do que aconteceu.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, não há nada mais triste que uma garota bebendo<03e0>sozinha. Ela deveria vir aqui, para bebermos juntos!<03e0>Gahahahaha!
+Os doutores Sykes têm sido vistos entrando e saindo<03e0>do castelo de Athlum, com bastante frequência. Será<03e0>que fizeram alguma nova descoberta?
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu também tenho a sensação de estar prestes<03e0>a fazer uma grande descoberta! Tenho certeza!<03e0>Gahahahaha!
+Um objeto voador não identificado foi avistado nos<03e0>arredores de ForteDragão. As pessoas que vivem ali<03e0>andam histéricas por causa disso...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, e aí que vou lá resolver essa situação!<03e0>...Amanhã, talvez. Ou quem sabe depois...<03e0>Gahahahaha!
+Uma guerreira com sede de justiça está caçando aqueles<03e0>homens que andaram causando problemas em Crookfen.<03e0>Mas ela está desobedecendo o líder da sua ordem.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu também era bastante impulsivo quando era<03e0>mais jovem.... E agora sou ainda mais! Gahahaha!<03e0>
+Dizem que apareceu um exército de monstros no Grande<03e0>Mar de Areia. Eles são muito poderosos, e os habitantes<03e0>de Balterossa estão desesperados...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, como já dizia minha mãe, a chave da vitória<03e0>está na escolha da formação adequada! Gahahahaha!
+De acordo com antigos historiadores, há alguma coisa<03e0>aprisionada no interior do vulcão, uma coisa capaz de<03e0>destruir uma cidade inteira...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, e aí que tenho mais anos de vida que Baaluk!<03e0>E nenhum historiador veio me estudar, até agora...<03e0>Gahahahaha!
+Ninguém sabe exatamente o que acontece no interior do<03e0>vulcão, nem como investigar isso... Mas pode ser que o<03e0>marquês de Royotia saiba o que fazer.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, como dizia minha mãe, a chave para a vitória<03e0>está nas pedras vermelhas! Gahahahaha!
+Você sabia que existe uma cidade que não tem senhor?<03e0>Os filhos do antigo governador estão brigando para ver<03e0>quem assume o posto do pai.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, e aí que vai sobrar para mim!<03e0>Sabe... Essa história me parece familiar...<03e0>
+Dizem que, ao cruzar o deserto, é possível ouvir um<03e0>lamento triste e solitário vindo dali de baixo.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, tenho certeza que são criaturas mutantes!<03e0>Criaturas mutantes do centro da terra...!<03e0>Gahahahaha!
+Há muito tempo atrás, um herói de grande fama vivia<03e0>no Grande Mar de Areia.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu também era um herói... estava escrito na<03e0>minha testa! Foi o que fizeram comigo na escola...<03e0>Gahahahaha!
+Eu estava andando pela cidade e ouvi um homem dizer:<03e0>"Você precisa acreditar em mim! Se olhar bem para os<03e0>pilares do Grande Mar de Areia verá os fan... fan..."
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+OooOOOooo, mas que medo, não é mesmo?<03e0>Gahahahaha!
+Um cientista maluco anda perambulando por Melphina.<03e0>Se você for passar por ali é melhor nem chegar perto...<03e0>Ele está olhando as pessoas de um jeito estranho.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, alguma coisa me diz que eu me entenderia muito<03e0>bem com esse sujeito. Você não concorda? Gahahahaha!<03e0>
+Parece que uma cafeteria está infestada de insetos.<03e0>Eles seguiram seu dono por todo o deserto.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu sei de qual cafeteria se trata... a nossa!<03e0>Gahahahaha!
+Nagapur está cada vez mais perigosa. Ouvi dizer que<03e0>várias crianças andaram desaparecendo na cidade...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+E aí que vou tratar de encontrá-los! Mas só depois que<03e0>eu terminar de lavar os pratos. Gahahahaha!<03e0>
+Jovens aventureiros agora estão trocando os tesouros<03e0>que encontram durante suas viagens. Parece que essa<03e0>é a mais nova moda em Royotia.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, talvez eu devesse fazer isso também, não é?<03e0>Gahahahaha!
+Parece que os mercadores de Royotia já estão fartos<03e0>de Balterossa controlar todas suas rotas comerciais.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, se eles querem ficar ricos então deveriam vir<03e0>me procurar! Fala sério, quando você olha para mim<03e0>não vê a cara de um "milionário"? Gahahahaha!
+Um mercenário yama está em busca de um parceiro...<03e0>Pode ser uma boa chance de conseguir umas moedas.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu deveria oferecer a ele meus serviços!<03e0>Sou um ótimo parceiro... desde que você precise de<03e0>alguém para apanhar bastante! Gahahahaha!
+Apareceu em Celapaleis um homem com problema de<03e0>personalidade. Dizem que ele muda de humor de uma<03e0>hora para outra.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, quando o assunto é caras maneiros, ninguém<03e0>ganha de mim. Veja só esse modelito! Gahahahaha!
+Tem um qsiti maluco que costuma ir a lugares cheios<03e0>de gente só para ficar bem no caminho das pessoas e<03e0>arrumar confusão com quem esbarra nele.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu também era meio sem noção quando criança.<03e0>A boa notícia é que isso passa com a idade, não é?<03e0>Gahahahaha!
+Dizem que há uma mulher misteriosa por aí...<03e0>Daquelas que tem uma personalidade bem difícil...<03e0>Parecia estar carregando o peso do mundo nas costas.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, tenho certeza de que um galã como eu poderia<03e0>dar a ela o que precisa, não é mesmo? Gahahahaha!
+Não sei se passou recentemente por Crookfen, mas<03e0>parece que as Damas Sangrentas estão se reunindo<03e0>ali. Acho que tem algo importante acontecendo...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, é claro que elas andam se reunindo! Elas fazem<03e0>parte do meu clube de admiradoras! Gahahahaha!
+Parece que os jhanas voltaram a mostrar as caras no<03e0>Grande Mar de Areia. Será que já esqueceram a lição<03e0>que levaram do Gae Bolg?
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, não sei se sabe, mas uma vez venci um jhana em<03e0>um duelo de morte! Pelas costas, e sem ele me ver.<03e0>Gahahahaha!
+Parece que, recentemente, os Falcões Prateados deram<03e0>cabo de um grupo de jhanas.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, quando você pensa nos "Falcões Prateados", não<03e0>se lembra de mim? Dê uma olhada nesse meu cabelo!<03e0>Gahahahaha!
+Os Falcões Prateados estão indo atrás do que restou<03e0>do exército do Conquistador. Que bom! Ninguém sabe o<03e0>que esses homens poderiam tentar fazer...
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Oras, eu poderia ajudar eles! Afinal de contas,<03e0>alguém precisa apanhar por eles, não é verdade?<03e0>Gahahahaha!
+Um homem de aparência sombria está deixando todos<03e0>na taverna de Elysion deprimidos com seus lamentos.
+Bem, é isso o que andam dizendo as más línguas!
+É mesmo? E aí?
+Elysion... Essa sim é uma cidade cheia de histórias!<03e0>Foi ali que pedi a mão da velha!<03e0>Gahahahaha!
 

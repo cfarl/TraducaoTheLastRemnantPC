@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0410_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The tablet of Marshall is reacting<03e0>to the Dead Heart.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! It scares me...
-(Haruko was saying she wanted<03e0>a glimpse of this.)<06e0000008e0000000000000>Let's take it back to her.<09e008e0010000000300>Let's leave it.
+A tabuleta de Marshall está reagindo ao<03e0>Coração Defunto. Quer usar a tabuleta?<03e0> <06e0000008e0000000000000>Sim!<09e008e0010000000300>Não! Ele me assusta...
+(Haruko disse que queria ver isso<03e0>com seus próprios olhos.)<06e0000008e0000000000000>Vamos levá-lo.<09e008e0010000000300>Vamos deixá-lo aqui.
 

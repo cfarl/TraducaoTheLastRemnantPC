@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0050_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Rush! It's been quite a while.<03e0>I have another favor to ask of you.
-East of Balterossa, deep below the Great Sand Sea,<03e0>lives a very kind old seer.<04e0>Charlotte and I would appreciate it if you would<03e0>escort us to him.<06e0000008e0000000000000>No prob!<09e008e0010000000300>I'm kinda busy...
-I hate to involve you in our personal intrigues<03e0>yet again, but you have my gratitude.<04e0>Our parents refuse to acknowledge our love.<03e0>Throughout the time we've been kept apart,<03e0>we've communicated in secret.<04e0>But now...we are tired of all this cloak-and-dagger<07f003e0>keeping our true feelings in the shadows, as if<03e0>we are shamed by such a thing!
-We've decided to elope.<04e0>The seer has agreed to keep us for a short time.<03e0>Afterwards, we'll flee to some place far<07f003e0>somewhere we may be together.
-Let us make our way to <1be0ffbe34ff>the Great Subterrane<1ce0>.<03e0>You are the only man I can trust, Rush...<03e0>Know that I appreciate this.
-Understood.<03e0>Then return when you've finished your tasks.<03e0>I shall be waiting.
-Was all that happened just a product of the seer's<03e0>machinations? I...I do not know... I've nothing left<03e0>to believe in...<04e0>...At the very least, it's due to your assistance<03e0>that Charlotte is unharmed, Rush. My heart was<03e0>the only casualty...
-Forgive me, my mind wanders.<03e0>Here, a small token of my gratitude.
-They say that given enough time, a broken<03e0>heart becomes inured to the pain...<03e0>I suppose all I can do is wait...
-There is a seer that lives beneath the Great<03e0>Sand Sea. Charlotte and I ask that you<03e0>escort us to him.<06e0000008e0000000000000>Okey-doke!<09e008e0010000000300>I'm still busy...
-I hate to involve you in our personal intrigues<03e0>yet again, but you have my gratitude.<04e0>Our parents refuse to acknowledge our love.<03e0>Throughout the time we've been kept apart,<03e0>we've communicated in secret.<04e0>But now...we are tired of all this cloak-and-<03e0>dagger<07f0>keeping our true feelings in the<03e0>shadows, as if we are shamed by such a thing!
-We've decided to elope.<04e0>The seer has agreed to keep us for a short time.<03e0>Afterwards, we'll flee to some place far<07f003e0>somewhere we may be together.
-Let us make our way to <1be0ffbe34ff>the Great Subterrane<1ce0>.<03e0>You are the only man I can trust, Rush...<03e0>Know that I appreciate this.
-Understood.<03e0>Then return when you've finished your tasks.<03e0>I shall be waiting.
-Charlotte... She's been abducted by the seer we<03e0>trusted so... Please, we must rescue her at once!<06e0000008e0000000000000>Definitely! Let's go!<09e008e0010000000300>I'm kinda busy right now...
-You have my thanks.
-You are the only one I can depend on, Rush!
+Rush! Quanto tempo!<03e0>Preciso te pedir um outro favor.
+Ao leste de Balterossa, nas profundezas do Grande<03e0>Mar de Areia, vive um velho e gentil vidente.<04e0>Charlotte e eu gostaríamos que você<03e0>nos escoltasse até sua morada.<06e0000008e0000000000000>Sem problema!<09e008e0010000000300>Estou um pouco ocupado...
+Eu não queria envolvê-lo novamente em nossos<03e0>problemas pessoais, mas agradeço muito sua ajuda.<04e0>Nossos pais se recusam a aceitar o nosso amor.<03e0>Mesmo com eles tentando nos manter separados,<03e0>continuamos a nos encontrar em segredo.<04e0>Mas já estamos cansados de tantas intrigas e de<03e0>passarmos a vida escondendo nossos sentimentos.<03e0>Não temos porque termos vergonha do nosso amor!
+Nós decidimos fugir.<04e0>O vidente prometeu nos esconder por algum tempo.<03e0>E depois iremos para algum lugar distante,<03e0>onde possamos ficar juntos para sempre.
+Vamos seguir para a <1be0ffbe34ff>Passagem Subterrânea<1ce0>.<03e0>Você é a única pessoa em quem posso confiar, Rush...<03e0>Aprecio muito esse seu gesto, de verdade.
+Entendo.<03e0>Então volte quando terminar o que tem de fazer.<03e0>Estarei esperando.
+Será que tudo que aconteceu foi resultado das<03e0>maquinações do vidente? Eu... eu não sei mais no que<03e0>acreditar...<04e0>Pelo menos, graças à sua ajuda, Rush,<03e0>Charlotte está a salvo. Parece que meu coração<03e0>foi o único que saiu ferido dessa história...
+Peço perdão pelas minhas lamentações.<03e0>Aqui está uma pequena prova da minha gratidão.
+Dizem que, com o tempo, um coração<03e0>partido se acostuma com a dor...<03e0>A única coisa que posso fazer é esperar...
+Há um vidente que vive nas profundezas do Grande<03e0>Mar de Areia. Charlotte e eu gostaríamos que você<03e0>nos escoltasse até ele.<06e0000008e0000000000000>Vamos lá!<09e008e0010000000300>Ainda estou ocupado...
+Eu não queria envolvê-lo novamente em nossos<03e0>problemas pessoais, mas agradeço muito sua ajuda.<04e0>Nossos pais se recusam a aceitar o nosso amor.<03e0>Mesmo com eles tentando nos manter separados,<03e0>continuamos a nos encontrar em segredo.<04e0>Mas já estamos cansados de tantas intrigas e de<03e0>passarmos a vida escondendo nossos sentimentos.<03e0>Não temos porque termos vergonha do nosso amor!
+Nós decidimos fugir.<04e0>O vidente prometeu nos esconder por algum tempo.<03e0>E depois iremos para algum lugar distante,<03e0>onde possamos ficar juntos para sempre.
+Vamos seguir para a <1be0ffbe34ff>Passagem Subterrânea<1ce0>.<03e0>Você é a única pessoa em quem posso confiar, Rush...<03e0>Aprecio muito esse seu gesto, de verdade.
+Entendo.<03e0>Então volte quando terminar o que tem de fazer.<03e0>Estarei esperando.
+Charlotte... Ela foi sequestrada pelo vidente!<03e0>Confiamos nele... Por favor, precisamos resgatá-la!<06e0000008e0000000000000>Com certeza! Vamos logo!<09e008e0010000000300>Agora estou meio ocupado...
+Muito obrigado.
+Você é a única pessoa em quem posso confiar, Rush!
 

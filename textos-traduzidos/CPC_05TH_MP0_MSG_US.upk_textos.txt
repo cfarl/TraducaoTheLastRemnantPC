@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) CPC_05TH_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Then, you are Rush Sykes, are you?<03e0>I've heard a lot about you.<04e0>Feel free to amply prepare yourself for your<03e0>coming battles here in Celapaleis.
-The loss of General Honeywell and the Valeria<03e0>Heart are both very regrettable... I offer my<03e0>deepest condolences.<04e0>Yet, had you not gone to the Nest of Eagles, all<03e0>of Celapaleis would have been in grave danger.<04e0>I cannot begin to describe my appreciation for<03e0>what you've done.
-I've not been feeling well of late...<04e0>It must be due to the debacle with Nagapur. I<03e0>suppose cleaning up that mess was more tiring<03e0>than I thought... Either way, it's nothing to worry about.
-Ahh... For me to be in such a state... Keep this a<03e0>secret from Ghor, would you? I'm certain the old<03e0>bat would never let me hear the end of it.
-So Hermeien was behind the escalation of<03e0>the Remnants' powers...<04e0>I didn't even dream it could be him.<03e0>I still have so much to learn...<03e0>Ghor will never let me live this down, will he?
-The future of Athlum lies in your hands.<04e0>The God Emperor is not a man to be trifled with.<03e0>Do not let down your guard before him.
-There are two paths to take.<04e0>One path allows you to be the creators of a new world.<03e0>The other brands you as traitors to the God Emperor<03e0>as you are slain mercilessly by his followers.<04e0>Show me what you have chosen.
-Watch your tongue, boy!<03e0>You stand before Lord Qubine!
-To think he suffers so...<03e0>Poor, valiant Lord Qubine!
-To think, he suffers so...<03e0>Poor, valiant Lord Qubine!<04e0>Someone, anyone<07f003e0>Can no one bring a healer that might help?
-The Duke still hasn't fully recovered.<03e0>Say what you came to say and be off!
-Though Athlum has been granted independence, that<03e0>does not mean you can milk the Duke for more<03e0>favors.<04e0>Stand on your own two feet!
-If word gets out you are here with the Duke, his Lord<03e0>may be branded a conspirator!<03e0>If you're done with your business, please leave!
+Então, você é Rush Sykes, não é?<03e0>Ouvi falar de você.<04e0>Aproveite sua visita a Celapaleis e se equipe para<03e0>as batalhas que terá pela frente.
+A perda da general Honeywell e do Coração Valente<03e0>foram lastimáveis... por favor aceite minhas mais<03e0>sinceras condolências.<04e0>Mas se vocês não tivessem ido ao Ninho das Águias,<03e0>Celapaleis teria corrido um sério perigo.<04e0>Não sei como agradecer por tudo que fizeram por nós.<03e0>
+Não tenho me sentido muito bem nos últimos dias...<04e0>Deve ser por conta do que aconteceu com Nagapur.<03e0>Consertar toda aquela bagunça foi mais desgastante<03e0>do que pensei... Mas tudo bem, não é nada de mais.
+Ah, como odeio me ver nesse estado... Não diga nada<03e0>ao duque de Ghor, certo? Tenho certeza que o velho<03e0>morcego falaria disso até o último dos meus dias.
+Então Hermeien estava por trás do descontrole dos<03e0>poderes dos Remanescentes...<04e0>Nunca suspeitei que poderia ser ele. Creio que ainda<03e0>tenho muito o que aprender. O duque de Ghor vai me<03e0>lembrar disso pelo resto da minha vida.
+O futuro de Athlum está em suas mãos.<04e0>O Imperador Celestial não é um homem que se possa<03e0>menosprezar. Não baixe a guarda na sua presença.
+Temos dois caminhos a seguir.<04e0>O primeiro vai te permitir criar um novo mundo.<03e0>No segundo serão declarados pelo Imperador e serão<03e0>perseguidos sem misericórdia pelos seus seguidores.<04e0>Qual dos dois caminhos vocês escolhem?
+Cuidado com o que diz, garoto!<03e0>Você se encontra diante de Lorde Qubine!
+É terrível vê-lo sofrendo assim...<03e0>Pobre Lorde Qubine, é tão valente!
+É terrível vê-lo sofrendo assim...<03e0>Pobre Lorde Qubine, é tão valente!<04e0>Será que existe algum curandeiro que possa nos ajudar?<03e0>
+O Duque ainda não está totalmente recuperado.<03e0>Diga o que tem para dizer e vá embora!
+Ainda que Athlum tenha conseguido sua independência,<03e0>isso não quer dizer que podem recorrer ao Duque para<03e0>pedir mais favores.<04e0>Não queriam independência? Então agora se virem!
+Se alguém descobre que você esteve aqui com o Duque,<03e0>é possível que acusem Sua Alteza de se juntar a sua<03e0>conspiração! Se já disse o que precisava, vá embora!
 

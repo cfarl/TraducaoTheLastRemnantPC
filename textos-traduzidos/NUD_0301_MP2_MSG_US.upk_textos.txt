@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NUD_0301_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend<03e0>Cancel: Release handle
-Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend
-Monsters stand in the way of the controls.
+Mover Personagem [Para Frente]: Levantar<03e0>Mover Personagem [Para Trás]: Abaixar<03e0>Cancelar: Soltar a alavanca
+Mover Personagem [Para Frente]: Levantar<03e0>Mover Personagem [Para Trás]: Abaixar
+Um grupo de monstros está bloqueando o caminho.
 

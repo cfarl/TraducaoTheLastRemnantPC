@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0270_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Oh hell<07f0>it's that psycho old man again!
-Huh? No way, it's someone different.
-Either way, let's kick his ass!
-What the hell is wrong with that old fart?<03e0>I can't believe he just up and killed our buds!
-He's after the sword, right? Hell, let's just let him try and<03e0>take it. Once he gets close enough, it'll take care of him,<03e0>heheh.
-You've got a point...<03e007f0>Hey! Who's there?
-Whoever you are, you're going down!
-So...<03e0>This is the famed blade...
-Hey! We've been after that blade for who knows how<03e0>long! Like we're gonna give it up that easy? Think again!
+Ah, droga... é aquele velho maluco de novo!
+Hã? Não pode ser, deve ser outra pessoa.
+Tanto faz, vamos chutar seu traseiro!
+Mas de onde saiu esse velho maluco? Não é possível<03e0>que ele tenha dado cabo dos nossos companheiros!
+Ele está atrás da espada, não está? Bem, vamos deixar<03e0>que tente pegá-la. Quando chegar perto o suficiente,<03e0>ela mesma irá cuidar dele, heheh.
+Não é uma má ideia...<03e0>Ei! Quem está aí?
+Seja quem for, você está prestes a morrer!
+Então... Essa é a famosa espada...<03e0>
+Ei! Estamos há muito tempo atrás dessa espada!<03e0>Você acha que vamos desistir dela assim tão fácil?
 Graghhh!
-Rrgh, dammit! Kill the old geezer!
-Who the hell're you? Stay outta this!
-Hahahahaha!<03e0>What tenacious will!<03e0>It overflows with the desire for blood!<04e0>Now...accept my bidding!
-N-no way! Th-that thing was cursed<07f0>anyone who<03e0>got near it died!
-Then I'll convince it to be mine!
-*chuckle* Holding back your power, hmm?<03e0>You underestimate me!
-Ridiculous!<03e0>No matter what, I will break you!
+Argh, maldição! Acabem com esse velho!
+Mas quem diabos é você? Não se meta nisso!
+Hahahahaha! Que vontade indomável!<03e0>Ela está querendo provar sangue!<03e0> <04e0>Vamos... aceite meu comando!
+N-não pode ser! Essa coisa estava amaldiçoada.<03e0>Todos que chegaram perto dela morreram!
+Então vou convencê-la para que me aceite!
+Hehehe... Não quer me dar seu poder, hmm?<03e0>Acho que você está me subestimando!
+Isso é ridículo!<03e0>Vou convencer você, custe o que custar!
 

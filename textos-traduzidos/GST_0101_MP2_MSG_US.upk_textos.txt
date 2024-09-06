@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) GST_0101_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Engraved at the top are the words<03e0>"Legend of the Desert."<03e0>Read the rest?<06e0000008e0000000000000>I love a good story.<09e008e0010000000300>I hate reading...
-All praise to Queen Flaumello IV,<03e0>gracious and all-knowing ruler of the glorious<03e0>Kingdom of Glenys.<04e0>Henceforth we leave the truth of an epic<03e0>saga of love and war as a remembrance for<03e0>those who live to read it.<04e0>Engraved into this tower is the tale of<03e0>1000 years ago.
+Na parte superior há uma inscrição que diz:<03e0>"A lenda do deserto". Quer continuar lendo?<03e0> <06e0000008e0000000000000>Sim, adoro uma boa história.<09e008e0010000000300>Não gosto muito de ler...
+Louvada seja a rainha Flaumello IV, a onisciente<03e0>e benevolente soberana do glorioso Reino de Glenys.<03e0> <04e0>Que esse relato sirva às gerações vindouras<03e0>como registro da verdadeira história da rainha<03e0>e sua trágica saga de amor e guerra.<04e0>Essa torre preservará para sempre a memória dos<03e0>acontecimentos que ocorreram há mil anos atrás.
 

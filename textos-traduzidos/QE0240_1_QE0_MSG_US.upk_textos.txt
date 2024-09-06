@@ -1,24 +1,24 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0240_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Young man...<03e0>Yes, you.<03e0>Come closer; I've a task to ask of you.
-Do you know the <1be0ffbe34ff>Catacombs<1ce0> in the nation of Elysion?<03e0>It's said they hold a treasure hundreds of years old.<04e0>The treasure is an ancient book, outlining the<03e0>forbidden process of how to bring back the dead.<04e0>Legend has it that the Forest Maidens were so<03e0>worried of the book's misuse that they sealed it<03e0>away, deep within the Catacombs.
-You see what I'm getting at? I'd appreciate your<03e0>discretion... To certain persons, this may seem<03e0>distressingly like grave robbery, I fear.<04e0>Both your participation and mine in this endeavor<03e0>would need to be kept secret.
-I realize it seems lower than low not to do the deed<03e0>myself, but... Were I to enter the Catacombs, I would<03e0>have to face...them.
-And I...I cannot. How could I face them, after<07f003e0>And they wail so loud, already, it's as if my head<03e0>would burst... It is too much for me to bear.<04e0>...That's why I need you to retrieve the Forbidden Tome.
-Certainly, you'll be amply rewarded. What do you say?<03e006e0000008e0000000000000>Alright...I'll get the book.<09e008e0010000000300>Sorry, I'm no tomb raider.
-Ohh! I'd hoped from the look of you that you'd<03e0>understand my need. You surpass even my<03e0>expectations.
-The Forbidden Tome is hidden deep within the<03e01be0ffbe34ff>Catacombs<1ce0>.<04e0>It's said that many fierce and fearsome beasts have<03e0>taken the area for their lairs... Be certain to stay on<03e0>your guard.
-...Perhaps you do not realize it, but my time is<03e0>short<07f0>and worth more than you can imagine.<04e0>Accept this task before I change my mind on<03e0>offering it to you. Believe me, that is something<03e0>you would soon regret.
-I've been waiting...too long. What's taken you so<03e0>long? Did you get the Forbidden Tome?
-What!?<03e0>The Forbidden Tome no longer exists!?
-Do not test my patience, boy! Without that book, it's all<03e0>wrong, all wrong... How am I to bring them back...!
-That...that picture!
-(What should I say?)<03e006e0000008e0000000000000>It's a squad of the Melphina Army.<09e008e0010000000000>Your men were worried...
-N-NOOOOOO!!!<03e0>Stop...please, stop!
-T-take this...take it and go!<03e0>I don't want to see that picture again, please...!<04e0>My head...the pain...
-That's absurd. Why do you say such things?
-You...you're back, yet empty-handed. Could you not<03e0>find the Tome? It should be in the <1be0ffbe34ff>western section<1ce0>.<06e0000008e0000000000000>West, huh? I'm on it!<09e008e0010000000300>I dunno about this...
-Excellent. Then hurry to the <1be0ffbe34ff>Catacombs<1ce0>!
-Do not toy with me, boy. Believe me that it would be<03e0>in your best interests to finish this task while I am still<03e0>in good humor.
+Meu Jovem... Sim, você. Venha aqui.<03e0>Tenho uma missão para você.<03e0>
+Já ouviu falar das <1be0ffbe34ff>Catacumbas<1ce0> de Elysion? Dizem que<03e0>lá existe um tesouro escondido há centenas de anos.<04e0>É um antigo manuscrito, cujas páginas descrevem um<03e0>método proibido que pode devolver a vida aos mortos.<04e0>Segundo diz a lenda as donzelas do bosque temiam que<03e0>alguém pudesse usá-lo para fins malignos, e por isso o<03e0>esconderam no interior das Catacumbas.
+Eu quero botar as mãos nesse livro, mas é melhor não<03e0>sair comentando isso por aí... Algumas pessoas podem<03e0>pensar que estamos profanando tumbas.<04e0>Para o bem de nós dois, é melhor que ninguém saiba de<03e0>nossas intenções.
+Você quer saber porque eu mesmo não faço isso? Bem...<03e0>O problema é que "eles" vivem nas Catacumbas. E para<03e0>fazer isso eu teria que encontrá-los...
+E eu... eu não consigo... Como posso olhar para eles?<03e0>Seus gritos ainda ressoam com tanta força que parece<03e0>que minha cabeça vai explodir. Não consigo suportar.<04e0>É por isso que preciso que me traga o Tomo Proibido.
+Você será muito bem recompensado. O que me diz?<03e006e0000008e0000000000000>Tudo bem... vou atrás do livro.<09e008e0010000000300>Sinto muito, não violo tumbas.
+Ahh! Eu sabia, pelo seu olhar, que você entenderia<03e0>a importância dessa tarefa. Fico contente em saber<03e0>que não me enganei a seu respeito.
+O Tomo Proibido pode ser encontrado no interior das<03e01be0ffbe34ff>Catacumbas<1ce0>.<04e0>Dizem que os túneis são habitados por criaturas muito<03e0>ferozes e terríveis... é bom tomar cuidado ali.<03e0>
+Talvez você não tenha percebido, mas sou uma pessoa<03e0>muito ocupada. Meu tempo é mais valioso do que pensa.<04e0>No seu lugar eu aceitaria essa missão antes que eu<03e0>mude de ideia e ofereça a outro. Acredite em mim,<03e0>isso é uma coisa do qual vai se arrepender depois.
+Já era hora... Já estava cansado de esperar.<03e0>Por que demorou tanto? Encontrou o Tomo Proibido?
+Como é???<03e0>O Tomo Proibido não existe mais?
+Não coloque minha paciência à prova, rapaz! Sem esse<03e0>livro não posso... Como vou trazê-los de volta?
+Esse... Esse retrato!
+(O que devo dizer?)<03e006e0000008e0000000000000>É um esquadrão do exército de Melphina.<09e008e0010000000000>Seus homens estavam preocupados com você...
+NÃÃÃOOOO!!!<03e0>Pare... Por favor, pare!
+F-fique com isso... fique e vá embora!<03e0>Não quero mais ver esse retrato, por favor...<04e0>Minha cabeça... parece que vai explodir...
+Por que está dizendo essas coisas? Isso é um absurdo.
+Você voltou... mas de mãos vazias. Não conseguiu<03e0>encontrar o Tomo? Ele deve estar na <1be0ffbe34ff>zona oeste<1ce0>.<06e0000008e0000000000000>Oeste, hã? Deixe comigo!<09e008e0010000000300>Não sei do que está falando.
+Excelente. Vá então para as <1be0ffbe34ff>Catacumbas<1ce0>, rápido!
+Não brinque comigo, garoto. Te aconselho a terminar<03e0>essa missão enquanto ainda estou de bom humor.<03e0>Digo isso para seu próprio bem.
 

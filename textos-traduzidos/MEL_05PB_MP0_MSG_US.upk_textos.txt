@@ -1,247 +1,247 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) MEL_05PB_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the Babbling Brook.
-Do you know the Forest Maiden Leticia?<03e0>She's as beautiful and delicate as a flower.<04e0>If only I could be her knight! I'd protect her for<03e0>as long as I live!<04e0>I would do anything to be able to talk to her.
-I had no idea that Neo had already claimed Leticia as<03e0>his maiden...<04e0>I joined the Order with Neo and I got to know him well.<03e0>He's a brave man with decent fighting skills.<04e0>But...I'm much better-looking! And if you're talking<03e0>muscles...there's no comparison, I totally blow him<03e0>away. I just can't understand it...<04e0>...Just...just leave me alone.
-You made such a valiant effort in the great battle on<03e0>the Malbourge Flatlands!<04e0>I was there, too. You really impressed me with the way<03e0>you were handling your sword.<04e0>Neo and Leticia?<03e0>Oh, I'm over that.<04e0>Watching you on the battlefield, I realized that I don't<03e0>need a woman<07f0>just being a strong warrior is<03e0>rewarding enough.<04e0>Thanks for cheering me up!
-I train every day to become a great knight.<03e0>I have yet to find the maiden for me, though.<04e0>I wonder if I'll ever find her...
-I was just in Cobalt Plaza, praying to the Blue Elf<03e0>for Meister Olebeag's quick recovery.<04e0>That's when I found my soul mate!<04e0>She had very beautiful eyes, filled with sincerity.<03e0>I haven't told her how I feel yet.<04e0>I hope that someday we can devote our lives to<03e0>each other and protect this town together.
-With the loss of the Blue Elf, people are worried about<03e0>the town's future. I went to the guild today to see if I<03e0>could help out somehow...<04e0>That's when I found my soul mate!<04e0>She had very beautiful eyes and was absolutely radiant!<03e0>Of course, I haven't actually spoken to her yet...<04e0>But I hope that someday we can devote our lives to<03e0>each other and protect this town together.
-Have you seen a white qsiti around these parts?<03e0>He was the leader and sole survivor of the brigade<03e0>that was eradicated in the Catacombs.<04e0>Lord knows where he is now.<03e0>I pray he's not up to anything foolish.
-Hmph.<04e0>I have no time for you.
-I hear you're the leader of this troupe.<04e0>Has it come down to this?<03e0>I, Leucetius, taking orders from a mitra child?<04e0>I volunteered only upon hearing of help needed<03e0>by Athlum's special forces.<03e0>I have no time for childish games.<04e0>I will show you who is a worthy leader, after I<03e0>"negotiate" with the generals.
-I have nothing to say to you.
-Th-that yama...<03e0>His strength...<04e0>...<04e0>Don't look at me like that.<03e0>I threw the match to allow him<03e0>to save face.<04e0>He's no worthy opponent of mine.<03e0>The other generals should make for<03e0>better opponents.
-Leave me alone.
-Th-that mitra...<03e0>Her flawless sword technique...<04e0>...<04e0>Don't look at me like that.<03e0>I threw the match.<03e0>I would never hurt a lady.<04e0>I need to go up against someone of higher<03e0>rank than the generals to get myself heard.
-Go away. Now.
-I-I can't stop shaking...<03e0>His intimidation is overwhelming...<04e0>...<04e0>...Rush, you know the marquis well,<03e0>don't you?<04e0>Then tell me this.<03e0>When he...his lord...glared at me, I couldn't<03e0>stop shaking.<04e0>How does a mitra who hasn't been around<03e0>for 20 years make others tremble in fear?<04e0>Is it a trait of a marquis?<03e0>Or perhaps something acquired by being<03e0>the owner of the extraordinary Gae Bolg?<04e0>...Whatever the case, Rush, I owe you<03e0>an apology. You are a worthy leader if<03e0>you can control such mighty warriors.<04e0>If you ever need a hand, don't<03e0>hesitate to ask.
-Have you come to me for help?<04e0>Don't be shy.
-The barkeep is my mentor.<03e0>I strive to be like him someday!
-Then quit yapping and start working!
-I hear the wife of Celapaleis's Baron Nielsen<03e0>has run off. No surprise there.<03e0>Everyone knows they fight like cats and dogs.
-What's that about?
-You haven't heard?<03e0>The marriage between the Gilles-Barre girl<03e0>and the Baron was arranged.
-You know everything!
-It seems someone's out to assassinate<03e0>Duke Qubine. A suspicious woman was<03e0>spotted in the area.
-What's that about?
-You haven't heard?<03e0>Well, the Duke of Qubine is one smart fellow.<03e0>He'll be fine.
-You know everything!
-The princess of a desert kingdom is in<03e0>love and sneaks out of the castle frequently.
-What's that about?
-You haven't heard?<03e0>She's secretly meeting up with a polite,<03e0>chivalrous warrior. Good for her.
-You know everything!
-The princess from the desert kingdom<03e0>eloped with her love.
-What's that about?
-You haven't heard?<03e0>The duchess<07f0>her mother<07f0>was adamant they break<03e0>it off. I hope they patch things up.
-You know everything!
-The conflict between Balterossa and<03e0>Royotia is getting worse by the day!<03e0>Everyone thinks a war is inevitable.
-What's that about?
-You haven't heard?<03e0>Royotia is forced to pay a fee to Balterossa<03e0>to sell their goods in other lands.
-You know everything!
-People are saying that in a certain moor,<03e0>the Imperator used his powers to seal<03e0>the entranceway to another realm.
-What's that about?
-You haven't heard?<03e0>The Imperator defeated and sealed<03e0>every dangerous thing in the world.
-You know everything!
-Any Forest Maiden that vows eternity<03e0>with a Melphinian knight gains the power of<03e0>seeing and hearing whatever her partner does.
-What's that about?
-Don't you know?<03e0>A knight and a Maiden vow a life<03e0>of chastity together.
-You know everything!
-I hear something happened to the Last<03e0>Leaf in Crookfen. The Forest Maidens and<03e0>the knights of Melphina are taking action.
-What's that about?
-Don't you know? There are folks conducting<03e0>secret business all over the world.<03e0>Something like this doesn't surprise me.
-You know everything!
-It's almost time for Kosmosfest but<03e0>apparently, the Cosmos Maiden hasn't arrived yet.
-What's that about?
-Don't you know? Only the maiden can<03e0>start off Kosmosfest.<03e0>I'm kinda worried about this year's girl...
-You know everything!
-The Cosmos Maiden has made it to the festival and<03e0>the fun is about to begin. Too bad the tranquil<03e0>event is always ruined by monsters.
-What's that about?
-Don't you know? Kosmosfest is a ritual<03e0>to pray for peace throughout the land.<03e0>The monsters don't like peace. Simple as that.
-You know everything!
-An old-fashioned woman is looking for<03e0>a bodyguard. She's waiting in the pub in the town<03e0>with the canals.
-What's that about?
-You haven't heard? No one knows<03e0>where she's from or who she is.<03e0>She just talks about revenge.
-You know everything!
-The treasures from different lands passed along<03e0>to the holy city have been stolen and are<03e0>being sold on the black market!
-What's that about?
-Don't you know? The holy city's not what<03e0>it used to be. Now it just struggles to<03e0>hang on to the glory of its past.
-You know everything!
-Someone is looking for the three valuable<03e0>stones of the desert that details its past.
-What's that about?
-Don't you know? The desert has a long history.<03e0>There are some who they've even seen<03e0>the legendary tower.
-You know everything!
-A scientist is seeking an assistant to help<03e0>him with research regarding ancient magick.
-What's that about?
-Don't you know? There used to be an art known as<03e0>magick, long ago. But that's not like the spells<03e0>we use today.
-You know everything!
-A horrible monster sealed by the Imperator<03e0>long ago, has been resurrected!
-What's that about?
-Don't you know? The Imperator banished<03e0>evil beings long ago. Some were even<03e0>powerful enough to destroy the world.
-You know everything!
-A man with amnesia is searching for<03e0>something he lost in the desert.<03e0>Maybe he's looking for his memory.
-What's that about?
-You haven't heard?<03e0>He's roaming around looking for anything<03e0>that'll trigger a memory.
-You know everything!
-A notorious bandit is lurking around Athlum.<03e0>Rumor has it, he's waiting for someone.
-What's that about?
-Don't you know? Loki is a ruthless bandit.<03e0>No one had seen him around lately, though.<03e0>Until now.
-You know everything!
-Someone is searching for the statue in<03e0>the Robelia Ruins that supposedly lets one<03e0>reunite with someone far away.
-What's that about?
-Don't you know?<03e0>Think of Robelia's past and its downfall.<03e0>It'll come to you.
-You know everything!
-There was a murder in the big city and<03e0>the assailant is still on the loose!
-What's that about?
-You haven't heard? He slaughters anyone<03e0>who comes close, so no one has been<03e0>able to capture him yet.
-You know everything!
-A large yama is searching for something<03e0>he's lost. He's acting rather odd...
-What's that about?
-You haven't heard? Yamas are fairly<03e0>large beings, but this yama is even<03e0>bigger beyond that.
-You know everything!
-A white qsiti has been seen rummaging<03e0>through books written about magick.<03e0>Some say he looks familiar.
-What's that about?
-You haven't heard?<03e0>Do you remember the white qsiti<03e0>who used to be in our troupe?
-You know everything!
-Rumor's been going around about these<03e0>skilled mercenaries. They're twins and<03e0>they're girls and they're cute!
-What's that about?
-You don't know? They're famous<07f003e0>cute and skilled! But it seems like<03e0>they haven't been taking on jobs lately.
-You know everything!
-Some fellow is hosting a game in<03e0>the Great Sand Sea. I wonder how<03e0>many people are up to the task.
-What's that about?
-You haven't heard?<03e0>I think he's doing it out of boredom, if anything.
-You know everything!
-An old warrior is searching for a certain sword.<03e0>He's crossing the Great Sand Sea to find<03e0>what he's looking for.
-What's that about?
-You haven't heard?<03e0>He's out searching for something of<03e0>great strength to protect his lord with.
-You know everything!
-The lord of Ghor cares about each and every<03e0>soldier that works under him.
-What's that about?
-Don't you know?<03e0>Their lord is all about duty and sentiment.
-You know everything!
-The Honeywell clan serves Athlum well<03e0>and the residents trust and respect them.
-What's that about?
-You haven't heard?<03e0>The Honeywells give the word "respect"<03e0>a whole new meaning.
-You know everything!
-Apparently, Torgal of the Athlum generals<03e0>is touchy about his past.
-What's that about?
-You haven't heard? Well, he IS a sovani<03e0>and has lived much longer than us.<03e0>I'm not surprised he has things to hide.
-You know everything!
-The Tournament of Heroes is about to commence!
-What's that about?
-Don't you know? Your team fights<03e0>opposing monster teams for the crown.<03e0>Takes a lot of teamwork.
-You know everything!
-Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things.
-What's that about?
-Don't you know? I hear some general<03e0>is also a graduate.
-You know everything!
-Athlum's had its share of hard times.<03e0>Hopefully, the Honeywell girl will be able<03e0>to live up to her mother.
-What's that about?
-Don't you know? The Honeywells have<03e0>been serving Athlum for generations.<03e0>Now it's the girl's turn.
-You know everything!
-A lady was overheard saying the Marquis<03e0>of Athlum was too young and attractive<03e0>not to have a lady in his life.
-What's that about?
-Don't you know? Athlum's great at<03e0>hiding information.<03e0>I'm sure he has a secret lady friend.
-You know everything!
-The ex-director of the Academy has been<03e0>spotted at pubs in different cities.
-What's that about?
-You haven't heard?<03e0>She's probably just doing some research<03e0>or something.
-You know everything!
-Dr. Sykes is making frequent trips to<03e0>Athlum Castle lately.
-What's that about?
-Don't you know? She's got a lot of<03e0>knowledge when it comes to Remnants.<03e0>She's probably doing some research.
-You know everything!
-A monster was spotted flying around Wyrmskeep.<03e0>The residents are worried about what might happen<03e0>next.
-What's that about?
-Haven't you heard?<03e0>There's also been sightings of an orange-<03e0>colored light there as well.
-You know everything!
-A vicious female warrior is hunting down the goons<03e0>responsible for the incident at the moor. Her captain<03e0>isn't liking this at all.
-What's that about?
-You haven't heard? She and another<03e0>soldier practically begged their captain<03e0>to let them handle this case.
-You know everything!
-A mob of ferocious monsters was spotted<03e0>in the Great Sand Sea. They're so overwhelming,<03e0>the armies are starting to worry.
-What's that about?
-You haven't heard? The monsters are<03e0>putting up quite a fight. It's only a matter of<03e0>time before they get past our defenses.
-You know everything!
-Archaeologists say that in the depths of<03e0>the volcano, there's power that can destroy an entire city!
-What's that about?
-You haven't heard? I don't know how<03e0>much truth his words hold, though.<03e0>I hear they get their "facts" from folklore.
-You know everything!
-There are no ways to research the dangers<03e0>hidden inside volcanoes, but lords have their ways<03e0>of finding things out<07f0>no matter how impossible.
-What's that about?
-Don't you know? Lords can get their<03e0>hands on anything, which includes<03e0>any information they need.
-You know everything!
-There's a lordless town somewhere.<03e0>His two sons are currently fighting for the position.
-What's that about?
-Haven't you heard? The brothers<03e0>fighting for the lord's position are<03e0>two no-good imbeciles. The city is done for.
-You know everything!
-If you listen closely, you can hear<03e0>crying coming from the depths of<03e0>the Great Sand Sea.
-What's that about?
-Don't you know?<03e0>This is something that was discovered<03e0>fairly recently.
-You know everything!
-Long ago, a hero wandered the Great Sand Sea.
-What's that about?
-You haven't heard? Hmmm.<03e0>I wonder if bringing back the Hero<03e0>means bringing back the beast, too.
-You know everything!
-If you examine the pillars in the Great Sand Sea,<03e0>rumor has it that ghosts appear.
-What's that about?
-Don't you know? There are letters<03e0>carved into the pillar. I think it's some<03e0>sort of message.
-You know everything!
-There's a man who calls himself a scientist<03e0>in Melphina who people avoid because<03e0>he's not all there.
-What's that about?
-Don't you know?<03e0>He's right over there.
-You know everything!
-Desert bugs keep flying into some pub by the desert.<03e0>The owner is harried and desperate for someone<03e0>to help him out.
-What's that about?
-Don't you know?<03e0>Very rarely, these bugs spawn massively.<03e0>He should call an exterminator.
-You know everything!
-Since the incident, Nagapur's become real<03e0>dangerous. There's lots of crime, especially<03e0>the kidnapping of young kids.
-What's that about?
-Don't you know?<03e0>It's a serious problem, but thankfully there<03e0>are a lot of people working to solve it.
-You know everything!
-A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures.<03e0>But no one does that anymore.
-What's that about?
-Don't you know? People used to do this all<03e0>the time. There were a few problems, though,<03e0>but I guess that's to be expected with bartering.
-You know everything!
-Balterossa is the sole buyer of all of<03e0>Royotia's trade goods and some of the merchants<03e0>aren't very happy about it...
-What's that about?
-You haven't heard? It's a bad situation.<03e0>Balterossa will do something to turn it around,<03e0>though. They have their ways.
-You know everything!
-A yamaan mercenary is looking for people to<03e0>help him out. He probably found a job too big<03e0>to handle alone.
-What's that about?
-Haven't you heard?<03e0>Apparently, he carries out his tasks well<03e0>with discretion and conviction.
-You know everything!
-There's a man in Celapaleis who's nice<03e0>one second, but angry the next.<03e0>Some girls like that, for some reason...
-What's that about?
-Haven't you heard?<03e0>He's a young man who cares a lot<03e0>about his older sister.
-You know everything!
-There's a qsiti who stands in the middle<03e0>of busy streets, glaring at anyone<03e0>who bumps into him.
-What's that about?
-Haven't you heard?<03e0>He's probably not all bad. I'm sure there's<03e0>a reason behind his actions.
-You know everything!
-There's a mysterious lady in need of help.<03e0>She looks like she has the weight of the world<03e0>on her shoulders.
-What's that about?
-Don't you know? Some people are<03e0>destined for great things in life<07f003e0>things that may even burden them.
-You know everything!
-There were a bunch of Bloody Alice soldiers<03e0>at the moor. It looked like they were<03e0>getting ready to do something big.
-What's that about?
-Don't you know?<03e0>They're a group of female bandits<03e0>seen thieving all over the world.
-You know everything!
-The Jhana are now causing trouble in<03e0>the Great Sand Sea. Apparently, not even<03e0>the Gae Bolg can teach them a lesson.
-What's that about?
-You haven't heard? The Athlumian army just<03e0>finished showing them who's boss at Yamarn Plain.
-You know everything!
-The Silver Falcons are going to rid<03e0>the area of the Jhana.
-What's that about?
-Don't you know? They're an armed group<03e0>fighting for justice all around the world.
-You know everything!
-The Silver Falcons are going to get<03e0>rid of what's left of the Conqueror's army.
-What's that about?
-Don't you know? The Conqueror's army<03e0>is just a bunch of soldiers pledging their<03e0>loyalty out of self-satisfaction.
-You know everything!
-A gloomy-looking man frequents the pub<03e0>in Elysion. He's creeping out the customers.
-What's that about?
-Don't you know? There are a lot<03e0>of intricate links in this world.<03e0>Everything is connected for a purpose.
-You know everything!
+Bem-vindo ao Riacho Sussurrante.
+Você conhece Letícia, a donzela do bosque? Ela é tão<03e0>bonita e delicada como uma flor silvestre.<04e0>Quem me dera se pudesse ser seu cavaleiro! Eu iria<03e0>protegê-la até que a morte nos separasse!<04e0>Eu daria qualquer coisa para falar com ela...
+Eu não fazia ideia de que Neo já havia pedido para<03e0>Leticia se tornar sua donzela...<04e0>Nós entramos juntos na Ordem, e por isso sei que ele<03e0>é valente e tem boas habilidades de combate.<04e0>Mas veja... sou muito melhor que ele! Em se tratando<03e0>de músculos... não tem comparação, ele não chega nos<03e0>meus pés. Sabe... não consigo entender...<04e0>Eu... só me deixe a sós, por favor.
+Você fez um belo trabalho nas Planícies de Malbourge!<03e0> <04e0>Sim, eu estava lá. E fiquei impressionado ao ver como<03e0>você faz uso da sua espada.<04e0>Como? O assunto de Neo e Leticia?<03e0>Ah, tudo bem, já superei essa questão.<04e0>Quando vi você lutando no campo de batalha, descobri<03e0>que não preciso de uma mulher. Ser um bom guerreiro<03e0>já é suficiente para mim.<04e0>Obrigado por me ajudar a enxergar isso!
+Treino todo dia para me tornar um grande cavaleiro.<03e0>Mas ainda preciso encontrar uma donzela para mim.<04e0>Será que algum dia irei encontrá-la?
+Eu estava na Praça do Cobalto rezando para a Lágrima<03e0>Azul, e pedindo pela recuperação de mestra Olebeag.<04e0>Foi quando encontrei minha alma gêmea!<04e0>Ela tinha olhos lindos, cheios de sinceridade... Mas<03e0>ainda não revelei a ela meus sentimentos.<04e0>Espero que algum dia possamos dedicar nossas vidas um<03e0>ao outro, para juntos protegermos essa cidade.
+Desde o dia em que perdemos a Lágrima Azul, as pessoas<03e0>andam preocupadas com o futuro da cidade. Por isso vim<03e0>até a guilda para ver se poderia ajudar com algo.<04e0>Foi quando dei de cara com minha alma gêmea!<04e0>Ela tinha olhos lindos e sua beleza resplandecia....<03e0>Mas ainda não disse a ela o que sinto...<04e0>Espero que algum dia possamos dedicar nossas vidas um<03e0>ao outro, para juntos protegermos essa cidade.
+Você viu por aí um qsiti albino? Ele era o líder de<03e0>um grupo que foi exterminado nas Catacumbas, e foi o<03e0>único que sobreviveu.<04e0>Ninguém sabe onde foi que ele se meteu. Espero que<03e0>não cometa nenhuma tolice.
+Hmph.<04e0>Sinto muito, não tenho tempo para você.
+Ouvi dizer que você é o líder desse grupo.<04e0>Como foi que as coisas puderam chegar a esse ponto?<03e0>Eu, Leucetius, recebendo ordens de um garoto mitra?<04e0>Me alistei porque ouvi dizer que as forças especiais<03e0>de Athlum estavam precisando de ajuda. Mas não tenho<03e0>tempo para cuidar de crianças.<04e0>Vou ensinar a você o que é ser um líder de verdade,<03e0>depois que tiver "conversado" com os generais.
+Não tenho nada para dizer a você.
+Esse... Esse yama... Sua força é descomunal...<03e0> <04e0>...<04e0>Ei, não me olhe com essa cara. Eu só o deixei vencer<03e0>para que não fosse humilhado em público.<03e0> <04e0>Ele não é um oponente digno de mim.<03e0>Os outros generais devem ser melhores que ele.<03e0>
+Me deixe sozinho.
+Essa... Essa garota mitra... Sua técnica de esgrima é<03e0>simplesmente impecável...<04e0>...<04e0>Ei, não me olhe com essa cara. Eu deixei ela vencer.<03e0>Eu nunca machucaria uma dama.<03e0> <04e0>Preciso enfrentar alguém com uma posição mais alta<03e0>que a dos generais para conseguir que me escutem.
+Suma da minha vista. Agora.
+Eu... Eu não consigo parar de tremer... Seu olhar é<03e0>simplesmente estremecedor...<04e0>...<04e0>Rush, você conhece bem o marquês, não conhece?<03e0> <04e0>Então me diga uma coisa. Quando ele... Sua Alteza...<03e0>me olhou diretamente nos olhos, comecei a tremer sem<03e0>parar, de forma incontrolável.<04e0>Como é possível que um mitra que não tem sequer vinte<03e0>anos faça alguém tremer só de vê-lo?<04e0>Esse é algum poder próprio dos marquêses? Ou será que<03e0>é porque ele tem ao seu serviço um remanescente tão<03e0>extraordinário como o Gae Bolg?<04e0>Seja como for, Rush, acho que devo a você um pedido<03e0>de desculpas. Você deve ser um grande líder, para<03e0>ter ao seu comando guerreiros tão poderosos.<04e0>Se algum dia precisar de uma mão, não pense duas<03e0>vezes antes de pedir minha ajuda.
+Você veio pedir a minha ajuda?<04e0>Não seja tímido.
+O taverneiro é meu mentor. Um dia vou ser como ele!<03e0>
+Então deixe de conversa fiada e comece a trabalhar!
+Parece que a esposa do barão Nielsen, de Celapaleis,<03e0>fugiu de casa de novo. Mas isso não é mais nenhuma<03e0>novidade, todos sabem que os dois não se dão bem.
+Como assim?
+Você não ficou sabendo? O casamento entre o Barão e<03e0>a garota Gilles-Barre foi arranjado.<03e0>
+Você sabe de tudo!
+Ouvi dizer que alguém está planejando assassinar o<03e0>duque de Qubine. Viram uma mulher suspeita seguindo<03e0>seus passos.
+Como assim?
+Você não ficou sabendo? Bem, o Duque de Qubine é um<03e0>sujeito esperto. Ele vai ficar bem.<03e0>
+Você sabe de tudo!
+Ouvi dizer que a princesa do deserto está apaixonada<03e0>e foge do castelo com frequência para ver seu amado.
+Como assim?
+Você não ficou sabendo? Ela está se encontrando em<03e0>segredo com um guerreiro cortês e cavalheiro. Fico<03e0>feliz por ela...
+Você sabe de tudo!
+A princesa do deserto fugiu com seu amado!<03e0>
+Como assim?
+Você não ficou sabendo? Sua mãe, a duquesa, queria<03e0>que eles terminassem o relacionamento. Tomara que<03e0>façam as pazes...
+Você sabe de tudo!
+O conflito entre Balterossa e Royotia está ficando<03e0>pior a cada dia que passa. Todos estão dizendo que<03e0>a guerra é inevitável.
+Como assim?
+Você não ficou sabendo? Tudo isso é porque Royotia<03e0>precisa pagar Balterossa para vender seus produtos<03e0>em outras terras.
+Você sabe de tudo!
+As pessoas estão dizendo que o primeiro Imperador<03e0>celestial encontrou um portal para outra dimensão<03e0>em um pântano e usou seus poderes para fechá-lo.
+Como assim?
+Você não ficou sabendo? O primeiro Imperador derrotou<03e0>e aprisionou todas as coisas perigosas que encontrou<03e0>pelo mundo.
+Você sabe de tudo!
+Dizem que quando uma Donzela do Bosque se une em<03e0>juramento a um cavaleiro de Melphina, ela recebe o<03e0>poder de ver e ouvir tudo aquilo que ele faz.
+Como assim?
+Você não ficou sabendo? Um cavaleiro e uma donzela<03e0>fazem seus votos, prometendo viver juntos uma vida<03e0>inteira de castidade.
+Você sabe de tudo!
+Ouvi dizer que aconteceu alguma coisa com a Folha<03e0>Caída em Crookfen. As Donzelas do Bosque, junto<03e0>dos cavaleiros de Melphina, já estão investigando.
+Como assim?
+Você não ficou sabendo? Há muitos grupos secretos no<03e0>mundo que poderiam estar por trás disso. Esse tipo de<03e0>coisa não me surpreende.
+Você sabe de tudo!
+Já está quase na hora da Festa Cósmica começar, mas a<03e0>Donzela Cósmica ainda não chegou em Nagapur.
+Como assim?
+Você não ficou sabendo? Somente a donzela pode fazer<03e0>a abertura da Festa Cósmica. Estou meio preocupado<03e0>com a garota desse ano...
+Você sabe de tudo!
+No final, a Donzela Cósmica conseguiu chegar a tempo<03e0>e o festival teve início, conforme previsto. Até que<03e0>apareceram os monstros, como sempre...
+Como assim?
+Você não ficou sabendo? A Festa Cósmica é um ritual<03e0>para pedir pela paz em todo o mundo. E os monstros<03e0>não gostam de paz. Simples assim.
+Você sabe de tudo!
+Uma dama apegada a tradições está querendo contratar<03e0>um guarda-costas. Dizem que ela pode ser encontrada<03e0>na taverna de uma cidade cheia de canais.
+Como assim?
+Você não ficou sabendo? Ninguém sabe quem ela é, nem<03e0>de onde vem. Mas ela só fala de vingança.<03e0>
+Você sabe de tudo!
+Parece que os tesouros da cidade sagrada foram parar<03e0>na mão de contrabandistas, e agora estão à venda no<03e0>mercado negro.
+Como assim?
+Você não ficou sabendo? A cidade sagrada não é mais<03e0>a mesma. Ela agora luta para se agarrar à glória de<03e0>tempos passados.
+Você sabe de tudo!
+Há um homem por aí que anda em busca de três pedras<03e0>que contam a história do antigo reino do deserto.
+Como assim?
+Você não ficou sabendo? O deserto possui uma longa<03e0>história. E existem pessoas que dizem já ter visto<03e0>a torre mencionada nas lendas.
+Você sabe de tudo!
+Um cientista está em busca de um assistente que possa<03e0>ajudá-lo em uma pesquisa sobre a magia arcana.
+Como assim?
+Você não ficou sabendo? Antigamente existia uma arte<03e0>conhecida como magia arcana. Ela não tem nada a ver<03e0>com os feitiços que são usados hoje em dia.
+Você sabe de tudo!
+Parece que está de volta um monstro que havia sido<03e0>aprisionado pelo primeiro Imperador Celestial!
+Como assim?
+Você não ficou sabendo? O primeiro Imperador acabou<03e0>com todos monstros que havia naquele tempo. Alguns<03e0>deles poderiam ter destruído o mundo.
+Você sabe de tudo!
+Um homem com amnésia está vagando pelas cidades do<03e0>deserto, em busca de algo que perdeu ali. Pode ser que<03e0>esteja procurando suas lembranças.
+Como assim?
+Você não ficou sabendo? Ele está vagando por aí em<03e0>busca de coisas que possam ajudar a recuperar sua<03e0>memória.
+Você sabe de tudo!
+Um bandido famoso foi visto nos arredores de Athlum.<03e0>As pessoas estão dizendo que está esperando alguém.
+Como assim?
+Você não ficou sabendo? Se trata de Loki, um bandido<03e0>cruel. Fazia tempo que ninguém o via por aqui...<03e0>Bem, pelo menos até agora.
+Você sabe de tudo!
+Nas Ruínas de Robélia há uma estátua que te permite<03e0>encontrar qualquer pessoa no mundo, esteja ela onde<03e0>estiver. Um rapaz está perguntando por ela...
+Como assim?
+Você não ficou sabendo? Tente se lembrar do passado<03e0>de Robélia, e da sua queda. Tenho certeza que vai<03e0>conseguir se lembrar.
+Você sabe de tudo!
+Houve um assassinato na grande cidade...<03e0>E o culpado ainda continua solto!
+Como assim?
+Você não ficou sabendo? Ele mata todos aqueles que<03e0>chegam perto, por isso ninguém conseguiu capturá-lo<03e0>até agora.
+Você sabe de tudo!
+Um yama enorme está procurando uma coisa que perdeu.<03e0>Mas dizem que ele se comporta de forma estranha...
+Como assim?
+Você não ficou sabendo? Os yamas são bem grandes, mas<03e0>esse yama é grande até mesmo para o padrão deles.<03e0>
+Você sabe de tudo!
+Parece que um qsiti albino anda perguntando sobre<03e0>livros que falam da magia arcana. Algumas pessoas<03e0>estão dizendo que ele parece familiar.
+Como assim?
+Você ainda não se deu conta? Não se lembra mais do<03e0>qsiti albino que fazia parte da nossa tropa?<03e0>
+Você sabe de tudo!
+Há um par de mercenárias que está dando muito o que<03e0>falar. Elas são gêmeas, são jovens e são lindas!<03e0>
+Como assim?
+Você não ficou sabendo? Elas são muito famosas... E<03e0>são tão bonitas quanto habilidosas em combate! Mas<03e0>pensei que já não estavam mais trabalhando...
+Você sabe de tudo!
+Um homem está organizando um tipo de jogo no Grande<03e0>Mar de Areia. Será que vai encontrar muitas pessoas<03e0>dispostas a participar disso?
+Como assim?
+Você não ficou sabendo? Acho que ele só está fazendo<03e0>isso porque está entediado.
+Você sabe de tudo!
+Dizem que um velho guerreiro percorreu o mundo todo<03e0>em busca de uma espada especial. Ele atravessou até<03e0>mesmo o Grande Mar de Areia tentando encontrá-la.
+Como assim?
+Você não ficou sabendo? Ele está procurando uma arma<03e0>de grande poder para proteger seu senhor.<03e0>
+Você sabe de tudo!
+O duque de Ghor se preocupa com cada um dos soldados<03e0>que trabalham para ele.
+Como assim?
+Você não ficou sabendo? Ele é o melhor chefe que<03e0>alguém poderia ter.
+Você sabe de tudo!
+A família Honeywell já fez muitas coisas por Athlum.<03e0>Ela tem o respeito e a confiança do seu povo.
+Como assim?
+Você não ficou sabendo? Os Honeywells deram um novo<03e0>significado à palavra "respeito".<03e0>
+Você sabe de tudo!
+As pessoas estão dizendo que Torgal, um general de<03e0>Athlum, raramente fala sobre seu passado.
+Como assim?
+Você não ficou sabendo? Ele é um sovani, e já viveu<03e0>muito mais tempo que nós. Não estou surpreso porque<03e0>tem coisas a esconder.
+Você sabe de tudo!
+O Torneio dos Heróis está prestes a começar!
+Como assim?
+Você não ficou sabendo? Cada equipe deve enfrentar<03e0>vários grupos de monstros para vencer o torneio. É<03e0>necessário um grande trabalho em equipe...
+Você sabe de tudo!
+Dizem que a Academia de Artes Místicas é uma escola<03e0>famosa e seus alunos realizam grandes feitos.
+Como assim?
+Você não ficou sabendo?<03e0>Ouvi dizer que um general muito famoso estudou ali.
+Você sabe de tudo!
+Athlum já teve sua cota de problemas. Tomara que a<03e0>garota Honeywell seja capaz de fazer seu trabalho<03e0>tão bem como fazia sua mãe.
+Como assim?
+Você não ficou sabendo? Durante muitas gerações os<03e0>Honeywells tem estado à serviço de Athlum. Agora é<03e0>a vez dessa garota.
+Você sabe de tudo!
+Muitas garotas estão se perguntando como é possível<03e0>que o Marquês de Athlum não tenha uma mulher na sua<03e0>vida. Isso ninguém consegue explicar.
+Como assim?
+Você não ficou sabendo? Em Athlum eles não costumam<03e0>deixar tudo às claras. Tenho certeza de que ele tem<03e0>alguma amiga secreta...
+Você sabe de tudo!
+Dizem que a antiga diretora da Academia anda vagando<03e0>de cidade em cidade visitando tavernas...
+Como assim?
+Você não ficou sabendo? Ela provavelmente deve estar<03e0>fazendo alguma pesquisa, ou coisa parecida.<03e0>
+Você sabe de tudo!
+A doutora Sykes tem ido com freqüência ao Castelo de<03e0>Athlum, nos últimos tempos.
+Como assim?
+Você não ficou sabendo? Ela sabe muito a respeito dos<03e0>Remanescentes. Deve estar fazendo alguma pesquisa.<03e0>
+Você sabe de tudo!
+Um monstro foi avistado nos céus de ForteDragão.<03e0>Os habitantes da região estão preocupados com o que<03e0>possa acontecer em seguida...
+Como assim?
+Você não ficou sabendo? Foram também avistadas luzes<03e0>de cor laranja no local.<03e0>
+Você sabe de tudo!
+Uma guerreira com sede de justiça está caçando aqueles<03e0>homens responsáveis pelo incidente no pântano, mas<03e0>está indo contra as ordens do líder da sua ordem.
+Como assim?
+Você não ficou sabendo? Parece que ela e um cavaleiro<03e0>suplicaram ao seu comandante para que ele os deixasse<03e0>cuidar do assunto.
+Você sabe de tudo!
+Dizem que há uma horda de monstros ferozes rondando<03e0>o Grande Mar de Areia. Nem mesmo o exército sabe o<03e0>que fazer com eles.
+Como assim?
+Você não ficou sabendo? Os monstros estão causando<03e0>muitos problemas. É apenas questão de tempo até que<03e0>atravessem nossas defesas.
+Você sabe de tudo!
+Segundo historiadores, nas profundezas de um vulcão<03e0>existe um ser capaz de destruir uma cidade inteira!
+Como assim?
+Você não ficou sabendo? Não sei se devemos confiar<03e0>naquilo que dizem, para ser sincero. Ouvi dizer que<03e0>suas conclusões são baseadas em lendas.
+Você sabe de tudo!
+Ninguém sabe que perigos se escondem no interior de<03e0>um vulcão. Mas os lordes têm recursos para descobrir<03e0>essas coisas, por mais difícil que pareça.
+Como assim?
+Você não ficou sabendo? Os Lordes podem conseguir<03e0>qualquer coisa, e isso inclui qualquer informação<03e0>que precisarem.
+Você sabe de tudo!
+Existe por aí uma cidade sem senhor. Seus dois filhos<03e0>estão brigando pelo posto do seu pai.
+Como assim?
+Você não ficou sabendo? Os irmãos que estão brigando<03e0>pelo posto do pai não passam de uma dupla de imbecis.<03e0>A cidade já era.
+Você sabe de tudo!
+Dizem que, se você prestar bastante atenção, poderá<03e0>ouvir um lamento triste e solitário procedendo das<03e0>profundezas do Grande Mar de Areia.
+Como assim?
+Você não ficou sabendo? Isso é algo que descobriram<03e0>bem recentemente.<03e0>
+Você sabe de tudo!
+Há tempos atrás um herói vagava pelo Mar de Areia.
+Como assim?
+Você não ficou sabendo? Hmmm. Fico me perguntando se<03e0>trazer o herói de volta também não vai trazer junto<03e0>com ele aquele monstro.
+Você sabe de tudo!
+As pessoas dizem que se você falar com um pilar no<03e0>Grande Mar de Areia aparecerão fantasmas.
+Como assim?
+Você não ficou sabendo? Existem letras gravadas nos<03e0>pilares. Parece que é algum tipo de mensagem.<03e0>
+Você sabe de tudo!
+Há um homem em Melphina que afirma ser um cientista,<03e0>mas as pessoas não chegam muito perto porque dizem<03e0>que ele não é muito bom das ideias.
+Como assim?
+Você não ficou sabendo? Pois ele está bem ali.<03e0>
+Você sabe de tudo!
+Dizem que há uma taverna, em uma cidade do deserto,<03e0>que está infestada de insetos. O dono do lugar está<03e0>desesperado em busca de ajuda.
+Como assim?
+Você não ficou sabendo? Algumas vezes esses insetos<03e0>aparecem em massa. Deviam chamar um exterminador.<03e0>
+Você sabe de tudo!
+Desde aquele incidente, Nagapur se tornou um lugar<03e0>muito perigoso. Há muita criminalidade, e dizem que<03e0>muitos meninos e meninas estão desaparecidos.
+Como assim?
+Você não ficou sabendo? Esse é um problema sério, mas<03e0>felizmente há muita gente trabalhando para resolver.<03e0>
+Você sabe de tudo!
+Antigamente as pessoas de Royotia tinham como hábito<03e0>trocar os tesouros que encontravam nas suas viagens.<03e0>Mas hoje em dia ninguém mais faz isso.
+Como assim?
+Você não ficou sabendo? Isso era bastante comum...<03e0>Às vezes aconteciam problemas, é claro, mas isso já<03e0>era esperado com as trocas.
+Você sabe de tudo!
+Todas mercadorias produzidas em Royotia passam por<03e0>Balterossa. Os comerciantes não estão nem um pouco<03e0>satisfeitos com essa situação.
+Como assim?
+Você não ficou sabendo? A coisa está ficando feia, mas<03e0>Balterossa deverá fazer algo para resolver a situação.<03e0>Eles sabem lidar com esse tipo de problema...
+Você sabe de tudo!
+Dizem que um mercenário yama está em busca de ajuda.<03e0>Parece que ele pegou um trabalho grande demais para<03e0>ser feito sem ajuda.
+Como assim?
+Você não ficou sabendo? Parece que ele leva a cabo<03e0>suas missões com bastante seriedade e discrição.<03e0>
+Você sabe de tudo!
+Há um rapaz em Celapaleis que num momento é gentil,<03e0>mas do nada fica mal humorado. Há garotas que gostam<03e0>disso, não sei porque...
+Como assim?
+Você não ficou sabendo? Parece que se trata de um<03e0>jovem que se preocupa muito com a irmã mais velha.<03e0>
+Você sabe de tudo!
+Tem um qsiti que costuma ficar bem no meio de ruas<03e0>bastante movimentadas para ficar olhando com ódio<03e0>todos aqueles que esbarram nele.
+Como assim?
+Você não ficou sabendo? Não acho que ele faça isso<03e0>por maldade. Deve haver alguma razão para ele agir<03e0>assim dessa maneira.
+Você sabe de tudo!
+Outro dia vi uma mulher pra lá de misteriosa. Parecia<03e0>que ela carregava o peso do mundo nas suas costas.<03e0>
+Como assim?
+Você não ficou sabendo? Existem pessoas destinadas a<03e0>grandes coisas nessa vida... E às vezes essas coisas<03e0>podem se tornar um fardo para elas.
+Você sabe de tudo!
+Há um grupo de Damas Sangrentas nos pântanos. Parece<03e0>que estão se preparando para algo importante.<03e0>
+Como assim?
+Você não ficou sabendo? Elas são um grupo de bandidas<03e0>que andam por aí se apropriando de tesouros alheios.<03e0>
+Você sabe de tudo!
+Parece que os jhanas voltaram a causar problemas no<03e0>Grande Mar de Areia! Nem o Gae Bolg pôde detê-los.<03e0>
+Como assim?
+Você não ficou sabendo? O exército de Athlum lutou<03e0>contra eles na Planície de Yamarn.
+Você sabe de tudo!
+Os Falcões Prateados estão indo acabar com todos os<03e0>jhanas da região.
+Como assim?
+Você não ficou sabendo? Eles são um grupo de soldados<03e0>que luta pela justiça ao redor do mundo.
+Você sabe de tudo!
+Os Falcões Prateados estão indo atrás do que restou<03e0>do exército do Conquistador.
+Como assim?
+Você não ficou sabendo? O exército do Conquistador<03e0>não passa de um grupo de soldados que se uniu à sua<03e0>causa só para ver o que conseguia em troca.
+Você sabe de tudo!
+Um homem de aparência sombria está deixando todos<03e0>na taverna de Elysion deprimidos com seus lamentos.
+Como assim?
+Você não ficou sabendo? Muitas coisas estão de alguma<03e0>forma relacionadas entre si nesse mundo. Todas coisas<03e0>estão conectadas de acordo com um propósito.
+Você sabe de tudo!
 

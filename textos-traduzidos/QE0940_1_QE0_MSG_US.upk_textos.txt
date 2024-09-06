@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0940_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I can't find my little sister anywhere! And she<03e0>knows she ain't big enough to go anywhere by<03e0>herself...<04e0>But I been all over town... I dunno what else to<03e0>do. An' I sure can't trust some stupid adult to<03e0>help! But you, you ain't so old...<04e0>Please, you gotta help me find my sister!<03e0>She's all I got left!<06e0000008e0000000000000>Don't worry<07f0>I'll find her!<09e008e0010000000000>Ask the city guard.
-Thanks a million!<04e0>So there's this Oswald geezer, an' he knows,<03e0>like, everythin' about Nagapur! I bet he could<03e0>help! I'll stay here in case she comes back...
+Não consigo encontrar a minha irmã em canto nenhum!<03e0>Ela sabe que ainda é pequena demais para poder ficar<03e0>andando sozinha por aí...<04e0>Já procurei na cidade toda, não sei mais o que fazer.<03e0>Não confio em nenhum adulto idiota para me ajudar!<03e0>Mas você... Você não é tão velho assim...<04e0>Por favor, me ajude a encontrar minha irmãzinha!<03e0>Ela é a única família que me resta!<06e0000008e0000000000000>Calma, eu vou encontrá-la!<09e008e0010000000000>Peça para um guarda.
+Muito obrigado!<04e0>Então, tem esse velhote chamado Oswald, e ele sabe,<03e0>tipo, tudo sobre Nagapur! Tenho certeza que ele pode<03e0>nos ajudar! Vou ficar aqui para o caso dela voltar...
 ...
-Hey, didja find my li'l sis?
-Oh... No luck, huh...<04e0>But there's that old guy, Oswald. Did you ask<03e0>him? He knows everythin' about the city, so<03e0>he might know about this too!
-You got my sister back!<03e0>I really owe you, mister!
-Well done, Rush Sykes. Here's a little<03e0>something to show my appreciation.
-This should bring Nagapur back into balance.<03e0>Hmm, it seems that even this old man can still<03e0>be of use to someone...
+Ei, você encontrou minha irmãzinha?
+Ah... Não teve sorte, hã...<04e0>Mas tem aquele velhote, Oswald. Você chegou a falar<03e0>com ele? Ele sabe tudo que acontece na cidade, então<03e0>deve estar sabendo de algo sobre minha irmã!
+Você encontrou a minha irmã!<03e0>Eu fico te devendo uma, sério!
+Muito bem, Rush Sykes. Aqui está uma pequena<03e0>recompensa para mostrar minha gratidão.
+Agora Nagapur deve voltar à normalidade.<03e0>Hmm, parece que até mesmo um velho como<03e0>eu ainda pode ser útil a alguém...
 

@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) BAR_05GN_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Chee!<03e0>I think I've seen something I shouldn't have...!<04e0>You seem the curious type, but curiosity killed<03e0>the qsiti<07f0>almost, anyhow! Who'd have thought<03e0>such a thing lurked in the Yvalock's Nest?<04e0>To begin with, all the Yvalocks were supposed<03e0>to have been wiped out ages ago! But what I<03e0>met in that cave was far from dead...<04e0>Waaah, I won't be sleeping a wink tonight!
-He-llo... So, you crossed the Vale of the Gods all by<03e0>your lonesome? You must be stronger than you look.<04e0>The legend 'round here is that the gods created the<03e0>split in the mountain range to invite mortals to come<03e0>to the area.<04e0>'Course, if I were a god, I'd just invite a bunch<03e0>of hot guys... Heheh.
+Minha nossa!<03e0>Acho que vi algo que não deveria ter visto...<04e0>Você parece ser do tipo curioso, mas lembre-se... a<03e0>curiosidade matou o qsiti! Quem poderia dizer que<03e0>essa coisa estava se escondendo no ninho de Ivalock?<04e0>Para começar, acreditava-se que todos da sua espécie<03e0>haviam sido extintos há séculos! Mas posso garantir<03e0>que aquilo que vi na caverna estava bem vivo...<04e0>Ahhh, não vou conseguir pregar o olho essa noite!
+Olá... Hã, você atravessou sozinho o Vale dos Deuses?<03e0>Pelo visto é bem mais forte do que aparenta.<04e0>Segundo dizem por aqui, os deuses criaram esse lugar<03e0>entre as montanhas como um convite aos mortais para<03e0>se instalarem na região.<04e0>Mas é claro, se eu fosse uma deusa, convidaria apenas<03e0>os homens mais atraentes... Hehehe.
 

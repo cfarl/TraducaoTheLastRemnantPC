@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0390_4_QE0_MSG
 -- ----------------------------------------------------------------------------------
-You're here!<03e0>Are you ready for me to open the doors?<06e0000008e0000000000000>Sure am!<09e008e0010000000300>I need a second.
-That's what I like to hear.
-Alright, but we have to do this quickly.
+Aí está você... Posso abrir a porta?<03e0> <06e0000008e0000000000000>Claro que sim!<09e008e0010000000300>Só preciso de um segundo...
+É isso o que eu queria ouvir.
+Tudo bem, mas lembre-se que precisamos nos apressar.
 

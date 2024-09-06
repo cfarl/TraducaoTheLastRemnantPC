@@ -1,18 +1,18 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0330_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I've been waiting for you.
-Fellow soldier.<03e0>Make your way to the farthest room.<03e0>That is where I shall wait.<04e0>The elevation devices now function<03e0>properly. They will help save your strength<03e0>for when we duel.
-You've finally arrived, Emma Honeywell.<03e0>Let's begin.
-Hm?<03e0>You seem very young, child. Do you claim to be<03e0>Emma Honeywell, the head of the Honeywell clan?
-I am Emma Honeywell II.<03e0>I bring with me my mother's sword as<03e0>proof of my heritage.
-Hrmph.<03e0>I had my sights set on fighting a real<03e0>soldier, not some child...
-I understand your disappointment.<04e0>However, you must see me fight before<03e0>deeming me an unworthy opponent.
-I like your spirit.<03e0>Then let us begin!
-Grah...!<03e0>Y-you are much stronger than you<03e0>appear to be...
-I fought a fair battle.<03e0>I have yet to live up to becoming one<03e0>worthy of wielding this sword.
-I still have a long journey ahead.
-Oh?<04e0>Hahaha!<03e0>You are young and yet so sensible.<03e0>The future looks bright for you.
-You can find me in Virtus Parish<03e0>in Athlum. My fellow mercenaries and<03e0>I will be there if you need anything.
-Thank you, Warrior Yerva.<03e0>It is an honor to be rewarded with<03e0>such an opportunity.
+Estava esperando por você.
+Camarada soldado, vá até a sala mais afastada.<03e0>Vou estar aguardando ali.<03e0> <04e0>Os elevadores já estão funcionando corretamente.<03e0>Assim poderá guardar suas forças para o duelo.<03e0>
+Por fim está aqui, Emma Honeywell...<03e0>Vamos começar.
+Hã? Você parece ser muito jovem, garota.<03e0>Você é Emma Honeywell, a matriarca do clã Honeywell?<03e0>
+Sou Emma Honeywell II. E trago comigo a espada<03e0>da minha mãe, como prova da minha linhagem.<03e0>
+Hrmph. Meu plano era enfrentar um soldado<03e0>de verdade, não uma garota...<03e0>
+Compreendo sua decepção.<04e0>No entanto, você deveria me ver lutar antes<03e0>de dizer se sou ou não uma oponente digna.
+Gosto da sua atitude, garota.<03e0>Pois bem... Então vamos começar!
+Aaagh... Você é muito mais forte do que parece...<03e0> <03e0>
+Lutei de forma digna. Mas ainda preciso percorrer<03e0>um longo caminho para ser merecedora dessa espada.<03e0>
+Ainda tenho muito que aprender.
+Oh?<04e0>Hahaha! Você é tão jovem e tão sensata...<03e0>Tem um futuro brilhante pela frente, garota.<03e0>
+Se precisar de ajuda, meus amigos mercenários e eu<03e0>estaremos em Athlum, no Bairro de Virtus. Avise-nos<03e0>se pudermos dar uma mão.
+Muito obrigada, Yerva.<03e0>É uma honra poder contar com sua ajuda.<03e0>
 

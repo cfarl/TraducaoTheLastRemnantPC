@@ -1,30 +1,30 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0070_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I am Roberto, commander of an order of<03e0>knights in this region, the Order of Melphina.<04e0>From your bearing, I see you must be an<03e0>accomplished adventurer. With that the case,<03e0>I would make a request of you.
-To the northwest of this town lies the cursed<03e0>bog, <1be0ffbe34ff>Crookfen<1ce0>. For long years its evil has been<03e0>sealed by a Remnant.<04e0>Yet of late, the Remnant's seal fails, siring<03e0>monsters from the flow of dark power.
-At once, we of the Order sent scouts to examine<03e0>the seal. None have yet returned.<04e0>Would that I could add others to the search, but<03e0>the town must be defended, and we have no<03e0>men to spare.
-So, I ask you<07f0>would you come with me to<03e0>Crookfen and restore the broken seal?<06e0000008e0000000000000>Sure, I'll help out!<09e008e0010000000300>Uhh, can I think about it?
-Ohh! To see such a fine and just youth...! You<03e0>honor me with your cooperation.<04e0>Let us head to <1be0ffbe34ff>Crookfen<1ce0> with haste.
-No<07f0>you have no need to apologize. I knew the<03e0>folly of such an unreasonable request from the<03e0>start.<04e0>That said, if time bids you change your mind,<03e0>let me know.
-Ophelia, calm yourself. Do not forget the place<03e0>of a knight of the Order of Melphina.
-Ophelia. The Order is meant to be the<03e0>country's shield, not its blade.<04e0>If you were to abandon the people at a time like<03e0>this, who would protect them?
-Life must always be your top priority. Our duty<03e0>now is to find our lost men without further<03e0>delay. This is no time for vengeance.
-Ah, Master Sykes. Forgive me.<04e0>This is my subcommander, Ophelia.<03e0>Please excuse our indiscretions just now.
-See? Master Sykes agrees.<04e0>Ophelia... With all that's happened, I certainly<03e0>understand your feelings. But this is not the<03e0>time to let passions rule our judgment.
-Hmm... Certainly, Master Sykes's opinion does<03e0>have merit...
-Oh, yes!<04e0>Master Sykes, take this as a token of our gratitude.
-Now we must find our lost knights.<03e0>Truly, where could they be?
-Commander, we've waited and waited, but there<03e0>has yet to be any word from our lost men.<04e0>While we've worried about the seal, fiends have<03e0>plotted against us, right under our noses...
-But, Commander!<03e0>A group of suspicious characters dressed in<03e0>black was seen leaving Crookfen!
-At your leave, I shall depart at once to arrest<03e0>the blackguards and bring them to justice!<03e0>Their evil deeds must be brought to light!
-But...!
+Eu sou Roberto, comandante da Ordem de Melphina,<03e0>um grupo de cavaleiros que protege essa região.<04e0>A julgar pela sua aparência, penso que você deve ser<03e0>um aventureiro bastante competente. Por isso, tenho<03e0>um pedido para te fazer.
+Ao noroeste dessa cidade se encontra um pântano<03e0>amaldiçoado, <1be0ffbe34ff>Crookfen<1ce0>. Durante muitos anos, um<03e0>remanescente conteve o mal que nele habita.<04e0>No entanto, seu poder foi diminuindo, e ultimamente<03e0>tem aparecido criaturas monstruosas por todo lado.
+Nós, da Ordem, enviamos uma patrulha para examinar<03e0>a barreira. Mas até agora ela não retornou.<04e0>Gostaria de poder enviar mais homens em sua busca,<03e0>mas a cidade precisa ser protegida, e não podemos<03e0>abrir mão de mais guerreiros.
+Você estaria disposto a me acompanhar até Crookfen<03e0>para restaurar a barreira?<06e0000008e0000000000000>Claro, irei ajudar!<09e008e0010000000300>Uhh, posso pensar no assunto?
+Ohhh! Vai ser uma honra contar com a ajuda de um<03e0>jovem com tanto senso de justiça!<04e0>Vamos logo para <1be0ffbe34ff>Crookfen<1ce0>. Não temos tempo a perder.
+Tudo bem, você não precisa se desculpar. Entendo que<03e0>é ousadia da minha parte fazer semelhante petição.<03e0> <04e0>No entanto, se mudar de ideia e decidir nos ajudar,<03e0>ficarei grato se trouxer isso ao meu conhecimento.
+Ophelia, tenha calma. Não se esqueça de como deve<03e0>se comportar um cavaleiro da Ordem de Melphina.
+Ophelia... A Ordem é um escudo, não uma espada.<03e0> <04e0>Quem iria defender nosso povo se decidíssemos<03e0>abandoná-los em um momento como esse?
+Nossa maior prioridade é salvar vidas. Devemos partir<03e0>em busca de nossos homens sem mais demora. Não é<03e0>hora de pensarmos em vingança.
+Ah, Mestre Sykes. Me desculpe.<04e0>Essa é minha subcomandante, Ophelia.<03e0>Por favor, perdoe nossa indiscrição.
+Está vendo? Mestre Sykes está de acordo.<04e0>Ophelia... Compreendo que esteja furiosa com tudo que<03e0>aconteceu. Mas não podemos deixar que emoções guiem<03e0>nosso julgamento das coisas.
+Hmm... Sem dúvida, a opinião de mestre Sykes não pode<03e0>ser desconsiderada...
+Ah, sim!<04e0>Mestre Sykes, aceite isso como agradecimento...
+Agora precisamos encontrar nossos homens.<03e0>Mas... onde eles poderiam estar?
+Comandante, há muito tempo estamos esperando,<03e0>mas ainda não tivemos notícias dos nossos homens.<04e0>Enquanto estávamos ocupados com a barreira, alguém<03e0>estava conspirando contra nós.
+Comandante... Um grupo de homens suspeitos, vestidos<03e0>de preto, foi visto saindo de Crookfen!<03e0>
+Com sua permissão, Comandante, partirei agora mesmo<03e0>para encontrar aqueles canalhas e levá-los à justiça!<03e0>Eles devem ser punidos pelos seus atos!
+Mas...
 ...
-Exactly! Any miscreants who think they can<03e0>deceive the people of Melphina should be<03e0>shown no quarter!
-Any miscreants who think they can deceive the<03e0>people of Melphina will receive no mercy!
-(Looks like they want me to say something...)<03e006e0000008e0000000000000>Saving lives is job #1.<09e008e0010000000000>Don't let them get away!
-Welcome to our town. It is small and remote,<03e0>but for academic or mystic studies, there is no<03e0>better place on the continent.
-I trust Roberto more than anyone in the world.<03e0>I'd vouch for his skill with a blade with my life.
-Roberto. This issue can be discussed further at<03e0>a later time. For now, let us be grateful for<03e0>young Sykes's assistance in restoring the seal.
-Valiant youth...<03e0>I too express my gratitude.
+Isso! Está na hora de mostrar para esses malfeitores que<03e0>não haverá piedade para aqueles que ousarem ameaçar<03e0>o povo de Melphina!
+Vamos mostrar a esses miseráveis que não há piedade<03e0>para aqueles que ameaçam o povo de Melphina!
+(Parece que eles querem que eu diga alguma coisa...)<03e006e0000008e0000000000000>Salvar vidas vem primeiro.<09e008e0010000000000>Não deixem eles escaparem!
+Bem-vindo à nossa cidade. Ela é pequena e afastada,<03e0>mas não há lugar melhor no mundo para os estudos<03e0>místicos e científicos.
+Confio em Roberto mais do que tudo nesse mundo.<03e0>Confiaria minha vida na sua habilidade com a espada.
+Roberto, é melhor deixarmos esse assunto para outro<03e0>momento. Agora, devemos agradecer ao jovem Sykes<03e0>pela sua ajuda na restauração da barreira.
+Ah, a valentia da juventude...<03e0>Permita-me também expressar minha gratidão.
 

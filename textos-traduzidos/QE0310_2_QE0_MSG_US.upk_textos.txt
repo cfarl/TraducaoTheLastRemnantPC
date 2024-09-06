@@ -1,19 +1,19 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0310_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-And now, ladies and gentlemen, the moment you've all<03e0>been waiting for! The Tournament of Heroes is on!<04e0>Who will be the band of warriors that makes it through<03e0>all three tiers to earn the title of Heroes Exemplar?
-So, let's get to the first round!<04e0>Entering the arena is...<03e0>Oho, new challengers!<03e0>Hailing from far-off Athlum, Team Blocter!!!
-They'll be facing the Wild Dragon!<03e0>This is a tough challenge for the first round.<03e0>Is Team Blocter up to it?
-Looks pretty strong...<03e0>Should actually be a worthwhile fight!<03e0>Let's do it!
-Welcome again, ladies and gents, to the stage of history!<03e0>It's time for our second round to commence!<04e0>Our next challenger is...the force from up north,<03e0>Athlum's Team Blocter! They performed well enough<03e0>in round one, but was it luck or skill?
-They'll be facing the Ferocious Lion!<03e0>The battles here are beginning to heat up, folks!
-And finally, we near the end of this tourney of<03e0>tourneys... Soon we'll learn who will gain glory<03e0>and honor, and who will go home in disgrace!
-And now the final challengers enter the arena!<03e0>And they are...<04e0>Oho! Defying the odds, blasting past our admittedly<03e0>low expectations of them, it's the Wrathlums from<03e0>Athlum, Team Blocter!!!<04e0>They'll be facing the bane<07f0>and end<07f0>of<03e0>many a would-be hero's existence...<03e0>The Hero Slayer!<04e0>If they can take it out, Team Blocter will walk away as<03e0>heroes! But if they can't...they won't be walking away at<03e0>all!
-Whoa, that's a nasty one... Let's see how it holds up<03e0>against the burning soul of Athlum! Come on, Rush!<03e0>Let's show 'em what we got!
-Haw haw haw!<03e0>Those guys couldn't hold a candle to us!
-Alright, let's go back and get ready for the next round.
-We<07f0>we won!<03e0>WHOOOOOOOOOOOOOP!!!
-The victor is Team Blocter!<03e0>I can't wait to see how they perform in their next match!
-And the winner, by a mile, is Team Blocter!<03e0>Folks, I don't know about you, but I can't wait<03e0>to watch their next match!
-I can't believe my eyes!<04e0>Team Blocter, the underdogs of the tournament,<03e0>have proved themselves worthy of the crown!<04e0>The title of Hero Exemplar will be awarded to<03e0>these warriors of Athlum!<03e0>Congratulations!
+E agora, senhoras e senhores, é chegado o momento que<03e0>todos esperavam! O Torneio dos Heróis vai começar!<04e0>Quais desses guerreiros conseguirão superar os três<03e0>desafios para se tornarem os novos Heróis da Lenda?
+Então, vamos à primeira rodada!<04e0>Nossos primeiros participantes são... Oras, são novos<03e0>desafiantes! Da distante Athlum, a Equipe Blocter!!!<03e0>
+Eles irão enfrentar o terrível Dragão Selvagem!<03e0>Um desafio formidável para a primeira rodada.<03e0>Será que a Equipe Blocter está preparada?
+Ele parece bem forte... Isso vai ser interessante!<03e0>Vamos lá, Rush!<03e0>
+Senhoras e senhores, sejam bem-vindos de volta ao<03e0>torneio! É hora de começar nossa segunda rodada!<04e0>O próximo desafiante é... a força que vem do Norte,<03e0>a equipe Blocter de Athlum! Eles se saíram bem na<03e0>primeira rodada, será que foi sorte ou habilidade?
+Agora eles irão enfrentar o perigoso Leão Feroz!<03e0>As batalhas estão começando a esquentar, pessoal!
+E finalmente, queridos expectadores, chegamos ao fim<03e0>desse grande torneio. Quem vai conseguir a honra e a<03e0>glória, e quem voltará para casa de mãos vazias?
+E agora os últimos desafiantes entram na arena!<03e0>E eles são...<04e0>Aha! Contrariando todas as probabilidades, e apesar<03e0>das baixas expectativas que haviam despertado, são<03e0>os guerreiros de Athlum: a Equipe Blocter!!!<04e0>Eles irão enfrentar a perdição de muitos que queriam<03e0>ser campeões... O Assassino de Heróis!<03e0> <04e0>Se conseguirem derrotá-lo, a Equipe Blocter deixará a<03e0>arena com o título! Mas se falharem... eles não irão<03e0>sobreviver para contar essa história!
+Whoa, esse parece perigoso... Vamos ver se é capaz de<03e0>aguentar o ardor guerreiro de Athlum! É agora, Rush!<03e0>Vamos mostrar a eles do que somos capazes!
+He he he! Aqueles monstros não eram páreos para nós!<03e0>
+Certo, vamos nos preparar para a próxima rodada.
+Nós... nós vencemos!<03e0>HURAAAAAA!!!
+E o grande vencedor é.... a equipe Blocter!!!<03e0>Mal posso esperar a próxima rodada!
+E o vencedor, por unanimidade, é a Equipe Blocter!<03e0>Senhores, não sei vocês, mas mal posso esperar<03e0>para ver o que acontecerá na próxima rodada!
+Não consigo acreditar no que estou vendo!<04e0>A Equipe Blocter, a revelação do torneio, provou ser<03e0>merecedora do grande prêmio!<04e0>Esses guerreiros de Athlum conquistaram com grande<03e0>determinação o título de Heróis da Lenda... Parabéns!<03e0>
 

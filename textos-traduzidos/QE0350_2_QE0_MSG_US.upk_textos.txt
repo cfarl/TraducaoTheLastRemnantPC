@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0350_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Oh, hello, Rush.<03e0>What luck, to run into you here!<04e0>I've seen a simply brilliant Remnant in Crookfen,<03e0>to the northeast<07f0>the Last Leaf. Its power keeps<03e0>the evil of the swamp sealed.<04e0>Without the power of the Remnant, Melphina<03e0>would be completely overrun with monsters.<04e0>Truly, Remnants are essential for our very survival!
+Oh, olá, Rush.<03e0>Mas que sorte, encontrar você por aqui!<04e0>Vi um remanescente espetacular na região de Crookfen,<03e0>ao nordeste daqui: a Folha Caída. Seu poder mantém<03e0>aprisionadas as forças do mal do pântano.<04e0>Se não fosse por esse remanescente, Melphina estaria<03e0>completamente à mercê dos monstros.<04e0>Remanescentes são cruciais para nossa sobrevivência!
 

@@ -1,16 +1,16 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1020_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Yes, I am Alyssa of Baaluk. Who are you to ask?
-Hmm... So you're looking to trade for the<03e0>Ring of Morning Calm, are you?<04e0>Well, I'm sorry to say, after ending up with a<03e0>false treasure map, I believe I'm finished with<03e0>the practice of item trading.<04e0>However, I would allow you to purchase it for<03e0>10,000G.<06e01900>sEVENT_PRICE_QE1020_P_030<08e0000000000000>Fine... I'll pay.<09e008e0010000000300>Overpriced much?
-Your business is appreciated...as is your coin.<04e0>And you were tasked to get this by a man<03e0>named...Rainn?<03e0>I see...
-Sorry, it seems you're a bit...short.
-Then, you will not get the Ring. I believe I told<03e0>you I'd had my fill of this barter system.
-A treasure map?
-You mean, that false map to the Imperator's<03e0>treasure? It was nothing but a child's doodle.<04e0>Beauson, that bastard... He knowingly traded<03e0>me that piece of garbage<07f0>he'll pay for that!
-Where is the map now?
-I don't know about you, child, but I throw<03e0>garbage away.<04e0>It's probably fallen around here somewhere.
-Oh? He returned the Irised Stone?<04e0>Mmm... You can keep it. I received it in a<03e0>trade myself. I really have no need of it.<04e0>While you're at it, take this Ring of Morning<03e0>Calm. I sold it to you, and yet somehow it's<03e0>come back into my possession.
-Do you need something?
-So, a "Rainn" requested this?<03e0>Curious...
+Sim, sou Alyssa de Baaluk. E você, quem é?
+Hmm... Então você está atrás do<03e0>Anel do Amanhecer, não é mesmo?<04e0>Bem, lamento dizer isso, mas desde que me enganaram<03e0>com um falso mapa de tesouro, acabei abandonando<03e0>essa prática de trocar tesouros.<04e0>No entanto, posso vender o anel por<03e0>10.000G.<06e01900>sEVENT_PRICE_QE1020_P_030<08e0000000000000>Tudo bem... Eu pago.<09e008e0010000000300>Não está muito caro?
+Muito obrigada pela confiança... e pelo dinheiro.<04e0>Você disse que um homem chamado Rainn<03e0>te encomendou essa tarefa?<03e0>Entendo...
+Sinto muito, parece que você está um pouco... liso.
+Então você não pode levar o Anel. Já te disse<03e0>que não estou mais fazendo esse negócio de trocas.
+O mapa de um tesouro?
+Você se refere àquele falso mapa do tesouro do<03e0>primeiro Imperador celestial? Eram apenas rabiscos.<04e0>Beauson, aquele patife... Ele sabia muito bem<03e0>que aquilo não valia nada. Ele vai pagar por isso!
+Onde está o mapa agora?
+Não sei você, garoto, mas eu tenho o costume<03e0>de jogar o lixo fora.<04e0>Talvez ele esteja jogado por aí, em algum lugar.
+Ah? Ele te devolveu a Pedra Irisada?<04e0>Mmm... Você pode ficar com ela. Eu a consegui em<03e0>outra troca, não preciso dela.<04e0>E já que está aqui, pegue de volta o Anel do<03e0>Amanhecer. Eu me lembro de tê-lo vendido a você, mas<03e0>não sei como acabou voltando para minhas mãos.
+Você precisa de alguma coisa?
+Então um tal de "Rainn" te pediu isso?<03e0>Curioso...
 

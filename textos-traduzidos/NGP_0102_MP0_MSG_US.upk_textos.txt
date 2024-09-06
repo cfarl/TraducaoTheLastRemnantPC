@@ -1,32 +1,32 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) NGP_0102_MP0_MSG
 -- ----------------------------------------------------------------------------------
-You came here to get away from the hustle and bustle<03e0>of Nordenalm, huh? Welcome to <1be0ffbe34ff>Sudenalm<1ce0>!<04e0>The town square is richly green.<03e0>It's where folks gather to take<03e0>a breather.<04e0>They sell Nagapur goodies, too!
-Things seem so peaceful. It's hard<03e0>to believe there's a war going on.<04e0>Why don't you go and browse the souvenir<03e0>shops out back and enjoy the town?
+Você veio aqui para fugir da confusão e agitação de<03e0>Nordenalm, não foi? Seja bem-vindo a <1be0ffbe34ff>Sudenalm<1ce0>!<04e0>A praça central tem jardins magníficos. Ali é o lugar<03e0>onde as pessoas vão para poder relaxar um pouco...<03e0> <04e0>E há também lojas que vendem produtos de Nagapur!
+As coisas parecem tão tranquilas...<03e0>É difícil acreditar que estamos em guerra.<04e0>Por que você não aproveita para dar uma olhada nas<03e0>lojas de lembranças e passeia um pouco pela cidade?
 Message 3
 Message 4
-This is a nice, quiet meeting place.<04e0>The streets of Nordenalm are so busy!<04e0>Because of all the shops, merchants and<03e0>soldiers are clomping around all day!<04e0>They're so loud!
-Where is he?<03e0>He was supposed to be here ages ago.<04e0>But he's not one to break promises, so<03e0>I trust he'll show up.<04e0>Maybe we should have picked a better<03e0>spot to meet.
+Esse é um lugar muito tranquilo, ideal para relaxar.<04e0>As ruas de Nordenalm são tão movimentadas!<04e0>Por causa das lojas, aquele lugar está sempre cheio<03e0>de mercadores e soldados!<04e0>Eles são tão barulhentos!
+Mas onde foi que ele se meteu?<03e0>Já deveria estar aqui há séculos!<04e0>Sei que ele não é de quebrar promessas, por isso tenho<03e0>certeza de que vai acabar aparecendo.<04e0>Talvez devêssemos ter escolhido um lugar melhor<03e0>para nos encontrarmos...
 Message 3
 Message 4
-These canals are used to ship this cargo<03e0>here to different locations.<04e0>The trade business has improved since<03e0>Wilfred Hermeien became lord.<03e0>My days are busy, busy, busy!<04e0>The previous lord couldn't have pulled<03e0>the town THIS far.<03e0>He did seem like a kind man, though.<04e0>On a seperate note, I've been hearing<03e0>rumors of an army advancing from<03e0>the west... Scary times, these are.
-I heard from a merchant friend of mine that<03e0>the Conqueror is just inches away from here!<03e0>What is war good for, anyway?
+Esses canais são usados para enviar mercadorias<03e0>daqui para diferentes regiões.<04e0>A verdade é que o comércio melhorou muito desde que<03e0>Wilfred Hermeien assumiu o comando. Pode acreditar<03e0>em mim, trabalho é o que não me falta!<04e0>Com o antigo governador nunca teríamos chegado aqui.<03e0>Mas tenho que reconhecer... Ele era um bom homem...<03e0> <04e0>Enfim... Mudando totalmente de assunto, ouvi dizer<03e0>que um exército está se aproximando pelo Oeste...<03e0>Esses são mesmo tempos sombrios...
+Um mercador me disse que o Conquistador está quase<03e0>aqui. Droga, só nos faltava uma guerra, não é mesmo?<03e0>
 Message 3
 Message 4
-You are Rush Sykes, I presume.<03e0>I am Oswald.<04e0>Marina was right<07f0>you have her eyes, filled with<03e0>goodness and justice.<04e0>You need not worry about her. She is about, gathering<03e0>information to help you on your journey.<04e0>She was here until just a moment ago.<04e0>...<04e0>I realize it is hard to trust my words, but I know all about<03e0>you, Marina, and your sister Irina.<04e0>When the time is right, I will tell you all there is to know.
-Your mother was right.<03e0>You have the same eyes, filled with goodness and justice.
-Hello, Rush Sykes.<03e0>I have something to share with you.<04e0>Did you know that there is more than one way to enter<03e0>Wyrmskeep? In addition to the boat, it can be infiltrated<03e0>from the waterway beneath <1be0ffbe34ff>Sudenalm<1ce007f0>the <1be0ffbe34ff>Aqueducts<1ce0>.<04e0>Forget not this information, for it may come in handy<03e0>someday.
-Hello, son.<03e0>I have something to share with you.<04e0>Did you know that there is more than one way to enter<03e0>Wyrmskeep? In addition to the boat, it can be infiltrated<03e0>from the waterway beneath <1be0ffbe34ff>Sudenalm<1ce007f0>the <1be0ffbe34ff>Aqueducts<1ce0>.<04e0>Ohoho, I see you are suspicious... There is no need for<03e0>that. Instead, remember what I've told you. It may come<03e0>in handy someday.
-Marina was a bright young girl.<03e0>She learned the Remnant theory in<03e0>mere seconds.<04e0>Granted... To this day, I have doubts<03e0>as to whether that was a positive<03e0>thing...<04e0>Rush Sykes, you must save your sister.<04e0>Marina deserves to be with her family<03e0>again<07f0>with you and your sister<03e0>and your father.
-You have your mother's eyes<07f003e0>filled with good and justice.
-Welcome back.<04e0>Have you finished walking around town?<06e0000008e0000000000000>Yup, saw everything.<09e008e0010000000300>Nope, not yet.
-Alright, come with me then.
-Alright.<03e0>Keep at it. Come to me when you've<03e0>finished.
-Are you ready to enter the <1be0ffbe34ff>Aqueducts<1ce0>?<06e0000008e0000000000000>Ready steady!<09e008e0010000000300>I need a sec.
-Alright. Let's go!
-This is Lord Hermeien's territory.<03e0>We must prepare ourselves for a long battle.<04e0>We'll leave as soon as we are ready.
-Rush! Miss Irina is being held in the audience chamber<03e0>of Wyrmskeep!<04e0>These stairs will take us down to the <1be0ffbe34ff>Aqueducts<1ce0>, and<03e0>we can take them all the way through to the castle.<04e0>Lord David is waiting. Please hurry.
-Taking the Aqueducts will allow us to enter<03e0>Wyrmskeep with minimal fighting.
-An old man familiar with this town gave me directions<03e0>to the Aqueducts.<04e0>He reminds me of someone... But I can't quite put my<03e0>finger on who.
-Miss Irina is right up here!<03e0>Come on, let's go bust some heads!
+Então você é Rush Sykes.<03e0>Eu sou Oswald.<04e0>Marina tinha razão. Você tem seus mesmos olhos,<03e0>cheios de bondade e senso de justiça.<04e0>Não se preocupe com sua mãe. Ela não está distante,<03e0>está buscando informações que possam te ajudar.<04e0>Ela estava aqui agora a pouco.<04e0>...<04e0>Sei que é difícil acreditar no que estou dizendo,<03e0>mas sei tudo sobre você, Marina e sua irmã Irina.<04e0>Na hora certa contarei tudo que precisa saber.
+Sua mãe tinha razão. Você tem seus mesmos olhos,<03e0>cheios de bondade e senso de justiça.
+Olá, Rush Sykes.<03e0>Tenho algo para dizer a você.<04e0>Você sabia que há mais de uma maneira de entrar em<03e0>ForteDragão? É possível seguir pela rede de canais<03e0>subterrâneos embaixo de <1be0ffbe34ff>Sudenalm<1ce0>, os <1be0ffbe34ff>Aquedutos<1ce0>.<04e0>Não esqueça disso, essa informação poderá ser útil<03e0>algum dia.
+Olá, garoto. Preciso te contar uma coisa.<03e0> <04e0>Você sabia que existe uma outra maneira de entrar em<03e0>ForteDragão? É possível chegar lá pela rede de canais<03e0>subterrâneos abaixo de <1be0ffbe34ff>Sudenalm<1ce0>, os <1be0ffbe34ff>Aquedutos<1ce0>.<04e0>Ohoho, vejo que está desconfiando de mim... Não há<03e0>motivos para isso. Apenas se lembre do que eu disse.<03e0>Essa informação poderá ser útil algum dia.
+Marina era uma jovem brilhante.<03e0>Ela aprendeu toda a teoria dos Remanescentes em<03e0>questão de segundos.<04e0>No entanto... às vezes fico pensando que talvez<03e0>teria sido melhor que ela não tivesse se envolvido<03e0>com isso...<04e0>Rush Sykes, você precisa salvar sua irmã.<04e0>Marina merece estar junto da sua família<03e0>outra vez. Estar junto com você, sua irmã<03e0>e seu pai.
+Você tem os olhos da sua mãe, justos e bondosos.<03e0>
+Seja bem-vindo de volta.<04e0>Já terminou de passear pela cidade?<06e0000008e0000000000000>Sim, já vi o que queria ver.<09e008e0010000000300>Não, ainda não.
+Certo, então vamos.
+Certo. Então termine o que estiver fazendo e depois<03e0>venha me ver.<03e0>
+Você está pronto para entrar nos <1be0ffbe34ff>Aquedutos<1ce0>?<06e0000008e0000000000000>Mais que pronto!<09e008e0010000000300>Preciso de um segundo.
+Tudo bem. Então vamos lá!
+Aqui é território de Lorde Hermeien...<03e0>Devemos nos preparar para uma grande batalha.<04e0>Partiremos assim que estiver pronto.
+Lady Irina está presa no auditório de ForteDragão!<03e0> <04e0>Essas escadas vão nos levar até os <1be0ffbe34ff>Aquedutos<1ce0>.<03e0>A partir dali podemos chegar no castelo.<04e0>Lorde David está nos esperando... Vamos logo!
+Se entramos em ForteDragão através dos Aquedutos não<03e0>iremos chamar a atenção dos guardas...
+Um velho que conhece bem a cidade me deu instruções<03e0>de como chegar nos Aquedutos.<04e0>Não sei explicar, mas tive a ligeira impressão de que<03e0>já conhecia ele de algum lugar. Só não sei de onde...
+Lady Irina está bem ali em cima!<03e0>Vamos, é hora de partir algumas cabeças!
 

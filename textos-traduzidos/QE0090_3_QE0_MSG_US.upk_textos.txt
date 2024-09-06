@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0090_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Sir Rush! Good heavens, we've a disaster of the<03e0>greatest proportions... Once again, your help would be<03e0>much appreciated!<04e0>Commander Roberto was looking for you, so if you<03e0>would come to the palace, we should all be much<03e0>obliged!
+Sir Rush! Santo deus, estamos enfrentando um desastre<03e0>de proporções imensas... E uma vez mais, precisamos<03e0>da sua ajuda!<04e0>O Comandante Roberto está procurando por você.<03e0>Ficaremos muito agradecidos se puder ir até o palácio!<03e0>
 

@@ -1,16 +1,16 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0020_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-My wife has been gone for ages.<03e0>She's most likely gone to see the Liafort again.<04e0>She does this to me all the time.
-Young man, might I ask a favor?<03e0>My wife has wandered off to the <1be0ffbe34ff>Ivory Peaks<1ce0>.<03e0>Bring her back and I will reward you.<06e0000008e0000000000000>Sure, why not?<09e008e0010000000300>Nah, sounds like a hassle.
-Thank you, young man. Off you go.
-Hmph.
-I ask you again.<03e0>My wife has wandered off to the <1be0ffbe34ff>Ivory Peaks<1ce0>.<03e0>Bring her back and I will reward you.<06e0000008e0000000000000>Sure, why not?<09e008e0010000000300>Nah, sounds like a hassle.
-Thank you, young man. Off you go.
-Hmph.
-Well?<03e0>I see you haven't found her yet.<06e0000008e0000000000000>I was just about to go get her.<09e008e0010000000300>Calm down. Maybe later.
-Why are you still here?<03e0>Off you go!
-What a rude young man you are!<03e0>Off with you!
-Thank you. Violet has finally returned to me.<03e0>...Although she's kept herself locked in her room<03e0>since she came back.<04e0>I understand her frustration regarding her family's<03e0>situation, but she must understand that no dynasty<03e0>lasts forever.<04e0>Enough of my ramblings.<03e0>Here is your promised reward.
-Till we meet again.
+Minha esposa desapareceu já faz algum tempo.<03e0>Creio que tenha ido ver o Liafort outra vez.<04e0>Ela sempre faz isso comigo...
+Meu jovem, será que posso pedir a você um favor?<03e0>Minha esposa foi de novo até os <1be0ffbe34ff>Picos de Marfim<1ce0>.<03e0>Se trazê-la de volta, prometo recompensá-lo.<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Não, isso vai dar trabalho.
+Muito obrigado, meu jovem. Agora vá.
+Hmph. Essa juventude...
+Meu jovem, permita-me insistir uma vez mais no pedido.<03e0>Minha esposa foi outra vez até os <1be0ffbe34ff>Picos de Marfim<1ce0>.<03e0>Se trazê-la de volta, prometo recompensá-lo.<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Não, isso vai dar trabalho.
+Muito obrigado, meu jovem. Agora vá.
+Hmph. Essa juventude...
+E então?<03e0>Vejo que ainda não a encontrou.<06e0000008e0000000000000>Estava indo procurar agora.<09e008e0010000000300>Fique tranquilo, temos tempo.
+Então porque ainda está aqui perdendo tempo?<03e0>Vá logo!
+Você é um jovem muito impertinente!<03e0>Suma da minha frente!
+Muito obrigado. Violet finalmente voltou para mim.<03e0>Mas desde que regressou, passa o dia trancada<03e0>no seu quarto.<04e0>Entendo sua frustração no que diz respeito à situação<03e0>da sua família, mas ela precisa entender que nenhuma<03e0>dinastia dura para sempre.<04e0>Mas enfim, chega de conversa fiada.<03e0>Aqui está sua recompensa, conforme prometido.
+Até a próxima.
 

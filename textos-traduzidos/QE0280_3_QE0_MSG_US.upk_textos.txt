@@ -1,18 +1,18 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0280_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Duke Ghor!<03e0>We've been awaiting your arrival!<04e0>Take a look at that, my lord.
-Hmph.<04e0>I take it that is Leithion's Sword.<03e0>We have no reason to search any further.
-However, this place is...unusual.<03e0>Strange things are happening all around.<03e0>Please be careful, my lord.
-I heard rumors of a nosy fellow trying to find out what<03e0>we were up to. I would never have dreamt it was the<03e0>Duke of Ghor.
-You've seen a tad too much. There is no way we're<03e0>letting you leave here alive.<04e0>What perfect timing! I can test the powers of its Collapse!
-Say your prayers!
-Those who wish to create Remnants with their own<03e0>hands are ignorant fools.<04e0>This weapon, Leithion's Sword, is much too dangerous<03e0>to be wielded by anyone.<04e0>Its very existence is a danger. It must be destroyed<03e0>immediately.
-Let us return.
-I came with four others to scout the area, and before<03e0>I knew it, I was standing here alone.
-Well, I know an escape route, so I'm not too worried.
-I was following a suspicious-looking yama fellow, but I<03e0>lost sight of him somewhere.
-Would you like to go back?<06e0000008e0000000000000>Yeah, I think so.<09e008e0010000000300>Nuh-uh!
-Duke Ghor!<03e0>There's a shifty-looking yama up ahead.<03e0>Please be careful!
-Perhaps you should return to make preparations?<06e0000008e0000000000000>Yeah, I think I will.<09e008e0010000000300>Nuh-uh!
+Duque Ghor!<03e0>Estávamos aguardando sua chegada!<04e0>Dê uma olhada nisso, meu senhor.
+Hmph.<04e0>Acredito que essa é a Espada de Leithion.<03e0>Então, não temos motivos para continuar procurando.
+Tenha cuidado, meu senhor...<03e0>Esse lugar tem algo de... incomum.<03e0>Coisas estranhas estão acontecendo por aqui.
+Ouvi dizer que um algum intrometido estava tentando<03e0>descobrir nossos planos. Mas nunca imaginei que<03e0>pudesse se tratar de você, o Duque de Ghor.
+Por infelicidade, você viu demais. Agora que conhece<03e0>nossos planos, não podemos deixá-lo sair vivo daqui.<04e0>É a oportunidade perfeita para testar a espada!
+Façam suas preces!
+Aqueles que pretendem criar seus próprios<03e0>remanescentes são tolos e insensatos.<04e0>Essa arma, a Espada de Leithion, é perigosa<03e0>demais para ser usada por qualquer um.<04e0>Sua mera existência constitui um grande perigo para<03e0>todos nós. Ela deve ser destruída imediatamente.
+Vamos voltar.
+Vim aqui com quatro companheiros para explorar esse<03e0>lugar, mas antes que percebesse estava aqui sozinho.
+Bem, como conheço uma saída não estou tão preocupado.
+Eu estava seguindo um yama de aparência suspeita,<03e0>mas acabei perdendo ele de vista.
+Você quer voltar?<06e0000008e0000000000000>Sim, acho que é melhor.<09e008e0010000000300>Não!
+Duque Ghor!<03e0>Vimos um yama de aparência suspeita um pouco mais<03e0>à frente. Tenha cuidado!
+Talvez você queira voltar para se preparar melhor?<06e0000008e0000000000000>Sim, é melhor fazer isso.<09e008e0010000000300>Não, é melhor seguirmos!
 

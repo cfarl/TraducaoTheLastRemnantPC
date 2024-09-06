@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0210_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I'm opening my customization shop soon,<03e0>but I'm not very confident in my skills.<04e0>I was going to practice on my gear,<03e0>but since I know it's mine, I can't<03e0>get into it. Will you help me out?
-<1be064f4ecff>Light metal<1ce0> is a good component<03e0>to hone my customization skills with.<04e0>I gotta open shop soon, but<03e0>would you mind fetching me some?
-Harvesting points...
-...should look like this.
-Got it? Good!
-Oh, one more thing.<03e0>You obviously have harvesting tools, right?<04e0>...Right?<04e0>What? You don't?<03e0>Now that's a problem.<04e0>I have some, but they're a family heirloom and<03e0>priceless... Sorry.
-Hey! You again!?
-Hmmm, interested in harvesting points, huh?
-Raring to go, huh?
-He wants to go too, it seems.<06e0000008e0000000000000>Well, if he REALLY wants to...<09e008e0010000000300>I think I'm allergic.
-See you soon!
-*Dummy label
-Got any <1be064f4ecff>light metal<1ce0> for me yet?<03e0>This little guy looks so sad...<06e0000008e0000000000000>I'm on my way!<09e008e0010000000300>Maybe in...never.
-I'm counting on you!
-If you change your mind, you know where to find me.
-You've brought me some light metal!<03e0>Now I can practice!<03e0>Thanks, kid!
-I'll meet you back at my customization<03e0>shop on Grants Way.<04e0>I'll be waiting!<04e0>Oh, and in case you didn't know,<03e0>there are harvesting points everywhere.<03e0>You should keep an eye out for them.
+Em breve estarei abrindo minha oficina, mas não<03e0>estou muito confiante das minhas habilidades.<04e0>Estava praticando com meus próprios componentes, mas<03e0>como sei que é para mim, não consigo me dedicar tão a<03e0>fundo como deveria. Será que pode me ajudar?
+<1be064f4ecff>Metal leve<1ce0> é um bom componente para que eu possa<03e0>aprimorar minhas habilidades.<04e0>Preciso abrir a oficina em breve, será que você<03e0>poderia conseguir para mim um pouco desse metal?
+Pontos de Extração...
+Acho que vale a pena dar uma olhada nisso.
+Entendido? Que bom!
+Ah, só mais uma coisa.<03e0>Você tem ferramentas de extração, certo?<04e0>...Certo?<04e0>O quê? Não tem?<03e0>Pois então temos um problema.<04e0>Não posso te emprestar as minhas, porque elas são<03e0>herança de família e não têm preço... Sinto muito.
+Ei! Você de novo?
+Hmmm, interessado em pontos de extração, hã?
+Está ansioso por isso, hã?
+Parece que ele está querendo te ajudar.<06e0000008e0000000000000>Bem, se ele REALMENTE quer...<09e008e0010000000300>Acho que sou alérgico.
+Vejo vocês em breve!
+*Rótulo vazio
+Já conseguiu algum <1be064f4ecff>metal leve<1ce0> para mim?<03e0>Essa pobre criaturinha parece bem triste...<06e0000008e0000000000000>Já estou indo procurar!<09e008e0010000000300>Não.... E nem vou conseguir.
+Estou contando com você!
+Bem, se mudar de ideia, sabe onde me encontrar.
+Você trouxe um pouco de metal leve para mim?<03e0>Que bom, agora posso praticar! Obrigado, garoto!<03e0>
+Venha me ver quando puder, na minha oficina<03e0>da Avenida Grant.<04e0>Vou estar te esperando!<04e0>Ah, e caso ainda não saiba, há pontos de extração<03e0>por todo lado. Seria bom você ficar de olho neles.<03e0>
 

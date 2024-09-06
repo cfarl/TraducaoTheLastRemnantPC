@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_05TP_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Once Lady Marion connected with<03e0>the Remnant, her soul traveled to<03e0>the Sacred Lands.<04e0>She still looks upon us from the heavens.<03e0>She prays for the souls of the dead to<03e0>safely reach the heavens to join her side.
-When the dragon let out a fierce howl,<03e0>the lives of many were snatched away.<03e0>But we must not live in fear.<04e0>Lady Marion is always looking down upon us.<03e0>She wishes our souls to always be at peace.
-This is the temple dedicated to Marion Marshall.<04e0>You saw the statue up front, didn't you? It's a statue<03e0>of Lady Marion. She has the most peaceful look on<03e0>her face, doesn't she?
-More and more people have come to pray here since<03e0>the war was brought on by the Conqueror's army.<04e0>So many lives have been lost...<04e0>Everyone's worried about what's to come, but I have<03e0>hope that we'll be alright.<04e0>We have the Lady Marion with us.<03e0>She will bring us a bright future.<03e0>She must...
-I'm just here visiting, but seems to me that this place<03e0>really has a distinct air to it<07f0>one not found anyplace<03e0>else.<04e0>The people who come here really seem to believe that<03e0>the legendary Marion Marshall truly existed.<04e0>She is a beauty, isn't she? Seeing this statue, I can see<03e0>why they want to believe she existed!
-I think I've begun to understand why so many people<03e0>come to places like this.<04e0>The thought of some higher power like Marion Marshall<03e0>watching over us really gives a sense of relief and<03e0>security.
-This is the resting place of souls.<03e0>No one may enter.
-What? You wish to go through these doors?<04e0>The Marquis of Athlum...!<03e0>Well, I can hardly say no to your lordship.<03e0>I will unlock the doors at once.<04e0>But please refrain from telling anyone<03e0>about this, my lord.
-The Catacombs are beyond this door.<03e0>Fierce creatures roam within.<03e0>Be safe!
-The doors are shut tight.
+Quando Lady Marion se vinculou ao Remanescente, sua<03e0>alma viajou até as Terras Sagradas.<03e0> <04e0>Desde então ela vela por nós do céu, orando para que<03e0>as almas dos mortos se juntem a ela no paraíso.<03e0>
+Quando o dragão emitiu aquele terrível rugido muitos<03e0>inocentes perderam sua vida. Mas não podemos viver<03e0>com medo por causa do que aconteceu.<04e0>Lady Marion está sempre velando por nós, e ela deseja<03e0>que nossas almas encontrem a paz.
+Esse é o templo dedicado a Marion Marshall.<04e0>Você viu aquela estátua ali na frente? Ela representa<03e0>Lady Marion. Seu olhar transmite grande serenidade,<03e0>você não acha?
+Muita gente tem vindo rezar nesse templo, desde que<03e0>começou a guerra contra o Conquistador.<04e0>Tantas vidas foram perdidas nessa guerra...<04e0>Todos estão preocupados com o que possa acontecer,<03e0>mas tenho esperança de que nada de mal nos ocorra.<04e0>Temos Lady Marion do nosso lado. E com ela um futuro<03e0>brilhante nos espera. É nisso que acredito...<03e0>
+Essa é a primeira vez que venho aqui, mas sinto que<03e0>nesse lugar se respira um ar diferente... Um ar que<03e0>não pode ser encontrado em nenhum outro lugar.<04e0>Parece que as pessoas que vem aqui acreditam que a<03e0>lendária Marion Marshall existiu de verdade.<04e0>Ela é muito linda, não é mesmo? Ao olhar essa estátua<03e0>entendo porque desejam que ela tenha mesmo existido!
+Acho que comecei a entender porque tantas pessoas vem<03e0>até aqui para rezar nos templos.<04e0>Cada vez que penso que existe um poder superior<03e0>velando por nós, como Marion Marshall, sinto uma<03e0>grande sensação de alívio e segurança.
+Esse é um lugar de descanso para a alma dos mortos.<03e0>Ninguém pode entrar.
+Como? Vocês querem que eu deixe vocês passarem?<04e0>O Marquês de Athlum! Bem... não posso dizer não<03e0>a Vossa Alteza. Vou abrir as portas para você.<03e0> <04e0>Mas por favor, não conte isso a ninguém, meu senhor.<03e0>
+As Catacumbas se encontram do outro lado dessa porta.<03e0>Mas há criaturas ferozes lá dentro. Tenha cuidado!<03e0>
+As portas estão trancadas.
 

@@ -1,21 +1,21 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1060_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Oho, finally made it.<03e0>Right then, so here's what this's all about.<04e0>The son of a certain aristocrat<07f0>our employer,<03e0>by the way<07f0>went out to play here in the caves.<03e0>Problem is, he never came back.<04e0>Dependin' on the time of day, these caves fill up with<03e0>monsters. It's likely the kid just got trapped tryin' to hide<03e0>from 'em. Either way, our job is to find that kid.<04e0>What, you wanted somethin' more exciting? Believe it or<03e0>not, there's more to this than playing nursemaid.<04e0>The kid is just a wee little thing, and a bit of a weakling<03e0>at that. His folks are right worried about 'im.<04e0>What's more, a downright nasty bunch of bandits are<03e0>rumored to have their hideout in the caves. If we don't<03e0>find the kid before they do...<04e0>Well, let's just make sure that doesn't happen, savvy?<03e0>Let's be off, then.
-WAHHHHHHHHHH!!!<03e0>Lemme alone, lemme alone!<03e0>I wanna go home, helllp!!!
-Urgh... Quiet, you!
-That voice... Bloody<07f003e0>C'mon, Rush, we better hurry!
-HELLLLLLLLLP!!!
-Hey<07f0> Ow! Watch it!<03e0>Quit struggling and sit there like a good victim!
-B-bro! Come on, give it up!<03e0>We're supposed to be kidnapping<07f0>this's<03e0>more like giantnapping!
-Yeah, yeah! He can squish us without even<03e0>trying! How're we supposed to ransom him<03e0>when we're flat as pancakes?
-Ghk<07f0>shut up, both of ya!<04e0>Blurg... They said some sick, wimpy little rich<03e0>kid was lost in the cave<07f0>how was I s'posed<03e0>to know he'd be some giant yama doof?
-Looks like trouble.<04e0>Rush, we gotta save him!<03e006e0000008e0000000000000>Uhhh, okay.<09e008e0010000000000>Uhhh, which "him"?
-Which one do you think?<03e0>The kid, o' course!<03e006e0000008e0000000000000>Alright, if you say so...<09e008e0010000000000>Looks pretty safe to me.
-Awright!<03e0>Let's give these guys what they deserve!
-What's this tripe you're going on about?<03e0>Let's bust some heads!
-Th-thank you, misters!<03e0>I<07f0>I was real scared!
-Don't worry, lad, you're alright now.
-Rush, I'm gonna take this little one back home.<03e0>Meet me in the Athlum pub, and I'll have your<03e0>part of the reward, fair enough?
-See you 'round the bend, then.
+Oho, até que enfim você chegou. Muito bem, deixe-me<03e0>explicar em que consiste essa tarefa.<04e0>Nosso cliente é um aristocrata, cujo filho veio<03e0>brincar aqui nessas cavernas. Acontece que até<03e0>agora o menino ainda não voltou para casa.<04e0>Dependendo da hora do dia, as cavernas se enchem<03e0>de monstros. O garoto pode ter se perdido tentando<03e0>se esconder deles. Nossa missão é encontrá-lo.<04e0>O que foi, você esperava algo mais emocionante?<03e0>Acredite em mim, isso é mais do que brincar de babá.<04e0>O garoto é pequeno e também um pouco debilitado.<03e0>Seus pais estão preocupados, e com razão.<04e0>Além disso, dizem que essas cavernas servem<03e0>de refúgio para bandidos nada agradáveis. Se<03e0>eles encontrarem o garoto antes de nós...<04e0>Bem, é melhor que isso não aconteça, certo?<03e0>Vamos logo então.
+Ahhhhhhhhhhh!!! Me soltem, me soltem!<03e0>Eu quero ir para casa, SOCORRRO!!!<03e0>
+Urgh... Fique quieto!!
+Essa voz... Minha nossa...<03e0>Vamos, Rush, é melhor nos apressarmos!
+SOCORROOOOOOOOO!!!
+Ei... Ai! Cuidado! Pare de espernear e fique<03e0>quietinho como um bom refém!
+Irmão, é melhor deixar pra lá! A ideia era sequestrar<03e0>um garotinho, não um mastodonte de dois metros!<03e0>
+Sim, eu sei! Ele pode nos esmagar sem nenhum<03e0>esforço! Como vamos pedir um resgate por ele<03e0>se pode nos esmagar como panquecas?
+Gkkk... Calem a boca, vocês dois!<04e0>Blurg... Me disseram que o filho de uns ricaços, uma<03e0>criança fraca e doente, havia se escondido aqui.<03e0>Como eu poderia saber que era um yama gigante?
+Parece que temos um problema...<04e0>Rush, temos que ajudá-lo!<03e006e0000008e0000000000000>Uhhh, tudo bem.<09e008e0010000000000>O garoto ou o sequestrador?
+Quem você acha?<03e0>O garoto, é claro!<03e006e0000008e0000000000000>Bom, se você está dizendo...<09e008e0010000000000>Isso é mesmo necessário?
+Muito bem!<03e0>Vamos dar a esses bandidos o que eles merecem!
+Mas do que você está falando?<03e0>Vamos quebrar algumas cabeças!
+O-Obrigado, senhores!<03e0>E-eu estava muito assustado!
+Não se preocupe, garoto, você está a salvo agora.
+Rush, vou levar esse pequenino de volta para sua<03e0>casa. Me encontre na taverna de Athlum, e darei sua<03e0>parte da recompensa, certo?
+Nos vemos daqui a pouco, então.
 

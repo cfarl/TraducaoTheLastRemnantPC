@@ -1,26 +1,26 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0330_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-!?
-Oh, hi, Rush.<04e0>...<04e0>I just received a letter, challenging<03e0>the head of the Honeywell clan<03e0>to a duel.
-Our family is known for being the greatest<03e0>of warriors. People far and wide<03e0>come to challenge the Honeywells.
-Warrior Yerva...<03e0>There isn't a soldier alive who doesn't know that name.<04e0>This is my first duel defending the Honeywell name.<03e0>I cannot afford to lose.
-Watch over me, Mother.
-Rush, will you come with me to witness<03e0>the duel?<06e0000008e0000000000000>If you want me to.<09e008e0010000000300>Sounds boring.
-Thanks, Rush.
-Let's head to <1be0ffbe34ff>Aveclyff<1ce0>.
-Alright. I understand.
-I just received a letter, challenging<03e0>the head of the Honeywell clan<03e0>to a duel.
-Rush, will you come with me to witness<03e0>the duel?<06e0000008e0000000000000>If you want me to.<09e008e0010000000300>Sounds boring.
-Thanks, Rush.
-Let's head to <1be0ffbe34ff>Aveclyff<1ce0>.
-Alright. I understand.
+Hã?
+Oh, olá, Rush.<04e0>...<04e0>Acabei de receber uma carta, alguém está desafiando<03e0>a matriarca do clã Honeywell para um duelo.<03e0>
+Nossa família é famosa por ser uma linhagem de<03e0>grandes guerreiros. Pessoas de toda parte do mundo<03e0>querem nos desafiar em combate.
+O guerreiro Yerva... Não há nenhum soldado no mundo<03e0>que não tenha ouvido falar do seu nome.<04e0>Esse será meu primeiro duelo como matriarca<03e0>do clã Honeywell. Não posso perder!
+Mãe, olhe por mim.
+Rush, você vem comigo para testemunhar o duelo?<03e0> <06e0000008e0000000000000>Se você quiser eu vou.<09e008e0010000000300>Parece chato.
+Obrigada, Rush.
+Vamos para <1be0ffbe34ff>Aveclyff<1ce0>.
+Tudo bem. Eu entendo.
+Acabei de receber uma carta, alguém está desafiando<03e0>a matriarca do clã Honeywell para um duelo.<03e0>
+Rush, você vem comigo para testemunhar o duelo?<03e0> <06e0000008e0000000000000>Se você quiser eu vou.<09e008e0010000000300>Parece chato.
+Obrigada, Rush.
+Vamos para <1be0ffbe34ff>Aveclyff<1ce0>.
+Tudo bem. Eu entendo.
 ...
-Will I ever surpass Mother?
-Everyone I talk to sees my mother<03e0>in me. I understand, because I carry<03e0>a big part of her with me.
-But will the day ever come when<03e0>people see me for me?<06e0000008e0000000000000>Of course!<09e008e0010000000000>Probably not...
-Thanks. I know that's what Mother<03e0>would want for me, too.
-It's not an easy task, trying to<03e0>surpass Mother...
-Here. A little token of my appreciation.<03e0>Thank you, Rush.
-Let's go.
+Será que um dia conseguirei ser melhor que minha mãe?
+Todo mundo pensa em minha mãe quando me vê.<03e0>Eu não os culpo por isso. Afinal, levo comigo<03e0>uma parte muito importante dela.
+Mas será que algum dia as pessoas irão me ver<03e0>como uma pessoa distinta?<06e0000008e0000000000000>Claro que sim!<09e008e0010000000000>Provavelmente não...
+Obrigada. Sei que é isso o que minha mãe<03e0>iria querer para mim.
+Não vai ser uma tarefa fácil, tentar ser melhor<03e0>que minha mãe...
+Fique com isso. É uma pequena amostra da minha<03e0>gratidão. Obrigada, Rush.
+Vamos.
 

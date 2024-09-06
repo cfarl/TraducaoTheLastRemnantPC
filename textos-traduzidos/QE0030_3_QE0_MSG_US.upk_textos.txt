@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0030_3_QE0_MSG
 -- ----------------------------------------------------------------------------------
-We're being attacked!
-What's going on!?
-I-I have no idea!
-A trap!?<04e0>No, it can't be...!
+Estamos sendo atacados!
+O que está acontecendo aqui?
+N-não faço a menor ideia!
+Uma emboscada?<04e0>Não, não pode ser...
 

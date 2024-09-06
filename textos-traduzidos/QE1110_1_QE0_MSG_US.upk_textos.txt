@@ -1,12 +1,12 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1110_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-So, like, the Marquis of Athlum? What's up with the<03e0>left and right sides of his outfit being different colors?<03e0>Ew, call the fashion police!
-It's a good thing he's cute...
-Anyway, I'm running low on cash a tiny bit. So you<03e0>should, like, give me some money. And I'll give you this<03e0>potion I made. It's totally me-approved!<06e01900>sEVENT_PRICE_QE1110_P_000<08e0000000000000>Sure, I'll buy it!<09e008e0010000000300>Street potions? I'll pass.
-Awesome!
-Bye-bye, Athlum! I'm off to the big city!
-No. Way.
-Come onnn, just buy it!
-Oh really? 'Coz that's definitely not enough<03e0>money.<04e0>Ugh, being broke is sooo last week.
+Você já deu uma olhada no marquês de Athlum? Por que<03e0>será que ele usa uma roupa com um lado de cada cor?<03e0>Ele poderia usar algo menos cafona...
+Mas reconheço que ele não é de se jogar fora...
+Mas enfim, o caso é que ando meio que sem dinheiro...<03e0>Então você poderia me dar algumas moedas e em troca<03e0>te dou essa poção que preparei. Garantida por mim!<06e01900>sEVENT_PRICE_QE1110_P_000<08e0000000000000>Claro, comprarei ela de você!<09e008e0010000000300>Poções de rua? Passo.
+Legal!
+Adeus, Athlum! A grande cidade me chama!
+Ah, fala sério!
+Qual ééé... Compra aí, vai!
+Você tá falando sério? Porque isso aí não é dinheiro<03e0>suficiente.<04e0>Ugh, estar quebrado é tãããão deprimente.
 

@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0280_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-You have come.<03e0>I have found out the agenda of the Third Committee.<03e0>But I must inform you of something.
-They have taken the Remnant research they obtained<03e0>and used it to create a Remnant themselves<07f0>one<03e0>that is a weapon.<04e0>At the Academy, the project was referred to by the<03e0>code name "Leithion." The weapon created was a<03e0>blade<07f01be064f4ecff>Leithion's Sword<1ce0>.
-This weapon can trigger a Collapse at will as a way of<03e0>gaining tremendous power.<04e0>The Third Committee plans to use this sword to throw<03e0>the world into further chaos, and take advantage of the<03e0>disorder to gain more power.<04e0>I believe in no uncertain terms that this sword should<03e0>not exist. I am heading to the <1be0ffbe34ff>Numor Mines<1ce0> at once<03e0>to see to its destruction.
-Mmm, so, as I recall, you were involved in this matter<03e0>from the beginning. Wouldn't you like to see the end?
-However, if you are to come, you will have to make<03e0>certain to pull your own weight. Well?<06e0000008e0000000000000>I'm ready!<09e008e0010000000300>I need some time to prepare.
-Hmph, then you shall come with me.<03e0>Remember, I gave you a fair warning<03e0>of the dangers that may fall upon us.
-You should always be prepared.<03e0>I shall wait for you, but make haste.
-Hmph, I recall your involvement with <1be064f4ecff>Leithion's Sword<1ce003e0>from the beginning.<03e0>Wouldn't you like to see it to the end?
-However, if you are to come, you will have to do your<03e0>part. I am headed to the <1be0ffbe34ff>Numor Mines<1ce0> to see to its<03e0>destruction. Are you coming with me?<06e0000008e0000000000000>I'm ready!<09e008e0010000000300>I need some time to prepare.
-Hmph, then you shall come with me.<03e0>Remember, I gave you a fair warning<03e0>of the dangers that may fall upon us.
-You should always be prepared.<03e0>I shall wait for you, but make haste.
-You have proved yourselves as great soldiers. We would<03e0>not have been successful without your help.<04e0>However, my emissaries inform me of slightly unusual<03e0>activity in the area. I will stay and rid this land of it all.
-I am indebted to you.<03e0>I will offer my assistance if ever it is necessary.<04e0>Until we meet again...
+Até que enfim você chegou... Descobri o que<03e0>o Terceiro Comitê está tramando. Mas antes<03e0>de mais nada preciso te contar uma coisa.
+Parece que a Academia aproveitou o conhecimento<03e0>obtido nas suas pesquisas com Remanescentes para<03e0>criar seu próprio Remanescente...<04e0>Dentro da Academia, esse projeto é conhecido pelo<03e0>codinome "Leithion." Trata-se de uma arma que tem<03e0>a forma de uma espada: a <1be064f4ecff>Espada de Leithion<1ce0>.
+Essa arma é capaz de desencadear cataclismos<03e0>e fazer monstros aparecerem do nada.<04e0>Seu poder aumenta a cada instante, e acreditamos que<03e0>o Terceiro Comitê planeja usá-la para semear o caos<03e0>no mundo e aproveitar a confusão para obter poder.<04e0>Essa espada nunca deveria ter sido criada...<03e0>Estou indo agora para as <1be0ffbe34ff>Minas de Numor<1ce0> <03e0>para me certificar que seja destruída.
+Então, se bem me lembro, você esteve envolvido nisso<03e0>desde o início. Não quer saber o fim da história?
+No entanto, se quiser vir comigo, deve estar<03e0>disposto a dar sua vida pela missão. O que me diz?<06e0000008e0000000000000>Estou pronto!<09e008e0010000000300>Preciso me preparar.
+Hmph, que assim seja então. Você pode vir comigo.<03e0>Mas lembre-se, você foi advertido sobre os perigos<03e0>que teremos de enfrentar.
+Você deveria estar sempre preparado.<03e0>Vou esperar por você, mas se apresse.
+Você acompanhou a história da <1be064f4ecff>Espada de Leithion<1ce003e0>desde o início. Não quer saber como ela termina?<03e0>
+No entanto, se quiser vir comigo, terá que fazer<03e0>a sua parte. Estou indo para as <1be0ffbe34ff>Minas de Numor<1ce0> <03e0>para dar um fim a essa espada. Você vem comigo?<06e0000008e0000000000000>Estou pronto para partirmos!<09e008e0010000000300>Preciso me preparar.
+Hmph, que assim seja então. Você pode vir comigo.<03e0>Mas lembre-se, você foi advertido sobre os perigos<03e0>que teremos de enfrentar.
+Você deveria estar sempre preparado.<03e0>Vou esperar por você, mas se apresse.
+Vocês demonstraram ser grandes soldados...<03e0>Não teríamos conseguido sem sua ajuda.<04e0>Meus emissários, no entanto, dizem que há atividades<03e0>suspeitas nessa região. Ficarei aqui para checar.
+Estou em dívida com você...<03e0>Se precisar de ajuda, basta me chamar.<04e0>Até a próxima!
 

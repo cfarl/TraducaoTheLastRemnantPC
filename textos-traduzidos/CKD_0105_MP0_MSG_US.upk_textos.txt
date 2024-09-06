@@ -1,9 +1,9 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) CKD_0105_MP0_MSG
 -- ----------------------------------------------------------------------------------
-This Teleporter seems to be limited.<03e0>You'll need a key to progress to the next stage.
-Will you go to World Map?<06e0000008e0020000000000>Yeah!<09e008e0010000000300>Maybe later.
-The Choros Key has unlocked the Teleporter.
-Use the Teleporter?<06e0000008e0030000000000>Go to Choros Tier.<09e008e0020000000000>Go to World Map.<09e008e0010000000300>Nope, I'm fine.
-The door is sealed shut.
+Esse teletransportador parece ter alcance limitado.<03e0>Você vai precisar de uma chave para outros destinos.
+Quer ir para o mapa do mundo?<06e0000008e0020000000000>Vamos lá!<09e008e0010000000300>Agora não.
+A chave do nível Choros liberou o teletransportador.
+Quer usar o teletransportador?<06e0000008e0030000000000>Sim, vamos ao nível Choros.<09e008e0020000000000>Sim, vamos ao mapa do mundo.<09e008e0010000000300>Não, vou ficar por aqui.
+A porta está trancada.<03e001e00be0000000>V<0000000000001b000000>H<0000000000000000000000000001>.
 

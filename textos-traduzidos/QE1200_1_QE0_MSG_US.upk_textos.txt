@@ -1,14 +1,14 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1200_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Gawd, I'm so out of cash!<03e0>I, like, hate living like this!<03e0>Where's my rich, handsome prince?
-In the meantime, I guess I should try<03e0>to earn my own cash...
-Hey, sweetie!<03e0>I have something wicked to sell you!<03e006e01900>sEVENT_PRICE_QE1200_P_000<08e0000000000000>I'll take it!<09e008e0010000000300>You gotta be kidding me...
-TYVM!
-To quote His Highness himself: Bye bye bye!
-What should I do now?
-Are you rich? You are, aren't you?<03e0>Like, I can totally help you out then, handsome!<04e0>I'm Khrynia!<03e0>Nice to meetcha!
-Nooo...
-You know you want it!
-You totally don't have enough!<04e0>You're poor?<03e0>Talk to the hand, boy.
+Como é possível? Não me restou nem um centavo...<03e0>Que droga de vida, odeio viver assim! Onde estará<03e0>meu príncipe encantado e seu dinheiro?
+Pois bem... Enquanto ele não vem, acho que devo<03e0>tentar ganhar meu próprio dinheiro...
+Ei, docinho!<03e0>Tenho aqui algo que vai deixar você encantado...<03e006e01900>sEVENT_PRICE_QE1200_P_000<08e0000000000000>Vou ficar com ele!<09e008e0010000000300>Você deve estar brincando...
+Muito obrigada!
+E agora, como dizia Sua Majestade: Hasta la vista!
+O que devo fazer agora?
+Você é rico? Você é, não é? Se tiver dinheiro,<03e0>então poderei te ajudar com muito gosto, bonitão!<04e0>Eu me chamo Khrynia! Prazer em conhecê-lo!<03e0>
+Nããão...
+Você sabe que quer ficar com ele!
+Você definitivamente não tem o suficiente!<04e0>O que acontece, também é um pobretão?<03e0>Pois então fale com a minha mão, garoto.
 

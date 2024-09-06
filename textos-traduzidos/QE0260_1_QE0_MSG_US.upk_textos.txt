@@ -1,19 +1,19 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0260_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-*sniff sniff*<03e0>Well, somebody smells like blood.<04e0>Nah nah, don't run off. The stink of blood is the aroma<03e0>of life! It ain't a bad thing.
-Say, kid, howzabout we play a little game? Or are ya<03e0>too much of a papangu to have some fun?
-Sweet. Here's how it works: you go to the <1be0ffbe34ff>Great Sand<03e0>Sea<1ce0>, and ya crunch <1be0ffbe34ff>Grand Beetles<1ce0> 'til you get the<03e01be064f4ecff>Bloodsoaked Sword<1ce0>.<04e0>If you can bring me back that sword, I'll give you<03e0>something real nice. See? Told ya it was easy!
-Oh, and if you can't find it?<03e0>Then I'm gonna kill ya!<04e0>So, whaddaya say?<03e0>Yer up for my little challenge, right?<06e0000008e0000000000000>You bet I am!<09e008e0010000000300>Wha<07f0>no!
-Attaboy, that's the spirit!<03e0>Time's up once I get sick of waiting for you to<03e0>come back. Go kick ass, kid!
-Wha-a-at?<03e0>And you call yourself a man?<03e0>Bawwwk-bawk-bawk-bawk-bawk!
-Ohh, lookie here, it's the chicken boy.<03e0>What, you finally grow some nards?
-The game is simple: before time's up, you go to the<03e01be0ffbe34ff>Great Sand Sea<1ce0> and <1be0ffbe34ff>kill Grand Beetles<1ce0> 'til you get the<03e01be064f4ecff>Bloodsoaked Sword<1ce0>.<04e0>Bring me that sword, and I'll give you somethin' good.<03e0>Don't bring it back, and I find you? I'll take somethin'<03e0>from you instead<07f0>your life.
-Simple, huh?<03e0>So, gonna do it this time? Or wimp out again?<06e0000008e0000000000000>I am all over this!<09e008e0010000000300>I am outta here!
-Attaboy, that's the spirit!<03e0>Time's up once I get sick of waiting for you to<03e0>come back. Go kick ass, kid!
-What, afraid you'll break a nail?<03e0>Go home and put on your makeup.
-Wha-a-a-t!?<03e0>You still don't have the <1be064f4ecff>Bloodsoaked Sword<1ce0>?<03e0>Did you forget the bit about me killing you?<04e0>I promise you, that part will only be fun for me.<03e0>So hurry it up!
-Ohhh ho ho ho. Finally, the Bloodsoaked Sword!<03e0>Too bad time was up five minutes ago.<03e0>Well then! Time to take your life!<04e0>What're ya looking at me like that for? We agreed the<03e0>time limit was whenever I got tired of waiting for your<03e0>slow ass. Be faster next time!<04e0>Oh wait, there won't be one! Ice burrrn!<03e0>Say your prayers, kid! Next stop for you is six feet under!
-...Psych!<03e0>Haw haw haw, you shoulda seen your face!
-You're lucky, kid<07f0>until the old man gets stuff started,<03e0>I'm off the clock. I'll let you go for now. Get ready to put<03e0>up a fight next time, eh?<04e0>Ah, and here ya go, just like I promised.<03e0>Fight ya later!
+*sniff sniff* Veja só, sinto cheiro de sangue.<03e0> <04e0>Nah nah, não precisa ter medo. O cheiro do sangue é o<03e0>aroma da vida! Ele não é uma coisa ruim.
+Diga, garoto, que tal participar de um pequeno jogo?<03e0>Ou você é muito frutinha e não sabe se divertir?
+Veja, é assim que funciona... você vai até o <1be0ffbe34ff>Grande<03e0>Mar de Areia<1ce0> e caça <1be0ffbe34ff>Grandes Besouros<1ce0> até achar a<03e01be064f4ecff>Espada Ensanguentada<1ce0>.<04e0>Se você me trazer aquela espada, darei a você algo<03e0>que vai gostar muito. O que me diz?
+Como? E se você não encontrar?<03e0>Então terei que te matar!<04e0>Muito bem, o que me diz?<03e0>Aceita o meu pequeno desafio?<06e0000008e0000000000000>É claro que sim!<09e008e0010000000300>Como? De jeito nenhum!
+Muito bem, é assim que eu gosto! O tempo termina<03e0>quando eu me cansar de esperar você encontrá-la.<03e0>Acabe com eles, garoto!
+O quê-ê-ê? Você acha que pode se chamar de homem?<03e0>Bawwwk-bawk-bawk-bawk-bawk!<03e0>
+Ahh, veja só, é o franguinho.<03e0>O que foi, finalmente cresceram algumas penas?
+O jogo é simples: antes do tempo acabar, você vai até o<03e01be0ffbe34ff>Grande Mar de Areia<1ce0> e mata <1be0ffbe34ff>Grandes Besouros<1ce0> até achar<03e01be064f4ecff>a Espada Ensanguentada<1ce0>.<04e0>Traga a espada para mim, e darei a você algo que<03e0>vai gostar muito. Não traga, e encontrarei você.<03e0>E aí você é quem vai me dar algo: sua vida.
+É simples, não é?<03e0>E então, vai fazer, ou vai amarelar de novo?<06e0000008e0000000000000>Claro que vou!<09e008e0010000000300>Tô fora!
+Muito bem, é assim que eu gosto! O tempo termina<03e0>quando eu me cansar de esperar você encontrá-la.<03e0>Acabe com eles, garoto!
+O que foi, está com medo de quebrar uma unha?<03e0>Vá pra casa chorar no colo da mamãe.
+O quê-ê-ê?<03e0>Você ainda não tem a <1be064f4ecff>Espada Ensanguentada<1ce0>?<03e0>Será que não se lembra da promessa de matar você?<04e0>Posso te garantir que essa parte só vai ser divertida<03e0>para mim. Então se apresse!
+Ohhh ho ho ho. A Espada Ensanguentada, finalmente!<03e0>Mas seu tempo terminou a uns cinco minutos atrás.<03e0>Não me resta outra opção senão te matar!<04e0>Por que está me olhando com essa cara? Eu disse que<03e0>o tempo terminava quando eu me cansasse de esperar<03e0>pela sua preguiça. Seja mais rápido na próxima vez!<04e0>Ah, mas espere, não vai ter próxima vez! Dane-se!<03e0>Faça suas preces, garoto! Sua cova te aguarda!
+... Te peguei!<03e0>Haw haw haw, você tinha que ver a sua cara!
+Você tem sorte, garoto... Você se livrou porque estou<03e0>de folga até receber ordens do chefe. Dessa vez vou<03e0>deixá-lo ir. Mas esteja preparado para a próxima, hã?<04e0>Ah, e antes que me esqueça, como havia prometido.<03e0>Nos veremos em outra ocasião!
 

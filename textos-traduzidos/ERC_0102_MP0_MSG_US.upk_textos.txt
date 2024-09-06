@@ -1,68 +1,68 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) ERC_0102_MP0_MSG
 -- ----------------------------------------------------------------------------------
-This is the center of the old town, Genaade District.<03e0>Many historic temples line the streets.<04e0>Up the street is the Temple of Elysion, where<03e0>people have prayed to the old gods for hundreds<03e0>of years.<04e0>Is that what brings you here, too?<03e0>To say some prayers?
+Você está no centro da antiga cidade, no distrito de<03e0>Genaade. As ruas estão cheias de antigos templos.<04e0>Subindo por essa rua está o Templo de Elysion, um<03e0>grande santuário que muitos visitam para rezar aos<03e0>deuses há centenas de anos.<04e0>É isso o que você veio fazer aqui, também?<03e0>Veio fazer suas preces no templo?
 Message 2
 Message 3
 Message 4
-Since the incident in Nagapur, more and<03e0>more people visit the temple.<04e0>Praying keeps their minds off of the hopelessness<03e0>of an unknown future.
+Desde o incidente de Nagapur, cada vez mais gente tem<03e0>vindo visitar o templo.<04e0>A oração mantém suas mentes afastadas da angústia que<03e0>é provocada por tanta incerteza.
 Message 6
-See the Sacred Lands through the clouds?<04e0>According to legend, that's where the souls<03e0>of the dead return.<04e0>A thousand years ago, there was a war that cost<03e0>many their lives.<04e0>Marion Marshall prayed for the dead and her prayer<03e0>enveloped the Sacred Lands with a celestial light.<04e0>Since then, it has been an area for<03e0>souls to rest.
-Did you see that light soar straight towards<03e0>the Sacred Lands!?<04e0>I've never seen such brightness.<03e0>Could it have been the transfer of a powerful<03e0>soul into the heavens?<04e0>I just hope it did nothing to disturb the others<03e0>resting up there.
+Está vendo as Terras Sagradas, ali acima das nuvens?<04e0>Segundo diz a lenda, é para lá que se dirigem as<03e0>almas dos mortos.<04e0>Há cerca de um milhão de anos atrás houve uma guerra<03e0>que custou a vida de muitos soldados.<04e0>Marion Marshall rezou pelos caídos e com suas preces<03e0>uma luz celestial envolveu as Terras Sagradas.<04e0>Desde então, aquele lugar tem sido um refúgio<03e0>para a alma dos mortos.
+Você viu aquela luz subindo para as Terras Sagradas?<03e0> <04e0>Eu nunca tinha visto um brilho desse antes... Será que<03e0>foi a alma de algum ser muito poderoso indo para o céu?<03e0> <04e0>Só espero que, seja o que for, não perturbe as almas<03e0>que ali descansam.
 Message 3
 Message 4
-Countless souls must rest in the Sacred<03e0>Lands now, due to the war brought on by<03e0>the Conqueror's army.<04e0>The Congress insists that the army no longer<03e0>exists, but I'm worried that something like this<03e0>will happen again.<04e0>If it does, I just hope it doesn't happen any time<03e0>soon. I want the souls to be able to rest in peace.
+Me pergunto quantas almas agora descansam nas Terras<03e0>Sagradas, depois da guerra provocada pelo exército do<03e0>Conquistador.<04e0>O Conselho insiste em dizer que acabou com eles, mas<03e0>continuo preocupado pensando que algo parecido pode<03e0>vir a acontecer novamente.<04e0>Mas se acontecer, espero que não seja por agora...<03e0>Assim as almas dos caídos poderão descansar em paz.
 Message 6
-You know about Lady Marion and the romance<03e0>between her and the Imperator, right?<03e0>*sigh*<04e0>I wish something wonderful like that would<03e0>happen to me, too...<03e0>*sigh*
-What's going on?<03e0>What's this about a bright light shooting<03e0>towards the Sacred Lands?<04e0>I was inside the temple and missed it...<03e0>What happened!?
+Você já ouviu falar de Lady Marion e o romance que<03e0>teve com o primeiro Imperador Celestial? *suspiro*<03e0> <04e0>Quem me dera que algo assim também pudesse<03e0>acontecer comigo... *suspiro*<03e0>
+Mas o que será que está acontecendo? É verdade que<03e0>um feixe de luz foi disparado para as Terras Sagradas?<03e0> <04e0>Eu estava dentro do templo e acabei perdendo isso...<03e0>Alguém pode me explicar o que foi que aconteceu?
 Message 3
-I've been praying at the temple every day.<04e0>When I'm sad or frustrated, all I have to do is<03e0>look at Lady Marion's face and everything just<03e0>seems to fall into place.
-Genaade is a place with history.<03e0>The buildings and streets are still in<03e0>their original state.<04e0>Though the way the town was built, even folks<03e0>like me, who have lived here for over thirty years,<03e0>still get lost!
-Hey boy, did you see that?<03e0>A flash of light shot towards the heavens!<04e0>I've lived here for more than thirty years,<03e0>but I've never seen the Ark emit that kind<03e0>of light!
+Todos os dias venho fazer minhas preces no templo.<04e0>Sempre que me sinto triste ou desapontada venho<03e0>contemplar o rosto de Lady Marion e tudo parece<03e0>voltar ao normal.
+Genaade é um lugar que possui uma longa história.<03e0>As construções e ruas daqui ainda conservam seu<03e0>estado original.<04e0>Por causa da forma como a cidade foi construída,<03e0>todo mundo se perde em suas ruas... Isso acontece<03e0>até comigo, que há mais de trinta anos vivo aqui!
+Ei garoto, você também conseguiu ver aquilo?<03e0>Um feixe de luz foi disparado na direção do céu!<04e0>Eu vivo aqui a mais de trinta anos, e nunca tinha<03e0>visto o Arca emitir uma luz assim antes!<03e0>
 Message 3
-I heard from some young'uns that the Gwayn<03e0>went out of control and destroyed Nagapur!<04e0>What if the Sacred Lands came raining down<03e0>on us!? It IS a Remnant, after all...<04e0>Maybe it's time for this old fogey to find<03e0>a quiet town with a nice retirement home.
-Huh?<03e0>What're you doing here, old lady?
-Wha<07f0>excuse me?<03e0>Do I even know you?
-Oh, oops.<03e0>Um, I thought you were someone else...
-Hmph! Make sure you have the right<03e0>person next time!
-S-sorry...
-Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
-Calling someone "old lady" is rude and inconsiderate.<03e0>Besides, I am far from old!
-Hm? You again.
+Alguns jovens me disseram que o Gwayn ficou fora<03e0>de controle e destruiu Nagapur!<04e0>E se as Terras Sagradas caírem sobre nossas cabeças?<03e0>Afinal de contas, elas também são um Remanescente...<04e0>Talvez seja hora desse velhote aqui procurar um lugar<03e0>mais tranquilo, e que tenha um bom lar de idosos.
+Hã? O que está fazendo aqui, senhora?<03e0>
+Senhora? COMO SE ATREVE? Nem sei quem você é, eu ao<03e0>menos te conheço???
+Ops... Acho que confundi você com outra pessoa.<03e0>É que vocês são muito parecidas...
+Hmph! Na próxima vez, então, tenha certeza de estar<03e0>falando com a pessoa certa antes de abrir a boca!
+E-eu... Sinto muito...
+Hmph... Dessa vez vou deixar passar. Mas que<03e0>isso não volte a se repetir, está me ouvindo?
+Chamar uma dama como eu de "senhora" é uma tremenda<03e0>falta de respeito. Não sou tão velha assim!
+Hm? Oras, é você de novo.
 Uh.
-You don't look happy to see me.
-Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
-Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
-Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
-Thank you.
-You're not as inconsiderate as I thought.
-You're looking well.
-Heya, Ms. Young Maiden.
-Could you please not call me that?<03e0>It sounds ridiculous, to say the least.
-Well, it's not like I know your name.
-Oh?
+Você não parece feliz de me ver.
+Eh, n-não, não é isso! É que... Enfim, senh...<03e0>er, jovem donzela, o que está fazendo aqui?<03e0>
+Estou em treinamento. Na minha família temos como<03e0>tradição viajar o mundo ao chegar na vida adulta.<03e0>
+Huh... isso não deve ser nada fácil...<03e0>Então... Sabe... Tenha cuidado, tá?
+...Ahh. Obrigada.
+Parece que seus modos andaram melhorando....
+Você parece muito bem.
+Olá, senhorita... aham... jovem donzela...
+Será que pode fazer o favor de não me chamar assim?<03e0>É que soa um pouco ridículo, para falar a verdade.
+Bem... é que ainda não sei seu nome.
+Hã?
 ...
-The name's Emmy.
-Nice to meet you for real, finally.<03e0>I'm<07f001e00be00ae0>
-Rush. Rush Sykes.<03e0>Right?
-Wha<07f0>? How did you know!?
-I have my ways.
-Take care, Rush.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-Of course I keep in touch with my family.<03e0>That's how I know about you.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
-Hey, Rushie!<04e0>I'm having a fab time in town!<03e0>This place is like heaven!
-Rushie, do you believe in witches?<04e0>They're women with the ability to, like,<03e0>use special powers, like magick.<04e0>...<04e0>You have no idea what magick is, do you...?<03e0>Then I guess you wouldn't know anything<03e0>about the Witch's Signet.<04e0>Sigh!<03e0>You need to, like, read more books<03e0>or something. Useless!
-Rushie, you need to, like, read more<03e0>books or something. Useless!
-You know how I was talking about witches<03e0>before? Maybe I can try to, like, explain<03e0>it a little. I'll tell you what my grandma told me.<04e0>So a really, really long time ago, there was<03e0>this thing called magick. It was nothing like<03e0>the spells we use where you need an object.<04e0>With magick, you can even rip through dimensions<03e0>and stuff, or summon monsters!<03e0>Scientists and people still talk about it today!<04e0>So a witch is a female who can like,<03e0>totally use magick!<04e0>I'm supposed to be, like, a descendant or<03e0>something of a clan that has these powers.<04e0>You don't know anything, do you?<03e0>I'm so exhausted!<03e0>I'll tell you the rest later.
-I'm supposed to be, like, a descendant or<03e0>something of a clan of witches!
-Anyway, so to continue my story...<04e0>When you're part of a family with these<03e0>kinda powers, they make you like, go<03e0>out and train when you're young.<04e0>So that's what I'm doing right now.<03e0>I need to, like, get this thing called the Witch's<03e0>Signet. It's...somewhere in this world.<04e0>I'm so totally over this training, so I want<03e0>to find it ASAP and be done with it!<03e0>So, Rushie, will you help me find this thingy?
-I'm so totally over this training!<03e0>I want to find the signet ASAP and be done<03e0>with it all!
-Thanks a million for helping me find<03e0>the Witch's Signet, Rushie!<04e0>Okay, so I made a decision.<03e0>I'm going to become a witch!<04e0>According to the signet, the job of, like, a true<03e0>witch is to discover the world's truths!<04e0>I figure I can travel the world to learn more<03e0>about magick and stuff. And maybe I can<03e0>become a real witch!<04e0>I'm gonna wait to tell Grandma I found<03e0>the signet. I'm gonna become a kickass<03e0>witch and surprise her one day!<04e0>So Rushie, I'll be seeing a lot of you.<03e0>Lucky you!
-Heya, Rush!<04e0>What's the 411?
+Pode me chamar de Emmy.
+Fico contente de conhecê-la, finalmente.<03e0>Eu sou...<01e00be00ae0>
+Não precisa dizer.<03e0>Seu nome é Rush Sykes, não é?
+Co.... Como você sabia?
+Tenho meus recursos.
+Se cuide, Rush.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Qual é o propósito de tanto treinamento?<03e0>Bem... tenho meus motivos, mas em geral quero<03e0>aprimorar minhas capacidades físicas e mentais.
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Você ainda está procurando sua irmã, não está?<03e0>Gostaria de poder te ajudar a encontrá-la...
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Eu falo com a minha família de vez em quando.<03e0>Foi assim que fiquei sabendo sobre você.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+Tenho estado em treinamento durante muito tempo, mas<03e0>ainda tenho um longo caminho pela frente até chegar<03e0>aos pés da minha mãe... Mas não vou desistir agora.
+E aí, Rushie!<04e0>Estou gostando muito de conhecer essa cidade!<03e0>Esse lugar é maravilhoso!
+Rushie, você acredita em feiticeiras?<04e0>São mulheres com habilidade para, tipo,<03e0>usar poderes especiais, como a magia arcana.<04e0>...<04e0>Você não faz ideia do que é a magia arcana, faz...?<03e0>Então imagino que também não deve saber nada<03e0>sobre o Anel da Feiticeira.<04e0>Pfff...!<03e0>Você precisa, tipo, ler mais ou coisa parecida.<03e0>Seu inútil!
+Rushie, você precisa, tipo, ler mais ou coisa<03e0>parecida. Seu inútil!
+Você se lembra do que eu estava te dizendo sobre as<03e0>feiticeiras? Talvez eu possa, tipo, explicar melhor.<03e0>Vou te contar o que dizia a minha avó.<04e0>Então, há muito, muito tempo atrás, havia uma arte<03e0>conhecida como magia arcana. Era muito diferente dos<03e0>feitiços, que precisam de um objeto para ser usado.<04e0>Com a magia arcana você podia atravessar dimensões<03e0>e esse tipo de coisa, até mesmo invocar monstros!<03e0>Os cientistas continuam falando dela até hoje!<04e0>Então, uma feiticeira é uma mulher que pode, tipo,<03e0>usar a magia arcana!<04e0>E eu supostamente sou, tipo, descendente ou algo<03e0>assim, de um clã que possuía esses poderes.<04e0>Você não faz ideia do que estou falando, não é?<03e0>Ah... Estou tão cansada...<03e0>Outra hora te contarei o resto da história.
+Eu supostamente sou, tipo, descendente de um<03e0>tipo de clã de feiticeiras, sabia?
+Bem, então me deixe continuar a história...<04e0>Quando você é parte de uma família que tem<03e0>esses poderes, eles te fazem tipo, sair de casa<03e0>para receber treinamento quando você é jovem.<04e0>E é justamente isso que estou fazendo agora.<03e0>Eu preciso, tipo, encontrar essa coisa chamada de<03e0>Anel da Feiticeira que está em algum lugar do mundo.<04e0>Já estou farta desse treinamento, por isso quero<03e0>encontrá-lo de uma vez para acabar com isso!<03e0>Então, Rushie, você me ajuda a encontrá-lo?
+Já estou farta desse treinamento!<03e0>Preciso encontrar o anel o mais rápido possível para<03e0>acabar com isso!
+Muito obrigada por me ajudar a encontrar<03e0>o Anel da Feiticeira, Rushie!<04e0>Certo, então, eu tomei uma decisão...<03e0>Vou me tornar uma feiticeira!<04e0>Segundo a inscrição do anel, uma feiticeira deve<03e0>dedicar sua vida ao estudo das verdades do universo!<04e0>Então preciso viajar pelo mundo para aprender mais<03e0>sobre a magia arcana e todas essas coisas. E talvez<03e0>assim eu possa me tornar uma feiticeira de verdade!<04e0>Vou esperar até me tornar uma feiticeira antes de<03e0>contar para minha avó que encontrei o anel. Vai ser<03e0>uma surpresa e tanto para ela!<04e0>Então Rushie, nos vemos por aí.<03e0>Veja só a sorte que você tem!
+Ei, Rush!<04e0>O que você conta de bom?
 

@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0430_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The tablet of Marshall is reacting<03e0>to the Flâchonelle.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! It's creepy...
-(If I take this now, Rhagoh will hate me...)<06e0000008e0000000000000>Let's take it!<09e008e0010000000300>Let's leave it.
+A tabuleta de Marshall está reagindo ao<03e0>Flâchonelle. Quer usar a tabuleta?<03e0> <06e0000008e0000000000000>Claro!<09e008e0010000000300>Não! Ele me dá nos nervos...
+(Se eu levar ele, Rhagoh vai me odiar...)<06e0000008e0000000000000>Que se dane!<09e008e0010000000300>Vamos deixá-lo aqui.
 

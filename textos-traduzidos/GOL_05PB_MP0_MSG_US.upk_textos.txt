@@ -1,204 +1,204 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) GOL_05PB_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Hey there!<03e0>The Den of Heroes here to serve you!
-Hey there! The Den of Heroes here to<03e0>serve you! I'm out of peanuts, so<03e0>how about a story instead?<04e0>South of the desert lies Royotia,<03e0>a city in a dangerous mountainous region.<04e0>Even though it's a small town, the people<03e0>who struggle to live there<07f0>their hardship<07f003e0>is burned into my memory forever.
-You know why the gang in Nagapur can<03e0>rest easy?<03e0>It's because of us!<04e0>I don't think they see that.<03e0>I feel like they take us for granted!
-What a thing to happen to Nagapur...<03e0>I can't help but feel sorry for them.
-I thought Hermeien died during the incident<03e0>with the Gwayn, but I hear he's still alive<03e0>and crazier than ever.<04e0>I hope our lord doesn't feel like he<03e0>has to go head to head with that madman...
-Hey, no shenanigans in my pub, you hear?<04e0>Our lord is recuperating at the moment.<03e0>We pray for a quick recovery.<04e0>I don't want to answer to some kid from Celapaleis!
-Our lord is too noble for his own good.<04e0>Just because he feels indebted to Lord Oswald,<03e0>the previous Nagapur leader, he shouldn't feel<03e0>he has to repay his gratitude to that punk Wilfred.
-A whippersnapper like Wilfred Hermeien had no<03e0>business being Chairman of the Congress in the first<03e0>place.<04e0>A fine, upstanding man with a strong sense of duty<03e0>like our own Lord Ghor is infinitely more suited for<03e0>the position.
-I don't feel we owe anything to that Hermeien kid.<04e0>I saw the look in his eyes when he came to speak<03e0>with our lord. Something wasn't quite right about him...<04e0>I wonder if Ghor is prepared to throw away its<03e0>outdated sense of duty and go against Hermeien<03e0>if the need arises...<04e0>Our lord is a good man, but sometimes he's too moral<03e0>for his own good.
-Our lord is resting in his castle.<03e0>I hear he's not doing very well.<04e0>I'm filled with rage!<03e0>I want to take the Conqueror's life<03e0>with my own blade!<04e0>I know I could take him on if only I<03e0>were 50 years younger.
-I spoke to the white yama and he told me<03e0>about a secret Blackdale entrance.<03e0>He held such fear in his eyes...
-Sir! Nothing new to report, sir!
-How many times do I have to tell<03e0>you, this isn't the army!?
-Sir! Sorry, sir!
-The wife of Celapaleis's Baron Nielsen has<03e0>run off, sir! They're famous for fighting like<03e0>cats and dogs, so no surprise there, sir!
-Sir! What do you think of this?
-Don't chase those who flee.
-Wise advice, sir!
-According to my sources, some crazy woman<03e0>is plotting to assassinate Duke Qubine, sir!
-Sir! What do you think of this?
-You should always be prepared for<03e0>anything. Danger lurks around every corner.
-I'm always prepared, sir!
-The princess of the desert kingdom is in<03e0>love and sneaks out of the castle frequently<03e0>to rendezvous with her love, sir!
-Sir! What do you think of this?
-I don't know, and I don't care.
-The princess from the desert kingdom<03e0>eloped with her love, sir!
-Sir! What do you think of this?
-What does that mean, "they eloped"?
-I don't know, sir!
-The conflict between Balterossa and<03e0>Royotia is getting worse by the day, sir!<03e0>Everyone thinks a war is inevitable.
-Sir! What do you think of this?
-The blame lies in politics.
-According to my sources, in a certain moor,<03e0>the Imperator used his powers to seal<03e0>the entranceway to another realm, sir!
-Sir! What do you think of this?
-I smell adventure!
-Any Forest Maiden that vows eternity<03e0>with a Melphinian knight gains the power of<03e0>seeing and hearing whatever her partner does, sir!
-Sir! What do you think of this?
-If I had that power, I could get into<03e0>the minds of the customers and bring<03e0>them their order without asking!
-That would be genius, sir!
-It seems something happened to the Last<03e0>Leaf in Crookfen, sir! The Forest Maidens and<03e0>the knights of Melphina are taking action.
-Sir! What do you think of this?
-I smell even more adventure!
-According to my sources, this year's Kosmosfest<03e0>hasn't began yet because the Cosmos Maiden<03e0>has yet to arrive, sir!
-Sir! What do you think of this?
-A festival calls for a celebration.
-Roger that, sir!
-The Cosmos Maiden has made it safely to the festival<03e0>and it's about to begin, sir! It's a shame this tranquil<03e0>event is always disrupted by monsters.
-Sir! What do you think of this?
-A tranquil festival? Count me out.<03e0>I want some fun!
-A old-fashioned woman is seeking a bodyguard,<03e0>sir! She awaits in the pub in the town with<03e0>the canals.
-Sir! What do you think of this?
-I've never been one to shy away from<03e0>a damsel in distress...
-I'll look after the store for you, sir!
-The treasures from different lands bestowed<03e0>upon the holy city have been stolen and<03e0>are being sold on the black market, sir!
-Sir! What do you think of this?
-That city's gone to shit.<03e0>It doesn't deserve any of the glory<03e0>it had before.
-Someone is seeking the three valuable<03e0>stones, an important part of the desert's history,<03e0>sir!
-Sir! What do you think of this?
-It's like something out of a book!<03e0>"When the three stones come together,<03e0>an unknown tale will unfold..."
-A scientist is seeking an assistant to help<03e0>him with research regarding ancient magick, sir!
-Sir! What do you think of this?
-Research, huh? I'll pass this on to you.
-No can do, sir!
-A horrible monster sealed by the Imperator<03e0>long ago has been resurrected, sir!<03e0>It may just be the end of us!
-Sir! What do you think of this?
-Of course, we can save ourselves.<03e0>The world will come to an end only when<03e0>we all stop having hopes and dreams!
-A man with amnesia is searching for<03e0>something he lost in the desert, sir!<03e0>Perhaps he's searching for his memory?
-Sir! What do you think of this?
-Men are always on a journey to find<03e0>who they really are.
-A notorious bandit has been seen<03e0>lurking around Athlum, sir! It seems he's<03e0>waiting for someone.
-Sir! What do you think of this?
-Something happened in his past to<03e0>change him into what he is today.<03e0>I can tell.
-Someone is searching for the statue in<03e0>the Robelia Ruins that supposedly lets one<03e0>reunite with someone far away, sir!
-Sir! What do you think of this?
-I would go visit that person directly,<03e0>no matter how far they were.
-There was a murder in the big city and<03e0>the assailant is still on the loose, sir!
-Sir! What do you think of this?
-They need to search every corner<03e0>of the city and find this man!
-A large yama is in need of help, searching for<03e0>something he's lost, sir! There's something odd<03e0>about his behavior...
-Sir! What do you think of this?
-I think I've seen him around...
-A white qsiti has been seen rummaging<03e0>through books written about magick, sir!<03e0>Some say he looks familiar.
-Sir! What do you think of this?
-Familiar, huh? I wonder if he's someone<03e0>famous...
-Rumor's been going around about these<03e0>skilled mercenaries<07f0>they're twins<03e0>and they're girls, sir!
-Sir! What do you think of this?
-A mercenary who can actually do<03e0>some decent work? This I have to see<03e0>with my own eyes!
-Someone is hosting a game out in<03e0>the Great Sand Sea, sir! I wonder how<03e0>many people are up to the task.
-Sir! What do you think of this?
-I'm intrigued. I've never backed down<03e0>from a challenge.
-I'll hold this place down, sir!
-An old warrior is crossing the Great Sand Sea,<03e0>looking for a certain sword, sir!
-Sir! What do you think of this?
-I'd like to have a drink with this man!<03e0>It seems we'd have a lot to talk about.
-The soldiers of this town all look up to their lord, sir!<03e0>He has the respect of each and every one of them.
-Sir! What do you think of this?
-Isn't it normal for all lords to care<03e0>for their soldiers?
-The Honeywell clan serves Athlum well, sir!<03e0>The residents of Athlum have nothing<03e0>but trust and respect for that family.
-Sir! What do you think of this?
-The Honeywells are nothing compared<03e0>to our Duke Ghor.
-Apparently, Torgal of the Athlum generals<03e0>is touchy about his past, sir!
-Sir! What do you think of this?
-I don't care about people's pasts.<03e0>If it doesn't come straight from their<03e0>mouths, it's usually false information anyway.
-The Tournament of Heroes is starting up again, sir!
-Sir! What do you think of this?
-I heard some blue yama is looking<03e0>for a partner to enter this competition.
-Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things, sir!
-Sir! What do you think of this?
-I have more respect for carpenters.<03e0>They're useful in the real world!
-Athlum's had its share of bad luck, sir!<03e0>Hopefully, the new Honeywell girl will be<03e0>able to fill her mother's shoes.
-Sir! What do you think of this?
-You can't judge people by their age.
-According to my sources, the admirers of<03e0>the Marquis of Athlum cannot believe there<03e0>is no woman in his life, sir!
-Sir! What do you think of this?
-Why would I care about this?
-The ex-director of the Academy<03e0>has been spotted at pubs in various<03e0>cities, sir!
-Sir! What do you think of this?
-All I can tell you is that she hasn't<03e0>been here.
-Dr. Sykes has been seen making frequent<03e0>trips to Athlum Castle lately, sir!
-Sir! What do you think of this?
-It must be tough being famous.<03e0>You can't do anything without people<03e0>talking about you behind your back.
-A monster was spotted flying around<03e0>Wyrmskeep, sir! The people are apparently<03e0>all shaken up.
-Sir! What do you think of this?
-Move out of the way!<03e0>I can take that sucker down!
-I'll hold down the fort, sir!
-A bloodthirsty female warrior is trying to hunt down<03e0>the goons responsible for the incident<03e0>at the moor, sir!
-Sir! What do you think of this?
-Ah, youth.
-A mob of ferocious monsters has<03e0>been spotted in the Great Sand Sea, sir!
-Sir! What do you think of this?
-Ferocious? Overwhelming?<03e0>Let me at them!<03e0>I love a good fight.
-Archaeologists say that in the depths of<03e0>the volcano, there is enough power to destroy<03e0>an entire city, sir!
-Sir! What do you think of this?
-Volcanoes represent the explosive<03e0>energy and heat of a man chasing<03e0>his dream!
-I couldn't have said it better myself, sir!
-There are no means to research the dangers<03e0>that lie within a volcano, sir. But lords have their ways<03e0>of finding things out<07f0>no matter how impossible.
-Sir! What do you think of this?
-Volcanoes and danger!<03e0>My two favorite things in the world!
-I couldn't have said it better myself, sir!
-There's a town somewhere without a lord, sir!<03e0>I hear his two sons are fighting for<03e0>the position.
-Sir! What do you think of this?
-Fighting over power is useless.<03e0>Those who are destined to rule over others<03e0>will naturally come to power.
-I couldn't have said it better myself, sir!
-According to my sources, if you listen closely,<03e0>you can hear crying coming from the depths of<03e0>the Great Sand Sea, sir!
-Sir! What do you think of this?
-I-I'm not good at dealing with<03e0>anything supernatural...
-Long ago, a hero wandered the Great Sand Sea, sir!
-Sir! What do you think of this?
-He's a man of the past.<03e0>Now Duke Ghor is the hero of the times.
-I couldn't have said it better myself, sir!
-Someone claims that if you talk to the pillar<03e0>in the Great Sand Sea, ghosts appear from nowhere, sir!
-Sir! What do you think of this?
-I-I hate ghosts!
-There's a scientist in Melphina who everyone<03e0>avoids because he's absolutely crazy, sir!
-Sir! What do you think of this?
-I wonder what happened.
-I think he did something horrible<03e0>to someone, sir!
-Desert bugs keep flying into the pub of a town<03e0>near the desert, sir, and it's driving the owner<03e0>crazy!
-Sir! What do you think of this?
-Swallowing a bug or two won't kill<03e0>anyone!
-You're absolutely right, sir!
-Nagapur's become such a dangerous area since<03e0>the incident, sir! There's lots of crime, especially<03e0>involving the kidnapping of young boys and girls.
-Sir! What do you think of this?
-I've got a knuckle sandwich for<03e0>anyone who tries to hurt kids<03e0>around here!
-You tell them, sir!
-A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures, sir.<03e0>No one does that anymore, though.
-Sir! What do you think of this?
-This place is my treasure.<03e0>I wouldn't give it up for all the money<03e0>in the world.
-Balterossa is the sole buyer of all of<03e0>Royotia's trade goods, sir, and there are lots of<03e0>merchants that aren't happy with the situation.
-Sir! What do you think of this?
-They might be disgruntled, but safety<03e0>should come first. It's better in the long run.
-A yamaan mercenary is seeking help, sir!<03e0>I bet he found himself a job too big to<03e0>handle alone.
-Sir! What do you think of this?
-A mercenary looking for help, huh?<03e0>This must be some job!
-I expect so, sir!
-There's a man in Celapaleis who's sweet<03e0>one second, but angry the next, sir.<03e0>And apparently, women like that in a man!
-Sir! What do you think of this?
-He sounds like a kook to me.<03e0>I'll never understand women and<03e0>their taste in men.
-There's a qsiti who stands in the middle<03e0>of busy streets and glares at anyone<03e0>who bumps into him, sir!
-Sir! What do you think of this?
-Take me to him.<03e0>If it's confrontation he wants, it's<03e0>confrontation he'll get!
-There's a mysterious woman with what looks like<03e0>the weight of the world on her shoulders, sir!
-Sir! What do you think of this?
-Maybe I should give it a shot...
-A group of Bloody Alice soldiers was spotted<03e0>at the moor, sir!<03e0>They must be getting ready to do something big.
-Sir! What do you think of this?
-They're hiding something.<03e0>I know it. What could it be?
-The Jhana are now causing trouble in<03e0>the Great Sand Sea, sir! Apparently, not even<03e0>the Gae Bolg can teach them a lesson.
-Sir! What do you think of this?
-I admire the Silver Falcons for sticking<03e0>to their guns and doing what they believe<03e0>in, though they scare me a little, to be honest...
-According to my sources, the Silver Falcons are going<03e0>to rid the area of the Jhana, sir!
-Sir! What do you think of this?
-We should let the Silver Falcons be,<03e0>and support their efforts from afar.<03e0>We don't want to be a burden.
-According to my sources, the Silver Falcons are going<03e0>to get rid of what's left of the Conqueror's army, sir!<03e0>Good riddance!
-Sir! What do you think of this?
-Whatever happened to that regular<03e0>who said he was leaving to join<03e0>the Conqueror's army?
-I haven't heard anything from him, sir!
-A gloomy-looking man frequents the pub in Elysion,<03e0>sir, and he's scaring the customers!
-Sir! What do you think of this?
-Everyone has something in their past<03e0>they'd like to hide.<03e0>Some more than others.
+Olá! A Toca dos Heróis está aqui para servi-lo!<03e0>
+Olá! A Toca dos Heróis está aqui para servi-lo!<03e0>Sinto muito por terem acabado os amendoins, mas<03e0>que tal uma história para compensar?<04e0>Ao Sul do deserto há uma região montanhosa bastante<03e0>traiçoeira, e ali se encontra a cidade de Royotia.<04e0>Mesmo se tratando de uma cidade pequena, o valor das<03e0>pessoas que lutam para viver ali é algo que ficará<03e0>gravado para sempre na minha memória.
+Você quer saber porque esse pessoal de Nagapur vive<03e0>tão tranquilo? Por causa de nós, é claro!<03e0> <04e0>E acho que eles nem ao menos se dão conta disso.<03e0>Eles nos tratam como se fôssemos lixo!
+Mas que tragédia isso que aconteceu em Nagapur...<03e0>Não posso deixar de sentir pena por eles.
+Pensei que Hermeien tinha morrido no incidente com o<03e0>Gwayn, mas parece que está vivo e ainda mais louco<03e0>que nunca.<04e0>Espero que nosso senhor não esteja planejando bater<03e0>de frente com esse maluco...
+Ei, nada de gracinhas na minha taverna, está ouvindo?<04e0>Nosso senhor ainda está se curando de suas feridas.<03e0>Temos esperança de que logo esteja bem.<04e0>Não quero receber ordens do pirralho de Celapaleis!
+Nosso senhor é muito generoso.<04e0>Mas ainda que se sinta em dívida com lorde Oswald,<03e0>o antigo governador de Nagapur, isso não quer dizer<03e0>que tenha de ser grato a esse cretino do Wilfred.
+Em primeiro lugar, nunca deveriam ter colocado como<03e0>Presidente do Conselho um jovem tão insolente como<03e0>Wilfred Hermeien.<04e0>Um homem íntegro e com um forte senso de justiça como<03e0>nosso estimado duque de Ghor seria bem mais adequado<03e0>para essa posição.
+Não acho que devemos algo a esse garoto Hermeien.<04e0>Você prestou atenção nos seus olhos quando ele falava<03e0>com nosso senhor? Havia algo estranho naqueles olhos.<04e0>Espero que nosso senhor esteja disposto a deixar de<03e0>lado seu ultrapassado senso de responsabilidade para<03e0>enfrentar Hermeien, se preciso for...<04e0>Nosso senhor é um grande homem, mas às vezes ele dá<03e0>importância demais aos seus próprios princípios.
+Nosso senhor está descansando no castelo. Ouvi dizer<03e0>que ainda não está fora de perigo.<04e0>Estou com tanta raiva! Se eu encontrasse agora esse<03e0>tal de Conquistador, cortaria ele em pedacinhos!<03e0> <04e0>Bem, tenho certeza que poderia fazer isso, se fosse<03e0>uns cinquenta anos mais jovem...
+Conversei com o yama albino e ele me falou sobre uma<03e0>entrada secreta para ValeNegro. Mas havia um medo de<03e0>verdade nos seus olhos...
+Senhor! Nada de novo para reportar, senhor!
+Quantas vezes tenho que dizer a você que isso aqui<03e0>não é o exército, hã?
+Sim senhor! Sinto muito, senhor!
+A esposa do barão Nielsen de Celapaleis desapareceu,<03e0>senhor! Mas todos sabem que os dois brigam como cão<03e0>e gato, por isso ninguém está surpreso, senhor!
+O que tem a dizer sobre isso, senhor?
+É melhor não perseguir os espíritos livres.
+Sábio conselho, senhor!
+De acordo com meus contatos, uma mulher maluca está<03e0>planejando assassinar o duque de Qubine, senhor!
+O que tem a dizer sobre isso, senhor?
+Devemos estar preparados para tudo. O perigo espreita<03e0>em cada esquina.
+Estou sempre preparado, senhor!
+Ouvi dizer que a princesa do deserto está apaixonada<03e0>e foge do castelo com frequência para ver seu amado,<03e0>senhor!
+O que tem a dizer sobre isso, senhor?
+Não tenho nada a dizer... e também não me importo.
+Senhor! A princesa do deserto fugiu com seu amado!<03e0>
+O que tem a dizer sobre isso, senhor?
+Como assim que ela fugiu? Fugiu para onde?
+Não sei dizer, senhor!
+O conflito entre Balterossa e Royotia está ficando<03e0>pior a cada dia que passa, senhor! Todo mundo está<03e0>dizendo que a guerra é inevitável.
+O que tem a dizer sobre isso, senhor?
+A culpa é dos políticos.
+De acordo com meus informantes, o primeiro Imperador<03e0>celestial encontrou um portal para outra dimensão em<03e0>um pântano e usou seu poder para fechá-lo, senhor!
+O que tem a dizer sobre isso, senhor?
+Isso tem cheiro de aventura!
+Senhor! Se uma Donzela do Bosque faz um juramento a<03e0>um cavaleiro de Melphina, ela recebe o poder de ver e<03e0>ouvir tudo o que ele estiver fazendo.
+O que tem a dizer sobre isso, senhor?
+Se eu tivesse esse poder, poderia entrar na cabeça<03e0>dos meus clientes para descobrir o que eles querem<03e0>pedir, sem nem mesmo perguntar!
+Isso seria genial, senhor!
+Parece que aconteceu alguma coisa com a Folha Caída<03e0>em Crookfen, senhor! As Donzelas do Bosque junto com<03e0>os cavaleiros de Melphina já estão investigando.
+O que tem a dizer sobre isso, senhor?
+Isso tem cheiro de mais aventura!
+De acordo com meus informantes, a Festa Cósmica desse<03e0>ano ainda não começou porque a Donzela Cósmica ainda<03e0>não apareceu, senhor!
+O que tem a dizer sobre isso, senhor?
+Um festival precisa de um motivo para ser celebrado.
+Assim é que se fala, senhor!
+No final, a Donzela Cósmica conseguiu chegar a tempo<03e0>e o festival teve início, conforme previsto, senhor!<03e0>Até que apareceram os monstros, como sempre...
+O que tem a dizer sobre isso, senhor?
+Um festival para celebrar a paz? Isso não é para mim.<03e0>O que eu quero é me divertir!
+Uma dama apegada a tradições está querendo contratar<03e0>um guarda-costas, senhor! Dizem que ela tem ido com<03e0>frequência na taverna de uma cidade cheia de canais.
+O que tem a dizer sobre isso, senhor?
+Nunca consegui negar o pedido de uma dama em apuros.<03e0>
+Eu cuidarei da taverna para você, senhor!
+Parece que os tesouros dos reinos antigos foram parar<03e0>na mão de contrabandistas, e agora vem sendo vendidos<03e0>no mercado negro da cidade sagrada, senhor!
+O que tem a dizer sobre isso, senhor?
+Aquela cidade está afundando na lama. Ela não merece<03e0>nem um pingo do prestígio que teve no passado.<03e0>
+Há um homem por aí que anda em busca de três pedras<03e0>relacionadas com o antigo reino do deserto, senhor!<03e0>
+O que tem a dizer sobre isso, senhor?
+É como se tivessem tirado essa história de um livro!<03e0>"Quando as três pedras forem reunidas, será revelado<03e0>um mistério de tempos esquecidos..."
+Um cientista maluco está buscando um assistente para<03e0>ajudá-lo numa pesquisa sobre a magia arcana, senhor!
+O que tem a dizer sobre isso, senhor?
+Pesquisa, hã? Deixo isso para você.
+Não posso fazer isso, senhor!
+Parece que está de volta um monstro que havia sido<03e0>aprisionado pelo primeiro Imperador, senhor! E isso<03e0>pode ser o nosso fim!
+O que tem a dizer sobre isso, senhor?
+Oras, é claro que há uma saída. O mundo só vai acabar<03e0>quando desistirmos dos nossos sonhos e perdermos as<03e0>nossas esperanças!
+Um homem com amnésia está vagando pelo deserto atrás<03e0>de alguma coisa que perdeu ali, senhor! Será que está<03e0>procurando suas memórias?
+O que tem a dizer sobre isso, senhor?
+Os homens estão sempre embarcando em uma jornada<03e0>para poderem encontrar a si mesmos.
+Um bandido famoso foi visto nos arredores de Athlum,<03e0>senhor! Dizem que ele está esperando por alguém.<03e0>
+O que tem a dizer sobre isso, senhor?
+Tenho certeza que aconteceu algo no seu passado para<03e0>transformá-lo naquilo que se tornou. Certeza.<03e0>
+Um rapaz está procurando uma estátua nas Ruínas de<03e0>Robélia que, segundo dizem, pode encontrar qualquer<03e0>pessoa do mundo, senhor!
+O que tem a dizer sobre isso, senhor?
+Eu iria ver essa pessoa diretamente, sem me importar<03e0>o quão longe ela estivesse.
+Houve um assassinato na grande cidade e o culpado<03e0>ainda continua solto, senhor!
+O que tem a dizer sobre isso, senhor?
+Eles precisam vasculhar todos os cantos da cidade<03e0>para encontrar esse homem!
+Um yama enorme está precisando de ajuda para buscar<03e0>algo que perdeu, senhor! Mas estão dizendo que ele<03e0>se comporta de uma forma bem estranha...
+O que tem a dizer sobre isso, senhor?
+Acho que já vi ele por aqui...
+Parece que um qsiti albino está em busca de um certo<03e0>livro sobre a magia arcana, senhor! As pessoas estão<03e0>dizendo que ele parece familiar.
+O que tem a dizer sobre isso, senhor?
+Familiar, hã? Imagino que deve ser alguém famoso...<03e0>
+Senhor! Há um par de mercenárias que está dando muito<03e0>o que falar. Elas são irmãs e também gêmeas, senhor!<03e0>
+O que tem a dizer sobre isso, senhor?
+Um mercenário que consegue fazer um trabalho decente?<03e0>Isso é algo que preciso ver com meus próprios olhos!<03e0>
+Um homem está organizando um tipo de jogo no Grande<03e0>Mar de Areia, senhor! Será que vai encontrar muitas<03e0>pessoas dispostas a participar disso?
+O que tem a dizer sobre isso, senhor?
+Isso me deixou curioso. Nunca fugi de um desafio.<03e0>
+Pode deixar que cuidarei bem desse lugar, senhor!
+Dizem que um velho guerreiro atravessou todo o Grande<03e0>Mar de Areia em busca de um espada especial, senhor!
+O que tem a dizer sobre isso, senhor?
+Eu adoraria beber com esse sujeito! Parece que temos<03e0>muitas coisas em comum.
+Os soldados dessa cidade admiram seu líder, senhor!<03e0>Ele tem o respeito de cada um de nós.
+O que tem a dizer sobre isso, senhor?
+Bem.... Acredito que seja normal que os líderes se<03e0>preocupem com seus soldados.
+A família Honeywell fez muitas coisas por Athlum,<03e0>senhor! Os habitantes da cidade sempre depositaram<03e0>uma grande confiança e respeito em seus membros.
+O que tem a dizer sobre isso, senhor?
+Os Honeywells não chegam aos pés do duque de Ghor.<03e0>
+Estão dizendo que um general de Athlum, Torgal, está<03e0>preocupado com alguma coisa do seu passado, senhor!
+O que tem a dizer sobre isso, senhor?
+Não me importo com o passado das pessoas. Além disso,<03e0>se a informação não vem diretamente da boca da pessoa<03e0>é bem provável que seja mentira.
+O Torneio dos Heróis está prestes a começar, senhor!
+O que tem a dizer sobre isso, senhor?
+Ouvi dizer que um yama azul está buscando um parceiro<03e0>para entrar na competição.
+A Academia de Artes Místicas é uma escola famosa e<03e0>seus alunos realizam grandes feitos, senhor!
+O que tem a dizer sobre isso, senhor?
+Tenho muito mais respeito pelos carpinteiros.<03e0>Pelo menos na vida real, são muito mais úteis!
+Athlum já teve sua cota de má sorte, senhor! Tomara<03e0>que a nova garota Honeywell possa fazer seu trabalho<03e0>tão bem quanto fazia sua mãe.
+O que tem a dizer sobre isso, senhor?
+Não podemos julgar uma pessoa pela sua idade.
+De acordo com meus informantes, as admiradoras do<03e0>marquês de Athlum não conseguem explicar o porquê<03e0>dele não tem uma mulher na sua vida, senhor!
+O que tem a dizer sobre isso, senhor?
+Por que eu me preocuparia com isso?
+Estão dizendo que a antiga diretora da Academia anda<03e0>de cidade em cidade visitando tavernas, senhor!<03e0>
+O que tem a dizer sobre isso, senhor?
+A única coisa que posso dizer é que ela não passou<03e0>por essa aqui.
+Estão dizendo que a doutora Sykes tem feito visitas<03e0>frequentes ao castelo de Athlum, senhor!
+O que tem a dizer sobre isso, senhor?
+Não deve ser fácil ser famoso. Você não pode fazer<03e0>nada sem que as pessoas fiquem falando de você.<03e0>
+Avistaram um monstro nos céus de ForteDragão, senhor!<03e0>Os habitantes da região estão muito assustados.<03e0>
+O que tem a dizer sobre isso, senhor?
+Saia da minha frente! Eu mesmo resolvo esse problema!<03e0>
+Eu ficarei aqui para defender a taverna, senhor!
+Uma guerreira com sede de justiça está caçando os<03e0>responsáveis pelo incidente no pântano, senhor!<03e0>
+O que tem a dizer sobre isso, senhor?
+Ah, essa juventude...
+Dizem que há uma horda de monstros ferozes rondando<03e0>o Grande Mar de Areia, senhor!
+O que tem a dizer sobre isso, senhor?
+Monstros ferozes? Deixe eles comigo! Nada me traz<03e0>mais satisfação que uma boa luta!<03e0>
+Segundo dizem os historiadores, nas profundezas de um<03e0>vulcão se esconde uma criatura que pode destruir uma<03e0>cidade inteira, senhor!
+O que tem a dizer sobre isso, senhor?
+Aaah... Toda vez que me falam de vulcões me vem à<03e0>mente a energia e persistência de homens dispostos<03e0>a correr atrás dos seus sonhos!
+Eu não seria capaz de dizer algo melhor, senhor!
+Ninguém sabe que perigos se escondem no interior de<03e0>um vulcão. Mas os lordes têm recursos para descobrir<03e0>essas coisas, por mais difícil que pareça.
+O que tem a dizer sobre isso, senhor?
+Vulcões ativos e grandes perigos... Não há nada no<03e0>mundo que eu goste mais!
+Eu não seria capaz de dizer algo melhor, senhor!
+Dizem que uma cidade por aí perdeu seu governador,<03e0>senhor! Desde então seus filhos estão brigando para<03e0>ver quem fica com o posto do pai.
+O que tem a dizer sobre isso, senhor?
+É inútil brigar por um trono... Aqueles destinados a<03e0>governar sempre acabam alcançando o poder pelos<03e0>seus próprios meios.
+Eu não seria capaz de dizer algo melhor, senhor!
+De acordo com meus informantes, se você escutar com<03e0>bastante atenção, poderá ouvir um lamento vindo das<03e0>profundezas do Grande Mar de Areia, senhor!
+O que tem a dizer sobre isso, senhor?
+Eu não me dou muito bem com fenômenos sobrenaturais.<03e0>
+Há tempos atrás um herói vagava pelo Mar de Areia.
+O que tem a dizer sobre isso, senhor?
+Esse homem é um herói do passado. O duque de Ghor é<03e0>o maior herói da nossa era!
+Eu não seria capaz de dizer algo melhor, senhor!
+As pessoas disseram que se você falar com um pilar no<03e0>Grande Mar de Areia aparecerão fantasmas, senhor!
+O que tem a dizer sobre isso, senhor?
+Eu odeio fantasmas!
+As pessoas estão evitando um cientista em Melphina.<03e0>Ele é completamente maluco, senhor!
+O que tem a dizer sobre isso, senhor?
+O que será que aconteceu com ele?
+Acho que fez algo terrível com alguém que conhecia,<03e0>senhor!
+Dizem que há uma taverna, em uma cidade do deserto,<03e0>que está infestada de insetos, senhor. Parece que isso<03e0>está deixando o dono do estabelecimento maluco!
+O que tem a dizer sobre isso, senhor?
+Oras, engolir um ou outro inseto não faz mal algum!<03e0>
+Você está certíssimo, senhor!
+Desde aquele incidente Nagapur se tornou um lugar<03e0>muito perigoso, senhor! Há muita criminalidade e<03e0>dizem que meninos e meninas estão desaparecidos.
+O que tem a dizer sobre isso, senhor?
+Se eu ficar sabendo de alguém dessa cidade querendo<03e0>fazer alguma coisa com crianças, vai se ver comigo!<03e0>
+Assim é que se fala, senhor!
+Antigamente as pessoas de Royotia tinham como hábito<03e0>trocar os tesouros que encontravam nas suas viagens.<03e0>Mas hoje em dia ninguém mais faz isso.
+O que tem a dizer sobre isso, senhor?
+Esse lugar é o meu maior tesouro.<03e0>Eu não trocaria ele por nada desse mundo.<03e0>
+Senhor, todas mercadorias que vem de Royotia passam<03e0>por Balterossa, e muitos comerciantes não estão nada<03e0>satisfeitos com essa situação.
+O que tem a dizer sobre isso, senhor?
+Entendo que estejam insatisfeitos, mas a segurança<03e0>vem em primeiro lugar. É melhor continuar assim.
+Um mercenário yama está em busca de ajuda, senhor!<03e0>Parece que ele pegou um trabalho grande demais para<03e0>ser feito sem ajuda.
+O que tem a dizer sobre isso, senhor?
+Um mercenário em busca de ajuda, hã? Esse sim, parece<03e0>ser um trabalho perigoso!
+Também acho, senhor!
+Há um rapaz em Celapaleis que num momento é gentil,<03e0>mas do nada fica mal humorado, senhor. E parece que<03e0>é muito popular entre as mulheres!
+O que tem a dizer sobre isso, senhor?
+Para mim parece se tratar de um maluco. Eu nunca vou<03e0>entender as mulheres e seu gosto pelos homens.<03e0>
+Tem um qsiti que costuma ficar bem no meio de ruas<03e0>bastante movimentadas para ficar olhando com ódio<03e0>todos aqueles que esbarram nele, senhor!
+O que tem a dizer sobre isso, senhor?
+Me diga onde ele está. Se é briga que esse sujeito<03e0>está procurando, então briga ele vai ter!<03e0>
+Outro dia vi uma mulher para lá de misteriosa... Ela<03e0>parecia estar carregando o mundo nas costas, senhor!
+O que tem a dizer sobre isso, senhor?
+Talvez eu pudesse ajudá-la...
+As Damas Sangrentas foram vistas no pântano, senhor!<03e0>Parece que estão se preparando para algo importante.<03e0>
+O que tem a dizer sobre isso, senhor?
+Elas devem estar escondendo alguma coisa. Certamente.<03e0>O que poderia ser?
+Parece que os jhanas voltaram a causar problemas no<03e0>Grande Mar de Areia! Nem o Gae Bolg pôde detê-los.<03e0>
+O que tem a dizer sobre isso, senhor?
+Admiro os princípios dos Falcões Prateados, e também<03e0>sua vontade de fazer o que lhes parece correto, mas<03e0>para falar a verdade eles me assustam um pouco...
+De acordo com meus informantes, os Falcões Prateados<03e0>estão indo atrás dos jhanas, senhor!
+O que tem a dizer sobre isso, senhor?
+Deveríamos deixar os Falcões Prateados fazerem o seu<03e0>trabalho e apoiá-los como pudermos. Não devemos nos<03e0>colocar no seu caminho.
+De acordo com meus informantes, os Falcões Prateados<03e0>irão atrás do que restou do exército do Conquistador,<03e0>senhor! Espero que acabem com eles!
+O que tem a dizer sobre isso, senhor?
+O que será que aconteceu com aquele cliente que disse<03e0>que queria se juntar ao exército do Conquistador?<03e0>
+Não fiquei sabendo mais nada sobre ele, senhor!
+Um homem de aparência sombria está deixando todos<03e0>na taverna de Elysion deprimidos, senhor!
+O que tem a dizer sobre isso, senhor?
+Todo mundo guarda algum segredo sombrio sobre o seu<03e0>passado. Alguns mais que os outros.<03e0>
 

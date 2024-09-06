@@ -1,18 +1,18 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) GST_0301_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Engraved at the top are the words<03e0>"Chapter IV: Betrayal."<03e0>Read the rest?<06e0000008e0000000000000>I love a good story.<09e008e0010000000300>Too much reading...
-Queen Flaumello was betrayed by the same Lord<03e0>she so loved.<04e0>Undelwalt abandoned the queen, instead<03e0>chasing after the low-born Marion Marshall.<04e0>From then on, he styled himself the "God Emperor,"<03e0>and began conquering the world with his newfound<03e0>control over Remnants.<04e0>The people of Glenys were devastated<07f003e0>and devastation turned quickly into resentment<03e0>and hostility.<04e0>Against the queen's objections, her subjects<03e0>began creating plans to overthrow the God<03e0>Emperor.<04e0>Once this became known to the God Emperor,<03e0>he dispatched a punitive force against the<03e0>kingdom, aiming to quell the rebellion.
-The candelabrum is covered with dust.<03e0>Engraved are the words "Offer thy love."
-The candelabrum is covered with dust.<03e0>Engraved are the words "Offer thy love."<03e0>Offer the Godstone of Love?<06e0000008e0000000000000>Sure, what the hey.<09e008e0010000000300>Maybe later.
-The flame wavers gently.
-The flame wavers gently.
-The candelabrum is covered with dust.<03e0>Engraved are the words "Offer thy wisdom."
-The candelabrum is covered with dust.<03e0>Engraved are the words "Offer thy wisdom."<03e0>Offer the Godstone of Wisdom?<06e0000008e0000000000000>Okay, sure.<09e008e0010000000300>Maybe later.
-The flame wavers gently.
-The flame wavers gently.
-The candelabrum is covered with dust.<03e0>Engraved are the words "Offer thy soul."
-The candelabrum is covered with dust.<03e0>Engraved are the words "Offer thy soul."<03e0>Offer the Godstone of Souls?<06e0000008e0000000000000>This thing, right? Sure.<09e008e0010000000300>Maybe later.
-The flame wavers gently.
-The flame wavers gently.
+Na parte superior há uma inscrição que diz:<03e0>"Capítulo IV: Traição". Quer continuar lendo?<03e0> <06e0000008e0000000000000>Sim, adoro uma boa história.<09e008e0010000000300>É muita leitura para mim...
+A rainha Flaumello foi traída pelo<03e0>mesmo Lorde a quem jurou seu amor.<04e0>Undelwalt abandonou a rainha, e em seu lugar<03e0>cortejou uma jovem plebeia, Marion Marshall.<04e0>O duque passou a se intitular "Imperador Celestial",<03e0>e partiu para a conquista do mundo com a ajuda de<03e0>Marion e seu dom de controlar Remanescentes.<04e0>O povo de Glenys se sentiu traído, e esse<03e0>sentimento não tardou para se transformar<03e0>em raiva e ressentimento.<04e0>Apesar do protesto da rainha, seus súditos começaram<03e0>a fazer planos para derrubar o Imperador Celestial.<03e0> <04e0>Quando a notícia chegou aos ouvidos do Imperador,<03e0>ele decidiu enviar uma expedição para punir o reino,<03e0>com o objetivo de reprimir a rebelião.
+O candelabro está coberto de poeira.<03e0>Nele está escrito: "Entregue seu amor."
+O candelabro está coberto de poeira.<03e0>Nele está escrito: "Entregue seu amor."<03e0>Quer entregar a Pedra Celestial do Amor?<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Talvez mais tarde.
+A chama oscila suavemente.
+A chama oscila suavemente.
+O candelabro está coberto de poeira.<03e0>Nele está escrito: "Entregue seu saber."
+O candelabro está coberto de poeira.<03e0>Nele está escrito: "Entregue seu saber."<03e0>Quer entregar a Pedra Celestial do Conhecimento?<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Talvez mais tarde.
+A chama oscila suavemente.
+A chama oscila suavemente.
+O candelabro está coberto de poeira.<03e0>Nele está escrito: "Entregue sua alma."
+O candelabro está coberto de poeira.<03e0>Nele está escrito: "Entregue sua alma."<03e0>Quer entregar a Pedra Celestial da Alma?<06e0000008e0000000000000>Isso aqui? Claro que sim!<09e008e0010000000300>Talvez mais tarde.
+A chama oscila suavemente.
+A chama oscila suavemente.
 

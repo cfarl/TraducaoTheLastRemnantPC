@@ -1,30 +1,30 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0300_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hello, traitor.
-Allan.<03e0>We have not talked in 80 years,<03e0>and that is how you greet me?
-It has only been 80 years.<03e0>You have gotten too used to the mitra way.<03e0>80 years is but a mere minute for us, fool.
-You've always grown hostile when you needed to ask<03e0>a favor. What is it?
-Hah!<03e0>I would never ask you for anything.
-A group of armed soldiers has appeared, calling<03e0>themselves the Steel Syndicate. They need to be<03e0>disposed of. Now.<04e0>I assumed you would want to tag along.
-I see.<03e0>Most certainly something must be done about them.<03e0>Rush, will you lend a hand?<06e0000008e0000000000000>Of course!<09e008e0010000000300>Nah, not right now.
-I appreciate it.
-Hmph!<03e0>Asking a mitra for help...<04e0>I'll be waiting at the <1be0ffbe34ff>Gaslin Caves<1ce0>.
+Olá, traidor.
+Allan. Tem oitenta anos que não nos vemos,<03e0>e é assim que você me cumprimenta?<03e0>
+Você passou tempo demais com os mitras, seu tolo.<03e0>Foram apenas oitenta anos, isso não é nada para nós.<03e0>
+Você sempre usa esse tom hostil quando precisa<03e0>pedir algum favor. O que quer, dessa vez?
+Hah! Eu não preciso da sua ajuda.<03e0>
+Vim avisar que nossos velhos amigos da Irmandade<03e0>de Aço estão de volta. E como você deve imaginar,<03e0>eles precisam ser detidos. E rápido.<04e0>Achei que gostaria de participar disso.
+Entendo.<03e0>Não há dúvidas de que devemos fazer algo.<03e0>Rush, será que poderia nos ajudar?<06e0000008e0000000000000>Claro!<09e008e0010000000300>Nah, agora não.
+Obrigado.
+Hmph!<03e0>Pedindo ajuda a um mitra...<04e0>Vou estar esperando nas <1be0ffbe34ff>Cavernas de Gaslin<1ce0>.
 Hmph.
-How the mighty have fallen, Torgal. I'd think that you<03e0>of all people would know that mitra are selfish and<03e0>cannot be trusted.
-This new "Steel Syndicate" needs to disappear.<03e0>Don't keep me waiting long.
-Will you lend a hand?<06e0000008e0000000000000>Of course!<09e008e0010000000300>Nah, not right now.
-Your assistance is appreciated.
-Hmph!<03e0>Asking a mitra for help...<04e0>I'll be waiting at the <1be0ffbe34ff>Gaslin Caves<1ce0>.
+Você é mesmo um idiota, Torgal. Pensei que você,<03e0>entre todos os sovani que conheço, saberia melhor<03e0>do que ninguém que não se pode confiar nos mitras.
+Essa nova "Irmandade de Aço" precisa desaparecer.<03e0>Não me faça esperar por muito tempo.
+Você vai ajudar?<06e0000008e0000000000000>Claro!<09e008e0010000000300>Nah, agora não.
+Sua ajuda será bem-vinda.
+Hmph!<03e0>Pedindo ajuda a um mitra...<04e0>Vou estar esperando nas <1be0ffbe34ff>Cavernas de Gaslin<1ce0>.
 Hmph.
-Hah!<03e0>Mitra are selfish and cannot be trusted, Torgal.
-I only have myself to blame for the arrogance<03e0>of these mitra.
-Before Athlum was ruled by David, Torgal was<03e0>taken in as a general to commend his contribution<03e0>for maintaining public order and peace.<04e0>But I believed that we could bring peace<03e0>to the whole world, not just Athlum.<04e0>The Steel Syndicate grew, but gained nothing<03e0>but useless soldiers in it for the fame.<04e0>And now they've become an uncontrollable<03e0>group of violent warriors slaying everything in<03e0>sight, justifying it by throwing around the word "justice."
-Torgal forcefully disbanded the organization,<03e0>but its soul lives on.<04e0>To the triflingly short-lived mitra,<03e0>50 years is enough for ideology to<03e0>become legend<07f0>to become convention.<04e0>My duty is to destroy it all.
-There are also realist organizations<03e0>like the Silver Falcons.<03e0>Race makes no difference in this matter.
-But don't forget<07f0>the leader of<03e0>the Silver Falcons is a sovani.
-Organizations change with time.<03e0>Who knows what the Silver Falcons will become?<03e0>Sovani live longer. That's all.
-You were always a strange one.<03e0>The sovani way is to not care about others.
-I could say the same to you.
-Hmph.<03e0>I merely like the taste of blood.<03e0>I have no interest in political matters.<04e0>But I suppose I owe you.<03e0>If you ever need anything, come<03e0>to the guild.
+Hah! Está vendo, Torgal?<03e0>Não se pode confiar nos mitras, são todos egoístas.
+Acho que só posso culpar a mim mesmo pela<03e0>arrogância desses mitras.
+Antes de Athlum ser governada por David, Torgal foi<03e0>nomeado general em reconhecimento ao seu trabalho<03e0>como guardião da paz e da ordem pública.<04e0>Eu tinha a esperança de que poderíamos levar a paz<03e0>ao mundo todo, e não apenas a Athlum.<04e0>Mas ao passo em que a Irmandade de Aço ia adquirindo<03e0>fama, suas fileiras se enchiam de soldados inúteis.<04e0>E agora eles são nada mais que um grupo de guerreiros<03e0>incontrolados e bárbaros que destroem tudo que<03e0>encontram pela frente, em nome da sua "justiça."
+Quando se deu conta do que estava ocorrendo, Torgal<03e0>mandou dissolver a irmandade, mas era tarde demais.<04e0>Para a insignificante vida de um mitra, cinquenta<03e0>anos é tempo suficiente para que uma ideologia se<03e0>transforme em dogma... E o dogma em fanatismo.<04e0>Por isso devermos pôr um fim nessa história.
+Existem também organizações mais realistas,<03e0>como os Falcões Prateados.<03e0>E nesse caso, raças não fazem diferença.
+Mas o líder dos Falcões Prateados também é um sovani,<03e0>não é verdade?
+As organizações mudam com o tempo.<03e0>Quem sabe o que os Falcões Prateados irão se tornar?<03e0>Os sovanis vivem mais anos, e isso é tudo.
+Você sempre foi um excêntrico.<03e0>Não é da natureza sovani se preocupar com os outros.
+Eu poderia dizer o mesmo de você.
+Hmph. A única coisa que me atrai é o sabor do sangue.<03e0>Não tenho nenhum interesse pela política.<03e0> <04e0>Mas suponho que estou em dívida com você.<03e0>Se algum dia precisar de mim, vá até a guilda.<03e0>
 

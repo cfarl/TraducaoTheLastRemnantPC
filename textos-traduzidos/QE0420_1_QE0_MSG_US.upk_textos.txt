@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0420_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-The tablet of Marshall is reacting to the Liafort.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! Sounds scary...
-(This is what Violet comes<03e0>all the way here to look at.)<06e0000008e0000000000000>Let's take it back to her.<09e008e0010000000300>Let's leave it.
+A tabuleta de Marshall está reagindo ao Liafort.<03e0>Quer usar a tabuleta?<06e0000008e0000000000000>Claro!<09e008e0010000000300>Não! Ele me assusta...
+(Foi isso o que Violet veio<03e0>procurar.)<06e0000008e0000000000000>Vamos levá-lo.<09e008e0010000000300>Vamos deixá-lo aqui.
 

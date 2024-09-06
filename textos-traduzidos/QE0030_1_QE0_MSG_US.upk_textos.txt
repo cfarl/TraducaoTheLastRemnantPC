@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0030_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-My wife has disappeared again.<03e0>I have a bad feeling this time, though...<04e0>I know she's been seeing that man,<03e0>I just hope he's not using her.<03e0>Or filling her head with nonsense.
-Ah, young man.<03e0>I believe I know where my wife is.<03e0>Will you check up on her for me?<06e0000008e0000000000000>Sure.<09e008e0010000000300>Why? She's fine.
-She's in the depths of the <1be0ffbe34ff>Gaslin Caves<1ce0>.<03e0>You must hurry.
-How can you say that!?
-My wife, Violet, is missing.<03e0>I hope nothing bad has happened to her.<03e0>Can you go check on her for me?<06e0000008e0000000000000>Sure.<09e008e0010000000300>Why? She's fine.
-She's in the depths of the <1be0ffbe34ff>Gaslin Caves<1ce0>.<03e0>You must hurry.
-How can you say that!?
-Have you found her yet?<03e0>She could be in trouble!<06e0000008e0000000000000>I'm on my way.<09e008e0010000000300>I have plenty of time. Relax!
-She's in the depths of the <1be0ffbe34ff>Gaslin Caves<1ce0>.<03e0>You must hurry.
-You are the laziest young man I've ever met!
-The Duke of Qubine handled things<03e0>quite impressively, even in the face<03e0>of danger.
-Violet and I have been conversing more and more.<03e0>She frequently leaves the house, though.<04e0>If you see her around, treat her kindly.<04e0>This is just a token of my appreciation.<03e0>Take it.
-There's a very exclusive guild behind<03e0>the pub. I'll be sure to put in a good<03e0>word for you.<04e0>I can't thank you enough for helping me.
+Minha esposa desapareceu novamente.<03e0>Mas dessa vez, estou tendo um mal pressentimento...<04e0>Sei que ela anda se encontrando com aquele homem,<03e0>mas espero que ele não a esteja usando...<03e0>Ou enchendo sua cabeça de bobagens.
+Ah, meu jovem.<03e0>Acho que descobri onde está a minha esposa.<03e0>Você pode ir lá ver se ela está bem?<06e0000008e0000000000000>Claro.<09e008e0010000000300>Por quê? Ela está bem.
+Ela está no interior das <1be0ffbe34ff>Cavernas de Gaslin<1ce0>.<03e0>Por favor, vá depressa.
+Como pode ter certeza?
+Minha esposa, Violet, está desaparecida.<03e0>Espero que nada de mau tenha acontecido a ela.<03e0>Você pode ver se ela está bem?<06e0000008e0000000000000>Claro.<09e008e0010000000300>Por quê? Ela está bem.
+Ela está no interior das <1be0ffbe34ff>Cavernas de Gaslin<1ce0>.<03e0>Por favor, vá depressa.
+Como pode ter certeza?
+Você ainda não a encontrou?<03e0>Ela pode estar em apuros!<06e0000008e0000000000000>Já estou indo.<09e008e0010000000300>Calma, temos tempo de sobra!
+Ela está no interior das <1be0ffbe34ff>Cavernas de Gaslin<1ce0>.<03e0>Por favor, vá depressa.
+Você é o jovem mais preguiçoso que já conheci!
+O duque de Qubine cuidou da situação<03e0>de forma admirável, mesmo diante<03e0>do perigo.
+Violet e eu já estamos nos entendendo melhor.<03e0>Mas ela ainda foge de casa com frequência.<04e0>Se você a encontrar por aí, trate-a com gentileza.<04e0>Essa é uma pequena prova da minha gratidão.<03e0>Pegue.
+Atrás da taverna há uma guilda muito restrita.<03e0>Pode ter certeza que falarei de você e<03e0>suas façanhas.<04e0>Não sei como agradecer por tudo que fez por mim.
 

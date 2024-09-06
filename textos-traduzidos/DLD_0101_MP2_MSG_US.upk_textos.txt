@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) DLD_0101_MP2_MSG
 -- ----------------------------------------------------------------------------------
-Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend<03e0>Cancel: Release handle
-The handle won't turn any more.<03e0>It seems you cannot proceed any further.
-Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend
-Monsters stand in the way of the controls.
+Analógico esquerdo: Levantar/Abaixar<03e028e00300>00<f8fff5fff8ff0000>: Soltar a alavanca
+Não dá mais para mover a alavanca.<03e0>Parece que você não pode continuar.
+Analógico esquerdo: Levantar/Abaixar
+Você não pode acessar essa área com monstros perto.
 

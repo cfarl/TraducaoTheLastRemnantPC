@@ -1,5 +1,5 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0460_4_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Rush Sykes. Word of your deeds has come to Marquis<03e0>Priam of Royotia, and he wishes to speak to you of a<03e0>matter of great importance.<04e0>He awaits you in <1be0ffbe34ff>Royotia Castle<1ce0>.
+Rush Sykes. O marquês Priam de Royotia ouviu falar<03e0>de suas façanhas e deseja falar com você sobre um<03e0>assunto de grande importância.<04e0>Ele o aguarda no <1be0ffbe34ff>Castelo de Royotia<1ce0>.
 

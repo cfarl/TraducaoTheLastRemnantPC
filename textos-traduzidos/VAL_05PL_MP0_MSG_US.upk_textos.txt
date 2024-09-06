@@ -1,264 +1,264 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) VAL_05PL_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to Café Moondust.
-Hey there, didja know? There's a city even past the<03e0>great desert.<04e0>At the southern tip of the world, sitting at the base<03e0>of Mt. Altona is a town of hardy<07f0>if pigheaded<07f0>miners.
-What, you want to know what's in the western desert?<04e0>The old adventurers used to say that west of the west<03e0>was a forgotten town. But no one knows if it's true or<03e0>not<07f0>no one's ever come back from there alive.<04e0>Mmm, I wouldn't waste my time worrying about that<03e0>place. I would never allow my daughter to go there,<03e0>either!
-Every time I see Zolean in here, he's drinking alone.<03e0>It's weird, because he was in here with the same friend<03e0>for years. Wonder what happened to the other guy?
-What is it, son? Are you thinking you want to cross<03e0>the desert?<04e0>The Great Sand Sea's home to monsters you won't find<03e0>anywhere else in the world<07f0>and the rest of the world<03e0>is all the luckier for it!<04e0>If you've really got your heart set on going out there,<03e0>make sure you're amply prepared.
-What's the critter sitting outside? That's my<03e0>partner, of course!<04e0>Traveling merchants like us make our way by<03e0>takin' a wide range of goods back and forth<03e0>across the desert.<04e0>It's a harsh trip, but with my faithful companion<03e0>by my side, the journey ain't so bad.<04e0>Whoa, there, pardner, hold yer horses. No<03e0>matter how much you offer, I ain't about to let<03e0>my faithful steed go!
-Hey, pardner, didja hear?<04e0>The boss o' this here country's been sick fer a<03e0>long spell, an' ain't any o' the medicines<03e0>helpin' a lick.<04e0>While on the range, I rode into another country,<03e0>an' they were singin' a similar song.<04e0>Reckon this bug is only hittin' royal-types?<03e0>That sure don't sound too likely, though...
-...<04e0>.........<04e0>What? Don'tcha know when ta leave a cowpoke<03e0>alone? ...Though I reckon there ain't no more<03e0>use in avoidin' it...<04e0>E'er since the Tao Tie disappeared, Balterossa's<03e0>become a ghost town. The dealers ain't comin'<03e0>through, and my business's gone to the dogs.<04e0>To square old debts, I even had to sell my<03e0>faithful companion...<04e0>*sniffle* If...if I could just see 'im again,<03e0>make sure he's bein' treated right...!
-Lots of girls are huge fans of Lady Charlotte.<03e0>The minute she's seen wearing anything,<03e0>similar fashions start flying off store shelves.<04e0>In a word, she's like the town's idol.<04e0>*sigh* I'm jealous...I wish everyone would try<03e0>and emulate me!
-Did you hear the latest about Lady Charlotte?<04e0>Apparently she broke up with her boyfriend!<03e0>It's the absolute latest news.<04e0>And when you hear who it was, you're going to<03e0>flip. It was the son of Royotia's Marquis, Paris!<04e0>I mean, seriously, that man is fine. And you<03e0>know he's gotta be a passionate and skilled<03e0>lover.<04e0>*sigh* If it were me, there'd be no way I'd let<03e0>a catch like that go!
-Have you heard the latest about Lady Charlotte?<04e0>Apparently she got back together with her<03e0>boyfriend, Paris. I guess she rethought letting<03e0>such a hunk get away.<04e0>Oh, and get this<07f0>their feelings for each other<03e0>were so strong that they were able to keep us<03e0>and Royotia from going to war!<04e0>*sigh* I want to hook up with a sensitive<03e0>hottie like that...
-A thousand years ago, there was a prosperous<03e0>country in the middle of the desert. The guard<03e0>that protected it was unmatched in skill.<04e0>That strength threatened the Imperator, and he<03e0>set his armies against them. When the dust<03e0>cleared, the desert country was destroyed.<04e0>However...the spirits of the warriors from the<03e0>defeated land still lurk within the desert's<03e0>sands, awaiting the perfect time for revenge...<04e0>My great-grandfather first told me that tale<03e0>when I was just a little boy. Man, was I spooked!<03e0>I was always home by dark after that!<04e0>Even now, I don't like to go to the<03e0>bathroom alone... Eheheh.
-I really worry for Lady Bertrude... She is deathly<03e0>ill, and getting worse every day.<04e0>For her to go from standing proudly at the head<03e0>of our country to lying in a sickbed... How could<03e0>this happen?<04e0>Or<07f0>could it be...?<04e0>The curse of the felled warriors of the ancient<03e0>desert kingdom...?<04e0>Is it possible there was truth to that story...?<03e0>...Ugh, I don't want to think about it!
-A half-year previous, a legion of monsters<03e0>attacked the city. Never in all my years had I<03e0>seen so many beasts at once...<04e0>A Silver Falcon said the monsters had come<03e0>from deep in the desert, where a certain beast<03e0>was summoning them as part of a curse.<04e0>It could call unlimited reinforcements, so the<03e0>battle would be unimaginably fierce.<04e0>Without a doubt, this must be the work of the<03e0>angry spirits left from the ancient kingdom of<03e0>the desert...<04e0>Awaking in this time, they seek revenge by<03e0>sending monsters against the lands of the God<03e0>Emperor...<04e0>Goodness gracious, to think that the legend of<03e0>the Kingdom of Glenys was true...
-The Silver Falcons have sworn to protect order<03e0>across the continent. We act without regard for<03e0>borders<07f0>there is only one world, after all.<04e0>We are currently in the middle of an important<03e0>strategy session. Please don't interrupt.
-Oh, you again.<03e0>Heard about you from the commander.<04e0>Granted, you don't look like much, but I hear<03e0>you're not too shabby with a sword.<04e0>Next time we have an anti-monster operation,<03e0>join us. Lately, we need all the help we can get.
-Hi, Rush!<03e0>Sorry for being so rude before.<04e0>I heard the commander was so impressed by<03e0>you that he decided to join you on your journey.<04e0>All of us Falcons have taken an oath to the<03e0>organization, to protect it and uphold what it<03e0>stands for.<04e0>Tell Commander Caedmon that he doesn't have<03e0>to worry about us! The Falcons will still be here<03e0>when he comes back.
-These two twin girls came by earlier, and the<03e0>white-haired one left this key. I don't have<03e0>any use for it, so if you want it, it's yours.
-Oh, it's you.<03e0>A space away from the heat and hustle and bustle<03e0>of outside... I like this place.
-Ah, you...<04e0>I feel like I've forgotten something important yet again...<03e0>Or perhaps it's just my imagination...
-I feel like I've forgotten something very important...<03e0>But perhaps it's just my imagination...
-Of late the vision of a strange woman has been<03e0>coming to me...<04e0>A girl with a mischievous smile and long, graceful<03e0>fingers... She draws near and strokes my cheek, and...<04e0>Hahaha... Perhaps the desert heat is going to my head.<04e0>Men who spend all their time at war have no time<03e0>for exploits of a romantic nature, yes?
-Of late I've been struck with memories of a woman<03e0>I don't know. Odd...a man who spends his days<03e0>fighting as I do has no time for romance...
-Oh, Rush.<03e0>I think I've been able to remember more, vaguely...<04e0>We were together...I and that woman...<03e0>She was brilliant<07f0>bright, uncompromising...<03e0>As intense as the desert sun.<04e0>We were sitting near the water...<03e0>The reflection of her smile sparkled off the surface<03e0>of the river.<04e0>...River? Or perhaps it was a canal?<03e0>Where could all of this have happened?<03e0>Curses, I remember all but the most crucial parts...
-Who was that woman?<03e0>Damn, I cannot recall anything...<03e0>I think it was near a canal, but...
-Hello, Rush.<03e0>I've decided.<03e0>I'm going to find that woman.<04e0>I haven't regained all of my memories of her, but<03e0>I cannot help but think I must meet with her.<04e0>I thought myself to be someone with no passion in<03e0>life except for the battlefield, but it seems there was<03e0>something<07f0>rather, someone else important to me.<04e0>I still don't even know where to begin my search,<03e0>but I'm sure these memories will come with time.<04e0>So, Rush, I would like to travel with you for a little<03e0>longer. I feel like my travels with you will help me<03e0>regain memories.
-Hello, Rush.<03e0>I feel I'm on the verge of remembering a little more.
-Good to see you, son.<03e0>I've just been here having a drink with an old friend.
-Oho, our fearless leader.<03e0>Has something so dire come up that you need the<03e0>services of this old man?<04e0>When it comes to battle, the experiences of fighters<03e0>like me can be a good reference. Every so often young<03e0>warriors such as yourself come to me for advice.<04e0>But just now I was having a drink with a good friend.<04e0>He and I have been coming to this pub for a long,<03e0>long time. It's long been our spot to have a drink<03e0>after a battle. Next time, why don't you join us?<04e0>Ahh, but you're still young yet, aren't you. That<03e0>Marquis of Athlum would have my head for leading<03e0>you into temptation...ha ha ha.
-My friend and I have been coming to this pub for<03e0>a long, long time. We relax here with a drink after<03e0>every battle.
-You want to know about my friend?<03e0>Ahh... I suppose this starts what, thirty, forty<03e0>years back? We met on the battlefield.<04e0>We were both fresh recruits, shaking in our scales<03e0>to be in the middle of a real battle... We ended up<03e0>cheering each other on.<04e0>Ever since then, we were comrades in arms...<03e0>and rivals, at times.<04e0>But, you know, it's not like we're getting any younger.<03e0>Nowadays we spend a good deal more time meeting<03e0>in places like this than anything else...ha ha ha.
-My friend is an old war buddy of mine. Nowadays<03e0>we spend a good deal more time meeting and drinking<03e0>here than anything else, though.
-Heyyy, good timing!<03e0>I was just talking about you.<03e0>Zane, here<07f0>this's Rush!<04e0>Hm?<03e0>Where the devil'd he go? Can't believe he sneaked<03e0>off again...left me with the bill, to boot.<04e0>I swear Zane was right here a minute ago.<03e0>Rgh, he always does this...disappears right when<03e0>I need him. Like that time in Siebenbur...<04e0>Ahh, you know what, I think maybe I've had a li'l<03e0>too much to drink... *hic*
-Can't believe Zane just up and disappeared like that...<03e0>Just like in Siebenbur, he just...<03e0>*hic*
-What? That's...that's Zane's!<03e0>Ah. Ahh, you found it...<03e0>...<04e0>Three years ago...<03e0>There was a big operation to clean the beastmen<03e0>armies out of Siebenbur.<04e0>Zane was in charge of one of the main squads.<03e0>He knew the beast leader had to be taken down.<03e0>So he went after them...but didn't come back.<04e0>In the end, we beat back the beastmen. I didn't<03e0>hear about Zane until it was all over.<04e0>I couldn't believe it...I wouldn't believe Zane was<03e0>gone until I could see it with my own eyes.<04e0>I thought, if I came here, to the pub we always met<03e0>at, he'd eventually show up... I've been waiting ever<03e0>since.<04e0>I suppose I've been afraid to accept the truth...<04e0>But, seeing that ring, I can't run from reality any longer.<03e0>And...I think that finally, I'm alright with that.<04e0>It seems that even old as I am, I still need to work<03e0>on my discipline. ...Thank you, Rush.<04e0>Any time this old man can be of use, just say the<03e0>word. I'll help in any way I can.
-Hello there, young one.<03e0>Any time this old man can be of use, just say the<03e0>word. I'll help in any way I can.
-Welcome! Please make yourself at home.
-If you touch my daughter you'll be joining<03e0>the Duchess's harem of eunuchs.<03e0>So make yourself comfortable!
-Do you know Baron Nielsen of Celapaleis? Rumor has it<03e0>that his wife has run away from him. In fact, the couple<03e0>is infamous for not getting along, so no one is surprised...
-That's the latest news, Daddy.
-What in the world is the baron doing? The most<03e0>important thing a man can do is take care of<03e0>the home! Darling daughter, you agree, right?
-Er, of course!
-I don't want to believe it, but the rumor is that there's<03e0>a woman plotting to assassinate Duke Qubine...
-That's the latest news, Daddy.
-Assassination... What a dangerous world this has<03e0>become! Beloved daughter, I think I'll have to<03e0>make your curfew earlier...
-I...I see...
-Apparently the desert princess has been sneaking out<03e0>of the castle to meet her lover.
-That's the latest news, Daddy.
-Ohh, I completely sympathize with her mother.<03e0>Every parent wants to keep their daughter near.<03e0>Beloved daughter, you'd better stay at home for a while!
-I...I see...
-The desert princess has eloped!
-That's the latest news, Daddy.
-Whaaat!? That girl's poor parents! I hope they find<03e0>that beast of a man and hang him for the crime of<03e0>stealing a young girl's innocence!
-Daddy, calm down!
-Relations between Balterossa and Royotia have really<03e0>gone downhill. Families of soldiers are getting worried<03e0>since the armies are being mobilized...
-That's the latest news, Daddy.
-Ugh, this is all due to that lecherous fiend who stole<03e0>away the princess. What an impressive list of crimes...<03e0>Beloved daughter, I'm sure you agree.
-Er, of course!
-So there's supposed to be something the Imperator<03e0>sealed out in the great swamp, but now the seal is<03e0>broken. Maybe it's the entrance to another world...
-That's the latest news, Daddy.
-Once one enters another world, most likely they can't<03e0>return. Alright, beloved daughter, don't go to the swamp<03e0>until I say so!
-O-okay...
-Apparently one of the Forest Maidens bound to<03e0>a knight of the Order of Melphina can sense<03e0>what he's sensing.
-That's the latest news, Daddy.
-Knights sworn to protect maidens... Perhaps I should<03e0>find my beloved daughter a knight as well... No<07f0>this<03e0>is my duty. Daddy will protect you with his life!
-Er, thank you.
-The Forest Maidens and the Order of Melphina<03e0>are mobilizing... Seems something's happened to<03e0>the Last Leaf in Crookfen.
-That's the latest news, Daddy.
-Hrm, seems the swamp has become more and more<03e0>dangerous. I can't have you going near it... Beloved<03e0>daughter, you mustn't leave the town for a while.
-A-alright...
-It's almost time for Kosmosfest, but apparently<03e0>the Cosmos Maiden hasn't made it to Nagapur yet.<03e0>Maybe she got mixed up in something...
-That's the latest news, Daddy.
-Kosmosfest... Beloved daughter, if you are very good,<03e0>then Daddy will take you to see it!
-Yay...
-So the Cosmos Maiden made it, and they started<03e0>the Kosmosfest alright, but then it was interrupted<03e0>by monsters.
-That's the latest news, Daddy.
-Whaaat!? Monsters at the festival!? No, no, this won't<03e0>do. Too dangerous! Sorry, beloved daughter, but<03e0>Daddy can't put you in that sort of danger.
+Bem-vindo ao Café Poeira Lunar.
+Ei, garoto, já está sabendo? Parece que há uma cidade<03e0>um pouco mais para lá do grande deserto.<04e0>Na extremidade Sul do mundo, aos pés do monte Alton,<03e0>fica uma cidade de mineradores muito teimosos.
+Como? Você quer saber o que há no deserto do Oeste?<04e0>Os antigos viajantes diziam que bem ao Oeste há uma<03e0>cidade esquecida. Mas ninguém sabe se isso é verdade<03e0>ou não... Ninguém retornou vivo dali para confirmar.<04e0>Mas não se preocupe com essas coisas, rapaz. Confie<03e0>em mim, é melhor manter distância daquele lugar...<03e0>Se você fosse meu filho, eu te proibiria de ir lá!
+Sempre que vejo Zolean aqui, está bebendo sozinho.<03e0>É estranho, porque durante anos ele sempre veio com<03e0>um amigo. O que será que aconteceu com ele?
+Ei, garoto. Está pensando em atravessar o deserto?<03e0> <04e0>O Grande Mar de Areia está repleto de monstros que<03e0>você não vai conseguir encontrar em nenhum outro<03e0>lugar do mundo... para nossa sorte!<04e0>Se você está mesmo determinado a tentar atravessá-lo,<03e0>certifique-se de estar bem preparado.
+Que criatura é essa esperando aí do lado de fora?<03e0>Oras, é o meu parceiro!<04e0>Mercadores viajantes como eu ganham a vida levando<03e0>e trazendo mercadorias daqui para lá no deserto.<03e0> <04e0>É um trabalho duro, mas tendo meu fiel companheiro<03e0>ao meu lado, a jornada não é assim tão ruim.<04e0>Ei, calma aí amigo... Não importa o que me ofereça,<03e0>não penso em me desfazer da minha fiel montaria!<03e0>
+Ei, parceiro, você já está sabendo?<04e0>A mulher que manda nesse lugar já está doente faz um<03e0>tempo e nenhum dos remédios que trouxeram para ela<03e0>serviu para alguma coisa.<04e0>O caso é que, antes de vir para cá, estive em outra<03e0>cidade onde estavam passando pelo mesmo problema.<04e0>Será que essa praga está atacando somente os nobres?<03e0>Isso não faz o menor sentido, mas...
+...<04e0>.........<04e0>O que foi? Será que não sabe quando deve deixar uma<03e0>pessoa em paz? Tudo bem... sei que não adianta nada<03e0>continuar evitando o assunto...<04e0>Depois que o Tao Tie desapareceu, Balterossa acabou<03e0>se tornando uma cidade fantasma. Nenhum mercador vem<03e0>mais aqui... e os negócios vão de mal a pior.<04e0>Tive até mesmo que vender meu fiel companheiro para<03e0>poder quitar algumas dívidas...<04e0>*fungando* Quem me dera poder vê-lo novamente...<03e0>Só queria ter certeza que estão cuidando bem dele.
+Lady Charlotte tem muitas seguidoras... Sempre que ela<03e0>aparece usando um novo vestido aquele mesmo modelo<03e0>simplesmente desaparece das lojas.<04e0>Em outras palavras, ela é a celebridade da cidade.<04e0>*suspiro* Morro de inveja dela... Tudo que eu queria<03e0>era que todo mundo também tentasse me imitar!
+Você ficou sabendo da última sobre Lady Charlotte?<04e0>Estão dizendo que ela terminou com o seu namorado!<03e0>Aqui na cidade não se fala sobre outra coisa.<04e0>E quando você souber quem ela namorava, vai ficar<03e0>pasmo.... era Paris, filho do Marquês de Royotia!<04e0>Minha nossa, aquele homem é demais... E além disso,<03e0>parece ter o tipo gentil e apaixonado...<03e0> <04e0>*suspiro* se fosse meu namorado, não deixava escapar<03e0>por nada nesse mundo!
+Você ficou sabendo da última sobre Lady Charlotte?<04e0>Parece que ela voltou com aquele seu namorado, Paris.<03e0>Ela deve ter pensado bem sobre deixar um homem desses<03e0>escapar assim.<04e0>Ah, e ouça isso: parece que o amor dos dois era tão<03e0>forte que por causa dele eles conseguiram impedir<03e0>que fôssemos para a guerra contra Royotia.<04e0>*suspiro* Ah, quem me dera encontrar um rapaz firme<03e0>e apaixonado como ele...
+Há cerca de mil anos atrás, existia um reino próspero<03e0>bem no meio do deserto. Ele tinha um exército muito<03e0>poderoso, para assegurar sua proteção.<04e0>Mas seu poder chegou ao ponto do Imperador se sentir<03e0>ameaçado, e por isso ele enviou suas tropas contra o<03e0>reino. Quando se retiraram, tudo estava destruído.<04e0>No entanto, dizem que os espíritos dos guerreiros que<03e0>caíram defendendo o reino ainda vagam pelo deserto<03e0>aguardando uma oportunidade para se vingar.<04e0>Meu tataravô me contava essa história quando eu era<03e0>pequeno. Nossa, como ficava com medo! Passei anos<03e0>sem sair de casa quando começava a anoitecer...<04e0>Até hoje tenho medo de levantar de noite para ir ao<03e0>banheiro sozinho... heheh.
+Estou muito preocupado com Lady Bertrude... Ela está<03e0>muito doente, e cada dia que passa fica ainda pior.<04e0>Ela deixou de ser a líder forte e orgulhosa do nosso<03e0>país para se tornar uma pessoa doente e acamada...<03e0>Como foi possível acontecer uma coisa dessas?<04e0>Será que...<04e0>E se essa for a maldição dos antigos guerreiros do<03e0>deserto...?<04e0>Será que aquela história era mesmo verdadeira?<03e0>Argh... não quero nem pensar nisso!
+Há cerca de meio ano atrás, uma legião de monstros<03e0>atacou a cidade. Nunca em toda minha vida eu tinha<03e0>visto tantos monstros juntos...<04e0>Um soldado dos Falcões Prateados me disse que eles<03e0>tinham vindo das profundezas do deserto, e que uma<03e0>criatura os invocou por causa de uma maldição.<04e0>Parece que centenas responderam ao chamado, e assim<03e0>a batalha alcançou uma crueldade inimaginável.<04e0>Tenho certeza que isso é obra dos espíritos errantes<03e0>que vieram do antigo reino do deserto...<03e0> <04e0>Eles devem estar despertando do seu sono eterno para<03e0>buscar vingança enviando monstros contra as terras<03e0>do Imperador Celestial...<04e0>Santo Deus! E pensar que a lenda do Reino de Glenys<03e0>era mesmo verdadeira...
+Os Falcões Prateados mantêm a ordem no continente,<03e0>sem se importar com fronteiras. Afinal de contas, nós<03e0>vivemos todos em um mesmo mundo.<04e0>Estamos no meio de uma reunião estratégica muito<03e0>importante. Por favor, não interrompa!
+Ah, é você outra vez. O comandante andou falando de<03e0>você para nós.<04e0>Você não parece grande coisa, a primeira vista, mas<03e0>ouvi dizer que é muito bom com a espada.<04e0>Na próxima vez que tivermos de lutar com monstros,<03e0>junte-se a nós. Precisamos de toda ajuda possível.
+Olá, Rush! Me desculpe por ter sido tão rude antes.<03e0> <04e0>Ouvi dizer que o comandante ficou tão impressionado<03e0>com você que decidiu se juntar ao seu grupo.<04e0>Todos nós, Falcões, fizemos um juramento de respeitar<03e0>e proteger nossa organização de qualquer perigo.<03e0> <04e0>Diga ao comandante Caedmon que ele não precisa se<03e0>preocupar com a gente! Os Falcões estarão aqui<03e0>quando ele quiser voltar.
+Aquelas duas gêmeas estiveram aqui mais cedo, e a de<03e0>cabelo branco deixou uma chave. Não sei o que fazer<03e0>com ela, por isso, se você a quiser, é sua.
+Ah, é você... Estou começando a gostar desse lugar...<03e0>é meu refúgio do calor e da confusão do lado de fora.<03e0>
+Ah, é você...<04e0>Tenho a impressão de ter esquecido algo importante...<03e0>Ou talvez seja só minha imaginação...
+Tenho a impressão de ter esquecido algo importante...<03e0>Ou talvez seja só minha imaginação...
+Ultimamente venho tendo a visão de uma mulher que não<03e0>conheço...<04e0>Uma garota de sorriso travesso e dedos delicados...<03e0>Ela chega perto de mim, acaricia minha bochecha e...<04e0>Aham... O calor do deserto deve estar me afetando.<04e0>Afinal de contas, homens que vivem para a guerra não<03e0>tem tempo para aventuras românticas, não é mesmo?
+Ultimamente tenho sido assaltado por memórias de uma<03e0>mulher que não conheço. É curioso... um homem como<03e0>eu não tem tempo para romances...
+Ah, Rush. Acho que estou começando a me lembrar de<03e0>algumas coisas, ainda que vagamente...<04e0>Aquela mulher e eu... nós estávamos saindo juntos...<03e0>Era uma mulher excepcional... brilhante, resolvida,<03e0>e tão apaixonada como o sol do deserto.<04e0>Estávamos sentados perto da água... Lembro do jeito<03e0>como seu sorriso refletia na superfície do rio.<03e0> <04e0>Era um rio... Ou será que era um canal? Onde será que<03e0>isso pode ter acontecido? Maldição, não consigo nem<03e0>lembrar da parte mais importante...
+Quem será que era essa mulher? Maldição, não consigo<03e0>me lembrar... Acho que estávamos sentados na beira de<03e0>um canal, mas...
+Olá, Rush. Tomei uma decisão.... Estou indo procurar<03e0>aquela mulher das minhas lembranças.<03e0> <04e0>Ainda não sei quem ela é, mas algo me diz que tenho<03e0>que encontrá-la.<04e0>Eu me considerava uma pessoa que não tinha outra<03e0>paixão na vida além do campo de batalha, mas acho<03e0>que existe algo, ou alguém, mais importante.<04e0>Ainda não sei por onde devo começar minha busca, mas<03e0>tenho certeza que com o tempo minha memória voltará.<04e0>Então, Rush, gostaria de continuar com você um pouco<03e0>mais. Sinto que viajar ao seu lado vai me ajudar a<03e0>recuperar a memória.
+Olá, Rush. Sinto que estou prestes a me lembrar de<03e0>algo mais.
+Fico feliz de te ver, garoto. Eu estava aqui bebendo<03e0>com um velho amigo.
+Oras, se não é nosso líder destemido... O que será<03e0>que aconteceu de tão terrível assim para você vir<03e0>requisitar a ajuda desse pobre homem?<04e0>Um lutador experiente como eu pode ser bem útil na<03e0>hora de travar uma batalha. De vez em quando jovens<03e0>guerreiros como você vêm aqui me pedir conselhos.<04e0>Agorinha mesmo eu estava bebendo com um velho amigo.<04e0>Faz muitos anos que frequentamos essa taverna. Esse<03e0>é o lugar onde nos reunimos depois de uma batalha.<03e0>Da próxima vez, porque não se junta a nós?<04e0>Ahh, é que você ainda é muito jovem para isso, não é<03e0>mesmo? Esqueça isso então.... Não quero me meter em<03e0>encrencas com o Marquês! ha ha ha!
+Eu e meu amigo frequentamos essa taverna há muitos,<03e0>muitos anos. Depois de uma batalha, vimos aqui para<03e0>beber e relaxar.
+Você quer saber um pouco mais sobre meu amigo? Bem...<03e0>Nós nos conhecemos em um campo de batalha e isso já<03e0>tem... uns trinta ou quarenta anos.<04e0>Era nossa primeira batalha de verdade e estávamos os<03e0>dois tremendo de medo, mas conseguimos sobreviver um<03e0>com a ajuda um do outro.<04e0>Desde então, temos sido companheiros de armas...<03e0>e algumas vezes rivais.<04e0>Mas, você sabe, não somos mais jovens... Ultimamente<03e0>passamos mais tempo bebendo que fazendo qualquer<03e0>outra coisa... ha ha ha!
+Meu amigo é um velho companheiro de guerra... Mas<03e0>ultimamente passamos mais tempo bebendo que fazendo<03e0>qualquer outra coisa... ha ha ha!
+Eeeei, chegou bem na hora! Veja.... Nós estávamos<03e0>justamente falando de você! Zane, esse é o Rush!<03e0> <04e0>Hm?<03e0>Onde foi que ele se meteu? Não é possível que se<03e0>mandou sem avisar... e deixou a conta para mim.<04e0>Juro que Zane estava bem aqui, há um minuto atrás.<03e0>Rgh, ele sempre faz isso... desaparece quando mais<03e0>preciso dele! Como daquela vez em Siebenbur...<04e0>Ahh, quer saber, pode ser que eu tenha bebido um<03e0>pouco além da conta... *hic*
+Não acredito que o Zane foi embora sem avisar...<03e0>Como daquela vez em Siebenbur, em que... *hic*<03e0>
+Hã? O que é isso? Isso... Isso é do Zane! Onde foi<03e0>que você encontrou?<03e0> <04e0>Três anos atrás... Sabe.... Organizaram uma expedição<03e0>para expulsar os homens-fera de Siebenbur.<03e0> <04e0>Zane estava no comando de um dos esquadrões, e sabia<03e0>que a única maneira de vencê-los era derrotando seu<03e0>líder. Então ele foi atrás dele... e não voltou.<04e0>No final conseguimos vencer os homens-fera, mas não<03e0>conseguimos encontrar o Zane.<04e0>Eu não conseguia acreditar... não queria aceitar que<03e0>Zane tinha morrido sem ver com meus próprios olhos.<04e0>Pensei que vindo aqui, nessa taverna onde sempre nos<03e0>encontrávamos, uma hora ele acabaria aparecendo...<03e0>E fiquei aqui esperando desde então.<04e0>Acho que estava com medo de aceitar a verdade...<04e0>Mas se você encontrou seu anel, não posso mais negar<03e0>o que aconteceu. É melhor encarar os fatos...<04e0>Apesar dessa minha idade, parece que ainda preciso<03e0>trabalhar minha disciplina. Obrigado... Rush.<04e0>Se algum dia precisar da ajuda desse velho, basta<03e0>dizer. Vou ajudar no que puder.
+Olá, rapaz. Se algum dia precisar da ajuda desse<03e0>velho, é só falar. Vou ajudar no que puder.<03e0>
+Seja bem-vindo! E por favor, sinta-se em casa.
+Você está vendo minha filha? Pois então, se encostar<03e0>um dedo nela vai poder trabalhar no harém de eunucos<03e0>do Duque. Dito isso... Como posso ajudá-lo?
+Você já ouviu falar do tal Barão Nielsen de Celapaleis?<03e0>Parece que sua esposa fugiu de casa. Mas todos sabem<03e0>que aqueles dois não se dão bem, isso não é novidade.
+E essas são as últimas notícias, papai!
+Mas o que diabos o barão está fazendo? A coisa mais<03e0>importante que um homem deve fazer é cuidar da sua<03e0>família! Não é verdade, minha filha?
+Er... sim, é claro!
+Parece mentira, mas ouvi dizer que uma mulher maluca<03e0>está planejando assassinar o duque de Qubine...
+E essas são as últimas notícias, papai!
+Assassinar? Santo Deus, como o mundo está perigoso!<03e0>Minha filha, acho que terei de proibir você de sair<03e0>de casa depois do anoitecer...
+Tudo bem... Eu entendo...
+Então, parece que a princesa do deserto anda saindo<03e0>escondida do castelo para encontrar seu amado.
+E essas são as últimas notícias, papai!
+Ahh, sinto muito pela sua mãe... Nenhum pai gosta de<03e0>perder de vista sua filha querida. Por isso, minha filha,<03e0>é melhor você não sair de casa por um tempo...
+Tudo bem... Eu entendo...
+A princesa do deserto fugiu com seu amado!
+E essas são as últimas notícias, papai!
+O quêêê!? Coitados dos pais dessa garota! Espero que<03e0>encontrem esse monstro e enforquem ele pelo crime de<03e0>abusar da inocência de uma jovem inocente!
+Calma, papai!
+Parece que as relações entre Balterossa e Royotia vão<03e0>de mal a pior. Os exércitos estão sendo mobilizados e<03e0>as famílias dos soldados estão preocupadas...
+E essas são as últimas notícias, papai!
+Argh, isso tudo é culpa daquele canalha leviano que<03e0>sequestrou a princesa. Espero que o castiguem pelos<03e0>seus crimes... Você concorda comigo, minha filha?
+Er... sim, é claro!
+Parece que o primeiro Imperador ocultou algo por trás<03e0>de uma barreira no grande pântano. E agora a barreira<03e0>foi rompida. Seria um portal para outro mundo?
+E essas são as últimas notícias, papai!
+E se não for mais possível voltar, depois de passar<03e0>por esse portal? Minha filha, eu te proíbo de andar<03e0>pelo pântano até segunda ordem!
+Sim... Claro...
+Parece que uma das Donzelas do Bosque tem um vínculo<03e0>tão forte com um cavaleiro da Ordem de Melphina que<03e0>é capaz de sentir tudo o que ele está sentindo.
+E essas são as últimas notícias, papai!
+Talvez eu deva buscar para minha filha um cavaleiro<03e0>que jure protegê-la... Mas não... esse é o MEU dever.<03e0>Não tema, querida, eu te protegerei com minha vida!
+Er, obrigada.
+As donzelas do bosque, junto com a Ordem de Melphina,<03e0>estão preparando uma expedição. Parece que aconteceu<03e0>algo com a Folha Caída, o remanescente de Crookfen.
+E essas são as últimas notícias, papai!
+Hm, parece que o pântano está ficando cada vez mais<03e0>perigoso. É melhor você não passar nem perto dali...<03e0>Minha filha, não saia da cidade por um tempo, tá?
+Sim... Tudo bem...
+Já está quase na hora da Festa Cósmica começar, mas a<03e0>Donzela Cósmica ainda não chegou em Nagapur. Espero<03e0>que nada de mal tenha acontecido a ela...
+E essas são as últimas notícias, papai!
+A Festa Cósmica... minha filha, se você se comportar<03e0>bem, papai vai levar você para assisti-la!
+Viva!
+No final a Festa Cósmica começou conforme planejado.<03e0>A cerimônia costuma ser bem tranquila, mas dessa vez<03e0>apareceram uns monstros e tiveram que interrompê-la.
+E essas são as últimas notícias, papai!
+O quêêê!? Monstros no festival!? Não, não pode ser.<03e0>Isso é bastante perigoso! Sinto muito, minha filha,<03e0>mas não posso permitir que corra esse risco.
 O-oh...
-An old-fashioned lady is looking to hire bodyguards,<03e0>I hear. She's supposed to be hanging out at the pub<03e0>near the canal.
-That's the latest news, Daddy.
-Old-fashioned, hm? Beloved daughter, that is exactly<03e0>the sort of look you should cultivate! Yes, become<03e0>old-fashioned for Daddy, alright?
-A-alright...
-Do you like antiques?<03e0>Apparently a lot of the treasures of the Old Kingdoms<03e0>are turning up on the black market.
-That's the latest news, Daddy.
-Hrm, the black market... My beloved daughter doesn't<03e0>need to be thinking about things like that! Alright,<03e0>forget what you just said, alright, dear?
-O-okay...
-There's a man looking for three very important stones<03e0>in the desert. Apparently they're very historically<03e0>significant.
-That's the latest news, Daddy.
-There are many secrets hidden within the desert<03e0>wastes. Beloved daughter, study up on the rich history<03e0>just outside your door!
-O-okay...
-A man interested in ancient magick is looking for<03e0>people to help out with research. Seems he's on<03e0>the verge of unlocking some huge mysteries.
-That's the latest news, Daddy.
-Magick and mysteries...<03e0>It is an intriguing offer<07f0>I would go and help<07f0>but<03e0>I cannot leave my daughter's side.
-Apparently there's a scary monster that was sealed<03e0>by one of the God Emperors, but came back...<03e0>People say the whole world is in danger!
-That's the latest news, Daddy.
-Hrm, the world is in danger... Don't worry, dear.<03e0>Daddy will protect you, even if it costs him his life...
-Daddy...
-Some amnesiac is wandering around the cities in<03e0>the desert, looking for something that could regain<03e0>his memory.
-That's the latest news, Daddy.
-To lose all one's memories...how terrible. If my<03e0>beloved daughter were to completely forget me,<03e0>I don't know what I'd do...my life would be over!
-Daddy, calm down!
-Recently people have been seeing an infamous bandit<03e0>around Athlum. Apparently he's waiting around for<03e0>someone but no one's brave enough to ask who.
-That's the latest news, Daddy.
-A bandit...not only dangerous, but a man...<03e0>No, no, no, this won't do. I forbid you from even<03e0>getting near Athlum, alright, dear?
-O-okay...
-There's a goddess statue in the Robelia Ruins that's<03e0>supposed to let you meet anyone in the world.<03e0>Someone who lost his sister is looking for it...
-That's the latest news, Daddy.
-What an amazing statue!<03e0>Beloved daughter, promise me that if we are ever<03e0>separated you will use that statue to find me.
-O-okay...
-There's a murderer on the loose in the capital!
-That's the latest news, Daddy.
-A murderer<07f0>in the capital!? ...Where is this "capital"?<03e0>It...it couldn't be here, is it? That's it, I forbid you to<03e0>take even one step out of the house!
-O-oh...
-There's a really big yama who needs help searching<03e0>for things... But he's a little...touched, so people have<03e0>been trying to keep out of his way.
-That's the latest news, Daddy.
-Lost items...a pity. But look, honey, if you ever lose<03e0>anything at all, you come tell me first, alright?<03e0>Daddy will find it for you, no matter what.
-A-alright...
-Some white qsiti's been looking for a magickal book.<03e0>People seem to think he looks familiar, but no one's<03e0>been able to place him.
-That's the latest news, Daddy.
-Magickal tomes... I studied the intricacies of ancient<03e0>magicks when I was young. Beloved daughter, if you<03e0>have interest in the subject, then study it well!
-A-alright...
-A set of twins have turned up as mercenaries lately,<03e0>really capable ones. Apparently they're really pretty,<03e0>but maybe a little standoffish.
-That's the latest news, Daddy.
-Hrm... I don't want to seem sexist, but mercenaries are<03e0>always putting their life on the line... No, daughter,<03e0>I believe I must forbid you from becoming one!
-O-okay...
-A man in the Great Sand Sea's been looking for<03e0>challengers for some sort of game. But apparently<03e0>he only wants really special people to play.
-That's the latest news, Daddy.
-Some "game" with some man!? No, oh no.<03e0>That's it, daughter, I forbid you from going to the desert.<03e0>Don't even get close!
-A-alright...
-Some elderly warrior's been crossing the Great<03e0>Sand Sea, looking for a special sword.
-That's the latest news, Daddy.
-An elderly man searching for a sword...<03e0>It must hold incredible significance to him.<03e0>You understand, my daughter?
-Y-yes...
-The guards of Ghor have all sworn to follow their ruler<03e0>for as long as they live.
-That's the latest news, Daddy.
-Mmm... With a guard that dedicated, the ruler must<03e0>certainly be great. Beloved daughter, you may go to<03e0>that town any time.
-Y-yay...
-There's not a family in the world as dedicated as<03e0>the Honeywells. If you've got them at your back,<03e0>you can do anything.
-That's the latest news, Daddy.
-The matriarch of the Honeywells is indeed a formidable<03e0>woman. But being a warrior is too dangerous for<03e0>my daughter! I forbid you from becoming one!
-A-alright...
-Apparently Athlum's General Torgal is supposed to<03e0>have some things in his past that're coming back<03e0>to haunt him, centered in Royotia...
-That's the latest news, Daddy.
-Something from the general's past...hrm.<03e0>Beloved daughter, I forbid you from getting close to<03e0>men with troubled pasts, alright?
-O-okay...
-The legendary fighting tourney is about to start.<03e0>Anyone with fighting spirit is invited to participate.
-That's the latest news, Daddy.
-Legendary it may be, it's still dangerous. I forbid you<03e0>from watching such violence! ...You weren't thinking<03e0>of participating, were you!?
-N-no...
-Apparently there's some mystic academy that's been<03e0>training skilled magi for years.
-That's the latest news, Daddy.
-Ohh, how nostalgic! The academy is my alma mater,<03e0>you know. It would be a fine school for you as well,<03e0>beloved daughter.
-O-okay...
-Athlum's been going through some tough times, and<03e0>people are worried about the new matriarch of<03e0>the Honeywell clan because she's so young.
-That's the latest news, Daddy.
-It must be tough... To lose her mother, then take up<03e0>a sword all alone... Beloved daughter, when I die, I forbid<03e0>you from becoming a swordswoman!
-O-okay...
-Recently there's been gossip about Athlum's Marquis's<03e0>love interests...or lack thereof.<03e0>He's never been connected with anybody.
-That's the latest news, Daddy.
-Hrm, and he is that age... Alright, beloved daughter,<03e0>I forbid you from going to Athlum for a while!
-O-okay...
-The old head of the Academy's been seen in pubs<03e0>across the continent lately. I guess anyone would<03e0>want to drown their sorrows after what happened.
-That's the latest news, Daddy.
-The Academy's former director? Is that a man or<03e0>a woman? If it's a man, I know one pub he won't be<03e0>going to!
-O-okay...
-Dr. Sykes has been seen going in and out of Athlum<03e0>Castle often lately. Maybe they've made some sort<03e0>of discovery?
-That's the latest news, Daddy.
-Oh, a new discovery from the famed scientists...<03e0>intriguing. Beloved daughter, shall we take a trip to<03e0>Athlum to see what the fuss is about?
-A-alright...
-Some unidentified flying object's been spotted<03e0>swooping around Wyrmskeep. Apparently people<03e0>are really frightened.
-That's the latest news, Daddy.
-Unidentified flying object!? No, no, far too dangerous!<03e0>I forbid you from even going close to Nagapur!
-O-okay...
-Some hot-blooded female warrior is trying to hunt down<03e0>that group causing trouble in Crookfen. But it's against<03e0>her boss's wishes...
-That's the latest news, Daddy.
-There is nothing wrong with a bit of a tomboy, but if<03e0>she's too hot-blooded, it just leads to trouble...<03e0>Promise me, daughter, that you will never act so rashly!
-A-alright...
-A monster army has appeared in the Great Sand Sea<03e0>and is threatening Balterossa. They're so powerful...it<03e0>seems like we're in trouble.
-That's the latest news, Daddy.
-Mmm, there is no reason to go to the Great Sand Sea...<03e0>I will make certain I don't have any errands that would<03e0>send you there, beloved daughter.
-According to ancient historians, there's something<03e0>dangerous enough to destroy entire cities sealed<03e0>within the volcano...
-That's the latest news, Daddy.
-Inside the volcano... If it were to cause an eruption,<03e0>there would be nowhere to run. Alright, daughter,<03e0>I forbid you from getting close to the volcano!
-O-okay...
-No one knows anything about what's going on inside<03e0>the volcano... But, the Marquis of Royotia might have<03e0>some ideas.
-That's the latest news, Daddy.
-It seems the volcano has not ceased being dangerous.<03e0>I know you don't have a reason to go there, but you are<03e0>still forbidden to go to the volcano!
-O-okay...
-You know there's a town without anyone running it?<03e0>The old ruler's sons are fighting over the seat of power.
-That's the latest news, Daddy.
-Hrm, sounds like a very dangerous place to me.<03e0>Beloved daughter, I forbid you from going to any town<03e0>without a ruler!
-O-okay...
-When you're out in the desert, you can hear this sad,<03e0>lonely voice crying from beneath the Great Sand Sea.
-That's the latest news, Daddy.
-Cries from the desert floor... That sounds suspicious no<03e0>matter how you slice it! Daughter, even if you go to<03e0>the Great Sand Sea, I forbid you from going beneath it!
-O-okay...
-A long time ago, there used to be a famed hero that<03e0>lived in the Great Sand Sea.
-That's the latest news, Daddy.
-A famed hero...a famed male hero!? I don't care how<03e0>long ago it was, I forbid you from going to the Great<03e0>Sand Sea! Don't even get near it!
-A-alright...
-So I was walking through town and heard a man all<03e0>"you gotta believe me! If you look at the pillars in<03e0>the Great Sand Sea, then...g-g-gra<07f0>!"
-That's the latest news, Daddy.
-Ho? I have no idea what that means, but it sounds<03e0>suspicious! Beloved daughter, I forbid you from going to<03e0>the Great Sand Sea!
-O-okay...
-A mad scientist has been wandering around Melphina.<03e0>If you go over there, you probably should stay away,<03e0>he's giving people strange looks.
-That's the latest news, Daddy.
-Playing at research is simply despicable.<03e0>Could the culprit be...a man!? Oh no, that won't do.<03e0>Beloved daughter, I forbid you from going to Melphina!
-O-okay...
-The cafe out in Baaluk's supposedly infested with<03e0>bugs...they followed the owner all the way from<03e0>the desert.
-That's the latest news, Daddy.
-Even the smallest bug cannot be allowed to go free!<03e0>Beloved daughter, if you see a bug, you call Daddy at<03e0>once, alright? I'll take care of everything!
-O-okay...
-Nagapur's been increasingly unsafe.<03e0>Recently several youths have gone missing...
-That's the latest news, Daddy.
-Missing youths...missing young women!?<03e0>Beloved daughter, I forbid you from going to Nagapur!<03e0>Do not even take a step in that direction!
-A-alright...
-Adventurers have gotten into trading the different<03e0>treasures they find on their trips. Royotia's the main<03e0>hub for the fad.
-That's the latest news, Daddy.
-Such an exchange sounds like fun<07f0>but only if the one<03e0>you trade with is trustworthy. ...Beloved daughter, I don't<03e0>think I can allow you to play such a game!
-O-okay...
-Royotian merchants are getting frustrated with<03e0>Balterossa...they control all of their trade routes.
-That's the latest news, Daddy.
-Irate merchants, huh...<03e0>Beloved daughter, if some merchant tries to pick<03e0>a quarrel with you, call Daddy at once, alright?
-A-alright...
-Some yamaan mercenary is looking for a partner.<03e0>Could be a good way to make a few G.
-That's the latest news, Daddy.
-Mercenary work has no bearing on a wholesome<03e0>family such as us. Beloved daughter, I forbid you<03e0>from even talking about such a dangerous field!
-O-okay...
-A man with a double personality has shown up in<03e0>Celapaleis. He'll seem very kind and then suddenly<03e0>start cursing at people...
-That's the latest news, Daddy.
-A two-faced personality... Beloved daughter, I forbid<03e0>you from befriending someone like that! Take care<03e0>before you get to know someone, alright?
-O-okay...
-There's a qsiti going to crowded places, standing in<03e0>everyone's way, and then picking fights with people<03e0>who run into him. People are really annoyed...
-That's the latest news, Daddy.
-How rude! Beloved daughter, I think you should avoid<03e0>crowded places for a while! Yes...I can't have you in<03e0>a place like that!
-O-okay...
-There's a mysterious woman who seems like she's<03e0>waiting for something very important. She apparently<03e0>looks very worried...
-That's the latest news, Daddy.
-A woman in distress...<03e0>Beloved daughter, if anything ever troubles you, come<03e0>straight to me. We can bear the burden together.
-Daddy...
-It seems that the Bloody Alice gang has been gathering<03e0>in Crookfen.
-That's the latest news, Daddy.
-Bloody Alice... I have never heard anything but nasty<03e0>rumors about them. Beloved daughter, I forbid you from<03e0>going to Crookfen!
-O-okay...
-Seems the Jhana have been reappearing in the<03e0>Great Sand Sea. You wouldn't think they'd have<03e0>forgotten being blasted by the Gae Bolg already...
-That's the latest news, Daddy.
-The Jhana have never done anything but harm people...<03e0>Yes, the Great Sand Sea is too dangerous. I forbid you<03e0>from going there, beloved daughter!
-A-alright...
-Recently the Silver Falcons took out a pack of Jhana.
-That's the latest news, Daddy.
-The Silver Falcons do admirable jobs, but for them,<03e0>fighting is their life... No, too dangerous! I forbid you<03e0>from meeting with them, beloved daughter!
-O-okay...
-The Silver Falcons have been going after the remnants<03e0>of the Conqueror's army. Who knows what those guys<03e0>could be up to...
-That's the latest news, Daddy.
-Anyone who could go up against the Conqueror's army<03e0>must be incredibly powerful themselves! Beloved<03e0>daughter, I forbid you from getting close to him!
-O-okay...
-Some gloomy-looking guy's been hanging around<03e0>the pub in Elysion recently...bumming everyone out.
-That's the latest news, Daddy.
-A gloomy...man!?<03e0>No, no, too dangerous! Beloved daughter, I forbid<03e0>you from going to Elysion's pub!
-O-okay...
+Uma dama apegada a tradições está querendo contratar<03e0>um guarda-costas. Dizem que ela pode ser encontrada<03e0>na taverna de uma cidade cheia de canais.
+E essas são as últimas notícias, papai!
+Você deveria seguir o exemplo dessa mulher, minha<03e0>filha. É muito bom ter uma aparência respeitável e<03e0>formal, como as pessoas de bem.
+Sim... Tudo bem...
+Você gosta de antiguidades? Parece que os tesouros<03e0>dos reinos antigos estão à venda no mercado negro...<03e0>
+E essas são as últimas notícias, papai!
+O mercado negro? Minha filha querida não precisa se<03e0>preocupar com esse tipo de coisa! Sim, esqueça esse<03e0>assunto, tudo bem, querida?
+Sim... Claro...
+Há um homem por aí que anda em busca de três pedras<03e0>relacionadas com o antigo reino do deserto. Parece<03e0>que elas têm valor histórico, ou algo parecido.
+E essas são as últimas notícias, papai!
+Há muito segredos escondidos nas terras incultas do<03e0>deserto. Minha filha, você deveria estudar a grande<03e0>história das terras que existem lá fora!
+Sim... Claro...
+Um sujeito interessado na magia arcana está buscando<03e0>alguém para ajudá-lo em seus experimentos. Dizem que<03e0>está prestes a fazer uma grande descoberta.
+E essas são as últimas notícias, papai!
+Magia arcana e mistérios... É uma oferta tentadora.<03e0>Eu até poderia ir ajudá-lo, mas me parte o coração<03e0>ter de deixar minha filha sozinha.
+Parece que está de volta um monstro que havia sido<03e0>aprisionado pelo primeiro Imperador... As pessoas<03e0>estão dizendo que o mundo todo está em perigo!
+E essas são as últimas notícias, papai!
+Então o mundo todo está em perigo? Não tema, filha.<03e0>Papai vai protegê-la, mesmo que me custe a vida!
+Papai...
+Um homem com amnésia está vagando pelas cidades do<03e0>deserto, em busca de algo que possa ajudar a trazer de<03e0>volta a sua memória.
+E essas são as últimas notícias, papai!
+Deve ser terrível perder a memória... Se minha filha<03e0>querida se esquecesse de mim, não sei o que faria...<03e0>minha vida não teria sentido!
+Calma, papai!
+Parece que viram um famoso bandido pelos arredores de<03e0>Athlum. Estão dizendo que ele está procurando alguém,<03e0>mas ninguém tem coragem de ir lá falar com ele.
+E essas são as últimas notícias, papai!
+Como? Um bandido? E o que é pior, um HOMEM? Não, não,<03e0>não, não pode ser. Minha filha, te proíbo de chegar<03e0>perto de Athlum, está me ouvindo?
+Sim... Claro...
+Nas Ruínas de Robélia há uma estátua que te permite<03e0>encontrar qualquer pessoa no mundo, esteja ela onde<03e0>estiver. Um rapaz que perdeu a irmã procura dela...
+E essas são as últimas notícias, papai!
+Que invenção mais maravilhosa! Minha filha, se algum<03e0>dia nos separarem, prometa que você vai atrás dessa<03e0>estátua para voltarmos a nos encontrar.
+Sim... Claro...
+Há um assassino à solta na capital!
+E essas são as últimas notícias, papai!
+Um assassino? Na capital? Em qual capital? Será que<03e0>é aqui? Não diga mais nada, querida... eu te proíbo<03e0>terminantemente de sair de casa!
+Mas... eu...
+Parece que um yama enorme está precisando de ajuda<03e0>para encontrar algo... Mas ele está meio alterado,<03e0>por isso as pessoas estão mantendo distância.
+E essas são as últimas notícias, papai!
+Será que ele perdeu alguma coisa? Mas que lástima...<03e0>Minha filha, se algum dia você perder alguma coisa é<03e0>só pedir ajuda para seu papai, está me ouvindo?
+Sim... Tudo bem...
+Parece que um qsiti albino está em busca de um certo<03e0>livro sobre a magia arcana. As pessoas estão dizendo<03e0>que ele parece familiar.
+E essas são as últimas notícias, papai!
+Livros sobre a magia arcana... Eu também, quando era<03e0>mais jovem, me interessei pelos mistérios das forças<03e0>ocultas. Filha, se isso te interessar, pode estudar!
+Sim... Tudo bem...
+Parece que duas garotas gêmeas começaram a trabalhar<03e0>como mercenárias... E dizem que elas são muito boas!<03e0>Mas uma delas tem um gênio terrível.
+E essas são as últimas notícias, papai!
+Hrm. Não quero ser preconceituoso, mas mercenários<03e0>estão sempre arriscando suas vidas... Minha filha,<03e0>te proíbo de se tornar uma mercenária!
+Sim... Claro...
+Um homem no Grande Mar de Areia está desafiando as<03e0>pessoas a participar de um tipo de jogo. Mas parece<03e0>que ele não aceita qualquer um...
+E essas são as últimas notícias, papai!
+Um homem que seleciona pessoas para participar de<03e0>um "tipo de jogo"? Não diga mais nada! Eu te proíbo<03e0>de chegar perto do deserto!
+Sim... Tudo bem...
+Dizem que um velho guerreiro atravessou todo o Grande<03e0>Mar de Areia em busca de um espada muito especial.
+E essas são as últimas notícias, papai!
+Um velho em busca de uma espada... Ela deve ser muito<03e0>importante para ele. Não é verdade, minha filha?<03e0>
+Sim...
+Os guardas de Ghor juraram lealdade ao seu senhor,<03e0>até o último dia de suas vidas.
+E essas são as últimas notícias, papai!
+Mmm... Para ter guerreiros tão dedicados, o senhor<03e0>dessa cidade deve ser um grande homem. Minha filha,<03e0>você pode ir visitar essa cidade sempre que quiser.
+Viva!
+Não existe nenhuma família no mundo tão leal como os<03e0>Honeywells. Se eles estiverem do seu lado, você pode<03e0>conseguir qualquer coisa.
+E essas são as últimas notícias, papai!
+A matriarca dos Honeywells é uma grande guerreira....<03e0>Mas essa vida é muito perigosa para minha filha! Está<03e0>proibida de se tornar uma guerreira!
+Sim... Tudo bem...
+Parece que o general Torgal de Athlum guarda coisas<03e0>no seu passado que estão voltando para assombrá-lo,<03e0>coisas em Royotia...
+E essas são as últimas notícias, papai!
+Alguma coisa no passado do general, hã? Minha filha,<03e0>eu te proíbo de chegar perto de homens que tenham um<03e0>passado desconhecido, está me ouvindo?
+Sim... Claro...
+O lendário torneio de luta está prestes a começar.<03e0>Todos guerreiros estão convidados para participar.
+E essas são as últimas notícias, papai!
+Lendário ou não, tenho certeza de que é perigoso.<03e0>Eu te proíbo terminantemente de ir lá assistir!<03e0>Você não estava pensando em ir, estava?
+N-não...
+Parece que há por aí uma academia de magia, e durante<03e0>anos ela vem treinando os melhores magos do mundo...
+E essas são as últimas notícias, papai!
+Ahh, que nostalgia! Também estudei nessa academia...<03e0>Ela seria uma boa escola para você, minha filha.<03e0>
+Sim... Claro...
+Athlum tem passado por momentos difíceis e as pessoas<03e0>andam um pouco preocupadas com a nova matriarca do<03e0>clã Honeywell. Ela é tão jovem....
+E essas são as últimas notícias, papai!
+Pobrezinha... Primeiro perdeu a mãe, e agora precisa<03e0>empunhar uma espada assim tão jovem... Minha filha,<03e0>quando morrer, te proíbo de se tornar uma guerreira!
+Sim... Claro...
+Ultimamente tem circulado boatos sobre a vida amorosa<03e0>de Lorde David... ou sobre a falta dela. Isso porque<03e0>nunca o viram envolvido com ninguém...
+E essas são as últimas notícias, papai!
+Nessa idade, e com os hormônios à flor da pele...<03e0>Minha filha, eu te proíbo de chegar perto de Athlum!
+Sim... Claro...
+Dizem que a antiga diretora da Academia anda vagando<03e0>de cidade em cidade, visitando tavernas. Deve estar<03e0>tentando afogar as mágoas, depois do que aconteceu.
+E essas são as últimas notícias, papai!
+A antiga diretora da Academia? Que ela não pense em<03e0>aparecer aqui! Que tipo de exemplo ela vai dar para<03e0>minha filha querida?
+Sim... Claro...
+Os doutores Sykes têm sido vistos entrando e saindo<03e0>do castelo de Athlum, com bastante frequência. Será<03e0>que fizeram alguma nova descoberta?
+E essas são as últimas notícias, papai!
+Que intrigante.... Uma nova descoberta dos famosos<03e0>cientistas... O que você me diz disso, minha filha?<03e0>Que tal irmos até Athlum para ver do que se trata?
+Sim... Tudo bem...
+Um objeto voador não identificado foi avistado nos<03e0>arredores de ForteDragão. As pessoas que vivem ali<03e0>andam histéricas por causa disso...
+E essas são as últimas notícias, papai!
+Um objeto voador não identificado? Isso parece muito<03e0>perigoso! Eu te proíbo de chegar perto de Nagapur!
+Sim... Claro...
+Uma guerreira com sede de justiça está caçando aqueles<03e0>homens que andaram causando problemas em Crookfen.<03e0>Mas ela está desobedecendo o líder da sua ordem.
+E essas são as últimas notícias, papai!
+Uma coisa é ter sede de justiça, outra é ser bastante<03e0>impulsiva. Assim ela acaba se metendo em apuros.<03e0>Minha filha, prometa que nunca vai agir sem pensar!
+Sim... Tudo bem...
+Dizem que apareceu um exército de monstros no Grande<03e0>Mar de Areia. E eles são muito poderosos... Acho que<03e0>estamos em sérios apuros...
+E essas são as últimas notícias, papai!
+Bem, de qualquer maneira não há motivo para você ir<03e0>ao Grande Mar de Areia... Vou me certificar de que<03e0>ninguém te envie para lá, minha filha.
+De acordo com antigos historiadores, há alguma coisa<03e0>aprisionada no interior do vulcão, uma coisa capaz de<03e0>destruir uma cidade inteira...
+E essas são as últimas notícias, papai!
+No interior do vulcão? Se ele entrar em erupção, não<03e0>teremos para onde correr. Minha filha, eu te proíbo<03e0>de chegar perto desse vulcão!
+Sim... Claro...
+Ninguém sabe exatamente o que acontece no interior do<03e0>vulcão, nem como investigar isso... Mas pode ser que o<03e0>marquês de Royotia saiba o que fazer.
+E essas são as últimas notícias, papai!
+Parece que o vulcão ainda continua sendo perigoso.<03e0>Sei que você não tem motivos para ir até lá... Mas<03e0>mesmo assim, está proibida!
+Sim... Claro...
+Você sabia que existe uma cidade que não tem senhor?<03e0>Dois irmãos estão brigando pelo posto do seu pai.
+E essas são as últimas notícias, papai!
+Hum... Deve ser um lugar muito perigoso. Minha filha,<03e0>eu te proíbo de ir para qualquer cidade que não tenha<03e0>um senhor!
+Sim... Claro...
+Dizem que, ao cruzar o deserto, é possível ouvir um<03e0>lamento triste e solitário vindo dali de baixo.
+E essas são as últimas notícias, papai!
+Lamentos vindos das profundezas do deserto? Isso me<03e0>parece muito suspeito. Minha filha, se algum dia for<03e0>ao Grande Mar de Areia te proíbo de ir ao subsolo!
+Sim... Claro...
+Há muito tempo atrás, um herói de grande fama vivia<03e0>no Grande Mar de Areia.
+E essas são as últimas notícias, papai!
+Um herói famoso... Um herói do sexo masculino? Não<03e0>importa quanto tempo se passou... te proíbo de ir<03e0>até o Grande Mar de Areia! Nem chegue perto dali!
+Sim... Tudo bem...
+Eu estava andando pela cidade e ouvi um homem dizer:<03e0>"Você precisa acreditar em mim! Se olhar bem para os<03e0>pilares do Grande Mar de Areia verá os f-fan..."
+E essas são as últimas notícias, papai!
+Hã? Não faço ideia do que isso significa, mas parece<03e0>muito suspeito... Minha filha, eu te proíbo de chegar<03e0>perto do Grande Mar de Areia!
+Sim... Claro...
+Um cientista maluco anda perambulando por Melphina.<03e0>Se você for passar por ali é melhor nem chegar perto...<03e0>Ele está olhando as pessoas de um jeito estranho.
+E essas são as últimas notícias, papai!
+Praticar a ciência de forma irresponsável é um crime<03e0>infame. Além disso, ainda tem um homem envolvido!<03e0>Minha filha, te proíbo de chegar perto de Melphina!
+Sim... Claro...
+Parece que a cafeteria de Baaluk está infestada de<03e0>insetos. Eles seguiram seu dono por todo o deserto.<03e0>
+E essas são as últimas notícias, papai!
+Não vou permitir que nenhum inseto chegue perto da<03e0>minha filha! Se você ver algum me avise, querida, tá<03e0>combinado? Deixe ele comigo!
+Sim... Claro...
+Nagapur está cada vez mais perigosa. Ouvi dizer que<03e0>várias crianças andaram desaparecendo na cidade...
+E essas são as últimas notícias, papai!
+Crianças desaparecendo? Crianças do sexo feminino?<03e0>Minha filha, eu te proíbo terminantemente de chegar<03e0>perto de Nagapur! Não pense em ir naquela direção!
+Sim... Tudo bem...
+Jovens aventureiros agora estão trocando os tesouros<03e0>que encontram durante suas viagens. Parece que essa<03e0>é a mais nova moda em Royotia.
+E essas são as últimas notícias, papai!
+Isso parece divertido, mas só se você trocar tesouros<03e0>com alguém de confiança... Minha filha, não acho que<03e0>seja uma boa ideia que participe disso!
+Sim... Claro...
+Parece que os mercadores de Royotia já estão fartos<03e0>de Balterossa controlar todas suas rotas comerciais.
+E essas são as últimas notícias, papai!
+Mercadores enfurecidos, heim? Minha filha, se algum<03e0>desses mercadores se atrever a levantar a voz para<03e0>você é só avisar seu papai, tá?
+Sim... Tudo bem...
+Um mercenário yama está em busca de um parceiro...<03e0>Pode ser uma boa chance de conseguir umas moedas.
+E essas são as últimas notícias, papai!
+Uma família respeitável como a nossa não deveria se<03e0>rebaixar ao nível desses mercenários. Minha filha,<03e0>te proíbo de falar dessa profissão tão perigosa!
+Sim... Claro...
+Apareceu em Celapaleis um homem com problema de<03e0>personalidade. Dizem que ele é muito simpático, mas<03e0>do nada começa a insultar as pessoas sem motivo!
+E essas são as últimas notícias, papai!
+Um homem que tem dupla personalidade? Minha filha,<03e0>eu proíbo você de se tornar amiga de pessoas assim!<03e0>Não confie em nenhum desconhecido, está ouvindo?
+Sim... Claro...
+Tem um qsiti maluco que costuma ir a lugares cheios<03e0>de gente só para ficar bem no caminho das pessoas e<03e0>arrumar confusão com quem esbarra nele.
+E essas são as últimas notícias, papai!
+Mas que sem noção! Minha filha, acho melhor que você<03e0>evite lugares cheios de gente por um tempo! Não posso<03e0>deixar que nada de mal aconteça com você.
+Sim... Claro...
+Há uma mulher misteriosa que está esperando por uma<03e0>coisa muito importante. Ela parece preocupada...<03e0>
+E essas são as últimas notícias, papai!
+Uma dama em apuros... Minha filha, se algum dia algo<03e0>te deixar preocupada, venha falar comigo. Eu vou te<03e0>ajudar a suportar esse fardo.
+Papai...
+Parece que as Damas Sangrentas andam se reunindo<03e0>nos arredores de Crookfen.
+E essas são as últimas notícias, papai!
+Damas Sangrentas, hã? Ouvi dizer muitas barbaridades<03e0>sobre elas. Minha filha, eu te proíbo de chegar perto<03e0>de Crookfen!
+Sim... Claro...
+Parece que os jhanas voltaram a mostrar as caras no<03e0>Grande Mar de Areia. Será que já esqueceram a lição<03e0>que levaram do Gae Bolg?
+E essas são as últimas notícias, papai!
+O Grande Mar de Areia é muito perigoso, e os jhanas<03e0>não fazem outra coisa senão causar problemas. Eu te<03e0>proíbo de chegar perto desse lugar, minha filha!
+Sim... Tudo bem...
+Os Falcões Prateados acabaram com um bando de jhanas.
+E essas são as últimas notícias, papai!
+Os Falcões Prateados são pessoas admiráveis, mas para<03e0>eles a vida consiste em lutar. Isso é muito perigoso!<03e0>Eu te proíbo de se juntar a eles, filha!
+Sim... Claro...
+Os Falcões Prateados estão indo atrás do que restou<03e0>do exército do Conquistador. Que bom! Ninguém sabe<03e0>o que esses homens poderiam tentar fazer...
+E essas são as últimas notícias, papai!
+Qualquer um que se atreve a enfrentar o exército do<03e0>Conquistador deve ser muito perigoso! Minha filha,<03e0>eu te proíbo de chegar perto deles!
+Sim... Claro...
+Um homem de aparência sombria está deixando todos<03e0>na taverna de Elysion deprimidos com seus lamentos.
+E essas são as últimas notícias, papai!
+Um homem de aparência sombria... UM HOMEM? Não, não,<03e0>não, isso é muito perigoso! Minha filha, eu te proíbo<03e0>terminantemente de ir à taverna de Elysion!
+Sim... Claro...
 

@@ -1,17 +1,17 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0650_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I hear the treasure of one of the Old Kingdoms<03e0>is supposed to be in the desert somewhere.<03e0>But...I bet the place is filled with ghosts...<04e0>Hey, would you go look for me?<06e0000008e0000000000000>Sure.<09e008e0010000000300>Nope.
-Cool! So, there're a bunch of pillars set up in<03e0>the desert to keep you from getting lost. And<03e0>they've all got IDs on them if you look close.<04e0>If you look at them in the order:<03e0>C-4-B-E-A-1<03e0>then...
-*shudder*
-The pillars are engraved with the language of the<03e0>Old Kingdoms, so take this<07f0>it'll show you how<03e0>to read them.
-Well, aren't we boring...
-Hey hey, so you got the hidden treasure!?<03e0>You're so brave!
+Ouvi dizer que o tesouro de um dos reinos perdidos<03e0>pode ser encontrado em algum lugar desse deserto.<03e0>Mas aposto que o lugar está cheio de fantasmas...<04e0>Ei, você pode dar uma olhada para mim?<06e0000008e0000000000000>Claro.<09e008e0010000000300>Não.
+Que bom! Veja, você vai encontrar diversos pilares<03e0>espalhados pelo deserto, que servirão de guia para<03e0>você não se perder. Todos contêm um identificador.<04e0>Se olhar para eles na seguinte ordem:<03e0>C-4-B-E-A-1<03e0>então...
+Sinto calafrios só de pensar...
+Os pilares contêm inscrições na antiga língua dos<03e0>reinos perdidos, então você vai precisar disso aqui.<03e0>Assim conseguirá ler o que está escrito.
+Bom, vejo que está de mal humor...
+Ei ei, então você conseguiu encontrar o tesouro<03e0>escondido? Você é muito corajoso!
 ...
-A rock?<03e0>Some stupid old rock is the hidden treasure of<03e0>the Old Kingdoms!?<04e0>Gimme a break! I thought I'd gotten such an<03e0>awesome tip, too! Ugh, guess I gotta work on my<03e0>eavesdroppi<07f0>uh, my info-collection technique.<04e0>Well, I don't need this thing.<03e0>Present for you!
-Later.
-See? Ghosts really are scary<07f0>even someone<03e0>like you got the willies! Or are you gonna try<03e0>looking again?<06e0000008e0000000000000>Hell yeah.<09e008e0010000000300>Hell no.
-Cool! So, there're a bunch of pillars set up in<03e0>the desert to keep you from getting lost. And<03e0>they've all got IDs on them if you look close.<04e0>If you look at them in the order:<03e0>C-4-B-E-A-1<03e0>then...
-*shudder*
-Wimp.
+Uma pedra?<03e0>Um ridículo pedaço de rocha é o tesouro escondido<03e0>dos reinos perdidos?<04e0>Não é possível! Pensei que fosse algo importante!<03e0>Ugh, vou ter de aprimorar minhas técnicas de<03e0>espio..., digo, de investigação.<04e0>Bom, acho que essa coisa não me tem serventia.<03e0>Então.... Ela é toda sua!
+Até a próxima.
+Está vendo? Os fantasmas são mesmo assustadores...<03e0>Até mesmo em alguém como você eles dão arrepios!<03e0>Você não quer tentar de novo?<06e0000008e0000000000000>Quero sim.<09e008e0010000000300>De jeito nenhum.
+Que bom! Veja, você vai encontrar diversos pilares<03e0>espalhados pelo deserto, que servirão de guia para<03e0>você não se perder. Todos contêm um identificador.<04e0>Se olhar para eles na seguinte ordem:<03e0>C-4-B-E-A-1<03e0>então...
+Veremos o que acontece... *calafrio*
+Covarde...<01e00be000000004000000000000007f00>
 

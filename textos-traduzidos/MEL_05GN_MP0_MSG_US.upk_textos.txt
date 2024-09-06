@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) MEL_05GN_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the guild.<03e0>How may I help you?
-Have you been to Siebenbur, the cavern<03e0>to the south?<04e0>It's a popular spot for researchers,<03e0>as the plants that grow there are<03e0>of the rarest kind.<04e0>In fact, there's a scientist here that<03e0>is creating a new remedy using said plants.
-Do you remember the bog you passed<03e0>on your way here?<04e0>That's Crookfen, the place where<03e0>we Forest Maidens perform rituals<03e0>of prayer for the Last Leaf.<04e0>The Order of Melphina protects us from<03e0>monster attacks while we pray.<03e0>It's all so romantic.
+Bem-vindo à guilda.<03e0>Como posso ajudá-lo?
+Você já esteve em Siebenbur, o conjunto de cavernas<03e0>que se encontra ao Sul daqui?<04e0>É um lugar bastante famoso entre os pesquisadores,<03e0>porque está cheio de plantas exóticas que não são<03e0>encontradas em nenhum outro lugar do mundo.<04e0>Ouvi dizer que tem um cientista que está andando por<03e0>ali e criando novas poções a partir dessas plantas.
+Você se lembra daquele pântano que teve de atravessar<03e0>para conseguir chegar aqui?<04e0>Ele é conhecido pelo nome de Crookfen, e é o lugar em<03e0>que as Donzelas do Bosque rezam para a Folha Caída.<03e0> <04e0>Enquanto fazemos isso, a Ordem de Melphina nos protege<03e0>dos monstros. É muito romântico, você não acha?<03e0>
 

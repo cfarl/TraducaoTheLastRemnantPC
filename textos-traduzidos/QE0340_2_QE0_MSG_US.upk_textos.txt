@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0340_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-We'll find her here.
-Let's go.
-This is exactly the way I remember it...
-Five years ago, this was my place<03e0>to hide from the world.<04e0>I was angry for being born<03e0>a Nassau.<04e0>A marquis is responsible for everything.<03e0>The title was nothing but a burden.<04e0>Childish, I know.<04e0>That's when I met a little girl.<04e0>She was my age and lived on the outskirts<03e0>of town.<03e0>Apparently, this was her hideout, too.<04e0>We became friends and spent a lot<03e0>of time together here.<04e0>I was always surrounded by adults<03e0>and it was refreshing to be able to speak<03e0>to someone my age.<04e0>Even after she found out who I was,<03e0>she never treated me differently.
+Vamos encontrá-la aqui.
+Vamos.
+Esse lugar não mudou nada...
+Há cinco anos atrás, eu tinha o costume de vir aqui<03e0>nesse mesmo lugar para me esconder do mundo.<04e0>Eu estava furioso por ter nascido um Nassau.<03e0> <04e0>Ser marquês era uma grande responsabilidade, e para<03e0>mim o título não passava de um fardo.<04e0>Isso parece coisa de criança, eu sei.<04e0>Foi quando encontrei aqui uma garotinha...<04e0>Ela tinha minha idade e morava na periferia de Athum.<03e0>Parece que ela também vinha aqui para se esconder.<03e0> <04e0>Com o tempo nos tornamos amigos e passamos<03e0>muitas horas juntos aqui.<04e0>Eu estava sempre rodeado de adultos, e para<03e0>mim era um verdadeiro alívio passar um tempo<03e0>conversando com alguém da minha idade.<04e0>Aquela garotinha sempre me tratou como um<03e0>igual, mesmo depois de descobrir quem eu era.
 

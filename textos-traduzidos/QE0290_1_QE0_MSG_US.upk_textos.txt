@@ -1,28 +1,28 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0290_1_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Rush...do you have a moment?<04e0>...
-Sorry,<03e0>let's not talk here.
-I had the urge to come here, but...<03e0>Of course, she's not back yet.
-Rush. I wanted to ask you if...
-...Heard that, did you?<04e0>...
+Rush... você tem um minuto?<04e0>...
+Acho melhor conversarmos em outro lugar.<03e0>Pode ser?
+Senti a necessidade de vir aqui, mas...<03e0>Como era de se esperar, ela ainda não voltou.
+Rush. Queria perguntar algo a você...
+...Você ouviu isso?<04e0>...
 Lady Emma!
-What is it?
-S-sir!<03e0>In the <1be0ffbe34ff>Robelia Ruins<1ce007f0> A huge monster<07f003e0>A-a giant! A giant appeared!<04e0>It seemed like it was under somebody's control...<03e0>It went straight to attack the Athlum soldiers!
-Understood. I'll leave at once.
-I'm sure you heard that. We can continue our<03e0>previous talk after I take care of this.
-Actually, Rush, will you help me check this out?<06e0000008e0000000000000>As if you could stop me!<09e008e0010000000300>Uhh...umm... Huh....
-Good. I appreciate it.<03e0>Let's hurry to the <1be0ffbe34ff>Robelia Ruins<1ce0>.
-There's no time for dilly-dallying. Come back<03e0>when you've made a decision.
-It seems that a monster has appeared in<03e0>the <1be0ffbe34ff>ruins of Robelia Castle<1ce0>.
-I shall be heading out to get it under control...<03e0>Rush, will you come along?<06e0000008e0000000000000>Yeah, I'll help!<09e008e0010000000300>Uhh... Err... You see...
-Good. I appreciate it.<03e0>Let's hurry to the <1be0ffbe34ff>Robelia Ruins<1ce0>.
-We don't have time for this, Rush. Stop acting<03e0>like a child and make a decision.
-You alright? That became more difficult than I'd<03e0>expected.<04e0>However, this sort of incident is increasingly<03e0>common of late. Any time that you can lend us<03e0>an extra blade is much appreciated.
-Then. If you'd allow me to go back to what we were<03e0>talking about before we left... I had a favor to ask of you.
-Ahh, where to begin...
-Here<07f0>this plaza, in front of the Valeria Heart<07f0>is<03e0>a very...dear place for me.<04e0>Quite a long time ago, I saw off a traveler from this<03e0>very spot. We promised to meet here when her travels<03e0>were done.<04e0>I don't know when she'll return, but I can't help but<03e0>wait. I know that if I wait long enough, someday, she'll<03e0>return...
-However, with the increase in incidents outside of<03e0>Athlum that need my attention, I can't very well spend<03e0>all my time here.
-That brings me to what I wish to ask. If she returns<03e0>and I cannot, could you be here to meet her?<04e0>You'll know who I'm talking about at first sight.<03e0>You may as well look forward to it.
-Here...payment in advance.<03e0>Sorry for the trouble... I'm depending on you.
+O que foi?
+S-Senhora!<03e0>Há um monstro enorme nas <1be0ffbe34ff>Ruínas de Robélia<1ce0>...<03e0>É-é um gigante! Uma espécie de gigante!<04e0>Parecia estar sendo controlado por alguém...<03e0>Ele foi direto atacar os soldados de Athlum!
+Entendido. Estou indo para lá.
+Você ouviu. Vamos continuar nossa conversa<03e0>depois de resolver esse problema.
+Se bem que... Rush, será que você pode me ajudar?<06e0000008e0000000000000>Não precisava nem perguntar!<09e008e0010000000300>Ehh... umm... Huh....
+Que bom, agradeço pela sua ajuda.<03e0>Vamos depressa para as <1be0ffbe34ff>Ruínas de Robélia<1ce0>.
+Não temos tempo para mais delongas.<03e0>Volte quando tiver tomado uma decisão.
+Parece que estão aparecendo monstros nas ruínas<03e0>do <1be0ffbe34ff>Castelo de Robélia<1ce0>.
+Preciso ir até lá para manter o lugar sob controle...<03e0>Rush, você vem comigo?<06e0000008e0000000000000>Sim, eu vou!<09e008e0010000000300>Uhh... err... sabe...
+Que bom, agradeço pela sua ajuda.<03e0>Vamos depressa para as <1be0ffbe34ff>Ruínas de Robélia<1ce0>.
+Não temos tempo para isso, Rush.<03e0>Pare de agir como uma criança e tome logo uma decisão.
+Você está bem? Sinto muito, parece que isso acabou se<03e0>tornando mais difícil do que eu imaginava.<04e0>Ultimamente, esse tipo de incidente tem se tornado<03e0>cada vez mais comum. Sempre que puder nos ajudar,<03e0>ficarei muito agradecida.
+Então. Voltando ao assunto do qual estávamos falando<03e0>antes... Eu gostaria de te pedir um favor.
+Ahh, não sei por onde começar...
+Essa praça, em frente ao Coração Valente, é um lugar<03e0>muito especial para mim.<04e0>Há muito tempo atrás, me despedi de uma pessoa muito<03e0>querida nesse mesmo lugar. Prometemos nos encontrar<03e0>aqui quando ela retornasse de suas viagens.<04e0>Ainda não sei quando ela vai voltar, mas não perdi<03e0>a esperança de voltar a vê-la novamente. Sei que<03e0>ela vai voltar, mais cedo ou mais tarde...
+No entanto, por causa de todos esses incidentes que<03e0>estão acontecendo em Athlum, e precisam da minha<03e0>atenção, não posso ficar aqui o tempo todo...
+Por isso preciso te pedir uma coisa. Se ela voltar e<03e0>eu não estiver aqui, será que pode vir recebê-la?<04e0>Você vai saber de quem estou falando assim que a ver.<03e0>Tenho certeza que ficará encantado com ela.
+Espero que não se importe... Por favor, aceite esse<03e0>pagamento adiantado. Estou contando com você.
 

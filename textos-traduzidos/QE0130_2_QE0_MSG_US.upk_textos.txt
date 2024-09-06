@@ -1,8 +1,8 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0130_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Hey kid, come'ere. You look like you've got a good<03e0>eye. You wanna see something good?<04e0>Check it out<07f0>the treasure of the old floating city,<03e0>the <1be064f4ecff>Tome of the Dragon God<1ce0>.<04e0>The techniques in this baby'll have you ripping through<03e0>enemy formations like dragons through knights, dig?<04e0>Yeahhh, I thought that'd get your ears perkin' up.<03e0>Dragons always grab the honeys, right?<04e0>Now, usually this would be a fortune<07f0>I barely<03e0>wanna let this baby go. But for you? I'll cut you a<03e0>deal, whaddaya say?<06e01900>sEVENT_PRICE_QE0130_P_001<08e0000000000000>Sure, I'm all about that!<09e008e0010000000300>Eh, no thanks.
-Good doing business with ya!
-What, leave your wallet in your other pants?<03e0>Go on, get outta here.
-That's too bad, that's too bad.<03e0>Awright then, get lost. You're scaring away the<03e0>paying customers.
+Ei garoto, vem cá. Parece que você tem um olho bom.<03e0>Quer ver algo extraordinário?<04e0>Veja, o tesouro da antiga cidade flutuante,<03e0>o <1be064f4ecff>Manuscrito do Deus Dragão<1ce0>.<04e0>As técnicas que encontrará aqui te ajudarão a vencer<03e0>seus inimigos como dragões vencem cavaleiros, sabia?<04e0>Simmm, sabia que isso ia atrair sua atenção...<03e0>Dragões sempre procuram princesas, não é verdade?<04e0>Agora, isso vale uma fortuna. Me parte o coração ter<03e0>de me desfazer dessa joia. Mas para você posso abrir<03e0>uma exceção, o que me diz?<06e01900>sEVENT_PRICE_QE0130_P_001<08e0000000000000>Claro, estou interessado!<09e008e0010000000300>Eh, não obrigado.
+Que bom fazer negócios com você!
+O que foi, deixou a carteira em outra calça?<03e0>Anda, cai fora daqui.
+Isso não é bom, não é nada bom. Quem sai perdendo<03e0>é você. E está espantando os clientes de verdade.<03e0>
 

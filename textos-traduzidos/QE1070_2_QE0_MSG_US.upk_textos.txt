@@ -1,9 +1,9 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE1070_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-Ohhh...
-I must ask a favor of you.<03e0>I've not much time...<04e0>These flowers are for a young fellow in Celapaleis<03e0>named Rhagoh. Take them to him...please...
-...<04e0>My brother sent you, didn't he?<04e0>Go back and tell him to forget about me.
-(His body is cold.<03e0>There appears to be a letter in his pocket.)<06e0000008e0000000000000>Hello, what's this?<09e008e0010000000000>I shouldn't invade his privacy.
-As death creeps closer, I write my<03e0>  last thoughts in this journal in hope<03e0>  that someone finds it.<04e0>  Every year, I come to Darken Forest<03e0>  to pick flowers for a young man.<04e0>  I must atone for my sins<07f0>for letting curiosity<03e0>  get the best of me and using ancient powers<03e0>  to play with people's souls.<04e0>  However, my biggest sin is hiding that fact<07f003e0>  that truth<07f0>from him, from his eyes.<04e0>  Rhagoh, I'm sorry.<03e0>  That accident was...<03e0>  Your sister is now...<04e0>  If only I had the courage to tell him the truth.<03e0>  The only way for me to rid myself of guilt<03e0>  may be death.<04e0>  Should I have told him about the goddess<03e0>  statue? I hope my choice does not cause him<03e0>  and his sister further suffering...<04e0>(The words are faded and cannot be made out.)
+Aaaargh...
+Preciso te pedir um favor.<03e0>Escute-me, por favor. Minha hora está chegando...<04e0>Leve essas flores a um jovem que vive em Celapaleis.<03e0>Seu nome é Rhagoh. Por favor... Diga que fará isso.
+...<04e0>Foi meu irmão quem enviou você, não foi?<04e0>Pois volte e diga a ele para me esquecer.
+(Seu corpo está frio.<03e0>Parece que há uma carta no seu bolso.)<06e0000008e0000000000000>Hum... Mas o que é isso?<09e008e0010000000000>Devo respeitar sua intimidade.
+Com a morte se aproximando, escrevo nesse pedaço<03e0>de papel meus últimos pensamentos, na esperança<03e0>de que alguém o encontre.<04e0>Todo ano venho até a Floresta Negra em busca<03e0>de flores para um jovem.<04e0>Só assim posso me redimir dos meus pecados.<03e0>Nunca deveria ter usado aquele poder ancestral para<03e0>brincar com a alma das pessoas...<04e0>No entanto, meu maior pecado foi ter escondido<03e0>a verdade de Rhagoh. Eu deveria ter confessado a ele.<04e0>Rhagoh, me perdoe.<03e0>Aquele acidente...<03e0>Foi por minha culpa que sua irmã...<04e0>Sinto muito por não ter tido coragem de contar a<03e0>verdade, mas talvez a morte possa me livrar da culpa<03e0>que pesa sobre minha consciência.<04e0>Será que eu deveria ter contado a ele sobre<03e0>a estátua? Só espero que minha decisão não cause mais<03e0>sofrimento a ele e sua irmã...<04e0>(O resto da carta está borrado e não pode ser lido.)
 

@@ -1,9 +1,9 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) QE0480_2_QE0_MSG
 -- ----------------------------------------------------------------------------------
-I don't care how this happened!<03e0>All I know is that we must do something<03e0>before more people get hurt!
-Let's teach it a lesson!
-It won't be bothering anyone now!<04e0>I'm seriously beat. Now that Baaluk is safe, we can<03e0>take our sweet time getting back to town.
-I'm still trying to catch my breath.<03e0>Give me a minute.
-Alrighty! Time to go home.
+Não sei o que foi que aconteceu com esse monstro...<03e0>Tudo que sei é que precisamos fazer algo antes que<03e0>mais pessoas sejam feridas!
+Vamos ensinar a ele uma lição!
+Esse monstro não vai mais incomodar ninguém!<04e0>Ufa, estou esgotado... Mas agora que Baaluk está a<03e0>salvo, podemos finalmente voltar para a cidade.
+Ainda estou tentando recuperar o fôlego.<03e0>Me dê um minuto.
+Tudo bem! É hora de voltar para casa.
 

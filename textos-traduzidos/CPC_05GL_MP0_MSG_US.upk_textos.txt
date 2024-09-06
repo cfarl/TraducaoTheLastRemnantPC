@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) CPC_05GL_MP0_MSG
 -- ----------------------------------------------------------------------------------
-Welcome to the Sword of Three Realms.
-To protect someone of my stature, obviously the most<03e0>skilled of mercenaries are necessary.<04e0>To that end, I always take advantage of the guild here.<03e0>The high prices are no trouble for me<07f0>I have enough<03e0>money to bury the entirety of Lamberro in gold! Ha ha ha!
-If the hiring fees look expensive, well, there're good<03e0>reasons for that. I mean, a good merc's got a lot to<03e0>take care of. And I'm not just talking weapon skills.<04e0>Equipment, arts, grace, fancy talk... Classy people are<03e0>looking for all of that before they hire you. It's kinda<03e0>annoying...and pricey to keep up.
+Bem-vindo à Espada dos Três Reinos.
+Uma pessoa da minha importância precisa estar<03e0>rodeada dos mais habilidosos mercenários.<04e0>Para isso, sempre recorro aos membros da guilda.<03e0>Dinheiro não é problema para mim, tenho o suficiente<03e0>para cobrir de ouro o distrito de Lamberro! Ha-ha!
+Os valores pedidos pelos mercenários parecem altos,<03e0>mas há uma boa razão para isso. Veja, um mercenário<03e0>deve conhecer muitas coisas, não só como usar armas.<04e0>Precisa cuidar do seu equipamento, da sua técnica,<03e0>sua elegância, sua fala... Pessoas de classe notam<03e0>tudo isso antes de contratar alguém. Custa dinheiro.
 
