@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0110_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush! You came!<04e0>I'm kinda nervous, but I can do this!
+Once you defeat all these monsters,<03e0>I'm going to start the festival!
+Isn't this beautiful?<04e0>Countless lights gather together<03e0>to become one Remnant.<04e0>The Remnant itself doesn't do anything.<03e0>It can't fight monsters or bad guys.<04e0>But this Remnant that is left here has<03e0>a beauty that awes and inspires people.<03e0>This Remnant Syltique...
+It is the most important Remnant<03e0>in all of the world.<04e0>If it weren't for this magnificent piece<03e0>of art, the world would be a place of war<03e0>and nothing but war.
+The Syltique tells us...<03e0>Tells us that there's so much more.<04e0>The world has its horrors, but it<03e0>also has good and beauty.
+

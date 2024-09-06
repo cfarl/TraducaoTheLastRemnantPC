@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1230_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+There's been sighting of a Jhana clan in the vicinity<03e0>of the <1be0ffbe34ff>Nest of Eagles<1ce0>.<04e0>Will you lend a hand again?<06e0000008e0000000000000>'Course!<09e008e0010000000000>Just let 'em be.
+I would like to proceed to the <1be0ffbe34ff>Nest of Eagles<1ce0> as soon<03e0>as possible. Are you prepared?<06e0000008e0000000000000>Yup!<09e008e0010000000300>I need two secs...
+Glory to the Falcons!
+If you have other pending matters,<03e0>so be it.
+I believe I've said this before, but<03e0>they do not deserve your mercy.
+Excellent job.<03e0>They will return, but hopefully not for a very long time.
+It's astonishing how little concern the Lords pay to<03e0>problems outside of their own borders.<04e0>They seem to have no interest in getting involved with<03e0>issues that concern the whole world. Or, perhaps, they<03e0>are fettered by national interests and cannot act freely...
+Either way, that is why we exist.
+Here, take this.
+I may ask you for your assistance<03e0>again in the future. Although I hope<03e0>all stays peaceful.
+

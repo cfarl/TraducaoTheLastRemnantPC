@@ -1,0 +1,28 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0460_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+This is...
+It seems I must request a task from you.<04e0>That roar you hear is the call of this town's<03e0>protector, the Flame Guardian. I know not why,<03e0>but it seems you are being summoned.
+Will you meet with the Flame Guardian?<06e0000008e0000000000000>Okay, whatever.<09e008e0010000000300>Sounds like it'll eat me...
+Excellent.
+Here<07f0>the key to <1be0ffbe34ff>Lavafender<1ce0>.<04e0>With this key you may open the gate my people<03e0>have long stood watch over. Proceed within to<03e0>the deepest lands.<04e0>When you reach a plaza surrounded in fire, you<03e0>may meet the Flame Guardian.
+Ahem.
+Speaking frankly, to my knowledge, this is the first time<03e0>the Flame Guardian has ever met with anyone not part<03e0>of the royal family.<04e0>What could she possibly want with you?
+Forgive me, I'm speaking to myself.<03e0>Then go, young Sykes.
+Don't be ridiculous. The Flame Guardian is a very<03e0>important person to this country. At the very least you<03e0>should hear what she has to say.
+The Flame Guardian, protector of our city,<03e0>requests your presence.<04e0>I trust you will meet her?<06e0000008e0000000000000>Alright, I can do that.<09e008e0010000000300>Um, I'll pass.
+Good.
+Here<07f0>the key to <1be0ffbe34ff>Lavafender<1ce0>.<04e0>With this key you may open the gate my people<03e0>have long stood watch over. Proceed within to<03e0>the deepest lands.<04e0>When you reach a plaza surrounded in fire, you<03e0>may meet the Flame Guardian.
+Ahem.
+Speaking frankly, to my knowledge, this is the first time<03e0>the Flame Guardian has ever met with anyone not part<03e0>of the royal family.<04e0>What would she possibly want with you?
+Forgive me, I'm speaking to myself.<03e0>Go, young Sykes.
+I see.<03e0>When you change your mind, see me.
+It seems the Flame Guardian, protector of<03e0>Royotia, calls for you.
+Once again, will you go to her?<06e0000008e0000000000000>Here I go...<09e008e0010000000300>No, I don't think so.
+Good.<03e0>Go, young Sykes.
+Hmph, leaving her waiting...<03e0>Leaving this be gives me a bad feeling...
+I see.<04e0>To save my country, you must destroy this beast,<03e0>"Vespalia"...<04e0>This is the first I have ever heard of such a monster in<03e0>Royotia... But if the Guardian says so, it must be truth.
+As for these Crimson Shards here, at least I may be of<03e0>assistance.<04e0>Royotia's oldest treasure is a vermillion stone that<03e0>sparkles like flame: the <1be064f4ecff>Manoryll Salia<1ce0>.<03e0>It's said to be the roc's heartbeat.<04e0>It is a fabled gem of our great nation, yet I will give it<03e0>to you.
+I plead to you, Rush Sykes. Do whatever you must to<03e0>protect Royotia.
+This passageway leads to the Flame Guardian. When<03e0>your preparations are complete, please use it.<04e0>Good luck, Rush Sykes. My country is in your hands.
+

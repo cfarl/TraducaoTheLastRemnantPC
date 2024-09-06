@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+This is the Guild of Neutrality. Is there<03e0>something you need?
+Urg... Every night, I've been kept up by that<03e0>damned bell ringing...<04e0>What the hell, didn't you know? It's the ruins<03e0>outside of town<07f0>Mojcado Castle.<04e0>Centuries ago, it was this beautiful silver<03e0>castle. The ruler did all sorts of rituals there,<03e0>was celebrated in song, yadda yadda.<04e0>Of course, now it's all run down, overrun by<03e0>monsters. That's just how it goes.<04e0>Thing is, in the middle of the castle is this<03e0>huge belltower. Sometimes it'll ring at night,<03e0>even though the place's deserted...<04e0>Ugh, gives me the creeps!
+The desert's plenty dangerous, but it's worth<03e0>bravin' it for all the treasure hidden out there.<04e0>Rumor going 'round the guild is that beneath<03e0>the Great Sand Sea is the ruins of the greatest<03e0>of the Old Kingdoms<07f0>the Kingdom of Glenys.<04e0>What I'd give to get even a look at that loot...
+

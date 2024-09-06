@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1050_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Thank you for coming. Rush, is it?<03e0>Now that you're here, we can start the survey.<04e0>I don't need you to do anything special! I'll<03e0>make certain this route will take us to the exit,<03e0>and you make sure we get there in one piece.<04e0>If we run into any Jhana, I'm no use to anyone.<03e0>So just tell me what to do, alright? I leave<03e0>myself in your hopefully capable hands.
+I've got a bad feeling about this...<03e0>It looks like there's something up ahead!<03e0>What should we do?<06e0000008e0000000000000>Wait, I'll check it out.<09e008e0010000000000>Go on, I got you covered.
+Ahh... Guess I'm just a little jumpy.<03e0>Better safe than sorry, I always say!
+Gyaaaah!!!
+There's a fork in the path...<03e0>Which way should we go?<03e0>I swear there's Jhana to the right...<06e0000008e0000000000000>Let's head right.<09e008e0010000000000>Let's head left.
+Huh, I guess it's on patrol.<03e0>Lucky us!
+Aughhh!!!
+Wait, stop. I got chills all down my back...<03e0>There's something up ahead, I know it. What do we do?<06e0000008e0000000000000>Wait, I'll take care of it.<09e008e0010000000000>Go on, I got your back.
+Phew... Looks like the coast is clear.
+Graaaugh!!!
+There are totally Jhana around here!<03e0>But I'm pretty sure the left leads to a dead end...<03e0>Where should we go?<06e0000008e0000000000000>Let's head right.<09e008e0010000000000>Let's head left.
+Geh<07f0>nooooo!!
+Phew, we slipped past them.<03e0>Good thing we went this way!
+Looks like they're setting up an ambush!<03e0>What do we do?<03e0>I mean, I only see one of them...<06e0000008e0000000000000>Let's take 'em on!<09e008e0010000000000>Let's wait and see.
+Oho! What a wimp! Once it saw us<07f0>er,<03e0>specifically, you<07f0>it ran with its tail between<03e0>its legs!
+Geh<07f0>nooooo!!
+The exit should be just ahead, but instead of feeling<03e0>better, I've got a horrible feeling that something<03e0>super-creepy is lurking just around the next corner...!<06e0000008e0000000000000>Wait, I'll take care of it.<09e008e0010000000000>Go on, I got your back.
+Geh<07f0>nooooo!!
+Oh! Ahahah, guess it was nothing. Who knew?
+Thank you, thanks a lot! We were right<07f0>this path did<03e0>come all the way through to the Great Sand Sea!
+

@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0890_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Conqueror!
+Duke Hermeien's plan has failed!<1ae00000c8420fe005e001000ee0>There is no reason to fight.<0fe003e00ee0>Call back your troops!
+You know you can use your precious Remnant to<0fe003e00ee0>wipe us out and prove Athlum's strength to the world.
+The battle has just begun. Let us enjoy it.
+You wish to continue this nonsense?
+It's useless.<0fe003e00ee0>They don't get what we're saying.<1ae0000007430fe005e001000ee0>He... He plays by his own rules.
+He's almost there...
+Roeas, Castanea, finish this.
+Yes, sir!
+You're strong... <1ae0000070420fe005e001001ae00000f04205e001000ee0>But, I...
+Rush!
+I can't... I can't lose this fight!
+Yes. The truth is inside you...<0fe003e00ee0>Remember your true self!
+No...<03e0>No!!!
+

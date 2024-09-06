@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0340_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Sir Rush, Lord David has an important<03e0>matter to discuss with you.<03e0>Will you make your way to <1be0ffbe34ff>Athlum Castle<1ce0>?<06e0000008e0000000000000>I'm on my way.<09e008e0010000000300>Nah, maybe later.
+Thank you, sir.
+It seemed to be a pressing matter...
+

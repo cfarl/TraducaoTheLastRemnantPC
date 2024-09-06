@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1100_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+So we meet again.<03e0>Do you remember me?
+Will you listen to my story?<06e0000008e0000000000000>I like stories!<09e008e0010000000300>No can do.
+Thank you.
+I realize there are things you must do.<04e0>Please come back when you have the time.
+I have one last favor to ask of you.<06e0000008e0000000000000>Lay it on me!<09e008e0010000000300>No can do.
+Thank you.
+I realize there are things you must do.<04e0>Please come back when you have the time.
+You have met many people on your<03e0>journey who have helped you grow.<04e0>In return, you have given them something<03e0>very valuable. Something they will treasure<03e0>for always.<04e0>It is hard to describe in words what<03e0>exactly you have bestowed upon others...
+...
+Allow me to try to explain myself...<04e0>The skies may gray,<03e0>the oceans may disappear,<03e0>and the earth may rot.<04e0>But not even the freest of birds,<03e0>The most hopeful of fish,<03e0>The wisest of men...<04e0>No sight, no sound, no feeling can ever surpass<03e0>the gift you granted those people. In that moment,<03e0>you left behind something that will last for eternity.<04e0>Something only you could have given them...
+And that is what will mold your destiny.
+I must go now.<04e0>To my time, my place.
+

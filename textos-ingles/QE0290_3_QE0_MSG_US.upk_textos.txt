@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+If you go through this door, you'll eventually make it<03e0>to the hall the giant is hiding out in.
+Lady Emma<07f003e0>Before you go, one more thing...
+The giant was way too much for us, so we scattered...<03e0>But one of the men didn't make it.<04e0>We tried to go find him<07f0>we heard yelling, and sounds<03e0>of a struggle, but never saw him at all.<04e0>I hope he's alright...
+

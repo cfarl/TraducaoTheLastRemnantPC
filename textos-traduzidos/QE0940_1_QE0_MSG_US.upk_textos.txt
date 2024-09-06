@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0940_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I can't find my little sister anywhere! And she<03e0>knows she ain't big enough to go anywhere by<03e0>herself...<04e0>But I been all over town... I dunno what else to<03e0>do. An' I sure can't trust some stupid adult to<03e0>help! But you, you ain't so old...<04e0>Please, you gotta help me find my sister!<03e0>She's all I got left!<06e0000008e0000000000000>Don't worry<07f0>I'll find her!<09e008e0010000000000>Ask the city guard.
+Thanks a million!<04e0>So there's this Oswald geezer, an' he knows,<03e0>like, everythin' about Nagapur! I bet he could<03e0>help! I'll stay here in case she comes back...
+...
+Hey, didja find my li'l sis?
+Oh... No luck, huh...<04e0>But there's that old guy, Oswald. Did you ask<03e0>him? He knows everythin' about the city, so<03e0>he might know about this too!
+You got my sister back!<03e0>I really owe you, mister!
+Well done, Rush Sykes. Here's a little<03e0>something to show my appreciation.
+This should bring Nagapur back into balance.<03e0>Hmm, it seems that even this old man can still<03e0>be of use to someone...
+

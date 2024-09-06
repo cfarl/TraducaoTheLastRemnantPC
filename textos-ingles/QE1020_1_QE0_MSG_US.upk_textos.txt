@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+My name is Raphus. I'm an adventurer who has<03e0>traveled the world over.
+At least...I did, 50 years ago. Heh heh!
+Now, it seems the hip new thing for adventurers<03e0>to do is trade treasures. I was certain that if I<03e0>did it too, I could make a pretty penny!<04e0>Problem is... Well, I got a little carried away,<03e0>and traded away my biggest treasure...<03e0>All for a measly bottle of Royotian wine.<04e0>Son, could you help an old man out and get<03e0>back my treasure? That's all I really want...<03e0>Anything else you get trading is yours to keep.<06e0000008e0000000000000>I'll give it a whirl.<09e008e0010000000300>Your stuff is long gone.
+I appreciate it, son. Here's the Royotian wine.<03e0>I haven't taken even a single sip, so it<03e0>shouldn't be a problem to return it.<04e0>...I hope.<04e0>Anyhoo, I traded this from a young man in<03e01be0ffbe34ff>Balterossa<1ce0>, name of Rainn.
+Oh... Oh dear...
+The name's Raphus, sonny<07f0> Say, have we met<03e0>before? You sure look familiar... But then, I do<03e0>a lot of traveling...used to, anyway!<04e0>Would you help me get my precious treasure<03e0>back? If you end up trading for any other nice<03e0>items, they're yours to keep.<06e0000008e0000000000000>Alright, I'll help.<09e008e0010000000300>Get over it, gramps.
+Much obliged, son! Here's some Royotian wine.<03e0>I haven't even popped the cork, so I'm sure<03e0>you could trade it back for my precious!<04e0>Pretty sure, anyway....<04e0>Anyhoo, I traded this from a young man in<03e01be0ffbe34ff>Balterossa<1ce0>, name of Rainn.
+O-oh... Hrmm.
+Oh, it's you. Found my treasure yet?
+Ohhh!<03e0>That map!
+Hmm hmm!<03e0>It was a good idea to ask this of you after all!<04e0>Long ago, when my dear wife and I had adventures<03e0>of our own, we used this map to find our way.<04e0>The memories at just seeing this paper...<03e0>Priceless, son, priceless.<04e0>But get this<07f0>some folks see it and think our<03e0>scribbles are some sort of ancient map or<03e0>something, imagine that! Haw haw haw!
+This's for making an old man happy.
+

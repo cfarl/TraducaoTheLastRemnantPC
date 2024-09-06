@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1070_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Ohhh...
+I must ask a favor of you.<03e0>I've not much time...<04e0>These flowers are for a young fellow in Celapaleis<03e0>named Rhagoh. Take them to him...please...
+...<04e0>My brother sent you, didn't he?<04e0>Go back and tell him to forget about me.
+(His body is cold.<03e0>There appears to be a letter in his pocket.)<06e0000008e0000000000000>Hello, what's this?<09e008e0010000000000>I shouldn't invade his privacy.
+As death creeps closer, I write my<03e0>  last thoughts in this journal in hope<03e0>  that someone finds it.<04e0>  Every year, I come to Darken Forest<03e0>  to pick flowers for a young man.<04e0>  I must atone for my sins<07f0>for letting curiosity<03e0>  get the best of me and using ancient powers<03e0>  to play with people's souls.<04e0>  However, my biggest sin is hiding that fact<07f003e0>  that truth<07f0>from him, from his eyes.<04e0>  Rhagoh, I'm sorry.<03e0>  That accident was...<03e0>  Your sister is now...<04e0>  If only I had the courage to tell him the truth.<03e0>  The only way for me to rid myself of guilt<03e0>  may be death.<04e0>  Should I have told him about the goddess<03e0>  statue? I hope my choice does not cause him<03e0>  and his sister further suffering...<04e0>(The words are faded and cannot be made out.)
+

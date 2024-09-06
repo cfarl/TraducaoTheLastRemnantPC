@@ -1,0 +1,57 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+You look surprised.<04e0>Yes, that intimidating dragon you see is<03e0>indeed Nagapur's treasured Remnant<07f0>the Gwayn!<04e0>The grand castle in front of it is Wyrmskeep,<03e0>home of our beloved Lord Wilfred Hermeien.
+The Conqueror is after all the Remnants<03e0>he can get his hands on, but we're not<03e0>going to let him get ours!<04e0>We will protect our lord and our Remnant.<03e0>Nagapur will not fall!
+Message 3
+Message 4
+This is <1be0ffbe34ff>Flussbahn<1ce0>, the entrance<03e0>to the town built along the canal.<04e0>There are residential districts located under each of<03e0>the Gwayn's wings<07f01be0ffbe34ff>Nordenalm<1ce0> and <1be0ffbe34ff>Sudenalm<1ce0>.
+Directions to <1be0ffbe34ff>Wyrmskeep<1ce0>, you say?<04e0>There's a boat you can take to<03e0>get there.<03e0>The dock is just beneath us.<04e0>Though I don't know if they let<03e0>commoners like you on board.
+Duke Ghor is gathering troops at<03e0>the Plain of Luhang. We will be ready<03e0>to face the Conqueror soon.
+Message 4
+There is no one more powerful and influential than our<03e0>lord, Wilfred Hermeien.<04e0>He is a born leader and chairman of the Congress.<04e0>Being named chairman means that he is the most<03e0>powerful and admired man on the continent.<04e0>I feel honored to be a citizen here.
+The Congress made the right decision. No one is foolish<03e0>enough to believe that the God Emperor has ties with<03e0>the Conqueror.<04e0>I support Lord Hermeien one hundred percent.
+Message 3
+Message 4
+This is the dock.<04e0>Sorry, kiddo.<04e0>This boat IS headed to Wyrmskeep, but I can only let<03e0>you on if you've been granted access by Lord Hermeien.
+This is the dock.<03e0>The boat to Wyrmskeep is just about to leave.<04e0>Kid, you need a ride?<06e0000008e0000000000000>Yeah! Thanks, boat guy!<09e008e0010000000300>Nah, I get seasick easily.
+Alright.<03e0>Just let me know if you change your mind.<04e0>But remember<07f0>I can only allow people who've<03e0>been granted permission to step on the boat.
+The Marquis?<03e0>No, he's not back yet.<04e0>Why don't you take the time to look around town<03e0>a little more?
+We can't leave town until Lord David returns.<04e0>Why don't you take a walk around, do some sightseeing?<03e0>And, by "sightseeing," I mean try to acquire as much<03e0>information as you can.<04e0>Rush, talk to Pagus and myself when you've finished.
+I'm waiting for someone.<03e0>It's been three years since he's<03e0>gone south.<04e0>But I have faith that he'll return.<03e0>I'll continue to wait for him for as<03e0>long as I have to.
+Huh?<03e0>What're you doing here, old lady?
+Wha<07f0>excuse me?<03e0>Do I even know you?
+Oh, oops.<03e0>Um, I thought you were someone else...
+Hmph! Make sure you have the right<03e0>person next time!
+S-sorry...
+Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
+Calling someone "old lady" is rude and inconsiderate...<03e0>especially when they aren't old!
+Hm? You again.
+Uh.
+You don't look happy to see me.
+Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
+Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
+Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
+...Ahh. Thank you.
+You're surprisingly...nice.
+Hm, you look cheerful as ever.
+Heya, Ms. Young Maiden.
+...Right. So, could you please not call me that?<03e0>It sounds ridiculous, to say the least.
+Well, it's not like I know your name.
+Oh?
+Oh.
+The name's Emmy.
+Nice to meet you for real, finally. I'm<07f001e00be00ae0>
+Rush Sykes, call you Rush, right?
+Wha!? C-can you see into my brain!?
+Perhaps!<03e0>Though in this case, it's not much of a challenge.
+Take care, Rush.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+I thought I'd done plenty of training, but I still<03e0>can't even light a candle to Mother...<03e0>But I can't give up.
+I thought I'd done plenty of training, but I still<03e0>can't even light a candle to Mother...<03e0>But I can't give up.
+

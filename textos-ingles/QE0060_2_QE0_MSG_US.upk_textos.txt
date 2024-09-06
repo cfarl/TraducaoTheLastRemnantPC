@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0060_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Well met, Rush Sykes.<03e0>My son has told me a lot about you...<04e0>Good things, don't worry! It seems that you've<03e0>helped him out of many a pinch.<06e0000008e0000000000000>Right. About that war...<09e008e0010000000000>Where's Charlotte?
+Royotia is continually robbed of the profits it<03e0>rightly deserves by Balterossa's exploitation.<04e0>Ending that cycle and gaining control of her<03e0>own trade routes is my country's greatest wish.<04e0>Yet that woman ignores our rights on baseless<03e0>whim, and instead blames us for her own<03e0>security problems.<04e0>It's as if she wishes to bring us to war!<04e0>And if that is so, we shall show her what the<03e0>men of Royotia are made of. We shall establish<03e0>our routes, and if we must fight, then so be it.
+That's the Duchess's daughter, isn't it<07f0>the one<03e0>plotting to hoodwink my son?<04e0>As if I would know her location. The strumpet can<03e0>die in the gutter for all I care.<04e0>More importantly, might you have an idea as to<03e0>where Paris could have gotten off to? We're on<03e0>the cusp of war, and he's disappeared...<04e007f0>Surely he hasn't gone to meet that trollop?<03e0>He knows that <1be0ffbe34ff>Lavafender<1ce0> is too dangerous<03e0>right now!
+Rush. Thanks to you and my son, we suffered much<03e0>fewer losses than I'd feared.<04e0>Still, Paris still has a lot to learn about politics. He still<03e0>seems a bit awkward with these matters of state.
+Thank you, Rush.<03e0>If you ever need my help, ask for me at the<03e0>guild hall. I shall do all I can.
+Master Paris and Lady Charlotte are still very young.<03e0>I fear they will suffer many hardships in the future...
+The relationship between countries is very much<03e0>affected by the countries that surround them.
+It seemed like the Balterossan army suffered heavy<03e0>losses.
+

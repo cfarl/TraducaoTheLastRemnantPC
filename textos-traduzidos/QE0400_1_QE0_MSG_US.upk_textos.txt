@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0400_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey. Guess you heard the rumors about that "flying<03e0>monster," huh?<04e0>Yeah... Probably ain't a surprise to you, but that "monster"<03e0>is the Lob Omen. With all the shit going down here in<03e0>Nagapur, it's been hiding out up at <1be0ffbe34ff>Wyrmskeep<1ce0>.<04e0>I wanna go up there and get it back, but now that<03e0>Hermeien's gone, a bunch of monsters've moved in.<03e0>It's dangerous, even for me.<04e0>Hey, other than that whole sister-kidnapping-and-trying-<03e0>to-kill-each-other business, we're cool, right?<04e0>Think you could help me get the Lob Omen back?<03e0>I heard finding strong Remnants is what y'all are all<03e0>about lately. So, you down?<06e0000008e0000000000000>Sure, uh, dawg..<09e008e0010000000300>I'm so not "down" I'm up.
+Whaddaya want?<03e0>You gonna help me get the Lob Omen yet?<03e006e0000008e0000000000000>I'm, uh, down with that.<09e008e0010000000300>Oh, has hell frozen over?
+Yeahhh, that's what I like to hear.<04e0>We oughta be able to sneak into the castle through the<03e01be0ffbe34ff>Aqueducts<1ce0>. C'mon, let's roll.
+We oughta be able to sneak into the castle through<03e0>the <1be0ffbe34ff>Aqueducts<1ce0>. C'mon, let's roll.
+Hmph, pussy.<03e0>You don't see me holding a grudge...
+Hey, 'sup. You really helped me out back with the<03e0>Lob Omen.<04e0>Here.<03e0>It ain't much, but shut up and take it anyway.
+The hell're you lookin' at me like that for?<03e0>What, you think I don't know common courtesy?<04e0>Damn, you're such a little<07f003e0>Eh, whatever.<03e0>Holla at me later.
+

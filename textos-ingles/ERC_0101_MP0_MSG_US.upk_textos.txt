@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Are you lost, my boy?<03e0>Not to worry<07f0>that happens all of the time.<04e0>Up above is the <1be0ffbe34ff>Remnant Elysion<1ce0>. Beneath that<03e0>lies the ivory structure of the assembly hall, and<03e0>numerous esteemed temples.<04e0>The city is a sanctuary for many.<04e0>But don't let an old man like me bore you with his<03e0>stories. Why not take a look around for yourself?
+My, my, what was that all about?<04e0>Marching troops into this sacred town.<03e0>Some folks have no decency.
+Message 3
+Message 4
+Who could have predicted that the Conqueror's<03e0>army would just show up one day and create such<03e0>utter chaos?<04e0>I pray to Lady Marion every day that they never return.
+Message 6
+See the cloud spiraling towards the heavens?<03e0>The Sacred Lands rest up there.<04e0>It used to be that when someone was talking about<03e0>"Elysion," that's what they meant. Nowadays the name<03e0>refers to this town as well.<04e0>I know I'm just a security guard, but someday I hope to<03e0>go up there!
+Hey, did you see that!?<04e0>A really bright light just flashed across the sky from the<03e0>Ark up towards the Sacred Lands!<04e0>If only I'd been in the Ark... I could've gone up to the<03e0>Sacred Lands, I bet...
+I know who that was<07f0>the Conqueror and his<03e0>army.<04e0>I figured they'd be a bunch of disorganized thugs, but<03e0>they were pretty impressive-looking.<04e0>And that woman soldier, the one who gave that speech?<03e0>What a looker! I wish she was my commanding officer...
+Message 4
+Since Chairman Hermeien passed away, people<03e0>have been filled with nothing but uncertainties.<04e0>So, in times like this, my job as a protector of the<03e0>people is even more important, right?<04e0>This isn't the time to indulge in selfish dreams of<03e0>going to the Sacred Lands.
+Message 6
+The best selection of weapons, armor, and items<03e0>can be found here on Tula Street.<04e0>Oh, I know that some people go on and on about that<03e0>Hendler area, but I'd stay away if I were you.<03e0>Everything they sell is just overpriced rubbish!
+I saw it with my own two eyes!<03e0>A flash of light shot straight from the Ark<03e0>up to the heavens!<04e0>I wonder what that was. All I know is that it was<03e0>much brighter than the usual light the Ark emits<03e0>when in use.
+So that's the infamous Conqueror.<03e0>I hear he's bad news, causing trouble<03e0>everywhere he goes.<04e0>What an evil glare he has!<03e0>I hope he leaves our town peacefully...and soon!
+Everyone in this part of the holy city is in<03e0>such low spirits with the death of Chairman<03e0>Hermeien and the downfall of the Academy.<04e0>It seems the old folks in the temple district<03e0>have much more zest nowadays.
+

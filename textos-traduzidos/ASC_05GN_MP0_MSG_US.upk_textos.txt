@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+This is a <1be0ffbe34ff>guild<1ce0>. Sorry, the person in charge<03e0>isn't here right now.<04e0>Try back later.
+What's this? Don't tell me a kid like you's<03e0>trying to take on some guild tasks! You're<03e0>greener than a seasick piece of broccoli!<04e0>Gahahah, impossible, you'd never make it!<04e0>These aren't for kiddies who're gonna get beat<03e0>up by monsters and go home crying to mommy!<03e0>Save yourself the trip and go home now.
+Guild tasks?<03e0>There're all types...from simple stuff to<03e0>really hairy jobs.<04e0>Ehh, if you've got the time, then take a look,<03e0>maybe take one or two, then you'll see.
+Hey, kid, have you heard? Some guys who're the<03e0>tippy-top rank of warriors've started up their own<03e0>little guild.<04e0>They say there's a secret passageway in through the<03e0>back of Warrior's Honor or something...
+Independence? Yeah, yeah, it's great, I'm sure.<03e0>I'm more interested in guild tasks.
+Conqueror? Oh yeah, he's a troublemaker, yeah.<03e0>I'm kinda more interested in guild tasks, though.
+What's wrong, Junior, you lost? This is a guild,<03e0>a place for veteran adventurers to gather.<04e0>It's no place for fresh-faced kids who barely<03e0>know how to hold a blade. Run on home and<03e0>play stickball or something.
+If you're looking for something to do, then the<03e0>guild's the right place to be.<04e0>And I'm not talking charity work. You can get a<03e0>nice reward by picking up the right task.<04e0>Well, it's not like they aren't getting anything<03e0>out of it.
+

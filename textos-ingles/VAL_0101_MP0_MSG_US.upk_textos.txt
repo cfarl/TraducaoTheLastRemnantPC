@@ -1,0 +1,78 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Ho there, traveler! This is the "front gate" of Balterossa,<03e0>the Merchant's Lot.<04e0>Traveling merchants stop here to take a break during<03e0>their long journeys or talk shop with other merchants.<03e0>You should take a load off, too!
+[[2nd level message]]
+[[3rd level message]]
+Ho there, traveler! This is the "front gate" of<03e0>Balterossa, the Merchant Lot.<04e0>Lately things've been a bit more muted... Lady<03e0>Bertrude has been suffering from some strange<03e0>illness, and that's all anyone can talk about.
+[[5th level message]]
+[[6th level message]]
+Looks like the Merchant Lot's gone through a<03e0>fire sale...<04e0>Everything went downhill quick since the<03e0>Conqueror's army marched in here<07f0>and<03e0>marched out with our Remnant, the Tao Tie.
+[[5th level message]](after the Remnant is stolen)
+[[6th level message]](after the Remnant is stolen)
+Lady Bertrude, Duchess of Balterossa, once was<03e0>married, but the Duke was killed in an accident<03e0>in the desert, long ago.<04e0>Since then Lady Bertrude has run Balterossa by<03e0>herself.<04e0>Her affection for her daughter, the Lady<03e0>Charlotte, is unmatched... Perhaps as she is<03e0>the only piece of the late Duke left.
+[[2nd level message]]
+[[3rd level message]]
+Lady Bertrude has fallen deathly ill. The town's<03e0>merchants have traveled far and wide, bringing<03e0>back different medicines to try and cure her.<04e0>But it has been to no avail. Her condition has<03e0>steadily worsened...<04e0>What strange affliction could have struck Lady<03e0>Bertrude down?
+[[5th level message]]
+[[6th level message]]
+A half-year previous, we were suddenly attacked<03e0>by a massive army of beasts.<04e0>The army and the Silver Falcons both scrambled<03e0>to Balterossa's defense.<04e0>But amidst the confusion, the Conqueror<03e0>appeared, and used some mysterious stone to<03e0>steal away the Tao Tie.<04e0>Surrounded by the Conqueror's army, there was<03e0>naught we could do but watch...
+[[5th level message]](after the Remnant is stolen)
+[[6th level message]](after the Remnant is stolen)
+The Tao Tie is sooo powerful!<04e0>It can stick its tail in sooo deep, an' drink water<03e0>from, like, super-deep underground!<04e0>When I grow up, I'm gonna be the Tao Tie!
+[[2nd level message]]
+So, I was listening to Daddy talk to some<03e0>rich-looking guy...<04e0>He said that Ms. Lady Bertrude was real sick,<03e0>an' it was all the Tao Tie's fault!<04e0>That guy's gotta be fibbing! The Tao Tie's<03e0>always took good care of us, so it wouldn't<03e0>do anything bad like that!
+[[4th level message]]
+A bunch of scary guys in black hoods came<03e0>here... It was real scary and Mama made me<03e0>stay inside, but I snuck to the window to look...<04e0>There was one guy wearing red, you know? An'<03e0>he touched the Tao Tie, an' it...an' it<03e0>disappeared... It...it's gone... *sniffle*<04e0>Wh-what? I didn't cry or nothing, stupidhead!
+[[4th level message]](after the Remnant is stolen)
+Hey...hey. Have you seen the Duchess's<03e0>daughter, Lady Charlotte?<04e0>She's the most beautiful girl in all Balterossa...<03e0>Whenever I see her, I just want to<07f003e0>Urhurr hurr hurr...<04e0>...But, I-I've heard she has a<07f0>a lover...<04e0>What kind of guy is she interested in? And why<03e0>isn't it me?
+[[2nd level message]]
+Ever since the Duchess got sick, the beautiful<03e0>and selfless Lady Charlotte's been at her side<03e0>every waking moment, taking care of her.<04e0>So lucky! I wish she'd give me some bedside<03e0>care...hurr hurr...<04e0>A-anyway, she's always been dainty<07f0>so<03e0>delicately built, like she could fit in your<03e0>pocket! But lately she's been losing weight...<04e0>At this rate, Lady Charlotte will fall sick as<03e0>well<07f0>and without me there to catch her! I-I<03e0>have to do something!!!<04e0>...Is what I was thinking, but for some reason,<03e0>they won't let me into the castle. *sigh*
+[[4th level message]]
+Those jerks in the Conqueror's army came and<03e0>stole the Tao Tie.<04e0>Ever since, the Duchess, and more importantly,<03e0>Lady Charlotte have been too pained to leave<03e0>the castle at all.<04e0>If only I were there with you, my darling,<03e0>I promise I would erase your fears with my<03e0>healing<07f004e0>A-anyway! So that I can once again enjoy the<03e0>sight of the lovely Lady Charlotte, I'm gonna<03e0>find a new Remnant for Balterossa!<04e0>...Is what I was thinking, but I kinda don't<03e0>have any idea where to start looking... *sigh*
+[[4th level message]](after the Remnant is stolen)
+Huh?<03e0>What're you doing here, old lady?
+"Old lady"!?<03e0>Excuse you! Who the hell do you think you are?
+Huh? ...I guess I mistook you for someone else.<03e0>Totally look the same, though...
+You're awfully rude to people you've just met.
+S-sorry!
+Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
+Calling someone "old lady" is quite inconsiderate...<03e0>especially when they aren't old!
+Hm? You again.
+Uh.
+You don't look happy to see me.
+Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
+Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
+Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
+...Ahh. Thank you.
+You're not as inconsiderate as I thought.
+You're looking well.
+Heya, Ms. Young Maiden.
+...Right. So, could you not call me that?<03e0>It sounds ridiculous, to say the least.
+Well, it's not like I know your name.
+Oh?
+...
+The name's Emmy.
+Nice to meet you for real, finally.<03e0>I'm<07f001e00be00ae0>
+Rush Sykes, call you Rush, right?
+Wha!? C-can you see into my brain!?
+Perhaps! Of course, it wouldn't be very difficult...
+Take care, Rush.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
+I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
+Glory to the Falcons!<03e0>Hello, Rush.<03e0>What? Is it that rare for a sovani to speak to you?
+What are the Silver Falcons?<04e0>...Perhaps the most apt description is that we're a<03e0>group of knights who fight for what we believe.<04e0>It doesn't matter if you don't fully understand.<04e0>There are many others in the organization, but<03e0>not here... Operatives carry out their own missions<03e0>across the continent.<04e0>As commander, I give directions to local operatives<03e0>and they take care of the rest.<04e0>Granted, there are certain inconveniences in<03e0>coordinating large-scale operations.<04e0>However, when necessary, everyone will assemble.<03e0>You've no need to worry.<04e0>Oh, yes.<03e0>If the Falcons are called to act, would you be<03e0>willing to lend us your help?<04e0>Certainly, if it was an action against your beliefs, you<03e0>could refuse, no questions asked. Think about it.
+If the Falcons are called to act, would you be<03e0>willing to lend us your help?<03e0>Think about it.
+How did the Silver Falcons come to be?<03e0>Mmm... A mitra was the founder...<04e0>This all happened decades ago...<03e0>At the time, I had gone to the mountains above<03e0>the town to view the Tao Tie.<04e0>As you know, sovani are very proud beings.<03e0>Like most of us, I had always kept to myself.<04e0>There was a shabby-looking sellsword who wandered<03e0>the area. Whenever he saw me, he'd call out a hello.<03e0>At the time, I found his familiarity rather impertinent...<04e0>Not too much later, monsters assaulted the town.<03e0>It was terrible timing, as the army had been called<03e0>abroad. Balterossa was thrown into a panic.<04e0>That's when that sellsword appeared. He gathered<03e0>the mercenaries of the town, and led them against<03e0>the monster hordes, saving the town.<04e0>I could not understand his actions. Why would<03e0>he risk his life for a bunch of strangers? What<03e0>was his motive?<04e0>He caught my interest. So I decided to join him.<03e0>He was the first leader of the Silver Falcons.<04e0>...<04e0>This story has run long. Perhaps I will continue<03e0>it later... That's enough for now.
+If the Falcons are called to act, I would appreciate<03e0>you lending your help.
+The beastmen are tenacious enough that it is<03e0>impossible for the dukedoms to suppress them.<03e0>That is why the Silver Falcons are necessary.<04e0>Hm? Ah yes, I was in the middle of the story...<04e0>That sellsword who saved the town...<03e0>The founder of the Silver Falcons.<03e0>He intrigued me, and so I joined the Falcons.<04e0>At first, I meant just to see what made him<03e0>tick. But after spending enough time with him,<03e0>I began to share his beliefs.<04e0>To protect those who cannot protect themselves,<03e0>wielding a blade as strong and sure as the wings<03e0>of the proud falcon... That became my credo.<04e0>I grew to respect him a great deal. I was curious<03e0>to his thoughts on many different subjects.<04e0>Nevertheless, especially compared to that of a<03e0>sovani, a mitra's lifespan is incredibly short.<03e0>...I had tried to prepare myself. I'd attempted to...<04e0>It came faster than I'd imagined.<04e0>One night when the moon was full, the beastmen<03e0>launched a sneak attack on a small village... He used<03e0>himself as a lure to lead them away, to the cliffs.<04e0>And, there he met his end.<03e0>He died as he lived, selflessly acting for others...<03e0>He stayed true to his beliefs to the end.<04e0>...<04e0>It seems I've said too much.<03e0>You are a strange one...<04e0>Forgive me, but I'd appreciate it if you left me<03e0>alone right now.
+Forgive me, but I'd appreciate it if I could be<03e0>alone for a while.
+For some reason, fighting alongside all of you<03e0>reminds me of my days with the founder.<04e0>He taught me the value of protecting life...<03e0>That is why when it came time for me to take up<03e0>the mantle of commander, I had no doubts.<04e0>Rush...we are in a time of trial. Power, territory,<03e0>Remnants...it seems like anything can inflame<03e0>tensions to war nowadays.<04e0>If I can reduce casualties by interfering in<03e0>these conflicts, then I will without hesitation...<03e0>even if it means working outside the law.<04e0>...<04e0>Ah, now I see.<03e0>You're a lot like he was, Rush. That must be why<03e0>I find myself chattering on at you so much.<04e0>Heh, intriguing...<03e0>I'll be curious to see where your beliefs take you...<04e0>Feel free for that place to be the Falcons.
+Rush, would you join the Silver Falcons?<03e0>Know that you would always be welcomed into<03e0>our ranks.
+

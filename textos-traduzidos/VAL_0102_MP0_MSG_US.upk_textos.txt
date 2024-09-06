@@ -1,0 +1,76 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+This is Balterossa's famed shopping area,<03e0>Spirale Market. It's named for how the path<03e0>twists around the Remnant Tao Tie.<04e0>Here you can buy the finest weapons from<03e0>across the continent, and pick up the rarest<03e0>components...everything you could ever need!
+[[2nd level message]]
+[[3rd level message]]
+Once we learned Lady Bertrude had fallen ill,<03e0>we merchants started bringing in the best<03e0>tonics and medicines from across the continent.<04e0>The Duchess is an incredibly strong woman,<03e0>taking care of Balterossa single-handedly after<03e0>her husband passed. She is much admired.<04e0>If the famed trade routes of Balterossa are able<03e0>to save her life, I can't think of anything more<03e0>appropriate.
+[[5th level message]]
+[[6th level message]]
+About a half a year ago, some legion of<03e0>monsters drew out the army... While they were<03e0>attacking, the Conqueror grabbed the Tao Tie!<04e0>The Tao Tie was the soul of Spirale Market.<03e0>Since it's been gone, we don't get too many<03e0>shoppers out, plus it just feels colder all around.
+[[5th level message]](after the Remnant is stolen)
+[[6th level message]](after the Remnant is stolen)
+South of the Great Sand Sea is the mining city<03e0>of Royotia. The gems and ore they mine are<03e0>exclusively sold here in Balterossa.<04e0>Balterossa is rich both economically and<03e0>culturally<07f0>being a major trade hub attracts<03e0>people from all over. <04e0>As a Balterossan, I consider it a point of pride.<03e0>However, to put it plainly, the Royotians are<03e0>incredibly jealous of our fortune.
+[[2nd level message]]
+[[3rd level message]]
+The Silver Falcons have received some<03e0>troubling information from Intelligence...<04e0>Some entity is attempting to take advantage of<03e0>the Duchess's illness to inflame relations<03e0>between Balterossa and Royotia.<04e0>By the name of the Silver Falcons, we will do<03e0>our best to avoid war at any cost.
+[[5th level message]]
+[[6th level message]]
+Once the Falcons learned the Conqueror had<03e0>invaded the city, we returned from fighting the<03e0>monster hordes as soon as we could.<04e0>But it was too late. The Tao Tie was gone, and<03e0>the only thing left was the man in red.<04e0>We all rushed him, but to no avail. He took our<03e0>every attack without even a scratch. It was a<03e0>shaming day for the Falcons...<04e0>Against that man in red, we were completely<03e0>ineffective...
+[[5th level message]](after the Remnant is stolen)
+[[6th level message]](after the Remnant is stolen)
+It's amazing that we can have such a bustling<03e0>city in the middle of the desert, isn't it? It's<03e0>all due to the blessing of the Tao Tie.<04e0>Go on, take a look. It's like two giant insects,<03e0>isn't it? Those sweet beasties take care of all<03e0>Balterossa.
+[[2nd level message]]
+Hello, dearie. Just look at that. When I was just<03e0>a little girl, I was so afraid of the Tao Tie...<03e0>I thought it was a monster out to eat me up!<04e0>Still, I was drawn to its shimmer and would gaze<03e0>at it for hours. I can't quite say I've ever<03e0>shaken the habit!<04e0>But recently, it's seemed a little strange. Every<03e0>so often, the Tao Tie seems to lose its shine...<03e0>Like its heart had gone cold.<04e0>Ahh, perhaps it's just the ramblings of an old<03e0>biddy... I hope that's all it is, at least.
+[[4th level message]]
+Calling Remnants our guardian angels is just a<03e0>self-serving nickname... In the end, it's far from<03e0>the truth.<04e0>I heard that some large foreign city was destroyed<03e0>when their Remnant went wild. Everything, everyone,<03e0>gone, just like that.<04e0>Too much power will only lead to destruction. Perhaps<03e0>it's for the best that the Tao Tie was taken away.
+[[4th level message]](after the Remnant is stolen)
+What? Do you need something?
+Do you need something?
+Have you seen Lord David?<04e0>I do not feel comfortable letting him alone.<03e0>If you see him, please tell him I am looking for him.
+What a troublemaker...
+...
+On the surface, it does not seem like this place<03e0>has changed very much...<04e0>That said, it is no place to let Lord David run about<03e0>unsupervised. If you see him, tell him I am looking<03e0>for him.
+You haven't seen Lord David?
+If it was only going to be stolen anyway, we should<03e0>have taken the Remnant ourselves...<04e0>...No, Lord David would never have stood for it.
+Please forget I said anything.
+The Remnant Ark...<03e0>Surely there must be a similar Remnant elsewhere<03e0>in the world...
+I can think of nothing...
+Lord David is as prepared as he can be.<04e0>All I have to do is follow.
+Ahh... What a spectacular Remnant.<03e0>It just has a certain impact, doesn't it?<03e0>I feel as if I'd never tire of looking at it...<04e0>However... The pair of them don't seem to get along<03e0>all that well, do they...
+Incredible...
+...
+After learning of Remnants disappearing the world over,<03e0>I'd become a bit wary, but look. This place is the same<03e0>as always...it's a small but appreciated blessing.
+Yes, yes.
+Then, it's just like Athlum...<04e0>The whole mood of the town is different.
+What in the world is going on?
+It must exist, somewhere...
+Let's continue to search.
+Let's finish this...learn the true ending of this tale.
+Come and check out the weapons they have!<03e0>Ahh, from blunt to sharp, fancy decorative stuff<03e0>to everyday weapons, I love 'em all!
+Heheheheh...
+Lady Emma...
+Heya, Rush! Check it out<07f0>the Remnant's still alive<03e0>and kicking! So we can't get all down either, right?
+We can't lose hope now!
+Even the weapons seem kinda pooped out...<03e0>Guess it's 'coz the Remnant's gone...
+Geez, even the weapons seem pooped out...
+Gah, if I have to think about this Remnant stuff any<03e0>more, my head's gonna explode! You just tell me<03e0>where to go when you've figured it out, okay?
+I'm ready to rock whenever!
+Let's go, Rush!<04e0>Don't worry<07f0>I'll knock down anybody in our way!
+What am I doing?<04e0>Just as it looks, taking a walk. As the Marquis,<03e0>I can't just roam the streets alone in Athlum or<03e0>Celapaleis...<04e0>I'm certain Torgal is having conniptions, but let's<03e0>keep this between us, shall we?
+Remember, this is our secret.
+It seems the Tao Tie is still untouched...
+...
+Balterossa as well...<04e0>Then, Athlum is not the only victim...
+...
+What am I rushing around for?<03e0>To be honest, I was mainly trying not to be recognized...
+I hope we're not too late...
+Let's go, Rush!<04e0>And we'll return together<07f0>victorious!
+The town may look the same as always, but that's<03e0>only at first glance.<04e0>There's plenty of rumbling beneath the surface...<03e0>This is no time to start slacking.
+This place is rotten...
+They've lost their Remnant as well...<03e0>I suppose it could be just coincidence...<04e0>Certainly seems like a plot, though...
+I can't believe someone isn't behind all this...
+Hey now, quit playing around and help us search,<03e0>will you?  There's got to be another way to get to<03e0>the Sacred Lands, but we won't find it if you don't look.
+Don't worry<07f0>we'll find it.
+I'll look after Lord David since she cannot...<03e0>So you'd better do the same for Irina.
+

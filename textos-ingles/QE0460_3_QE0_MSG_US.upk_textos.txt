@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0460_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the depths of Royotia.
+I am the Flame Guardian.<03e0>I am the watcher of Vespalia, that which would lavish<03e0>destruction upon Royotia.<04e0>I have called you here to perform a task for me.
+To protect Royotia, will you destroy Vespalia?
+Our time grows short. Vespalia has struggled for lifetimes<03e0>to break free from its seal. Soon it will succeed.<04e0>Once the bird awakens, it will destroy all of Royotia.
+Vespalia is not only strong, but possesses incredible<03e0>fortitude. It would take a miracle to defeat it.<04e0>Nevertheless, we are not without recourse against it.
+This I request.<03e0>Find the nine <1be0ffbe34ff>Crimson Shards<1ce0> scattered around this world.
+If there is to be any hope of destroying Vespalia, all<03e0>nine Crimson Shards must be assembled.<04e0>The Crimson Shards are drawn to those with strong<03e0>wills. Go to the powerful of this world, and you shall<03e0>easily find the Shards.
+Once collected, the Crimson Shards may be combined.<03e0>Depending on this combination, they take the form of a<03e0>shield, bangle, or blade.<04e0>And, thus equipped with Crimson Blade, Bangle, and<03e0>Shield, it should be enough...<04e0>Enough to give you the power to destroy Vespalia once<03e0>and for all.<04e0>.........
+When you believe you are up to challenging Vespalia,<03e0>return to this place.
+Please, aid us in this time.<03e0>You are our only hope.
+

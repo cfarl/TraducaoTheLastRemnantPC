@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush.<03e0>I dunno if I should throw this on you, but I can't think<03e0>of anything else to do.<04e0>I might've told you already, but I'm lookin' for an elixir<03e0>to fix Reya's eyesight.<04e0>I haven't gotten lucky yet, but I managed to get hold<03e0>of some information from some merchants passin'<03e0>through.<04e0>In a place not too far away grows a flower called<03e0>"Visuminsumo." Apparently, it's got the power to give<03e0>people their sight back.<04e0>You can find the flowers at the top of <1be0ffbe34ff>Mt. Vackel<1ce0>.<03e0>At least, that's what I heard.<04e0>I woulda gone once I heard the stuff existed, but I<03e0>gotta be careful...if somethin' were to happen to me,<03e0>Reya'd be devastated.<04e0>Plus, travelin' with you, I can't just go off on my own.<04e0>So, wouldja come to <1be0ffbe34ff>Mt. Vackel<1ce0> with me<03e0>to get Reya some <1be064f4ecff>visuminsumos<1ce0>?<06e0000008e0000000000000>She's a cutie. I'll go.<09e008e0010000000300>You really want her to see you?
+Knew I could count on you.<04e0>I have a vague idea of what the flowers look like, so<03e0>once we get there, leave it to me.
+I want her to see, period.<03e0>If you can find the time to help me out, lemme know.
+Visuminsumos grow on Mt. Vackel. I got a vague idea<03e0>of what they look like, so once we get there, leave it<03e0>to me.<04e0>I'll do anything to help Reya regain her sight. You gotta<03e0>help me.
+Did you change your mind?<03e0>Are you going to help me or not?<04e0>I need to go to <1be0ffbe34ff>Mt. Vackel<1ce0> to get Reya some<03e01be064f4ecff>visuminsumos<1ce0>. I want you to come with me.<06e0000008e0000000000000>Yeah, I'm ready to go.<09e008e0010000000300>I'm still not sure...
+Knew I could count on ya.<04e0>I have a vague idea of what the flowers look like, so<03e0>once we get there, leave it to me.
+Why don't you let me do the thinking here, eh? You just<03e0>do what you gotta and come back, alright?
+You gonna help me or what? I need ya to come with<03e0>me to <1be0ffbe34ff>Mt. Vackel<1ce0> to get <1be064f4ecff>visuminsumos<1ce0>.<06e0000008e0000000000000>Sure, I'll go.<09e008e0010000000300>Sorry, I need some more time.
+I want to do everything I can for Reya.<03e0>Help me get her sight back.
+Alright, alright, I get it.<03e0>Well, if you ever get ready, lemme know.
+

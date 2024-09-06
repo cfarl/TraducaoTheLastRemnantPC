@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NUD_0401_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend<03e0>Cancel: Release handle
+Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend
+Monsters stand in the way of the controls.
+

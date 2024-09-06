@@ -1,0 +1,37 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0120_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Young master! Rush Sykes has arrived!
+Didja learn anything about Irina?
+Pagus.
+I am Pagus,<0fe003e00ee0>one of the Four Generals of Athlum.
+As for Miss Irina, I regret to say that<0fe003e00ee0>we have yet to uncover any new leads...
+Nevertheless, we have learned two<0fe003e00ee0>interesting facts.
+One, some suspicious types were spotted<0fe003e00ee0>escorting a young girl to the Gaslin Caves.
+That's gotta be<07f01ae0000020420fe002e001000be00ee0>
+And the other thing?
+We've also received reports of nocturnal<0fe003e00ee0>activity near the Robelia Castle ruins.
+The ruins have long been a den<0fe003e00ee0>for petty thieves...<1ae00000c8420fe005e001000ee0>What's to say this is any different?
+Not what, who.
+A trusted source informs me that Athlumian<0fe003e00ee0>soldiers have been seen leaving the ruins...
+That certainly is "interesting."
+Hey, thanks, Pagus. I'll go check out<0fe003e00ee0>those two places right away.
+Not so fast, Rush.<0fe003e00ee0>My Generals shall accompany you there.
+Maintaining the peace and stability of<0fe003e00ee0>Athlum is our duty.<1ae00000d2420fe005e001000ee0>We cannot stand idly by while<0fe003e00ee0>she is threatened.
+What's more, Master Rush is the son of<0fe003e00ee0>the world-famous Remnant researchers.
+Naturally, we will do our utmost to aid<0fe003e00ee0>such an important family.
+My apologies...<0fe003e00ee0>We had your background checked.
+I'm used to it. Having famous parents<0fe003e00ee0>isn't all bad, you know.
+It's all right, Emma. Go ahead.
+Yes, my lord.
+I was able to contact the Academy branch<0fe003e00ee0>in Celapaleis.<1ae00000d2420fe005e001000ee0>I informed them that we would be<0fe003e00ee0>taking care of Rush.
+You talked to the Academy?<0fe003e00ee0>That's a relief and a half...
+I'd given up trying to get in touch<0fe003e00ee0>with them...<1ae000008c420fe005e001000ee0>I mean, it's like shouting at a brick wall.
+It is a group prone to secrecy.
+You're a lifesaver, Emma.
+Still, it's uncertain when or if the message<0fe003e00ee0>will get to the headquarters in Elysion...
+Of course it will!<0fe003e00ee0>Come on, my sister was kidnapped.<1ae00000b4420fe005e001000ee0>Even the Academy suits wouldn't keep that<0fe003e00ee0>from Mom and Dad!
+Bear in mind, the Sykes are presently<0fe003e00ee0>involved in top-level research.<1ae00000f0420fe005e001000ee0>It may take some time for them to respond.
+Until then, I will assist you by<0fe003e00ee0>any means necessary.
+Sounds good to me!
+

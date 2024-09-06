@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0450_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Excuse me.
+You must be the Marquis of Athlum.<0fe003e00ee0>Everyone else has already arrived.<1ae00000fc420fe005e001000ee0>Allow me to lead you to the assembly hall.
+My presence is required at the Congress.<0fe003e00ee0>Please, stay with him.
+

@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0080_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Well met, Sir Rush!<04e0>If you can spare a few moments, I would have you<03e0>meet with Commander Roberto once again.<04e0>Our spate of bad luck seems to have spread further...<03e0>If you would, please, go to the palace!
+

@@ -1,0 +1,21 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0210_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I'm opening my customization shop soon,<03e0>but I'm not very confident in my skills.<04e0>I was going to practice on my gear,<03e0>but since I know it's mine, I can't<03e0>get into it. Will you help me out?
+<1be064f4ecff>Light metal<1ce0> is a good component<03e0>to hone my customization skills with.<04e0>I gotta open shop soon, but<03e0>would you mind fetching me some?
+Harvesting points...
+...should look like this.
+Got it? Good!
+Oh, one more thing.<03e0>You obviously have harvesting tools, right?<04e0>...Right?<04e0>What? You don't?<03e0>Now that's a problem.<04e0>I have some, but they're a family heirloom and<03e0>priceless... Sorry.
+Hey! You again!?
+Hmmm, interested in harvesting points, huh?
+Raring to go, huh?
+He wants to go too, it seems.<06e0000008e0000000000000>Well, if he REALLY wants to...<09e008e0010000000300>I think I'm allergic.
+See you soon!
+*Dummy label
+Got any <1be064f4ecff>light metal<1ce0> for me yet?<03e0>This little guy looks so sad...<06e0000008e0000000000000>I'm on my way!<09e008e0010000000300>Maybe in...never.
+I'm counting on you!
+If you change your mind, you know where to find me.
+You've brought me some light metal!<03e0>Now I can practice!<03e0>Thanks, kid!
+I'll meet you back at my customization<03e0>shop on Grants Way.<04e0>I'll be waiting!<04e0>Oh, and in case you didn't know,<03e0>there are harvesting points everywhere.<03e0>You should keep an eye out for them.
+

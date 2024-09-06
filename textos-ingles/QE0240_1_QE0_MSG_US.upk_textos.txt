@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0240_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Young man...<03e0>Yes, you.<03e0>Come closer; I've a task to ask of you.
+Do you know the <1be0ffbe34ff>Catacombs<1ce0> in the nation of Elysion?<03e0>It's said they hold a treasure hundreds of years old.<04e0>The treasure is an ancient book, outlining the<03e0>forbidden process of how to bring back the dead.<04e0>Legend has it that the Forest Maidens were so<03e0>worried of the book's misuse that they sealed it<03e0>away, deep within the Catacombs.
+You see what I'm getting at? I'd appreciate your<03e0>discretion... To certain persons, this may seem<03e0>distressingly like grave robbery, I fear.<04e0>Both your participation and mine in this endeavor<03e0>would need to be kept secret.
+I realize it seems lower than low not to do the deed<03e0>myself, but... Were I to enter the Catacombs, I would<03e0>have to face...them.
+And I...I cannot. How could I face them, after<07f003e0>And they wail so loud, already, it's as if my head<03e0>would burst... It is too much for me to bear.<04e0>...That's why I need you to retrieve the Forbidden Tome.
+Certainly, you'll be amply rewarded. What do you say?<03e006e0000008e0000000000000>Alright...I'll get the book.<09e008e0010000000300>Sorry, I'm no tomb raider.
+Ohh! I'd hoped from the look of you that you'd<03e0>understand my need. You surpass even my<03e0>expectations.
+The Forbidden Tome is hidden deep within the<03e01be0ffbe34ff>Catacombs<1ce0>.<04e0>It's said that many fierce and fearsome beasts have<03e0>taken the area for their lairs... Be certain to stay on<03e0>your guard.
+...Perhaps you do not realize it, but my time is<03e0>short<07f0>and worth more than you can imagine.<04e0>Accept this task before I change my mind on<03e0>offering it to you. Believe me, that is something<03e0>you would soon regret.
+I've been waiting...too long. What's taken you so<03e0>long? Did you get the Forbidden Tome?
+What!?<03e0>The Forbidden Tome no longer exists!?
+Do not test my patience, boy! Without that book, it's all<03e0>wrong, all wrong... How am I to bring them back...!
+That...that picture!
+(What should I say?)<03e006e0000008e0000000000000>It's a squad of the Melphina Army.<09e008e0010000000000>Your men were worried...
+N-NOOOOOO!!!<03e0>Stop...please, stop!
+T-take this...take it and go!<03e0>I don't want to see that picture again, please...!<04e0>My head...the pain...
+That's absurd. Why do you say such things?
+You...you're back, yet empty-handed. Could you not<03e0>find the Tome? It should be in the <1be0ffbe34ff>western section<1ce0>.<06e0000008e0000000000000>West, huh? I'm on it!<09e008e0010000000300>I dunno about this...
+Excellent. Then hurry to the <1be0ffbe34ff>Catacombs<1ce0>!
+Do not toy with me, boy. Believe me that it would be<03e0>in your best interests to finish this task while I am still<03e0>in good humor.
+

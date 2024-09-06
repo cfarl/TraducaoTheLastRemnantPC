@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to Undelwalt.<03e0>This imperial city has been in existence<03e0>since the time of the Imperator.<04e0>Have you come to say your prayers<03e0>to our majesty?
+Message 2
+Message 3
+Do you see those large stone pillars lining the street?<03e0>That's the Harmonium, the Remnant of the<03e0>God Emperor.<04e0>For ages it's been said that the Remnant's chime<03e0>delivers a blessing upon the town, but...<04e0>Looking at Undelwalt now, I'm not so sure.
+Message 2
+Message 3
+When I was still a young lad, these streets were filled<03e0>with people. The pub and the guild were always packed<03e0>like cans of sardines!<04e0>Now the place is nothing short of desolate.
+Message 2
+Ooh, those upstarts with their "Congress"... The group's<03e0>very existence mutes the prestige and honor of the<03e0>God Emperor!<04e0>It's simply blasphemous!
+Message 2
+

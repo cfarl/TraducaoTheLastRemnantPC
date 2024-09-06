@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0850_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+The battle wages on as we speak.<0fe003e00ee0>While you're wasting time with delusions<1ae0000004430fe005e001000ee0>of power, your men are risking their lives<0fe003e00ee0>fighting the Conqueror!
+You will call for a cease-fire and make<0fe003e00ee0>sure the Conqueror's troops retreat!
+Silence!<0fe003e00ee0>I don't have to listen to you!<1ae00000f0420fe005e001000ee0>I will control the Remnants!<0fe003e00ee0>Only I am fit to do so!
+Remember, I have the Marshall girl!<0fe003e00ee0>Don't you care what happens to her?
+Irina!
+Don't worry, Rush. He won't do<0fe003e00ee0>anything to me.<1ae00000c8420fe005e001000ee0>If I die, Marion's Blessing goes with me.
+Shut up!
+Go ahead, try to kill me!<0fe003e00ee0>You haven't got it in you, do you?<1ae00000fc420fe005e001000ee0>You're nothing but a coward!
+Impudent wench!
+Sir, the Duke of Ghor has fallen!<0fe003e00ee0>It is not safe here! We must fall back!
+What!? That can't be!
+Bring me the Conqueror!<0fe003e00ee0>I will make him listen!
+What's so funny!?
+Did you honestly think that someone like you<0fe003e00ee0>would have the power to manipulate the Conqueror?
+You are as arrogant as you are foolish.
+Wh-what are you saying?
+I would run, if I were you.<0fe003e00ee0>Unless you truly wish to die.
+K-kill them! Kill them all!
+My goals have been met.<0fe003e00ee0>You are now unnecessary. Begone!
+

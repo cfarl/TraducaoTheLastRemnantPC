@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0940_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Oho, it's you.<03e0>Good timing...<04e0>Recently a group of slavers has made its way<03e0>into the city. They may be familiar... Seems<03e0>the group used to operate outside of Athlum.<04e0>The slavers hide in the <1be0ffbe34ff>Aqueducts<1ce0>. Yet while I<03e0>know their hideout's location, I haven't<03e0>strength enough to dispose of the fiends.<04e0>But now, a virile youth with a strong sense<03e0>of justice has come straight to my door.<03e0>Can I entrust you with this task?<04e0>Would you go to the <1be0ffbe34ff>Aqueducts<1ce0>?<06e0000008e0000000000000>You don't have to ask!<09e008e0010000000300>Too busy for justice now.
+Excellent. I will take you to the entrance.
+I see...<03e0>Return if you change your mind.
+Well? Will you go to the <1be0ffbe34ff>Aqueducts<1ce0>?<06e0000008e0000000000000>I'm totally there!<09e008e0010000000300>Ahhh...no.
+Oho. Finally, I meet the renowned Rush Sykes.<03e0>Excellent timing.<06e0000008e0000000000000>Timing for what?<09e008e0010000000000>You know me, gramps?
+I do...<03e0>As well as your sister Irina<03e0>and your lovely mother Marina.<04e0>However, that is a story for another day.<03e0>Sadly, there are more pressing matters at hand.
+Recently a group of slavers has made its way<03e0>into the city. They may be familiar... Seems<03e0>the group used to operate outside of Athlum.<04e0>The slavers hide in the <1be0ffbe34ff>Aqueducts<1ce0>. Yet while I<03e0>know their hideout's location, I haven't<03e0>strength enough to dispose of the fiends.<04e0>But now, a virile youth with a strong sense<03e0>of justice has come straight to my door.<03e0>Can I entrust you with this task?<04e0>Would you go to the <1be0ffbe34ff>Aqueducts<1ce0>?<06e0000008e0000000000000>I'm 'bout it!<09e008e0010000000300>Sorry, I don't do sewers.
+A group of slavers you know well has set up<03e0>operations in the <1be0ffbe34ff>Aqueducts<1ce0>. Will you confront<03e0>them?<06e0000008e0000000000000>I'm totally there!<09e008e0010000000300>Ahhh...no.
+

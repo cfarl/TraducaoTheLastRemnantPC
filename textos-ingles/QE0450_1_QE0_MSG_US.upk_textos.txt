@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0450_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+A thousand years ago, there was a great kingdom<03e0>in the desert. Its military was renowned around<03e0>the world.<04e0>And within that force was the queensguard<07f0>the<03e0>Mantroskylo. Their prowess in battle is still<03e0>sung in legend today.<04e0>They were heroes who sealed countless wild<03e0>monsters. A brotherhood who protected their<03e0>queen like an iron wall.<04e0>Skilled warriors who could win while<03e0>outnumbered a thousand to one.<04e0>However, they were eventually destroyed by<03e0>their own strength. They turned into monsters,<03e0>and turned upon the Imperator.<04e0>The Imperator immediately struck back. After a<03e0>fierce battle on both sides, the Imperator took<03e0>the Tao Tie and sealed the Mantroskylo.
+Young traveler, this is no simple nursery-tale.<04e0>After a thousand years, the Mantroskylo have<03e0>returned. They assemble against Balterossa to<03e0>take back the Tao Tie.<04e0>This cannot be allowed, no matter the cost.<03e0>Somehow, the force that was strong enough to<03e0>even plague the Imperator must be defeated.<04e0>Balterossa is calling all men of action to assist in its<03e0>defense. Traveler, will you go to the <1be0ffbe34ff>Salamander's Belly<1ce003e0>and fight with us as well?<06e0000008e0000000000000>Sure, I'll help!<09e008e0010000000000>I can't fight a real army!
+The <1be064f4ecff>Vanguard<1ce0> and <1be064f4ecff>Batwings<1ce0> formations would be best<03e0>for this battle. However, both are lost arts.<03e0>This will not be an easy fight.<06e0000008e0000000000000>Yeah<07f0>but I gotta try!<09e008e0010000000300>...Okay, time to give up!
+Then, go, traveler!
+This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
+This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
+After a thousand years, the Mantroskylo, the force<03e0>strong enough to challenge even the Imperator, has<03e0>returned to take the Tao Tie.<04e0>Balterossa is calling all men of action to assist in its<03e0>defense. Traveler, will you head to the <1be0ffbe34ff>Salamander's Belly<1ce003e0>and fight as well?<06e0000008e0000000000000>Alright, I'll do it!<09e008e0010000000000>I can't fight an army!
+The <1be064f4ecff>Vanguard<1ce0> and <1be064f4ecff>Batwings<1ce0> formations would be best<03e0>for this battle. However, both are lost arts.<03e0>This will not be an easy fight.<06e0000008e0000000000000>Yeah<07f0>but I gotta try!<09e008e0010000000300>...Okay, time to give up!
+Then, go, traveler!
+This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
+This is for your own good. War is not fought by<03e0>lone men. Proper strategy is necessary, and<03e0>each has their role.
+Ohh! Did you defeat the Mantroskylo?<06e0000008e0000000000000>Oh yeah!<09e008e0010000000000>Oh no.
+I see, you struck without hesitation.
+Then, I give you this.
+Balterossa's crisis has passed. Still, why<03e0>would the Mantroskylo betray the Imperator to<03e0>begin with?<04e0>Perhaps some day the truth will come to light.<04e0>Until then, be well, young traveler.
+You are surprisingly humble.
+

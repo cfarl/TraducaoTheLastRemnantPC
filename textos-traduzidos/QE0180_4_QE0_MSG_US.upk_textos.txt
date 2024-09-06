@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hi! You're Rush...right?<03e0>How are you today?<04e0>Huh? You have flowers for me?<03e0>From Loki?<04e0>I don't know why he's being so shy,<03e0>since we're such good friends!<04e0>These flowers smell wonderful!<03e0>Do you know what they're called?<04e0>...<04e0>What? Really!?<03e0>These flowers can make me see again?<04e0>...<04e0>Alright.<03e0>I don't care how it happens,<03e0>I just want to be able to see!
+...<04e0>Is that you, Rush?<03e0>You look exactly like I'd imagined!<04e0>I can see! I can really see!<03e0>So this is what the world looks like...<03e0>It's amazing!<04e0>Do you know where Loki is?<03e0>I have to thank him right away!<04e0>...<04e0>What's wrong? Why won't you tell me where Loki is?<06e0000008e0000000000000>He's...dead.<09e008e0010000000300>Uh...
+No...<03e0>That can't be...<03e0>I mean, Loki can't be...<04e0>He just...can't...<04e0>...<04e0>Rush, you're lying, right?<03e0>I don't believe you.<03e0>I can't.<04e0>Loki would never leave me.<03e0>Never!
+Say something! Please?<03e0>...Fine!<03e0>I'll go look for him myself!
+Loki, it's you, isn't it?<03e0>Thank you so much!
+...
+Loki!
+Reya.<03e0>I didn't want you to see me.<03e0>I know I'm hideous.
+No, not at all!<03e0>You're exactly like I'd imagined you'd be! Better, even...<04e0>I never told you this, but I know all about you, Loki.<03e0>I've known all along. Even what you did to Father.
+*gasp*
+To be honest, I despised you at first.<03e0>But now, all I want is you beside me.<04e0>I know now.<03e0>I know that you're the only one for me.
+Thank you, Reya... Thank you.
+I'll go help out Rush a bit more.<03e0>Back in a flash.
+I'll be here!
+

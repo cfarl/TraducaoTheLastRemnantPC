@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0240_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Due to that monster, our souls have been<03e0>trapped here for years.
+But thanks to you destroying the beast, we can<03e0>finally pass on to Elysion.
+Wh-what? You're here looking for the Forbidden Tome!?<04e0>...Don't tell me. You were sent here by a white qsiti<03e0>with piercing red eyes, right?
+This may all seem a little strange, but...<04e0>Once, he was the squad leader of the army division<03e0>we were attached to. He was a warm and kind person,<03e0>up until that battle...<04e0>In a battle ten years ago, on the Holy Plain, our<03e0>division was completely destroyed. Only the captain<03e0>made it out alive.
+We were on the front lines...it couldn't be helped.<03e0>But the captain was devastated, and took all blame<03e0>for our deaths onto himself.
+We're afraid that while we've been trapped down here,<03e0>the captain's soul has been eaten away.<04e0>He has nightmares every night, and is tormented by<03e0>phantom voices... It's destroyed his spiritual balance.
+I'm sure he figures that if he can get the Forbidden<03e0>Tome, he can use it to bring us back to life...that's why<03e0>he hired you.<04e0>But that book no longer exists<07f0>not as anything but a<03e0>memory, anyway. It's been hundreds of years. The book<03e0>is nothing but dust.<04e0>To think that the captain still is searching for it, after<03e0>so many years...
+It's painful to see him like this, but there isn't<03e0>much we can do. We're no longer of this world...<03e0>Soon, we'll pass on to Elysion.
+Please, could you give this to the captain? And<03e0>tell him<07f0>tell him we have no regrets, so he<03e0>doesn't need to have them, either.
+Captain... Please, don't lose yourself.<03e0>Let us go...
+(A white, red-eyed qsiti, huh?)<03e006e0000008e0000000000000>Yup, that's him.<09e008e0010000000000>Uhh...I don't remember.
+

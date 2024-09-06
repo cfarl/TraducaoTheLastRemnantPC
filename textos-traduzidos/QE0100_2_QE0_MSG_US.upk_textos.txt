@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0100_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hmm?<03e0>Oh, hello! Today is nice, isn't it? It's so warm<03e0>and sunny!<04e0>Look, aren't they cute? I've been counting the<03e0>killifishes! There sure are a lot of them,<03e0>though... I'm a little tired!<06e0000008e0000000000000>...You the Cosmos girl?<09e008e0010000000000>Sounds tough. Good luck!
+Oh, you know about that?<04e0>My name's Sheryl. Ever since I was little, I've<03e0>wanted to be the Cosmos Maiden... I can't<03e0>believe they picked me! Lucky, huh? *giggle*
+Oh no, I almost forgot! I can't do this now,<03e0>I've got to get to <1be0ffbe34ff>Nagapur<1ce0>!
+...<03e0>Um. Where's <1be0ffbe34ff>Nagapur<1ce0>?
+.........
+Um, h-hey! Us meeting here has gotta be, uh,<03e0>fate or something, right? So we should stick<03e0>together, all the way to <1be0ffbe34ff>Nagapur<1ce0>!<04e0>Our newfound friendship hasn't got anything to<03e0>do with me maybe being a teensy bit lost, really!<03e0>But, you should walk in front.<04e0>A-anyway, let's get going!
+Oh yeah, and let's try to avoid monsters, okay?<03e0>I know they just wanna play, but I don't really<03e0>have time for roughhousing, you know?
+Thanks<07f0>I'll do my best!
+Augh! I lost my place! Oh dear...<03e0>I'd already gotten up to 263 fishies, even...
+1...2...3...<03e0>Aww, come onnn, guys, quit moving around<03e0>so much, okay?<04e0>Hm?
+Oh, sorry, I didn't see you there! ...Umm, did<03e0>you need anything?<06e0000008e0000000000000>...You the Cosmos Maiden?<09e008e0010000000000>You sure like counting fish.
+Hey, how'd you guess?<04e0>My name's Sheryl. Ever since I was little, I've<03e0>wanted to be the Cosmos Maiden... I can't<03e0>believe they picked me! Lucky, huh? *giggle*
+Oh no, I almost forgot! I can't do this now,<03e0>I've got to get to <1be0ffbe34ff>Nagapur<1ce0>!
+...<03e0>Um. Where's <1be0ffbe34ff>Nagapur<1ce0>?
+.........
+Um, h-hey! Us meeting here has gotta be, uh,<03e0>fate or something, right? So we should stick<03e0>together, all the way to <1be0ffbe34ff>Nagapur<1ce0>!<04e0>Our newfound friendship hasn't got anything to<03e0>do with me maybe being a teensy bit lost, really!<03e0>But, you should walk in front.<04e0>A-anyway, let's get going!
+Oh yeah, and let's try to avoid monsters, okay?<03e0>I know they just wanna play, but I don't really<03e0>have time for roughhousing, you know?
+Ahahah... It's less that it's super-fun...<03e0>Ever since I was a kid, I easily get caught up<03e0>in stuff. I guess I'm just that type!<04e0>Anyway, I'd better get to work... Today I'm<03e0>gonna count 'em all!
+Oh, hello!<03e0>Hey...I've seen you here before, haven't I?<04e0>Ahaha, how wild is that!<03e0>So...I guess you come here often?<06e0000008e0000000000000>Uh... About Kosmosfest...<09e008e0010000000000>No, just passing through.
+Kosmosfest?<04e0>...<04e0>Ohh, I know that one! You know, ever since I<03e0>was a kid, I wanted to be chosen to be the<03e0>Cosmos Maiden, and I finally...was...<04e0>Poop, I've got to get to <1be0ffbe34ff>Nagapur<1ce0>! Augh,<03e0>I'm gonna be laaate!
+Oh, that's nice! Have a safe trip,<03e0>then! Bye-bye!
+Hello, there!<03e0>Hm? Say, have we met? I feel like I've seen<03e0>you somewhere before...<04e0>Yeah...didn't we have a little chat or<03e0>something, maybe?<04e0>What is it?<03e0>Do you need me for something?<06e0000008e0000000000000>Um, Kosmosfest...<09e008e0010000000000>Just enjoying the view.
+Kosmosfest?<04e0>...<04e0>Ohh, I know that one! You know, ever since I<03e0>was a kid, I wanted to be chosen as the<03e0>Cosmos Maiden, and I finally...was...<04e0>Poopies, I've got to get to <1be0ffbe34ff>Nagapur<1ce0>!<03e0>I'm gonna be laaate!
+Oh<07f0>you were watching little ol' me? How<03e0>embarrassing, *giggle* I'd better do my best<03e0>then! O-okay, here I go!
+Phew...<03e0>Glad I could get out of there alright!
+Hm? You're still here.<03e0>Did you need something?<03e007f0>Ohhh, are you lost?<04e0>*giggle* You look all straight-laced, but really,<03e0>you're just a silly-head mimbo! Tee-hee!<04e0>Well, here in Nagapur I've got something really<03e0>really important I have to do, so I'll see you<03e0>later, okay? Bye-bye!
+Phew...<03e0>We should be right outside Nagapur by now!<04e0>Wow, that didn't take any time at all! I figured<03e0>we'd be traveling for a couple weeks...<04e0>I know it's hard to believe, but I can be a bit of a<03e0>lazybones. But to be done already is like getting<03e0>an early birthday present!<04e0>Oh yeah! I guess if I think of it, you helped out by<03e0>walking where I could follo<07f0>er, see if I was on<03e0>the right track. Thankies!
+Well, here in Nagapur I've got something really<03e0>really important I have to do, so I'll see you<03e0>later, okay? Bye-bye!
+Phew...<03e0>We should be right outside Nagapur by now.<04e0>Ahhh, I didn't think this swamp was so big! Or so scary...<04e0>I kinda feel like I've grown up a little... I guess it's<03e0>true what they say, traveling really does make<03e0>you older!<04e0>...But even if I say that, it's still thanks to your help<03e0>that I got back here okay, eheheh. Thank you!
+Well, here in Nagapur I've got something really<03e0>really important I have to do, so I'll see you<03e0>later, okay? Bye-bye!
+Phew...<03e0>Nagapur's only a little bit farther, I bet!<04e0>Still, it seems like getting here took forever!<03e0>Wonder if there'll be time for a nap...I'm pooped!<04e0>But at least we're here. Forget a nap, pretty much<03e0>the whole time we were coming here, I was getting<03e0>ready for the big sleep! Everything was so scary...<04e0>Now that I think of it, you did protect me, more<03e0>or less. So thank you!
+Well, here in Nagapur I've got something really<03e0>really important I have to do, so I'll see you<03e0>later, okay? Toodleoo!
+

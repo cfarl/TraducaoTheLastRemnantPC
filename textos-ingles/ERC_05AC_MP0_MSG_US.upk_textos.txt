@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_05AC_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the Academy.<03e0>I am Haruko, the director.
+You're Rush Sykes?<03e0>I'm so sorry I can't let you<03e0>see your parents...<04e0>I'm Haruko, director of the Academy.
+Don't tell anyone I told you...<04e0>Doctors John and Marina Sykes are off in the <1be0ffbe34ff>Sacred<03e0>Lands<1ce0> for a routine evaluation.
+It will be a while before anyone can get in touch with<03e0>them, because you have to use the <1be0ffbe34ff>Remnant Ark<1ce0> to get<03e0>up there.<04e0>Unfortunately, once the Ark is used, you need to wait<03e0>several months before you can use it again.
+Your parents are in the Sacred Lands for a routine<03e0>evaluation.<04e0>They can't be reached for a while.
+I'm sorry I can't let you see your parents...
+Welcome to the Academy.
+Welcome to the Academy.<03e0>How may I help you?
+Ummm...<06e0000008e0000000000000>I'm here to see Doctor Sykes.<09e008e0010000000000>Never mind.
+I'm sorry, but the doctors are in the middle of some<03e0>extensive research and cannot be disturbed at this time.
+The Academy strives to make the world a better place<03e0>by spreading the fruit of our labor to every corner of<03e0>the world.<04e0>We are never to inject our personal feelings into any<03e0>matters here.
+The laboratory is off-limits to non-Academy members.
+I worked with John on a previous project.<04e0>He's very down-to-earth and kind, especially<03e0>considering that he's one of the best scientists working<03e0>at the Academy.<04e0>He's a family man, too. He has a picture of his family<03e0>on his desk that he's always staring at.
+What? The Ark was activated?<03e0>That's impossible.<04e0>It's bound to a member of the Academy.<04e0>Meaning, it can only be activated by a member of the<03e0>research team that was hand-picked by the Academy.<04e0>Your eyes are just playing tricks on you.
+Since the new Congress came into office, all the<03e0>scientists closest to Duke Hermeien have left the<03e0>Academy.<04e0>Thanks to all this change, I have less say and less pay.<04e0>But ehh, I guess I'll stay and continue my research.
+You're looking for a Remnant that takes you<03e0>to the Sacred Lands?<04e0>I've heard stories of another Ark-like Remnant<03e0>existing outside of Elysion.
+What happens if a town loses its Remnant, you ask?<04e0>As far as I know, the land returns to its normal state.<03e0>Harsh winds dry out the earth and all of the vegetation<03e0>just withers away.<04e0>Sometimes volcanoes erupt and burn down entire towns.<03e0>Or rivers overflow and flood the lands.<04e0>But not all bad things will happen to every town.<03e0>After all, there are towns that don't have Remnants.<04e0>Like Eulam Island. I hear it's not supposed to be that bad<03e0>of a place to live, even though it doesn't have a Remnant.<04e0>Say, why the question?
+I admire both of the Sykes. They're the most brilliant<03e0>scientists working for the Academy.<04e0>But they win my respect because they're both opposed<03e0>to the weaponization of Remnants.<04e0>I hope I get to work with them someday!
+...The Ark was activated!?<03e0>How could that be?<04e0>Once a Remnant's been bound, it can't be activated<03e0>by anyone else until the bind is broken.<04e0>We all learned that in Remnants 101.<04e0>Does that mean that...what we've been taught is wrong?
+After Lord Hermeien passed, the Academy underwent<03e0>some changes. Even Director Haruko was fired.<04e0>She was so passionate and involved in the research.<03e0>She was a great director...<04e0>Then, a bunch of other people picked up and left of<03e0>their own free will.<04e0>I plan to stay, though.<04e0>I need to find a way to prevent what happened in<03e0>Nagapur from happening again.
+The Hermeiens were placed in charge of all Remmants<03e0>once used by the Imperator.<04e0>The late Chairman Hermeien is the only soul I can<03e0>think of that would have had knowledge of what you<03e0>are looking for.
+The previous director was an old fogey appointed way<03e0>back by the previous Congress Chairman.<04e0>He was very pushy and overbearing, always tried to<03e0>keep things to himself. Not many of us liked him.<04e0>There were always rumors flying around about him<03e0>causing problems behind the scenes... Everyone thinks<03e0>this latest personnel shuffle was meant to shut those up.
+Everyone around town is talking about how the Ark<03e0>was activated.<04e0>The legendary Marion Marshall is the only one I've<03e0>ever heard of who can overwrite bindings of Remnants.<04e0>Perhaps she's come back to us...
+The late Duke Hermeien was doing unmentionable things<03e0>using the Academy as a cover.<04e0>The weaponization and duplication of Remnants...<04e0>It saddens me to think that my fellow scientists were<03e0>such unethical people.<04e0>I'll stay and find a way, though<07f0>a way for us to<03e0>use Remnants for the good of the world.
+The Ark was discovered by the Imperator.<04e0>Perhaps there are similar Remnants in the lands<03e0>he has visited?
+...
+

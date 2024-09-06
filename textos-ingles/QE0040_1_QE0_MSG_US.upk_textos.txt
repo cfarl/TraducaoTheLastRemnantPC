@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0040_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I'm to meet with my beloved, but she has<03e0>baffled me with the meeting place she's decided...
+<1be0ffbe34ff>Mojcado Castle<1ce0>...
+It's an ancient castle left to ruin. Now it's only<03e0>home to legions of monsters and beasts.<04e0>Why in the world would she select such a<03e0>dangerous place to meet? No matter how I try,<03e0>I cannot make heads or tails of the decision.
+Nevertheless, I will go. To meet with Charlotte,<03e0>I would walk through a raging battlefield for<03e0>just a glimpse of her smile.<04e0>That said, I am no fighter. Good sir, might I<03e0>request your assistance as a bodyguard within<03e0>these ruins?<06e0000008e0000000000000>Sure, I'll come along.<09e008e0010000000300>Be a man. Go it alone.
+You've my gratitude. I am Paris. Not to be overly<03e0>single-minded, but let us hurry to <1be0ffbe34ff>Mojcado Castle<1ce0>.
+Oh... I see...
+I've taken Charlotte home safe and sound.<03e0>I cannot thank you enough for your help.
+Here is your promised reward.<03e0>Please, take it.
+My beloved has bid me meet her within a monster's<03e0>lair. Would you assist me in making my way through<03e0>the ruins?<06e0000008e0000000000000>Okay, fine.<09e008e0010000000300>I don't play third wheel.
+You've my gratitude. I am Paris. Not to be overly<03e0>single-minded, but let us hurry to <1be0ffbe34ff>Mojcado Castle<1ce0>.
+Oh... I see...
+I trust you have remembered your promise to go with<03e0>me to the ruined castle... If your preparations are<03e0>complete, let us be off.<06e0000008e0000000000000>I'm ready to go!<09e008e0010000000300>Just need another minute.
+Thank you!
+Please hurry.<03e0>Charlotte is in danger!
+

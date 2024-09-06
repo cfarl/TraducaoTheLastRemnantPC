@@ -1,0 +1,40 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1350_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Rush.
+Irina's fine. She's out like a light.<0fe003e00ee0>She has no idea what we went through...
+That's great news.
+Lord David.
+Yes, I realize we must come to a decision<0fe003e00ee0>regarding future actions.
+You mustn't! Sir!
+Lord Qubine?
+Well, well. You're looking grave, as always.
+To what do I owe this honor?
+I'll make this quick.
+I need someone to pay a visit to the God Emperor.<0fe003e00ee0>I've appointed you, David.
+The God Emperor? But why?
+The Conqueror's powers were bestowed by<0fe003e00ee0>the God Emperor himself.<1ae0000015430fe005e001000ee0>It is your task to go and ask His Highness<0fe003e00ee0>everything he knows.
+That is a great responsibility.<1ae00000ae420fe005e001000ee0>A man of my meager stature should not even<0fe003e00ee0>be in the same room as the God Emperor.
+Hm? So, you're saying the acting chairman<0fe003e00ee0>of the Congress is not allowed an audience<1ae000003c430fe005e001000ee0>with His Highness?
+What is this?<0fe003e00ee0>I've been chosen as acting chairman?
+It was something the ever-withering Ghor<0fe003e00ee0>and I decided.<1ae0000002430fe005e001000ee0>Of course, this arrangement is only until he recovers.
+But not to worry<07f0>this is purely based on<0fe003e00ee0>your accomplishments.<1ae0000015430fe005e001000ee0>There are no strings attached.
+I-I see...
+Now that you're up to date,<0fe003e00ee0>I want you to leave immediately.
+Oh, David. There's just one more thing...
+Hereafter you do not need my authorization<0fe003e00ee0>for anything,<1ae000000c430fe005e001000ee0>including the use of the Gae Bolg.<0fe003e00ee0>I'll leave matters in your hands.
+Are you saying...?
+A little slow today, are we?<1ae0000082420fe005e001000ee0>I'm saying Athlum is now an independent state,<0fe003e00ee0>no longer under the reign of Celapaleis.
+Lord David!
+Young master!
+Way to go, Dave!
+Lord Qubine... I can't thank you enough...
+David...er, I mean, Lord David of Athlum.<0fe003e00ee01ae000003c430fe005e001000ee0>Know this: Making your own decisions...<0fe003e00ee0>is hardly an easy task.
+I thank you for your concern. However,<0fe003e00ee0>I will not have to do this alone.<1ae000000f430fe005e001000ee0>I am surrounded by people I can count on<07f00fe003e00ee0>people I trust.
+Alright then! Undelwalt awaits!<0fe003e00ee0>Make preparations immediately!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+You got it!
+

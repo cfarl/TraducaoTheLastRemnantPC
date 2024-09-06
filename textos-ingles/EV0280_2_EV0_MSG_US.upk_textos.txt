@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0280_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Feelin' better?
+You're a picky eater, huh? Sorry the menu's<0fe003e00ee0>not fit for a princess like you.
+Hey.
+Rush...
+Rush is dead.
+No...
+Stop mourning the dead and eat your meal.<1ae00000f0420fe005e001000ee0>You are vital to Him.<0fe003e00ee0>You should be honored.
+Hey, wait up!
+How long are we gonna keep her like that?<0fe003e00ee0>Let's just hand her over!
+You pity her?
+This whole deal makes me sick.<0fe003e00ee0>She's just a kid!
+I am merely following the Lord's orders.<0fe003e00ee0>As you should follow mine.
+Fine! Then gimme some real orders!<0fe003e00ee0>I'm sick of bein' a damn baby-sitter!
+As you wish. Let us go forth to<0fe003e00ee0>the next Remnant.
+

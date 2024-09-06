@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0330_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina. You must bind this Remnant to<0fe003e00ee0>yourself. You must release its power.
+For that power will change the world...<0fe003e00ee0>Why, it might even bring back the dead.
+You mean...?
+We'd like to see your brother again,<0fe003e00ee0>wouldn't we?
+Irina!
+Rush, they have a hostage.<0fe003e00ee0>You must stay calm.
+But...!
+Listen, these people are dangerous and<0fe003e00ee0>we don't know what they're capable of.
+Well, well! If it isn't the Marquis of Athlum!
+You know of me? How fortunate.
+Your acts of aggression have not gone<0fe003e00ee0>unnoticed. We know how you manipulated<1ae000000c430fe005e001000ee0>both the Rubber Soul and the Schiavona.<0fe003e00ee0>And let's not forget the kidnapping...
+Your actions are in violation of<0fe003e00ee0>Congressional decree, and for this<1ae00000fa420fe005e001000ee0>you will be punished!
+Both of us are men of reason, Marquis.<1ae00000aa420fe005e001000ee0>A man of your stature surely realizes<0fe003e00ee0>the...impracticality of certain laws.
+But I understand.<0fe003e00ee0>We shall withdraw if that is your wish.<1ae000002f430fe005e001000ee0>We shan't dare do anything to put you out.
+Will that be all?
+No! You will release her and surrender<0fe003e00ee0>immediately!
+Do you think we won't harm you just<0fe003e00ee0>because you're the Marquis of Athlum?
+Your confidence implies you are not alone.<1ae00000c4420fe005e001000ee0>Who is your ally?<0fe003e00ee0>The Duke of Ghor, perhaps?
+By now, you must be aware of<0fe003e00ee0>the Academy's response...<1ae0000048430fe005e001000ee0>or lack thereof.
+You... You're part of the Academy?
+My dear Marquis.<0fe003e00ee0>Irina is special.<1ae0000011430fe005e001000ee0>Her parents desperately wish for her<0fe003e00ee0>to take part in our research.
+She has finally come to understand that.
+We merely...got off on the wrong foot.
+Liar! You're full of it!
+Irina, I know you don't wanna be here!<0fe003e00ee0>But it's okay now! I'm here!<1ae000002a430fe005e001000ee0>It's me, Rush! Your brother!
+It's a shame they do not share<0fe003e00ee0>the same power...
+Marquis, would you be so kind as to<0fe003e00ee0>babysit your brash young friend<1ae0000020430fe005e001000ee0>for the time being?<0fe003e00ee0>Consider it a helping hand in our research.
+Rush, stand down!
+No! I'm gonna go save my sister!
+Marquis, I believe it would be in your<0fe003e00ee0>best interest to stop your little friend.<1ae000001b430fe005e001000ee0>Otherwise, I fear your life may be<0fe003e00ee0>in peril...
+I find your story hard to swallow.<0fe003e00ee0>You will come with us to Athlum to<1ae00000ea420fe005e001000ee0>confirm this with the Academy.
+You do not take my word as fact?<0fe003e00ee0>Very well.<1ae0000007430fe005e001000ee0>Perhaps I shall convince you...by force!
+

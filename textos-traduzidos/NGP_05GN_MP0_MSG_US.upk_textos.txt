@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the guild.<03e0>How may I help?
+I've come all the way from Ghor Castle<03e0>with my friends. What a trek it was<03e0>over the <1be0ffbe34ff>Heroic Ramparts<1ce0>.<04e0>Have you seen it yet with your own eyes?<04e0>It's said that one of the lords of Nagapur<03e0>built that never-ending castle wall.<04e0>It's like it's representing<03e0>the never-ending flow of time.
+I've traveled here with my friends<03e0>from Ghor through the Heroic Ramparts.<04e0>It's hard to believe the state of this town...
+The <1be0ffbe34ff>Plain of Luhang<1ce0> that lies in front<03e0>of Nagapur is the battleground that has<03e0>protected us from invaders for ages.<04e0>This is where the legendary warrior of<03e0>Nagapur, Luhang of Zahaad, fought and beat<03e0>the entire imperial army.<04e0>Although this battle may be just a fictional<03e0>tale, the soldiers of Nagapur still talk about<03e0>him in awe.
+Have you seen the Plain of Luhang lately? There isn't<03e0>a single blade of grass left, thanks to the Gwayn...<03e0>I still can hardly believe that our protector did that...
+

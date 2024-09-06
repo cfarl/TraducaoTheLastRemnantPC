@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0540_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Once, there was a different kingdom on this<03e0>land. Within that kingdom was a legendary<03e0>warrior who sealed many heinous monsters.<04e0>However, after being killed in his battle against<03e0>the last monster, he ended up turning into the<03e0>undead himself.
+While doing some archaeological surveying, we<03e0>may have somehow caused the warrior to rise<03e0>from the dead...<04e0>It seems he has already begun to terrorize this<03e0>town.<04e0>It's a selfish request, but, I don't know who<03e0>else to call...<06e0000008e0000000000000>I ain't afraid o' no ghost.<09e008e0010000000300>Wow, you're screwed.
+The ghost warrior haunts a small island in the<03e0>shifting sands in the <1be0ffbe34ff>Great Subterrane<1ce0>.<04e0>But if you cannot find a way over the sands,<03e0>you won't be able to pass to the island.<04e0>It seems the warrior knows formations no longer<03e0>used in the present age. Perhaps facing such a<03e0>strong opponent will be a learning experience.<04e0>There's also been some reports of some large<03e0>monster raised from the dead, terrorizing the area,<03e0>but you probably shouldn't worry about that.
+The warrior was known as a hero. I'm sure that<03e0>you could learn some sort of strategies from<03e0>fighting him. No need to get snippy.
+An ancient warrior with a grudge against this<03e0>town has been brought back from the dead.<03e0>Unchecked, who knows what he might do...<06e0000008e0000000000000>Ghost warriors? I'm on it!<09e008e0010000000300>Sucks to be you, huh?
+The ghost warrior haunts a small island in the<03e0>shifting sands beneath the <1be0ffbe34ff>Great Subterrane<1ce0>.<04e0>But if you cannot find a way over the sands,<03e0>you won't be able to pass to the island.<04e0>It seems the warrior knows formations no longer<03e0>used in the present age. Perhaps facing such a<03e0>strong opponent will be a learning experience.<04e0>There's also been some reports of some large<03e0>monster raised from the dead, terrorizing the area,<03e0>but you probably shouldn't worry about that.
+The warrior was known as a hero. I'm sure that<03e0>you could learn some sort of strategies from<03e0>fighting him. No need to get snippy.
+Have you finally finished your preparations?<03e0>This time, go banish that ghost!<06e0000008e0000000000000>I'm on it!<09e008e0010000000300>He's dead, he can wait.
+The ghost warrior haunts a small island in the<03e0>shifting sands beneath the <1be0ffbe34ff>Great Subterrane<1ce0>.<04e0>But if you cannot find a way over the sands,<03e0>you won't be able to pass to the island.<04e0>Some other monster has been raised from the<03e0>dead, it's said, but you probably should just leave<03e0>well enough alone with that one.
+...Come on, just hurry up and do it.
+Good job, son.<03e0>With this we can resume our excavation.<04e0>This is for you.
+Hm?<03e0>Ho... Seems you've learned a new battle technique.<04e0>If you properly learn to use it, you can probably<03e0>save Balterossa from danger as well.
+What? One of the monsters the warrior had<03e0>sealed returned from the dead!? To think, their<03e0>battle still rages...<04e0>What could possibly be the reason to carry such<03e0>a grudge for so long? I really want to know...<04e0>Er, ahem.<03e0>This is for you.
+Hm?<03e0>Ho... Seems you've learned a new battle technique.<04e0>If you properly learn to use it, you can probably<03e0>save Balterossa from danger as well.
+

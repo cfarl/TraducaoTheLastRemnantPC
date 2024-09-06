@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Ah, so you're looking to pick up some Guild Tasks,<03e0>too? Eh<07f0>you don't think you can do 'em? Don't worry.<03e0>I'll take you under my wing.<04e0>If it looks like it'll go well, then own it! If the going<03e0>gets tough<07f0>run away! That is some number-one<03e0>top strategery right there, so don't you forget it!
+Hey, have you heard? There's some new guild here<03e0>in Lamberro where all the high-level mercs've<03e0>been hanging out.<04e0>The rumor is that there's some secret entrance<03e0>somewhere in the Amber, but they only let the top<03e0>of the top-class guys in. Guess I'll just stay here...
+Different towns attract different types of adventurers<03e0>to their guild.<04e0>If you aren't finding the type you're looking for here,<03e0>try checking a different town.<04e0>Once you visit a few other guilds, you'll understand.
+You've heard about Siebenbur, right? It's a<03e0>sprawling series of underground caverns...it's<03e0>the talk of all the adventurers lately.<04e0>Some say it was built by one of the God<03e0>Emperors, others say it was carved out by some<03e0>massive beast... No one knows for sure.<04e0>One of the reasons for that is that not so many<03e0>return from Siebenbur<07f0>in one piece, anyway.<04e0>Whether you think you've got skills or no, be<03e0>prepared if you end up going there. The monsters<03e0>there are nothing to sneeze at.
+

@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0470_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Will you see the Flame Guardian?<06e0000008e0000000000000>Sure, I'll go.<09e008e0010000000300>Nah, it's okay.
+I see.<03e0>Then, go.
+I see.
+Ohh, you've defeated Vespalia, have you?<03e0>I am incredibly thankful.<04e0>The guardian disappeared as well? Ahh...<03e0>She, too, will forever have our thanks.
+Royotia has been saved, thanks to you.<04e0>This land owes you a debt. You will always be<03e0>welcome here.
+

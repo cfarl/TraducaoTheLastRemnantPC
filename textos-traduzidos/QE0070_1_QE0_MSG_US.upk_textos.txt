@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0070_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I am Roberto, commander of an order of<03e0>knights in this region, the Order of Melphina.<04e0>From your bearing, I see you must be an<03e0>accomplished adventurer. With that the case,<03e0>I would make a request of you.
+To the northwest of this town lies the cursed<03e0>bog, <1be0ffbe34ff>Crookfen<1ce0>. For long years its evil has been<03e0>sealed by a Remnant.<04e0>Yet of late, the Remnant's seal fails, siring<03e0>monsters from the flow of dark power.
+At once, we of the Order sent scouts to examine<03e0>the seal. None have yet returned.<04e0>Would that I could add others to the search, but<03e0>the town must be defended, and we have no<03e0>men to spare.
+So, I ask you<07f0>would you come with me to<03e0>Crookfen and restore the broken seal?<06e0000008e0000000000000>Sure, I'll help out!<09e008e0010000000300>Uhh, can I think about it?
+Ohh! To see such a fine and just youth...! You<03e0>honor me with your cooperation.<04e0>Let us head to <1be0ffbe34ff>Crookfen<1ce0> with haste.
+No<07f0>you have no need to apologize. I knew the<03e0>folly of such an unreasonable request from the<03e0>start.<04e0>That said, if time bids you change your mind,<03e0>let me know.
+Ophelia, calm yourself. Do not forget the place<03e0>of a knight of the Order of Melphina.
+Ophelia. The Order is meant to be the<03e0>country's shield, not its blade.<04e0>If you were to abandon the people at a time like<03e0>this, who would protect them?
+Life must always be your top priority. Our duty<03e0>now is to find our lost men without further<03e0>delay. This is no time for vengeance.
+Ah, Master Sykes. Forgive me.<04e0>This is my subcommander, Ophelia.<03e0>Please excuse our indiscretions just now.
+See? Master Sykes agrees.<04e0>Ophelia... With all that's happened, I certainly<03e0>understand your feelings. But this is not the<03e0>time to let passions rule our judgment.
+Hmm... Certainly, Master Sykes's opinion does<03e0>have merit...
+Oh, yes!<04e0>Master Sykes, take this as a token of our gratitude.
+Now we must find our lost knights.<03e0>Truly, where could they be?
+Commander, we've waited and waited, but there<03e0>has yet to be any word from our lost men.<04e0>While we've worried about the seal, fiends have<03e0>plotted against us, right under our noses...
+But, Commander!<03e0>A group of suspicious characters dressed in<03e0>black was seen leaving Crookfen!
+At your leave, I shall depart at once to arrest<03e0>the blackguards and bring them to justice!<03e0>Their evil deeds must be brought to light!
+But...!
+...
+Exactly! Any miscreants who think they can<03e0>deceive the people of Melphina should be<03e0>shown no quarter!
+Any miscreants who think they can deceive the<03e0>people of Melphina will receive no mercy!
+(Looks like they want me to say something...)<03e006e0000008e0000000000000>Saving lives is job #1.<09e008e0010000000000>Don't let them get away!
+Welcome to our town. It is small and remote,<03e0>but for academic or mystic studies, there is no<03e0>better place on the continent.
+I trust Roberto more than anyone in the world.<03e0>I'd vouch for his skill with a blade with my life.
+Roberto. This issue can be discussed further at<03e0>a later time. For now, let us be grateful for<03e0>young Sykes's assistance in restoring the seal.
+Valiant youth...<03e0>I too express my gratitude.
+

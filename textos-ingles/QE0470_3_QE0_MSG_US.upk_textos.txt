@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0470_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush Sykes. Marquis Priam of Royotia requests the<03e0>honor of your presence at your first convenience.<03e0>He awaits you at the <1be0ffbe34ff>Royotia Castle<1ce0>.
+

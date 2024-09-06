@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) STR_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+The door is sealed shut.
+The door is sealed shut.<03e0>Use the Blazing Key?<06e0000008e0000000000000>Yeah! Let's open this!<09e008e0010000000300>Not just yet.
+The door has been unlocked.
+

@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0140_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+You seem to hold the Godstones.<04e0>Then, go to the great tower in the desert, and<03e0>offer them up there. You may learn a truth<03e0>hidden for a millennium.<06e0000008e0000000000000>Sure, I'm game!<09e008e0010000000300>I hate history class.
+Excellent. Enter the <1be0ffbe34ff>Great Sand Sea<1ce0>,<03e0>and go east of where the spear leads.<04e0>Phantoms are mirrors that can reflect the truth.<03e0>A word of advice: do not take your eyes from<03e0>them, young Rush Sykes.<06e0000008e0000000000000>Why do you know me?<09e008e0010000000000>Huh? Uhh...right.
+What was begun long ago must finally be<03e0>brought to completion. That is all you need to<03e0>know.
+Hmph.
+Hmph.<03e0>In my day, we were shamed by our ignorance;<03e0>we did not flaunt it.
+Have you offered the Godstones?<06e0000008e0000000000000>Going right now, promise.<09e008e0010000000300>Keep your pants on, pops.
+Go to the <1be0ffbe34ff>Great Sand Sea<1ce0>, and look east of the<03e0>spear. This is your duty, Rush Sykes.
+The three Godstones have borne witness<03e0>to all of history. You cannot outrun destiny.
+So, you have offered up the three Godstones.<04e0>The Godstones are over a thousand years old,<03e0>and remember all they have seen. Go further<03e0>into the tower to receive that knowledge.<06e0000008e0000000000000>Got it. Here I go!<09e008e0010000000300>Hold on, I'll get there...
+Good journey.
+There is no hurry. Nevertheless, someone<03e0>desperately waits for you to complete your<03e0>task. Do not lose sight of that fact.
+Oho. Well done, son.<04e0>You vanquished the queen's cursed body but<03e0>saved her soul. Impressive.<04e0>Here is something for your service.
+His Highness the Imperator should be very<03e0>pleased.<04e0>Then, I must take my leave.<03e0>Take care to remember your true path...
+

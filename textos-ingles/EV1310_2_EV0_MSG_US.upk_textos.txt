@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1310_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Feeling better?
+Mmm... Sorry for worrying you.
+Hey, don't sweat it.
+How is Irina?
+She's fine. Just exhausted from everything.
+I see.
+She wasn't to be mixed up in any of this.<0fe003e00ee0>I gave my word...
+Hey, this isn't your fault, Dave.<0fe003e00ee0>Irina did all this because she wanted to.
+Rush!
+Mom?
+Irina... Irina's gone!
+By the time you get this, I'll be in Darken Forest.<0fe003e00ee0>There's something I need to find out.
+Please, don't worry about me<07f0>I'll be fine.<0fe003e00ee0>If things get too scary, I'll come right back, okay?
+How...how could she do such a foolish thing...
+People can't choose how they're born.<1ae00000c8420fe005e001000ee0>Coming into the world with Marion's Blessing<0fe003e00ee0>isn't a mandate to use it.
+Geez... She's always taking things<0fe003e00ee0>so seriously.
+Dave! I'm gonna go save Irina.
+I know that I can't really do much against <0fe003e00ee0>the Conqueror...<1ae00000b4420fe005e001000ee0>But I've left Irina behind before.<0fe003e00ee0>I'm not gonna do it again!
+I understand.
+However!
+I cannot allow you to go alone.<0fe003e00ee0>I'm coming with you.
+Thanks, Dave!
+Alright! Now that that's decided,<0fe003e00ee0>let's be off!
+

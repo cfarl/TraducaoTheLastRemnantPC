@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0130_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+The imperial treasure of the land of the Imperator's<03e0>second home: the <1be064f4ecff>Spear of Origin<1ce0>.<04e0>It is worth every penny of the price.<03e006e01900>sEVENT_PRICE_QE0130_P_004<08e0000000000000>Geez...okay.<09e008e0010000000300>S-so much money...
+Excellent. I remind you, once this transaction is<03e0>complete, we shall be strangers. I trust you will keep<03e0>this all in the highest confidence.<04e0>Then this is farewell. We shall not meet again.
+I'm afraid you don't have enough funds.
+Alright. Then goodbye.
+

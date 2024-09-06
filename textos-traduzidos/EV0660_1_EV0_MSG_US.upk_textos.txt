@@ -1,0 +1,48 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0660_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Guard the gates!
+Yes, sir!
+Come on! Get a move on!
+What's going on?
+Come on, hurry!
+Lady Emma! Rush!
+Thank the Emperor you're back safe!
+Like there was any doubt!
+Things have gotten worse, haven't they...
+Yes. The Congress has been slow to grant<0fe003e00ee0>that Conqueror fellow a Remnant,<1ae000003e430fe005e001000ee0>and all the Lords are in a flurry over it.
+And the Conqueror keeps rattling his saber<0fe003e00ee0>about taking over countries and seizing<1ae0000016430fe005e001000ee0>their Remnants...
+You'd expect that from the sort of person<0fe003e00ee0>who would bind the Ark...
+He's made an enemy out of every Lord with<0fe003e00ee0>a Remnant. What's he plotting?
+For starters, he's building an army.
+So it's come to war...
+Where's Dave?
+He's meeting with an envoy from<0fe003e00ee0>Duke Hermeien.
+What's Hermeien want?
+Our cooperation, apparently.
+Torgal.
+You see, the Congress has split into<0fe003e00ee0>two factions...
+One sides with the Chairman against<0fe003e00ee0>the Conqueror.
+The other supports the Conqueror, fearing<0fe003e00ee0>the God Emperor's wrath.
+Duke Hermeien wishes to ally with us and<0fe003e00ee0>end the rift as quickly as possible.
+He's asked to speak with me directly,<0fe003e00ee0>in Nagapur.
+What will you do?
+Take advantage of the opportunity,<0fe003e00ee0>of course.
+Lord David...?
+In exchange for supporting Duke Hermeien,<0fe003e00ee0>I'll have him support Athlum's bid<1ae00000f8420fe005e001000ee0>for independence.
+Think of it.<0fe003e00ee0>We could finally be free from Celapaleis!
+We're hardly in a position to negotiate<0fe003e00ee0>after what happened with the Academy...
+Perhaps not, but it makes little difference.
+We can barely touch the Gae Bolg without<0fe003e00ee0>the Duke of Qubine's blessing.
+Why must it be so difficult for Athlum<0fe003e00ee0>to protect herself?
+Our country deserves more than this.<0fe003e00ee0>This is a chance we have to take!
+Emma.
+It's good to see you back safely.
+I continue to ask your aid, for<0fe003e00ee0>the glory of Athlum.
+My life is yours.
+We leave for Nagapur shortly!<0fe003e00ee0>Make haste in your preparations!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+

@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0160_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+...<03e0>The time draws closer.<03e0>It will soon be awake.<04e0>It, which was once sealed within the Brimuslabus<07f003e0>The Fallen...
+Centuries ago, a monster suddenly appeared<03e0>and threw the world into turmoil<07f0>nothing but<03e0>chaos and fear.<04e0>The ignorant civilians, seeing the magnitude<03e0>of its power, began referring to it as<03e0>a divine being... Heh.<04e0>According to Him, the beast was created by<03e0>the world to destroy Remnants.
+I care not why it exists<07f0>simply that it does.<04e0>That thing is the cause of my chained existence.<03e0>Hence, it must be destroyed.<03e0>Come and see its defeat with your own eyes!<06e0000008e0000000000000>I'm there!<09e008e0010000000000>I don't need to see it.
+I admire your spirit.<03e0>You do not need to find meaning in<03e0>this battle<07f0>merely pleasure.<06e0000008e0000000000000>I'm all about fun!<09e008e0010000000300>On second thought...
+Come with me!
+You are making a foolish choice.<03e0>Allowing it to roam free is the same as<03e0>allowing it to reign over<07f0>and destroy<07f0>the world.
+You are making a foolish choice.<03e0>Allowing it to roam free is the same as<03e0>allowing it to reign over<07f0>and destroy<07f0>the world.
+The Fallen is about to awaken.<03e0>It is the cause of my chained existence.<03e0>Come and see its defeat with your own eyes!<06e0000008e0000000000000>I'm there!<09e008e0010000000000>I don't need to see that.
+I admire your spirit.<03e0>You do not need to find meaning in this<03e0>battle<07f0>merely pleasure.<06e0000008e0000000000000>I'm all about fun!<09e008e0010000000300>On second thought...
+Come with me!
+You are making a foolish choice.<03e0>Allowing it to roam free is the same as allowing<03e0>it to reign over<07f0>and destroy<07f0>the world.
+You are making a foolish choice.<03e0>Allowing it to roam free is the same as allowing<03e0>it to reign over<07f0>and destroy<07f0>the world.
+Hehe...hahaha!<03e0>We did it. I've done it!<03e0>The Fallen is dead!<04e0>Now...now I can finally fulfill my dream...<03e0>I can destroy Him!<04e0>I can feel it... I can feel His soul grasping<03e0>desperately to this world.<03e0>Heh...heheh... It is time to die, fool!
+...
+I apologize. I was merely caught up in<03e0>my own exhilaration.<04e0>Here is a token of my gratitude.
+No need to worry... He is next.<03e0>I will take care of Him.
+

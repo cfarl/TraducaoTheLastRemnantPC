@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0710_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+He's coming!
+The Conqueror's on the move!
+What?
+Lord David!
+Emma, Pagus, Rush. We must leave now.
+What's going on? Where's Wilfred?
+Our meeting has been postponed.<0fe003e00ee0>The Conqueror is marching on Celapaleis.
+We've been called back as support. We'll<0fe003e00ee0>return to Athlum, then prepare for battle!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Rush.
+Irina's here!?
+Apparently, she's in Duke Hermeien's<0fe003e00ee0>custody.
+I suppose you can rest easy, knowing<0fe003e00ee0>she's out of Wagram's hands.
+Wha<07f0>no! Why didn't you take her with you?
+Well, I didn't meet with her directly...<0fe003e00ee0>What's wrong?
+Irina<07f00fe003e00ee0>Irina's got Marion's Blessing!
+...And you think Lord Hermeien is aware<0fe003e00ee0>of this.
+Wait! Where are you going?
+I have to go save her!<0fe003e00ee0>I can't let him use her power!
+Calm down and think for a moment!<1ae0000070420fe005e001000ee0>How are you to save her if you don't<0fe003e00ee0>even know where to find her!?
+Rush, there is only one thing we can do<0fe003e00ee0>right now.
+We must stop this war before anyone has<0fe003e00ee0>a chance to use her power!
+I promise you we will come back for Irina.
+...Fine.
+

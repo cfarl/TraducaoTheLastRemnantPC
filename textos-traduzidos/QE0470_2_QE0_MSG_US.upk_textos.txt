@@ -1,0 +1,29 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0470_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Ahh...<03e0>This glimmer...<03e0>Would you show it to me?
+Undoubtedly, this is one of the Crimson Shards.<03e0>I can sense the power throbbing within it.
+Takshend, the shield of flame.<04e0>This shield was forged with prayers to protect<03e0>its bearer from harm. Even the strongest of<03e0>blows will be softened by this shield of wings.
+Vespe, the sword of flame.<04e0>This blade is made from the talons of one split<03e0>by the contrary emotions of anger and sorrow.<03e0>Its bite is as harsh as the pain of those feelings.
+Manrynell, the flame bangle.<04e0>Fire is controlled only by fire itself.<03e0>This bangle is made of a proud soul, pure as<03e0>the flames' crimson light.
+You have collected the shield, sword, and<03e0>bangle now.
+Thank you very much.
+If you would listen, I would speak the truth of<03e0>Royotia's past, how it came to be as it is.<04e0>Of the living, only I am left who knows this<03e0>story. Long ago, in what would eventually be<03e0>called Royotia, there were twin birds.<04e0>One was called Vespalia, the other, Pivasalia.<04e0>The twin birds were as old as the world itself,<03e0>and the pair had fought for longer than<03e0>memories existed.
+After an eternity, it seemed their conflict was<03e0>to come to a conclusion.<04e0>Vespalia was about to take Pivasalia's life...<04e0>Through some stroke of luck, Pivasalia was<03e0>saved by a young man passing by.
+Indebted to the youth, Pivasalia began to grant<03e0>him wishes.<04e0>He needed a weapon, so it gave up its talons.<03e0>To shield the youth from fire, it gave its wings.<03e0>To master the flames, it gave him its soul.<04e0>By shaving away at the life the man had saved,<03e0>Pivasalia allowed him to destroy every obstacle<03e0>in his path.
+Thus, the youth became the first ruler of that<03e0>land, and named it Royotia.<04e0>By that time, Pivasalia had given almost all it<03e0>was to the man. Without the ability to even<03e0>defend itself, it was confronted by Vespalia.<04e0>Just as Vespalia's victory seemed apparent, the<03e0>man returned, bearing the sword of talons, the<03e0>shield of wings, and the bangle of soul.<04e0>Pivasalia finally had regained its strength. At<03e0>that instant, Vespalia's fangs ripped the man<03e0>in two.
+Seeing this, Pivasalia felt a bottomless sorrow<03e0>matched only by its endless rage. This strength<03e0>let it seal Vespalia within the flames.<04e0>However, the seal was not complete. There was<03e0>still not power enough to completely seal<03e0>Vespalia away.<04e0>Knowing that far in the future, the seal would<03e0>break, Pivasalia looked to the man's corpse,<03e0>and swore to dedicate itself to his town.<04e0>Thus, in preparation for what it knew must<03e0>come, it plucked its feathers, cut its talons,<03e0>and transformed them all to small, red stones.
+That finished, the bird's spirit flew deep<03e0>beneath the man's kingdom, to stand vigil over<03e0>where Vespalia was sealed.
+And there the story ends.<03e0>By now, it seems no different from any other tale.<04e0>Still, it pleases me that it could finally be told.<03e0>Thank you.
+Will you challenge Vespalia?<04e0>Losing means an end to the futures of all<03e0>Royotia's people. It is not something that can<03e0>be undone.
+And yet...<03e0>And yet, will you fight?<06e0000008e0000000000000>Let me at 'im!<09e008e0010000000300>Not right now, no.
+Understood. If that is what you decide, I will<03e0>stand by you.
+Then, go!
+I see...you exercise caution; that is wise.<03e0>Still, time grows short. Return as soon as you<03e0>can!
+Thank you for all you've done. Now, the town he<03e0>worked so hard to build will not be destroyed...<04e0>My job here is complete as well.<03e0>For your help, please take this.
+Thank you. You have saved Royotia.
+And I as well...
+You are the only thing standing between Royotia<03e0>and certain destruction.<04e0>Are you prepared to face Vespalia?<06e0000008e0000000000000>Ready as I'll ever be...<09e008e0010000000000>I need to return to Royotia.<09e008e0020000000300>Still got something to do...
+Understood.<03e0>When your preparations are complete, return to me.
+Once you are fully prepared,<03e0>please let me know.
+

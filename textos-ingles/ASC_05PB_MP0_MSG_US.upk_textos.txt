@@ -1,0 +1,264 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome, traveler, to the Warrior's Honor!<03e0>Go on and make yourself comfortable.
+Welcome to the Warrior's Honor! ...He-llo, you aren't<03e0>a familiar face. And trust me, I'd remember a...face<03e0>like yours. You must be new to Athlum, hmm?<04e0>So I want you to know, if you have aaany questions<03e0>at all, come straight to me. I can give you a...personal<03e0>tour.<04e0>...<04e0>Whaaat, you're trying to meet Lord David? Well, he<03e0>receives visitors in <1be0ffbe34ff>Athlum Castle<1ce0>, that's further into<03e0>the city. <04e0>That said, it's not like just anyone can walk in and<03e0>get an audience. Of course, for a cutie like you, he<03e0>may make an exception...
+Shimmering blond hair framing that well-made face...<03e0>Lord David certainly cuts a striking figure.<04e0>You just can't keep from looking at him...<03e0>I mean, looking up to him...
+Welcome back, cutie!<04e0>Some girl's been coming around here lately,<03e0>all mysterious-like. She's quite a stunner, too...<03e0>Can't compare to me, though!
+Say, you know <1be0ffbe34ff>Celapaleis<1ce0>, right?<03e0>They're Athlum's sovereign state. They're to<03e0>the northwest, on the tip of the continent.
+I head over to Celapaleis from time to time to<03e0>check out their new accessories.<04e0>You should definitely visit, hon. You'd love it.
+Oh, hi, hon. Now, I don't want to get you<03e0>all flustered, but those soldiers over there<03e0>are here looking for you...<04e0>You haven't been doing something naughty<03e0>here in Athlum, have you? Aren't you a little<03e0>scamp! You remind me of myself...
+What's that face for?<03e0>Knotting your brows like that brings bad luck,<03e0>you know.
+Hi, hon. Those guards are looking for you<03e0>again. Something about having a message<03e0>from Lord David...<04e0>Now, my pub serves many of the Athlumian<03e0>Guard, but I'm not fond of soldiers in my<03e0>place on business, so go talk to them, m'kay?
+I can't believe it...a message from the<03e0>beautiful Marquis<07f0>for you? Just what is the<03e0>relationship between you two anyway!?<04e0>Ooh! I'm so jealous I could throw a fit!
+You're going, aren't you? To Wyrmskeep...to<03e0>Nagapur.<04e0>Duke Hermeien is a cold and ruthless man.<03e0>Watch yourself around him, Rush.<04e0>And, if you run into that Conqueror bastard...<03e0>Get Lady Emma's revenge!
+Ah, you're late! I've been waiting for you for<03e0>ages... Lord David's been looking for you, too.<04e0>Seems like Duke Ghor needs him for something...<03e0>Anyhow, you'd better head to the castle.
+Ah, I guess now it's Chairman Ghor, huh. He's<03e0>supposed to be quite the manly and valiant<03e0>leader.<04e0>If nothing else, he seems like a good man to<03e0>lead the continent after all that's happened.
+Independence... Has a nice ring to it, doesn't it?<03e0>If only dear Papa had gotten a chance to hear it...
+So, you're going to fight the Conqueror...<03e0>You'd better come back safe, alright, buster?<03e0>If you don't...you'll hear from me!
+Oh man, the other night, the bartender got really<03e0>wasted and wandered all the way up to the<03e0>Robelia ruins.<04e0>And then, a guy who looked just like the<03e0>bartender popped out of nowhere and attacked!<03e0>...At least, that's what he says.<04e0>I dunno, he could've just passed out and<03e0>dreamt the whole thing.
+East of town is a huge stretch of fields,<03e0>the Yamarn Plain.<04e0>The place has been a battlefield for years and<03e0>years. People've fought everyone from monster<03e0>hordes to the Ghor army.<04e0>Seriously, if an average Joe like me were to<03e0>even step into that place, I'd be coming back<03e0>in a pine box!
+Celapaleis? Ah, that's the big city a ways to<03e0>the north. It's Athlum's sovereign capital.<04e0>Thanks to them, our army can't even jump<03e0>without having to ask that Qubine kid how high.
+You been to the Town Square yet?<04e0>It's a shocker, isn't it? The Valeria Heart's<03e0>gone, like it was never there in the first place!<04e0>That Remnant was more than just the symbol of<03e0>the town. The whole square is a place of<03e0>countless memories for every Athlumian...<04e0>Dammit. Bartender, mix me up something<03e0>strong, would you?
+That new chairman of the Congress, Ghor, he's the<03e0>one that lives in that run-down fortress, eh?<04e0>When he came into office, I figured he was all brawn<03e0>and no brains, but he's done quite the job of getting<03e0>things under control.<04e0>And now, he's even sending folks to find us all new<03e0>Remnants? That's a good sort if I've ever seen one!
+Apparently it was the Duke of Ghor who suggested to<03e0>Qubine that Athlum was ready for independence.<04e0>Even folks like us who used to be enemies, he sees 'em<03e0>at their true worth... That is a real man there, that Ghor.
+We'll definitely beat the Conqueror. I believe it so<03e0>strongly that I'm gonna sit right here and have another<03e0>pint.
+"In a time rocked by peril, even the earth itself<03e0>trembled from its ferocity, until one day all evil<03e0>was stilled by a giant blade, thrust by the gods..."<04e0>That's the legend of the Valeria Heart. When I<03e0>was young, my father would tell me the story<03e0>over and over.<04e0>But he usually followed it up with something like<03e0>"you'd better be good, or the Valeria Heart's<03e0>gonna get you."
+That story about the Valeria Heart was just a<03e0>bunch of bull!<04e0>The Conqueror... He did so many bad things<07f0>he<03e0>even killed Lady Emma<07f0>where's the punishment<03e0>for that, huh?<04e0>And I believed in the Valeria Heart! I really did,<03e0>after all this time... Dammit!
+Athlum's independence...? Don't get me wrong, it's not<03e0>like I'm trying to rain on everybody's parade, but... I<03e0>dunno. I just can't seem to get into it right now.
+This time...this time the Conqueror is going to pay for<03e0>what he's done! And we can finally find out the truth<03e0>about the Valeria Heart!
+Seems like they've started rebuilding the Numor Mines.<03e0>They've still gotta clean out the monsters what live<03e0>there, so it'll be a bit before the grand re-opening.<04e0>It'll be pretty rough not to be able to freely harvest<03e0>there anymore... I heard they've finally got the lift<03e0>working to the lowest level, though.<04e0>If ever there was a time to hit the mines, this is it.
+Me?<03e0>I'm the monster slayer.<04e0>Whaddya need?<06e0000008e0000000000000>Tell me about monsters.<09e008e0010000000000>Nothing! Happy hunting.
+Alright, mate.<03e0>You've got the time to sit for a spell?<04e0>Can't rush monsters, yanno!<06e0000008e0000000000000>I'm not busy.<09e008e0010000000000>Oh, okay. Later, then.
+Ahh, that's too bad.<03e0>Well, come back when you have time.
+Alright then!<03e0>Here we go.
+Well, when you meet with a monster, take a good long<03e0>look at them. If you really take a minute, you can tell<03e0>if they're ready to rumble or not.
+Keep your distance, though; if you can check it out<03e0>without it seeing you, that's best.<03e0>That's a hunter trick, eh?
+Next is the battle! Now, when you pick a fight with<03e0>a monster, you gotta be careful<07f0>you could end up<03e0>fighting him and his buddies, to boot.
+If you're hunting for sport, that's a horse of a different<03e0>color. If you want rewards, you'll want to take on as<03e0>many monsters at once as you can.<04e0>But don't play around, doing any funny stuff when they<03e0>get close. Even if they look calm, you never know<03e0>what a beast's gonna do, eh?
+Remember, practice makes perfect. Have some<03e0>confidence in yourself and you'll do fine.
+Me?<03e0>I'm the monster sla<07f0>eh?<03e0>Ah, you again.<04e0>I guess you wanna know about monsters, eh?<03e0>It's a long talk, though, you have time this time?<06e0000008e0000000000000>I'm all yours.<09e008e0010000000000>Ahh, sorry, gotta run.
+Well...that's enough for now, hmm? Any more and you'll<03e0>be putting me out of a job! The rest you'll just have to<03e0>figure out for yourself. Happy hunting!
+Hmm? Dull face, silly outfit, slouched posture...<04e0>You there, you aren't Rush Sykes, are you?<06e0000008e0000000000000>Yeah...why?<09e008e0010000000000>You're mistaken, old man.
+Whaaat? Impudent little...<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
+*snort* Playing dumb won't get you anywhere<07f0>if you're<03e0>playing at all.<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
+Huh? Yeah...that's the face, that's the clothes...<04e0>You're Rush Sykes, right?<06e0000008e0000000000000>Yup, I'm Rush!<09e008e0010000000000>Nope, I'm, uh, someone else.
+Thought so! I've got a message for you from Lord David.<04e0>He says he's come up with a good starting place for<03e0>information-gathering, and that you should come to<03e0>the <1be0ffbe34ff>castle<1ce0> for details.<04e0>Got it?
+Hahaha, you're a terrible actor, kid. Don't worry,<03e0>though<07f0>you're not in trouble...not with us at least.<03e0>Lord David's put out a summons for you.<04e0>Apparently he's come up with a good starting place for<03e0>your information-gathering, so he'd like you to come<03e0>to the <1be0ffbe34ff>castle<1ce0> so he can share it with you.<04e0>Don't make him wait too long, okay, kid? Or else you<03e0>might end up in trouble with us after all... Just joking!
+Ohh! That valiant form...<04e0>You must be Rush Sykes, are you not?<06e0000008e0000000000000>The one and only!<09e008e0010000000000>Depends on who's asking.
+Well met!<03e0>David, Marquis of Athlum requests that you come<03e0>to <1be0ffbe34ff>Athlum Castle<1ce0> at your nearest convenience.
+Ha ha ha, you are as mischievous as ever, I see!<03e0>I bring a message from Lord David. He requests that<03e0>you come to the <1be0ffbe34ff>castle<1ce0> at your nearest convenience.
+Oh, you.<04e0>The only reason I even agreed to travel with<03e0>you is for the money. If you want to get all chatty,<03e0>find someone else. Quit wasting my time.
+You again?<03e0>What part of "don't talk to me" don't you understand?<04e0>I know you just think I'm some money-grubbing<03e0>bitch, and to be frank, I couldn't care less. The only<03e0>things I care about are shiny and gold.<04e0>Why?<03e0>I don't think that's any of your business. If you really<03e0>want to know...it'll cost you.
+Do I need a sign saying "Get freaking lost"?<03e0>Look, I don't want to talk. I want to make money.<03e0>If you aren't helping me with the latter, piss off.
+How long are you planning on sitting around like this?<03e0>I haven't got the time to be lolling around drooling on<03e0>myself like you.<04e0>There's gotta be some job we can take... Patrol duty,<03e0>monster hunting, even a blorging fetch quest... Throw me<03e0>a bone here!<04e0>Urgh, I'm sure the Ladies're scrambling for cash even<03e0>as we speak... They understand the concept of needing<03e0>a place to live and food to eat...<04e0>I can't understand you people at all.
+Seriously, you're still sitting around here slacking off?<03e0>I don't care if you're lazy, time is money, and I can't<03e0>waste either. Can we get back to work, please?
+Am I tired?<03e0>From this shit? Don't make me laugh.<04e0>Try living hand-to-mouth, always on the run, never able<03e0>to stop even a minute without having to check over your<03e0>shoulder for<07f004e0>...Never mind.<03e0>Could you<07f0>could you not mention I said anything like<03e0>this? Damn, I guess I really am tired...<04e0>Hey, kid...<03e0>Your name's "Sykes," right? So your parents're the<03e0>same as those famous researchers, yeah?<04e0>They ever tell you anything about some shady secret<03e0>projects going on at the Academy?<04e0>...<04e0>Bah, one look at your face and I can tell you don't know<03e0>a thing. Whatever, don't waste your two brain cells<03e0>worrying about it.<04e0>I've got a headache...<03e0>Let me alone for a bit.
+Look.<03e0>Please, leave me alone for a bit.
+Rush...you again.<04e0>Alright, you wanna talk? Let's chat.<03e0>But if I'm gonna talk, you'd damned well better listen.<04e0>Let me tell you about the Ladies of Bloody Alice...<03e0>We started out attached to the Academy's Third<03e0>Committee.<04e0>As you probably know, they do the research too dirty<03e0>for the other scientists... We handled a lot of their<03e0>testing for them.<04e0>Heh, "testing" sounds so neat and clean compared to<03e0>some of the shit we did... Of course, we didn't object<03e0>at the time. We "Ladies" were far from ladylike.<04e0>More like some of the roughest bitches you'd ever<03e0>meet. Some of us even thought we were lucky to get<03e0>such a sweet gig. But...eventually, our luck ran out.<04e0>One day we found ourselves as the subjects in their<03e0>latest tests<07f0>tests to fuse a person with a Remnant...<04e0>So now I gotta eat like some bottomless pit, 'cause<03e0>if I don't have several times the normal nutritional<03e0>requirements for a mitra, I'll die.<04e0>Pathetic, huh.<04e0>...<04e0>The hell're you looking like that for? If I wanted your<03e0>pity I'd have made up some sob story about losing<03e0>my goldfish or some shit.<04e0>Just...<03e0>I just felt like telling you is all.<04e0>What's done is done. No use wallowing in it.<03e0>Better to live life while you can.
+Hey, kid.<04e0>Where're we off to next?<03e0>Make sure it pays well, eh?
+Nothing much has been going on lately...
+You know Baron Nielsen of Celapaleis? Seems his<03e0>wife's disappeared. ...'Course, those two are famous<03e0>for not getting along, so it's nothing new.
+...That's the story, anyway.
+What a shameful excuse for a wife!<03e0>You know, I'D know how to properly take care<03e0>of a man...
+I don't want to believe it, but it seems like there's<03e0>some crazy woman plotting to assassinate<03e0>Duke Qubine...
+...That's the story, anyway.
+Poor Lord Qubine...he is too adorable to have to<03e0>deal with such ridiculous things!
+So, the desert princess has been sneaking away<03e0>pretty regularly to meet some guy she's been<03e0>mooning over. But sounds kinda dangerous to me...
+...That's the story, anyway.
+I know, right? Anyone could take advantage of<03e0>a sheltered little princess like that... I hope she<03e0>doesn't get mixed up in anything bad!
+Hey!<03e0>So, the desert princess has eloped with her man!
+...That's the story, anyway.
+Aughhh... That Lord Paris is absolutely fine. I was<03e0>certain he was on our team... *sigh*
+Seems relations between Balterossa and Royotia have<03e0>taken a nosedive. All the families of the soldiers are<03e0>getting worried since the armies are being mobilized...
+...That's the story, anyway.
+Augh, what a crisis! War isn't going to fix anything.<03e0>And if Paris's face were to be scarred or something<07f003e0>Ooh, I'm getting verklempt just thinking about it!
+I know, right?
+So there's supposed to be something the Imperator<03e0>sealed out in the great swamp... Problem is, the seal's<03e0>broken. Could be the entrance to some other world...
+...That's the story, anyway.
+Everyone has things in their past they'd like to<03e0>seal away. I can't even count how many things<03e0>I'd like to forget...
+There's a Forest Maiden who's so attuned to the Knight<03e0>she's bound to, she can like, see through his eyes or<03e0>hear things he's heard, or something like that.
+...That's the story, anyway.
+I've got the soul of a pure, innocent young maid too,<03e0>you know. Born again, anyway.
+The Forest Maidens and the Order of Melphina<03e0>are mobilizing... Seems something's happened to<03e0>the Last Leaf in Crookfen.
+...That's the story, anyway.
+I wonder what's going on.<03e0>I know, let's go check it out!
+Wh-what about the pub?
+It's almost time for Kosmosfest, huh. But apparently<03e0>the Cosmos Maiden hasn't made it to Nagapur yet.<03e0>Maybe she got mixed up in something...
+...That's the story, anyway.
+Well! You simply cannot have a Kosmosfest without<03e0>a Cosmos Maiden! Noble spirit I am, I volunteer myself<03e0>to take her place! ...It'll cost them, though.
+So the Cosmos Maiden made it, and they started<03e0>the Kosmosfest alright. Usually the ceremony's a bunch<03e0>of hooey, but this time it was interrupted by monsters.
+...That's the story, anyway.
+I've heard the Kosmosfest is just so romantic...like<03e0>something out of an old story.<03e0>...Ahhh, I want to gooo!
+Some old-fashioned chick is looking to hire bodyguards,<03e0>I hear. She's supposed to be hanging out at the pub<03e0>near the canal.
+...That's the story, anyway.
+What's she doing that needs that much protection?<03e0>I mean, you don't see me surrounding myself with<03e0>brawny beefcakes... Not for money, anyway.
+You're not into antiques, are you? Apparently a lot of the<03e0>treasures of the Old Kingdoms are turning up on the black<03e0>market.
+...That's the story, anyway.
+Someone's stealing treasures? You can't possibly mean<03e0>that someone could be coming for my precious!<03e0>I'll never allow it to be on the black market!
+I'm sure yours will be exempt.
+Some guy is looking for these three stones that're<03e0>really important to the desert. Historically significant,<03e0>or something.
+...That's the story, anyway.
+Rocks, pfft. I'm looking for three wonderful men!<03e0>That's something that would be really important to<03e0>the entire world...or at least the me-part of it.
+Some guy into ancient magick is looking for people<03e0>to help out with research. Seems he's on the verge<03e0>of unlocking some huge mysteries.
+...That's the story, anyway.
+Ancient magick, hm? This guy must be a real brainiac.<03e0>Maybe I'll volunteer...there's something to be said for a<03e0>man who knows what he's doing.
+So some folks are crying it's the end of the world<03e0>over some freaky monster. Apparently it was sealed<03e0>by the Imperator, and now it's back...
+...That's the story, anyway.
+All the more reason to spread love while we can, hm?
+Some amnesiac is wandering around the cities in<03e0>the desert, looking for something that could regain<03e0>his memory.
+...That's the story, anyway.
+How mysterious! I wonder what sorts of exciting<03e0>exploits he could have forgotten. Interest piqued~
+Recently people've been seeing this infamous bandit<03e0>around Athlum. Apparently he's waiting around for<03e0>someone but no one's brave enough to ask who.
+...That's the story, anyway.
+Eek! No question, he's waiting for me! When I said<03e0>I wanted a big strong man to take me away, I didn't<03e0>mean like this...
+For you...?<03e0>I guess stranger things have happened.
+There's a statue in the Robelia Ruins that's supposed<03e0>to let you meet anyone in the world, no matter how<03e0>far. Some kid looking for his sister wants it...
+...That's the story, anyway.
+How amazing! It's like something out of a storybook.<03e0>Ahh, what I could do with a statue like that...
+(Who does he want to...<03e0>Nah, I don't even want to know.)
+Some strange<07f0>thing has been terrorizing Celapaleis.<03e0>It's totally freaking out the people there.
+...That's the story, anyway.
+Oh, I'm sure the poor thing is just lonely. It just needs<03e0>a friend, and maybe a big hug.
+There's a murderer on the loose in the capital!
+...That's the story, anyway.
+That is simply terrible! I certainly hope they find the<03e0>killer and bring him to justice soon! Ooh, and all<03e0>my favorite boutiques are there...
+Augh, don't scrape your nails on the dishes!
+There's some massive yama who needs help looking<03e0>for stuff... But he's kinda, uh, weird, so people've<03e0>been trying to keep out of his way.
+...That's the story, anyway.
+I'm looking for something, too... The perfect partner.<03e0>Experience is preferred, but trainees are welcome...
+Some white qsiti's been looking for a magickal book.<03e0>People seem to think he looks familiar, but no one's<03e0>been able to place him.
+...That's the story, anyway.
+A white qsiti? That's pretty rare. If I got him to work<03e0>here, I bet we'd get loads more customers.
+It's a bar, not a sideshow...
+There's this set of twins that've turned up as<03e0>mercenaries lately...good ones, too. One is supposed to<03e0>be a real cool customer<07f0>both in looks, and in attitude.
+...That's the story, anyway.
+Hmph. If you ask me, better to be hot than cool.
+Some guy out in the Great Sand Sea's been looking<03e0>for challengers. But he's not interested in Joe<03e0>Schmoes off the street.
+...That's the story, anyway.
+Mmm, dangerous men are so intriguing! I bet we could<03e0>go head-to-head in a few different "challenges"...
+Some old warrior's been crossing the Great Sand<03e0>Sea, looking for a special sword.
+...That's the story, anyway.
+Spend that much time in the desert and you'll end up<03e0>with skin like old leather! Ugh, there's no way I'd do<03e0>that, not for all the moisturizer in the world!
+The guards of Ghor have all sworn to follow their<03e0>ruler for as long as they live.
+...That's the story, anyway.
+Everyone says the Duke of Ghor is a brave and<03e0>honorable man. Maybe I should drop everything and<03e0>follow him for as long as I live, too...
+What about staying faithful to this pub!?
+There's not a family in the world as dedicated as<03e0>the Honeywells. If you've got them at your back,<03e0>you can do anything.
+...That's the story, anyway.
+I certainly believe that! I completely respect Lady<03e0>Emma. With her to look up to, Athlum's girls should be<03e0>stronger and more beautiful than anywhere else.
+Yeah! I look up to her too.
+So, this gossip is pretty juicy... Apparently General<03e0>Torgal is supposed to have figures from his past<03e0>popping up in Royotia...
+...That's the story, anyway.
+That poor thing. Now, this is just between us girls,<03e0>but I completely feel the general's pain of having<03e0>an estranged little brother...
+Your brother came in here yesterday!
+It's about time for the Tournament of Heroes to<03e0>start up again. It's pretty well-known among the types<03e0>with fighting spirit.
+...That's the story, anyway.
+There's something about wild, feral men locked in<03e0>battle, struggling for domination, muscles straining and<03e0>gleaming with sweat... Ooh, I should get my tickets!
+Apparently there's some mystic academy that's<03e0>been spitting out skilled magi for years.
+...That's the story, anyway.
+Brains are an important part of a good man! That's<03e0>why they're so hard to find...
+Athlum's been going through some tough times, and<03e0>people are worried about the new matriarch of the<03e0>Honeywell clan because she's so young.
+...That's the story, anyway.
+She'll be just fine. She's like a carbon copy of the<03e0>Lady Emma at that age.
+Yeah! I don't think we'll have to worry either!
+Recently there's been gossip about Lord David's love<03e0>interests...or lack thereof. He's never been connected<03e0>with anybody.
+...That's the story, anyway.
+Of course! Lord David is concentrating on the<03e0>important things of running a country. ...Plus, he's<03e0>saving himself for me. Sorry, ladies!
+The old head of the Academy's been seen in pubs<03e0>across the continent lately. I guess it makes sense<03e0>she'd want to drown her sorrows after what happened.
+...That's the story, anyway.
+Drinking to forget... Does she really believe this<03e0>will make things better?
+Dr. Sykes has been seen going in and out of the<03e0>castle a lot lately. Guess there's been a breakthrough?
+...That's the story, anyway.
+Dr. John Sykes... He's definitely got the brains, but<03e0>somehow he's got this rugged charm that's<03e0>irresistible... Eh, Marina Sykes? Who's that?
+Some unidentified flying object's been spotted<03e0>swooping around Wyrmskeep. It's totally been<03e0>freaking everyone out...
+...That's the story, anyway.
+Augh! Does that mean that last time I went to<03e0>Nagapur to pick up a few things, that<07f0>thing<03e0>could've been slavering over me!?
+You do always say you want to pick up more<03e0>attention...
+Some hot-blooded female warrior is trying to hunt<03e0>down that group causing trouble in Crookfen. But<03e0>it's against her boss's wishes...
+...That's the story, anyway.
+I was quite the hot-blooded warrior in my youth, too.<03e0>Oh, the adventures I had... I could tell you the story,<03e0>but it'd be morning before I was even halfway through.
+H-how long is this story supposed to be!?
+Some monster army's appeared in the Great Sand<03e0>Sea. They're so powerful that everyone in Balterossa<03e0>is totally in despair...
+...That's the story, anyway.
+Only those who've known despair know the true<03e0>meaning of hope... So, everyone should have the<03e0>chance to taste despair at least once!
+Yeah, well, this could be their first and last chance!
+According to ancient historians, there's something<03e0>dangerous enough to destroy entire cities sealed<03e0>within the volcano...
+...That's the story, anyway.
+Pish tosh. My love for Lord David is enough to rock<03e0>the whole city of Athlum!
+Hey, I'm trying to be serious here!
+No one knows what's going on inside the volcano,<03e0>and no one knows how to find out... But, the Marquis<03e0>of Royotia might have some ideas...
+...That's the story, anyway.
+He's the one with the magnificent mustache, right?<03e0>Any man that takes such incredible care of his<03e0>facial hair has got to know a secret or two.
+Huh, never figured you for a bear chaser.
+You know there's a town without anyone running<03e0>it? The old ruler's sons are fighting over the seat<03e0>of power.
+...That's the story, anyway.
+Don't talk to me about bloodthirsty succession<03e0>struggles! I fought long and hard to get this pub...
+Are...are you serious!?
+When you're out in the desert, you can hear this sad,<03e0>lonely voice crying from beneath the Great Sand Sea.
+...That's the story, anyway.
+You poor dear... Everyone's experienced loneliness.<03e0>You're not the only one who's ever felt like crying...
+N-no, that's not what I meant...
+A long time ago, there used to be a famed hero<03e0>that lived in the Great Sand Sea.
+...That's the story, anyway.
+Anyone that famous had to have been a simply<03e0>amazing man... If only I were born a few hundred<03e0>years earlier! *sigh*
+So I was walking through the Town Square and heard<03e0>this guy all "you gotta believe me! If you look at the<03e0>pillars in the Great Sand Sea, then...g-g-gra<07f0>!"
+...That's the story, anyway.
+"G-g-granny," he says!? How rude! I'm not even<03e0>close to hitting my prime, that cheeky little<07f0>ooh!
+Some crackpot old scientist has been wandering<03e0>around Melphina. If you go over there, you probably<03e0>should stay away, he's giving people strange looks.
+...That's the story, anyway.
+Hmm? What sort of looks, I wonder? If it's the look<03e0>of a wounded heart, then he should come here and<03e0>recover in our healing, friendly atmosphere!
+Sure<07f0>so long as he pays for his food and drink<03e0>afterwards!
+The cafe out in Baaluk's supposedly infested with<03e0>bugs...they followed the owner all the way from the<03e0>desert.
+...That's the story, anyway.
+Ew, ew, ew! Ugh, I hate bugs!
+I'm pretty sure they aren't too fond of you, either...
+Nagapur's been increasingly unsafe. Recently a bunch<03e0>of kids have gone missing...
+...That's the story, anyway.
+Good gracious! Could it be kidnapping? I had better<03e0>be careful as well.
+Adventurers have gotten into trading the different<03e0>loot they find on their trips, apparently. Royotia's<03e0>the main hub for the fad.
+...That's the story, anyway.
+How sad. My greatest treasures are the secret<03e0>feelings bottled within my heaving bosom. But I<03e0>wouldn't trade them for anything in the world!
+...Right.
+Royotian merchants are getting frustrated with<03e0>Balterossa...they control all of their trade routes.
+...That's the story, anyway.
+Yes, Royotian jewels are incredibly expensive. I'd<03e0>really love to pick some up, but I just don't have the<03e0>money. Maybe if I gave my staff a pay cut...
+Wh-what!? No way!
+Some yama mercenary's out looking for a partner.<03e0>Could be a good way to make a few G.
+...That's the story, anyway.
+Ooh, that must be him over there, no? What a strong,<03e0>strapping man... Mm, if I were you, hon, I'd definitely<03e0>partner up with him.
+Some guy with a hot-and-cold personality's shown up<03e0>in Celapaleis. He'll seem really nice and then<03e0>start cursing people out at the drop of a hat.
+...That's the story, anyway.
+Mmm, for some reason I always feel drawn to<03e0>bipolar men like that. I guess they just spark my<03e0>maternal instincts...
+"Maternal"...?
+There's some qsiti going to crowded places and<03e0>standing in everyone's way, and then picking fights<03e0>with people who run into him. What an annoyance...
+...That's the story, anyway.
+Oh! I've run into that guy before...literally. If he ever<03e0>comes in here, the only thing I'm serving him is a<03e0>knuckle sandwich!
+So, apparently there's some mysterious lady looking<03e0>for someone to help her with something. She seemed<03e0>to have something important to ask.
+...That's the story, anyway.
+I also have something to ask...
+What?
+I told you about the mysterious woman from before,<03e0>right? Seems she's still waiting for something really<03e0>important. I hear she looks super worried...
+...That's the story, anyway.
+I'm waiting for something really important, too...<03e0>Or someone...
+You're just waiting for anyone at all.
+You've probably seen them if you've been hanging<03e0>around Crookfen, but Bloody Alice has been gathering.<03e0>Looks like something big's going on...
+...That's the story, anyway.
+I wanted to join them once...Bloody Alice. Of course,<03e0>back then I was a bit of a rebel, going against the<03e0>grain and all that.
+I wouldn't say you're quite going with the grain now...
+Seems the Jhana have been popping up in the Great<03e0>Sand Sea. You wouldn't think they'd have forgotten<03e0>being blasted by the Gae Bolg already...
+...That's the story, anyway.
+Well... Once you quit trying, your life is over. How's<03e0>it different for beastmen? If you've got a goal, keep<03e0>trying until you reach it!
+That's great, but not when the goal is destroying<03e0>the city!
+Recently the Silver Falcons took out a pack of Jhana.
+...That's the story, anyway.
+You know, I'm a member of the official Silver Falcons<03e0>fan club! Their sovani leader is so stoic and manly...
+The Silver Falcons have been going after the<03e0>leftovers of the Conqueror's army. Who knows<03e0>what those guys could be up to...
+...That's the story, anyway.
+Good luck, Falcons! Perhaps to help out, I'll go take<03e0>a refreshing drink to that delicious commander.
+B-but who's gonna run the pub?
+Some gloomy-looking guy's been hanging around the<03e0>pub in Elysion recently, and bumming everyone out.
+...That's the story, anyway.
+For some reason, I just find myself drawn to dark<03e0>and brooding men... I just want to uncover all their<03e0>mysteries, lay them bare before me...
+You kinda find yourself drawn to everyone...
+

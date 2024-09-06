@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1300_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+We've returned, my lord.
+How is the chairman?
+It is still too close to call.
+I see.
+What is this!?
+What's going on, Dad?
+Hey, that light's moving.
+Huh?
+Argh...we've lost it.
+What even was it?
+If it showed up on this baby,<0fe003e00ee0>it was a Remnant, of course!
+Irina?
+Don't! Irina!
+So dark...so deep... <1ae0000025430fe005e001000ee0>The forest...filled with power...<1ae0000034430fe005e001000ee0>The Conqueror... He's there...
+That light is back.
+Where's it at?
+Hmm...Darken Forest, I'd say.
+So, this glowing light is the Conqueror?<1ae0000096420fe005e001000ee0>How come he's on the Remnant tracker thing?
+It must be the talismans he carries.
+Well, Dave?
+Lord David, what shall we do?
+We were unable to protect Duke Ghor.
+We are powerless in the face of the Conqueror.<1ae00000ba420fe005e001000ee0>That's how it was at Nagapur,<0fe003e00ee0>that's how it was at Koenigsdorf.
+Even if we meet him now, at Darken Forest,<0fe003e00ee0>what can we do?<1ae0000007430fe005e001000ee0>How are we even supposed to stand<0fe003e00ee0>against him?
+Mr. David...<1ae000009c420fe005e001000ee0>What you can do is...
+Irina!?
+Irina!
+

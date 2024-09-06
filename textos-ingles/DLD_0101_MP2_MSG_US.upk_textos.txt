@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) DLD_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend<03e0>Cancel: Release handle
+The handle won't turn any more.<03e0>It seems you cannot proceed any further.
+Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend
+Monsters stand in the way of the controls.
+

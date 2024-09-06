@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0090_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Our men on the front lines reported seeing men<03e0>garbed in black.<04e0>I can think of no other explanation but that the<03e0>men who abducted my knights were the ones<03e0>who destroyed the seal in Crookfen.
+Everyone, I shall restore the seal now. Until it<03e0>is complete, monsters will continue to spawn...<03e0>I leave them to you. Fight well, knights.
+Mistress Marsha...we depend on you.
+This is where it ends...where we, the Order of<03e0>Melphina, stake our reputation and our lives to<03e0>defend our sworn homeland, no matter the cost.<04e0>For Melphina!
+For Melphina!!!
+Wh<07f0>whaaa!? The monsters...<03e0>Hypnos is disappearing! Bro, what'll we do!?
+This power...<03e0>So this is the true strength of the bond<03e0>between the Order and the Forest Maidens?
+Wroahhh!
+We're out of options, and Melphina still won't<03e0>submit...<04e0>They're made of sterner stuff than we thought.<03e0>They...they've got something we just don't.
+But, Bro... If we go home with a report like<03e0>that to the big man, we're gonna<07f001e00be00ae0>
+Right...we won't be living to say much else.<03e0>He hates failure more than anything...
+Yeah...<03e0>Hey<07f0>forget this. How 'bout we just get outta here?<04e0>Maybe if we run back home, the association's<03e0>assassins won't catch up!
+...
+It seems I was able to restore the seal.
+Sir Roberto, knights of the Order, Master Sykes...<04e0>Your devotion and dedication to our beloved<03e0>country is what allowed my prayers to be<03e0>received by the heavens.
+It is all thanks to you we still stand,<03e0>Mistress Marsha.
+I must say the same for you, Sir Roberto...
+(...Do these two need a room?)<03e006e0000008e0000000000000>(Maybe they'll be quick.)<09e008e0010000000000>*COUGH COUGH* AHEM!
+Ah<07f0>ahh.<03e0>Come, all, let us return to Melphina.
+

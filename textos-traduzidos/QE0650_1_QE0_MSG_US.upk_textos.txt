@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0650_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I hear the treasure of one of the Old Kingdoms<03e0>is supposed to be in the desert somewhere.<03e0>But...I bet the place is filled with ghosts...<04e0>Hey, would you go look for me?<06e0000008e0000000000000>Sure.<09e008e0010000000300>Nope.
+Cool! So, there're a bunch of pillars set up in<03e0>the desert to keep you from getting lost. And<03e0>they've all got IDs on them if you look close.<04e0>If you look at them in the order:<03e0>C-4-B-E-A-1<03e0>then...
+*shudder*
+The pillars are engraved with the language of the<03e0>Old Kingdoms, so take this<07f0>it'll show you how<03e0>to read them.
+Well, aren't we boring...
+Hey hey, so you got the hidden treasure!?<03e0>You're so brave!
+...
+A rock?<03e0>Some stupid old rock is the hidden treasure of<03e0>the Old Kingdoms!?<04e0>Gimme a break! I thought I'd gotten such an<03e0>awesome tip, too! Ugh, guess I gotta work on my<03e0>eavesdroppi<07f0>uh, my info-collection technique.<04e0>Well, I don't need this thing.<03e0>Present for you!
+Later.
+See? Ghosts really are scary<07f0>even someone<03e0>like you got the willies! Or are you gonna try<03e0>looking again?<06e0000008e0000000000000>Hell yeah.<09e008e0010000000300>Hell no.
+Cool! So, there're a bunch of pillars set up in<03e0>the desert to keep you from getting lost. And<03e0>they've all got IDs on them if you look close.<04e0>If you look at them in the order:<03e0>C-4-B-E-A-1<03e0>then...
+*shudder*
+Wimp.
+

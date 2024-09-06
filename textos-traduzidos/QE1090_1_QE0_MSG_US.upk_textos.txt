@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1090_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I assume you heard about me from the pub employee.<03e0>It's hard to escape gossip in such a place.
+I have a dilemma.<03e0>I need to deliver a letter to someone.<04e0>Unfortunately, that person has gone away to a<03e0>monster-infested region, leaving me behind...<04e0>I would like someone to deliver this letter to him.<03e0>Will you please help me?<06e0000008e0000000000000>Sure, I'll do it.<09e008e0010000000300>I don't talk to strangers.
+Thank you!<03e0>I owe you so much!
+Here is the letter to deliver.<04e0>The person I want you to give this<03e0>to should be at the entrance of<03e0>the <1be0ffbe34ff>Robelia Ruins<1ce0>.
+If you leave the <1be0ffbe34ff>Robelia Ruins<1ce0>, speak<03e0>to me again.<04e0>If you do not do so, the situation<03e0>will change and you will lose sight<03e0>of your original goal.
+I understand...
+I need someone to deliver this letter for me.<04e0>Unfortunately, the recipient is in<03e0>a monster-infested area...<06e0000008e0000000000000>I'll go.<09e008e0010000000300>I don't even know you.
+Thank you!<03e0>I owe you so much!
+Here is the letter to deliver.<04e0>The person I want you to give this<03e0>to should be at the entrance of<03e0>the <1be0ffbe34ff>Robelia Ruins<1ce0>.
+If you leave the <1be0ffbe34ff>Robelia Ruins<1ce0>, speak to me again.<04e0>If you do not do so, the situation will change and<03e0>you will lose sight of your original goal.
+I understand...
+Welcome back!<03e0>I'm glad to see you safe and sound.<04e0>Were you able to deliver the letter?
+Thank you so much.<03e0>Here is a little something for your trouble.
+There are so many people in need of a helping hand<03e0>out there. If you come across these people, please<03e0>hear them out.
+Helping those in need will help you, too.<04e0>You will gain so much from it.<04e0>The power to strengthen your will.<04e0>Friends who will risk their lives for you.<04e0>History.<04e0>Truth.<04e0>Hope, fear, hate.<04e0>You will experience many things, both good and bad,<03e0>and they will help you grow as a person.<04e0>I know you will take them to heart...and thus,<03e0>I know you will be able to control your fate.
+We shall meet here again...someday.
+I see you've left the <1be0ffbe34ff>Robelia Ruins<1ce0>.<03e0>Thank you for coming to speak to me once more.<04e0>Are you ready to go back to the ruins?<06e0000008e0000000000000>Ready as I'll ever be.<09e008e0010000000300>Not really.
+Thank you!<03e0>The recipient should be at the entrance.<03e0>I wish you luck.
+Alright. Please come speak to me again<03e0>if you change your mind.
+

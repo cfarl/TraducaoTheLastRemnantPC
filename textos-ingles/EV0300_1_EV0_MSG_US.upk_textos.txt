@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0300_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+That is all, Lord David.<0fe003e00ee0>I pray for your success.
+You're here.
+Who was that?
+Ah, ahem, yes. A messenger from Celapaleis.<0fe003e00ee0>Sent by the Duke of Qubine.
+He wanted to warn us about some<0fe003e00ee0>unidentified troops invading Blackdale.
+He believes they're troops from the Duke<0fe003e00ee0>of Ghor. We are to look into it immediately.
+But I thought Blackdale belonged<0fe003e00ee0>to Athlum.<1ae000008c420fe005e001000ee0>Why's this guy butting into your business?
+It was merely a request, not an order.
+And although we are allies, Athlum is<0fe003e00ee0>actually under the control of Celapaleis.<1ae000002c430fe005e001000ee0>We have little say.
+Huh.
+So what do you need me for?
+You will be joining us in our investigation.
+Why's that?
+Pagus?
+According to the report,<0fe003e00ee0>the troops from Ghor that entered<1ae0000007430fe005e001000ee0>Blackdale were led by a mage dressed<0fe003e00ee0>in white.
+Not only that, but they were accompanied<0fe003e00ee0>by a flying Remnant.
+That sounds like someone we know.<0fe003e00ee0>Like those guys we saw at Dillmoor!
+We must make haste.<0fe003e00ee0>Prepare for departure at once.
+Wait, you're going?<0fe003e00ee0>Aren't you too important for this?
+I was requested to go as well.
+And if nothing else,<0fe003e00ee0>it should satisfy my curiosity.
+We are leaving for Blackdale immediately!<0fe003e00ee0>Is that clear?
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Yes, ahem.
+

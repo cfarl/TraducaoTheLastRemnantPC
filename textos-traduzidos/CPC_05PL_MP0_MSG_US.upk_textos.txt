@@ -1,0 +1,272 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Hello! Welcome to the Amber Tavern.
+Some strange animal or something has been seen<03e0>around the stores on Grants Way. Ooh, if something<03e0>like that were to come here, I don't know what I'd do...
+Some soldiers came here, looking for someone...<03e0>It wasn't you, was it?
+Hmm? What's with that face?<03e0>Did you get in a fight with someone?<03e007f0>A lovers' spat, perhaps?
+It seems those soldiers are back again. It seems they've<03e0>a message from the Marquis of Athlum... They're looking<03e0>for you, right? Come on, you can tell me.
+You must be a popular guy...<03e0>Messengers from Athlum are looking for you again.<04e0>I figured you were just your run-of-the-mill cutie...<03e0>Don't tell me you're one of Athlum's generals<03e0>or something?
+Poo...boring!<04e0>I thought that by getting a job at the pub I'd be<03e0>able to meet all kinds of cool people, but<03e0>everyone who comes lives in the neighborhood!<04e0>Ahhh...it'd be pretty neat if Lord Qubine came<03e0>here for a drink, for example! Though, I guess<03e0>he's a little young...
+The rumor going around Grants Way is that<03e0>lots of soldiers have been gathering in Nagapur.<04e0>You don't think they're getting ready for a war<03e0>or something, do you?<04e0>Even if they were, my lovely tavernkeep, you<03e0>have no need to worry! I would protect you with<03e0>my life!
+I cannot believe we were so easily overcome by<03e0>the Conqueror's army! Even so, the Conqueror's<03e0>soldiers weren't anything special, hm?<04e0>Oh! Fair bartender, my delicate bringer of<03e0>spirits, did you see my stunning contribution<03e0>to the city defense?<04e0>You saw me cowering under the counter?<04e0>W-well! I wasn't feeling so well, you see! A bit<03e0>of stomach flu, that's it! Really! Ahahah...hrm.
+The Lords hold a meeting of the Congress every<03e0>couple years at the sacred city of Elysion<07f0>you<03e0>know, at the center of the continent.<04e0>But from here, it's a long, hard journey.<04e0>If you're planning on heading to Elysion, make<03e0>sure you're stocked for a long trip.
+You ever heard of Balterossa? It's a city in the<03e0>desert to the south. There you can buy weapons<03e0>forged from all sorts of odd materials.<04e0>You should see the markets at least once in<03e0>your life, kid... At least, if you've the skill to<03e0>make it there in one piece.
+The Conqueror's army seems to have two main leaders...<04e0>One's an armored giant, the other's a woman;<03e0>pretty, but with a tongue as sharp as her sword.<04e0>Their positions aren't for show, either<07f0>there<03e0>isn't anyone who's been able to best them in<03e0>battle... I couldn't leave a scratch on them.<04e0>The two of them together put out this terrifying<03e0>aura, and leave behind a veritable mountain of<03e0>corpses on the battlefield...<04e0>Those two...they're not ones to trifle with.
+Did you see the kind of, er, rough yama sitting<03e0>by himself downstairs?<04e0>He's one of our regulars, but unlike a lot of the<03e0>people here, he's traveled all over and knows a<03e0>lot.<04e0>If you have any questions about other parts of<03e0>the world, try screwing up your courage and<03e0>asking him, okay?<04e0>I know he looks kinda scary, but he's really a<03e0>sweet guy.
+When the Conqueror attacked, lots of soldiers<03e0>gathered here in Lamberro District on their way to<03e0>the battlefield.<04e0>But only a few returned... Alive, anyway...<04e0>Oh! But our yamaan regular, he made<03e0>it back alright! Thank goodness...
+You wish to know the powerful families in<03e0>Celapaleis? Hmm...<04e0>The House of Nielsen, the House of Zita... Those<03e0>two and the House of Gilles-Barre are the most<03e0>well-known, I believe.<04e0>However, since rule of Celapaleis passed to<03e0>Lord Qubine, the Gilles-Barres have fallen into<03e0>a deep decline.<04e0>Their patriarch, Count Gierven, passed away some<03e0>years ago... It's said that was the reason for the<03e0>House's fall.<04e0>Conversely, the Nielsens have risen in standing,<03e0>especially after Count Gierven's daughter was<03e0>married into the family.<04e0>Well. Even the high-born have drama, hmm?
+Ooh... I've fallen, hard...<04e0>Fallen in love, of course!<04e0>With one of the Celapaleian guards... He's beautiful,<03e0>his eyes sparkle like the Umbermarici... I can't really<03e0>see under his helmet, but I just know it!<04e0>But for now, it's just a one-sided love... I'm so<03e0>worked up I feel like I could burst! *sigh*
+Ahh, I'm the happiest girl in the whole world!<04e0>I asked out my crush, and he said yes!<04e0>He's one of the Celapaleian guards... His eyes sparkle<03e0>like the Umbermarici itself...but I'm the only one<03e0>allowed to peek under his helmet.<04e0>Does everyone feel this blissful when they're in<03e0>love? If I could, I'd share some of my happiness<03e0>with you...
+...<04e0>Fate is a cruel mistress.<03e0>She snatched him away from me, forever...<04e0>Before he left, he asked me to forget him if the<03e0>worst happened...<04e0>Idiot...<03e0>As if I could ever forget him...<04e0>This is his sword...the only thing of his that<03e0>returned from the battlefield. Would you take it?<04e0>I was going to throw it away, but after talking to<03e0>you, I thought maybe you should have it...<03e0>Strange, isn't it...
+His sword will certainly help you protect your friends.<03e0>I have to believe in that...
+The gods have smiled upon me!<03e0>My beloved was dispatched to the Nest of Eagles,<03e0>but was able to return safely.<04e0>He said the army was devastated, but at the moment<03e0>all hope seemed lost, Athlum swept in and turned<03e0>the tide.<04e0>Oh! Now that I think of it, his sword... I was on<03e0>my way to sell it, but instead, let me give it to you.<04e0>He's resigned from the army, and we're to be married!<03e0>This sword has protected my fiance all this time<07f003e0>surely it will be a blessing to you as well.
+Oh, has the blade been useful? It protected my beloved<03e0>for a long time. Surely it will be a blessing to you as<03e0>well.
+Hmm? Dull face, silly outfit, slouched posture...<04e0>You there, you aren't Rush Sykes, are you?<06e0000008e0000000000000>Yeah...why?<09e008e0010000000000>You're mistaken, old man.
+Whaaat? Impudent little...<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
+*snort* Playing dumb won't get you anywhere<07f0>if you're<03e0>playing at all.<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
+Huh? Yeah...that's the face, that's the clothes...<04e0>You're Rush Sykes, right?<06e0000008e0000000000000>Yup, I'm Rush!<09e008e0010000000000>You've got the wrong guy.
+Thought so! I've got a message for you from Lord David.<04e0>He says he's come up with a good starting place for<03e0>information-gathering, and that you should come to<03e0>the <1be0ffbe34ff>castle<1ce0> for details.<04e0>Got it?
+Hahaha, you're a terrible actor, kid. Don't worry,<03e0>though<07f0>you're not in trouble...not with us at least.<03e0>Lord David's put out a summons for you.<04e0>Apparently he's come up with a good starting place for<03e0>your information-gathering, so he'd like you to come<03e0>to the <1be0ffbe34ff>castle<1ce0> so he can share it with you.<04e0>Don't make him wait too long, okay, kid? Or else you<03e0>might end up in trouble with us after all... Just joking!
+Ohh! That valiant form...<04e0>You must be Rush Sykes, are you not?<06e0000008e0000000000000>The one and only!<09e008e0010000000000>Depends on who's asking.
+Well met!<03e0>David, Marquis of Athlum requests that you come<03e0>to <1be0ffbe34ff>Athlum Castle<1ce0> at your nearest convenience.
+Ha ha ha, you are as mischievous as ever, I see!<03e0>I bring a message from Lord David. He requests that<03e0>you come to the <1be0ffbe34ff>castle<1ce0> at your nearest convenience.
+Oho? But it is young Rush.<04e0>I'm afraid I have no time to chat. I am to meet a<03e0>maiden as beautiful as a blooming rose.
+Do you know the subcommander of the Order<03e0>of Melphina, the fiery Ophelia?<04e0>I hear she is quite unlike the stodgy old commander<07f003e0>instead, a beauty in the flower of youth, blazing with a<03e0>passion for justice...and perhaps for other things as well.<04e0>Ahh, I should like to be the one to tame such a<03e0>tigress. I wonder, is it difficult to join this Order<03e0>of Melphina?
+Ophelia, subcommander of the Order of Melphina.<03e0>Someday I shall make your acquaintance...and feel<03e0>the flames of your passion for myself.
+Do you know the Lady Charlotte di Balterossa?<03e0>She is the lovely young heir to the desert<03e0>queendom.<04e0>Unlike that arrogant harpy of a mother, Charlotte<03e0>is a gentle and delicate flower...a true desert bloom.<04e0>I wonder how I may pick that flower and raise it<03e0>in a garden of my own...
+The sweet princess, Charlotte di Balterossa...<03e0>Someday I will draw near enough to whisper sweet<03e0>nothings into your ear...
+Do you know the goddess of Elysion,<03e0>Marion Marshall?<04e0>Not even the legendary desert queen could compare<03e0>to her greatness. It is said her beauty was enough<03e0>to set even the most stoic of hearts atremble.<04e0>If only I could lay eyes upon her, even once...<03e0>Yea, time itself plots against our romance,<03e0>yet I am certain I can find a way to surpass it...
+The goddess of Elysion, Marion Marshall...<03e0>If only I could ford the streams of time to gaze<03e0>upon your beauty...
+The beloved daughter of Celapaleis' storied house<03e0>of Gilles-Barre, Violet... She is noble as the rose.<04e0>Just the sight of her fighting for the glory of her<03e0>family, continuing the work her late father carried<03e0>for so long, moves my heart...<04e0>...<04e0>Shall I be frank for a moment?<04e0>I'm the third son of a poor family from Athlum.<03e0>There was no place for me in my home, so I<03e0>fled at my first opportunity.<04e0>However, on my own I realized I had little with which<03e0>to make my way. As you know well, my skill lies not<03e0>in acts of valor. My single talent is a pretty face.<04e0>Heh, no need to look so surprised. Act how I may,<03e0>I have a full understanding of the reality of my<03e0>situation. And I have taken advantage of it as well.<04e0>Thus I have made my way through the world by<03e0>pleasuring ladies and romancing maidens. Never<03e0>has one captured my heart.<04e0>Never before now...<03e0>Violet... For some reason I cannot keep her from<03e0>my thoughts. This has never happened before...<04e0>...<04e0>Forgive my going on. If nothing else, this is no<03e0>conversation for children.<04e0>Though, I had imagined Baron Nielsen to be a<03e0>base cur, while in truth he is surprisingly<03e0>broad-minded... Ah, I must let it go.<04e0>Rush, forgive my candidness. I had not intended<03e0>to speak of such odd things. Though, you are a<03e0>surprisingly good listener. It is appreciated.<04e0>Rush. Once again I pledge myself to your service.<03e0>I promise to work to the best of my abilities. As for<03e0>the extent of those abilities, I make no guarantees.
+Rush Sykes! A pleasure to see you once again.<03e0>Have you need of me? If you've any troubles with the<03e0>fairer sex, then you may request my services any time.
+Absolutely nothing interesting is going on lately... *sigh*
+You know Baron Nielsen, right?<03e0>His wife's run off again, can you believe it?<03e0>They really must not get along!
+That's the latest scoop, anyway!
+Ah, poor Baron. He's one of our regulars, you know.
+Ooh, that priggish old guy with the mustache, huh?<03e0>He always fusses at me...
+I don't want to believe it, but it seems like there's<03e0>some crazy woman plotting to assassinate<03e0>Lord Qubine...
+That's the latest scoop, anyway!
+I'd heard a similar rumor from Baron Nielsen...
+What? What what?<03e0>Sounds fishy to me...
+So, apparently the desert princess has been sneaking<03e0>out of the castle pretty regularly to meet some<03e0>guy she's been mooning over.
+That's the latest scoop, anyway!
+I wish I could sneak away too...<03e0>Life isn't made to be spent working!
+Hey hey, I'm working really hard here,<03e0>so you work hard too!
+Hey! So, the desert princess has eloped<03e0>with her man!
+That's the latest scoop, anyway!
+Ahh, to drop everything and elope? Something<03e0>about it just sounds so romantic...
+You just want an excuse not to come to work!
+Seems relations between Balterossa and Royotia have<03e0>taken a nosedive. All the families of the soldiers are<03e0>getting worried since the armies are being mobilized...
+That's the latest scoop, anyway!
+What about the poor princess? Wasn't she in love<03e0>with the boy from Royotia?
+Guess they broke up.
+So there's supposed to be something the Imperator<03e0>sealed out in the great swamp... Problem is, the seal's<03e0>broken. Could be the entrance to some other world...
+That's the latest scoop, anyway!
+Some things are just meant to be left alone...<03e0>No need to be bringing all this up now, right?
+Monsters are popping out of it!
+There's a Forest Maiden who's so attuned to<03e0>the Knight she's bound to, she can like, see through<03e0>his eyes or hear things he's heard.
+That's the latest scoop, anyway!
+I'm bound to you, so let's go take a vacation!<03e0>Hmm? You really want to go now, yes?
+No! Go by yourself!
+The Forest Maidens and the Order of Melphina<03e0>are mobilizing... Seems something's happened to<03e0>the Last Leaf in Crookfen.
+That's the latest scoop, anyway!
+Whatever. If monsters want it so bad,<03e0>let them have it.
+Irresponsible, much?
+It's almost time for Kosmosfest! But apparently<03e0>the Cosmos Maiden hasn't made it to Nagapur yet.<03e0>Seems like maybe she's in trouble...
+That's the latest scoop, anyway!
+Why don't they just get a substitute maiden?
+Do they have one?
+So the Cosmos Maiden made it, and they started<03e0>the Kosmosfest alright. Usually nothing much happens,<03e0>but this time it was interrupted by monsters.
+That's the latest scoop, anyway!
+Why not just let the monsters join in?
+If it's a fighting festival, sure!
+Some old-fashioned-looking woman is looking to hire<03e0>bodyguards, I hear. She's supposed to be hanging<03e0>out at the pub near the canal.
+That's the latest scoop, anyway!
+Hmm. There's a canal here in Celapaleis, but<03e0>something makes me think this girl is in some<03e0>other town.
+Wait, what? We have a canal?
+Hey, are you into antiques?<03e0>Apparently a lot of the treasures of the Old<03e0>Kingdoms are turning up on the black market.
+That's the latest scoop, anyway!
+Ah, you picked up some things from Undelwalt a while<03e0>back, didn't you... So, were those from the black market?
+Ack! They were from the pub!
+Some guy is looking for these three stones that're<03e0>really important to the desert.<03e0>Historically significant, or something.
+That's the latest scoop, anyway!
+Ah, maybe I can help out.<03e0>I've tossed around plenty of rocks.
+Not the ones here, special ones!
+Some guy into ancient magick is looking for people to<03e0>help out with his research. Seems he's on the verge<03e0>of making some huge discovery.
+That's the latest scoop, anyway!
+Sounds boring. I'll pass.
+Okay!
+Apparently some monster sealed by the Imperator<03e0>has appeared. It's really got people spooked, saying<03e0>it's the end of the world, and all.
+That's the latest scoop, anyway!
+Well...c'est la vie.
+That's so harsh...
+Some amnesiac is wandering around the cities in<03e0>the desert, looking for something that could<03e0>regain his memory.
+That's the latest scoop, anyway!
+He should concentrate on making new memories,<03e0>not finding old ones.
+Oh! That's surprisingly moving...
+Recently people've been seeing this infamous bandit<03e0>around Athlum. Apparently he's waiting around for<03e0>someone but no one's brave enough to ask who.
+That's the latest scoop, anyway!
+An infamous bandit? ...It couldn't be Loki, could it?<03e0>Goodness, what has Athlum come to?
+Loki? Never heard of him.
+There's a goddess statue in the Robelia Ruins that'll<03e0>let you find someone, no matter how far away they are.<03e0>Some kid looking for his sister is interested in it...
+That's the latest scoop, anyway!
+Say you've a statue like that while fighting through<03e0>a love triangle...<03e0>What happens then?
+Go halfsies?
+Some weird...thing's been lurking around Celapaleis,<03e0>giving people the willies.
+That's the latest scoop, anyway!
+Ah<07f0>I've seen it! Ugh, it was terrible...
+It was cute!
+There's a murderer on the loose in the capital!
+That's the latest scoop, anyway!
+I hope they catch him as soon as possible...
+Me too. Ooh, scary...
+There's some massive yama looking for stuff...<03e0>But he's kinda out there so people've been trying to<03e0>keep out of his way.
+That's the latest scoop, anyway!
+It's best not to associate with people like that.
+Yeah, I guess...<03e0>I kinda feel bad for him though!
+Some white qsiti's been looking for a magickal book.<03e0>People seem to think he looks familiar, but no one's<03e0>been able to place him.
+That's the latest scoop, anyway!
+Magick...that's that ancient, strange power, right?<03e0>It can't be learnt without a lot of study.
+I want ancient powers! But I don't want to study...
+There're these twins that've turned up as mercenaries<03e0>lately...good ones, too. The one girl is supposed to be<03e0>a real cool customer<07f0>both in looks, and in attitude.
+That's the latest scoop, anyway!
+Ahh, I wish I were a twin. Whenever I felt like ditching<03e0>work, I could switch off with her.
+You realize that when you're switching off, you don't<03e0>get paid, right?
+Some guy out in the Great Sand Sea's been looking for<03e0>challengers for some sort of game<07f0>but he seems<03e0>the type not to deal with regular people.
+That's the latest scoop, anyway!
+Well then, let's not deal with him, either.
+Works for me!
+Some old warrior's crossed the Great Sand Sea,<03e0>looking for a special sword.
+That's the latest scoop, anyway!
+No one can cross the Great Sand Sea alone.
+Huh? But what about this guy?
+The guards of Ghor have all sworn to follow their ruler<03e0>for as long as they live.
+That's the latest scoop, anyway!
+Men are fond of that sort of thing.
+Yeah... It's pretty cool, don't you think?
+The Honeywell family is known as a super-dedicated<03e0>family. Some say that with their support you can<03e0>do anything.
+That's the latest scoop, anyway!
+Like General Emma, right? I met her once when I was<03e0>a child. She was beautiful.
+She's pretty striking now!<03e0>But yeah, I wonder what she looked like when<03e0>she was young.
+Apparently Athlum's General Torgal is supposed to<03e0>have some things in his past that're coming back to<03e0>haunt him. Stuff's supposed to be going on in Royotia...
+That's the latest scoop, anyway!
+Torgal is that sovani, yes?<03e0>For a sovani to serve a mitra, something significant<03e0>must have happened in his past...
+Huh... Do you think he owes money?
+It's about time for the Tournament of Heroes to start<03e0>up again. It's pretty well-known among the types with<03e0>fighting spirit.
+That's the latest scoop, anyway!
+Ooh, those sorts of things are not for me.
+But I bet I'd be okay, right?
+Apparently there's some mystic academy that's been<03e0>spitting out skilled magi for years.
+That's the latest scoop, anyway!
+Come to think of it, how's your homework<03e0>coming along?
+It's...going? Sort of? Not really?
+Athlum's been going through some tough times, and<03e0>people are worried about the new matriarch of<03e0>the Honeywell clan because she's so young.
+That's the latest scoop, anyway!
+I think she'll be fine.<03e0>She's a carbon copy of General Emma.
+Huh, so the young General Emma looked just<03e0>like General Emmy!
+Recently there's been gossip about Lord David's<03e0>love interests...or lack thereof.<03e0>He's never been connected with anybody.
+That's the latest scoop, anyway!
+Really? I could swear there was that one person<03e0>a while back...
+What? What? Really?<03e0>If you know something, you've gotta dish!
+The old head of the Academy's been seen in pubs<03e0>across the continent lately. I guess it stands to reason<03e0>she'd want to drown her sorrows after what happened.
+That's the latest scoop, anyway!
+Really, what people should be asking is why she was<03e0>in charge of the Academy in the first place...
+The whole thing's pretty fishy.
+Dr. Sykes has been seen going in and out of Athlum<03e0>Castle lately. Maybe there's been some new discovery!
+That's the latest scoop, anyway!
+I heard that their son was staying at Athlum Castle.
+Oh, guess he volunteered for the army, huh.
+Some unidentified flying object's been spotted<03e0>swooping around Wyrmskeep.<03e0>It's totally been freaking everyone out...
+That's the latest scoop, anyway!
+It's...not going to come around here, is it?
+If it does, let's catch it!
+Some hot-blooded female warrior is trying to hunt<03e0>down that group causing trouble in Crookfen.<03e0>But it's against her boss's wishes...
+That's the latest scoop, anyway!
+Hunt them down...but for whose benefit?
+Yeah...<03e0>Sounds like she's doing it for herself more than<03e0>anything...
+Some monster army's appeared in the Great Sand Sea.<03e0>They're so powerful that everyone in Balterossa<03e0>is totally in despair...
+That's the latest scoop, anyway!
+Goodness! What could possibly be going on?
+Is the desert really gonna be okay?
+According to ancient historians, there's something<03e0>dangerous enough to destroy entire cities sealed<03e0>within the volcano...
+That's the latest scoop, anyway!
+And this has been kept secret all this time?<03e0>Why not tell everyone?
+I guess they were hoping it'd stay sealed so it<03e0>wouldn't matter.
+No one knows anything about the stuff going on inside<03e0>the volcano, nor does anyone know how to find out...<03e0>But, the Marquis of Royotia might have some ideas...
+That's the latest scoop, anyway!
+Certainly the Marquis will have some sort of plan.
+Wonder what it is? Probably "kill it with fire"!
+You know there's a town without anyone running it?<03e0>The old ruler's sons are fighting over the seat of power.
+That's the latest scoop, anyway!
+Obviously they should just both rule.
+If not, I'll do it!
+When you're out in the desert, you can hear this sad,<03e0>lonely voice crying from beneath the Great Sand Sea.
+That's the latest scoop, anyway!
+Hey! You know I don't like those sorts of stories...
+But it's interesting, don't you think?
+A long time ago, there used to be a famed hero that<03e0>lived in the Great Sand Sea.
+That's the latest scoop, anyway!
+Right, right.<03e0>We know that the majority of what you say is<03e0>completely made up.
+It is not!
+So I was walking through town and heard this guy all<03e0>"you gotta believe me! If you look at the pillars in<03e0>the Great Sand Sea, then...g-g-gra<07f0>!"
+That's the latest scoop, anyway!
+Hey! Enough with all that, already!
+But it's funnn!
+Some crackpot old scientist has been wandering<03e0>around Melphina. If you go over there, you probably<03e0>should stay away, he's giving people strange looks.
+That's the latest scoop, anyway!
+What sorts of things could he want people for?
+To experiment on them, I guess...
+The cafe out in Baaluk's supposedly infested with<03e0>bugs...they followed the guy all the way from the desert.
+That's the latest scoop, anyway!
+And they still get customers?
+They're totally gonna lose their restaurant license!
+Nagapur's been increasingly unsafe. Just recently<03e0>another bunch of kids have gone missing...
+That's the latest scoop, anyway!
+Kidnappings... Something like that was going on<03e0>in Athlum recently, wasn't it...
+Oh yeah, General Blocter busted the group, right?<03e0>Wonder if these are the same guys?
+Adventurers have gotten into trading the different<03e0>treasures they find on their trips. Apparently,<03e0>Royotia's the main hub for the fad.
+That's the latest scoop, anyway!
+I'd never heard of that... Where is all this going on?
+If they're using trade routes, probably mainly between<03e0>Balterossa and Royotia, I'd say.
+Royotian merchants are getting frustrated with<03e0>Balterossa...they control all of their trade goods.
+That's the latest scoop, anyway!
+Definitely! Royotian things only get here after<03e0>passing through Balterossa and Elysion, so they're<03e0>always incredibly expensive!
+It'd be a lot easier if they came straight here,<03e0>you know?
+Some yamaan mercenary's out looking for a partner.<03e0>Could be a good way to make a few G.
+That's the latest scoop, anyway!
+A mercenary hiring other mercenaries?
+That's a pretty conservative yama, huh.
+Some guy with a hot-and-cold personality's just<03e0>shown up in Celapaleis. He'll seem really sweet and<03e0>then suddenly turn rough at the drop of a hat.
+That's the latest scoop, anyway!
+That's one of our customers, yes?
+Yeah... He looked really sad, too...
+There's some crazy qsiti going to crowded places and<03e0>standing in the way, and then picking fights with<03e0>people who run into him. What an annoyance...
+That's the latest scoop, anyway!
+People like that tend to feel hurt more easily than<03e0>others...
+Really? I figured they were just annoying.
+So, a guy was telling me about this mysterious<03e0>woman he saw. He said she looked like she had<03e0>the whole world on her shoulders...
+That's the latest scoop, anyway!
+Ahh, I want some men to hit on me, too...
+Ehh? That kind of guy is absolutely the worst!
+You've probably seen them if you've gone to<03e0>Crookfen, but Bloody Alice has been gathering.<03e0>Looks like something big's going on...
+That's the latest scoop, anyway!
+Ooh, they're the ones stealing things across<03e0>the continent, right?<03e0>Someone needs to hurry up and catch them already!
+Definitely!
+Seems the Jhana have been popping up in the Great<03e0>Sand Sea. You wouldn't think they'd have forgotten<03e0>being blasted by the Gae Bolg already...
+That's the latest scoop, anyway!
+I've heard the Silver Falcons were already moving to<03e0>drive them back.
+Yup! They're helpful for sure!
+Recently the Silver Falcons took out a pack of Jhana.
+That's the latest scoop, anyway!
+Thank goodness! The Silver Falcons seem to be<03e0>the only ones we can depend on these days...
+Someday, I want to join!
+The Silver Falcons have been going after what's left<03e0>of the Conqueror's army.<03e0>Who knows what those guys could be up to...
+That's the latest scoop, anyway!
+Conqueror? What is he?
+He's really strong, for one!
+Some gloomy-looking guy's been hanging around<03e0>the pub in Elysion recently...bumming everyone out.
+That's the latest scoop, anyway!
+All sorts of people gather in Elysion...seems like<03e0>it could be a little alarming.
+Plenty of underground stuff, if you know what I mean!
+

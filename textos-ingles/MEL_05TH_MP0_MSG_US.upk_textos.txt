@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+You must be the young man helping out with the crises around<03e0>town. I am Olebeag, Lord of Melphina. Speaking for all of us<03e0>here, I would like to extend my thanks.
+I am Olebeag, Lord of Melphina.<03e0>Welcome.<04e0>Our town may be small and remote, but for academic<03e0>or mystic studies, there is no better place on the<03e0>continent.
+I've lost control of my body of late.<04e0>It's as if some great power is trying to take<03e0>over me... It is truly an unpleasant feeling.
+I have fallen ill and I need rest.<03e0>I apologize, for you have come such<03e0>a long way to get here.
+Young Sykes. It is good to see you again.<04e0>You have Roberto and my gratitude for the aid<03e0>you've provided the Order.<04e0>Please, stay in our town and rest your weary bodies.
+Young Sykes. It is good to see you again.<04e0>I cannot express fully enough my gratitude for<03e0>the risks you've taken for Melphina.<04e0>You are indeed the hero of this town.
+The Blue Elf is our treasure.<03e0>However, nothing is of more importance than<03e0>one's life.<04e0>We shall immediately hand over the Blue Elf<03e0>to save the life of the Forest Maiden.
+I am Olebeag, Lord of Melphina.<03e0>Our town may be small and remote, but we welcome you<03e0>all the same.
+My health has failed me of late...<03e0>I must say, it is quite bothersome.
+I am Roberto, commander of the Order of Melphina.<03e0>Seek me out if ever you are interested in joining us.
+Meister Olebeag...<03e0>Was that there were a way I might ease your suffering...
+Meister Olebeag!<04e0>I hate to see you in such a state! If only I could<03e0>sacrifice myself and rid you of the pain you suffer!
+Master Sykes, welcome to our humble town.<04e0>Had it not been for your aid, this town may have fallen.<04e0>Would you consider joining the Order?
+Meister Olebeag, I beg for your forgiveness!<03e0>To think that we of the Order were unable to<03e0>prevent this from happening...<04e0>I have never felt so powerless...
+Master Sykes... If it pleases you, I would give you this key<03e0>to Siebenbur. We will have no more use for it...
+Welcome, traveler.<03e0>I am Marsha, the leader of the Forest Maidens.
+Meister Olebeag is in a terrible state... I'm very worried.
+There's a strange power that surrounds Meister Olebeag.<03e0>It feels heavy and strange and...wrong.<04e0>Who could be behind this?
+Sir Rush, I'm so glad you could come.<04e0>Thanks to you, we were able to replace the seal.<03e0>As the leader of the Forest Maidens, I extend<03e0>our gratitude.
+If it weren't for you, Roberto and I might have met<03e0>our end.<04e0>You're Melphina's hero.<04e0>The girls of the Forest Maidens are giggling about how<03e0>they all want you to be the one they pledge their lives<03e0>to.
+I see you have a parfumlily. Its scent<03e0>has a calming effect. It's useful for<03e0>when you're feeling troubled.
+Are you worried about something?<03e0>Have you heard of the parfumlily flower?<03e0>Its smell is very relaxing.
+The fiends after the Blue Elf were able to escape.<03e0>We chased them to the Numor Mines, but once there,<03e0>they skittered into the shadows like the rats they are.<04e0>Ooh, to think they roam free...
+Well met, Master Sykes.<04e0>You have played a big part in helping Melphina through<03e0>exceedingly trying times. You have my eternal gratitude.
+Hrm...<04e0>Oh...Master Sykes. I did not notice you there.<03e0>My apologies.<04e0>Of late, I've found myself heavily pondering the life I<03e0>have led, and questioning the choices I have made...
+I have been heavily pondering my way<03e0>of life of late.
+Nothing can stop the march of time. Likewise, the fact<03e0>that my body grows weaker with age is inevitable.<04e0>Soon comes the day I must pass the torch to a young<03e0>knight, so that they may lead the Order.<04e0>There are many young, promising knights in Melphina.<03e0>Even with my departure, the Order will stand strong.<03e0>Truly, there is no reason for me to hold any doubts...
+The day I pass leadership of the Order of Melphina on to a<03e0>younger knight is not far off.
+Master Sykes, if I may have your ear for a moment...<03e0>Have you ever questioned your existence<07f0>your<03e0>life's purpose?<04e0>From the moment I made my pledge with Marsha, I have<03e0>given my all to the Order. Everything I have done,<03e0>every action I have taken, has been to protect Melphina.<04e0>Without my knighthood, I fear I may become lost, knowing<03e0>not what to do with my life.<04e0>These thoughts haunt me endlessly of late...
+Without my knighthood, I fear I may become lost...<03e0>These thoughts haunt me endlessly of late.
+All my life, I have done my utmost to be a worthy leader<03e0>of the Order of Melphina, and use that position to protect<03e0>our lands from any threat.<04e0>However, meeting you has given me a second purpose.<04e0>Endless wars rage on in our world. From now on, I must<03e0>think of helping not only Melphina, but the entire<03e0>world.<04e0>Even if frailty of body leads me to give up knighthood, I<03e0>will never discard the values I have lived by. I will<03e0>continue to serve the world in whatever capacity I can.<04e0>To that end, I would be honored if you allow me to<03e0>continue to accompany your troupe.
+Greetings.<04e0>Even as I give up knighthood, I will continue<03e0>to serve the world as I have been.
+

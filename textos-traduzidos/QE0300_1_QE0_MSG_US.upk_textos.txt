@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0300_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hello, traitor.
+Allan.<03e0>We have not talked in 80 years,<03e0>and that is how you greet me?
+It has only been 80 years.<03e0>You have gotten too used to the mitra way.<03e0>80 years is but a mere minute for us, fool.
+You've always grown hostile when you needed to ask<03e0>a favor. What is it?
+Hah!<03e0>I would never ask you for anything.
+A group of armed soldiers has appeared, calling<03e0>themselves the Steel Syndicate. They need to be<03e0>disposed of. Now.<04e0>I assumed you would want to tag along.
+I see.<03e0>Most certainly something must be done about them.<03e0>Rush, will you lend a hand?<06e0000008e0000000000000>Of course!<09e008e0010000000300>Nah, not right now.
+I appreciate it.
+Hmph!<03e0>Asking a mitra for help...<04e0>I'll be waiting at the <1be0ffbe34ff>Gaslin Caves<1ce0>.
+Hmph.
+How the mighty have fallen, Torgal. I'd think that you<03e0>of all people would know that mitra are selfish and<03e0>cannot be trusted.
+This new "Steel Syndicate" needs to disappear.<03e0>Don't keep me waiting long.
+Will you lend a hand?<06e0000008e0000000000000>Of course!<09e008e0010000000300>Nah, not right now.
+Your assistance is appreciated.
+Hmph!<03e0>Asking a mitra for help...<04e0>I'll be waiting at the <1be0ffbe34ff>Gaslin Caves<1ce0>.
+Hmph.
+Hah!<03e0>Mitra are selfish and cannot be trusted, Torgal.
+I only have myself to blame for the arrogance<03e0>of these mitra.
+Before Athlum was ruled by David, Torgal was<03e0>taken in as a general to commend his contribution<03e0>for maintaining public order and peace.<04e0>But I believed that we could bring peace<03e0>to the whole world, not just Athlum.<04e0>The Steel Syndicate grew, but gained nothing<03e0>but useless soldiers in it for the fame.<04e0>And now they've become an uncontrollable<03e0>group of violent warriors slaying everything in<03e0>sight, justifying it by throwing around the word "justice."
+Torgal forcefully disbanded the organization,<03e0>but its soul lives on.<04e0>To the triflingly short-lived mitra,<03e0>50 years is enough for ideology to<03e0>become legend<07f0>to become convention.<04e0>My duty is to destroy it all.
+There are also realist organizations<03e0>like the Silver Falcons.<03e0>Race makes no difference in this matter.
+But don't forget<07f0>the leader of<03e0>the Silver Falcons is a sovani.
+Organizations change with time.<03e0>Who knows what the Silver Falcons will become?<03e0>Sovani live longer. That's all.
+You were always a strange one.<03e0>The sovani way is to not care about others.
+I could say the same to you.
+Hmph.<03e0>I merely like the taste of blood.<03e0>I have no interest in political matters.<04e0>But I suppose I owe you.<03e0>If you ever need anything, come<03e0>to the guild.
+

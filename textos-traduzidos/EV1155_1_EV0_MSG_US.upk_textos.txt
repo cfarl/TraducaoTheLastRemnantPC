@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1155_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+The tracking Remnant says something's here?
+Yes. I can feel it...
+Who's there?
+How beautiful... You destroyed them<0fe003e00ee0>so beautifully, all for my pleasure.
+Ohh, my poor, poor subordinates.<0fe003e00ee0>Certainly, they were far too incompetent<1ae0000056430fe005e001000ee0>to stop you, but at least they showed me<0fe003e00ee0>a magnificent death.
+Yes, death is the peak of perfection!<1ae00000c8420fe005e001000ee0>The only thing that comes close to<0fe003e00ee0>rivaling me!!!
+But now I must deal with you swine.<1ae00000b4420fe005e001000ee0>You come covered in dirt and grime,<0fe003e00ee0>reeking of sweat, crashing in here like<1ae000001a430fe005e001000ee0>some rabid beast, trampling in here with<0fe003e00ee0>your shoes on!
+And what's more, you've done all that with<0fe003e00ee0>the intent of disrupting the Conqueror's<1ae0000020430fe005e001000ee0>glorious goals! Agh, you are<0fe003e00ee0>the embodiment of all things hideous!
+Dirty, tainted beings like you can only benefit<0fe003e00ee0>from a cleansing...by Snievan, the Aesthete.<1ae0000079430fe005e001000ee0>You'll bathe in a river of your own blood!
+They're with the Conqueror?<0fe003e00ee0>And with Hermeien as well?
+Deal with it later, Dave<07f0>he's coming!
+

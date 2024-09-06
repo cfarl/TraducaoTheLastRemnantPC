@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0060_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Sir Rush...<03e0>Might I have your ear for a moment?<04e0>It really seems as if Balterossa and Royotia shall go to<03e0>war. Already we strengthen our armies...
+For a long time, Royotia has tried to build its<03e0>own trade routes, independent of Balterossa's<03e0>involvement.<04e0>But Mother is strongly opposed to this.<04e0>Royotia seems blind to the trials of not only<03e0>creating a major trade route, but protecting it<03e0>from bandits and beasts who would attack it.<04e0>For them to even attempt to enforce a level of<03e0>security on the road would take countless lives.<04e0>Yet through the blessing of the Tao Tie,<03e0>Balterossa can and has kept the Great Sand Sea<03e0>under control for years.<04e0>I agree with Mother... It is best for everyone<03e0>if Royotia continues to use our roads.<04e0>But Royotia refuses to accept this, and guerilla<03e0>insurgency in Balterossa has spread...<03e0>Mother is certain it is officially sponsored.<04e0>But, to go to war with Royotia without any solid<03e0>evidence...
+Tell me, Rush.<03e0>Is this war truly necessary?<03e0>Will no one try to stop it?<06e0000008e0000000000000>There might be one guy...<09e008e0010000000000>It sucks, but nope.
+Oh<07f0>Paris...<03e0>Yes, if he... If we can<07f004e0>Sir Rush...<03e0>Will you assist me in a task?<03e0>I need to stop this war!<06e0000008e0000000000000>Don't gotta ask me twice!<09e008e0010000000300>Like I can stop a war...
+Thank you so much. Yes...I shall go to <1be0ffbe34ff>Royotia<1ce0>!<03e0>Paris is the son of the Marquis. Surely he can<03e0>do something!
+No...I cannot believe it!
+No<07f0>I cannot accept that!
+Sir Rush! Thank you for all your help.<04e0>Mother and Lord Priam listened to our pleas.<03e0>They have agreed to end the fighting.<04e0>However, she refuses to even discuss the issue of the<03e0>conspirators. It seems that whoever was behind all this<03e0>will remain unknown.<04e0>Relations between nations are naught but a clumsy<03e0>dance of interactions complicated by countless outside<03e0>influences... Truly, politics is a trying thing.<04e0>Still, I am very thankful to Mother as well as<03e0>Lord Priam for reaching a compromise.
+I would like you to have this.
+Now I shall bid you leave. If you are ever again in<03e0>Balterossa, I am your humble servant.<04e0>Paris has also sworn to help you if you are ever in<03e0>need of a swordsman. But...<04e0>Do not let him face too much danger, if you please...<03e0>I would be rather vexed if he returns in more than one<03e0>piece.
+

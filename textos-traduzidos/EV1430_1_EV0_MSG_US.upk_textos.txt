@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1430_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+What's wrong?
+I can't bind it.
+The Conqueror's doing, huh?
+I think so.
+So we've come here for nothing!?
+There must be another way to the Sacred Lands.
+We will find a way, Lord David.
+There are many undiscovered Remnants<0fe003e00ee0>in existence.<1ae00000f0420fe005e001000ee0>We simply need to find one that<0fe003e00ee0>can take us there.
+Will it really be that simple?<0fe003e00ee0>We're running out of time!
+We can't just roll over and give up, Dave!
+Let's move!
+

@@ -1,0 +1,29 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) FIELD_COMMON_MSG
+-- ----------------------------------------------------------------------------------
+A general test message.<03e0>TEST TEST TEST
+It has lost power.
+This is a field message test.<03e0>Can you read this? Is it within the pixel<03e0>limit? And now watch this message disappear.
+It is an extremely steep slope.<03e0>Proceed?<06e0000008e0000000000000>Cowabunga, baby!<09e008e0010000000300>I don't think so...
+The slope is too steep and slippery<03e0>to climb.
+The door is sealed tightly with Remnant power.
+The door is sealed tightly with Remnant power.<03e0>Bind the Key Remnant?<06e0000008e0000000000000>Let's do it.<09e008e0010000000300>Nah, I don't think so.
+The seal has been broken.
+The door is sealed tightly with Remnant power.<03e0>The appropriate Key Remnant is needed.
+The door is sealed tightly with Remnant power.<03e0>Bind the Key Remnant?<06e0000008e0000000000000>Ready steady.<09e008e0010000000300>Gimme a minute...
+Go to World Map?<06e0000008e0010000000000>Let's move!<09e008e0000000000300>Let's not.
+Use the Teleporter?<06e0000008e0010000000000>Let's try it out.<09e008e0000000000300>Let's not...
+The Teleporter cannot be bound or activated<03e0>until all requirements are fulfilled.
+Alert!<1ce003e0>A strange liquid sprays<03e0>the area.
+Alert!<1ce003e0>A loud sound echoes throughout.
+Alert!<1ce003e0>Rush is sprayed with a strange liquid.<03e0>The stench wards off even monsters.
+Alert!<1ce003e0>Rush is sprayed with a strange liquid.<03e0>The aroma seems to charm monsters.
+Alert!<1ce003e0>Rush is sprayed with a strange liquid.<03e0>The smell seems to aggravate monsters.
+Alert!<1ce003e0>Mr. Diggs is sprayed with a strange liquid.<03e0>Its Digs Count decreases by one.
+Alert!<1ce003e0>Mr. Diggs is sprayed with a strange liquid.<03e0>Its Digs Count is fully restored.
+Alert!<1ce003e0>A loud sound echoes throughout<03e0>and angers nearby monsters.
+Alert!<1ce003e0>The monster unleashes a special attack.<03e0>Rush is unable to run.
+Alert!<1ce003e0>The monster unleashes a special attack.<03e0>Rush is unable to move from the spot.
+Alert!<1ce003e0>The monster unleashes a special attack.<03e0>Rush is unable to perform any actions.
+Alert!<1ce003e0>The monster unleashes a special attack.<03e0>Rush is paralyzed.
+

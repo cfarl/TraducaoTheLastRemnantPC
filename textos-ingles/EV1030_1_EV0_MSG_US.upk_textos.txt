@@ -1,0 +1,25 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1030_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome back, Lord David.
+I trust everything's gone smoothly here?
+No problems, my lord.
+Rush!
+Glad you're finally back, Rush.
+Good to be back!<0fe003e00ee0>Something going on?
+Hey, Rush.
+Dad!?
+Since when were you awake?
+It hasn't been very long.
+I figured I'd surprise you.
+Sorry for making you worry.
+No... I'm just really glad you're okay.
+I suppose this means you were able to<0fe003e00ee0>dispel Wagram's magick.
+Hmm.
+Rush. I need you.
+Sorry, Dad. I can't stay and chat.<0fe003e00ee0>We'll catch up later, okay?
+Rush...
+Um, there's something I wanted to<0fe003e00ee0>ask you...
+Sorry, kiddo, can it wait?
+Um, yeah, I guess.
+

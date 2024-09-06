@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Yes, I am Alyssa of Baaluk. Who are you to ask?
+Hmm... So you're looking to trade for the<03e0>Ring of Morning Calm, are you?<04e0>Well, I'm sorry to say, after ending up with a<03e0>false treasure map, I believe I'm finished with<03e0>the practice of item trading.<04e0>However, I would allow you to purchase it for<03e0>10,000G.<06e01900>sEVENT_PRICE_QE1020_P_030<08e0000000000000>Fine... I'll pay.<09e008e0010000000300>Overpriced much?
+Your business is appreciated...as is your coin.<04e0>And you were tasked to get this by a man<03e0>named...Rainn?<03e0>I see...
+Sorry, it seems you're a bit...short.
+Then, you will not get the Ring. I believe I told<03e0>you I'd had my fill of this barter system.
+A treasure map?
+You mean, that false map to the Imperator's<03e0>treasure? It was nothing but a child's doodle.<04e0>Beauson, that bastard... He knowingly traded<03e0>me that piece of garbage<07f0>he'll pay for that!
+Where is the map now?
+I don't know about you, child, but I throw<03e0>garbage away.<04e0>It's probably fallen around here somewhere.
+Oh? He returned the Irised Stone?<04e0>Mmm... You can keep it. I received it in a<03e0>trade myself. I really have no need of it.<04e0>While you're at it, take this Ring of Morning<03e0>Calm. I sold it to you, and yet somehow it's<03e0>come back into my possession.
+Do you need something?
+So, a "Rainn" requested this?<03e0>Curious...
+

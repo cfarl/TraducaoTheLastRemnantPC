@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0020_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+My wife has been gone for ages.<03e0>She's most likely gone to see the Liafort again.<04e0>She does this to me all the time.
+Young man, might I ask a favor?<03e0>My wife has wandered off to the <1be0ffbe34ff>Ivory Peaks<1ce0>.<03e0>Bring her back and I will reward you.<06e0000008e0000000000000>Sure, why not?<09e008e0010000000300>Nah, sounds like a hassle.
+Thank you, young man. Off you go.
+Hmph.
+I ask you again.<03e0>My wife has wandered off to the <1be0ffbe34ff>Ivory Peaks<1ce0>.<03e0>Bring her back and I will reward you.<06e0000008e0000000000000>Sure, why not?<09e008e0010000000300>Nah, sounds like a hassle.
+Thank you, young man. Off you go.
+Hmph.
+Well?<03e0>I see you haven't found her yet.<06e0000008e0000000000000>I was just about to go get her.<09e008e0010000000300>Calm down. Maybe later.
+Why are you still here?<03e0>Off you go!
+What a rude young man you are!<03e0>Off with you!
+Thank you. Violet has finally returned to me.<03e0>...Although she's kept herself locked in her room<03e0>since she came back.<04e0>I understand her frustration regarding her family's<03e0>situation, but she must understand that no dynasty<03e0>lasts forever.<04e0>Enough of my ramblings.<03e0>Here is your promised reward.
+Till we meet again.
+

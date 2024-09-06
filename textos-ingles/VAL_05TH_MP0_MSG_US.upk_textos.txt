@@ -1,0 +1,37 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Well met, traveler.<03e0>I have heard tales of what you've done.<04e0>I am grateful for your service to Balterossa.<03e0>I look forward to your further exploits.
+Welcome, traveler. You have done well to<03e0>make your way through the great desert.<03e0>I am Bertrude di Balterossa.<04e0>I trust you've visited our market?<04e0>I am certain you'll be impressed by the various<03e0>rare items offered for sale there.
+Lately it seems my body will not agree to my<03e0>spirit's wishes... It's almost as if some strange<03e0>power tries to control me...<04e0>Th-this wave...could it be...
+Forgive me, but I must rest. If your dealings<03e0>can wait, then please return later.
+I give my thanks for all that you've done.
+However, I will not be revealing the details of<03e0>this plot to the public. I have my own idea of<03e0>the culprit. Now, to spin a web to catch them...
+My daughter has made the right choice in<03e0>returning to me. I will not accept her dallying<03e0>with that man.
+In the end the incident with Royotia came to a...touching<03e0>conclusion. Certainly, using the two of them required more<03e0>than a little care.<04e0>Nevertheless, in the end it became a good bargaining chip.
+You have my thanks for your hard work.<03e0>Without your assistance, Balterossa would truly have<03e0>no future.
+Welcome, traveler. You have done well to make your way<03e0>through the great desert.<03e0>I am Bertrude di Balterossa...
+Recently my body has felt dull and sluggish...<03e0>Never before have I experienced such fatigue.
+I am Charlotte, the heir to Balterossa. It is a<03e0>pleasure to make your acquaintance.<04e0>If you've any questions about this land,<03e0>please do not hesitate to ask.
+Mother's face looks so pale and drawn these days...
+My mother's illness has lasted for a long time.<03e0>It seems as if there's nothing I can do for her...<04e0>Just waiting and watching while she suffers so<03e0>is too much for me to bear.
+I am sorry I've caused Mother such trouble.<03e0>Yet Paris is a wonderful man...
+Mother only wants what's best for me. She<03e0>raised me herself... I cannot betray her trust.<03e0>If only he could understand...
+Did you hear?<03e0>Mother has allowed Paris and I to court!
+I heard it was a terribly harsh battle...<04e0>There are no words to express how thankful I am<03e0>for what you've done.
+You stand before the Lady Bertrude!<03e0>Mind your manners.
+I'm almost certain I've seen the man Lady<03e0>Charlotte was meeting before... If only I could<03e0>remember where?
+Lady Bertrude is quite stoic about it, but this<03e0>business with her daughter really pains her.
+Sometimes I believe ignorance really is bliss...<03e0>Especially in things political...
+Sir Rush. Well done on the battlefield.
+You stand before the Duchess of Balterossa!<03e0>Watch your tongue.
+The Duchess was at her wits' end while the<03e0>Lady Charlotte was away.
+Thank heavens, the Lady Charlotte has returned<03e0>safely. The Duchess is very relieved.
+It seems the Royotian Guard suffered many losses.
+I hope to become more like you, Sir Rush.
+You are in the presence of Lady Bertrude of<03e0>Balterossa! Mind your manners.
+Lady Charlotte often goes to have her fortune<03e0>told. It seems to bring her great happiness.
+To think, the Lady Charlotte was exposed to<03e0>such danger... This is a blight to the honor of<03e0>Balterossa.
+Sir Paris will be the next Marquis of Royotia.<03e0>I can't begin to imagine the pressure Lady<03e0>Charlotte faces.
+It is difficult work, bringing the desert's past to light,<03e0>but I believe a brave and determined youth like<03e0>you could find the whole truth.
+

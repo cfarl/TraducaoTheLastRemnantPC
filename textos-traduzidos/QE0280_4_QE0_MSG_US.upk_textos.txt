@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I have a message from Duke Ghor.<04e0>The Duke would like to speak with you regarding<03e0>Leithion's Sword.
+The Duke requests your presence.<03e0>Make haste to the <1be0ffbe34ff>Ghor Castle<1ce0>.
+

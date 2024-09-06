@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1070_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Wow, he's really late. Where did he go...?
+Oh, hello there. Sorry, I'm a little out of it...<04e0>You see, it's almost the anniversary of my sister's<03e0>death... Every year, I like to bring flowers to her grave<03e0>to mark the occasion.<04e0>But those flowers, <1be064f4ecff>animaquies<1ce0>, only grow in the<03e0>farthest depths of <1be0ffbe34ff>Darken Forest<1ce0>.<04e0>I'm not very strong and barely can get through the forest<03e0>alive. But a few years ago, this guy offered to pick them<03e0>for me, and he's been doing me the favor ever since.<04e0>It's taking him an awfully long time to come back with<03e0>the flowers this year, though. I'm getting worried that<03e0>something happened. I'm running out of time...<04e0>We've just met, but can I ask you a favor?<03e0>Can you find him for me?<06e0000008e0000000000000>Sure, I've got some time.<09e008e0010000000300>Just go buy her a bouquet.
+You'll go? Thank you!<03e0>I'm Rhagoh, by the way.
+What are you, some kind of idiot!?
+I hope that guy is okay. <1be0ffbe34ff>Darken Forest<1ce0> is a really<03e0>dangerous place. But I really need those flowers...<04e0>I don't have a good feeling about this.<03e0>Please find him.
+I'm running out of time... I sent someone to bring me<03e0>flowers for my sister's grave, but he's still not back...<03e0>Can you go to <1be0ffbe34ff>Darken Forest<1ce0> and see if he's okay?<06e0000008e0000000000000>Sure, I've got some time.<09e008e0010000000300>Go pick the flowers over there.
+You'll go? Thank you!<03e0>I'm Rhagoh, by the way.
+What are you, some type of idiot!? <1be064f4ecff>Animaquies<1ce0> put the<03e0>souls of the dead to rest. No other flower can do that.<04e0>If you don't have any idea what you're talking about,<03e0>then just keep your fat mouth shut!
+You got them!<03e0>Rush, thank you so much!<03e0>Just in time, too.<04e0>So did you find...?<04e0>...<03e0>Oh, I see...<03e0>He was attacked by a monster...<04e0>I actually didn't know him very well. I never knew why<03e0>he was willing to bring me those flowers from such a<03e0>dangerous place.<04e0>I wish I had gotten to know him better.<03e0>He seemed like a good man.<04e0>Well, I should be off.<03e0>I should visit her grave before the day...
+What!?<03e0>You saw a woman who fits Kate's description<03e0>in the depths of Darken Forest?<04e0>That's ridiculous...<03e0>How is that possible?<04e0>Thank you for the tip.<03e0>I'll look into it right away.<04e0>Come around to the guild if you ever need<03e0>some help. I'm not the best fighter, but I'll do<03e0>whatever I can.<04e0>Goodbye!
+There was no one in <1be0ffbe34ff>Darken Forest<1ce0>?<03e0>Hmmm...<04e0>I don't want to seem pushy, but will<03e0>you go back there again? I know there's<03e0>something going on there...<06e0000008e0000000000000>Alright, alright.<09e008e0010000000300>Again? No thanks.
+Thank you! I knew you would help<03e0>me out.
+I don't have time to play games!
+

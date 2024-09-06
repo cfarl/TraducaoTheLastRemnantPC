@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+I forbid anyone to oppose the Conqueror<07f0>unless you<03e0>wish to be branded a traitor.<04e0>This goes for everyone.<03e0>You have been warned.
+Be off.<03e0>The truth you seek lies beyond.<04e0>Do I sense fear from you?
+As His Majesty desires...
+As His Majesty desires...
+Use the teleportation device?<03e006e0000008e0000000000000>Yep!<09e008e0010000000300>Maybe later.
+

@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0070_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+We seek the Remnant Last Leaf. Its broken<03e0>seal is surely the source of this wicked wind.
+If we can stem the tide of that evil, the prayers<03e0>of the Forest Maidens should reach the Remnant<03e0>and restore the seal.
+Time is of the essence. Let us make haste!
+We were able to complete the sealing ritual<03e0>without incident.<04e0>Without your assistance, Master Sykes, heaven<03e0>knows what could have happened...
+The seal is repaired, yet our wayward comrades<03e0>have yet to be found.<04e0>This weighs heavily on my mind... But for now,<03e0>let us return to Melphina.
+The seal seems very strong.
+The Remnant's seal is broken!<03e0>You are buffeted by a wave of dark energy!
+The wind...the flowers...<03e0>the unceasing flow of water...<04e0>In the name of the Remnant Last Leaf,<03e0>let the wicked souls of the dead be purified<03e0>and return to the heavens...
+Rush Sykes.<03e0>I truly thank you.<04e0>The Forest Maidens express the highest gratitude.
+

@@ -1,0 +1,21 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0050_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush! It's been quite a while.<03e0>I have another favor to ask of you.
+East of Balterossa, deep below the Great Sand Sea,<03e0>lives a very kind old seer.<04e0>Charlotte and I would appreciate it if you would<03e0>escort us to him.<06e0000008e0000000000000>No prob!<09e008e0010000000300>I'm kinda busy...
+I hate to involve you in our personal intrigues<03e0>yet again, but you have my gratitude.<04e0>Our parents refuse to acknowledge our love.<03e0>Throughout the time we've been kept apart,<03e0>we've communicated in secret.<04e0>But now...we are tired of all this cloak-and-dagger<07f003e0>keeping our true feelings in the shadows, as if<03e0>we are shamed by such a thing!
+We've decided to elope.<04e0>The seer has agreed to keep us for a short time.<03e0>Afterwards, we'll flee to some place far<07f003e0>somewhere we may be together.
+Let us make our way to <1be0ffbe34ff>the Great Subterrane<1ce0>.<03e0>You are the only man I can trust, Rush...<03e0>Know that I appreciate this.
+Understood.<03e0>Then return when you've finished your tasks.<03e0>I shall be waiting.
+Was all that happened just a product of the seer's<03e0>machinations? I...I do not know... I've nothing left<03e0>to believe in...<04e0>...At the very least, it's due to your assistance<03e0>that Charlotte is unharmed, Rush. My heart was<03e0>the only casualty...
+Forgive me, my mind wanders.<03e0>Here, a small token of my gratitude.
+They say that given enough time, a broken<03e0>heart becomes inured to the pain...<03e0>I suppose all I can do is wait...
+There is a seer that lives beneath the Great<03e0>Sand Sea. Charlotte and I ask that you<03e0>escort us to him.<06e0000008e0000000000000>Okey-doke!<09e008e0010000000300>I'm still busy...
+I hate to involve you in our personal intrigues<03e0>yet again, but you have my gratitude.<04e0>Our parents refuse to acknowledge our love.<03e0>Throughout the time we've been kept apart,<03e0>we've communicated in secret.<04e0>But now...we are tired of all this cloak-and-<03e0>dagger<07f0>keeping our true feelings in the<03e0>shadows, as if we are shamed by such a thing!
+We've decided to elope.<04e0>The seer has agreed to keep us for a short time.<03e0>Afterwards, we'll flee to some place far<07f003e0>somewhere we may be together.
+Let us make our way to <1be0ffbe34ff>the Great Subterrane<1ce0>.<03e0>You are the only man I can trust, Rush...<03e0>Know that I appreciate this.
+Understood.<03e0>Then return when you've finished your tasks.<03e0>I shall be waiting.
+Charlotte... She's been abducted by the seer we<03e0>trusted so... Please, we must rescue her at once!<06e0000008e0000000000000>Definitely! Let's go!<09e008e0010000000300>I'm kinda busy right now...
+You have my thanks.
+You are the only one I can depend on, Rush!
+

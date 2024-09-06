@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1090_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Maybe I shoulda waited in Athlum...<04e0>But now that I'm here...
+Huh?<03e0>Who are you!? What do you want?
+That letter!<04e0>What? This was handed to you by a lady mitra?
+I don't know any lady mitra...
+But thanks!<04e0>I was exchanging letters with someone very dear<03e0>to me, but the letters just stopped one day.<04e0>I wanted to meet them so bad...
+I should go back to Athlum.<03e0>Tell the lady mitra I said thanks!
+I wouldn't go that way if I were you.<03e0>It's too dangerous alone.
+

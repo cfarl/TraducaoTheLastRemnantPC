@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0250_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hello there, traveler... From the way you move,<03e0>I can see you know how to...handle a sword.<03e0>Mmm...just the type I've been looking for...
+My name is Hannah. I work as a hired blade,<03e0>along with my sister, Hinnah.<04e0>We were clearing out monsters from the ruins<03e0>to the southwest...<1be0ffbe34ff>Mojcado Castle<1ce0>, I believe<03e0>it's called. However, just as we finished...
+Hinnah refused to return. It seems she'd lost<03e0>something important in the ruins, and remained<03e0>to look for it.<04e0>Certainly, I helped her search as well, but...
+We...argued, and I left the ruins alone.<04e0>But honestly, for a frail little thing like me to<03e0>be stuck in such a dank, dirty place full of<03e0>monsters? I couldn't stand another minute.<04e0>A girl can only take so much... I'm sure a man<03e0>like you would understand.
+Still... I can't help but worry about Hinnah,<03e0>especially all alone in those ruins...<04e0>She's my only sister in all the world.<03e0>If anything were to happen to her, I don't know<03e0>what I'd do...<04e0>Please, brave traveler, could you find her and<03e0>bring her back? I'd be so grateful. I'm sure I<03e0>could find some way to reward you...
+You'll help me, won't you?<03e006e0000008e0000000000000>Y-yes! Very yes!<09e008e0010000000300>Uh, can I think about it?
+Perfect!<03e0>Somehow, I knew you'd help!<04e0>Retrieve Hinnah from that awful place as soon<03e0>as you possibly can... Then come back to me<03e0>for your reward.
+Oh, and a warning: Hinnah is a very stubborn<03e0>girl. I doubt she'll listen to anything you say<03e0>until she finds whatever she's lost.
+"Think"... Meaning, no.<03e0>I see...<04e0>Come back if you ever change your mind.<03e0>I promise, I'd be very...very...grateful.
+Hinnah is the most important person in the<03e0>world to me...my darling sister. Won't you find<03e0>her and bring her back to me?<04e0>I'd do anything to get her back...and I mean<03e0>anything.
+Oh, it's my brave traveler...returning triumphant.<03e0>Hinnah arrived just a while ago. Thank you<03e0>for your help.<04e0>Still, she looked as though she'd been pulled<03e0>through a pig sty. You know, you ought to be<03e0>more careful when handling a lady.
+Well, she's back safely, and that's what really<03e0>matters. I really do appreciate it.<04e0>Say... What was it that she dropped in the first<03e0>place? She wouldn't say a word about it.
+Hmm? An old, tarnished earring?<04e0>So that's what it was... Hinnah and I saved up<03e0>and bought those earrings when we were<03e0>children. To think, she still treasures them so...
+Anyway.<03e0>This is no time to travel down memory lane.<04e0>It's time for me...to give you...your reward.
+This? This is a promise for the next time we<03e0>meet. Feel free to consider it an IOU.<04e0>Hopefully, then we'll have the luxury of creating<03e0>a firmer and...deeper connection. Look forward<03e0>to it...I certainly am.<04e0>Until we meet again!
+

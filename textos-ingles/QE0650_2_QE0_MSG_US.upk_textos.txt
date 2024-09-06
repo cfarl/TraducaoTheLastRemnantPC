@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0650_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Engraved is a character that resembles<03e0>a soul.<03e0>It represents the letter A.
+Engraved is a character that resembles<03e0>a woman.<03e0>It represents the letter B.
+Engraved is a character that resembles<03e0>a spear.<03e0>It represents the letter C.
+Engraved is a character that resembles<03e0>an insect.<03e0>It represents the letter D.
+Engraved is a character that resembles<03e0>grains of sand.<03e0>It represents the letter E.
+Engraved is a character that resembles<03e0>someone sleeping.<03e0>It represents the number 1.
+Engraved is a character that resembles<03e0>someone sitting.<03e0>It represents the number 2.
+Engraved is a character that resembles<03e0>someone standing.<03e0>It represents the number 3.
+Engraved is a character that resembles<03e0>someone holding an object.<03e0>It represents the number 4.
+Engraved is a character that resembles<03e0>someone walking.<03e0>It represents the number 5.
+Engraved is a character that resembles<03e0>someone running.<03e0>It represents the number 6.
+

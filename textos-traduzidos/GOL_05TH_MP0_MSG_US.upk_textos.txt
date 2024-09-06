@@ -1,0 +1,26 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Hmph. You're friends of the marquis.<03e0>Why have you come?
+I cannot believe Lord Hermeien is still alive...<04e0>But the evil he radiates proves he is no longer human.<03e0>To think that something like this brings us to war...<04e0>Hmph. In the meantime, I shall have my emissaries<03e0>gather some information.
+I see it has begun.<04e0>My emissaries have told me of your stance in our<03e0>current situation. They have also informed me of<03e0>something troubling.<04e0>The Third Committee was thought to have disbanded<03e0>after the incident in Nagapur, but apparently some<03e0>stragglers are trying to pick up where they left off.<04e0>As if I have the time to deal with this sort of trouble now!
+With all the confusion lately, it's been increasingly<03e0>difficult to keep on top of things...<04e0>I've recently received reports of Third Committee cells<03e0>assembling in Nagapur, Elysion, and even this very<03e0>castle.<04e0>Adding to that is a report from the Academy, saying some<03e0>top-secret Remnant-related research documents have<03e0>been stolen, and possibly leaked to the black market.<04e0>If that information were to end up in the wrong hands<07f003e0>like those of the Third Committee<07f0>who knows what<03e0>trouble we'd be in for...
+Remnants have powers that we mortals cannot even<03e0>begin to fathom.<04e0>If we cannot even control ourselves, how can we<03e0>presume to control them?<04e0>Humility... It is something that must not be forgotten.<03e0>...Even if you lot are the only ones who remember it.
+I never thought the day would come when<03e0>we would meet again.<04e0>You have walked your path;<03e0>I have walked mine.<04e0>As for the Third Committee members, according<03e0>to my emissaries, they have acquired a relic<03e0>by the name of Leithion's Sword.<04e0>I've not heard of such a sword.<03e0>I know not what they're up to but<03e0>I must do everything I can to find out.
+Who are you?<03e0>You don't look familiar...<04e0>Do you realize that you are standing in<03e0>the presence of Duke Ghor, a legendary<03e0>hero and possessor of the Bilqis!?
+The Duke of Ghor is the head of<03e0>the Congress!<03e0>You must show some respect!
+Why are you still here?<03e0>Don't you know that the Congress<03e0>meets in Elysion?
+Lord...Hermeien... No, it can't be...
+I will make the Conqueror regret<03e0>having laid a hand on Duke Ghor!
+What is it?
+It appears the marquis has taken<03e0>quite a liking to you.
+What is it?
+You are an interesting young man.<03e0>You manage to capture the hearts<03e0>of those around you with ease.
+What is it?
+Those who gather here all possess<03e0>that same look you hold in your eyes.<03e0>It pleases me so.
+What is it?
+Marion knows how long it has been since men arrived at<03e0>this castle<07f0>since this town came into being.<04e0>The people that helped make this town what it is were not<03e0>the purest of souls, but they were dauntless and<03e0>determined.<04e0>Their only goal was to make a better future.<03e0>I can see that same look in your eyes.<04e0>...<04e0>However, I see something else in your eyes... A certain<03e0>sparkle that I've seen in my own as well.<04e0>Who are you, my child?
+What is it, Rush?
+You want to dig beneath Ghor Castle!?<03e0>Don't be absurd.<04e0>Not too long ago, some strange qsiti was asking about the<03e0>same thing<07f0>babbling on about ruins and miracles and<03e0>other such tripe.<04e0>Either way, this is no time to be playing treasure hunter.<04e0>Dreams and imagination can be a good thing, but there is<03e0>a certain time and place for them to be indulged. You<03e0>and your little qsiti friend need to keep that in mind.
+A mercenary going by the name of Gaou?<03e0>Yes, I've heard of him. He's the one they call the King.<03e0>Why?<04e0>...<04e0>I see. Interesting...<03e0>Don't fret. I will handle it.
+

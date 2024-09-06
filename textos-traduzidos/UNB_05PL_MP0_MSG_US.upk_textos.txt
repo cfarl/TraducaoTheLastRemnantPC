@@ -1,0 +1,238 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the Blessed Chime!
+Welcome to the Blessed Chime!<04e0>You wish for an audience with the God Emperor?<04e0>Oh my. Only the most important of people are allowed<03e0>an audience with his majesty.<04e0>I'm afraid you're asking the impossible.
+Hey, it's you!<03e0>Long time no see, sonny.<04e0>Thanks to your help, that monster on Mt. Vackel's<03e0>gone, so ah could finally come on home.<04e0>Can't believe you whupped that giant beast!<03e0>You've earned my respect for a lifetime.
+It's hard to believe you defeated<03e0>such a gigantic monster!<03e0>You are a true hero!
+Undelwalt was once the most prosperous<03e0>city in the world until the God Emperor<03e0>became nothing more than a figurehead.<04e0>It pains me to think about it.
+The Blessed Chime has been around<03e0>since the days of the Imperator.<03e0>This place holds history.<04e0>The customers who used to come here<03e0>were very refined. You can't tell from<03e0>looking around the place today, though.
+The Harmonium used to sparkle as it<03e0>reflected sunlight off its sides.<03e0>It was a beautiful sight.<04e0>Now it's covered in a greenish tint.<03e0>It could mean the Harmonium's bind<03e0>is coming to an end.
+Imperial city, my ass!<03e0>It's pretty to look at, but it's empty inside.<04e0>Kinda like the God Emperor himself.
+There is nothing to talk about today.
+That is not true.<03e0>There is always love and compassion.
+It seems the wife of Celapaleis's Baron Nielsen has<03e0>left him again. Their stormy relationship has been<03e0>well-known for ages.
+This is the talk of the town, my lady.
+Perhaps she'll come here for a chat!
+Indeed.
+It seems someone is out to assassinate<03e0>Duke Qubine. A suspicious woman was<03e0>also spotted lurking about the area.
+This is the talk of the town, my lady.
+The case has solved itself.<03e0>It was the suspicious woman!
+Indeed.
+The princess of a desert kingdom is in love<03e0>and sneaks out of the castle frequently.<03e0>People pray she does not get herself into any trouble.
+This is the talk of the town, my lady.
+She is already in trouble.<03e0>Love is the biggest form of trouble<03e0>a woman can get herself in.
+Indeed.
+The princess from the desert kingdom<03e0>eloped with her love.
+This is the talk of the town, my lady.
+My, what excellent news!<03e0>I dream of eloping with a love someday...
+Indeed.
+The conflict between Balterossa and<03e0>Royotia is getting worse by the day.<03e0>Everyone thinks a war is inevitable.
+This is the talk of the town, my lady.
+How horrible!<03e0>I pray this won't affect the trade routes.<03e0>It will destroy my business!
+Indeed.
+It is rumored that in a certain moor,<03e0>the Imperator used his powers to<03e0>seal the entranceway to another realm.
+This is the talk of the town, my lady.
+I am no fan of moors, but I am drawn<03e0>to the one in Melphina.<03e0>There are no words to describe its beauty.
+Indeed.
+Any Forest Maiden that vows eternity<03e0>with a Melphinian knight gains the power of<03e0>seeing and hearing everything her partner does.
+This is the talk of the town, my lady.
+A Maiden and a knight.<03e0>How romantic...
+Indeed.
+It seems something has happened to the Last<03e0>Leaf in Crookfen. The Forest Maidens and<03e0>the knights of Melphina are taking action.
+This is the talk of the town, my lady.
+I just pray whatever action they take,<03e0>the beauty of the landscape will not be harmed.
+Indeed.
+It seems Kosmosfest has yet to begin because<03e0>the Cosmos Maiden has not arrived. Everyone prays<03e0>she is safe.
+This is the talk of the town, my lady.
+I would like to attend this festival.<03e0>Perhaps if I leave now, they will put<03e0>it on hold till I arrive.
+Indeed.
+The Cosmos Maiden has arrived and the festival will<03e0>begin shortly. It is a shame that the tranquil<03e0>event is always disrupted by monsters.
+This is the talk of the town, my lady.
+Why would the monsters do that?<03e0>Who would try to ruin a perfectly<03e0>wonderful evening?
+Indeed.
+An old-fashioned woman is seeking<03e0>a bodyguard. She waits in the pub in<03e0>the town with the canals.
+This is the talk of the town, my lady.
+A woman alone in a pub...<03e0>Perhaps she has just bore some heartache.
+Indeed.
+The treasures from different lands bestowed<03e0>upon the holy city have been stolen and<03e0>are being sold on the black market.
+This is the talk of the town, my lady.
+The black market?<03e0>If they had come to me, I could have<03e0>made them a much better offer.
+Indeed.
+Someone is seeking the three desert stones,<03e0>important to the history of the land.
+This is the talk of the town, my lady.
+I'd like a glimpse of what the stones<03e0>look like, but I'm afraid the desert air<03e0>will dry out my skin.
+Indeed.
+A scientist is seeking an assistant to help<03e0>him with research regarding ancient magick.
+This is the talk of the town, my lady.
+All he needs to do is offer compensation<03e0>and he should find help in no time.
+Indeed.
+A horrible monster sealed by the Imperator<03e0>long ago has been resurrected.<03e0>There will be chaos.
+This is the talk of the town, my lady.
+This is horrible!<03e0>I must live my last days to the fullest.<03e0>Shopping! I must go shopping.
+Indeed.
+A man with amnesia is searching for<03e0>something he lost in the desert.<03e0>Perhaps it is his memory he searches for.
+This is the talk of the town, my lady.
+At times I forget to collect money<03e0>from the customers.
+Indeed.
+A notorious bandit has been seen<03e0>lurking around Athlum. It seems he is<03e0>waiting for someone.
+This is the talk of the town, my lady.
+A bandit!<03e0>I surely hope he doesn't come this way...
+Indeed.
+A lad is searching for the goddess statue in<03e0>the Robelia Ruins that supposedly lets one<03e0>reunite with someone far away.
+This is the talk of the town, my lady.
+I have no need for the statue. I'm surrounded<03e0>every day by those who mean the most<03e0>to me<07f0>the people of Undelwalt.
+Indeed.
+There was a murder in the big city and<03e0>the assailant is still on the loose.
+This is the talk of the town, my lady.
+If he dares come to my shop, I will<03e0>make him rue the day!
+Indeed.
+A large yama is searching for something<03e0>he has lost. His behavior is very odd...
+This is the talk of the town, my lady.
+I understand what he must be going through.<03e0>It takes me months to find something I've lost<03e0>in my own house!
+Indeed.
+A white qsiti has been seen rummaging<03e0>through books written about magick.<03e0>Some say he looks familiar.
+This is the talk of the town, my lady.
+I should read books on how to pour<03e0>a delicious cup of tea. Silly me, I<03e0>usually forget to use tea leaves.
+Indeed.
+Two young ladies, twins as a matter of fact,<03e0>are of the most skilled of the mercenaries.
+This is the talk of the town, my lady.
+If I had a twin, perhaps I would have become<03e0>a mercenary as well.
+Indeed.
+A gentleman is hosting a game in<03e0>the Great Sand Sea.
+This is the talk of the town, my lady.
+I wonder how large the Great Sand Sea<03e0>really is. Although I would never go there<03e0>because I loathe the dry desert air.
+Indeed.
+An old warrior has crossed the Great Sand Sea<03e0>in search of a certain sword.
+This is the talk of the town, my lady.
+I wonder how long it would take to cross<03e0>the Great Sand Sea. Although I would never<03e0>go there because I loathe the dry air.
+Indeed.
+The soldiers of Ghor are quite devoted to their lord.<03e0>They have vowed to protect him with their lives.
+This is the talk of the town, my lady.
+It's wonderful having people in high-ranking<03e0>positions with decent heads on their shoulders.
+Indeed.
+The Honeywell clan serves Athlum well.<03e0>The residents have nothing but trust and<03e0>respect for that family.
+This is the talk of the town, my lady.
+The Honeywool clan?
+Indeed.
+Torgal of the Athlum generals is rather<03e0>touchy about his past.
+This is the talk of the town, my lady.
+What is this "Athlum" people speak of?<03e0>A tasty dish, perhaps?
+Indeed.
+The Tournament of Heroes is about to commence.
+This is the talk of the town, my lady.
+Not for me, thank you.
+Indeed.
+Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things.
+This is the talk of the town, my lady.
+This is an exceptional school for carpenters?
+Indeed.
+Athlum's had its share of hardships.<03e0>People pray the Honeywell girl will do<03e0>as great a job as her mother.
+This is the talk of the town, my lady.
+Hineywool? Honeywood? ...What now?
+Indeed.
+The Marquis of Athlum has quite a number<03e0>of admirers, it seems. All are surprised that<03e0>he does not have a special lady friend.
+This is the talk of the town, my lady.
+So this "Athlum"...<03e0>Ah, perhaps it is a new brand of tea!
+Indeed.
+The ex-director of the Academy<03e0>has been spotted at pubs in various cities.<03e0>No one knows what she is up to.
+This is the talk of the town, my lady.
+She ought to come here so I can<03e0>pour her a drink and listen to<03e0>her worries and put her at ease!
+Indeed.
+Dr. Sykes has been seen making frequent<03e0>trips to Athlum Castle of late.
+This is the talk of the town, my lady.
+"Athlum"... Perhaps it is a new brand<03e0>of wine?
+Indeed.
+A monster was spotted flying around Wyrmskeep.<03e0>The residents are in a flurry.
+This is the talk of the town, my lady.
+A-a monster!?<03e0>Wh-what if it attacks me!?
+Indeed.
+A vicious female warrior is hunting down those<03e0>responsible for the incident at the moor<03e0>against her leader's wishes.
+This is the talk of the town, my lady.
+I wish I were a lady knight...<03e0>I would show everyone what<03e0>women can do!
+Indeed.
+A mob of ferocious monsters has<03e0>been spotted in the Great Sand Sea.<03e0>They are said to be quite overwhelming.
+This is the talk of the town, my lady.
+There are monsters in the desert?<03e0>Another good reason to stay<03e0>away from deserts!
+Indeed.
+Archaeologists are saying that in the depths of<03e0>the volcano, there lies the power to destroy<03e0>an entire city.
+This is the talk of the town, my lady.
+Perhaps it be best not to do anything<03e0>to upset the volcano.
+Indeed.
+There are no means to research the dangers<03e0>that lie within a volcano. But lords have their ways<03e0>of finding things out<07f0>no matter how impossible.
+This is the talk of the town, my lady.
+The world should be rid of volcanoes.
+Indeed.
+There is a town that is being run without a lord.<03e0>His two sons are fighting for the position,<03e0>but neither is succeeding.
+This is the talk of the town, my lady.
+Can they not share the position?
+Indeed.
+By listening closely, one can hear<03e0>crying coming from the depths of<03e0>the Great Sand Sea.
+This is the talk of the town, my lady.
+The desert cries?<03e0>Oh, why do I even bother to ask?<03e0>I have no interest in the desert.
+Indeed.
+Long ago, a hero wandered the Great Sand Sea.
+This is the talk of the town, my lady.
+What was he doing in the desert?<03e0>Wait, the desert doesn't interest me one bit.<03e0>Please forget I asked.
+Indeed.
+A frightened man is sharing his story of the ghosts<03e0>he saw when he spoke to the pillar in the Great<03e0>Sand Sea.
+This is the talk of the town, my lady.
+What is a pillar doing in the desert?<03e0>...I don't know why I keep asking when<03e0>I have no interest in the desert.
+Indeed.
+There is a scientist in Melphina with a tainted<03e0>reputation. People avoid him, saying he is<03e0>not quite all there.
+This is the talk of the town, my lady.
+What could a person do for others<03e0>to call them "looney"? I can't even<03e0>begin to fathom.
+Indeed.
+There is a pub in a city by the desert that is<03e0>infested with desert bugs. The owner, being quite<03e0>desperate, is asking for help from anyone who will listen.
+This is the talk of the town, my lady.
+I had no idea there were bugs in the desert.<03e0>...Oh, why do I bother feigning interest?<03e0>The desert really is boring and dreary.
+Indeed.
+Ever since the incident, Nagapur has become quite a<03e0>dangerous area. There has been a huge increase in<03e0>crime, especially the kidnapping of young children.
+This is the talk of the town, my lady.
+Which incident are you referring to?<03e0>Oh, perhaps you mean the flock of<03e0>birds migrating to Undelwalt!
+Indeed.
+A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures.<03e0>However, everyone soon bored of this game.
+This is the talk of the town, my lady.
+Why would anyone wish to get rid<03e0>of their own treasure?
+Indeed.
+Balterossa is the sole buyer of all of<03e0>Royotia's trade goods. There are countless<03e0>merchants who are unhappy with the situation.
+This is the talk of the town, my lady.
+They are not filled with gratitude?<03e0>Why is that?
+Indeed.
+A yamaan mercenary is seeking help.<03e0>He must have found himself a job too big to<03e0>handle alone.
+This is the talk of the town, my lady.
+A job! How exciting for him!
+Indeed.
+A young lady was overheard talking quite fondly<03e0>about a young man in Celapaleis who is very kind<03e0>one minute but begins yelling the next.
+This is the talk of the town, my lady.
+I suppose it is like being with two<03e0>men at the same time.<03e0>I myself prefer the tall, silent type.
+Indeed.
+There is a qsiti who stands in the middle of<03e0>busy streets, glaring at anyone who bumps into him.
+This is the talk of the town, my lady.
+He must be lonely and seeking friends.<03e0>We should all go and bump into him!
+Indeed.
+A mysterious lady is about. She looks like<03e0>she has the weight of the world on her<03e0>shoulders.
+This is the talk of the town, my lady.
+If you put your mind to it, you can do<03e0>or get anything you want!
+Indeed.
+Bloody Alice soldiers have gathered at the moor.<03e0>Perhaps they are preparing for something.
+This is the talk of the town, my lady.
+Bloody Alice...<03e0>Hmm, I think I shall have a steak<03e0>for dinner tonight<07f0>rare.
+Indeed.
+The Jhana are now causing a ruckus in<03e0>the Great Sand Sea. It seems they have already<03e0>forgotten the wrath of Athlum's Gae Bolg.
+This is the talk of the town, my lady.
+So is this "Athlum" a new brand of<03e0>clothing, perhaps?
+Indeed.
+The Silver Falcons are going to rid<03e0>the area of the Jhana.<03e0>They are dependable soldiers.
+This is the talk of the town, my lady.
+The Silver Falcons...<03e0>That reminds me, I must get someone<03e0>to polish the silverware in these cabinets.
+Indeed.
+The Silver Falcons are going to get rid of<03e0>the remaining soldiers of the Conqueror's army.
+This is the talk of the town, my lady.
+The Silver Falcons...<03e0>That reminds me, I must purchase<03e0>some new cutlery.
+Indeed.
+A gloomy-looking man frequents the pub<03e0>in Elysion. No one seems to know<03e0>anything of him.
+This is the talk of the town, my lady.
+If only he would stop by.<03e0>I would cheer him up!
+Indeed.
+

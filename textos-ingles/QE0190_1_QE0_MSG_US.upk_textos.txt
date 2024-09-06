@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0190_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+In a locked room deep in the <1be0ffbe34ff>Robelia Ruins<1ce0>,<03e0>there's a stone goddess that brings you<03e0>together with the one of your choice.<04e0>I received the key from a man who frequently<03e0>went there to pick certain flowers.<04e0>I don't know why he had the key or why he<03e0>gave it to me, but I'm grateful that he did.
+Rush, will you do me a favor and come<03e0>with me to the ruins?<03e0>I have to see my sister again!<03e006e0000008e0000000000000>Of course. Let's go!<09e008e0010000000300>That's just a story...
+Thank you!<03e0>I'm ready to leave right away!
+Why would you say that!?
+Rush, please.<03e0>I need someone to come with me to the ruins.<03e0>I have to see my sister again!<06e0000008e0000000000000>Of course. Let's go!<09e008e0010000000300>That's just a story...
+Thank you!<03e0>I'm ready to leave right away!
+Why would you say that!?
+Come with me to the <1be0ffbe34ff>Robelia Ruins<1ce0>, please!<03e0>I need to find the statue!<06e0000008e0000000000000>Alright, alright.<09e008e0010000000300>You're so naïve.
+Alright, let's get going.
+You gotta be kidding me...
+I can't believe I get to be with my sister again, thanks to you.<04e0>Thank you, Rush.<03e0>I want you to have this.
+Oh, and if you ever need some help,<03e0>my sister's always willing to lend a hand.<03e0>You can find her in the guild.<04e0>Our plan is to earn money now<03e0>so we can retire early and live out<03e0>the rest of our lives peacefully.
+

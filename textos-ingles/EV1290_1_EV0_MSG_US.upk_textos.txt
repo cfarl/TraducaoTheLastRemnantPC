@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1290_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Hermeien!
+Conqueror...
+L-Lord Conqueror!<0fe003e00ee0>Please, you must help me!
+Lord David!
+F-forgive me, I didn't mean to get carried<0fe003e00ee0>away<07f0>I was just trying to help!<1ae0000077430fe005e001000ee0>Please, you must show mercy!
+Fool. Without regard for the Remnants or anything<0fe003e00ee0>else, you continued your petty machinations...<1ae000008c430fe005e001000ee0>No more.
+Duke Ghor!
+Enough of this. If you have not awakened<0fe003e00ee0>by now, then you are no longer necessary.
+Rush!
+Stop!!!
+You...
+W-wait, you can't leave me! Conqueror!
+

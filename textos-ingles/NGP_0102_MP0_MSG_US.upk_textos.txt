@@ -1,0 +1,32 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+You came here to get away from the hustle and bustle<03e0>of Nordenalm, huh? Welcome to <1be0ffbe34ff>Sudenalm<1ce0>!<04e0>The town square is richly green.<03e0>It's where folks gather to take<03e0>a breather.<04e0>They sell Nagapur goodies, too!
+Things seem so peaceful. It's hard<03e0>to believe there's a war going on.<04e0>Why don't you go and browse the souvenir<03e0>shops out back and enjoy the town?
+Message 3
+Message 4
+This is a nice, quiet meeting place.<04e0>The streets of Nordenalm are so busy!<04e0>Because of all the shops, merchants and<03e0>soldiers are clomping around all day!<04e0>They're so loud!
+Where is he?<03e0>He was supposed to be here ages ago.<04e0>But he's not one to break promises, so<03e0>I trust he'll show up.<04e0>Maybe we should have picked a better<03e0>spot to meet.
+Message 3
+Message 4
+These canals are used to ship this cargo<03e0>here to different locations.<04e0>The trade business has improved since<03e0>Wilfred Hermeien became lord.<03e0>My days are busy, busy, busy!<04e0>The previous lord couldn't have pulled<03e0>the town THIS far.<03e0>He did seem like a kind man, though.<04e0>On a seperate note, I've been hearing<03e0>rumors of an army advancing from<03e0>the west... Scary times, these are.
+I heard from a merchant friend of mine that<03e0>the Conqueror is just inches away from here!<03e0>What is war good for, anyway?
+Message 3
+Message 4
+You are Rush Sykes, I presume.<03e0>I am Oswald.<04e0>Marina was right<07f0>you have her eyes, filled with<03e0>goodness and justice.<04e0>You need not worry about her. She is about, gathering<03e0>information to help you on your journey.<04e0>She was here until just a moment ago.<04e0>...<04e0>I realize it is hard to trust my words, but I know all about<03e0>you, Marina, and your sister Irina.<04e0>When the time is right, I will tell you all there is to know.
+Your mother was right.<03e0>You have the same eyes, filled with goodness and justice.
+Hello, Rush Sykes.<03e0>I have something to share with you.<04e0>Did you know that there is more than one way to enter<03e0>Wyrmskeep? In addition to the boat, it can be infiltrated<03e0>from the waterway beneath <1be0ffbe34ff>Sudenalm<1ce007f0>the <1be0ffbe34ff>Aqueducts<1ce0>.<04e0>Forget not this information, for it may come in handy<03e0>someday.
+Hello, son.<03e0>I have something to share with you.<04e0>Did you know that there is more than one way to enter<03e0>Wyrmskeep? In addition to the boat, it can be infiltrated<03e0>from the waterway beneath <1be0ffbe34ff>Sudenalm<1ce007f0>the <1be0ffbe34ff>Aqueducts<1ce0>.<04e0>Ohoho, I see you are suspicious... There is no need for<03e0>that. Instead, remember what I've told you. It may come<03e0>in handy someday.
+Marina was a bright young girl.<03e0>She learned the Remnant theory in<03e0>mere seconds.<04e0>Granted... To this day, I have doubts<03e0>as to whether that was a positive<03e0>thing...<04e0>Rush Sykes, you must save your sister.<04e0>Marina deserves to be with her family<03e0>again<07f0>with you and your sister<03e0>and your father.
+You have your mother's eyes<07f003e0>filled with good and justice.
+Welcome back.<04e0>Have you finished walking around town?<06e0000008e0000000000000>Yup, saw everything.<09e008e0010000000300>Nope, not yet.
+Alright, come with me then.
+Alright.<03e0>Keep at it. Come to me when you've<03e0>finished.
+Are you ready to enter the <1be0ffbe34ff>Aqueducts<1ce0>?<06e0000008e0000000000000>Ready steady!<09e008e0010000000300>I need a sec.
+Alright. Let's go!
+This is Lord Hermeien's territory.<03e0>We must prepare ourselves for a long battle.<04e0>We'll leave as soon as we are ready.
+Rush! Miss Irina is being held in the audience chamber<03e0>of Wyrmskeep!<04e0>These stairs will take us down to the <1be0ffbe34ff>Aqueducts<1ce0>, and<03e0>we can take them all the way through to the castle.<04e0>Lord David is waiting. Please hurry.
+Taking the Aqueducts will allow us to enter<03e0>Wyrmskeep with minimal fighting.
+An old man familiar with this town gave me directions<03e0>to the Aqueducts.<04e0>He reminds me of someone... But I can't quite put my<03e0>finger on who.
+Miss Irina is right up here!<03e0>Come on, let's go bust some heads!
+

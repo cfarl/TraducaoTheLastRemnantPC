@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0330_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I've been waiting for you.
+Fellow soldier.<03e0>Make your way to the farthest room.<03e0>That is where I shall wait.<04e0>The elevation devices now function<03e0>properly. They will help save your strength<03e0>for when we duel.
+You've finally arrived, Emma Honeywell.<03e0>Let's begin.
+Hm?<03e0>You seem very young, child. Do you claim to be<03e0>Emma Honeywell, the head of the Honeywell clan?
+I am Emma Honeywell II.<03e0>I bring with me my mother's sword as<03e0>proof of my heritage.
+Hrmph.<03e0>I had my sights set on fighting a real<03e0>soldier, not some child...
+I understand your disappointment.<04e0>However, you must see me fight before<03e0>deeming me an unworthy opponent.
+I like your spirit.<03e0>Then let us begin!
+Grah...!<03e0>Y-you are much stronger than you<03e0>appear to be...
+I fought a fair battle.<03e0>I have yet to live up to becoming one<03e0>worthy of wielding this sword.
+I still have a long journey ahead.
+Oh?<04e0>Hahaha!<03e0>You are young and yet so sensible.<03e0>The future looks bright for you.
+You can find me in Virtus Parish<03e0>in Athlum. My fellow mercenaries and<03e0>I will be there if you need anything.
+Thank you, Warrior Yerva.<03e0>It is an honor to be rewarded with<03e0>such an opportunity.
+

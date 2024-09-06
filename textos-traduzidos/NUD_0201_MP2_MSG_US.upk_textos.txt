@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NUD_0201_MP2_MSG
+-- ----------------------------------------------------------------------------------
+The power of a Remnant seals these doors shut.<03e0>Bind the Key Remnant, releasing the Seal of Marshall?<06e0000008e0000000000000>Of course! Mom's in there!<09e008e0010000000300>Not in the mood...
+The door is sealed shut.
+Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend<03e0>Cancel: Release handle
+Move Character [Forwards]: Ascend<03e0>Move Character [Backwards]: Descend
+Monsters stand in the way of the controls.
+

@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the guild.<03e0>How may I help you?
+Have you been to Siebenbur, the cavern<03e0>to the south?<04e0>It's a popular spot for researchers,<03e0>as the plants that grow there are<03e0>of the rarest kind.<04e0>In fact, there's a scientist here that<03e0>is creating a new remedy using said plants.
+Do you remember the bog you passed<03e0>on your way here?<04e0>That's Crookfen, the place where<03e0>we Forest Maidens perform rituals<03e0>of prayer for the Last Leaf.<04e0>The Order of Melphina protects us from<03e0>monster attacks while we pray.<03e0>It's all so romantic.
+

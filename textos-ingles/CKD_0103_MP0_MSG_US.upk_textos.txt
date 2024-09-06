@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CKD_0103_MP0_MSG
+-- ----------------------------------------------------------------------------------
+This Teleporter seems to be limited.<03e0>You'll need a key to progress to the next stage.
+Will you go to World Map?<06e0000008e0020000000000>Yeah!<09e008e0010000000300>Maybe later.
+The Metopon Key has unlocked the Teleporter.
+Use the Teleporter?<06e0000008e0030000000000>Go to Metopon Tier.<09e008e0020000000000>Go to World Map.<09e008e0010000000300>Nah, I'll stay here.
+The door is sealed shut.
+

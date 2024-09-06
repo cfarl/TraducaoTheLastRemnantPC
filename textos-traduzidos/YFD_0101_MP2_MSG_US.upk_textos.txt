@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) YFD_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Wait. Look at this.
+Listen when I talk to you.<03e0>You should take a look at this.
+What is that?
+It's a treasure chest<07f0>a type of Remnant.<03e0>They're not that uncommon.
+Remnant, huh...
+There could be any number of things inside.<03e0>Find out<07f0>bind it.
+Bind? What do you mean?
+You have to "bind" a Remnant to use it.<03e0>In this case, just reach out your hand and<03e0>ask it to show you what's inside.<04e0>It's simple enough that even you can do it<07f0>so<03e0>long as someone else hasn't bound it first.
+A sword, hm? I suppose you can keep that.<03e0>You won't be quite as useless.
+Quiet.
+Is that what you were fighting before?
+Yes, monsters.<03e0>It looks like we can't avoid them.<03e0>Let's initiate a battle before they spot us.
+What are you waiting around for?<03e0>Hurry and initiate a battle.
+You're too close! They'll spot you!
+Damn, they noticed us.<03e0>I thought I told you to initiate a battle!
+Damn, they're too close!
+

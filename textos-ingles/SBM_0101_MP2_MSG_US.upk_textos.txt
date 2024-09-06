@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) SBM_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+The door is sealed shut.
+The door is sealed shut.<03e0>Use the Moss-Covered Key?<06e0000008e0000000000000>Let's get this thing open!<09e008e0010000000300>Maybe in a few minutes.
+The door has been unlocked.
+

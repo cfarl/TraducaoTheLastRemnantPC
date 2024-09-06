@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Then, you are Rush Sykes, are you?<03e0>I've heard a lot about you.<04e0>Feel free to amply prepare yourself for your<03e0>coming battles here in Celapaleis.
+The loss of General Honeywell and the Valeria<03e0>Heart are both very regrettable... I offer my<03e0>deepest condolences.<04e0>Yet, had you not gone to the Nest of Eagles, all<03e0>of Celapaleis would have been in grave danger.<04e0>I cannot begin to describe my appreciation for<03e0>what you've done.
+I've not been feeling well of late...<04e0>It must be due to the debacle with Nagapur. I<03e0>suppose cleaning up that mess was more tiring<03e0>than I thought... Either way, it's nothing to worry about.
+Ahh... For me to be in such a state... Keep this a<03e0>secret from Ghor, would you? I'm certain the old<03e0>bat would never let me hear the end of it.
+So Hermeien was behind the escalation of<03e0>the Remnants' powers...<04e0>I didn't even dream it could be him.<03e0>I still have so much to learn...<03e0>Ghor will never let me live this down, will he?
+The future of Athlum lies in your hands.<04e0>The God Emperor is not a man to be trifled with.<03e0>Do not let down your guard before him.
+There are two paths to take.<04e0>One path allows you to be the creators of a new world.<03e0>The other brands you as traitors to the God Emperor<03e0>as you are slain mercilessly by his followers.<04e0>Show me what you have chosen.
+Watch your tongue, boy!<03e0>You stand before Lord Qubine!
+To think he suffers so...<03e0>Poor, valiant Lord Qubine!
+To think, he suffers so...<03e0>Poor, valiant Lord Qubine!<04e0>Someone, anyone<07f003e0>Can no one bring a healer that might help?
+The Duke still hasn't fully recovered.<03e0>Say what you came to say and be off!
+Though Athlum has been granted independence, that<03e0>does not mean you can milk the Duke for more<03e0>favors.<04e0>Stand on your own two feet!
+If word gets out you are here with the Duke, his Lord<03e0>may be branded a conspirator!<03e0>If you're done with your business, please leave!
+

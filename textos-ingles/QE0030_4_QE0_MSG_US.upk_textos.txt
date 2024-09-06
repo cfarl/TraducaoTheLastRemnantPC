@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0030_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Violet Gilles-Barre Nielsen.<03e0>You have done Celapaleis well.<04e0>You risked your life to defend Celapaleis<03e0>and I cannot express enough gratitude<03e0>for your actions.
+Wh-what do you mean?
+Violet, your actions will be forever<03e0>carved in the history of Celapaleis.<04e0>The Gilles-Barre name will never be forgotten.
+I... Duke Qubine...
+I know that you were very little when your homeland<03e0>was taken from you. You must have thought it barbaric.<04e0>However, the Gilles-Barres were on the verge of<03e0>being no more, for economic and militaristic reasons.<03e0>They had no choice but to be taken in by Celapaleis.<04e0>Your father trusted me with everything<07f003e0>the Gilles-Barre history, its honor, your happiness...
+Wait, that monster...<03e0>What are you up to!?
+You're free to go now.<03e0>You can't even stop Violet from<03e0>endangering herself.<04e0>Violet is my wife.<03e0>It is MY duty to make her happy.
+Nielsen<07f001e00be00ae0>
+You treat her like dirt!<03e0>You don't know how to make people happy!<03e0>You have no idea how much she...
+Gabriel, stop!<04e0>I was never...unhappy.<03e0>Nielsen... He just has a hard time expressing himself.
+Wha<07f0>?
+

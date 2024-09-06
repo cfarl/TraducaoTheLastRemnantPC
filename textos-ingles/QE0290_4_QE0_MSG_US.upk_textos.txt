@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush...do you have a moment?<04e0>...
+Sorry,<03e0>let's not talk here.
+It seems that a monster has appeared in<03e0>the <1be0ffbe34ff>ruins of Robelia Castle<1ce0>.
+I shall be heading out to get it under control...<03e0>Rush, will you come along?<06e0000008e0000000000000>Yeah, I'll help!<09e008e0010000000300>Uhh... Err... You see...
+Good. I appreciate it.<03e0>Let's hurry to the <1be0ffbe34ff>Robelia Ruins<1ce0>.
+We don't have time for this, Rush. Stop acting<03e0>like a child and make a decision.
+

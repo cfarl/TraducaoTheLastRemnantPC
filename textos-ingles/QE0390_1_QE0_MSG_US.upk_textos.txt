@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0390_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Oh, there you are, Rush. Do you have a moment?<04e0>As you know, your Marquis friend has been ordered<03e0>by the Duke of Ghor to gather Remnants from<03e0>around the world.<04e0>Now, it's a bit forward of me, but I've been thinking<03e0>about how you can do this, and I've hit upon a<03e0>good idea.<04e0>You can use the <1be064f4ecff>tablet of Marshall<1ce0>. With it, you can<03e0>change unbound Remnants to talismans, and take<03e0>them with you.<04e0>If the Remnants are in our possession, it means the<03e0>Conqueror can't get his hands on them, correct?<04e0>Either way, the first matter of business is to retrieve<03e0>the tablet. It should still be in <1be0ffbe34ff>Marshallton<1ce0>. Rush,<03e0>you'll come with me to get it, right?<06e0000008e0000000000000>No prob, Mom.<09e008e0010000000300>Um, I'm kinda busy right now...
+Thank you, honey.<03e0>Let's head to <1be0ffbe34ff>Marshallton<1ce0>.
+Alright, Rush.<03e0>I'll wait here, so let me know when you finish up, okay?
+Rush, have you gotten your things together?<03e0>We've got to go to <1be0ffbe34ff>Marshallton<1ce0> and pick up the<03e0>tablet.<06e0000008e0000000000000>Yup! Let's head out.<09e008e0010000000300>Just one more minute.
+Good, then let's go. You remember how to get<03e0>there, right?
+Alright... Remember, we don't have all day, so<03e0>don't dawdle.
+Rush, did you get lost? The tablet's in<03e01be0ffbe34ff>Marshallton<1ce0>. Should I show you how to get<03e0>there this time?<06e0000008e0000000000000>No, no, I got it.<09e008e0010000000300>Wait, I forgot something.
+Good. Let's go.
+Alright... Remember, we don't have all day, so<03e0>don't dawdle.
+

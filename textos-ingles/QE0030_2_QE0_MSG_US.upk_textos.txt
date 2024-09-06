@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0030_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Should I have stopped her?<06e0000008e0000000000000>Of course!<09e008e0010000000000>Wait, what happened?
+"Of course"? You don't even know what happened!
+My apologies.<03e0>Let me fill you in.
+Violet is planning something horrible.<03e0>She's going to assassinate the Duke of Qubine.<04e0>I love her.<03e0>I know what the situation is with her family.<03e0>How could I have stopped her?<04e0>I suggested a rumor of his assassination would suffice,<03e0>but she wouldn't listen.<04e0>I know where she's gone.<03e0>Will you help me stop her?<06e0000008e0000000000000>Sure, I'm game.<09e008e0010000000300>Nah, she won't do it anyway.
+Let's hurry to <1be0ffbe34ff>Celapaleis<1ce0>!<03e0>I hope we get there in time...
+You don't know her like I do!
+I know where she's gone.<03e0>Will you stop her?<06e0000008e0000000000000>Sure, I'm game.<09e008e0010000000300>Nah, she won't do it anyway.
+Let's hurry to <1be0ffbe34ff>Celapaleis<1ce0>!<03e0>I hope we get there in time...
+You don't know her like I do!
+

@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0130_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey kid, come'ere. You look like you've got a good<03e0>eye. You wanna see something good?<04e0>Check it out<07f0>the treasure of the old floating city,<03e0>the <1be064f4ecff>Tome of the Dragon God<1ce0>.<04e0>The techniques in this baby'll have you ripping through<03e0>enemy formations like dragons through knights, dig?<04e0>Yeahhh, I thought that'd get your ears perkin' up.<03e0>Dragons always grab the honeys, right?<04e0>Now, usually this would be a fortune<07f0>I barely<03e0>wanna let this baby go. But for you? I'll cut you a<03e0>deal, whaddaya say?<06e01900>sEVENT_PRICE_QE0130_P_001<08e0000000000000>Sure, I'm all about that!<09e008e0010000000300>Eh, no thanks.
+Good doing business with ya!
+What, leave your wallet in your other pants?<03e0>Go on, get outta here.
+That's too bad, that's too bad.<03e0>Awright then, get lost. You're scaring away the<03e0>paying customers.
+

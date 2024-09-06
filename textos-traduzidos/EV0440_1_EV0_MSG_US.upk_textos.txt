@@ -1,0 +1,25 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0440_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Look!
+Who are they?
+Does anyone know who that is?
+They call him "the Conqueror."
+How dare he bring his troops!
+That big guy must be him!
+I am Roeas, messenger for his lordship,<0fe003e00ee0>the Conqueror!
+We hail from the eastern city of Veyriel.<0fe003e00ee0>We've come for the Remnant entrusted to us<1ae000002a430fe005e001000ee0>by the prophecy of the God Emperor!
+His lordship promises prosperity to all!<0fe003e00ee0>The mark of this promise will soon be<1ae0000034430fe005e001000ee0>apparent to the world!
+The Remnant will awaken;<0fe003e00ee0>time will be stagnant no more.<1ae000000c430fe005e001000ee0>The promised time is almost upon us.<0fe003e00ee0>Your dreams will soon become reality!
+...
+What rot! A prophecy!? The God Emperor<0fe003e00ee0>would never aid them!
+Ignore them. Let them say what they will.
+They have brought their troops here, to Elysion.<0fe003e00ee0>Perhaps there is truth to their words.
+But did they threaten the God Emperor into<0fe003e00ee0>siding with them?
+A friend of yours?
+What is going on? What has he done?
+I don't know.<0fe003e00ee0>But...there's something about that guy...
+He's gone!
+I need to find him.
+Alright.
+

@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0100_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+We can waste no time in sniffing out<0fe003e00ee0>the rats who kidnapped Irina.
+Torgal?
+Rush, we have prepared a room for you<0fe003e00ee0>within the castle.
+After your journey from Eulam Island,<0fe003e00ee0>you must want to rest and recover from<1ae0000002430fe005e001000ee0>your presumably arduous journey.
+So I just sit on my butt and do nothing?<0fe003e00ee0>Yeah, right! I'll go find those guys myself!
+Fine, do as you like. But try not to do<0fe003e00ee0>anything too foolish.
+We shouldn't let him have free run of<0fe003e00ee0>the castle until we've verified his story.<1ae00000f0420fe005e001000ee0>I'll get on it.
+Okay, uhh... I'm going now? Hello?
+If it's information you seek, there is<0fe003e00ee0>a certain pub in Virtus Parish<1ae0000002430fe005e001000ee0>you might care to investigate.
+Come to the castle if you need anything of us.
+Alright! I'm on it!
+

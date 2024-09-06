@@ -1,0 +1,34 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Lady Emma! Over here!
+The giant is in a hall further into the ruins. To get there,<03e0>you have to take a secret passage on the second floor.
+You can take this ladder up to the second floor.
+So, you're the one behind all this...<03e0>Surrender your weapons at once unless<03e0>you wish for me to take them by force.
+Oho! If it isn't the ever lovely and genial<03e0>General Honeywell.
+Lively, aren't you, with all your demands...<03e0>Well, I have a demand of you as well:<04e0>Return to Athlum, and open the front gate.
+That will make it a lot easier for us to walk<03e0>right in and take over.
+Just a tip: instead of wasting your lives and my time<03e0>trying to resist us, it would be most prudent if you left<03e0>the ruins right now.
+What are you hiding?
+Hiding? Oh no, my dear lady...
+I believe I have something that belongs to you...
+L-Lady Emma...
+Now you understand, don't you?<03e0>Go home, General.
+...No.
+Oho?<03e0>Are you sure you want to do that?<04e0>If you don't do as I say, I'm afraid I cannot guarantee<03e0>the...shall we say, physical integrity of this poor boy.<03e0>I hope my meaning is clear.
+Crystal. You're under the illusion that I'd allow scum<03e0>like you to do as you please.
+I am a soldier of Athlum. No matter the cost, I'll never<03e0>do anything to endanger her. Protecting Athlum is my<03e0>sworn duty.
+Oh! What a revoltingly loyal statement. But I fear your<03e0>words are only worth the paper they're written on.
+I wonder if your tune will change once this boy is dead.<03e0>Do you really want his blood on your hands?
+Hmph. I tire of your dramatics. Besides, I told you<07f003e0>soldiers of Athlum do not bow to threats!
+Can you hold on a bit longer?
+Yes, ma'am!
+Good.<03e0>Let's go, Rush!
+That black-cloaked man... What did he really<03e0>think he was going to do? We were able to stop<03e0>him this time, but he still caught us off-guard.
+You alright?
+Yes, ma'am!<03e0>I'm sorry for causing this trouble...
+It's nothing.<03e0>Let's just be happy you're alright.
+Lady Emma!
+We're finished here. Make certain everyone's received<03e0>the first aid they need, then let's get out of here.
+Yes, ma'am!
+

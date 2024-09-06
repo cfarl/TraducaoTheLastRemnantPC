@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0070_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Pardon my intrusion, but I cannot help but notice you<03e0>look to be handy with a blade...<04e0>Please speak with Commander Roberto of the<03e0>Order of Melphina.<04e0>We have been beset by a number of troubles that<03e0>require the skills of one sure of sword. If you would lend<03e0>your help, speak to him at the <1be0ffbe34ff>Palace of Melphina<1ce0>.
+

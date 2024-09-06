@@ -1,0 +1,46 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0080_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Marsha...<03e0>Does this Forest Maiden lend her aid to our<03e0>search for the missing members of the Order?
+She does. Meister Olebeag, Sir Roberto, this is<03e0>one of our newest Maidens, Leticia.<04e0>She has very advanced empathic abilities.
+Leticia is bound to one of the missing knights<07f003e0>a man named Neo.<04e0>She has attempted to sense his presence since<03e0>the beginning of this ordeal. Finally, she has been<03e0>able to sense something...
+Go on, Leticia.<03e0>Describe what you see.
+Yes, Mistress.
+.........
+I see several small, faint lights...<04e0>Plants grow from the stones; they give off<03e0>a beautiful green glow, and there's the sound<03e0>of ever-falling water...
+Glowing plants and falling water...<04e0>By the God Emperor! That must be the cavern<03e0>to the southwest<07f01be0ffbe34ff>Siebenbur<1ce0>!
+Ah, Master Sykes!<04e0>We have gained a clue as to the whereabouts<03e0>of the lost knights of the Order.
+The maid Leticia of the Forest Maidens has seen<03e0>a vision of where our errant knights may be.<04e0>Her description led us believe they must be in<03e0>the great caverns to the southwest...<1be0ffbe34ff>Siebenbur<1ce0>.
+I intend to head to <1be0ffbe34ff>Siebenbur<1ce0> to rescue my<03e0>comrades.
+I would appreciate it muchly if you would assist<03e0>me, Master Sykes. May I once again call upon<03e0>your blade?<06e0000008e0000000000000>Let's bring 'em home!<09e008e0010000000300>Sorry, I'm a bit busy.
+Once again, you honor me with your generosity.<03e0>I am in your debt.<04e0>Let us make preparations and head<03e0>to <1be0ffbe34ff>Siebenbur<1ce0> immediately.
+No<07f0>you have no need to apologize. I knew the<03e0>folly of such an unreasonable request from the<03e0>start.<04e0>That said, if time bids you change your mind,<03e0>let me know.
+Thankfully, all were able to return to Melphina<03e0>safely. This is all due to your assistance,<03e0>Master Sykes. Again, I am in your debt.
+Hmm...<04e0>Ophelia, I believe these men in black are just the face<03e0>of a much larger evil<07f0>an organization with command<03e0>over many powerful Remnants.
+The henchmen we have dealt with are far from<03e0>the fiends controlling all this.<04e0>If we do not uncover the masterminds behind<03e0>this plot against Melphina, they will only send<03e0>another set of assassins.
+Even Master Sykes agrees.<04e0>Ophelia, know that bruised hearts and soiled pride is<03e0>something that the both of us share. Still, this matter<03e0>bids us act with caution, and that cannot be ignored.
+Ophelia... The most important thing for us to protect<03e0>is not our reputation.
+Oh, yes!<04e0>Master Sykes, take this as a token of our gratitude.
+My subcommander is sure of blade, but perhaps oversure<03e0>of judgment... She is still young, and victim to her sense<03e0>of justice at times.
+Setting strength against strength will only escalate<03e0>conflict.<04e0>The Order will look into further movements of this<03e0>black-cloaked group. Hopefully this will lead to a<03e0>peaceful resolution.
+Still, Commander<07f0>the curs responsible for<03e0>kidnapping our men in the first place have yet<03e0>to be brought to justice.
+The tarnished honor of the Order of Melphina<03e0>cries out to be avenged!<04e0>The acts these miscreants have performed are<03e0>unforgivable. Let our punishment be swift and<03e0>unrelenting.
+But...but,<03e0>the good name of the Order...!
+...
+Isn't it, though! If we roll over and let this stand, the<03e0>Order of Melphina will be a laughing stock across the<03e0>continent!
+Any miscreants who think they can deceive the<03e0>people of Melphina will receive no mercy!
+Any miscreants who think they can deceive the<03e0>people of Melphina will receive no mercy!
+(Two ways to go on this one, huh...)<03e006e0000008e0000000000000>Mmm, better be cautious.<09e008e0010000000000>Honor is serious business.
+Hmm...<03e0>Indeed, that sounds to be the case.
+So, you will go with Roberto, will you?<03e0>You truly are a valiant youth.<04e0>You remind me of myself as a child.
+Roberto. This issue may be discussed at a later time.<03e0>For now, let us be grateful for young Sykes's assistance<03e0>in rescuing our knights.
+Valiant young man...<03e0>For bringing my men from the mouth of danger,<03e0>I give you my thanks.
+<1be0ffbe34ff>Siebenbur<1ce0> has long been known as a terribly<03e0>dangerous area.<04e0>Whyever would someone of the Order go to such<03e0>a place?
+What a blessing that everyone returned safely...
+Oh, Neo...<03e0>Please, please be alright...
+Oh, Neo...<03e0>Please, please be alright...
+You brought my Neo back home safe...<03e0>Rush, thank you so, so much.
+So, the other knights could not use the transport<03e0>Remnant to escape, then?<04e0>There is no need to worry. The power of the Blue Elf<03e0>can reverse the Remnant's actions and send you back.<04e0>Will you return to <1be0ffbe34ff>Siebenbur<1ce0>?<06e0000008e0000000000000>Yeah! Gotta save the others!<09e008e0010000000300>Lemme do something first.
+We all depend on you, young Sykes.
+Hmm. I do worry for the fate of the Order, but<03e0>there is wisdom in being prepared. Ready yourself<03e0>before returning.
+

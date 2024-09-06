@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0120_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Sir! I know this may sound forward, but I need help...<03e0>Would you listen to my story, at least? <04e0>My homeland was destroyed by a terrible man. I've sworn<03e0>to get revenge on him and return my home to its former<03e0>glory. But I do not have the strength to do it alone...
+I've heard that a strong fighter lives in <1be0ffbe34ff>Dillmoor<1ce0>... One<03e0>skilled not only in combat, but in leadership as well.<04e0>I want to meet him, and learn his techniques. I am sure<03e0>that with that knowledge, I could return honor to my<03e0>homeland! Would you be kind enough to lead me there?<06e0000008e0000000000000>Sure, if you want.<09e008e0010000000300>I'm no tour guide.
+Thank you!<03e007f0>Oh, I almost forgot. My name is Glenys.<03e0>Anyway, let's get going to <1be0ffbe34ff>Dillmoor<1ce0>!
+Oh, I see... You must be busy.<03e0>W-well, if your schedule frees up any, then<03e0>please let me know. I'll...probably be here...
+Oh<07f0>it's you again.<03e0>For the honor of my people,<03e0>I must get revenge on that man!
+But to do that, I need to learn the techniques<03e0>of a master. Please, if you take me to him,<03e0>I promise to make it worth your while.<06e0000008e0000000000000>Alright already, geez.<09e008e0010000000300>Dude. No means no.
+Thank you, so much! I'd hoped you'd come<03e0>around<07f0>you did come back and all. And they<03e0>say that youth today are all good-for-nothings!<04e007f0>Oh yes, I'm Glenys, nice to meet you.<03e0>Anyhow, let's get going to <1be0ffbe34ff>Dillmoor<1ce0>!
+Oh...I see.<03e0>Well, uh, if you change your mind, I'll be here!<03e0>Ahahah...ha. *sigh*
+So the master's famous technique was a battle<03e0>formation he had created himself. I admit, I expected<03e0>something different...<04e0>Well, maybe someone with your knowledge of tactics<03e0>can make the best use of this technique.<04e0>Perhaps you can help me avenge my people, and I<03e0>can help you accomplish your goals as well.
+I know I still have a lot to work on, but...<03e0>Please, let me join your group!<04e0>I'll be waiting at the guild, whenever you need me.
+We shall head to <1be0ffbe34ff>Dillmoor<1ce0>.
+We shall head to <1be0ffbe34ff>Aveclyff<1ce0>.
+

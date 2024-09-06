@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0210_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey! What are you doing!?
+What the<07f0>?
+A thief...?<03e0>But the store isn't ready yet.<03e0>There's nothing here to steal.
+I run a customization shop, but we're not open yet.<03e0>Come back later, okay?
+A customer, eh?<03e0>I hate to tell you this, but the shop's<03e0>not ready for business yet.
+Let's see...<03e0>The first thing I'll need is some <1be064f4ecff>light metal<1ce0>.<03e0>Can't do customization without it!
+Time to hit the <1be0ffbe34ff>pub<1ce0>!
+

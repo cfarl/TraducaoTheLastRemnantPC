@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0270_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey, wanna hear a story?<04e0>Once upon a time, there lived a fierce monster who loved<03e0>fighting more than anything else in the whole world.<04e0>It fought so much, and for so long, that eventually,<03e0>it forgot how to do anything else.<04e0>The monster's heart became hard as polished steel. It<03e0>couldn't even really be called a "heart" anymore. And<03e0>eventually, even the monster's body had become a blade.
+...Like it? I know it's just a story, but this weird old man<03e0>who came by earlier totally believed it! Crazy, huh?<04e0>Not only that, but he said he was gonna find the sword,<03e0>and ran off!<04e0>But there've been a bunch of bandits around... It's no<03e0>place for senile old geezers, you know? Can you go<03e0>check on him, make sure he's okay?<06e0000008e0000000000000>Should be...interesting.<09e008e0010000000300>He'll probably be okay.
+Thanks, mister! That's real nice of you!<04e0>The cave with the sword is supposed to be in<03e01be0ffbe34ff>Lavafender<1ce0>. Be careful, okay?
+Well, maybe...<03e0>I've just got a bad feeling about it...
+I know it sounds unbelievable for a monster to turn into<03e0>a sword, but that weird old guy totally believed it!<04e0>There're bandits around there, and I think he's kinda...<03e0>You know. Think you could check in on him? I'd feel a<03e0>lot better to know he's alright.<06e0000008e0000000000000>Okay, okay.<09e008e0010000000300>Ehh, he's lived this long.
+Thanks for changing your mind! I owe you one, for real.<04e0>Grandma says the cave with the sword is in <1be0ffbe34ff>Lavafender<1ce0>.<03e0>Be careful, okay?
+I guess so...<03e0>I dunno, I just have a bad feeling about this...
+So, the old man was okay?<03e0>Thank goodness!<04e0>Thanks, mister!<03e0>Here, for your trouble.
+What a kooky old guy!<03e0>I hope I can meet him again.
+

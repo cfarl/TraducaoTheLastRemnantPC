@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) RBC_0101_MP3_MSG
+-- ----------------------------------------------------------------------------------
+Rush, we are about to walk into a den of monsters, so<03e0>look sharp. We will be fine as long as we handle each<03e0>one individually.
+Okay, got it.
+Take this. It is an <1be064f4ecff>Alizarin Orb<1ce0>.<03e0>It will enable you to use mystic arts.
+Mystic arts?
+Perhaps the term "spell" is more common... It's a way<03e0>to channel energy through your weapon, with fantastic<03e0>results.
+Huh...
+With this <1be064f4ecff>Alizarin Orb<1ce0>, you can channel spells through<03e0>your weapons as well. Now you can attack enemies<03e0>with mystic arts.
+Cool! Thanks a lot!
+Additionally, let me give you this map of the area.<03e0>With these, you should be ready for anything.<03e0>Now then, shall we go on?
+pagusThis gate is a Remnant.<03e0>Only the one bound to it may open it.
+rush_sykes_sSo what do we do?
+pagusHmm... When it comes down to it, it IS a door...<03e0>It stands to reason that it would have a key.
+pagusThis is it. This Remnant is the key.<03e0>Let's try it on that door.
+

@@ -1,0 +1,229 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the Heavenly Terrace.<03e0>What would you like to know about?<06e0000008e0000000000000>The neighboring cities<09e008e0010000000000>The Academy<09e008e0020000000000>You
+Elysion's central location makes it simple to travel to<03e0>many places from here. As for places worth visiting...<03e0>Hmm, let's see.<04e0>Balterossa, a large trade city to the southwest, has<03e0>a huge population and a great selection of goods.<04e0>Ooh, and there's Royotia, a mining town south past the<03e0>desert. The area is famous for quality ore.<04e0>Let's see... What other places are out there?<03e0>You should go see for yourself!
+The Academy is a Remnant research facility found near<03e0>the assembly hall.<04e0>The Academy is heavily backed by the Congress.<03e0>Chairman Hermeien's obsession with Remnants borders<03e0>on unnatural.<04e0>He invests a lot of money to keep the Academy afloat.
+Come back in ten years, cutie, when you've grown into<03e0>a real man<07f0>and I'll tell you anything you want to<03e0>know then. Anything. *wink*
+Now that you've heard all about the other towns, it might<03e0>be a good time to go and see them with your own eyes.
+Oh, I almost forgot!<04e0>Far to the southeast of Elysion is Melphina,<03e0>the town of scholars. I hear it's a beautiful<03e0>town surrounded by nature.<04e0>If only I could get a day off. I'd love to go<03e0>to Melphina and see for myself.
+The Academy is the building across from the assembly<03e0>hall. With support from the Congress, they research<03e0>Remnants.<04e0>Under Duke Hermeien, there was some illegal<03e0>experimentation going on there, but all that's stopped<03e0>since the Duke of Ghor became Congress chairman.<04e0>It's become a decent organization again.
+You want directions to other towns?<03e0>Listen carefully, sonny.<04e0>The <1be0ffbe34ff>Southwestern Road<1ce0> to the desert is used as a trade<03e0>route, but any merchant traveling that road takes plenty<03e0>of protection<07f0>and with good reason.<04e0>That place is crawling with monsters!<04e0>If you value your life, you won't take that road. Capice?
+The army that was making a scene<03e0>on Tula Street... What was their business?<03e0>That lady was a looker, though, huh?<04e0>But where in the world is Veyriel?<03e0>I know my geography and I've never heard<03e0>of the town!
+There are strongholds around Elysion that were built to<03e0>protect this city from invaders. Of course, they haven't<03e0>been used for hundreds of years.<04e0>But lately...there have been rumors of suspicious folks<03e0>hanging around them.<04e0>I don't know who's up to what, but it can't be good!
+There are plenty of goodies to buy in Elysion, but I really<03e0>recommend the Blessed Buns.<04e0>They're soft and feathery on the outside, like clouds,<03e0>with a creamy filling, like the Remnant Elysion floating<03e0>within them.<04e0>One bite will take you to heaven<07f0>or the Sacred Lands.<04e0>Getting hungry?<03e0>They're sold in Hendler if you want to go home with<03e0>a pack or ten!
+Hey, listen up.<04e0>I heard rumors of people hanging around the strongholds<03e0>at night and I decided to check it out for myself.<04e0>That's when I saw Lord Hermeien, who supposedly died<03e0>in the war!<04e0>I've told a few people but no one believes me.<03e0>But I know what I saw!
+You've been thinking about that too, eh?<03e0>...Don't look at me like you don't know what I'm talking<03e0>about! The barkeep!<04e0>The white lab coat she used to wear...<03e0>The blond hair that shines like the sun...<03e0>Fiery almond-shaped eyes full of life...<04e0>You're thinking of going after her, aren't you!? Well,<03e0>you should give up now. You know why?<04e0>If the research that my brother's doing in Melphina is<03e0>successful, she'll fall head over heels in love with me!<03e0>Hahaha!
+You thought so, too, did you?<04e0>That army that came around talking about<03e0>dreams and such... It all has to be a ruse by<03e0>some lowly lord to get invited to the Congress.<04e0>That big guy in the armor must have been<03e0>the Conqueror, but he didn't emanate<03e0>a single ounce of intelligence or leadership!<04e0>This all has to be one big joke...
+You've been thinking about that too, eh?<03e0>...Don't look at me like you don't know<03e0>what I'm talking about! The strongholds!<04e0>Rumor has it that shady-types have been seen using<03e0>them lately. Me, I think it's a bunch of ex-Academy<03e0>members doing some sort of "private" research.<04e0>Me and my brother used to do all kinds of experiments<03e0>when we were young... Hahaha!
+The new Academy director, Ms. Haruko, is very skilled as<03e0>a scientist, but I'm not sure she has the management<03e0>skills to run the whole Academy.<04e0>She was probably put in that position temporarily, and<03e0>will soon be replaced by someone else<07f0>perhaps<03e0>John Sykes.
+Ahh, the Academy's done for.<04e0>Once the Congress found out Hermeien had a group<03e0>doing underground Remnant research, not only did they<03e0>disband it, but they cut funds for the rest of us as well.<04e0>You can guess how well that went over... The only<03e0>scientists left are the ones who are really passionate<03e0>about what they do.<04e0>I think I'm on my way out, too. I guess I'll go back home<03e0>and marry the man my parents picked out after all.
+I hear there's some unknown army making use of the<03e0>abandoned strongholds near Elysion.<04e0>They're not using just one, but several of them.<04e0>It...couldn't be the Conqueror's army, could it?<03e0>I was so certain they'd all perished in Nagapur...<04e0>Oh, I don't even want to entertain the thought!
+Hehe, my days are so lax.
+Then you're fired.
+Hehe, my days are so busy.
+You know Baron Nielsen of Celapaleis? Seems his<03e0>wife's disappeared. ...'Course, those two are famous<03e0>for not getting along, so it's nothing new.
+Interesting, huh?
+Why does he put up with that?<03e0>That is NOT acceptable behavior.
+I heard someone's plotting to assassinate<03e0>Duke Qubine... Rumor has it a suspicious-<03e0>looking woman was spotted lurking about.
+Interesting, huh?
+And the idiots didn't bring her in for questioning?
+So, apparently the desert princess has been<03e0>sneaking out of the castle pretty regularly to<03e0>meet some guy she's been mooning over.
+Interesting, huh?
+Children need to get into trouble and<03e0>receive punishment. Brats need a taste of<03e0>the real world!
+...Speaking from experience, are you?
+I heard the desert princess eloped with<03e0>her new man.
+Interesting, huh?
+Only fools elope! Stupid kids.<03e0>...<03e0>Why can't I find love...?
+Hehe!
+The conflict between Balterossa and<03e0>Royotia is getting worse by the day.<03e0>Everyone thinks there's a war coming.
+Interesting, huh?
+If people know it's coming, why don't<03e0>they do something to try to stop it<03e0>from happening? Lazy bastards...
+...Easier said than done.
+Rumor has it that in a certain moor,<03e0>the Imperator used his powers to<03e0>seal the entranceway to another realm.
+Interesting, huh?
+What a useless bastard. Why didn't<03e0>he just destroy it to save us grief?
+...I think he would have, if that had<03e0>been an option.
+If a Forest Maiden vows eternity with<03e0>a Melphinian knight, she gains the power to<03e0>see and hear whatever her partner does.
+Interesting, huh?
+That has got to be annoying!<03e0>Everyone needs their alone time.<03e0>Ugh, I could never do that.
+...Don't worry<07f0>no one will ever ask you to.
+The Forest Maidens and the Order of Melphina<03e0>are getting ready for something big. I think something's<03e0>happened to the Last Leaf in Crookfen.
+Interesting, huh?
+See? I was right! The Imperator IS<03e0>a useless bastard! This wouldn't have<03e0>happened if he had destroyed the damn thing!
+...Why don't you go back in time<03e0>a thousand years and tell him?
+It's almost time for Kosmosfest, huh? But apparently<03e0>the Cosmos Maiden hasn't made it to Nagapur yet.<03e0>Maybe she got mixed up in something.
+Interesting, huh?
+She's probably just taking her sweet<03e0>time getting ready.<03e0>Women are so vain!
+...You're not?
+So the Cosmos Maiden made it, and they started<03e0>the festival alright. Usually it's a pretty quiet event<03e0>until the monsters show up.
+Interesting, huh?
+It's a festival! Lighten up!<03e0>Monsters? The more the merrier!
+...You're happy as long as they buy<03e0>their refreshments here, right?
+Some old-fashioned-looking woman is looking to<03e0>hire bodyguards, I hear. She's supposed to be<03e0>hanging out at a pub near the canal.
+Interesting, huh?
+Only weaklings need bodyguards.
+...Not everyone is as strong as you.
+Apparently, a lot of the treasures of the Old Kingdoms<03e0>are turning up on the black market.
+Interesting, huh?
+Out with the old, in with the new.
+...I don't think that applies here.
+Some guy is looking for these three stones that<03e0>play an important part in the desert's history.
+Interesting, huh?
+Someone's looking for stones?<03e0>There's a bunch in the back,<03e0>if anyone needs any.
+Some guy researching the history of ancient magick<03e0>is looking for a little help. Maybe he can uncover<03e0>the secrets we've always wanted to know...
+Interesting, huh?
+Ooh! Maybe he can make me a love potion!
+Apparently, some monster sealed by the Imperator<03e0>has appeared. It's really got people spooked, saying<03e0>it's the end of the world!
+Interesting, huh?
+Are we all going to die?<03e0>If that's the case, I'm going to withdraw my<03e0>life savings and go on a shopping spree!
+...What are you going to do if<03e0>nothing happens and we're fine?
+Some amnesiac is wandering around the cities<03e0>in the desert, looking for anything to help<03e0>regain his memory.
+Interesting, huh?
+Sometimes I wish I had amnesia.<03e0>There's a lot I'd like to forget about.
+Don't worry. At your age, you'll be losing your memory<03e0>soon enough.
+A notorious bandit is lurking around Athlum.<03e0>It seems he's waiting for someone but no one's<03e0>brave enough to ask.
+Interesting, huh?
+What if he tries to attack poor little me?<03e0>All bandits should be locked up!
+There's a goddess statue in the Robelia Ruins<03e0>that's supposed to let you meet up with anyone<03e0>far away. A kid looking for his sister is asking about it.
+Interesting, huh?
+...<03e0>I...I have something in my eye...
+...Are you crying!?
+There's a murderer on the loose in the big city!
+Interesting, huh?
+What!?<03e0>Here!?
+There's some massive yama looking for stuff.<03e0>He's acting kinda weird, though. People say<03e0>he's crazy.
+Interesting, huh?
+He's a yama, of course he's large.<03e0>...Anyway, I hope he comes here!
+...Looking to make a profit, are you?
+Some white qsiti's been looking for a mystical book.<03e0>People seem to think he looks familiar, but no one's<03e0>been able to place him.
+Interesting, huh?
+I've never liked the bookworm type.<03e0>He should go out and get some sun.
+There's this set of twins that've turned up as<03e0>mercenaries lately...good ones, too. They're slightly<03e0>cold in attitude, but everyone wants to meet them!
+Interesting, huh?
+Men... *sigh*
+Some fellow is hosting a game in<03e0>the Great Sand Sea. I wonder how<03e0>many people are gonna join in the fun.
+Interesting, huh?
+He has the right idea!<03e0>Life is all about fun.
+...Strange, coming from a seedy barkeep<03e0>like yourself.
+Some old warrior's crossed the Great Sand Sea,<03e0>looking for a special sword.
+Interesting, huh?
+Men love these kind of adventures.<03e0>I don't care if my man goes away<03e0>on a trip, as long as he keeps sending money!
+...You are every man's nightmare.
+A bunch of guards somewhere have sworn to<03e0>follow their ruler for as long as they live.
+Interesting, huh?
+If I were lord, I would work them<03e0>like my slaves.
+There's not a family in the world as dedicated as<03e0>the Honeywells. If they've got your back,<03e0>you can relax.
+Interesting, huh?
+I wonder if they've got my back.
+I heard in Royotia that apparently<03e0>Torgal of the Athlum generals is real<03e0>touchy about his past.
+Interesting, huh?
+Everyone has a touchy part of their<03e0>past. Some things I'll take with me<03e0>to the grave.
+..Don't worry. No one's interested in<03e0>your past, anyway.
+The competition to determine the Hero Exemplar<03e0>is about to start. I wonder how many are gonna<03e0>be up for the challenge.
+Interesting, huh?
+Yeah, good luck. Not interested.
+I hear Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things.
+Interesting, huh?
+With that kind of education, I bet<03e0>the graduates rake in the big bucks.
+Athlum's had its share of hardships, and with<03e0>the new Honeywell girl being so young...<03e0>Well, people are worried.
+Interesting, huh?
+She'll do fine.<03e0>I have faith.
+...Was that a compliment? From you?<03e0>What's wrong with you today?
+A lot of the ladies are wondering why the Marquis<03e0>of Athlum has no lady in his life.<03e0>I can't see why<07f0>he's a good-looking fella.
+Interesting, huh?
+Who's to say he doesn't?<03e0>Ooh! I wish I could find out.
+The ex-director of the Academy has been<03e0>spotted at pubs in various cities.
+Interesting, huh?
+She should come here!<03e0>I've always liked her!
+...You just like her money.
+It seems Dr. Sykes has been seen making frequent<03e0>trips to Athlum Castle lately.
+Interesting, huh?
+Dr. Sykes?<03e0>I used to work under her.
+...You worked for the Academy?
+A monster was spotted flying around Wyrmskeep.<03e0>It's got the town spooked!
+Interesting, huh?
+I wish a lot of things would go away,<03e0>but there are just some things you<03e0>have to live with.
+Some bloodthirsty female warrior is trying to hunt down<03e0>the goons responsible for the incident at the moor,<03e0>against her boss's wishes.
+Interesting, huh?
+I wish some hottie would hunt ME down.
+...Keep on dreaming.
+A mob of ferocious monsters were spotted<03e0>in the Great Sand Sea. They're apparently so<03e0>powerful that Balterossa doesn't know what to do.
+Interesting, huh?
+Drama!<03e0>I should go have a looksie.
+...You're a loon.
+According to archaeologists, there's something<03e0>dangerous enough to destroy entire cities<03e0>hidden in the depths of a volcano.
+Interesting, huh?
+How scary!<03e0>But how much can you really trust<03e0>a weatherman's prediction?
+...They're archaeologists, not meteorologists.
+No one knows what's going on inside the volcano.<03e0>But lords have their ways of finding things out<07f003e0>no matter how impossible.
+Interesting, huh?
+How would a lord know something<03e0>a scientist doesn't even know?
+...They have their ways.
+A certain town just lost their lord, and<03e0>his two sons are fighting for the position.
+Interesting, huh?
+This has nothing to do with me.<03e0>I don't care.
+...I'm sure they don't care about you, either.
+They say that if you listen closely, you can<03e0>hear crying coming from the depths of<03e0>the Great Sand Sea.
+Interesting, huh?
+Crying? Someone's hurting?<03e0>How...tragic...
+...Are you laughing?<03e0>...You're laughing, aren't you?
+A long time ago, a hero lived in the Great Sand Sea.
+Interesting, huh?
+And?
+...I don't know.
+Some guy got the wits scared out of him in<03e0>the Great Sand Sea. He was talking to a pillar<03e0>when ghosts appeared out of nowhere.
+Interesting, huh?
+Guys who talk to pillars scare me more<03e0>than ghosts.
+...True.
+There's a man claiming to be a scientist<03e0>in Melphina. Apparently, we should stay away<03e0>from him because he's absolutely looney.
+Interesting, huh?
+Oh, that guy.
+...A friend of yours?
+There's a cafe in some city that's infested<03e0>with bugs from the desert. I hear the owner<03e0>is about to go crazy!
+Interesting, huh?
+How unsanitary.<03e0>I'm never going there.
+Since the incident, Nagapur's become a real<03e0>dangerous area. There's lots of crime, especially<03e0>involving the kidnapping of young boys and girls.
+Interesting, huh?
+Kidnapping? Missing children?<03e0>That's just wrong!
+A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures.<03e0>No one does that anymore, though.
+Interesting, huh?
+They would exchange treasures?<03e0>The only thing I would exchange<03e0>treasure for is cash.
+Balterossa is the sole buyer of all of<03e0>Royotia's trade goods. There are countless merchants<03e0>who aren't too happy with the situation.
+Interesting, huh?
+I'm sure they're being resold at a reasonable<03e0>price, unlike the inflated price tags<03e0>the merchants would put on them.
+...You just made enemies with every<03e0>merchant in the world.
+A yamaan mercenary is looking for soldiers to<03e0>help him out. I bet he found himself a job too big<03e0>to take on alone.
+Interesting, huh?
+Mercenaries don't have a steady earning.<03e0>He needs to change careers.<03e0>Deskwork is always a good option.
+...With the ongoing feuds, I'm sure<03e0>they get paid better than you do.
+I heard some girl raving about a man in Celapaleis<03e0>who's sweet one second, but then angry the next.<03e0>She says he's her ideal man. Women...
+Interesting, huh?
+That's my ideal man, too!
+...Really?
+There's a qsiti who stands in the middle<03e0>of busy streets and glares at anyone<03e0>who bumps into him. Weird.
+Interesting, huh?
+Oh, I know him.
+...Another friend of yours?
+There's this intriguingly mysterious lady<03e0>who looks like she has the weight<03e0>of the world on her shoulders.
+Interesting, huh?
+I should try acting mysterious.<03e0>Maybe then people will pay attention to me!
+There was a bunch of Bloody Alice soldiers<03e0>spotted at the moor. It looked like they were<03e0>getting ready to do something big.
+Interesting, huh?
+Those feminist bandits?<03e0>I hope they get eaten alive by<03e0>some horrid monster.
+The Jhana are now causing a ruckus in<03e0>the Great Sand Sea. Apparently, not even<03e0>the Gae Bolg can teach them a lesson.
+Interesting, huh?
+They never learn...<03e0>Just like men.
+...I resent that.
+The Silver Falcons say they're going to get rid<03e0>of the Jhana. They're so dependable.
+Interesting, huh?
+It's not really their fault they don't<03e0>learn. Their race survives by stealing<03e0>from people. They don't think on their own.
+...How do you know this?
+The Silver Falcons are going to get<03e0>rid of what's left of the Conqueror's army.<03e0>Good riddance!
+Interesting, huh?
+Less soldiers means less customers...<03e0>Ah well.
+A real gloomy-looking man comes here all the time.<03e0>He really creeps me out...
+Interesting, huh?
+I want to kick him out, but I have no real reason to.
+...No one knows anything about him.
+

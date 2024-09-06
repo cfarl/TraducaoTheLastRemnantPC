@@ -1,0 +1,68 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+This is the center of the old town, Genaade District.<03e0>Many historic temples line the streets.<04e0>Up the street is the Temple of Elysion, where<03e0>people have prayed to the old gods for hundreds<03e0>of years.<04e0>Is that what brings you here, too?<03e0>To say some prayers?
+Message 2
+Message 3
+Message 4
+Since the incident in Nagapur, more and<03e0>more people visit the temple.<04e0>Praying keeps their minds off of the hopelessness<03e0>of an unknown future.
+Message 6
+See the Sacred Lands through the clouds?<04e0>According to legend, that's where the souls<03e0>of the dead return.<04e0>A thousand years ago, there was a war that cost<03e0>many their lives.<04e0>Marion Marshall prayed for the dead and her prayer<03e0>enveloped the Sacred Lands with a celestial light.<04e0>Since then, it has been an area for<03e0>souls to rest.
+Did you see that light soar straight towards<03e0>the Sacred Lands!?<04e0>I've never seen such brightness.<03e0>Could it have been the transfer of a powerful<03e0>soul into the heavens?<04e0>I just hope it did nothing to disturb the others<03e0>resting up there.
+Message 3
+Message 4
+Countless souls must rest in the Sacred<03e0>Lands now, due to the war brought on by<03e0>the Conqueror's army.<04e0>The Congress insists that the army no longer<03e0>exists, but I'm worried that something like this<03e0>will happen again.<04e0>If it does, I just hope it doesn't happen any time<03e0>soon. I want the souls to be able to rest in peace.
+Message 6
+You know about Lady Marion and the romance<03e0>between her and the Imperator, right?<03e0>*sigh*<04e0>I wish something wonderful like that would<03e0>happen to me, too...<03e0>*sigh*
+What's going on?<03e0>What's this about a bright light shooting<03e0>towards the Sacred Lands?<04e0>I was inside the temple and missed it...<03e0>What happened!?
+Message 3
+I've been praying at the temple every day.<04e0>When I'm sad or frustrated, all I have to do is<03e0>look at Lady Marion's face and everything just<03e0>seems to fall into place.
+Genaade is a place with history.<03e0>The buildings and streets are still in<03e0>their original state.<04e0>Though the way the town was built, even folks<03e0>like me, who have lived here for over thirty years,<03e0>still get lost!
+Hey boy, did you see that?<03e0>A flash of light shot towards the heavens!<04e0>I've lived here for more than thirty years,<03e0>but I've never seen the Ark emit that kind<03e0>of light!
+Message 3
+I heard from some young'uns that the Gwayn<03e0>went out of control and destroyed Nagapur!<04e0>What if the Sacred Lands came raining down<03e0>on us!? It IS a Remnant, after all...<04e0>Maybe it's time for this old fogey to find<03e0>a quiet town with a nice retirement home.
+Huh?<03e0>What're you doing here, old lady?
+Wha<07f0>excuse me?<03e0>Do I even know you?
+Oh, oops.<03e0>Um, I thought you were someone else...
+Hmph! Make sure you have the right<03e0>person next time!
+S-sorry...
+Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
+Calling someone "old lady" is rude and inconsiderate.<03e0>Besides, I am far from old!
+Hm? You again.
+Uh.
+You don't look happy to see me.
+Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
+Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
+Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
+Thank you.
+You're not as inconsiderate as I thought.
+You're looking well.
+Heya, Ms. Young Maiden.
+Could you please not call me that?<03e0>It sounds ridiculous, to say the least.
+Well, it's not like I know your name.
+Oh?
+...
+The name's Emmy.
+Nice to meet you for real, finally.<03e0>I'm<07f001e00be00ae0>
+Rush. Rush Sykes.<03e0>Right?
+Wha<07f0>? How did you know!?
+I have my ways.
+Take care, Rush.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
+I thought I'd done plenty of training, but I still can't<03e0>even light a candle to Mother... But there's no way<03e0>I'm giving up now.
+Hey, Rushie!<04e0>I'm having a fab time in town!<03e0>This place is like heaven!
+Rushie, do you believe in witches?<04e0>They're women with the ability to, like,<03e0>use special powers, like magick.<04e0>...<04e0>You have no idea what magick is, do you...?<03e0>Then I guess you wouldn't know anything<03e0>about the Witch's Signet.<04e0>Sigh!<03e0>You need to, like, read more books<03e0>or something. Useless!
+Rushie, you need to, like, read more<03e0>books or something. Useless!
+You know how I was talking about witches<03e0>before? Maybe I can try to, like, explain<03e0>it a little. I'll tell you what my grandma told me.<04e0>So a really, really long time ago, there was<03e0>this thing called magick. It was nothing like<03e0>the spells we use where you need an object.<04e0>With magick, you can even rip through dimensions<03e0>and stuff, or summon monsters!<03e0>Scientists and people still talk about it today!<04e0>So a witch is a female who can like,<03e0>totally use magick!<04e0>I'm supposed to be, like, a descendant or<03e0>something of a clan that has these powers.<04e0>You don't know anything, do you?<03e0>I'm so exhausted!<03e0>I'll tell you the rest later.
+I'm supposed to be, like, a descendant or<03e0>something of a clan of witches!
+Anyway, so to continue my story...<04e0>When you're part of a family with these<03e0>kinda powers, they make you like, go<03e0>out and train when you're young.<04e0>So that's what I'm doing right now.<03e0>I need to, like, get this thing called the Witch's<03e0>Signet. It's...somewhere in this world.<04e0>I'm so totally over this training, so I want<03e0>to find it ASAP and be done with it!<03e0>So, Rushie, will you help me find this thingy?
+I'm so totally over this training!<03e0>I want to find the signet ASAP and be done<03e0>with it all!
+Thanks a million for helping me find<03e0>the Witch's Signet, Rushie!<04e0>Okay, so I made a decision.<03e0>I'm going to become a witch!<04e0>According to the signet, the job of, like, a true<03e0>witch is to discover the world's truths!<04e0>I figure I can travel the world to learn more<03e0>about magick and stuff. And maybe I can<03e0>become a real witch!<04e0>I'm gonna wait to tell Grandma I found<03e0>the signet. I'm gonna become a kickass<03e0>witch and surprise her one day!<04e0>So Rushie, I'll be seeing a lot of you.<03e0>Lucky you!
+Heya, Rush!<04e0>What's the 411?
+

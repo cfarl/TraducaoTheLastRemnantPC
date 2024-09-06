@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+I am Beauson.
+Hmph. You wish to reverse the trade of that<03e0>Ancient Scabbard?<04e0>Fine. I will take back my scabbard, and in<03e0>return, give you information on what I traded it for.<06e0000008e0000000000000>Fine, whatever.<09e008e0010000000300>Info? Don't make me laugh.
+It was a map...though I doubt it's what the<03e0>woman I traded it to thinks it is. She believes<03e0>it leads to the treasure of the Imperator.
+Hmph, fine, I do not need the scabbard. I'll<03e0>give you the information for a flask of wine.<06e0000008e0000000000000>Like, say...Royotian wine?<09e008e0010000000300>No. Show me the treasure.
+It was a map...though I doubt it's what the<03e0>woman I traded it to thinks it is. She believes<03e0>it leads to the treasure of the Imperator.
+Ghkk... I don't have it anymore, alright? Now,<03e0>do you want to hear where it is or not? Even<03e0>some Royotian Ore will do, so hand it over.<06e01900>sEVENT_PRICE_QE1020_P_040<08e0000000000000>Royotian Ore, then?<09e008e0010000000300>Look, just forget it.
+It was a map...though I doubt it's what the<03e0>woman I traded it to thinks it is. She believes<03e0>it leads to the treasure of the Imperator.
+Then, I shan't tell you a thing.
+No, no, no, I had no intention to deceive...<04e0>Goodness, if it's got you both in such a tizzy,<03e0>then I'll return what I traded her, alright?<04e0>Here, the Irised Stone.
+Alyssa has quite the number of precious items<03e0>for trade, hasn't she? Curious, don't you think?
+Yes? You look as though you've something to<03e0>tell me.
+It was a map...though I doubt it's what the<03e0>woman I traded it to thinks it is. She believes<03e0>it leads to the treasure of the Imperator.
+Alyssa has quite the number of precious items<03e0>for trade, hasn't she? Curious, don't you think?
+What? You haven't even got it.
+

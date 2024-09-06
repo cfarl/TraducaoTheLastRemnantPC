@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+You have come.<03e0>I have found out the agenda of the Third Committee.<03e0>But I must inform you of something.
+They have taken the Remnant research they obtained<03e0>and used it to create a Remnant themselves<07f0>one<03e0>that is a weapon.<04e0>At the Academy, the project was referred to by the<03e0>code name "Leithion." The weapon created was a<03e0>blade<07f01be064f4ecff>Leithion's Sword<1ce0>.
+This weapon can trigger a Collapse at will as a way of<03e0>gaining tremendous power.<04e0>The Third Committee plans to use this sword to throw<03e0>the world into further chaos, and take advantage of the<03e0>disorder to gain more power.<04e0>I believe in no uncertain terms that this sword should<03e0>not exist. I am heading to the <1be0ffbe34ff>Numor Mines<1ce0> at once<03e0>to see to its destruction.
+Mmm, so, as I recall, you were involved in this matter<03e0>from the beginning. Wouldn't you like to see the end?
+However, if you are to come, you will have to make<03e0>certain to pull your own weight. Well?<06e0000008e0000000000000>I'm ready!<09e008e0010000000300>I need some time to prepare.
+Hmph, then you shall come with me.<03e0>Remember, I gave you a fair warning<03e0>of the dangers that may fall upon us.
+You should always be prepared.<03e0>I shall wait for you, but make haste.
+Hmph, I recall your involvement with <1be064f4ecff>Leithion's Sword<1ce003e0>from the beginning.<03e0>Wouldn't you like to see it to the end?
+However, if you are to come, you will have to do your<03e0>part. I am headed to the <1be0ffbe34ff>Numor Mines<1ce0> to see to its<03e0>destruction. Are you coming with me?<06e0000008e0000000000000>I'm ready!<09e008e0010000000300>I need some time to prepare.
+Hmph, then you shall come with me.<03e0>Remember, I gave you a fair warning<03e0>of the dangers that may fall upon us.
+You should always be prepared.<03e0>I shall wait for you, but make haste.
+You have proved yourselves as great soldiers. We would<03e0>not have been successful without your help.<04e0>However, my emissaries inform me of slightly unusual<03e0>activity in the area. I will stay and rid this land of it all.
+I am indebted to you.<03e0>I will offer my assistance if ever it is necessary.<04e0>Until we meet again...
+

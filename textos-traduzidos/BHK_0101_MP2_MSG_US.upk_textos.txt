@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) BHK_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+There is a giant padlock on the door<03e0>that must be opened with a key.
+There is a giant padlock on the door.<03e0>Use the Mojcado Key?<06e0000008e0000000000000>Let's try it!<09e008e0010000000300>Meh, not right now.
+The padlock has been opened.
+

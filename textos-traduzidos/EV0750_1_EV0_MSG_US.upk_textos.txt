@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0750_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Stand ready!
+Evacuate quickly! Now!
+He's a monster!
+Help me!
+Over here! Quickly!
+What is he doing here!?
+Get back!
+The Valeria Heart...<0fe003e00ee0>Did it...?
+The...tablet...
+Bastard...why do you...
+What's going on?
+I don't know<07f01ae0000028420fe002e001000be00600000000000000>
+

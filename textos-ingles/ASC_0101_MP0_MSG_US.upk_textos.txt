@@ -1,0 +1,35 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Heya, kid! This yer first time in Athlum?<03e0>This is Xiphos Way.<04e0>Keep going down this way, an' you'll hit the<03e0>Town Square. Veer off from there an' you can<03e0>head out to Virtus Parish.
+Hey, you been keepin' up with that Conqueror<03e0>guy an' his army?<04e0>They're just a bunch o' thugs that'll do<03e0>anything to get hold of a Remnant... Bet they'd<03e0>sell their mama for somethin' cheap, too!<04e0>Talking 'bout them's all the rage here<07f0>some<03e0>say they even wanna take over the world!<03e0>They're a shady bunch, that's fer sure!
+[[3rd Level Message]]
+Damn that Conqueror!<03e0>Takin' away our Lady Emma an' the Valeria Heart...!<04e0>Without 'em, the whole town's become greyer...<03e0>Dammit!
+Huhhh, so is that Conqueror bastard really<03e0>s'posed to be dead?<04e0>Rumor is, his army wasn't completely<03e0>destroyed... Damned if there's anything I<03e0>wouldn't rather hear, though.
+Hey, didja hear? Athlum's finally got free from<03e0>Celapaleis!<04e0>'S been a long time since we had any good news.<03e0>Kinda feels like karma's finally payin' us back!
+If Lord David's goin' toe-to-toe with this Conqueror<03e0>guy, the outcome's already decided!<04e0>Yeahhh, that guy can bring it all he wants<07f0>he's just<03e0>gonna get beat down! Tear 'im a new one for Lady Emma!
+Equipment shops, item shops, customization<03e0>shops...<04e0>Xiphos Way has it all.<03e0>This is the place in Athlum to shop!
+[[2nd level message]]
+[[3rd Level Message]]
+The Valeria Heart was lost, and with it,<03e0>everyone's hopes... People walk down the<03e0>streets like they haven't a friend in the world.<04e0>But...this is no time to wallow in sadness!<03e0>Squeezing out a smile is the job of a merchant,<03e0>isn't it?<04e0>What we've got to do is make lots of top-quality<03e0>weapons and armor, as if to say "take that,<03e0>Conqueror!"
+Ever since Duke Ghor became chairman of the<03e0>Congress, supply patterns have changed a lot!<04e0>I guess all the stuff that used to be saved especially<03e0>for Nagapur is being routed to other cities.
+To think, Athlum's become an independent state!<04e0>You see the people walking around? Compared to before,<03e0>it's like night and day. Everyone's so full of hope...<04e0>Looks like they'll be in the mood for buying, too,<03e0>which makes me happy!
+Ignoring the God Emperor's orders and fighting the<03e0>Conqueror... I can't quite say that I think it's a good thing<03e0>or not.<04e0>But...I trust Lord David. He's not gonna steer us wrong!<03e0>The rest of us shopkeepers, too, of course! Good luck,<03e0>Athlum!
+That large sword is this town's Remnant. It's looked<03e0>after the people of this town for centuries, you know.<04e0>When I was just a little girl and I was feeling down,<03e0>I'd go out to the Town Square.<04e0>It sounds strange, but just looking at the Remnant<03e0>always made me feel better.
+Some men calling themselves "the Conquerors"<03e0>or something are plotting to attack the city, I heard...<03e004e0>That's so silly, isn't it? We've got the Marquis<03e0>and the generals to take care of us. Plus, the<03e0>Valeria Heart will protect us, no matter what.<04e0>Whoever these guys are, who cares? They can't do<03e0>anything, so it's not even worth worrying about.
+The sword...it's gone.<03e0>I can't stop looking up, it's force of habit...<03e0>but there's nothing there.<04e0>What's going to happen to us?
+I heard the army's supposed to be finding some<03e0>new Remnant to replace the Valeria Heart.<03e0>Like anything could!<04e0>Besides... I've already gotten used to seeing<03e0>the sky without it...
+Have you heard? Athlum's become independent of<03e0>Celapaleis.<04e0>It warms me to hear it... Even though the Valeria Heart<03e0>is gone, it still watches over us...
+The Athlumian Guard will march on the Conqueror's<03e0>army... I truly hope everyone can return safely.<04e0>Somehow, the Valeria Heart will look over them, I'm<03e0>sure of it...
+Hmm? Dull face, silly outfit, slouched posture...<04e0>You there, you aren't Rush Sykes, are you?<06e0000008e0000000000000>Yeah...why?<09e008e0010000000000>You're mistaken, old man.
+Whaaat? Impudent little...<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
+*snort* Playing dumb won't get you anywhere<07f0>if you're<03e0>playing at all.<04e0>Lord David put out a summons...he said he needed to<03e0>speak with you about something. Hurry to the <1be0ffbe34ff>castle<1ce0>.
+Huh? Yeah...that's the face, that's the clothes...<04e0>You're Rush Sykes, right?<06e0000008e0000000000000>Yup, I'm Rush!<09e008e0010000000000>Who, me? Couldn't be!
+Thought so! I've got a message for you from Lord David.<04e0>He says he's come up with a good starting place for<03e0>information-gathering, and that you should come to<03e0>the <1be0ffbe34ff>castle<1ce0> for details.<04e0>Got it?
+Hahaha, you're a terrible actor, kid. Don't worry,<03e0>though<07f0>you're not in trouble...not with us at least.<03e0>Lord David's put out a summons for you.<04e0>Apparently he's come up with a good starting place for<03e0>your information-gathering, so he'd like you to come<03e0>to the <1be0ffbe34ff>castle<1ce0> so he can share it with you.<04e0>Don't make him wait too long, okay, kid? Or else you<03e0>might end up in trouble with us after all... Just joking!
+Ohh! That valiant form...<04e0>You must be Rush Sykes, are you not?<06e0000008e0000000000000>The one and only!<09e008e0010000000000>Depends on who's asking.
+Well met!<03e0>David, Marquis of Athlum requests that you come<03e0>to <1be0ffbe34ff>Athlum Castle<1ce0> at your nearest convenience.
+Ha ha ha, you are as mischievous as ever, I see!<03e0>I bring a message from Lord David. He requests that<03e0>you come to the <1be0ffbe34ff>castle<1ce0> at your nearest convenience.
+Sorry, man, I'm still setting up.<04e0>When'll I be open?<03e0>Huh, good question!
+The customization shop is open for business!<04e0>[[customization menu]]
+

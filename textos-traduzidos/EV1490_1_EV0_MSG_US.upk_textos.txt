@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1490_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+You've arrived.
+What's your game, Conqueror?
+I desire to release Remnants from<0fe003e00ee0>the hands of men.
+Release?
+The beings of this planet have become far too<0fe003e00ee0>accustomed to using Remnants as their tools.
+At this rate, they will push the Remnants' power<0fe003e00ee0>beyond their limits. They will destroy all existence.
+Ridiculous! Do you really think so little<0fe003e00ee0>of us?
+Do you really think your trust in mankind<0fe003e00ee0>is founded?
+My duty is to prevent that eventuality.
+Who<07f0>what really are you?
+Merely one warden of the Remnants.
+Warden?
+So there's something here in Elysion you need<0fe003e00ee0>to "release" the Remnants<07f0>is that it?
+You should know. This was not originally<0fe003e00ee0>my task to complete.
+With the activation of this machine, all of<0fe003e00ee0>the world's Remnants will be freed.
+While you're answering questions, maybe you can<0fe003e00ee0>answer me this: Why did you do that to Hermeien?
+I desired to learn to what extent releasing<0fe003e00ee0>the Remnants would affect this world.
+Thankfully, I found that Remnants merely<0fe003e00ee0>consume lesser lifeforms, like men.
+People consumed by Remnants? Then...if all<0fe003e00ee0>the Remnants were released...
+Well? Do you finally understand?
+I understand that you don't really<0fe003e00ee0>give a damn about people's lives.
+But me... My friends and family are<0fe003e00ee0>something I wouldn't trade for the world.<1ae00000f0420fe005e001000ee01ae00000f0410fe005e001000ee0>I'll protect them, no matter what.
+As you wish. I won't hold back.<1ae00000b8420fe005e001001ae00000d24205e001000ee0>Come.
+

@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) WM_CM_MSG_00
+-- ----------------------------------------------------------------------------------
+rush_sykes_sEu não deveria partir sozinho.<03e0>Melhor retornar e me juntar ao David.
+plocterEi, onde pensa que está indo?<03e0>Você precisa ir ao <1be0ffbe34ff>Castelo de Athlum<1ce003e0>para apresentar seu relatório.
+pagusPara onde está indo, meu rapaz?<03e0>Você deveria ir primeiro ao <1be0ffbe34ff>Castelo de Athlum<1ce003e0>para relatar suas descobertas.
+rush_sykes_sIsso foi perda de tempo. Se soubesse não teria vindo...<03e0>Vou procurar pela Irina por mim mesmo.
+emma_honeywell_sOnde pensa que vai?<03e0>Devemos nos apresentar ao Lorde David.
+emma_honeywell_sEspero que não esteja planejando<03e0>sair em busca do homem de vermelho sem o Lorde David!
+david_nassau_sOnde está indo, Rush?<03e0>O <1be0ffbe34ff>Templo de Elysion<1ce0> nos aguarda.
+david_nassau_sO que está fazendo aqui, Rush?<03e0>Pensei que você e Emma tinham ido<03e0>procurar sua mãe.
+emma_honeywell_sEstá planejando deixar o Lorde David<03e0>para trás? Precisamos permanecer juntos!
+rush_sykes_sNão
+rush_sykes_sNão acho que seja uma boa ir sozinho...<01e00be027e00500>pagusOnde você está indo?<03e0>Devemos permanecer aqui até segunda ordem.
+david_nassau_sRush, devemos partir rápido para <1be0ffbe34ff>Wyrmskeep.<1ce0>.<03e0>Não temos um segundo<03e0>a perder!
+plocterJovem Mestre!<03e0>Há uma espécie de barreira invisível...<03e0>Não podemos seguir adiante!
+irina_sykes_sParece que a energia vinda das luzes negras<03e0>está formando a barreira...
+david_nassau_sEntão precisamos destruir todas as luzes negras.
+irina_sykes_sLorde David!<03e0>Posso sentir a energia das luzes negras!<04e0>Precisamos <1be0ffbe34ff>acabar com elas<1ce0> para entrar em<03e0>Koenigsdorf!
+david_nassau_sQue assim seja, homens! Preparem-se para a luta!
+david_nassau_sRush, precisamos enfrentar o exército do<03e0>Conquistador nas <1be0ffbe34ff>Planícies Sagradas<1ce0>para entrar em Elysion. Vamos nos apressar.
+

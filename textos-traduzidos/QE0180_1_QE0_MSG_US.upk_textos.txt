@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Loki?<03e0>Where are you?<04e0>How annoying! He disappeared while I was still talking<03e0>and I hadn't finished my story!
+...<03e0>Uh... Um...<04e0>Oops, sorry!<03e0>Did you want something?<04e0>I'm Reya.<03e0>Who're you?<06e0000008e0000000000000>I'm Rush.<09e008e0010000000000>...
+Rush, huh?<03e0>Got it.<03e0>What a cool name!
+Huh?<03e0>I was certain someone was there...
+What?<03e0>You're asking if I know Loki?<04e0>I sure do!<03e0>He's my friend.<04e0>Are you his friend, too?<03e0>Be nice to him, okay?<03e0>He's really, really shy.
+Be real nice to him.<03e0>He's really, really shy.
+I know you're there!<03e0>Come on out!<04e0>I'm Reya.<03e0>Who're you?<06e0000008e0000000000000>I'm Rush.<09e008e0010000000000>...
+Rush, huh?<03e0>Got it.<03e0>What a cool name!
+Huh?<03e0>I thought I sensed someone, but I guess not.
+Huh? Ummm...<03e0>I'm sorry, but who're you?<06e0000008e0000000000000>I'm Rush.<09e008e0010000000000>No one important.
+That's right<07f0>Rush!<03e0>I'm sorry.<03e0>I'm terrible at remembering names...<04e0>Okay, I really got it this time.<03e0>Really!
+I'm sorry if that sounded rude.<03e0>I'm just bad with names.<03e0>Your voice sounded really familiar, though.
+Loki keeps disappearing on me.<03e0>I was just talking to him a second ago.<04e0>He seems to go away when you come along.<04e0>I wonder why. Maybe he's scared of you. But you<03e0>seem like a really nice person.
+Uh... Um...<03e0>You're Rush, right?<03e0>I knew it!<04e0>You know, I bet you're<03e0>a real good-looking guy.<04e0>You have to be because you smell<03e0>real nice, like the smell of<03e0>freshly done laundry!
+

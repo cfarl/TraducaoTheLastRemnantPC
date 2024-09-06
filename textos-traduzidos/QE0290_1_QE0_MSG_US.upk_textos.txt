@@ -1,0 +1,28 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush...do you have a moment?<04e0>...
+Sorry,<03e0>let's not talk here.
+I had the urge to come here, but...<03e0>Of course, she's not back yet.
+Rush. I wanted to ask you if...
+...Heard that, did you?<04e0>...
+Lady Emma!
+What is it?
+S-sir!<03e0>In the <1be0ffbe34ff>Robelia Ruins<1ce007f0> A huge monster<07f003e0>A-a giant! A giant appeared!<04e0>It seemed like it was under somebody's control...<03e0>It went straight to attack the Athlum soldiers!
+Understood. I'll leave at once.
+I'm sure you heard that. We can continue our<03e0>previous talk after I take care of this.
+Actually, Rush, will you help me check this out?<06e0000008e0000000000000>As if you could stop me!<09e008e0010000000300>Uhh...umm... Huh....
+Good. I appreciate it.<03e0>Let's hurry to the <1be0ffbe34ff>Robelia Ruins<1ce0>.
+There's no time for dilly-dallying. Come back<03e0>when you've made a decision.
+It seems that a monster has appeared in<03e0>the <1be0ffbe34ff>ruins of Robelia Castle<1ce0>.
+I shall be heading out to get it under control...<03e0>Rush, will you come along?<06e0000008e0000000000000>Yeah, I'll help!<09e008e0010000000300>Uhh... Err... You see...
+Good. I appreciate it.<03e0>Let's hurry to the <1be0ffbe34ff>Robelia Ruins<1ce0>.
+We don't have time for this, Rush. Stop acting<03e0>like a child and make a decision.
+You alright? That became more difficult than I'd<03e0>expected.<04e0>However, this sort of incident is increasingly<03e0>common of late. Any time that you can lend us<03e0>an extra blade is much appreciated.
+Then. If you'd allow me to go back to what we were<03e0>talking about before we left... I had a favor to ask of you.
+Ahh, where to begin...
+Here<07f0>this plaza, in front of the Valeria Heart<07f0>is<03e0>a very...dear place for me.<04e0>Quite a long time ago, I saw off a traveler from this<03e0>very spot. We promised to meet here when her travels<03e0>were done.<04e0>I don't know when she'll return, but I can't help but<03e0>wait. I know that if I wait long enough, someday, she'll<03e0>return...
+However, with the increase in incidents outside of<03e0>Athlum that need my attention, I can't very well spend<03e0>all my time here.
+That brings me to what I wish to ask. If she returns<03e0>and I cannot, could you be here to meet her?<04e0>You'll know who I'm talking about at first sight.<03e0>You may as well look forward to it.
+Here...payment in advance.<03e0>Sorry for the trouble... I'm depending on you.
+

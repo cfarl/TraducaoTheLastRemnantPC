@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_05GC_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to the Ring of the Ancient<03e0>Castle, the gathering place of warriors.<03e0>What do you want?
+Could it be...?<03e0>Uh, nothing. It's not important.
+The soldiers here are the toughest<03e0>warriors from the warrior town.<04e0>If you want their help, you better<03e0>show some respect.
+Th-thank the God Emperor you're alright.<03e0>And for you to come all this way...
+I heard from the boys in the guild<03e0>that you helped out our lord.<04e0>You're stronger than you look, I take it?
+

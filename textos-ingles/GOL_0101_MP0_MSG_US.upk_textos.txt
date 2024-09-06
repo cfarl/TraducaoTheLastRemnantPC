@@ -1,0 +1,34 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Who are you and why are you here?<03e0>This is the warrior town of Ghor.<04e0>Many brave soldiers are gathered here, sworn to follow<03e0>the valiant Duke of Ghor.<04e0>You hail from Athlum!? That must mean you take orders<03e0>from that toddler, Duke Qubine.<04e0>If you have no business here, I suggest you leave<03e0>immediately.
+Message 2
+Message 3
+Message 4
+Ever since the Duke of Ghor became Chairman,<03e0>the warrior town has been bustling!<04e0>Our lord can guide even the most lost souls of this<03e0>chaotic world down the right path.<04e0>As a citizen of this town, I want to do my part to<03e0>help out in any way I can.
+Damn the Conqueror!<04e0>Do you know how many times I've stopped myself<03e0>from taking the boys with me into his base and<03e0>slaughtering them all? Argh!<04e0>But I need to stay calm, especially while the lord<03e0>is out of commission.<04e0>Right now, he's resting and needs to concentrate<03e0>on getting better.<04e0>In the meantime, I can't allow any suspicious<03e0>persons into this town!
+The lords of Ghor have been faithful servants to<03e0>the Hermeiens of Nagapur for the past three<03e0>generations.<04e0>If anyone seriously tries to oppose Nagapur, the Ghor<03e0>troops will relentlessly set them straight.<04e0>...Don't tell anyone this, but I think our lord is much<03e0>more competent than Lord Hermeien.
+Message 2
+Message 3
+Message 4
+I can't believe the lord of such a small town is now<03e0>the Chairman of the Congress!<04e0>I guess anything can happen.<04e0>Or maybe all the other cities have come to realize<03e0>the greatness that is our lord! Hahaha!
+A long time ago, I challenged the Duke of Ghor for<03e0>the position of lord over this stronghold.<04e0>The duel was over in the blink of an eye.<04e0>But even as I was getting pummeled, I was awed to<03e0>be in the presence of one so strong.<04e0>Our lord is the most ferocious warrior in all the<03e0>lands.<04e0>He won't die easily.<03e0>He won't...!
+Is this your first time here?<03e0>It's like a maze, isn't it?<04e0>This used to be nothing more than an abandoned<03e0>castle.<04e0>Ever since our lord made this place his home,<03e0>strong warriors from all corners of the world began<03e0>to show up.<04e0>Which is how I ended up here as well.
+Message 2
+Being chosen as chairman of the Congress<03e0>must mean that our lord was deemed<03e0>fit by all the other lords.<04e0>Everyone's so excited!<03e0>That pub over there was even open<03e0>till dawn in celebration!<04e0>We will fight for our lord whom we<03e0>believe in from the bottom of our hearts.
+Message 4
+Our town doesn't possess a huge Remnant<03e0>like the other towns.<04e0>Though our lord does keep the Bilqis<03e0>at his side.<04e0>It has the power to bring out the best<03e0>in people<07f0>the powers they hold inside.<04e0>That big axe represents our lord's<03e0>presence and the power he holds.<04e0>I bet you can't find a fine weapon like<03e0>that anywhere else in the world.
+Message 2
+Have you been to Nagapur yet?<04e0>I've seen the aftermath of many<03e0>battles, but never have I seen anything<03e0>like what I saw there.<04e0>I'm a little worried. What if the Bilqis<03e0>were to do the same thing and cause<03e0>the same kind of destruction?<04e0>A small stronghold like this would be<03e0>destroyed in mere seconds!
+Message 4
+Don't you agree that there's something<03e0>suspicious underneath?
+Oh, hey.<03e0>Taking off soon?<04e0>No? Then leave me alone.<03e0>But before you go...<04e0>I think there's something hidden in this<03e0>town. The castle's almost fully repaired,<03e0>but there may be something underground.<04e0>I'm getting an excavation team together<03e0>to make the discovery of a lifetime!<04e0>The Arco Iris was a miracle, but<03e0>it was our miracle and only ours...<03e0>I want to discover something bigger!<04e0>This is going to take time and money,<03e0>but I promise to help out if you need me,<03e0>if you stop pestering me during my free time!<04e0>Later!
+SIGH.<03e0>When is this ever going to work out?
+Do you have any jobs for me?<04e0>No?<03e0>But I need funds for my excavation team!<04e0>Pagus suggested I join a guild so<03e0>I came here...and now he doesn't<03e0>even show his face.<04e0>Even the Arco Iris legend was his<03e0>baby to begin with. I don't even know<03e0>how I got involved!<04e0>Grrr...
+Grrr...<03e0>No progress...
+Hey, Rush, good timing!<03e0>I was just looking for you.<04e0>I've been frustrated that my plan to<03e0>create an excavation team wasn't working<03e0>out, so I came up with a different plan.<04e0>You guys should be part of the team!<03e0>I'll pay you for your troubles, I promise.<04e0>The area underneath Ghor Castle<03e0>is really fishy... There's something there,<03e0>I know it!<04e0>I'll persuade Duke Ghor to let us<03e0>investigate the area. So come on,<03e0>help me out!
+You guys should join my excavation<03e0>team! I'll ask Duke Ghor for permission<03e0>to dig on his premises. What do you say?
+Hey, Rush...<04e0>I couldn't get permission from Duke Ghor...<03e0>He glared at me and I froze...<04e0>...<04e0>Alright, time to come up with another<03e0>spot for excavation! There's a ton<03e0>of ruins in this world.<04e0>I'm not giving up that easily! In rough times<03e0>like these, you need something to keep<03e0>yourself occupied. I'm giving people hope!<04e0>So, c'mon!<03e0>Let's go make the discovery of a lifetime!
+Rush! Are you ready yet!?<03e0>Let's go make the discovery of a lifetime!
+Huh?<03e0>Maddox is wanted by the Celapaleian<03e0>army?<04e0>Like I'd believe that!<03e0>He's a nice fella, but a paranoid<03e0>old man.<04e0>I mean, think about it.<03e0>If that were true, wouldn't<03e0>Athlum be after him as well?<04e0>What a crazy old coot!
+

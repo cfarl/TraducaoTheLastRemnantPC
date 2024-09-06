@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_5_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Eh? This was not here before.<04e0>The Collapse must have caused<03e0>this area to become unstable.<04e0>We have no choice but to search for<03e0>another path to the sword.
+How odd.<03e0>This area seems so familiar...
+My, are you lost?<03e0>Would you like a portal?<06e0000008e0000000000000>Yes, please...<09e008e0010000000300>Pfft, I'm fine!
+What is this spatial distortion?<03e0>Could this be the effects of<03e0>Leithion's Sword?
+This place is dangerous.<03e0>You have the choice to go back<03e0>if you wish.<06e0000008e0000000000000>Yeah, I think I will.<09e008e0010000000300>I'm fine, I'm fine.
+

@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0220_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+A faint sweet scent wafts through the area.
+A sweet aroma permeates the area.
+The air is heavy with a cloying, sweet scent.
+

@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0350_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Oh, hello!<03e0>It's been quite a while, hasn't it?<06e0000008e0000000000000>Yeah! How've you been?<09e008e0010000000000>Uhh, who're you again?
+You've forgotten?<03e0>We met at the Academy some time ago...<04e0>I'm Haruko, Remnant researcher.<03e0>It's nice to meet you...again.
+Quite a lot has happened since I saw you last.<03e0>I don't work for the Academy anymore, for one.<04e0>Not being able to participate in the Academy's<03e0>research is...well, it hurts a bit.<04e0>Then again, since being named director, I<03e0>never had much time for research anyway.<03e0>In a way, I suppose it works out.<04e0>So... It seemed the perfect opportunity to take<03e0>a trip<07f0>go off and see the world, and the<03e0>Remnants in it.<04e0>Rush, if you know a place that's supposed to<03e0>have some rare Remnants, tell me, alright? We<03e0>can search for them together.
+

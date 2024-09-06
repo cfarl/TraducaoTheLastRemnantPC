@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NUD_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+emma_honeywell_sWhat is it?<03e0>Should we first return to Elysion?<06e0000008e0000000000000>Good idea.<09e008e00a0000000300>No need.
+emma_honeywell_sAlright.<03e0>We shall return to Elysion.
+emma_honeywell_sAlright. We shall keep going.
+emma_honeywell_sShall we return to Athlum?<06e0000008e0000000000000>Yup! Let's go.<09e008e00a0000000300>Nah, not just yet.
+emma_honeywell_sLet us leave for Athlum at once.
+emma_honeywell_sWe cannot keep Lord David waiting.<03e0>Finish your business quickly so we can move on.
+

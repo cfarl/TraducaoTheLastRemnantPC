@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ETV_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Hey there, sonny!<03e0>Headed to Vackel, are ya?<04e0>Ah'm 'fraid that's not gonna happen.<03e0>Roads are blocked up 'head.<03e0>Ah can't even get home!<04e0>Y'er better off turnin' 'round, 'less you wanna<03e0>be stuck, like me...
+Th' road's blocked, sonny. You might as well go on<03e0>home. Ah sure wish ah could...
+If'n ya think you'll be goin' any further, better think<03e0>again. There's a whale of a vicious monster up ahead!<04e0>So long as it's there, ah can't get home...<06e0000008e0000000000000>We'll take care of it!<09e008e0010000000300>Tough break.
+Ya sure, sonny?<03e0>Ah'd be mighty grateful!
+Ah wanna go home...<03e0>Ya sure you can't help an old man out?
+

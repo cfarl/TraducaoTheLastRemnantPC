@@ -1,0 +1,129 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to Melphina, town of scholars.<03e0>This is Cobalt Plaza.<03e0>Breathe in the clean air. Mmmm.<04e0>The floating sphere?<03e0>That's the Remnant Blue Elf!<04e0>It heightens people's spirits and wards off<03e0>evil souls. It's the purest of Remnants.
+Message 2
+Message 3
+Oh no, oh no!<03e0>Melphina's Lord, Meister Olebeag, is suffering from some<03e0>mysterious illness, but no one knows why!<04e0>Mistress Marsha of the Forest Maidens is praying and<03e0>doing all that she can, but it doesn't look good... Isn't<03e0>there anything anyone can do!?
+Message 5
+Message 6
+The floating spheres are missing?<03e0>...Oh, you must mean the Blue Elf.<04e0>Six months ago, a Forest Maiden was kidnapped, and<03e0>was ransomed in exchange for the Blue Elf.<04e0>Meister Olebeag and Sir Roberto apologized profusely<03e0>for giving in to the kidnappers' demands, but the girl<03e0>was safe, and that's all that matters.
+Message 5 (Seizing Remnant)
+Message 6 (Seizing Remnant)
+We Forest Maidens pray to the Last Leaf,<03e0>the divine Remnant that protects<03e0>Crookfen.<04e0>A routine ritual of prayer strengthens<03e0>the seal of protection, but the seal<03e0>seems to have weakened of late.<04e0>There are many organizations that want to<03e0>get their hands on this Remnant, but we've<03e0>got nothing to worry about.<04e0>The Order of Melphina is on our side!
+Message 2
+Message 3
+Maiden Marsha is still sending her prayers<03e0>so that Meister Olebeag will recover soon.<04e0>But something's been bothering me.<04e0>I've been praying to the Blue Elf myself<03e0>and something feels...different.<03e0>As if there's a wall around it.<04e0>I hope my prayers are reaching it safely...
+Message 5
+Message 6
+We're the reason the Blue Elf<03e0>is gone.<04e0>A man dressed in black appeared in town<03e0>and kidnapped the new Maiden in exchange<03e0>for the Remnant. Curses!<04e0>Meister Olebeag must be devastated...
+Message 5 (Seizing Remnant)
+Message 6 (Seizing Remnant)
+The Order of Melphina is like a shield, protecting the<03e0>town from monsters.<04e0>Our leader, Sir Roberto, is a strict man, but I feel<03e0>honored to be able to fight alongside him.
+Message 2
+With Meister Olebeag ill, we're in extra danger of being<03e0>assaulted by monsters or even other towns.<04e0>So, we of the Order of Melphina have stepped up our<03e0>patrols... Nothing bad's going to happen on our watch!
+Message 4
+The kidnapper of the Forest Maiden was<03e0>cloaked in black and had a strange glint<03e0>in his eyes.<04e0>He had the confused and crazed look of<03e0>a man trapped with nowhere to go.<04e0>Nothing anyone said could reach him.<04e0>We couldn't save the Blue Elf or<03e0>the soul of this deranged man.
+Message 4 (Seizing Remnant)
+Look at this flower garden.<04e0>See how the leaves seem to be protecting<03e0>the beautiful flowers? This is much like<03e0>the Order and the Maidens.<04e0>A knight vows to protect a maiden with<03e0>his life until death do they part. They also<03e0>vow to protect each other's chastity.<04e0>Oh, er, maybe you're not ready to hear<03e0>this yet...
+Message 2
+Look at this flower garden.<03e0>The soil has lost its moisture.<04e0>Dry soil means the flowers aren't<03e0>going to bloom to full.<04e0>And Meister Olebeag's mysterious illness is<03e0>getting worse as the days go by...<04e0>This garden represents this town's current<03e0>condition, don't you think?<04e0>Oh, er, maybe you're not old enough to<03e0>understand this yet...
+Message 4
+Look at this flower garden.<03e0>All of the flowers have wilted.<04e0>It's like the town's current condition<03e0>with the loss of the Blue Elf.<03e0>Everyone's blue.<04e0>What's going to happen to Melphina now?<04e0>Oh, er, maybe this was too serious<03e0>a topic for you...
+Message 4 (Seizing Remnant)
+Huh?<03e0>What're you doing here, old lady?
+Wha<07f0>excuse me?<03e0>Do I even know you?
+Oh, oops.<03e0>Um, I thought you were someone else...
+Hmph! Make sure you have the right<03e0>person next time!
+S-sorry...
+Hmph... I'll let it slide this time. Of course, that's on<03e0>the condition that there's never a second.
+Calling someone "old lady" is rude and inconsiderate...<03e0>especially when they aren't old!
+Hm? You again.
+Uh.
+You don't look happy to see me.
+Uh, n-no, that's not true!<03e0>Say, ol<07f0>O beautiful young maid, what're you doing<03e0>around here?
+Training.<03e0>In my family, it's a rite of passage<03e0>to travel the world.
+Huh... Sounds pretty tough.<03e0>Take care of yourself, okay?
+...Ahh. Thank you.
+You're not as inconsiderate as I thought.
+You're looking well.
+Heya, Ms. Young Maiden.
+Could you please not call me that?<03e0>It sounds ridiculous, to say the least.
+Well, it's not like I know your name.
+Oh?
+...
+The name's Emmy.
+Nice to meet you for real, finally. I'm<07f001e00be00ae0>
+Rush. Rush Sykes.<03e0>Right?
+Wha<07f0>? How did you know!?
+I have my ways.
+Take care, Rush.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+What's the purpose of my training?<03e0>Well...a lot of things. But in general,<03e0>training the mind and spirit, I'd imagine.
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+You're still searching for your sister, aren't you?<03e0>I wish there was something I could do to help...
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+Of course I keep in touch with my family.<03e0>That's how I know about you.
+I thought I'd done plenty of training, but I still<03e0>can't even light a candle to Mother...<03e0>But I can't give up.
+I thought I'd done plenty of training, but I still<03e0>can't even light a candle to Mother...<03e0>But I can't give up.
+Hey, Rush.<04e0>What's with that angry sovani, Leucetius?<04e0>He challenged me for position of troupe leader.<04e0>I gave him a good pounding to show him what's what.<03e0>Hehe.
+Hello, Rush.<04e0>I just ran into a very rude sovani.<04e0>He insisted on being the leader of our troupe, no matter<03e0>how many times we told him that we had no say in the<03e0>matter.<04e0>I had no choice but to use a means other than words<03e0>to get my point across.
+What is it, Rush?<04e0>Yes, I encountered Leucetius.<03e0>He seemed distraught about something.<04e0>I humored him for a while and sent him away.<03e0>Don't worry about him.<03e0>I've taken care of everything.
+Greetings.<04e0>Is it so rare to meet a yama interested<03e0>in mystic learnings?
+I'm just a rookie spellcrafter now, but<03e0>I was once a notable guard.<04e0>I used to get jobs from the folks at<03e0>the Academy and even the Congress.<04e0>I did a lot of work as a security guard<03e0>for the Academy. No others could<03e0>match the amount they were offering.
+I'm just a rookie spellcrafter now, but<03e0>I was once a notable guard.
+One job I did for the Academy was to guard<03e0>the door of the lab where they were<03e0>conducting experiments.<04e0>Looking back, I should have realized what they<03e0>were doing was illegal and dangerous.<04e0>One day, the Remnant being used in the experiment<03e0>began emitting a light and then there was<03e0>an explosion.<04e0>I drifted in and out of consciousness for<03e0>a few days.<04e0>Luckily, I recovered soon after.<03e0>But my arms... To this day, I can<03e0>barely move them.<04e0>With my handicap, I couldn't continue my job.<03e0>No one found me necessary anymore.<03e0>Everyone started drifting away from me.
+The explosion killed most of the nerves<03e0>in my arms.<03e0>I couldn't continue my job.
+I'd lost the only job I knew how to do.<03e0>I had nothing. I didn't know what<03e0>the future held for me anymore.<04e0>Every day, I watched the sunset at Fornstrand,<03e0>thinking of how easy it would be to jump<03e0>in the ocean and disappear.<04e0>That's when a mitra calling herself<03e0>the festival maiden came along. She sat<03e0>down next to me and quietly listened to my story.<04e0>Then she turned to me and smiled and said,<03e0>"Why don't you try learning to use spells?"<04e0>What was she thinking? I'd relied on my brawn<03e0>to get me through everything in the past.<03e0>Someone like me couldn't use spells.<04e0>But before I could say anything, I glanced over<03e0>and caught her smile. It gave me strength and hope.<03e0>It made me feel like I could do anything.<04e0>Or maybe I just wanted to grab onto something<03e0>to get me out of this feeling of despair.
+I was feeling hopeless until a mitra<03e0>calling herself the festival maiden<03e0>convinced me to try a new art<07f0>spells.
+It wasn't easy, learning this new art.<03e0>Everyone who knew me laughed at me.<03e0>They thought it was hopeless.<04e0>But I didn't give up<07f0>I couldn't.<03e0>This was my last hope.<04e0>After a lot of studying, I finally got<03e0>the hang of it. I'll never forget that<03e0>feeling of using my first spell.<04e0>I've decided to become an expert<03e0>spellcrafter. It might seem like an impossible<03e0>dream, but I'm willing to try.<04e0>I want to achieve this dream and seek out<03e0>and thank the girl who gave me something<03e0>to live for.<04e0>I bet she's out there helping others at this<03e0>very moment.<03e0>I look forward to seeing her again.
+Hey, Rush.<04e0>I'm going to keep journeying with you<03e0>so I can experience and learn what I<03e0>need to become an expert spellcrafter.
+Yes?<03e0>What is it?
+What is it?
+Have you seen Lord David?<04e0>He should not be wandering around alone.<03e0>If you speak to him, let him know that<03e0>I was looking for him.
+Where has he gone?
+...
+This town seems its usual self.<04e0>However, Lord David should never<03e0>have gone off alone.<03e0>Tell him I am looking for him.
+Have you seen Lord David?
+If it had been handed over to us,<03e0>we would have made great use of it.<04e0>Though who knows what Lord David<03e0>would have said to that.
+Disregard what I stated before.
+The Remnant Ark...<03e0>I've seen something similar to it,<03e0>but I can't recall what or where...
+I can't recall...
+Lord David made his choice.<04e0>I will stay by his side till death.
+Feast your eyes on that Remnant.<03e0>Its beauty is mesmerizing.<04e0>What it would be like to float inside of it...<03e0>What fun it would be!
+What beauty...
+...
+These rumors of Remnants going missing<03e0>had me worried, but it looks like<03e0>everything is alright.
+Indeed.
+Just like Athlum...<04e0>Will we ever see that exquisite splendor again?
+I cannot believe this...
+It exists somewhere in the world.
+We must find it.
+We will see this to the end.
+Hey, Rush! Take a look at these weapons!<03e0>They're beauties!
+Hrm.
+Lady Emma...
+Hey, Rush!<03e0>Things are still okay.<04e0>You gotta lighten up!
+You gotta lighten up!
+Everyone's spirits are down now that<03e0>the Remnants are gone.<03e0>Even our weapons lost their flare.
+Even our weapons lost their flare.
+I have no clue what's going on.<04e0>All I know is that I'll go wherever<03e0>you decide to go.
+I'm ready to do this!
+Let's go, Rush!<04e0>I'll bust up anyone who gets in our way!
+What am I doing?<04e0>Just taking a walk.<03e0>It's impossible for me to wander the streets<03e0>of Athlum or Celapaleis alone.<04e0>Don't tell Torgal you found me.
+Don't tell Torgal you found me.
+The Remnants here are safe and sound.
+...
+Here, too...<04e0>So it is not just Athlum.
+...
+Do I look worried?<03e0>I'm doing the best I can not to show it...
+Are we going to make it?
+It's time, Rush.<04e0>Let's finish this together!
+Nothing seems out of the norm here.<04e0>But there is a lot going on beneath<03e0>the surface. We should be careful.
+We should be careful.
+Disappearing Remnants...<03e0>How does this fit into the puzzle?<04e0>There's something I'm missing...
+There's something I'm missing...
+Don't just stand there, Rush.<03e0>Help us find a way to the Sacred Lands.
+There has to be a way.
+I will protect Lord David as she did.<03e0>I will also provide protection for you and Miss Irina.
+

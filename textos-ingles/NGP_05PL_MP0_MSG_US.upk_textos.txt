@@ -1,0 +1,258 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Welcome to Pub Drachenhauch!
+Welcome.<04e0>Are you headed to Wyrmskeep?<03e0>You need to take the boat that leaves<03e0>the canal from Flussbahn.<04e0>I don't mean to be rude, but are you<03e0>an acquaintance of Lord Hermeien?<03e0>If not, you won't make it to the castle.<04e0>Commoners don't have a place on that boat.
+Welcome.<04e0>The Aqueducts, you say?<03e0>There's an entrance in Sudenalm, but...<04e0>There've been monsters sightings in<03e0>that area lately, so they generally<03e0>keep that entrance locked.
+Sir Zolean always frequents this establishment alone.<04e0>Up until three years ago, he used to come with a friend.<03e0>I wonder what became of him.
+Nagapur's previous lord was Lord Oswald Hermeien.<04e0>He was a very generous and good man, but he suddenly<03e0>disappeared several years ago. Lord Wilfred claimed the<03e0>throne not long after.<04e0>It is only a rumor, but some say that he was set up<03e0>and thrown out of Wyrmskeep by Lord Wilfred.<04e0>I certainly hope that isn't the truth. There is nothing<03e0>uglier than a rivalry between parent and child.
+In Sudenalm, you may encounter an old man with kind<03e0>eyes.<04e0>Rumor has it he knows a lot about Wyrmskeep<07f0>even<03e0>ways to get inside. I don't know if there's any truth to<03e0>that, though.<04e0>He really reminds me of somebody...<03e0>I just can't quite put my finger on who...
+Barkeep, you've seen him, too, right?<03e0>I'm talking about the old man in Sudenalm.<04e0>He saved me when I almost fell into<03e0>the canals the other day.<04e0>That's when I realized, he reminds me<03e0>of someone... I just can't put my finger<03e0>on who it is...
+Barkeep, you going to stay here and run the pub?<03e0>I'm going to leave town with my family.<04e0>But before I go, I wanted to tell you something.<04e0>That old man who looked familiar to me...<03e0>I finally figured out who he is.<03e0>He's the previous lord, Oswald Hermeien!<04e0>But I guess it doesn't matter now.
+You've seen the Gwayn, yes?<04e0>I've seen many, many Remnants<03e0>in my time, but nothing is more<03e0>overwhelming than that one.<04e0>There's quite a powerful-looking one<03e0>in Balterossa, to the south, but<03e0>it can't possibly overshadow the Gwayn.<04e0>Lad, you should go to different<03e0>lands and see their Remnants with<03e0>your own eyes.
+I never thought the Gwayn would<03e0>be capable of anything like this.<04e0>I thought it was the strongest<03e0>of them all.<04e0>Well, I suppose it proved its powers.<04e0>I just didn't think it would happen<03e0>like this...
+I hear the Conqueror wants all the Remnants he can<03e0>get his hands on.<04e0>The major cities can protect themselves with their<03e0>armies, but what are the small towns to do?
+I see a lot of black-hooded fellas<03e0>around the pub lately.<03e0>They're all so rude and obnoxious!<04e0>I mean, who brings a white jelly monster<03e0>to a pub!?<04e0>The other customers got scared and<03e0>they all up and left! And here I am,<03e0>cleaning up after it...
+Many lost their lives in the Gwayn<03e0>debacle, and the pub has lost a lot<03e0>of customers, too.<04e0>And the ones who do come here<03e0>all look so solemn.<04e0>Though there is a silver lining to<03e0>what happened.<04e0>Ever since Lord Hermeien passed,<03e0>the black-hooded gang hasn't been<03e0>around.<04e0>Now this place will be a perfect spot<03e0>for those to mourn in peace.
+The Duke of Ghor was a loyal aide to<03e0>our previous lord.<04e0>That's why when Nagapur is in trouble<03e0>his lordship comes to our rescue.
+What in the God Emperor's up with this!?<04e0>Ever since the Duke of Ghor became<03e0>chairman of the Congress, the people<03e0>of Ghor Castle have been acting so pompous!<04e0>I doubt the duke will be in charge<03e0>for long, though.<04e0>That yama can't fill the shoes of<03e0>our Lord Hermeien!
+Even if the Conqueror tries to invade Nagapur, the<03e0>Duke of Ghor will handle it.<04e0>Nothing's gonna happen to this town.
+Hello, Rush Sykes.<03e0>I hear you are looking for a way to the Sacred Lands.<03e0>I have some information that may be of help.<04e0>Travel northeast of Nagapur to the <1be0ffbe34ff>Sixth Path of<03e0>Siebenbur<1ce0>. What you desire may be found at the end<03e0>of the road.<04e0>...<04e0>Rush, Irina.<03e0>I think of you as my own grandchildren.<03e0>Please, return safely.
+Travel to the <1be0ffbe34ff>Sixth Path of Siebenbur<1ce0>.<03e0>What you desire will be at the end of the road.
+It's you...<04e0>Never thought the day would come when I'd be working<03e0>for you.
+You again? You know, you don't gotta spy on me all<03e0>the time. I know you haven't got anything to complain<03e0>about, 'cause I'm working hard.<04e0>And I'll continue to work hard...as long as you keep<03e0>paying me.
+What, you think that if you don't keep an eye on me<03e0>I'll jump you or something? ...Pssh, whatever, man.<04e0>Seriously, that only happened once. Okay, maybe twice...
+You again... You seriously need something better to do<03e0>with your time.<04e0>Aight then, lemme ask you something: what're you<03e0>fighting for? You owe that marquis something?<04e0>Nah... I can see from your face that that ain't the real<03e0>reason... Whatever. No skin off my back either way.
+You again...<03e0>How about you leave me alone?
+Yo...Rush, or whatever.<04e0>Whadda you think about the state of the world lately?<03e0>I'm not talking 'bout peace or war or anything, just...<03e0>Something ain't quite right, yanno?<04e0>I've been binding Remnants all my life, and it hasn't ever<03e0>felt like it's been feeling lately. It's just... I don't even<03e0>know how to describe it.<04e0>I bet that Marquis of yours is feeling it, too. You can't<03e0>be telling me you haven't noticed anything.
+Something's wrong.<03e0>Maybe...Remnants aren't like I always thought they were.
+The cries of Remnants...<03e0>The essence of Remnants...<03e0>Dammit! I can't deal with this anymore!<04e0>Aight, Rush, time for you to come clean on this Remnant<03e0>stuff. Howcome you can control 'em so easy when the<03e0>rest of us are bustin' our asses? What'd you do!?<04e0>...<03e0>Sorry. Didn't mean to get heated. I know you're a good<03e0>kid<07f0>look at all the friends you've got.<04e0>I just want an answer. Maybe...maybe we weren't meant<03e0>to have control over Remnants after all...
+Hey, Rush, holla.<04e0>So, I decided to stop overthinking all this Remnant stuff.<03e0>All that wallowing and angsting shit, it's not my style.<03e0>So, gimme some work! I'm bored as hell!
+Everything is so serene...and boring.
+Days of nothingness prove that<03e0>there is peace in your life.
+Whatever...
+The wife of Celapaleis's Baron Nielsen<03e0>ran off somewhere. No surprise there.<03e0>They're famous for not getting along.
+Isn't that exciting?
+The tides of social status are nothing<03e0>compared to the current of the ocean<03e0>that is life.
+What?
+Someone's planning on assassinating Duke Qubine.<03e0>A suspicious woman was seen hanging around the<03e0>area, but I don't think she was questioned or anything.
+Isn't that exciting?
+Bad rumors spread like wildfire.<03e0>And yet, no one takes action.
+Yeah, that's the way it usually is.
+The princess of a desert kingdom is in love and<03e0>sneaks out of the castle often to meet her love.
+Isn't that exciting?
+Love is a sword that tears the world<03e0>deep inside yourself.
+Love is a sword? What?
+The princess from the desert kingdom<03e0>eloped with her love!
+Isn't that exciting?
+Love is a shield that protects one from<03e0>the world of others.
+Love is a shield? What?
+The conflict between Balterossa and<03e0>Royotia is getting worse by the day!<03e0>Everyone thinks a war is inevitable.
+Isn't that exciting?
+War is not controlled by emotions.<03e0>Emotions are controlled by war.
+...I don't get it.
+In a certain moor, the Imperator used his powers<03e0>to seal the entranceway to another realm.
+Isn't that exciting?
+Only the ignorant wish to see what<03e0>is behind forbidden walls.
+You're not even the least bit curious?
+Any Forest Maiden that vows eternity<03e0>with a Melphinian knight gains the power of<03e0>seeing and hearing whatever her partner does.
+Isn't that exciting?
+Those who walk together, fall together.<03e0>But it is an easy task, getting back on<03e0>their feet together.
+It's true with people you trust.<03e0>Others will just leave you lying on<03e0>the ground.
+It seems something happened to the Last Leaf<03e0>in Crookfen. The Forest Maidens and<03e0>the knights of Melphina are taking action.
+Isn't that exciting?
+Those who have made their vows are<03e0>like the hands of a clock. They may part<03e0>ways, but are bound forever.
+The hands of a clock can break, you<03e0>know that, right?
+It's almost time for Kosmosfest, but the Cosmos Maiden<03e0>apparently hasn't arrived yet.<03e0>I hope she's safe!
+Isn't that exciting?
+Life is but a simple maze. The entrance<03e0>and exit can be placed easily, but it takes<03e0>careful designing to enjoy it.
+A maze, huh? I do feel lost sometimes.
+Rumor has it that the Cosmos Maiden made it to<03e0>the festival and it's about to start. But what should<03e0>be a tranquil event is always disrupted by monsters.
+Isn't that exciting?
+Tranquility and silence transform<03e0>memories into beasts.
+Did something bad happen to you<03e0>in the past?
+An old-fashioned woman is looking for someone to<03e0>be her bodyguard. She's in the pub in the city<03e0>with the canals.
+Isn't that exciting?
+To protect someone, you must protect<03e0>their entire being, as you are protecting<03e0>their future.
+If she needs a bodyguard, why doesn't<03e0>she just stay indoors?
+The treasures from different lands presented to<03e0>the holy city were stolen! I hear they're being<03e0>sold on the black market.
+Isn't that exciting?
+Those who cling to the past<03e0>fail to create a future.
+You said it! That city needs to get<03e0>with the times.
+Someone is looking for these three valuable stones<03e0>that have to do with the desert's past.
+Isn't that exciting?
+What one is destined to have will<03e0>fall into his hands. It is up to him<03e0>to recognize what he has when he has it.
+I wonder what's destined to fall<03e0>into my lap.
+A scientist is seeking an assistant to help<03e0>him with some kind of research about magick.
+Isn't that exciting?
+Knowledge can be sought until death.
+Is that when he's going to stop<03e0>his research? Death?
+A horrible monster was sealed by the Imperator<03e0>long ago. And now he's been resurrected!
+Isn't that exciting?
+The world will be no more when<03e0>everyone thinks of saving only themselves.
+As long as I'm safe, I don't really<03e0>care about anyone else.
+A man with amnesia is searching for<03e0>something he lost in the desert.
+Isn't that exciting?
+If one loses himself, he can find<03e0>himself within his friends' hearts.
+Why doesn't he do that then?
+A notorious bandit is lurking around Athlum!<03e0>Some say he's waiting for someone.
+Isn't that exciting?
+One's past should not be invaded<03e0>by others' eyes. It should be passed on<03e0>through his own stories.
+People should be trusted. I get it.
+Some guy is searching for the statue in<03e0>the Robelia Ruins that supposedly lets one<03e0>reunite with someone far away.
+Isn't that exciting?
+A wish may come true, but a dream<03e0>is a dream.
+Make sure you wish for something<03e0>small, is that what you're saying?
+There was a murder in the big city and<03e0>the assailant is still on the loose!
+Isn't that exciting?
+Crime is a slippery slope.<03e0>And someday, you hit rock bottom.
+And getting back up that slope is<03e0>tough.
+A large yama is searching for something<03e0>he lost. He's acting really weird... I wonder<03e0>what his story is.
+Isn't that exciting?
+What one loses is the mirror to his<03e0>faults.
+Silly yama!
+A white qsiti was seen rummaging<03e0>through books written about magick.<03e0>Some say he looks familiar...
+Isn't that exciting?
+Playing with blocks will lead one to eventually<03e0>build a house, a tower, an empire.<03e0>It is all up to potential.
+You can only find out your true<03e0>potential once you test it, right?
+I heard about these set of twins that are<03e0>great mercenaries. And get this<07f003e0>they're girls!
+Isn't that exciting?
+One's effort contributes to his growth.<03e0>However, it contributes to no one else.
+When it comes to business, I think<03e0>results are the only thing that matter.
+Some man is hosting a game in<03e0>the Great Sand Sea. I wonder how<03e0>many people will show up to play.
+Isn't that exciting?
+Children learn the ways of survival<03e0>through games.
+So you're saying he's childish?
+An old warrior is crossing the Great Sand Sea,<03e0>looking for a certain sword.
+Isn't that exciting?
+A journey allows one to find himself.<03e0>At the same time, it shows him<03e0>the immensity of the world.
+I love traveling, but I hate coming back<03e0>home...
+The guards of Ghor have all sworn to follow<03e0>their lord for as long as they live. He must treat<03e0>them really, really well.
+Isn't that exciting?
+Flowers give those who water them<03e0>the gift of beauty in exchange for<03e0>nourishment. It is a simple formula.
+I only water the pretty flowers.
+The Honeywell clan does good things for Athlum.<03e0>They've got the trust and respect of the residents.
+Isn't that exciting?
+You cannot trust someone that continuously<03e0>doubts others, nor can you trust someone<03e0>that is suspicious of no one.
+Yup. It's not good to trust someone<03e0>who's too good to be true.
+Apparently, Torgal of the Athlum generals<03e0>is touchy about his past.
+Isn't that exciting?
+You can learn about someone by<03e0>knowing their past, but you cannot<03e0>predict their future.
+We all have skeletons in our closets.<03e0>That doesn't make us all bad people.
+The Tournament of Heroes is starting up again.<03e0>I wonder how many people are going to<03e0>try out this year.
+Isn't that exciting?
+A true winner will be grateful for survival.<03e0>A true loser will despise the victor.
+Fighting is so barbaric.
+Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things.
+Isn't that exciting?
+A person's natural gift may remain<03e0>undiscovered due to one's company.
+If you're not good at what you're<03e0>doing now, try something else.<03e0>There's something out there fit for you.
+Athlum's been through a lot lately.<03e0>Hopefully, that Honeywell girl will be able<03e0>to fill her mom's shoes.
+Isn't that exciting?
+The mistakes made in youth<03e0>are worth more than the lessons<03e0>of a sage.
+You have to experience things and<03e0>make mistakes to learn and grow up.
+A lady was overheard saying the Marquis<03e0>of Athlum was too young and attractive<03e0>not to have a lady in his life.
+Isn't that exciting?
+Love is a game for two.
+Sometimes, it's a game for one...
+The ex-director of the Academy has been<03e0>spotted at pubs in different cities.<03e0>No one knows what she's up to.
+Isn't that exciting?
+To climb a steep ravine, one should<03e0>take the path, no matter the distance.
+Life is about ups and downs and shortcuts<03e0>and longcuts.
+Dr. Sykes has been seen making frequent<03e0>trips to Athlum Castle. Maybe she's made some<03e0>kind of new discovery!
+Isn't that exciting?
+A fool chooses to believe he has talent<03e0>as a means of survival.
+Most geniuses do seem to be pretty looney.
+There's a monster flying around Wyrmskeep.<03e0>It's really creepy.
+Isn't that exciting?
+Men see adventure in the grotesque<03e0>and unknown.
+I don't get it.
+A bloodthirsty female warrior is trying to hunt down<03e0>the goons responsible for the incident at the moor.<03e0>Her boss isn't too happy, though.
+Isn't that exciting?
+Justice served with violent passion<03e0>is covered in sin.
+I wonder what her story is.
+A mob of ferocious monsters was<03e0>spotted in the Great Sand Sea.<03e0>I hear they're really strong!
+Isn't that exciting?
+Strategy is the best tactic.
+Fighting can be left up to the men.
+Archaeologists say that in the depths of<03e0>the volcano lies the power to destroy an entire city!
+Isn't that exciting?
+One can spare themselves embarrassment<03e0>by keeping their mouths shut about<03e0>things they know nothing of.
+Hey, was that comment aimed at me?
+It's impossible to research the dangers that lie<03e0>within a volcano. But lords have their ways<03e0>of finding things out<07f0>no matter how impossible.
+Isn't that exciting?
+Fear is the most dreadful epidemic<03e0>for a lord as it can cause his town<03e0>to perish.
+I can think of worse epidemics...
+You know there's a town without a lord?<03e0>The old lord's two sons are fighting over<03e0>the seat.
+Isn't that exciting?
+A windmill must be chosen wisely.<03e0>The wind, like people, is unpredictable.
+So which windmill...er, son...do you<03e0>think is the better choice?
+If you listen closely, you can hear<03e0>crying coming from the depths of<03e0>the Great Sand Sea.
+Isn't that exciting?
+Sorrow can and should be disposed of.
+So what you're saying is, get over it.
+A long, long time ago, a hero wandered<03e0>the Great Sand Sea.
+Isn't that exciting?
+A hero is one who committed a heinous<03e0>crime for victory.
+I've heard he's killed lots of monsters<03e0>in the past. What a savage!
+Ghosts appear if you talk to the pillars in<03e0>the Great Sand Sea!
+Isn't that exciting?
+Terror is not to be ashamed of.<03e0>Encountering the unknown is a joyous<03e0>moment.
+How true! I love discovering<03e0>new things!
+There's a scientist guy in Melphina who<03e0>people say is absolutely crazy!
+Isn't that exciting?
+All technology is born from unorthodox<03e0>forms of research.
+A lot of what we have now is from<03e0>wacky experiments.
+Desert bugs keep flying into the pub near the desert.<03e0>The owner's going out of his mind, trying to<03e0>rid the place of them!
+Isn't that exciting?
+Happiness is often taken for granted.<03e0>It is noticed only when it is lost.
+How poetic...
+Since the incident here, this city's become<03e0>so dangerous. I hear lots of stories about young boys<03e0>and girls getting kidnapped.
+Isn't that exciting?
+Criminals emerge from the dark corners<03e0>of one's blind spot.
+Crime can be solved if everyone<03e0>just keeps their eyes and ears open<03e0>and cooperates with each other.
+A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures.<03e0>No one does that anymore, though.
+Isn't that exciting?
+Memories bear more importance than<03e0>material objects. However, objects are<03e0>necessary to conjure up memories.
+Then buy me something.
+Balterossa is the sole buyer of all of<03e0>Royotia's trade goods. Lots of merchants<03e0>aren't happy with the situation.
+Isn't that exciting?
+A revolution can balance a tilted scale.
+It can't be that easy, can it?
+A yamaan mercenary is looking for people to help<03e0>him out with something. I bet he found himself<03e0>a job too big to handle alone.
+Isn't that exciting?
+One who cannot produce results is<03e0>one who does not know what results<03e0>to produce.
+Do what you know you can do.<03e0>Is that what you're saying?
+There's a man in Celapaleis who's sweet<03e0>one second, but angry the next. A few women<03e0>are fawning over him, saying he's their ideal man!
+Isn't that exciting?
+Love originates from surprise.
+I want surprise. I want excitement!
+There's a qsiti who stands in the middle<03e0>of busy streets and glares at anyone<03e0>who bumps into him. What a freak!
+Isn't that exciting?
+It is difficult to touch what is fragile,<03e0>as are people's hearts.
+Do you really think this qsiti has<03e0>a fragile bone in his body?
+There's a mysterious woman who looks like she<03e0>has the weight of the world on her shoulders.<03e0>I wonder if she needs help with something.
+Isn't that exciting?
+At a certain point, one must stop and<03e0>look back at the path they have walked.<03e0>That is destiny.
+Meaning, you'll know what you were<03e0>destined to do once you reach that<03e0>point?
+A bunch of Bloody Alice soldiers were<03e0>at the moor. Apparently, they're getting ready<03e0>for something big.
+Isn't that exciting?
+Determination is the key to success.
+I can't argue with you there.
+The Jhana are now causing trouble in<03e0>the Great Sand Sea! Apparently, not even<03e0>the Gae Bolg can teach them a lesson.
+Isn't that exciting?
+Obliviousness is the shortcut to destruction.
+They'll be extinct in no time.
+The Silver Falcons are going to rid<03e0>the area of the Jhana!<03e0>They're so dependable!
+Isn't that exciting?
+Those who are ignorant of the justice<03e0>of others do not know the true<03e0>meaning of the word.
+Do you really think the Silver Falcons<03e0>are acting out of selfishness?<03e0>I don't know about that...
+The Silver Falcons are going to get<03e0>rid of what's left of the Conqueror's army.<03e0>Good riddance!
+Isn't that exciting?
+Glory is given to a victor until his<03e0>next loss.
+That's why the Silver Falcons keep<03e0>slaying the bad guys. They never lose.
+A really creepy man's been going to the pub<03e0>in Elysion a lot lately. I wonder what his story is.
+Isn't that exciting?
+Only a fool thinks he is surrounded<03e0>by fools.
+So you're saying this man is up to<03e0>something, huh?
+

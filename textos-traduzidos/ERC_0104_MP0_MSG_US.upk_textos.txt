@@ -1,0 +1,37 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0104_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Elysion is under the rule of the Congress,<03e0>an organization consisting of the heads<03e0>of each state.<04e0>This is why a research establishment<03e0>like the Academy is here in this city.
+Message 2
+Message 3
+Message 4
+Every worldly creation has an end<07f003e0>with the exception of Remnants.<04e0>To them, we must have a lifespan<03e0>of mere seconds.
+Message 6
+This is the highest tier of Elysion.<04e0>The Academy is up these stairs and<03e0>across the main street.<04e0>The assembly hall is at the end of the street,<03e0>but civilians aren't allowed entry.<04e0>The stairs next to the assembly hall lead to<03e0>the Ark. It's a big tourist attraction.<03e0>Is that why you're here, too?
+Message 2
+Message 3
+Message 4
+The Congress was a mess when<03e0>Chairman Hermeien passed away.<04e0>But now that the Duke of Ghor has taken<03e0>his place, things have gotten a lot better.<04e0>I heard that he was once a great warrior,<03e0>and that he excels in politics as well.
+Message 6
+I've come a long way just to see the Ark.<03e0>I wish I could ride it up to the heavens...<04e0>Not a lot of people know this, but<03e0>the Academy scientists are allowed<03e0>to ride it several times a year!<04e0>I'm so jealous!<04e0>The Ark is just up these stairs, if you want<03e0>to take a peek.
+Message 2
+Message 3
+I came all the way from Nagapur<03e0>to take in the sights.<04e0>I rushed home when I heard about<03e0>the Gwayn, but...<04e0>My neighborhood was nothing but rubble.<03e0>I hope the souls of those who perished<03e0>made it to the Sacred Lands.<04e0>Nothing would make me happier...
+Elysion is referred to as the capital of<03e0>the world, not because of its size, but<03e0>because it's home to the Academy.<04e0>Uncovering the truth about Remnants means<03e0>uncovering the biggest truth ever to exist.
+I just saw a bright light shoot straight from<03e0>the Ark to the Sacred Lands.<04e0>That couldn't have been the work of the Academy.<03e0>Was it possible that someone snuck in to abuse<03e0>the Ark?<04e0>But the Ark is already bound...<03e0>This doesn't make any sense.
+Message 3
+Rumor has it that Chairman Hermeien was<03e0>using his powers to secretly research a way<03e0>to turn Remnants into weapons.<04e0>When that fell through, people began<03e0>to leave the Academy.<04e0>One of the reasons may have been the passing<03e0>of the late Chairman, but the biggest reason<03e0>was due to the Gwayn's actions.<04e0>After the destruction it caused, everyone<03e0>must have realized that Remnants<03e0>can't be truly controlled by anyone.
+This area is off-limits.
+If Master David could come with me...<06e0000008e0000000000000>He's ready to go!<09e008e0010000000300>No<07f0>you can't have him yet!
+Lord David, please allow me to escort you<03e0>to the assembly hall.
+I understand.<03e0>Please come to me when you are ready.
+Hello, Rush!<04e0>Is everything well?
+I don't know why, but I feel comfortable<03e0>here. I guess there are a lot of good<03e0>memories.<04e0>I know it must sound weird to you,<03e0>since they fired me from the Academy.
+I feel comfortable here.<03e0>I have some good memories at the Academy.
+Even though I've left the Academy,<03e0>I still wonder about Remnants and<03e0>what they really are.<04e0>If we can discover their true powers,<03e0>we might be able to use them to stop<03e0>the ongoing war in this world.
+If we can discover the true powers of<03e0>Remnants, we might be able to use them<03e0>to stop the ongoing war!
+Remnants provide us with knowledge<03e0>and enhance our lives in many ways.<03e0>They are the world's greatest treasure.<04e0>But lately, I've been beginning to think<03e0>that we were never meant to use or<03e0>benefit from their powers.<04e0>The sad truth is that the world has<03e0>become reliant on Remnants, which<03e0>seem to have a part in everyone's lives.<04e0>We've spent centuries trying to understand<03e0>what makes them tick, but we've gained very<03e0>little knowledge.<04e0>Rush, maybe we were wrong to have<03e0>taken control over these divine objects.
+Maybe we weren't meant to benefit<03e0>from the powers of Remnants.<03e0>If that's the case...
+Rush, I've thought about some things.<04e0>I haven't been able to find answers to all<03e0>of my questions, but I did figure out something.<04e0>Remnants reflect our morality.<03e0>If we make poor choices, their powers<03e0>reflect that.<04e0>I want to find a way we can coexist<07f003e0>a way for us and Remnants to be happy.<04e0>I want to travel the world and discover<03e0>more of what's out there.<03e0>I may find the answers I need.<04e0>I hope I can find what I'm looking for<03e0>while helping you out with your journey.
+Rush, I want to find a way for us to<03e0>coexist peacefully with Remnants.<03e0>I hope we can work together to find answers.
+

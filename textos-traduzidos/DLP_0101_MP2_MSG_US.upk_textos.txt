@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) DLP_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Lady Emma reports that your talisman holds a<03e0>mysterious power.
+Yeah, it does.<03e0>What? You think she's lying?
+Lady Emma is an honest person.<03e0>I have no reason to doubt her.<04e0>So this power...<03e0>Can it be used outside of battles?
+What do you mean?
+Can you show me its power now?
+Hmm, I dunno.<04e0>I can try, though.
+Wh-what just happened!?
+I see...<03e0>It holds the power to manipulate time.<04e0>Proper application of such a power would give a clear<03e0>advantage when battling monsters, as well as allow<03e0>you to engage many foes in battle at once.<04e0>However, it is almost certain that such a power cannot<03e0>be applied indefinitely. Use it wisely.
+The door is sealed shut.
+The door is sealed shut.<03e0>Use the Plateau Key?<06e0000008e0000000000000>'Course!<09e008e0010000000300>I wanna look around a bit more.
+The door has been unlocked.
+

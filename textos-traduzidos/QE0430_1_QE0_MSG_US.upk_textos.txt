@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0430_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+The tablet of Marshall is reacting<03e0>to the Flâchonelle.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! It's creepy...
+(If I take this now, Rhagoh will hate me...)<06e0000008e0000000000000>Let's take it!<09e008e0010000000300>Let's leave it.
+

@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0150_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey, have you ever heard of something<03e0>called magick?<03e0>It's an ancient art no longer used by anyone.
+The Imperator was rumored to have his hands<03e0>on the art.<03e0>Evidence of this was even found at some ruins.<04e0>But just as we were about to discover the truth,<03e0>the soldiers I hired to protect me began<03e0>getting slaughtered one by one.<04e0>I was able to save myself, but not before<03e0>I laid eyes on a hideous monster.<04e0>Will you investigate the area for me?<03e0>I know what I'm asking of you is dangerous,<03e0>but I need to know what's out there.<06e0000008e0000000000000>I eat danger for breakfast!<09e008e0010000000300>Sorry, I like being alive.
+Thank you.<03e0>The area I speak of is <1be0ffbe34ff>Siebenbur's First Path<1ce0>.<03e0>Good luck to you.
+Ahh...I figured as much. Don't worry, I won't<03e0>spread rumors of you being chicken or anything.
+Will you investigate the area for me?<03e0>You will be facing a hideous monster, and<03e0>the task will be a dangerous one.<06e0000008e0000000000000>I eat danger for breakfast!<09e008e0010000000300>Sorry, I like being alive.
+Thank you.<03e0>The area I speak of is <1be0ffbe34ff>Siebenbur's First Path<1ce0>.<03e0>Good luck to you.
+I thought it would be too much to ask of someone.<03e0>I'm sure you made the wiser choice.
+Have you come with the courage to investigate<03e0>the area I speak of?<06e0000008e0000000000000>I eat danger for breakfast!<09e008e0010000000300>Sorry, I like being alive.
+Thank you.<03e0>The area I speak of is <1be0ffbe34ff>Siebenbur's First Path<1ce0>.<03e0>Good luck to you.
+I thought it would be too much to ask of someone.<03e0>I'm sure you made the wiser choice.
+The pit of darkness?<04e0>Is magick an uncultivated power of the earth?<03e0>If so, any spell that can extract it is far<03e0>more dangerous than anything in existence...
+I'm glad to have you back safe and sound.<03e0>Here is the promised reward.
+Now that I know the dangers of magick,<03e0>I'll refrain from doing anything reckless when dealing<03e0>with anything related to this art.<04e0>Maybe I can find some answers traveling with you<03e0>and your friends. If you ever need another body,<03e0>please come and seek me.<04e0>Thank you again, lad.
+

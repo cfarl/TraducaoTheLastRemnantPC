@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1240_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Soldiers of the Conqueror's army were spotted near<03e01be0ffbe34ff>Undelwalt<1ce0>.<04e0>I know not their intentions, but they must be dealt<03e0>with without delay. You of all people should understand.<04e0>The Silver Falcons will engage the Conqueror's army<03e0>at <1be0ffbe34ff>Harphlus Pass<1ce0>. I hope you will accompany us.<06e0000008e0000000000000>Don't gotta ask me twice!<09e008e0010000000000>Let's leave them alone.
+I'm heading to <1be0ffbe34ff>Harphlus Pass<1ce0> now.<03e0>Are you prepared?<06e0000008e0000000000000>Yup!<09e008e0010000000300>I need two secs...
+Glory to the Falcons!
+If you have other pending matters,<03e0>so be it. There is a chance the situation<03e0>may change if we leave it be for now.
+This group is the cause of the world's current chaos.<03e0>These beings are sentient... They are more of a threat<03e0>then any Jhana could ever be.
+The Falcons know only the meaning of victory.<03e0>However, today's results are in large part due to your<03e0>help.<04e0>Take this.
+From now on, the Falcons will no longer request your<03e0>assistance... It feels odd, being so truly indebted to<03e0>someone.
+The Silver Falcons fight for justice regardless of<03e0>whose land we are on. We have made enemies of<03e0>several Lords, but we do not fight for their recognition.<04e0>However, you have been a strong and true ally, and<03e0>I promise to repay that debt. We shall fight with you,<03e0>whatever the reason.<04e0>Go to the guild facing Elysion's Assembly Hall if you<03e0>ever have need of our assistance.
+

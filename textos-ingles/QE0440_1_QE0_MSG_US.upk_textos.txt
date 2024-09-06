@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0440_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush! I've waited for you to come.<04e0>By asking around this very pub, I've found<03e0>what's happened to those dark-clothed<03e0>miscreants from before.
+One is a qsiti named Nordis. Apparently, he<03e0>specializes in close combat with blades. The<03e0>other is a mitra named Azelle.<04e0>Word is that they've fled Melphina to Nagapur,<03e0>and are hiding out in the <1be0ffbe34ff>Numor Mines<1ce0>.
+For shaming the name of the Order of Melphina,<03e0>and putting all of Melphina in danger, they have<03e0>run up a high toll I intend to collect.<04e0>The fiends must be found and brought to<03e0>justice. You agree that is the correct course,<03e0>Rush, do you not?
+Come with me to find them. But we must make<03e0>haste; given the time, they will scurry off<03e0>like the rats they are.
+Rush<07f0>let's go!<03e006e0000008e0000000000000>Time for frontier justice!<09e008e0010000000300>C'mon, just let 'em be.
+As I had expected of you, Rush. You well<03e0>understand the concepts of honor and justice.
+The blackguards should be lurking within the<03e01be0ffbe34ff>Numor Mines<1ce0>. Head there as soon as you<03e0>possibly can. I shall head there as well.
+What<07f0>how can you say such a thing?<04e0>...Fine. Even if I must do it alone, I will see<03e0>them punished with my own two hands. Report<03e0>to me if you change your mind.
+Ooh... Rush...<04e0>It's all that man in black's fault... That Azelle,<03e0>he's the one who took the Forest Maiden, I'm<03e0>sure of it!
+I'd meant to punish him for tarnishing the image<03e0>of the Order and the country, but I never<03e0>imagined something like this would happen...
+I've proven myself unfit to be a knight of Melphina...<04e0>Never again will I use this blade.<03e0>Rush, if you would, I leave it to you.
+I've committed an unforgivable sin. It is I who<03e0>am the true criminal...<04e0>If only I had listened to Commander Roberto...
+Rush! I knew you would reconsider. Come now, let<03e0>us bring those fiends to justice!<06e0000008e0000000000000>Yeah! It's vigilante time!<09e008e0010000000300>Anger leads to the dark side.
+I appreciate your enthusiasm.<03e0>Let's hurry to the <1be0ffbe34ff>Numor Mines<1ce0>!
+What are you saying, Rush? Have you lost all sense<03e0>of justice? ...Whatever. If you come to your senses,<03e0>you know where to find me.
+

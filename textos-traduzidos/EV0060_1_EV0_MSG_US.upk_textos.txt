@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0060_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Attacked by some flying beast...
+...and protected by the light from<0fe003e00ee0>your talisman.
+Child, do you think I'm senile?
+It's all true!
+Whatever. First things first<07f0>we need<0fe003e00ee0>to get out of here.
+

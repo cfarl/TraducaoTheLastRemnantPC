@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) SBN_0103_MP2_MSG
+-- ----------------------------------------------------------------------------------
+The door is sealed shut.
+The door is sealed shut.<03e0>Use the Moss-Covered Key?<06e0000008e0000000000000>'Course!<09e008e0010000000300>I wanna look around a bit more.
+The door has been unlocked.
+The door is sealed shut.<04e0>The words "Sealed is this door to the sacred lands"<03e0>appear on the door.
+

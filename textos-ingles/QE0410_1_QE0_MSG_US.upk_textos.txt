@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0410_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+The tablet of Marshall is reacting<03e0>to the Dead Heart.<03e0>Use the tablet?<06e0000008e0000000000000>Yeah!<09e008e0010000000300>No way! It scares me...
+(Haruko was saying she wanted<03e0>a glimpse of this.)<06e0000008e0000000000000>Let's take it back to her.<09e008e0010000000300>Let's leave it.
+

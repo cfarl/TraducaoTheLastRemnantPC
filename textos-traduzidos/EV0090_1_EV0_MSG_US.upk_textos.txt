@@ -1,0 +1,38 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0090_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+So your talisman's more than a fashion<0fe003e00ee0>accessory after all.
+My lord!
+You did not have to come all this way<0fe003e00ee0>for me...
+Please, accept my apologies.
+Seeing you safe is apology enough.
+And who is this?
+He claims to be the son of Dr. Sykes...
+I see.
+I am Torgal, one of Athlum's Four Generals.
+Our lord, the Marquis of Athlum, would like<0fe003e00ee0>to extend his thanks.<1ae0000002430fe005e001000ee0>Step forward.
+I will have you know that your actions<0fe003e00ee0>have won my gratitude.
+As for your sister, if the men you seek<0fe003e00ee0>have entered Athlumian territory,<1ae0000002430fe005e001000ee0>we cannot turn a blind eye.
+I shall accompany you to Athlum.
+Huh?
+Our lord would like to aid you in<0fe003e00ee0>your search for your sister.
+It's fine, Torgal.
+Thanks a lot!<1ae000000c420fe005e001000ee0>I chased that weird flying thing here,<0fe003e00ee0>but I didn't have a clue where to go next.
+But hey, if I've got an important guy<0fe003e00ee0>like you backing me up, <1ae00000e6420fe005e001000ee0>I've got a whole lot less to worry about!
+This is ace!
+The name's Rush... Rush Sykes!<0fe003e00ee0>Who're you?
+I am David Nassau, the Marquis of Athlum.<0fe003e00ee0>You may address me as David.
+Sure thing, Dave!
+Let us return and see what tidings await us<0fe003e00ee0>in Athlum.
+All troops return to Athlum immediately!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Yes, my lord!
+Come on, Dave! Let's go!
+You whelp! Have you no manners!? <0fe003e00ee0>That is no way to address the Marquis of Athlum!
+Geez! What's your problem!?
+My only problem is your lack of<0fe003e00ee0>common sense!
+He's surprisingly simple, wouldn't you say?
+We have yet to see.
+

@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1060_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hello, chum, the name's Baulson.<03e0>I'm a bloke what earns his keep<03e0>doin' other folks's dirty jobs.<04e0>Guess you could say I'm a bit of a mercenary,<03e0>though it don't roll off the tongue as pretty.<04e0>You yourself're no stranger to a fight, eh, kiddo?<03e0>I can see it in your eyes...<04e0>They're the eyes of a man what's peered over<03e0>the edge o' death and come back to tell the tale.<03e0>No doubt about it, you're a fighter, and a good one.<04e0>Lemme cut to the point: right now, I'm contracted<03e0>to do a certain job for a certain aristocrat,<03e0>but it's a bit of a hairy job for just one man.<04e0>I was hoping to find a partner.<04e0>What d'you say, you want in on the job?<03e0>You know what they say about those upper-crust types,<03e0>workin' for 'em guarantees a decent reward.<06e0000008e0000000000000>Sure, I'm up for it.<09e008e0010000000300>Sorry, pal, not interested.
+That's what I like to hear.<03e0>I knew I saw a real man in ya!
+Right. So, finish up your business, and meet me<03e0>at the <1be0ffbe34ff>Gaslin Caves<1ce0>. I'll tell you the details there.
+Guess I read you wrong, huh?<03e0>I'll ask around an' find someone else.<03e0>Sorry for takin' your time.
+Hmm?<03e0>Changed your mind about the job, did you?<06e0000008e0000000000000>Sure, I'm up for it.<09e008e0010000000300>Still not interested.
+I still haven't been able to find the poor lost little<03e0>lad. Not to drop too strong a hint, but I sure<03e0>could use another pair of eyes for the search.<06e0000008e0000000000000>Hey, I'll help out.<09e008e0010000000300>Yeah...good luck with that.
+Hmm?<03e0>Changed your mind about the job, did you?
+Nice work back there, pal.<03e0>I couldn't have done it without your help.<04e0>The kid's pa was quite thankful as well.<03e0>Gave me twice the reward, he did.<03e0>Here, here's your half.
+Didn't expect all this...<03e0>I can get her something real nice...
+Hmm?<03e0>Nothing, nothing, just thinkin' out loud.<04e0>Say, if you ever need a partner in a fight,<03e0>pop by the guild and let me know.<04e0>We're mates now, so anytime you need a hand!
+Say, if you ever need a partner in a fight,<03e0>pop by the guild and let me know.<03e0>We're mates now, so anytime you need a hand!
+

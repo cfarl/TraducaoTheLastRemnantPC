@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_05GL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+So you're Caedmon's new pet.<03e0>I know what you're up to.<04e0>You're after his position, aren't you!?<03e0>Heh, keep dreaming.<04e0>I'm next in line! After all, I'm head of<03e0>the Elysion division of the Silver Falcons!<04e0>I hope you're ready for some competition!
+It's been a long time!<04e0>...You don't remember me?<03e0>We fought those monsters at Harphlus Pass...<03e0>Awww...<04e0>Well, I remember you. You sure know how to use<03e0>a weapon! We'll be counting on ya when we get<03e0>another assignment!
+

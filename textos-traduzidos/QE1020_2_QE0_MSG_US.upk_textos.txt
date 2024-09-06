@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Yeah, I'm Rainn...
+Hmm?<03e0>You want Raphus's treasure back?<04e0>Easier said than done... Traded it together with<03e0>some Royotian Ore for this here Ancient Scabbard.<04e0>Huh... Yeah, it's possible that if you give back the<03e0>scabbard, you might get back the old man's treasure...<04e0>Alright. If you want this scabbard, get me the<03e01be064f4ecff>Ring of Morning Calm<1ce0>. A lady named<03e0>Alyssa in <1be0ffbe34ff>Baaluk<1ce0> will know where it's at.
+Hey, there it is<07f0>the Ring of Morning Calm.<03e0>You'll trade it for this Ancient Scabbard, right?<06e0000008e0000000000000>That's why I'm here.<09e008e0010000000300>Nahhh...I don't think so.
+Appreciate it!<03e0>Old Raphus's treasure should be with Beauson<03e0>in <1be0ffbe34ff>Elysion<1ce0>.
+No? Then how 'bout if I throw in this tuck?<06e0000008e0000000000000>Okay, that's doable.<09e008e0010000000300>Don't need it.
+You drive a hard bargain, kid. Raphus's<03e0>treasure should be with Beauson in <1be0ffbe34ff>Elysion<1ce0>.
+...Fair enough. Forget it, then.
+...<04e0>Could you just leave me alone?
+Yup, if you want this old scabbard, you're<03e0>gonna have to get me the <1be064f4ecff>Ring of Morning Calm<1ce0>.<03e0>Ask Alyssa in <1be0ffbe34ff>Baaluk<1ce0> if you're serious about it.
+

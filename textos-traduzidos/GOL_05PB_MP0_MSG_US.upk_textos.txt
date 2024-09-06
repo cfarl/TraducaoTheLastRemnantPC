@@ -1,0 +1,204 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Hey there!<03e0>The Den of Heroes here to serve you!
+Hey there! The Den of Heroes here to<03e0>serve you! I'm out of peanuts, so<03e0>how about a story instead?<04e0>South of the desert lies Royotia,<03e0>a city in a dangerous mountainous region.<04e0>Even though it's a small town, the people<03e0>who struggle to live there<07f0>their hardship<07f003e0>is burned into my memory forever.
+You know why the gang in Nagapur can<03e0>rest easy?<03e0>It's because of us!<04e0>I don't think they see that.<03e0>I feel like they take us for granted!
+What a thing to happen to Nagapur...<03e0>I can't help but feel sorry for them.
+I thought Hermeien died during the incident<03e0>with the Gwayn, but I hear he's still alive<03e0>and crazier than ever.<04e0>I hope our lord doesn't feel like he<03e0>has to go head to head with that madman...
+Hey, no shenanigans in my pub, you hear?<04e0>Our lord is recuperating at the moment.<03e0>We pray for a quick recovery.<04e0>I don't want to answer to some kid from Celapaleis!
+Our lord is too noble for his own good.<04e0>Just because he feels indebted to Lord Oswald,<03e0>the previous Nagapur leader, he shouldn't feel<03e0>he has to repay his gratitude to that punk Wilfred.
+A whippersnapper like Wilfred Hermeien had no<03e0>business being Chairman of the Congress in the first<03e0>place.<04e0>A fine, upstanding man with a strong sense of duty<03e0>like our own Lord Ghor is infinitely more suited for<03e0>the position.
+I don't feel we owe anything to that Hermeien kid.<04e0>I saw the look in his eyes when he came to speak<03e0>with our lord. Something wasn't quite right about him...<04e0>I wonder if Ghor is prepared to throw away its<03e0>outdated sense of duty and go against Hermeien<03e0>if the need arises...<04e0>Our lord is a good man, but sometimes he's too moral<03e0>for his own good.
+Our lord is resting in his castle.<03e0>I hear he's not doing very well.<04e0>I'm filled with rage!<03e0>I want to take the Conqueror's life<03e0>with my own blade!<04e0>I know I could take him on if only I<03e0>were 50 years younger.
+I spoke to the white yama and he told me<03e0>about a secret Blackdale entrance.<03e0>He held such fear in his eyes...
+Sir! Nothing new to report, sir!
+How many times do I have to tell<03e0>you, this isn't the army!?
+Sir! Sorry, sir!
+The wife of Celapaleis's Baron Nielsen has<03e0>run off, sir! They're famous for fighting like<03e0>cats and dogs, so no surprise there, sir!
+Sir! What do you think of this?
+Don't chase those who flee.
+Wise advice, sir!
+According to my sources, some crazy woman<03e0>is plotting to assassinate Duke Qubine, sir!
+Sir! What do you think of this?
+You should always be prepared for<03e0>anything. Danger lurks around every corner.
+I'm always prepared, sir!
+The princess of the desert kingdom is in<03e0>love and sneaks out of the castle frequently<03e0>to rendezvous with her love, sir!
+Sir! What do you think of this?
+I don't know, and I don't care.
+The princess from the desert kingdom<03e0>eloped with her love, sir!
+Sir! What do you think of this?
+What does that mean, "they eloped"?
+I don't know, sir!
+The conflict between Balterossa and<03e0>Royotia is getting worse by the day, sir!<03e0>Everyone thinks a war is inevitable.
+Sir! What do you think of this?
+The blame lies in politics.
+According to my sources, in a certain moor,<03e0>the Imperator used his powers to seal<03e0>the entranceway to another realm, sir!
+Sir! What do you think of this?
+I smell adventure!
+Any Forest Maiden that vows eternity<03e0>with a Melphinian knight gains the power of<03e0>seeing and hearing whatever her partner does, sir!
+Sir! What do you think of this?
+If I had that power, I could get into<03e0>the minds of the customers and bring<03e0>them their order without asking!
+That would be genius, sir!
+It seems something happened to the Last<03e0>Leaf in Crookfen, sir! The Forest Maidens and<03e0>the knights of Melphina are taking action.
+Sir! What do you think of this?
+I smell even more adventure!
+According to my sources, this year's Kosmosfest<03e0>hasn't began yet because the Cosmos Maiden<03e0>has yet to arrive, sir!
+Sir! What do you think of this?
+A festival calls for a celebration.
+Roger that, sir!
+The Cosmos Maiden has made it safely to the festival<03e0>and it's about to begin, sir! It's a shame this tranquil<03e0>event is always disrupted by monsters.
+Sir! What do you think of this?
+A tranquil festival? Count me out.<03e0>I want some fun!
+A old-fashioned woman is seeking a bodyguard,<03e0>sir! She awaits in the pub in the town with<03e0>the canals.
+Sir! What do you think of this?
+I've never been one to shy away from<03e0>a damsel in distress...
+I'll look after the store for you, sir!
+The treasures from different lands bestowed<03e0>upon the holy city have been stolen and<03e0>are being sold on the black market, sir!
+Sir! What do you think of this?
+That city's gone to shit.<03e0>It doesn't deserve any of the glory<03e0>it had before.
+Someone is seeking the three valuable<03e0>stones, an important part of the desert's history,<03e0>sir!
+Sir! What do you think of this?
+It's like something out of a book!<03e0>"When the three stones come together,<03e0>an unknown tale will unfold..."
+A scientist is seeking an assistant to help<03e0>him with research regarding ancient magick, sir!
+Sir! What do you think of this?
+Research, huh? I'll pass this on to you.
+No can do, sir!
+A horrible monster sealed by the Imperator<03e0>long ago has been resurrected, sir!<03e0>It may just be the end of us!
+Sir! What do you think of this?
+Of course, we can save ourselves.<03e0>The world will come to an end only when<03e0>we all stop having hopes and dreams!
+A man with amnesia is searching for<03e0>something he lost in the desert, sir!<03e0>Perhaps he's searching for his memory?
+Sir! What do you think of this?
+Men are always on a journey to find<03e0>who they really are.
+A notorious bandit has been seen<03e0>lurking around Athlum, sir! It seems he's<03e0>waiting for someone.
+Sir! What do you think of this?
+Something happened in his past to<03e0>change him into what he is today.<03e0>I can tell.
+Someone is searching for the statue in<03e0>the Robelia Ruins that supposedly lets one<03e0>reunite with someone far away, sir!
+Sir! What do you think of this?
+I would go visit that person directly,<03e0>no matter how far they were.
+There was a murder in the big city and<03e0>the assailant is still on the loose, sir!
+Sir! What do you think of this?
+They need to search every corner<03e0>of the city and find this man!
+A large yama is in need of help, searching for<03e0>something he's lost, sir! There's something odd<03e0>about his behavior...
+Sir! What do you think of this?
+I think I've seen him around...
+A white qsiti has been seen rummaging<03e0>through books written about magick, sir!<03e0>Some say he looks familiar.
+Sir! What do you think of this?
+Familiar, huh? I wonder if he's someone<03e0>famous...
+Rumor's been going around about these<03e0>skilled mercenaries<07f0>they're twins<03e0>and they're girls, sir!
+Sir! What do you think of this?
+A mercenary who can actually do<03e0>some decent work? This I have to see<03e0>with my own eyes!
+Someone is hosting a game out in<03e0>the Great Sand Sea, sir! I wonder how<03e0>many people are up to the task.
+Sir! What do you think of this?
+I'm intrigued. I've never backed down<03e0>from a challenge.
+I'll hold this place down, sir!
+An old warrior is crossing the Great Sand Sea,<03e0>looking for a certain sword, sir!
+Sir! What do you think of this?
+I'd like to have a drink with this man!<03e0>It seems we'd have a lot to talk about.
+The soldiers of this town all look up to their lord, sir!<03e0>He has the respect of each and every one of them.
+Sir! What do you think of this?
+Isn't it normal for all lords to care<03e0>for their soldiers?
+The Honeywell clan serves Athlum well, sir!<03e0>The residents of Athlum have nothing<03e0>but trust and respect for that family.
+Sir! What do you think of this?
+The Honeywells are nothing compared<03e0>to our Duke Ghor.
+Apparently, Torgal of the Athlum generals<03e0>is touchy about his past, sir!
+Sir! What do you think of this?
+I don't care about people's pasts.<03e0>If it doesn't come straight from their<03e0>mouths, it's usually false information anyway.
+The Tournament of Heroes is starting up again, sir!
+Sir! What do you think of this?
+I heard some blue yama is looking<03e0>for a partner to enter this competition.
+Mystic Arts Academy is a renowned school<03e0>and its graduates go on to do great things, sir!
+Sir! What do you think of this?
+I have more respect for carpenters.<03e0>They're useful in the real world!
+Athlum's had its share of bad luck, sir!<03e0>Hopefully, the new Honeywell girl will be<03e0>able to fill her mother's shoes.
+Sir! What do you think of this?
+You can't judge people by their age.
+According to my sources, the admirers of<03e0>the Marquis of Athlum cannot believe there<03e0>is no woman in his life, sir!
+Sir! What do you think of this?
+Why would I care about this?
+The ex-director of the Academy<03e0>has been spotted at pubs in various<03e0>cities, sir!
+Sir! What do you think of this?
+All I can tell you is that she hasn't<03e0>been here.
+Dr. Sykes has been seen making frequent<03e0>trips to Athlum Castle lately, sir!
+Sir! What do you think of this?
+It must be tough being famous.<03e0>You can't do anything without people<03e0>talking about you behind your back.
+A monster was spotted flying around<03e0>Wyrmskeep, sir! The people are apparently<03e0>all shaken up.
+Sir! What do you think of this?
+Move out of the way!<03e0>I can take that sucker down!
+I'll hold down the fort, sir!
+A bloodthirsty female warrior is trying to hunt down<03e0>the goons responsible for the incident<03e0>at the moor, sir!
+Sir! What do you think of this?
+Ah, youth.
+A mob of ferocious monsters has<03e0>been spotted in the Great Sand Sea, sir!
+Sir! What do you think of this?
+Ferocious? Overwhelming?<03e0>Let me at them!<03e0>I love a good fight.
+Archaeologists say that in the depths of<03e0>the volcano, there is enough power to destroy<03e0>an entire city, sir!
+Sir! What do you think of this?
+Volcanoes represent the explosive<03e0>energy and heat of a man chasing<03e0>his dream!
+I couldn't have said it better myself, sir!
+There are no means to research the dangers<03e0>that lie within a volcano, sir. But lords have their ways<03e0>of finding things out<07f0>no matter how impossible.
+Sir! What do you think of this?
+Volcanoes and danger!<03e0>My two favorite things in the world!
+I couldn't have said it better myself, sir!
+There's a town somewhere without a lord, sir!<03e0>I hear his two sons are fighting for<03e0>the position.
+Sir! What do you think of this?
+Fighting over power is useless.<03e0>Those who are destined to rule over others<03e0>will naturally come to power.
+I couldn't have said it better myself, sir!
+According to my sources, if you listen closely,<03e0>you can hear crying coming from the depths of<03e0>the Great Sand Sea, sir!
+Sir! What do you think of this?
+I-I'm not good at dealing with<03e0>anything supernatural...
+Long ago, a hero wandered the Great Sand Sea, sir!
+Sir! What do you think of this?
+He's a man of the past.<03e0>Now Duke Ghor is the hero of the times.
+I couldn't have said it better myself, sir!
+Someone claims that if you talk to the pillar<03e0>in the Great Sand Sea, ghosts appear from nowhere, sir!
+Sir! What do you think of this?
+I-I hate ghosts!
+There's a scientist in Melphina who everyone<03e0>avoids because he's absolutely crazy, sir!
+Sir! What do you think of this?
+I wonder what happened.
+I think he did something horrible<03e0>to someone, sir!
+Desert bugs keep flying into the pub of a town<03e0>near the desert, sir, and it's driving the owner<03e0>crazy!
+Sir! What do you think of this?
+Swallowing a bug or two won't kill<03e0>anyone!
+You're absolutely right, sir!
+Nagapur's become such a dangerous area since<03e0>the incident, sir! There's lots of crime, especially<03e0>involving the kidnapping of young boys and girls.
+Sir! What do you think of this?
+I've got a knuckle sandwich for<03e0>anyone who tries to hurt kids<03e0>around here!
+You tell them, sir!
+A trend started in Royotia, where people would<03e0>exchange treasures they found on their adventures, sir.<03e0>No one does that anymore, though.
+Sir! What do you think of this?
+This place is my treasure.<03e0>I wouldn't give it up for all the money<03e0>in the world.
+Balterossa is the sole buyer of all of<03e0>Royotia's trade goods, sir, and there are lots of<03e0>merchants that aren't happy with the situation.
+Sir! What do you think of this?
+They might be disgruntled, but safety<03e0>should come first. It's better in the long run.
+A yamaan mercenary is seeking help, sir!<03e0>I bet he found himself a job too big to<03e0>handle alone.
+Sir! What do you think of this?
+A mercenary looking for help, huh?<03e0>This must be some job!
+I expect so, sir!
+There's a man in Celapaleis who's sweet<03e0>one second, but angry the next, sir.<03e0>And apparently, women like that in a man!
+Sir! What do you think of this?
+He sounds like a kook to me.<03e0>I'll never understand women and<03e0>their taste in men.
+There's a qsiti who stands in the middle<03e0>of busy streets and glares at anyone<03e0>who bumps into him, sir!
+Sir! What do you think of this?
+Take me to him.<03e0>If it's confrontation he wants, it's<03e0>confrontation he'll get!
+There's a mysterious woman with what looks like<03e0>the weight of the world on her shoulders, sir!
+Sir! What do you think of this?
+Maybe I should give it a shot...
+A group of Bloody Alice soldiers was spotted<03e0>at the moor, sir!<03e0>They must be getting ready to do something big.
+Sir! What do you think of this?
+They're hiding something.<03e0>I know it. What could it be?
+The Jhana are now causing trouble in<03e0>the Great Sand Sea, sir! Apparently, not even<03e0>the Gae Bolg can teach them a lesson.
+Sir! What do you think of this?
+I admire the Silver Falcons for sticking<03e0>to their guns and doing what they believe<03e0>in, though they scare me a little, to be honest...
+According to my sources, the Silver Falcons are going<03e0>to rid the area of the Jhana, sir!
+Sir! What do you think of this?
+We should let the Silver Falcons be,<03e0>and support their efforts from afar.<03e0>We don't want to be a burden.
+According to my sources, the Silver Falcons are going<03e0>to get rid of what's left of the Conqueror's army, sir!<03e0>Good riddance!
+Sir! What do you think of this?
+Whatever happened to that regular<03e0>who said he was leaving to join<03e0>the Conqueror's army?
+I haven't heard anything from him, sir!
+A gloomy-looking man frequents the pub in Elysion,<03e0>sir, and he's scaring the customers!
+Sir! What do you think of this?
+Everyone has something in their past<03e0>they'd like to hide.<03e0>Some more than others.
+
