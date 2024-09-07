@@ -1,6 +1,10 @@
+-------------------------------------------
+Versionamento
+-------------------------------------------
+Última atualização: 07/09/2024, às 17h30m
 
 -------------------------------------------
-##Sobre o Projeto
+Sobre o Projeto
 -------------------------------------------
 Esse projeto consiste na tradução do jogo The Last Remnant para português do Brasil.
 
@@ -15,7 +19,7 @@ O histórico do projeto pode ser encontrado no seguinte endereço eletrônico:
 https://forum.tribogamer.com/viewtopic.php?f=10&t=33923
 
 -------------------------------------------
-##Etapas do Projeto e Tradutores
+Etapas do Projeto e Tradutores
 -------------------------------------------
 A tradução do jogo foi planejada para ser realizada em 4 etapas. 
 
@@ -102,7 +106,7 @@ Revisão final de todos os textos traduzidos:
 - cfarl
 
 -------------------------------------------
-##As Ferramentas para Tradução
+As Ferramentas para Tradução
 -------------------------------------------
 As ferramentas utilizadas para extração e tradução do texto original foram desenvolvidas com o suporte da equipe do Brazilian Warriors.
 
@@ -116,9 +120,11 @@ Edição de imagens:
 - diego rocha
 
 ------------------------------------------------------------
-##Como traduzir o jogo
+Como traduzir o jogo
 ------------------------------------------------------------
-- Faça o download de todos os arquivos do projeto
+Antes de mais nada, é necessário ter o Java instalado no computador. 
+Feito isso:
+- Faça o download dos arquivos do projeto (usando git clone ou pegando todos arquivos em um pacote .zip)
 - Altere o arquivo "traduzir.bat", colocando no lugar de "C:\Games\The Last Remnant" o caminho onde o game foi instalado
 - Caso seja encontrado algum problema na tradução, basta alterar o arquivo corresponde da pasta "textos-traduzidos" e executar novamente a ferramenta.
 
