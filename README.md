@@ -1,6 +1,6 @@
 
 -------------------------------------------
-Sobre o Projeto
+##Sobre o Projeto
 -------------------------------------------
 Esse projeto consiste na tradução do jogo The Last Remnant para português do Brasil.
 
@@ -15,13 +15,13 @@ O histórico do projeto pode ser encontrado no seguinte endereço eletrônico:
 https://forum.tribogamer.com/viewtopic.php?f=10&t=33923
 
 -------------------------------------------
-Etapas do Projeto e Tradutores
+##Etapas do Projeto e Tradutores
 -------------------------------------------
 A tradução do jogo foi planejada para ser realizada em 4 etapas. 
 
 As entregas foram assim concluídas:
 
-- Primeira Etapa do Projeto:
+**Primeira Etapa do Projeto**
 
 Total de arquivos para traduzir: 20
 Total de arquivos entregues, por tradutor:
@@ -36,7 +36,7 @@ Total de arquivos entregues, por tradutor:
 Total de arquivos revisados, por tradutor:
 - alves_tr: 20 arquivos
 
-- Segunda Etapa do Projeto:
+**Segunda Etapa do Projeto**
 
 Total de arquivos para traduzir: 40
 Total de arquivos entregues, por tradutor:
@@ -56,7 +56,7 @@ Total de arquivos revisados, por tradutor:
 - alves_tr: 6 arquivos
 - cfarl: 1 arquivo
 
-- Terceira Etapa do Projeto:
+**Terceira Etapa do Projeto**
 
 Total de arquivos para traduzir: 83
 Total de arquivos entregues, por tradutor:
@@ -80,7 +80,7 @@ Total de arquivos revisados, por tradutor:
 - alves_tr: 26 arquivos
 - cfarl: 11 arquivos
 
-- Quarta Etapa do Projeto:
+**Quarta Etapa do Projeto**
 
 Total de arquivos para traduzir: 112
 Total de arquivos entregues, por tradutor:
@@ -102,21 +102,21 @@ Revisão final de todos os textos traduzidos:
 - cfarl
 
 -------------------------------------------
-As Ferramentas para Tradução
+##As Ferramentas para Tradução
 -------------------------------------------
 As ferramentas utilizadas para extração e tradução do texto original foram desenvolvidas com o suporte da equipe do Brazilian Warriors.
 
-Entendimento do formato dos arquivos do jogo:
+Análise do formato e estrutura dos arquivos do jogo (para construção das ferramentas de extração/tradução de textos):
 - gdkchain
 
-Implementação das ferramentas:
+Construção das ferramentas de extração/tradução de textos:
 - cfarl 
 
 Edição de imagens:
 - diego rocha
 
 ------------------------------------------------------------
-Como traduzir o jogo
+##Como traduzir o jogo
 ------------------------------------------------------------
 - Faça o download de todos os arquivos do projeto
 - Altere o arquivo "traduzir.bat", colocando no lugar de "C:\Games\The Last Remnant" o caminho onde o game foi instalado
