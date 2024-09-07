@@ -1,26 +1,29 @@
 
-Projeto Tribo
+-------------------------------------------
+Sobre o Projeto
+-------------------------------------------
+Esse projeto consiste na tradução do jogo The Last Remnant para português do Brasil.
+
+Ele foi iniciado como um projeto da Tribo Games em setembro de 2017.
+
+A tradução dos textos foi concluída em outubro de 2019.
+
+A revisão dos textos traduzidos foi concluída em agosto de 2021.
+
+O histórico do projeto pode ser encontrado no seguinte endereço eletrônico:
 
 https://forum.tribogamer.com/viewtopic.php?f=10&t=33923
 
-- O projeto foi iniciado aqui na Tribo em setembro de 2017.
+-------------------------------------------
+Etapas do Projeto e Tradutores
+-------------------------------------------
+A tradução do jogo foi planejada para ser realizada em 4 etapas. 
 
-- A tradução dos textos terminou em outubro de 2019.
+As entregas foram assim concluídas:
 
-E aí começou um trabalho árduo, que teria de ser feito por mim: a revisão final de todos os textos.... Encontrei muitos problemas, e precisei reescrever muito do que foi traduzido.
+- Primeira Etapa do Projeto:
 
-- Hoje, em 6 de agosto de 2021, foi concluída a revisão final de todos os textos.
-
-Para vocês terem uma ideia, coloquei no word os textos traduzidos da terceira etapa, para corrigir erros ortográficos e semânticos e.... só ali tinha 220 páginas em tamanho A4 de textos traduzidos. :o
-
-Enfim, foram quase 4 anos de trabalho nessa tradução, que contou com a ajuda de inúmeros guerreiros yamas, sovanis, qsitis e mitras. Cito aqui eles, relembrando nosso trabalho:
-
-Estatísticas da Primeira Etapa do Projeto
-
-Total de arquivos da etapa: 20
-- Tradução: 100%
-- Revisão: 100%
-
+Total de arquivos para traduzir: 20
 Total de arquivos entregues, por tradutor:
 - cfarl: 5 arquivos
 - renal: 5 arquivos
@@ -30,15 +33,12 @@ Total de arquivos entregues, por tradutor:
 - nuno672: 1 arquivo
 - kokito888 (Vvaxis): 1 arquivo
 
-Total de arquivos revisados
+Total de arquivos revisados, por tradutor:
 - alves_tr: 20 arquivos
 
-Estatísticas da Segunda Etapa do Projeto
+- Segunda Etapa do Projeto:
 
-Total de arquivos da etapa: 40
-- Tradução: 100%
-- Revisão: 100%
-
+Total de arquivos para traduzir: 40
 Total de arquivos entregues, por tradutor:
 - cfarl: 13 arquivos
 - kokito888 (Vvaxis): 6 arquivos
@@ -51,17 +51,14 @@ Total de arquivos entregues, por tradutor:
 - Carlinbiel: 1 arquivo
 - nuno672: 1 arquivo
 
-Total de arquivos revisados
+Total de arquivos revisados, por tradutor:
 - seijix3: 33 arquivos
 - alves_tr: 6 arquivos
 - cfarl: 1 arquivo
 
-Estatísticas da Terceira Etapa do Projeto
+- Terceira Etapa do Projeto:
 
-Total de arquivos da etapa: 83
-- Tradução: 100%
-- Revisão: 100%
-
+Total de arquivos para traduzir: 83
 Total de arquivos entregues, por tradutor:
 - cfarl: 46 arquivos
 - diegorocha2007: 7 arquivos
@@ -78,18 +75,14 @@ Total de arquivos entregues, por tradutor:
 - avaleska2908: 1 arquivo
 - ZeroCaellum: 1 arquivo
 
-Total de arquivos revisados
+Total de arquivos revisados, por tradutor:
 - seijix3: 46 arquivos
 - alves_tr: 26 arquivos
 - cfarl: 11 arquivos
 
-Estatísticas da Quarta Etapa do Projeto
+- Quarta Etapa do Projeto:
 
-Total de arquivos da etapa: 112
-
-- Tradução: 100%
-- Revisão: 100%
-
+Total de arquivos para traduzir: 112
 Total de arquivos entregues, por tradutor:
 - cfarl: 40 arquivos
 - Lucas: 38 arquivos
@@ -101,6 +94,34 @@ Total de arquivos entregues, por tradutor:
 - derickball: 3 arquivos
 - vrebolho: 2 arquivos
 
-Total de arquivos revisados
+Total de arquivos revisados, por tradutor:
 - alves_tr: 39 arquivos
 - cfarl: 73 arquivos
+
+Revisão final de todos os textos traduzidos:
+- cfarl
+
+-------------------------------------------
+As Ferramentas para Tradução
+-------------------------------------------
+As ferramentas utilizadas para extração e tradução do texto original foram desenvolvidas com o suporte da equipe do Brazilian Warriors.
+
+Entendimento do formato dos arquivos do jogo:
+- gdkchain
+
+Implementação das ferramentas:
+- cfarl 
+
+Edição de imagens:
+- diego rocha
+
+------------------------------------------------------------
+Como traduzir o jogo
+------------------------------------------------------------
+- Faça o download de todos os arquivos do projeto
+- Altere o arquivo "traduzir.bat", colocando no lugar de "C:\Games\The Last Remnant" o caminho onde o game foi instalado
+- Caso seja encontrado algum problema na tradução, basta alterar o arquivo corresponde da pasta "textos-traduzidos" e executar novamente a ferramenta.
+
+Para que a tradução possa ser continuamente aprimorada, pede-se que os problemas sejam reportados no site do projeto, acima mencionado, para que sejam efetuados nesse repositório as alterações necessárias.
+
+Aproveite a tradução!
