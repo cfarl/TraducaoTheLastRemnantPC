@@ -1,7 +1,7 @@
 -------------------------------------------
 Versionamento
 -------------------------------------------
-Última atualização: 07/09/2024, às 17h30m
+Última atualização: 08/09/2024, às 18h53m
 
 Pontos ainda pendentes:
 - Traduzir algumas linhas do arquivo PLAN_BTL, que são específicos para a versão PC
