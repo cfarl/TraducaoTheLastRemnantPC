@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1230_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Nos han informado de que se ha avistado a un clan<03e0>de jhanas cerca del <1be0ffbe34ff>Nido de las Águilas<1ce0>.<04e0>¿Puedes volver a echarnos una mano?<06e0000008e0000000000000>¡Pues claro!<09e008e0010000000000>Déjalos estar.
+Estoy a punto de partir hacia el <1be0ffbe34ff>Nido de las Águilas<1ce0>.<03e0>¿Estás preparado?<06e0000008e0000000000000>¡Sí!<09e008e0010000000300>Un segundo...
+¡Gloria a los Halcones!
+Si tienes cosas que hacer, tómate tu tiempo.
+Creo que ya te lo había dicho antes,<03e0>pero no merecen tu compasión.
+Buen trabajo.<03e0>Tarde o temprano volverán a las andadas,<03e0>pero espero que no regresen en una temporada.
+Es increíble que los Lores se interesen tan poco<03e0>por lo que ocurre más allá de sus dominios.<04e0>Parece mentira, pero no parece que les importen<03e0>los asuntos que afectan al mundo entero.<04e0>O quizás las maquinaciones de sus cortesanos<03e0>los tengan tan ocupados que no tienen tiempo<03e0>de actuar por iniciativa propia...
+En cualquier caso, está claro que el mundo<03e0>necesita gente como nosotros.
+Toma, ten una pequeña recompensa.
+Puede que en el futuro deba recurrir a tu ayuda<03e0>una vez más, aunque espero de verdad que la paz<03e0>reine en el mundo...
+

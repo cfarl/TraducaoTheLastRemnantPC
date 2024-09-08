@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0130_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hola! Has vuelto, ¿eh? Llegas justo a tiempo.<03e0>Acabo de recibir mercancía nueva.<04e0>Se trata del tesoro del país de la montaña primigenia:<03e0>el <1be064f4ecff>Epígrafe de los cien sabios<1ce0>.<04e0>Hojearlo es como estudiar con los hechiceros<03e0>más poderosos de la ciudad imperial.<04e0>Mira, me has caído bien, así que te lo dejaré<03e0>a mitad de precio por ser tú. Una ganga, en serio.<03e0>¿Qué me dices?<06e01900>sEVENT_PRICE_QE0130_P_002<08e0000000000000>¡Me lo quedo!<09e008e0010000000300>Olvídame, tío.
+¡Encantado de hacer negocios contigo!
+Lo siento, chico. Esa calderilla no vale nada.<03e0>Vuelve cuando puedas permitirte esta belleza,<03e0>¿de acuerdo?
+Bueno, pues piénsatelo. Pero no vas a encontrar<03e0>nada parecido en ningún sitio...
+

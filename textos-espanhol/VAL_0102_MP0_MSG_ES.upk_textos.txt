@@ -1,0 +1,76 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Ésta es la zona comercial más famosa de Balterossa,<03e0>el Mercado de Spirale. Su nombre se debe a la forma<03e0>en que serpentea alrededor del Tao Tie.<04e0>Aquí puedes comprar las mejores armas traídas<03e0>del otro lado del continente. También encontrarás<03e0>los componentes más exóticos... ¡Tienen de todo!
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+En cuanto supimos que lady Bertrude estaba enferma,<03e0>los comerciantes nos pusimos de acuerdo y empezamos<03e0>a traer remedios de todos los rincones del mundo.<04e0>La Duquesa es una mujer increíblemente fuerte.<03e0>Ha cuidado de Balterossa ella sola desde que murió<03e0>su marido. Todo el mundo la admira.<04e0>Ojalá las famosas rutas comerciales de Balterossa<03e0>consigan salvarle la vida. Sería el mejor regalo<03e0>que podríamos ofrecerle por todo su esfuerzo...
+[[Mensaje de nivel 5]]
+[[Mensaje de nivel 6]]
+Hace seis meses, una legión de monstruos hizo salir<03e0>a nuestro ejército... ¡Y mientras nos defendíamos,<03e0>el Invasor se hizo con el Tao Tie!<04e0>El Tao Tie era el alma del Mercado de Spirale.<03e0>Desde que no está, cada vez vienen menos clientes.<03e0>Incluso parece que hace más frío...
+[[Mensaje de nivel 5]] (tras el robo de la reliquia)
+[[Mensaje de nivel 6]] (tras el robo de la reliquia)
+Al sur del Océano de Arena se halla la ciudad minera<03e0>de Royotia. Las gemas y metales que extraen allí<03e0>se venden exclusivamente en Balterossa.<04e0>Balterossa es una ciudad rica, tanto económica<03e0>como culturalmente. Al ser un gran centro mercantil,<03e0>atrae a mucha gente de todo el mundo.<04e0>Como habitante de esta ciudad, me siento orgulloso.<03e0>Para serte franco, creo que los habitantes de Royotia<03e0>nos tienen mucha envidia.
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+Los Halcones Argénteos han recibido un informe<03e0>muy inquietante de los servicios de inteligencia.<04e0>Parece que hay alguien intentando aprovecharse<03e0>de la enfermedad de la Duquesa para enardecer<03e0>las relaciones entre Balterossa y Royotia.<04e0>Hablo en nombre de los Halcones Argénteos al afirmar<03e0>que haremos todo lo posible para evitar una guerra.
+[[Mensaje de nivel 5]]
+[[Mensaje de nivel 6]]
+En cuanto nos enteramos de que el Invasor<03e0>había tomado la ciudad, abandonamos el combate<03e0>con los monstruos y regresamos a toda velocidad.<04e0>Pero ya era demasiado tarde. Se habían llevado<03e0>el Tao Tie y sólo quedaba el hombre de rojo.<04e0>Nos enfrentamos a él, pero fue inútil.<03e0>Se zafó de cada uno de nuestros ataques sin recibir<03e0>un solo rasguño... Fue un día aciago para los Halcones.<04e0>No teníamos absolutamente nada que hacer<03e0>frente a ese hombre de rojo.
+[[Mensaje de nivel 5]] (tras el robo de la reliquia)
+[[Mensaje de nivel 6]] (tras el robo de la reliquia)
+Parece mentira que exista una ciudad tan bulliciosa<03e0>en mitad del desierto, ¿verdad? Y todo se lo debemos<03e0>a la bendición del Tao Tie...<04e0>No te cortes, echa un vistazo. ¿No te recuerda<03e0>a dos enormes insectos puestos uno frente al otro?<03e0>Pues esas lindas bestias cuidan de toda Balterossa...
+[[Mensaje de nivel 2]]
+Hola, mozo. ¿Sabes? Cuando era pequeña,<03e0>le tenía mucho miedo al Tao Tie.<03e0>¡Creía que era un monstruo y que me iba a comer!<04e0>Y aun así, me sentía atraída por su resplandor<03e0>y me pasaba horas mirándolo. La verdad, <03e0>todavía no he perdido la costumbre de hacerlo...<04e0>Pero últimamente ocurre algo extraño.<03e0>El Tao Tie parece perder brillo poco a poco.<03e0>Es como si su corazón se fuera enfriando...<04e0>Supongo que sólo son las tonterías de una vieja...<03e0>O eso espero.
+[[Mensaje de nivel 4]]
+Nos estábamos engañando al tratar a las reliquias<03e0>como nuestros ángeles guardianes. No hay nada<03e0>más alejado de la realidad.<04e0>Me he enterado de que una reliquia se volvió loca<03e0>y destruyó la ciudad que supuestamente protegía.<03e0>La ciudad y su gente desaparecieron de un plumazo.<04e0>Tanto poder sólo conlleva destrucción.<03e0>Puede que hasta sea una buena noticia<03e0>que se hayan llevado el Tao Tie.
+[[Mensaje de nivel 4]] (tras el robo de la reliquia)
+¿Sí? ¿Necesitas algo?
+¿Ocurre algo?
+¿Has visto a lord David?<04e0>No me gusta que ande por ahí él solo...<03e0>Por favor, si le ves, dile que le estoy buscando.
+Vándalo...
+* Silencio *
+A primera vista, no parece que este sitio<03e0>haya cambiado demasiado...<04e0>No obstante, no es buena idea que lord David<03e0>ande por aquí sin escolta.<03e0>Si lo veis, decidle que le estoy buscando.
+¿No habéis visto a lord David?
+Puestos a que alguien robase la reliquia,<03e0>podríamos habérnosla llevado nosotros mismos.<04e0>Pero no, lord David no lo hubiera permitido...
+Por favor, olvidad lo que he dicho.
+El Arca... Tiene que haber alguna otra reliquia similar<03e0>en algún rincón del mundo.
+No se me ocurre dónde...
+Lord David está tan preparado como puede estar.<04e0>Lo único que debo hacer es seguirle.
+Ah, qué reliquia más espectacular...<03e0>Tiene un cierto encanto, ¿no os parece?<03e0>Creo que no me cansaría jamás de mirarla...<04e0>Aunque ahora que me fijo...<03e0>No parece que se entiendan demasiado bien, ¿no?
+Increíble...
+* Silencio contemplativo *
+Estoy un poco nervioso desde que las reliquias<03e0>empezaron a desaparecer a diestro y siniestro,<03e0>pero fijaos...<04e0>Este lugar sigue igual que siempre.<03e0>Es un pequeño detalle, pero resulta reconfortante.
+Sí, sí...
+Entonces ocurre lo mismo que en Athlum...<03e0>Aunque no lo parezca, el ambiente de la ciudad<03e0>ha cambiado por completo.
+¿Se puede saber qué está ocurriendo?
+Tiene que existir en algún lugar...
+Sigamos buscando.
+Acabemos con esto...<03e0>Debemos averiguar cómo termina esta historia.
+¡Fíjate en las armas que venden por aquí!<03e0>Armas de filo, contundentes, ceremoniales,<03e0>de uso cotidiano... ¡Las armas son mi gran pasión!
+Je, je, je...
+Lady Emma...
+¡Oye, Rush, fíjate! La reliquia sigue vivita y coleando...<03e0>Ahora no podemos echarnos atrás, ¿verdad?
+Ahora no podemos perder la esperanza.
+Incluso las armas parecen haber perdido el lustre...<03e0>Supongo que es porque la reliquia ha desaparecido.
+Caray...<03e0>Hasta las armas parecen haber perdido el lustre.
+¡Aaagh! ¡Como siga pensando en cosas de reliquias,<03e0>me va a estallar la cabeza! Mira, avísame una vez<03e0>que sepas dónde tenemos que ir, ¿vale?
+¡Estoy listo para pasar a la acción!
+¡Adelante, Rush! No te preocupes...<03e0>¡Yo me encargaré de despachar a cualquiera<03e0>que se interponga en nuestro camino!
+¿Que qué estoy haciendo?<04e0>Pues exactamente lo que parece: dar una vuelta.<03e0>El problema de ser marqués es que nunca puedo<03e0>pasear tranquilamente por Athlum ni por Celapalais...<04e0>Supongo que a Torgal no le hará ninguna gracia<03e0>que ande por aquí solo, así que no le digas nada...<03e0>¿De acuerdo?
+Será nuestro secreto, ¿de acuerdo?
+La reliquia de esta ciudad todavía sigue en pie.
+* Silencio *
+Vaya, Balterossa también...<04e0>Se ve que Athlum no es la única ciudad<03e0>que ha perdido su reliquia...
+* Silencio *
+¿Que por qué ando tan deprisa?<03e0>Si te digo la verdad, tenía la esperanza<03e0>de que nadie me reconociera...
+Ojalá no lleguemos demasiado tarde...
+¡Vamos allá, Rush!<03e0>¡Volveremos juntos y victoriosos!
+Parece que nada ha cambiado en esta ciudad,<03e0>pero las apariencias engañan. Bajo la superficie<03e0>están preparándose grandes acontecimientos.<04e0>En marcha, Rush. No hay tiempo que perder.
+Este lugar es muy peligroso...
+Aquí también han perdido su reliquia...<03e0>Tal vez se trate de una simple coincidencia,<03e0>pero no cabe duda de que parece una conspiración...
+Tiene que haber alguien detrás de todo esto...
+Deja de hacer el tonto y ayúdanos a buscar, ¿quieres?<03e0>Tiene que haber otra forma de ir a las Tierras Sagradas,<03e0>pero nunca la descubriremos si no pones de tu parte.
+No te preocupes... ¡La encontraremos!
+Ahora que mi madre ya no puede ocuparse de David,<03e0>yo me encargaré de protegerlo...<03e0>Y espero que tú hagas lo propio por Irina.
+

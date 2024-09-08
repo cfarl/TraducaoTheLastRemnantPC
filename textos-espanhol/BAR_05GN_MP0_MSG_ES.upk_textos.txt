@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) BAR_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Huy...<03e0>Creo que he vuelto a pasarme de bocazas...<04e0>Debes de ser un tipo curioso, pero la curiosidad<03e0>mató al qsiti, o estuvo a punto. ¿Quién iba a decir<03e0>que esa cosa se escondía en el nido de Ivalock?<04e0>Para empezar, se suponía que los de su especie<03e0>se extinguieron hace siglos, pero te aseguro que<03e0>el que vi en la cueva estaba vivito y coleando.<04e0>Bufff... ¡No voy a pegar ojo esta noche!
+Hola, viajero...<03e0>¿Has cruzado tú solo el Valle de los Dioses?<03e0>Debes de ser más fuerte de lo que pareces.<04e0>Según dicen por aquí, los dioses crearon ese paso<03e0>entre las montañas para invitar a los mortales<03e0>a instalarse en la región.<04e0>La verdad... Si yo fuese una diosa, sólo invitaría<03e0>a los tíos más macizos del planeta. Je, je...
+

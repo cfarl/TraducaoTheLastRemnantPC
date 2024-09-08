@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido al gremio.<03e0>¿Qué puedo hacer por ti?
+Mis amigos y yo hemos venido de muy lejos,<03e0>del Castillo de Ghor... ¡No sabes lo que nos costó<03e0>atravesar las <1be0ffbe34ff>Murallas del Heroísmo<1ce0>!<04e0>¿Las has contemplado alguna vez?<04e0>Se dice que fueron construidas por orden<03e0>de uno de los Lores de Nagapur.<04e0>Son tan largas que parecen no tener fin...<03e0>Es como si quisiesen representar el paso del tiempo,<03e0>siempre avanzando sin detenerse...
+Mis amigas y yo hemos venido desde Ghor<03e0>a través de las Murallas del Heroísmo.<04e0>Es increíble cómo ha quedado esta ciudad...
+Frente a Nagapur se extiende la <1be0ffbe34ff>llanura de Luhang<1ce0>,<03e0>un campo de batalla que ha protegido la ciudad<03e0>frente a los invasores durante toda su historia.<04e0>Según la leyenda, allí fue donde el gran guerrero<03e0>Luhang de Zahaad venció en combate a las tropas<03e0>del Emperador celestial.<04e0>Es posible que aquella batalla no sea más que un mito,<03e0>pero los soldados de Nagapur todavía se emocionan<03e0>al hablar de ella...
+¿Has pasado por la llanura de Luhang últimamente?<03e0>No queda ni una brizna de hierba, y todo por culpa<03e0>del Gwayn.<04e0>Cuesta creer que el protector de Nagapur<03e0>sea el responsable de semejante destrucción.
+

@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1195_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Los oigo... Oigo sus lamentos.<0fe003e00ee0>Yo no estoy libre de culpa, pero vosotros...<1ae0008094430fe005e001000ee0>¡Vosotros sois mucho peores!<0fe003e00ee0>¡Mirad qué destrucción habéis sembrado!
+¿Cómo podéis ignorar sus súplicas?<1ae0000005430fe005e001000ee0>¿No oís las voces de mis queridos soldados,<0fe003e00ee0>a los que habéis asesinado a sangre fría?
+Veo que os gusta oír gritar a los débiles...<1ae00000e6420fe005e001000ee0>Pero yo, Ludope el Vengador,<0fe003e00ee0>os enseñaré lo que es gritar de verdad...<1ae000002a430fe005e001000ee0>¡Mientras os retorcéis de agonía!
+¿La reliquia localizadora<0fe003e00ee0>dice que hay algo por aquí?
+Sí... Siento su presencia.
+¿Quién va?
+

@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hola! Eres Rush, ¿verdad?<03e0>¿Qué tal estás hoy?<04e0>¿Eh? ¿Me has traído flores? ¿De parte de Loki?<04e0>No sé por qué es tan tímido... ¡Pero si somos<03e0>muy buenos amigos!<04e0>¡Jo, estas flores huelen de maravilla!<03e0>¿Sabes cómo se llaman?<04e0>...<04e0>¿Qué? ¿¡En serio!?<03e0>¿Estas flores pueden devolverme la vista?<04e0>...<04e0>De acuerdo. Me importa un bledo lo que tenga<03e0>que hacer, ¡sólo quiero recuperar la vista!
+...<04e0>¿Eres tú, Rush?<03e0>¡Eres exactamente como te había imaginado!<04e0>¡Puedo ver! ¡Puedo ver perfectamente!<03e0>Así que el mundo es así... ¡Es increíble!<04e0>¿Sabes dónde está Loki? ¡Voy corriendo<03e0>a darle las gracias ahora mismo!<04e0>...<04e0>¿Qué pasa? ¿Por qué no me dices dónde está Loki?<06e0000008e0000000000000>Verás... Ha muerto.<09e008e0010000000300>Umm...
+No... No puede ser...<03e0>No, Loki no puede estar...<04e0>Es imposible...<04e0>...<04e0>Rush, estás mintiendo, ¿verdad?<03e0>No te creo. No puede ser verdad.<04e0>Loki no me abandonaría nunca. ¡Nunca!
+¡Di algo! ¡Por favor! ¡Vamos!<03e0>¿No? ¡Pues de acuerdo!<03e0>Entonces iré a buscarlo yo misma.
+Loki... ¿Eres tú, verdad?<03e0>¡Muchas gracias!
+* Silencio *
+¡Loki!
+Reya... No quería que me vieras.<03e0>Sé que soy horrible.
+¡No, claro que no! ¡Eres exactamente<03e0>como te había imaginado!<04e0>Loki, no te lo había dicho, pero... lo sé todo sobre ti.<03e0>Incluso sé lo que le hiciste a mi padre.
+Glups...
+La verdad es que al principio te despreciaba por ello.<03e0>Pero ahora, todo lo que quiero es tenerte a mi lado.<04e0>Sé que eres el único al que siempre querré.
+Gracias, Reya... Gracias.
+Voy a ver si puedo ayudar un poco a Rush.<03e0>Estoy de vuelta en un periquete.
+¡Enseguida vuelvo!
+

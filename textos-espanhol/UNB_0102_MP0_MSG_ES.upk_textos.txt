@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Esto es <1be0ffbe34ff>Gefyri<1ce0>, el mercado de Undelwalt,<03e0>pero me temo que las vistas son más destacables<03e0>que el surtido de las tiendas...<04e0>Y eso que los establecimientos de esta bóveda<03e0>han estado aquí desde la fundación de la ciudad.<04e0>Te aconsejo que visites la calle situada al otro lado<03e0>de la bóveda. Desde allí tendrás una excelente vista<03e0>del <1be0ffbe34ff>Harmonio<1ce0>, la reliquia del Emperador celestial.
+Message 2
+Message 3
+Y pensar que hay quien dice que esta ciudad<03e0>está de capa caída... ¿Y qué sabrá esa gentuza?<03e0>¡Éste es el lugar más importante del continente!
+Message 2
+Message 3
+¡Vaya, qué sorpresa! Pensaba que ya nunca<03e0>volveríamos a tener visitantes por aquí...<04e0>Esta ciudad sigue intentando aferrarse al poder<03e0>del Emperador y lo que significó hace tiempo.<03e0>La verdad es que todavía vivimos en el pasado...
+Message 2
+

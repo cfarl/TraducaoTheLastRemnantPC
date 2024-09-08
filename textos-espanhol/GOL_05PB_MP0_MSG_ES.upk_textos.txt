@@ -1,0 +1,204 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Buenas!<03e0>¡Bienvenido al Hogar de los Héroes!
+¡Buenas! ¡Bienvenido al Hogar de los Héroes!<03e0>Me temo que se me han acabado los cacahuetes,<03e0>pero te contaré una historia para compensarte.<04e0>Al sur del desierto hay una zona montañosa<03e0>bastante traicionera. Allí se encuentra la ciudad<03e0>de Royotia.<04e0>Aunque se trata de una pequeña población,<03e0>el valor de sus gentes ante la adversidad<03e0>me ha dejado un recuerdo imborrable.
+Esos de Nagapur viven tan tranquilos...<03e0>¿Y todo gracias a quién? ¡A nosotros, claro!<04e0>Sin embargo, no parece que se den cuenta.<03e0>¡Todo el mundo pretende que les saquemos<03e0>las castañas del fuego sin esperar nada a cambio!
+Menuda catástrofe para Nagapur...<03e0>No puedo evitar sentir lástima por ellos.
+Pensaba que Hermeien había muerto<03e0>en el incidente del Gwayn, pero parece<03e0>que está vivo y más loco que nunca...<04e0>Espero que nuestro Señor no pretenda<03e0>enfrentarse cara a cara con semejante chiflado.
+Oye, nada de follones en mi taberna, ¿me oyes?<04e0>Nuestro Señor todavía está recuperándose<03e0>de sus heridas. Ojalá se reponga pronto...<04e0>¡No me gustaría tener que recibir órdenes<03e0>de ese mocoso de Celapalais!
+Nuestro Señor es demasiado generoso.<04e0>Aunque se sienta en deuda con lord Oswald,<03e0>el anterior gobernador de Nagapur, eso no quiere decir<03e0>que tenga que hacerle caso a ese cretino de Wilfred.
+Nunca deberían haber hecho Presidente del Consejo<03e0>a un jovenzuelo insolente como Wilfred Hermeien.<04e0>Un caballero con integridad y sentido del deber<03e0>como nuestro querido duque de Ghor resulta<03e0>mucho más adecuado para semejante posición.
+A mí no me parece que le debamos nada<03e0>a ese niñato de Hermeien.<04e0>¿Te fijaste en los ojos que traía cuando<03e0>vino a parlamentar con nuestro Señor?<03e0>Había algo raro en su mirada...<04e0>Espero que nuestro Señor esté dispuesto<03e0>a dejar de lado las formas y plantarle cara<03e0>si la situación lo requiere.<04e0>Nuestro Señor es un gran hombre, pero<03e0>a veces lleva sus principios demasiado lejos.
+Nuestro Señor está descansando en el castillo.<03e0>He oído que aún no está fuera de peligro.<04e0>¿Será posible? ¡Estoy furioso!<04e0>¡Si me encontrase con el Invasor ahora mismo,<03e0>lo cortaría en rebanadas a golpe de espada! <04e0>Ay, ¡ojalá fuera cincuenta años más joven!
+He hablado con el yama albino y me ha revelado<03e0>una entrada secreta a Vallenegro.<03e0>Había verdadero temor en sus ojos...
+¡Sí, señor! ¡Nada nuevo en el frente, señor!
+¿Cuántas veces tengo que decirte<03e0>que esto no es el ejército, eh?
+¡Sí, señor! ¡Lo siento, señor!
+¡La esposa del barón Nielsen de Celapalais<03e0>ha desaparecido, señor! ¡Conociéndolos,<03e0>la verdad es que no me extraña, señor!
+¿Usted qué opina, señor?
+Es mejor no perseguir a los espíritus libres...
+¡Sabio consejo, señor!
+¡Señor, mis contactos me han informado<03e0>de que no sé qué loca pretende asesinar<03e0>al duque de Qubine, señor!
+¿Usted qué opina, señor?
+Uno debe estar preparado para cualquier cosa.<03e0>Hay peligro acechando en cada esquina.
+¡Yo siempre estoy preparado, señor!
+¡Parece que la princesa del desierto se escapa<03e0>del castillo cada dos por tres para reunirse<03e0>con su amado, señor!
+¿Usted qué opina, señor?
+Pues ni lo sé ni me importa.
+¡Señor! ¡La princesa del desierto se ha fugado<03e0>con su amado, señor!
+¿Usted qué opina, señor?
+¿Cómo que se ha fugado? ¿A dónde?
+¡No lo sé, señor!
+¡El conflicto entre Balterossa y Royotia<03e0>se pone peor cada día que pasa, señor!<03e0>Todo el mundo cree que la guerra es inevitable.
+¿Usted qué opina, señor?
+La culpa es de los políticos...
+¡Según mis confidentes, el primer Emperador celestial<03e0>halló un portal a otra dimensión en unas marismas<03e0>y logró cerrarlo gracias a sus poderes, señor!
+¿Usted qué opina, señor?
+¡Esto huele a aventura!
+¡Señor! ¡Al unirse en juramento a un caballero<03e0>de Melphina, las doncellas del bosque obtienen<03e0>la facultad de ver y oír lo que haga su compañero!
+¿Usted qué opina, señor?
+¡Si yo tuviera ese poder, podría leer<03e0>la mente de mis clientes para averiguar<03e0>qué quieren tomar antes de que digan nada!
+¡Es una idea genial, señor!
+¡Parece que algo raro ocurre en Marismarchita, señor!<03e0>Las doncellas del bosque y los caballeros de Melphina<03e0>ya están investigando.
+¿Usted qué opina, señor?
+¡Esto me huele todavía más a aventura!
+¡Señor! ¡Según mis espías, la Gala Cósmica<03e0>todavía no ha empezado porque la Ninfa Cósmica<03e0>aún no ha llegado!
+¿Usted qué opina, señor?
+Un festival tiene que ser un motivo de regocijo...
+¡Así se habla, señor!
+Parece que la ninfa llegó a tiempo y el festival<03e0>comenzó según lo previsto...<03e0>Hasta que aparecieron los monstruos, claro está.
+¿Usted qué opina, señor?
+¿Un festival de la paz? Paso.<03e0>Yo lo que quiero es divertirme.
+¡Una mujer chapada a la antigua anda buscando<03e0>un guardaespaldas, señor!<03e0>Está en la taberna de la ciudad de los canales.
+¿Usted qué opina, señor?
+Nunca he sido de los que rehuyen de<03e0>una dama en apuros...
+¡Buscaré esa taberna, señor!
+¡Señor! Los tesoros que enviaron los reinos antiguos<03e0>como tributo a la ciudad sagrada han caído en manos<03e0>de traficantes que los venden en el mercado negro.
+¿Usted qué opina, señor?
+Esa ciudad es un estercolero.<03e0>No se merece ni siquiera una pizca del prestigio<03e0>que tuvo en el pasado.
+¡Señor! Se rumorea que un tipo sospechoso<03e0>anda buscando tres piedras relacionadas<03e0>con el antiguo reino del desierto.
+¿Usted qué opina, señor?
+Es como si lo hubieran sacado de un cuento:<03e0>«Cuando se reúnan las tres piedras, se revelará<03e0>un misterio de tiempos olvidados»...
+¡Mis confidentes me han dicho que un científico loco<03e0>está buscando un asistente que le ayude a investigar<03e0>los misterios de la arcamagia, señor!
+¿Usted qué opina, señor?
+¿Así que investigaciones, eh? Te lo dejo a ti.
+¡Pues estamos apañados, señor!
+¡Señor! Dicen que un monstruo al que encerró<03e0>el primer Emperador celestial ha vuelto a las andadas.<03e0>¡La gente teme que sea el fin del mundo!
+¿Usted qué opina, señor?
+No será para tanto.<03e0>¡El mundo sólo acabará cuando todos<03e0>dejemos de soñar y tener esperanza!
+¡Un hombre con amnesia está buscando algo<03e0>que perdió en el desierto, señor!<03e0>Puede que lo que busque sean sus recuerdos...
+¿Usted qué opina, señor?
+Los hombres siempre están embarcados<03e0>en una búsqueda para encontrarse a sí mismos.
+¡Señor, han visto a un famoso bandido rondando<03e0>por Athlum! Dicen que está esperando a alguien.
+¿Usted qué opina, señor?
+Puedo afirmar que algo en su pasado<03e0>lo convirtió en lo que es hoy.
+¡Señor! ¡Un tipo anda por las ruinas de Robelia<03e0>buscando una estatua que, según dicen, es capaz<03e0>de reunirle con sus seres queridos!
+¿Usted qué opina, señor?
+Pues yo iría a ver a esa persona directamente,<03e0>sin importar lo lejos que esté.
+¡Señor, ha habido un asesinato en la gran ciudad<03e0>y el culpable todavía anda suelto!
+¿Usted qué opina, señor?
+¡Tienen que registrar todos los rincones<03e0>de la ciudad y encontrar a este hombre!
+Un yama enorme está buscando ayuda<03e0>para encontrar algo que se le ha perdido, señor...<03e0>Pero dicen que se comporta de una forma muy extraña...
+¿Usted qué opina, señor?
+Creo que lo he visto por ahí...
+¡Parece que han visto a un qsiti albino curioseando<03e0>unos libros sobre arcamagia, señor!<03e0>Dicen que se parece a alguien...
+¿Usted qué opina, señor?
+¿Que se parece a alguien?<03e0>Igual se trata de alguien famoso...
+¡Señor! Hay un par de mercenarias que está dando<03e0>mucho que hablar. Son hermanas... ¡y además gemelas!
+¿Usted qué opina, señor?
+¿Un mercenario habilidoso?<03e0>¿Que puede hacer un trabajo decente?<03e0>Eso tengo que verlo con mis propios ojos.
+¡Señor! Un tipo está organizando no sé qué juego<03e0>en el Océano de Arena. Me pregunto si encontrará<03e0>a mucha gente dispuesta a participar...
+¿Usted qué opina, señor?
+Me pica la curiosidad. Y nunca me he echado atrás<03e0>ante un buen reto...
+¡Yo sacaré adelante el local, señor!
+¡Señor! Dicen que un anciano guerrero ha atravesado<03e0>todo el Océano de Arena en busca de no sé qué espada.
+¿Usted qué opina, señor?
+¡Me encantaría tomarme algo con él!<03e0>Seguro que tenemos muchas cosas en común.
+Los soldados de esta ciudad admiran a su líder...<03e0>¡Todos y cada uno de nosotros le respetamos, señor!
+¿Usted qué opina, señor?
+Bueno... Se supone que es normal que los líderes<03e0>se preocupen por sus soldados.
+La familia Honeywell es fiel servidora de Athlum.<03e0>Los habitantes de la ciudad siempre han depositado<03e0>una gran confianza y respeto en sus miembros, señor.
+¿Usted qué opina, señor?
+Los Honeywell no le llegan al duque de Ghor<03e0>ni a la suela del zapato...
+¡Señor! Dicen que Torgal, el general de Athlum,<03e0>es algo susceptible con su pasado.
+¿Usted qué opina, señor?
+A mí no me importa el pasado de la gente.<03e0>Además, es mejor no fiarse de nada que no oigas<03e0>directamente de boca del interesado.
+¡Señor!<03e0>¡Dentro de nada se celebrará el Torneo de los héroes!
+¿Usted qué opina, señor?
+He oído que un yama azul anda buscando<03e0>compañero para unirse a la competición.
+¡La Academia de las Artes Místicas es una institución<03e0>de gran renombre, señor! Sus estudiantes llegan lejos.
+¿Usted qué opina, señor?
+Pues yo siento más respeto por los carpinteros.<03e0>¡Al menos son útiles en la vida real!
+Athlum ha sufrido ya lo suyo, señor...<03e0>¡Esperemos que la joven Honeywell<03e0>haga su trabajo tan bien como su madre!
+¿Usted qué opina, señor?
+No podemos juzgar a la gente por su edad.
+Según mis confidentes, las admiradoras<03e0>del marqués de Athlum no se pueden explicar<03e0>que todavía no tenga una mujer en su vida.
+¿Usted qué opina, señor?
+¿Y a mí qué me importa?
+¡Mis espías han visto a la ex directora de la Academia<03e0>en varias tabernas de todo el mundo, señor!
+¿Usted qué opina, señor?
+Lo único que puedo decir es que<03e0>no se ha pasado por ésta.
+¡Últimamente la doctora Sykes ha estado visitando<03e0>el castillo de Athlum muy a menudo, señor!
+¿Usted qué opina, señor?
+Ser famoso tiene que ser duro.<03e0>No puedes hacer nada sin que la gente<03e0>hable de ti a tus espaldas.
+¡Señor! Nos han informado de que un monstruo<03e0>anda surcando los cielos de Fordragón.<03e0>Los habitantes de la región están atemorizados.
+¿Usted qué opina, señor?
+¡Apartaos de mi camino!<03e0>¡Yo me encargaré de esa cosa!
+¡Yo me quedaré aquí para defender la taberna, señor!
+¡Una guerrera un tanto vengativa pretende cazar<03e0>a los responsables del incidente de las marismas,<03e0>señor!
+¿Usted qué opina, señor?
+Aaah... Esta juventud...
+¡Dicen que hay una panda de monstruos feroces<03e0>rondando por el Océano de Arena, señor!
+¿Usted qué opina, señor?
+¿Feroces? ¡Dejádmelos a mí!<03e0>¡Nada me gusta más que un buen combate!
+Los arqueólogos dicen que en las profundidades<03e0>de cierto volcán se oculta un ser capaz de arrasar<03e0>una ciudad entera, señor.
+¿Usted qué opina, señor?
+Aaah... ¡Cada vez que me hablan de volcanes,<03e0>me viene a la mente el ardor y la energía<03e0>de los hombres dispuestos a perseguir sus sueños!
+¡Así se habla, señor!
+Nadie sabe qué peligros se esconden en el interior<03e0>del volcán, señor... Pero los Lores siempre se las apañan<03e0>para averiguar esas cosas, por difícil que parezca.
+¿Usted qué opina, señor?
+Volcanes activos y grandes peligros...<03e0>¡No hay nada en el mundo que me guste más!
+¡Así se habla, señor!
+Señor, dicen que no sé qué ciudad ha perdido<03e0>a su gobernante. Desde entonces, sus hijos<03e0>están peleándose por el puesto de su padre.
+¿Usted qué opina, señor?
+Es inútil pelear por un trono...<03e0>¡Quienes están destinados a gobernar siempre acaban<03e0>alcanzando el poder por sus propios medios!
+¡Así se habla, señor!
+¡Señor! ¡Según mis informantes, si uno escucha<03e0>con atención, a veces se escucha un lamento<03e0>procedente de las profundidades del Océano de Arena!
+¿Usted qué opina, señor?
+No... No se me dan bien los fenómenos sobrenaturales.
+Hace mucho tiempo, un héroe de gran fama<03e0>vivía en el Océano de Arena, señor.
+¿Usted qué opina, señor?
+Ese tipo es un vestigio del pasado...<03e0>¡El duque de Ghor es el mayor héroe de nuestra era!
+¡Así se habla, señor!
+¡Señor! ¡La gente dice que, si uno le habla<03e0>a las columnas del Océano de Arena,<03e0>unos seres fantasmales surgen de la nada!
+¿Usted qué opina, señor?
+O... ¡Odio los fantasmas!
+¡Señor! ¡En Melphina hay un científico loco<03e0>al que todo el mundo evita porque está<03e0>más loco que una cabra!
+¿Usted qué opina, señor?
+Me pregunto qué le habrá pasado...
+Creo que por su culpa le pasó algo horrible<03e0>a alguien que conocía, señor.
+Dicen que en no sé qué ciudad del desierto<03e0>hay una cafetería que está infestada de bichos, señor.<03e0>Parece que el dueño se está volviendo loco...
+¿Usted qué opina, señor?
+¡Tragarse un bicho o dos no es para tanto!
+¡Cuánta razón tiene, señor!
+Nagapur se ha convertido en un lugar peligroso<03e0>desde aquel incidente, señor.<03e0>Dicen que últimamente han desaparecido muchos niños.
+¿Usted qué opina, señor?
+¡Como yo me entere de que alguien de esta ciudad<03e0>pretende hacerle algo a unos niños, se va a hartar<03e0>de jarabe de palo!
+¡Así se habla, señor!
+Antiguamente, la gente de Royotia se dedicaba<03e0>a recorrer las rutas comerciales e intercambiar<03e0>con otros viajeros los tesoros que encontraban, señor.
+¿Usted qué opina, señor?
+Este lugar es mi tesoro.<03e0>No lo cambiaría por nada del mundo.
+¡Señor, los mercaderes de Royotia se quejan<03e0>de que el trazado de las rutas comerciales les impide<03e0>vender sus mercancías más allá de Balterossa!
+¿Usted qué opina, señor?
+Comprendo que estén descontentos, pero la seguridad<03e0>es lo primero. A largo plazo, es mejor quedarnos así.
+¡Un mercenario yama anda buscando ayuda, señor!<03e0>Parece que se ha topado con un trabajo<03e0>que le viene grande...
+¿Usted qué opina, señor?
+¿Un mercenario que anda buscando ayuda?<03e0>Pues sí que debe de ser un trabajo peligroso.
+Eso creo, señor.
+En Celapalais hay un tipo que tan pronto<03e0>es encantador como se pone a chillar.<03e0>¡Parece que es muy popular entre las chicas, señor!
+¿Usted qué opina, señor?
+Ese tipo está majareta...<03e0>Nunca entenderé a las mujeres y sus gustos...
+¡Señor, hay un qsiti que se pone en medio<03e0>de las calles más transitadas y mira con odio<03e0>a toda la gente que se choca con él!
+¿Usted qué opina, señor?
+Tú dime donde está, dime...<03e0>¡Si ese tipo anda buscando bronca, yo se la daré!
+Señor, el otro día vi a una chica muy misteriosa...<03e0>¡Parecía como si el mundo se le hubiese venido encima!
+¿Usted qué opina, señor?
+Tal vez debería probar suerte...
+¡Señor, hemos avistado a las Damas Sangrientas<03e0>en las marismas! Parece que se están preparando<03e0>para algo importante...
+¿Usted qué opina, señor?
+Esas chicas ocultan algo, estoy seguro... ¿Qué será?
+Parece que los jhanas andan sembrando el caos<03e0>en los alrededores del Océano de Arena, señor.<03e0>Ni siquiera el Gae Bolg ha sido capaz de detenerlos...
+¿Usted qué opina, señor?
+Admiro los principios de los Halcones Argénteos<03e0>y su voluntad de hacer lo que les parece correcto,<03e0>pero la verdad es que me asustan un poco...
+¡He oído que los Halcones Argénteos van a montar<03e0>una operación contra los jhanas, señor!
+¿Usted qué opina, señor?
+Deberíamos dejar que los Halcones Argénteos<03e0>hagan su trabajo y apoyarles como podamos...<03e0>Tampoco queremos interponernos en su camino.
+Dicen que los Halcones Argénteos van a despachar<03e0>a lo poco que queda del ejército del Invasor, señor.<03e0>¡Esperemos que no dejen a ninguno en pie!
+¿Usted qué opina, señor?
+¿Alguien sabe qué ha sido de aquel cliente<03e0>que tenía pensado alistarse al ejército del Invasor?
+No he vuelto a saber nada de él, señor.
+En la taberna de Elysion hay un tipo muy sombrío<03e0>que se pasa allí las horas muertas, señor.<03e0>Parece que está espantando a la clientela.
+¿Usted qué opina, señor?
+Todo el mundo guarda algún secreto oscuro<03e0>sobre su pasado.<03e0>Algunos más que otros, eso sí...
+

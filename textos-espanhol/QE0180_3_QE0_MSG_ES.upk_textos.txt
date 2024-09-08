@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Deben de estar por aquí.
+Ésta debe de ser la flor. Coincide con la descripción<03e0>que me hicieron los mercaderes... Sí, seguro que es<03e0>la planta que buscamos.
+Rush, gracias por echarme una mano.<03e0>Vámonos de aquí antes de que...
+Maldición...<03e0>Temía que pasase esto.<04e0>Los mercaderes me hablaron de cierto monstruo<03e0>que casi acaba con ellos...<04e0>Supongo que está aquí para proteger las flores,<03e0>pero no pienso volver con las manos vacías...<03e0>¡A por él, Rush!
+Vaya pérdida de tiempo.
+Rush, necesito que me hagas otro favor.<04e0>No quiero que Reya sepa cómo soy en realidad.<03e0>Mírame... ¡Soy espantoso!<04e0>Dime... ¿Podrías llevarle tú las flores?<04e0>Y, ya puestos, dile una cosa.
+Dile que... he muerto.
+

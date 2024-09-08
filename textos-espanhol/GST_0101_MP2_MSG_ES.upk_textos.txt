@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GST_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+En la parte superior hay una inscripción<03e0>que dice «La leyenda del desierto».<03e0>¿Quieres leer el resto?<06e0000008e0000000000000>Sí, me encantan las historias.<09e008e0010000000300>La lectura no va conmigo...
+¡Alabada sea la reina Flaumello IV, la omnisciente<03e0>y benevolente soberana del Reino de Glenys!<04e0>Que este relato sirva a las generaciones venideras<03e0>como recuerdo de la verdadera historia de la Reina<03e0>y de su trágica saga de amor y guerra.<04e0>Esta torre preservará para siempre la memoria<03e0>de los acontecimientos que acaecieron<03e0>hace un millar de años...
+

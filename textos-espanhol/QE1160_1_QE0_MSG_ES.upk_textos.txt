@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1160_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Te has fijado? Supongo que no, claro...<03e0>En este sitio, la gente ni siquiera te dirige la palabra<03e0>si no llevas un modelito a la última...
+¡Se supone que esto es la ciudad imperial!<03e0>La gente de este lugar debería ser un poco<03e0>menos materialista, ¿no crees?
+El caso es que he decidido mudarme al campo,<03e0>así que voy a vender este anillo marca «Khrynia».<03e0>Con él tendrás cien veces más estilo.<06e01900>sEVENT_PRICE_QE1160_P_000<08e0000000000000>Suena bien. Me lo quedo.<09e008e0010000000300>Búscate la vida.
+¡Gracias!
+¡Ahí te quedas, Undelwalt! ¡Que te vaya bonito!
+Por el Emperador celestial...
+¿Es que no te has enterado de cómo funciona esto?<03e0>La idea es que tú te ocupas de llenarte los bolsillos<03e0>y yo me encargo de aligerártelos. ¡No es tan difícil!
+¡Aaargh! ¡Eres un maldito muerto de hambre!<03e0>¡Ve a conseguir dinero y ya hablaremos!
+

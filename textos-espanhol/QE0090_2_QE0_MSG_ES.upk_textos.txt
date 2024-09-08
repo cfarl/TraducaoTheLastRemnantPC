@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0090_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Nuestras tropas de vanguardia dicen haber visto<03e0>a unos misteriosos hombres vestidos de negro.<04e0>La única explicación que se me ocurre<03e0>es que quienes raptaron a mis caballeros<03e0>sean los mismos que destruyeron la barrera.
+¡Atentos, caballeros! Voy a restaurar la barrera,<03e0>pero no dejarán de aparecer monstruos hasta<03e0>que haya terminado. ¡Encargaos de ellos!
+Lady Marsha... Confiamos en vos.
+¡La hora de la verdad ha llegado! Es el momento<03e0>de arriesgar nuestras vidas y el honor de la Orden<03e0>para defender nuestra tierra, cueste lo que cueste.<04e0>¡Por Melphina!
+¡POR MELPHINA!
+¿Pero qué demonios...? ¡Los monstruos!<03e0>¡Hipnos está desapareciendo! ¿Qué hacemos?
+Qué energía más inmensa...<03e0>No pensé que el famoso vínculo entre la Orden<03e0>y las doncellas del bosque fuese tan potente.
+¡Raaah!
+No tenemos ningún as en la manga y no creo<03e0>que Melphina tenga intención de rendirse...<04e0>Son más tenaces de lo que creíamos.<03e0>Tienen... Tienen algo de lo que nosotros carecemos.
+Pero... ¡El jefe nos matará si volvemos a casa<03e0>con el rabo entre las piernas!
+Es verdad... Si volvemos, no daría gran cosa<03e0>por nuestro pellejo. El jefe no se caracteriza<03e0>por perdonar fácilmente las meteduras de pata.
+Esto... Olvídalo.<03e0>Será mejor que salgamos de aquí.<04e0>Si salimos por piernas ahora mismo, tal vez<03e0>los sicarios del jefe nos pierdan el rastro...
+* Silencio *
+Parece que he logrado restaurar la barrera.
+Sir Robert, caballeros de la Orden, maestro Sykes...<04e0>Gracias a vuestra devoción y dedicación<03e0>a nuestra patria, he conseguido que los cielos<03e0>escuchen mis súplicas.
+Si seguimos en pie es gracias a vos, lady Marsha.
+Lo mismo os digo, Robert.
+(Estos dos necesitan un poco de intimidad...)<03e006e0000008e0000000000000>(A ver si se dan prisa...)<09e008e0010000000000>¡IDOS A UN HOTEL!
+Oh... Esto...<03e0>Ejem. Regresemos a Melphina.
+

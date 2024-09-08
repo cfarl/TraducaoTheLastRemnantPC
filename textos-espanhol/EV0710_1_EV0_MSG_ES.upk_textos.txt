@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0710_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Que viene!
+¡El Invasor se ha puesto en marcha!
+¿Qué?
+¡Lord David!
+¡Emma, Pagus, Rush!<0fe003e00ee0>Debemos irnos de inmediato.
+¿Qué ha pasado? ¿Y Wilfred?
+La reunión se ha pospuesto.<0fe003e00ee0>El Invasor se dispone a atacar Celapalais.
+Nos han llamado para ayudar en la defensa.<0fe003e00ee0>¡Debemos volver a Athlum para prepararnos!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+Rush...
+¿Irina está aquí?
+Por lo visto, el duque Hermeien<0fe003e00ee0>la tiene bajo su custodia.
+Supongo que puedes quedarte tranquilo,<0fe003e00ee0>ahora que no está en manos de Wagram.
+¿Qué? ¡No! ¿Cómo no la has traído contigo?
+Bueno, no la he visto en persona...<0fe003e00ee0>¿Qué ocurre?
+Irina...<0fe003e00ee0>¡Irina tiene la bendición de Marion!
+¿Y crees que el duque Hermeien lo sabe?
+¡Espera! ¿Adónde vas?
+¡Tengo que rescatarla!<0fe003e00ee0>¡Debo impedir que abuse de sus poderes!
+¡Cálmate y piensa un momento!<1ae0000070420fe005e001000ee0>¿Cómo vas a rescatarla<0fe003e00ee0>si ni siquiera sabes dónde está?
+Rush, ahora sólo podemos hacer una cosa.
+¡Hay que poner fin a esta guerra<0fe003e00ee0>antes de que alguien intente usar su poder!
+Te prometo que volveremos a por Irina.
+Vale...
+

@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Sí, soy Beauson.
+¿Qué? ¿Quieres deshacer el cambio de esa vieja<03e0>funda de espada?<04e0>Vale... Devuélveme la funda y, a cambio, te daré<03e0>información sobre lo que cambié por ella.<06e0000008e0000000000000>Vale, qué más da...<09e008e0010000000300>¿Información? Me parto...
+Era un mapa... Aunque la mujer a la que se lo cambié<03e0>creía que era otra cosa. Pensaba que conducía<03e0>al tesoro del primer Emperador celestial.
+Bueno, no necesito la dichosa funda de espada.<03e0>Te daré la información a cambio de un poco de vino.<06e0000008e0000000000000>¿Te va bien vino de Royotia?<09e008e0010000000300>¡Nanay! ¡Dame el tesoro!
+Era un mapa... Aunque la mujer a la que se lo cambié<03e0>creía que era otra cosa. Pensaba que conducía al tesoro<03e0>del primer Emperador celestial.
+Mira, ya no lo tengo, ¿entendido?<03e0>Bueno, ¿quieres saber dónde está o no?<03e0>Al menos traeme unos minerales de Royotia...<06e01900>sEVENT_PRICE_QE1020_P_040<08e0000000000000>Vale, toma los minerales.<09e008e0010000000300>Olvídalo, tío.
+Era un mapa... Aunque la mujer a la que se lo cambié<03e0>creía que era otra cosa. Pensaba que conducía al tesoro<03e0>del primer Emperador celestial.
+Vale, pues no te diré nada.
+No era mi intención engañar a nadie...<03e0>¡Madre mía! Si os vais a poner así,<03e0>os devolveré lo que le cambié, ¿vale?<04e0>Aquí tenéis la Gema irisada.
+La verdad, Alyssa tiene bastantes tesoros<03e0>para intercambiar. Es curioso, ¿no crees?
+¿Sí? Parece como si tuvieras algo que decirme.
+Era un mapa... Aunque la mujer a la que se lo cambié<03e0>creía que era otra cosa. Pensaba que conducía<03e0>al tesoro del primer Emperador celestial.
+La verdad, Alyssa tiene bastantes tesoros<03e0>para intercambiar. Es curioso, ¿no crees?
+¿Qué? No lo has encontrado...
+

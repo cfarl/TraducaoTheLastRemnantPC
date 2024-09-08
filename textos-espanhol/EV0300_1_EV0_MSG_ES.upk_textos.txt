@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0300_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Eso es todo, lord David.<0fe003e00ee0>Rogaré por vuestro éxito.
+Has vuelto.
+¿Y ése quién era?
+Ejem... Un mensajero de Celapalais,<0fe003e00ee0>un enviado del duque de Qubine.
+Venía a avisarnos de que unos soldados<0fe003e00ee0>no identificados han invadido Vallenegro.
+Cree que son tropas del duque de Ghor.<0fe003e00ee0>Quiere que lo investiguemos de inmediato.
+Creía que Vallenegro<03e0>pertenecía a Athlum...<1ae000008c420fe005e001000ee0>¿Qué hace ese tipo dándoos órdenes?
+Era una petición, no una orden.
+Aunque seamos aliados, Athlum<0fe003e00ee0>está bajo la autoridad de Celapalais.<1ae000002c430fe005e001000ee0>Nuestra opinión no cuenta gran cosa.
+Ah.
+¿Y para qué me necesitáis?
+Queremos que participes en la investigación.
+¿Y eso por qué?
+¿Pagus?
+Según el informe, las tropas<0fe003e00ee0>que han invadido Vallenegro<1ae0000016430fe005e001000ee0>estaban al mando<0fe003e00ee0>de un brujo vestido de blanco.
+Y, por si fuera poco,<0fe003e00ee0>llevaban consigo una reliquia voladora...
+Eso me suena de algo...<0fe003e00ee0>¡Son los tipos que vimos en Brezalverde!
+Debemos apresurarnos.<0fe003e00ee0>Preparaos para partir inmediatamente.
+¿Cómo? ¿Tú también vienes?<0fe003e00ee0>¿No eres demasiado importante para eso?
+El Duque quiere que vaya yo también.
+Además, así podré satisfacer mi curiosidad.
+¡Partiremos a Vallenegro<0fe003e00ee0>de inmediato! ¿Entendido?
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+Sí, ejem...
+

@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0750_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Atentos!
+¡Evacuad la ciudad! ¡Deprisa!
+¡Es un monstruo!
+¡Ayuda!
+¡Por aquí! ¡Rápido!
+¿Qué está haciendo aquí?
+¡Atrás!
+El Corazón Valeroso...<0fe003e00ee0>¿Lo ha...?
+La... tablilla...
+Maldito seas... ¿Por qué?
+¿Qué ha sido eso?
+No sé...
+

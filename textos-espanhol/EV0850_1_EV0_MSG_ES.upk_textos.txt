@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0850_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ahí fuera se está librando una batalla...<0fe003e00ee0>¡Mientras os dejáis llevar por vuestros<1ae0000004430fe005e001000ee0>delirios de grandeza, vuestros hombres<0fe003e00ee0>se juegan la vida ante el Invasor!
+¡Pedid inmediatamente una tregua<0fe003e00ee0>y haced que el Invasor retire sus tropas!
+¡Silencio!<0fe003e00ee0>¡No tengo por qué escucharte!<1ae00000f0420fe005e001000ee0>¡Yo controlaré las reliquias!<0fe003e00ee0>¡Sólo yo soy digno de ello!
+¡Recuerda que tengo a la chica!<0fe003e00ee0>¿Te da igual lo que le ocurra?
+¡Irina!
+No te preocupes, Rush, no se atreverá...<1ae00000c8420fe005e001000ee0>Si muero, la bendición de Marion<0fe003e00ee0>desaparecerá conmigo.
+¡Cállate!
+¡Adelante, intenta matarme!<0fe003e00ee0>No tienes agallas, ¿verdad?<1ae000000c430fe005e001000ee0>¡No eres más que un cobarde!
+¡Necia insolente!
+¡Milord, el duque de Ghor ha caído!<0fe003e00ee0>¡Estáis en peligro! ¡Debemos retirarnos!
+¿Qué? ¡No puede ser!
+¡Traedme al Invasor!<0fe003e00ee0>¡Yo le haré entrar en razón!
+¿De qué te ríes?
+¿De verdad creísteis que alguien como vos<0fe003e00ee0>sería capaz de manipular al Invasor?
+Sois tan arrogante como estúpido.
+¿Qué estás diciendo?
+Si fuera vos, saldría corriendo...<0fe003e00ee0>A menos que tengáis ganas de morir.
+¡Matadlo! ¡Matadlos a todos!
+Mi misión ha terminado.<0fe003e00ee0>Ya no os necesito... ¡Desapareced!
+

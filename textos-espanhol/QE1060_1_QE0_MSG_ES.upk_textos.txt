@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1060_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Buenos días, muchacho. Me llamo Baulson.<03e0>Me gano la vida haciendo el trabajo sucio<03e0>de los demás.<04e0>Podría decirse que soy un mercenario,<03e0>pero nunca me ha gustado esa palabra.<04e0>Tú también tienes pinta de haber estado<03e0>en unas cuantas peleas, ¿verdad, chico?<03e0>Se te nota en la mirada...<04e0>Tienes cara de haber estado al borde<03e0>de la muerte y haber vivido para contarlo.<03e0>Seguro que no eres un guerrero cualquiera...<04e0>Iré al grano: un aristócrata me ha contratado<03e0>para llevar a cabo cierto «trabajillo», pero se trata<03e0>de una tarea un poco peliaguda para uno solo.<04e0>El caso es que estaba buscando un ayudante...<03e0>¿Qué me dices, te gustaría echarme una mano?<04e0>Ya sabes lo que dicen de la gente de sangre azul:<03e0>otra cosa no, pero pagar, pagan bien.<06e0000008e0000000000000>Claro, cuenta conmigo.<09e008e0010000000300>Lo siento, no me interesa.
+Así me gusta. ¡Ya sabía yo que tenías pinta<03e0>de ser un hombre de verdad!
+De acuerdo. Pues termina lo que tengas que hacer<03e0>y reúnete conmigo en las <1be0ffbe34ff>cavernas de Gaslin<1ce0>.<03e0>Allí te contaré los detalles.
+Supongo que me he equivocado contigo.<03e0>Bueno, pues me buscaré a otro ayudante.<03e0>Perdona las molestias.
+¿Sí? Has cambiado de idea, ¿eh?<06e0000008e0000000000000>Sí, cuenta conmigo.<09e008e0010000000300>Sigue sin interesarme.
+Todavía no he sido capaz de encontrar a ese pobre niño<03e0>perdido. No es ninguna indirecta, pero me vendría bien<03e0>otro par de ojos para cumplir la misión...<06e0000008e0000000000000>Vale, cuenta conmigo.<09e008e0010000000300>Pues... buena suerte.
+Tú otra vez...<03e0>Has cambiado de idea sobre el trabajo,<03e0>¿verdad?
+Buen trabajo, muchacho. Si no llega a ser por ti,<03e0>no sé si hubiera podido cumplir este trabajillo.<04e0>El padre de la criatura se ha puesto tan contento<03e0>que me ha pagado el doble de lo acordado, ¿sabes?<03e0>Toma, aquí tienes tu parte.
+Qué sorpresa más agradable...<03e0>Con esto podré hacerle un buen regalo.
+¿Eh? Nada, nada, estaba pensando en voz alta.<04e0>Oye, si algún día necesitas que te eche una mano,<03e0>pásate por la sede del gremio y pregunta por mí.<03e0>Ahora que somos colegas, te ayudaré si lo necesitas.
+Oye, si alguna vez necesitas que te eche una mano<03e0>ven a la sede del gremio y pregunta por mí.<03e0>Ahora que somos colegas, te ayudaré si lo necesitas.
+

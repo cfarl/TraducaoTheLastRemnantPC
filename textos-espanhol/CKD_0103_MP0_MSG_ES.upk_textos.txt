@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CKD_0103_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Este teletransportador parece tener un alcance limitado.<03e0>Parece que se necesita una llave para acceder al resto<03e0>de destinos posibles.
+¿Quieres ir al mapa del mundo?<06e0000008e0010000000000>¡Venga!<09e008e0000000000300>En otra ocasión.
+La Llave del nivel Metopon ha desbloqueado el teletransportador.
+¿Quieres usar el teletransportador?<06e0000008e0030000000000>Vamos al nivel Metopon.<09e008e0020000000000>Vamos al mapa del mundo.<09e008e0010000000300>No, me quedo aquí.
+La puerta está cerrada a cal y canto.
+

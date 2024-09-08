@@ -1,4 +1,4 @@
--- ----------------------------------------------------------------------------------
+﻿-- ----------------------------------------------------------------------------------
 -- Texts extracted from file PLAN_BTL_DT 
 -- Lines started with -- and blank lines are ignored 
 -- Lines format: text position in the list of texts, text and translation 
@@ -151,56 +151,56 @@ Escolha entre ficar com os objetos obtidos na batalha ou converter os monstros c
 Monstros capturados nas batalhas podem ser vendidos para conseguir dinheiro.
 Você pode ficar com os objetos para si mesmo, ou pode dá-los para os outros membros do grupo.
 Você conseguiu um tesouro!
-Choose a category to alter settings. Press the Confirm command to move to the next section.
-Quit system settings.
-Set the resolution and windowed/fullscreen mode.
-Set the background movement when idle. This is active only in windowed mode.
-Select a language for text. After settings are changed, the game must be restarted to reflect the changes.
-Select a voice language. After settings are changed, the game must be restarted to reflect the changes.
-Set the resolution for character model textures. <1be0ffff40ff>High settings may slow down processing.
-Set the resolution for world model textures. <1be0ffff40ff>High settings may slow down processing.
-Set the resolution for shadow effects. After settings are changed, the game must be restarted to reflect the changes. Changes are only reflected if the shadow effects in battles are set to High Quality. <1be0ffff40ff>High settings may slow down processing.
-Set the resolution for other textures. <1be0ffff40ff>High settings may slow down processing.
-Set the maximum frame rate. <1be0ffff40ff>High settings may slow down processing.
-Set the in-battle shadow effects. <1be0ffff40ff>High settings may slow down processing.
-Set the in-battle effect levels. <1be0ffff40ff>High settings may slow down processing.
-Set the LOD distance of character models in the field. <1be0ffff40ff>High settings may slow down processing.
-Set the clip distance of character models in the field. <1be0ffff40ff>High settings may slow down processing.
-Set keyboard layout.
-Select a key to bind.
-Select a button to bind.
-Four keys must be pressed simultaneously for a soft reset. Select four keys to bind.
-Four buttons must be pressed simultaneously for a soft reset. Select four buttons to bind.
-Bind a key to move the cursor up.
-Bind a key to move the cursor down.
-Bind a key to move the cursor left.
-Bind a key to move the cursor right.
-Bind a key to the Confirm command.
-Bind a key to the Cancel command.
-Bind a key to scroll pages.
-Bind a key to scroll up.
-Bind a key to scroll down.
-Bind a key to display the Information bar.
-Bind a key for help display.
-Bind a key to toggle marking on/off.
-Bind a key to return to default settings.
-Bind a key to the Sort command.
-Bind a key to toggle page left.
-Bind a key to toggle page right.
-Bind a key to move the character forward.
-Bind a key to move the character backward.
-Bind a key to move the character left.
-Bind a key to move the character right.
-Bind a key to move the camera up.
-Bind a key to move the camera down.
-Bind a key to move the camera left.
-Bind a key to move the camera right.
-Bind a key to return the camera to its default position.
-Bind a key to zoom in.
-Bind a key to zoom out.
-Bind a key to move the cursor left.
-Bind a key to move the cursor right.
-Bind a key to cancel the cursor.
+Escolha a categoria para alterar a configuração.<03e0>Pressione confirmar para avançar para a seção seguinte.
+Sair da configuração do sistema.
+Escolhe a resolução e o modo de janela cheia.
+Escolhe o movimento do fundo quando inativo. Só está disponível no modo de janela cheia.
+Escolha o idioma do texto. Depois de mudar a configuração você terá que reiniciar o jogo para refletir as mudanças.
+Escolha o idioma das vozes. Depois de mudar a configuração você terá que reiniciar o jogo para refletir as mudanças.
+Define a resolução para as texturas do personagem. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a resolução para as texturas do cenário. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a resolução para os efeitos de sombra. O jogo deverá ser reiniciado depois de alterar a configuração, para que as mudanças sejam ativadas. As mudanças só estarão disponíveis se os efeitos de sombra nas batalhas forem colocadas em qualidade alta. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a resolução de outras texturas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o máximo de imagens por segundo. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define os efeitos de sombra nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o nível dos efeitos nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o nível de dealhe dos personagens. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a distância de visualização dos modelos de personagens. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o layout do teclado.
+Selecione uma tecla para associar.
+Selecione um botão para associar.
+Quatro teclas devem ser pressionadas ao mesmo tempo para um reinício parcial. Selecione as quatro teclas que deseja associar.
+Quatro botões devem ser pressionados ao mesmo tempo para um reinício parcial. Selecione os quatro botões que deseja associar.
+Associa uma tecla para mover o cursor para cima.
+Associa uma tecla para mover o cursor para baixo.
+Associa uma tecla para mover o cursor para esquerda.
+Associa uma tecla para mover o cursor para direita.
+Associa uma tecla para o comando Confirmar.
+Associa uma tecla para o comando Cancelar.
+Associa uma tecla para a rolagem de páginas.
+Associa uma tecla para rolar a página para cima.
+Associa uma tecla para rolar a página para baixo.
+Associa uma tecla para mostrar a barra de informação.
+Associa uma tecla para mostrar a ajuda.
+Associa uma tecla para a opção de ativar ou desativar as marcações.
+Associa uma tecla para restaurar os valores padrão.
+Associa uma tecla para o comando de Ordenar.
+Associa uma tecla para o comando de passar para a página à esquerda.
+Associa uma tecla para o comando de passar para a página à direita.
+Associa uma tecla para mover o personagem para frente.
+Associa uma tecla para mover o personagem para trás.
+Associa uma tecla para mover o personagem para a esquerda.
+Associa uma tecla para mover o personagem para a direita.
+Associa uma tecla para mover a câmera para cima.
+Associa uma tecla para mover a câmera para baixo.
+Associa uma tecla para mover a câmera para a esquerda.
+Associa uma tecla para mover a câmera para a direita.
+Associa uma tecla para voltar a câmera para sua posição padrão.
+Associa uma tecla para aproximar a câmera.
+Associa uma tecla para afastar a câmera.
+Associa uma tecla para mover o cursor para esquerda.
+Associa uma tecla para mover o cursor para direita.
+Associa uma tecla para cancelar o cursor.
 Bind a key to lock onto a target.
 Bind a key to the Action command.
 Bind a key to the Monster Encounter Trigger.
@@ -701,15 +701,15 @@ Uma técnica do Cetro Imperial.<03e0>Usa um recurso oculto para lançar o<03e0>M
 Uma conjuração do Talismã.<03e0>Invoca o Remanescente Ciclope para<03e0>o campo de batalha.
 Uma conjuração do Lob Omen.<03e0>Invoca o Remanescente Lob Omen para<03e0>o campo de batalha.
 Uma conjuração de Namul Niram.<03e0>Invoca os Remanescentes Namul Sin<03e0>e Niram Sin para o campo de batalha.
-An art unique to Snievan.<03e0>It plants fear into the minds of others.<03e0>Deals heavy damage to units in range.
-An art uniqe to Zuido.<03e0>A powerful body-press attack.<03e0>Deals heavy damage to units in range.
-An art unique to Ludope.<03e0>It puts on display the mysteries of the world.<03e0>Deals heavy mystic damage to all units.
-An art unique to Hannah.<03e0>She cooperates with Hinnah in this vicious attack.<03e0>Deals heavy damage to all units.
-An art unique to Milton.<03e0>Increases the abilities of his union with willpower.
-An art unique to Hinnah.<03e0>She seduces targets with her sexy pose.<03e0>Has a high chance of terminating enemy unions.
-An art unique to Young.<03e0>An earth-shaking combo attack.<03e0>Deals heavy damage to units in range.
-An art unique to Khrynia.<03e0>She cooperates with Irina in this copied attack.<03e0>Deals heavy damage to all units.
-[Long-Range] The battlefield is doused<03e0>with flames.<03e0>Extreme damage to entire enemy army.
+Uma técnica especial do Snievan.<03e0>Ela planta o medo na mente dos outros.<03e0>Causa grandes danos nas unidades próximas.
+Uma técnica especial do Zuido.<03e0>Um poderoso ataque de pressão corporal.<03e0>Causa grandes danos nas unidades próximas.
+Uma técnica especial do Ludope.<03e0>Ele expõe os mistérios do mundo.<03e0>Causa grandes danos místicos em todas unidades.
+Uma técnica especial da Hannah.<03e0>Ela coopera com Hinnah em seu ataque cruel.<03e0>Causa grandes danos em todas unidades.
+Uma técnica especial do Milton.<03e0>Aumenta as habilidades do seu grupo com força de vontade.
+Uma técnica especial da Hinnah.<03e0>Ela seduz os inimigos com sua pose sexy.<03e0>Has a high chance of terminating enemy unions.
+Uma técnica especial do Young.<03e0>Um ataque combinado que abala a terra.<03e0>Causa grandes danos nas unidades próximas.
+Uma técnica especial da Khrynia.<03e0>Ela coopera com Irina nesse ataque copiado.<03e0>Causa grandes danos em todas unidades.
+[Longo-Alcance] O campo de batalha está tomado<03e0>por chamas.<03e0>Danos extremos a todo o exército inimigo.
 Action Category dummy help
 Ataca com a arma equipada.
 Ataques físicos realizados com ou sem armas.
@@ -16568,23 +16568,23 @@ Quantidade
 Total
 Nº.
 BÔNUS
-Ranking de Batalha
+Classificação
 Sistema
-Linguagem
+Idioma
 Textura
-Taxa de Quadros
+Imagens por segundo
 Tela de Batalha
-Tela de Campo
+Tela do Mundo
 Teclado
 Controle
 Mouse
-Ligações
+Associações
 Menu
-Campo
+Mundo
 Batalha
 Sistema
-Estilo de Manejo Atual
-Estilos de Manejo
+Estilo de Manejo da Arma
+Estilos de Manejo da Arma
 Vezes Concluídas
 Automático
 Menu dummy text

@@ -1,0 +1,32 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0590_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Cómo está mi padre?
+Su vida no corre peligro,<0fe003e00ee0>pero parece que está en coma.<1ae0000025430fe005e001000ee0>No sabemos cuándo despertará.
+¡Seguro que se trata de una maldición!
+Tenemos que encontrar la pista<0fe003e00ee0>de ese brujo lo antes posible.<1ae00000ae420fe005e001000ee0>Creo que es el único<0fe003e00ee0>que puede salvar al doctor Sykes.
+¿Wagram?
+Si al menos supiera dónde está mamá...
+Eso me recuerda...<0fe003e00ee0>¿Recordáis lo que dijo el doctor Sykes?<1ae0000034430fe005e001000ee0>Dijo que la señora Marina<0fe003e00ee0>estaba tratando de despistar a alguien...
+¿A qué se referiría?
+Lo ignoro...
+Creo que sé dónde podría estar...
+¿En serio?
+¡A buenas horas!
+Debo pediros un favor. Quisiera ir<0fe003e00ee0>a buscarla con Rush... Y solamente Rush.
+¿Los dos solos?
+Sí, milord...
+¿Te importaría explicarme por qué?
+Entiendo.
+¿Lord David?
+Has sido una leal sirviente de Athlum<0fe003e00ee0>durante muchos años. Confío en ti.
+Lord David...
+Rush.
+Cuida bien de ella.<0fe003e00ee0>No es tan dura como parece.
+Entendido.
+Regresemos a Athlum.<0fe003e00ee0>Nos queda mucho por hacer.
+¡Sí, milord!
+Rush, no olvides que tu padre<0fe003e00ee0>está en buenas manos.
+Lo sé. Gracias.
+Nos vemos en Athlum.
+

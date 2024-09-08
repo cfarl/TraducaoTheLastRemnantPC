@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1120_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+El duque de Qubine no es más que un mocoso<03e0>de diez años, ¿verdad? ¡No sé por qué se empeña<03e0>en actuar como un viejo estirado!
+Alguien debería bajarle los humos a ese niñato<03e0>o no habrá quien lo aguante cuando sea mayor...
+El caso es que he acabado aquí porque me hice un lío<03e0>con el mapa. Y lo malo es que no puedo marcharme<03e0>porque me he quedado sin fondos...<04e0>¿Sabes cómo podrías ayudarme a pagar el billete?<03e0>Podrías comprarme esta magnífica hierba especial<03e0>marca «Khrynia». Es... supervigorizante.<06e01900>sEVENT_PRICE_QE1120_P_000<08e0000000000000>¡Trae aquí esa hierba!<09e008e0010000000300>Menudo timo. Paso.
+¡Genial!
+¡Hasta la vista, Celapalais!
+¿En serio?
+Tío, no me seas tacaño... ¡Dame algo!
+¿Tan vacía tienes la cuenta corriente? ¿De qué vas?<03e0>¿Eres un muerto de hambre o qué?
+

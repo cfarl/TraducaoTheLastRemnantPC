@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) RIO_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Soy Príamo, marqués de Royotia.<04e0>Tú debes de ser ese famoso aventurero, ¿verdad?<03e0>He oído que has hecho mucho por mis súbditos.<04e0>Espero volver a tener noticias tuyas próximamente.
+Soy Príamo, marqués de Royotia.<04e0>La tierra donde se alza esta ciudad es inhóspita,<03e0>como puedes ver, pero pese a todo sus gentes<03e0>son fuertes y viven en libertad.<04e0>Lucharé para que así sea siempre...
+Últimamente el cuerpo me falla... Siento como si<03e0>una especie de fuerza misteriosa me arrastrara...<03e0>Como si quisiera...<04e0>No, olvídalo. Me siento muy raro últimamente.<03e0>No estoy acostumbrado a sentir esta debilidad.
+Perdóname. Sé que has venido de muy lejos,<03e0>pero te agradecería que volvieras en otro momento.
+Soy Príamo, marqués de Royotia.<04e0>Como puedes ver, la tierra donde se alza esta ciudad<03e0>es inhóspita, y aun así sus gentes son fuertes<03e0>y viven en libertad.<04e0>Lucharé para que así sea siempre...
+Rush, gracias a ti y a mi hijo hemos sufrido<03e0>muchas menos pérdidas de las que hubiera esperado.<04e0>No obstante, Paris aún tiene mucho que aprender<03e0>sobre política. Mi hijo todavía no está muy ducho<03e0>en asuntos de estado.
+Paris aún tiene mucho que aprender sobre política.<03e0>Mi hijo no está muy ducho en asuntos de estado.
+Nadie ha respondido a los ruegos<03e0>de la Guardiana del fuego...<03e0>Esta llave ya no sirve para nada.
+Soy Príamo, marqués de Royotia.
+Últimamente el cuerpo me falla... Siento como si<03e0>una especie de fuerza misteriosa me arrastrara...<03e0>Como si quisiera...<04e0>No, olvídalo. Me siento muy raro últimamente.<03e0>No estoy acostumbrado a sentir esta debilidad.
+Últimamente mi hijo parece preocupado por algo.<03e0>Supongo que es su forma de ser... ¡Se pasa la vida<03e0>luchando por causas imposibles!<04e0>En eso no se parece a mí en absoluto, pero es<03e0>una persona de buen corazón, igual que su madre.
+No entiendo a mi hijo... ¡Y pensar que el futuro<03e0>heredero de Royotia anda perdiendo el tiempo<03e0>dando vueltas por todo el continente!<04e0>Aunque es verdad que yo también recorrí el mundo<03e0>antes de convertirme en Marqués... Y gracias a eso<03e0>hice grandes amigos y conocí a mi amada esposa.<04e0>En fin... Tal vez sea su oportunidad para madurar.<03e0>No puedo echarle en cara que quiera hacerse mayor.
+Soy Paris, heredero de Royotia. Mucho me temo<03e0>que esta ciudad no tiene mucho que ofrecerte,<03e0>pero espero que disfrutes de tu estancia.
+Estoy muy preocupado por mi padre...
+Mi padre no ha estado enfermo en su vida,<03e0>pero ahora está tan débil que apenas puede levantarse.<04e0>Si pudiésemos determinar la causa de su mal...<03e0>¡Ojalá pudiera liberar a mi padre de esta tortura!
+Gracias, Rush. Si alguna vez necesitas mi ayuda,<03e0>búscame en la sede del gremio. Estaré encantado<03e0>de ayudarte en lo que pueda.
+Mi padre se está culpando a sí mismo por la pérdida<03e0>del Emeth Tag. Ojalá pudiera hacer algo para aliviar<03e0>su sufrimiento...
+Estás ante el marqués de Royotia.<03e0>Haz el favor de guardar silencio.
+Las relaciones entre países dependen en gran medida<03e0>de las naciones que les rodean.
+Estás ante el marqués de Royotia.<03e0>Haz el favor de guardar silencio.
+Según parece, el ejército de Balterossa<03e0>ha sufrido graves pérdidas.
+Estás ante el marqués de Royotia.<03e0>Haz el favor de guardar silencio.
+El señor Paris y lady Charlotte son aún muy jóvenes.<03e0>Me temo que les esperan tiempos difíciles...
+Saludos, Rush. Nunca olvidaré la ayuda<03e0>que nos prestaste para impedir la guerra<03e0>entre Royotia y Balterossa.
+Rush... ¿Hay alguien a quien admires de verdad?<03e0>Mi mayor héroe es mi padre...<04e0>Mi padre fue nombrado Marqués cuando tenía mi edad.<03e0>Él solo consiguió unir al pueblo de Royotia<03e0>y nunca flaqueó, ni siquiera cuando murió mi madre.<04e0>No puedo evitar admirarlo, y no sólo como su hijo,<03e0>sino también como ciudadano de Royotia.
+Te sonará muy típico, pero mi gran héroe es mi padre.<03e0>Lo admiro no sólo como su hijo, sino también<03e0>como ciudadano de Royotia.
+Rush... Tu padre es el famoso doctor Sykes, ¿verdad?<03e0>¿Alguna vez te han comparado con él?<04e0>Mi padre es un maestro espadachín... Pero no sólo<03e0>es diestro en combate, sino que su carisma<03e0>le ha hecho ganarse el corazón de su pueblo.<04e0>Comparado con él, ¿qué puedo aportar yo? ¡Nada!<03e0>No puedo evitar sentir vergüenza al pensarlo.<04e0>Alguien como yo no puede ni siquiera soñar<03e0>con llegar a alcanzar la talla de mi padre.<04e0>Discúlpame... Te estoy aburriendo, ¿verdad?<03e0>Por favor, olvida lo que te estaba diciendo.
+Cuanto más pienso en mi padre, más tengo la impresión<03e0>de que nunca llegaré a estar a su altura.
+¿Que qué es esto? Es un broche.<03e0>Me lo regaló mi madre cuando era un niño.<03e0>La verdad es que tiene bastantes años.<04e0>Mi madre solía decir que el alma es como un espejo:<03e0>las emociones que mostramos determinan el trato<03e0>que recibimos de los demás.<04e0>Por eso no debemos tratar a los demás con ira<03e0>o con odio, sino con amabilidad y generosidad.<03e0>Siempre he admirado la filosofía de mi madre...<04e0>Pero para gobernar no basta con tener buen corazón.<03e0>A veces pienso que la fuerza, y no la amabilidad,<03e0>es la cualidad indispensable para guiar a un pueblo.<04e0>En fin... Perdóname, Rush. No era mi intención<03e0>abrumarte con mis preocupaciones.
+No sé por qué, Rush, pero siempre acabo<03e0>abriéndote mi corazón. Es curioso...
+Últimamente he estado reflexionando y he decidido<03e0>que no tiene sentido compararme con mi padre.<04e0>Me he acordado de algo que decía mi madre...<04e0>«Cada uno tiene sus puntos fuertes. En lugar<03e0>de compararlos con los de los demás, debemos<03e0>hallar la manera de emplearlos lo mejor posible».<04e0>Mi padre y yo somos personas distintas, así que<03e0>debo ganarme la confianza del pueblo de Royotia<03e0>a mi manera.<04e0>Me ha llevado mucho tiempo, pero he acabado<03e0>por llegar a esa conclusión tras viajar contigo<03e0>y encontrar mi lugar en el grupo.<04e0>Toda mi vida he pensado que ser el futuro heredero<03e0>de Royotia era a la vez un honor y una maldición...<04e0>Pero ahora por fin me siento capaz de superar<03e0>mi inseguridad y empezar a labrarme un camino...<04e0>Por favor, Rush, déjame que siga acompañándote.<03e0>Sé que todavía me queda mucho que aprender<03e0>para llegar a ser una persona orgullosa de sí misma.
+¡Hola, Rush! Permíteme que siga acompañándote.<03e0>Sé que todavía me queda mucho que aprender<03e0>para llegar a ser una persona orgullosa de sí misma.
+

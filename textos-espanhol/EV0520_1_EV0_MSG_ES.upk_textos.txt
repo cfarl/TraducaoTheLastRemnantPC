@@ -1,0 +1,39 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0520_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Apartaos. Ya he terminado aquí.
+¡Por favor!<0fe003e00ee0>¡El Presidente llegará enseguida!
+¡Por favor, señor Invasor, un momento!
+¿Invasor?
+¿Estás bien?
+¡Presidente Hermeien!
+Soy el duque Wilfred Hermeien,<0fe003e00ee0>Presidente del Consejo.
+Señor... Invasor, ¿verdad?<0fe003e00ee0>¿Podría explicarnos qué pretende?
+Ya conocéis mis intenciones.
+Deseáis que os nombremos noble y que<0fe003e00ee0>os otorguemos vuestra propia reliquia, ¿no?
+¡Inconcebible! Conquista un rincón perdido<0fe003e00ee0>como Veyriel y ya pretende que...
+Juraría que os habíamos pedido<0fe003e00ee0>un poco de paciencia<1ae00000d2420fe005e001000ee0>mientras esperábamos<0fe003e00ee0>la decisión del Consejo.
+Mi llegada fue presagiada<0fe003e00ee0>por el mismísimo Emperador celestial.<1ae0000000430fe005e001000ee0>¿Qué necesidad tengo<0fe003e00ee0>del beneplácito del Consejo?
+Hace tiempo que la palabra<0fe003e00ee0>del Emperador dejó de ser ley.<1ae000000c430fe005e001000ee0>Él debería saberlo mejor que nadie.
+Es igual. Ya que no queréis concederme<0fe003e00ee0>una reliquia, yo mismo he escogido una.<1ae0000048430fe005e001000ee0>Ya he cumplido mi objetivo.
+¿Habéis creado un vínculo con el Arca?<1ae00000b4420fe005e001000ee0>Perdonad mi escepticismo...
+Ellos han sido testigos.
+¿Y vosotros sois...?
+Soy Torgal, uno de los cuatro<0fe003e00ee0>generales de Athlum.
+¿Y qué has visto?
+Sin lugar a dudas, el Invasor<0fe003e00ee0>formó un vínculo con el Arca.
+Umm.
+Imposible... ¡Creía que no se podía<0fe003e00ee0>formar un vínculo con el Arca!
+Es... ¡Es igual que Marshall!
+No hay más que hablar.
+¡Esperad!
+De acuerdo. Os nombraremos noble.
+Incluso os daremos una reliquia. Así que...
+Comprendo. Liberaré el Arca.
+¡La reunión del Consejo<0fe003e00ee0>se pospone indefinidamente!
+¡Convocaremos otra próximamente!<0fe003e00ee0>¡Que nadie haga nada hasta entonces!
+¡Marqués de Athlum!
+Espero que entendáis a qué me refiero<0fe003e00ee0>cuando digo «que nadie haga nada»...
+Lo siento, Dave.<0fe003e00ee0>Todo se ha ido a la porra...
+No es culpa tuya, Rush.<0fe003e00ee0>Volvamos a la embajada. Hablaremos allí.
+

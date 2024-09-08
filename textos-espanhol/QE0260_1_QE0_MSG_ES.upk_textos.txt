@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0260_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Ese olor...<03e0>Vaya, vaya... Huelo a sangre.<04e0>No temas... El olor de la sangre es el aroma de la vida.<03e0>¿De qué tienes miedo?
+Dime, muchacho, ¿te enseño un jueguecito?<03e0>¿O eres un gallina y no sabes divertirte?
+Bien. Consiste en ir al <1be0ffbe34ff>Océano de Arena<1ce003e0>y dedicarse a cazar <1be0ffbe34ff>cochinillas gigantes<1ce003e0>hasta conseguir la <1be064f4ecff>Espada ensangrentada<1ce0>.<04e0>Si me la traes, te daré algo que te va a encantar.<03e0>¿Qué me dices? ¡Te aseguro que está tirado!
+¿Cómo? ¿Que qué pasa si no la encuentras?<03e0>¡Pues que tendré que matarte!<04e0>Bueno, ¿qué me dices?<03e0>¿Aceptas el reto o no?<06e0000008e0000000000000>¡Claro! ¡Va a estar chupado!<09e008e0010000000300>¿Qué? ¡Ni harto de vino!
+¡Muy bien! ¡Así me gusta!<03e0>Tienes hasta que me harte de esperar<03e0>para encontrarla. ¡A por ellos, chaval!
+¿Cómo? ¡Vaya un gallina que estás hecho!<03e0>¡Lárgate antes de que te eche al puchero!
+Vaya, aquí llega el polluelo... <03e0>¿Cuándo piensas salir del cascarón, cobardica?
+No tienes más que ir al <1be0ffbe34ff>Océano de Arena<1ce003e0>y acabar con tantas <1be0ffbe34ff>cochinillas gigantes<1ce003e0>como puedas hasta conseguir la espada.<04e0>Si me la traes antes de que se acabe el tiempo,<03e0>te daré algo que te encantará... Pero si no,<03e0>serás tú quien tendrá que darme algo: ¡tu vida!
+Fácil, ¿verdad?<03e0>¿Qué, te animas o piensas rajarte otra vez?<06e0000008e0000000000000>¡Ve preparando el premio!<09e008e0010000000300>Estás loco, tío. ¡Ni lo sueñes!
+¡Muy bien! ¡Así me gusta!<03e0>Tienes hasta que me harte de esperar<03e0>para encontrarla. ¡A por ellos, chaval!
+¿Qué pasa? ¿Te da miedo romperte una uña?<03e0>Vete a casa con tu mamá, cobardica.
+¿Cómo? ¿Aún no tienes la <1be064f4ecff>Espada ensangrentada<1ce0>?<03e0>¿Acaso no te acuerdas de que prometí matarte<03e0>si no la conseguías?<04e0>Te aseguro que no te conviene ponerme<03e0>de mal humor... ¡Ya puedes darte prisa!
+¡Ja, ja, ja! La Espada ensangrentada, por fin...<03e0>Pero se te acabó el tiempo hace cinco minutos.<03e0>En fin... ¡No me queda otra que matarte!<04e0>¿Por qué me miras con esa cara?<03e0>Te dije que el juego se acabaría cuando me hartase<03e0>de esperarte... ¡Date más prisa la próxima vez!<04e0>Aunque no creo que tengas otra oportunidad...<03e0>¡Reza lo que sepas, chaval! ¡Prepárate para<03e0>estrenar casa a dos metros bajo tierra!
+¡Que era broma! ¡Juas, juas, juas!<03e0>¡Tendrías que haberte visto!
+Estás de suerte, chaval. Te has librado<03e0>porque estoy de vacaciones hasta que el jefe<03e0>nos dé la orden de empezar. Otra vez será...<04e0>Toma. Aquí tienes, tal y como habíamos quedado.<03e0>¡Ya nos veremos las caras en otra ocasión!
+

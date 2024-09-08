@@ -1,0 +1,37 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienhallado seas, viajero.<03e0>He oído el relato de tus hazañas y te agradezco<03e0>sobremanera lo que has hecho por Balterossa.<04e0>Espero volver a tener noticias tuyas próximamente.
+Bienvenido, viajero. Me alegra ver que has logrado<03e0>atravesar el desierto y llegar hasta nuestra ciudad.<03e0>Soy Bertrude, Señora de Balterossa.<04e0>Si no lo has hecho ya, te aconsejo que visites<03e0>nuestro mercado.<04e0>Estoy convencida de que quedarás impresionado<03e0>con los artículos exóticos que encontrarás.
+Últimamente es como si mi cuerpo no respondiera<03e0>a mi mente... Siento como si una fuerza extraña<03e0>intentase controlarme.<04e0>No lo entiendo. ¿Y si fuera...?
+Perdóname, pero necesito descansar. Si el motivo<03e0>de tu visita puede esperar, te ruego que vuelvas<03e0>en otro momento.
+Quisiera expresarte mi agradecimiento por todo<03e0>lo que has hecho.
+No obstante, he de decir que no voy a hacer público<03e0>ningún detalle sobre esta conspiración. Creo saber<03e0>quiénes son los culpables, pero no puedo hacer nada...
+Mi hija ha hecho lo correcto al volver a mi lado.<03e0>No toleraré que pierda el tiempo con ese hombre.
+Al final, el incidente con Royotia se ha zanjado<03e0>de forma... conmovedora. No ha sido tarea sencilla<03e0>conseguir que ambos entrasen en nuestro juego...<04e0>No obstante, ha resultado ser una baza muy útil<03e0>a la hora de plantear nuestras exigencias.
+Agradezco sobremanera tu valiosa colaboración.<03e0>Si no llega a ser por ti, el futuro de Balterossa<03e0>hubiera sido muy negro.
+Bienvenido, viajero. Permitidme que os felicite<03e0>por haber atravesado con éxito el gran desierto.<03e0>Soy la duquesa Bertrude de Balterossa.
+Últimamente me siento pesada y atolondrada...<03e0>Nunca había sentido una fatiga semejante.
+Soy Charlotte, heredera de Balterossa.<03e0>Es un honor conoceros.<04e0>Si tuvierais cualquier duda sobre esta tierra,<03e0>no dudéis en hacérmelo saber.
+Estoy preocupada... Desde hace algún tiempo,<03e0>el rostro de mi madre está muy pálido y tenso...
+La enfermedad de mi madre está durando<03e0>demasiado tiempo...<04e0>Esta espera me resulta insoportable.<03e0>¡Tiene que haber algo que pueda hacer por ella!
+Siento mucho haber causado tanto sufrimiento<03e0>a mi madre, pero Paris es un hombre maravilloso...
+Mi madre sólo desea lo mejor para mí.<03e0>Ella me ha criado y no puedo traicionar su confianza.<03e0>Ojalá Paris lo entendiera...
+¿Os habéis enterado?<03e0>¡Mi madre ha aceptado mi relación con Paris!
+He oído que la batalla ha sido terrible...<03e0>No sé cómo expresarte mi agradecimiento<03e0>por todo lo que has hecho.
+¡Recuerda que estás ante lady Bertrude!<03e0>Vigila tus modales.
+Juraría que he visto antes al hombre<03e0>con el que estaba lady Charlotte...<03e0>¡Pero no logro acordarme de dónde!
+Lady Bertrude es una mujer muy fuerte, pero<03e0>este asunto de su hija le está partiendo el corazón.
+A veces creo que el ignorante es más feliz,<03e0>sobre todo en asuntos de política...
+Sir Rush... Habéis estado magnífico.
+¡Estás ante la duquesa de Balterossa!<03e0>Ten cuidado con lo que dices.
+La Duquesa estaba desesperada<03e0>mientras lady Charlotte estuvo fuera.
+Gracias al cielo que lady Charlotte ha regresado<03e0>sana y salva. La verdad es que la Duquesa<03e0>se ha quitado un gran peso de encima.
+Parece que la guardia de Royotia<03e0>sufrió muchas pérdidas.
+Ojalá algún día logre parecerme a vos, Sir Rush.
+Te encuentras ante lady Bertrude de Balterossa,<03e0>así que vigila tus modales.
+Lady Charlotte visita a un vidente de vez en cuando<03e0>para que le lea el porvenir. Supongo que le resulta<03e0>muy reconfortante...
+Y pensar que lady Charlotte ha estado expuesta<03e0>a tales peligros... ¡Esto es una verdadera afrenta<03e0>al honor de Balterossa!
+El señor Paris será el próximo marqués de Royotia.<03e0>No puedo imaginar la presión que tendrá que soportar<03e0>nuestra querida Lady Charlotte...
+Revelar el pasado del desierto no es tarea fácil,<03e0>pero estoy convencida de que un joven valiente<03e0>y decidido como vos logrará averiguar la verdad.
+

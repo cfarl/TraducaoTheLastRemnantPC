@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Queda prohibida toda oposición al Invasor.<03e0>Quien no acate mi orden será acusado de traición.<04e0>Y esto se aplica a todo el mundo.<03e0>Daos por avisados.
+En marcha. La verdad que buscáis<03e0>se encuentra al otro lado...<04e0>¿Acaso sentís temor?
+A los pies de Su Majestad...
+A los pies de Su Majestad...
+¿Quieres usar el dispositivo de teletransportación?<03e006e0000008e0000000000000>¡Pues sí!<09e008e0010000000300>Puede que luego.
+

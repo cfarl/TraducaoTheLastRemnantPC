@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NUD_0201_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Las puertas están cerradas a cal y canto<03e0>mediante una reliquia. ¿Quieres vincularte<03e0>a ella y abrir la barrera de Marshall?<06e0000008e0000000000000> ¡Claro! ¡Mamá está dentro!<09e008e0010000000300>No me apetece...
+La puerta está cerrada a cal y canto.
+Mover personaje [Hacia adelante]: Subir<03e0>Mover personaje [Hacia atrás]: Bajar<03e0>Cancelar: Soltar palanca
+Mover personaje [Hacia adelante]: Subir<03e0>Mover personaje [Hacia atrás]: Bajar
+Los monstruos bloquean el acceso a los mandos.
+

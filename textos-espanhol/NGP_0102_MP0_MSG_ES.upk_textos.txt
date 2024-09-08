@@ -1,0 +1,32 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Te has cansado del ajetreo de Nordalm, ¿eh?<03e0>¡Pues bienvenido a <1be0ffbe34ff>Südalm<1ce0>!<04e0>La Plaza Mayor tiene unos magníficos jardines.<03e0>Allí es donde va la gente a relajarse...<04e0>¡Y también hay un montón de tiendas que venden<03e0>productos típicos de Nagapur!
+Todo parece tan tranquilo...<03e0>Cuesta creer que estemos en guerra.<04e0>¿Por qué no aprovechas para pasear por las tiendas<03e0>de recuerdos y disfrutar un poco de la ciudad?
+Message 3
+Message 4
+Éste es un lugar muy tranquilo, ideal para quedar<03e0>con los amigos...<04e0>En las calles de Nordalm siempre hay mucho ajetreo.<03e0>¡Con tanta tienda, aquello está siempre abarrotado<03e0>de mercaderes y soldados!<04e0>Entre unos y otros, montan un escándalo<03e0>que no hay quien lo aguante...
+¿Dónde se ha metido?<03e0>Hace siglos que tenía que estar aquí.<04e0>Pero siempre cumple sus promesas,<03e0>así que confío en que aparecerá.<04e0>La verdad, podríamos haber escogido<03e0>un lugar mejor para quedar...
+Message 3
+Message 4
+Estos canales permiten distribuir mercancías<03e0>entre distintas regiones.<04e0>La verdad es que el comercio ha mejorado<03e0>desde que Wilfred Hermeien asumió el mando...<03e0>¡Te aseguro que no me falta trabajo!<04e0>Con el anterior gobernador nunca hubiéramos<03e0>llegado TAN lejos. Aunque, a decir verdad,<03e0>era un tipo muy agradable...<04e0>En fin... En otro orden de cosas, he oído rumores<03e0>acerca de un ejército que avanza por el oeste.<03e0>Se me ponen los pelos de punta sólo de pensarlo...
+¡Un tendero amigo mío me ha dicho<03e0>que el Invasor ya casi está aquí!<03e0>Demonios... Sólo nos faltaba una guerra, ¿eh?
+Message 3
+Message 4
+Así que tú eres Rush Sykes.<03e0>Soy Oswald.<04e0>Marina tenía razón... Tienes sus mismos ojos,<03e0>llenos de bondad y sentido de la justicia.<04e0>No te preocupes por tu madre. No anda lejos,<03e0>está buscando información que te será muy útil<03e0>a lo largo de tu viaje.<04e0>Estaba aquí hace un momento.<04e0>* Silencio perplejo *<04e0>Sí, ya sé que no tienes por qué creerme, pero<03e0>lo sé todo sobre ti, Marina y tu hermana Irina.<04e0>Cuando llegue el momento, yo te contaré<03e0>todo lo que necesitas saber.
+Tu madre tenía razón. Tienes sus mismos ojos,<03e0>llenos de bondad y sentido de la justicia.
+Hola, Rush Sykes. Me gustaría contarte algo.<04e0>¿Sabes que hay más de una manera de llegar<03e0>hasta Fordragón? Se trata del <1be0ffbe34ff>Acueducto<1ce0>, una red<03e0>de canales subterráneos que recorren <1be0ffbe34ff>Südalm<1ce0>.<04e0>No lo olvides, puede que esta información<03e0>te sea útil algún día.
+Hola, Rush Sykes. Me gustaría contarte algo.<04e0>¿Sabes que hay más de una manera de llegar<03e0>hasta Fordragón? Se trata del <1be0ffbe34ff>Acueducto<1ce0>, una red<03e0>de canales subterráneos que recorren <1be0ffbe34ff>Südalm<1ce0>.<04e0>Puede que no entiendas por qué te digo esto ahora,<03e0>pero será mejor que no lo olvides porque podría<03e0>resultarte útil algún día.
+Marina era toda una lumbrera. Se aprendió<03e0>toda la teoría de las reliquias en cuestión<03e0>de segundos...<04e0>A veces no puedo evitar pensar que tal vez<03e0>hubiera sido mejor que no lo hubiera hecho.<03e0>Rush Sykes, debes salvar a tu hermana.<04e0>Marina se merece recuperar a su familia...<03e0>Volver contigo, con tu hermana y con tu padre.
+Tienes los ojos de tu madre,<03e0>rebosantes de bondad y justicia.
+Me alegro que estéis de vuelta. ¿Habéis terminado<03e0>de pasear por la ciudad?<06e0000008e0000000000000>Sí, ya lo he visto todo.<09e008e0010000000300>Todavía no.
+Bien. Vayamos a Flussbahn, pues.
+De acuerdo. Terminad lo que estéis haciendo<03e0>y venid a verme cuando hayáis acabado.
+¿Estás listo para entrar en el <1be0ffbe34ff>Acueducto<1ce0>?<06e0000008e0000000000000>¡Preparado, listo, ya!<09e008e0010000000300>Necesito un segundo.
+Muy bien. ¡En marcha, pues!
+Esto es territorio de lord Hermeien...<03e0>Debemos prepararnos para una larga batalla.<04e0>Partiremos tan pronto como estés listo.
+¡Rush! ¡Irina está presa en el auditorio de Fordragón!<04e0>Tenemos que abrirnos paso hasta el <1be0ffbe34ff>Acueducto<1ce0>.<03e0>Si seguimos estas escaleras alcanzaremos los canales,<03e0>y a través de ellos llegaremos hasta Fordragón...<04e0>Lord David nos está esperando... ¡Corramos!
+Si entramos a Fordragón a través del Acueducto<03e0>no llamaremos la atención de los soldados...
+Un anciano que conoce bien la ciudad me dio<03e0>instrucciones para llegar al Acueducto.<04e0>El caso es que me recordaba a alguien,<03e0>pero no sé muy bien a quién...
+¡Irina está ahí arriba!<03e0>¡Vamos! ¡Es hora de abrir cabezas!
+

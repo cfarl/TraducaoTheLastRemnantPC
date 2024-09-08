@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0240_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Eh, joven... Sí, tú. Acércate.<03e0>Tengo una misión para ti.
+¿Has oído hablar de las <1be0ffbe34ff>Catacumbas de Elysion<1ce0>?<03e0>Se dice que contienen un tesoro ancestral<03e0>que ha permanecido oculto durante siglos.<04e0>Se trata de un manuscrito maldito cuyas páginas<03e0>describen un método prohibido para devolver<03e0>la vida a los muertos...<04e0>Según la leyenda, las doncellas del bosque<03e0>temían que alguien lo usase con fines malignos,<03e0>así que lo escondieron en las Catacumbas.
+Quisiera hacerme con ese libro, pero es mejor<03e0>que no lo comentes por ahí. La gente podría<03e0>pensar que estamos profanando la tumba...<04e0>Por el bien de ambos, lo mejor es que nadie esté<03e0>al corriente de nuestras intenciones.
+¿Quieres saber por qué no voy yo a por él?<03e0>Verás... El problema es que «ellos» viven<03e0>en las Catacumbas. Tendría que hacerles frente...
+Y no sé si puedo. ¿Cómo podría verles la cara<03e0>después de lo que ocurrió? Sus gritos resuenan<03e0>con tal fuerza que me estallaría la cabeza...<04e0>No sería capaz de soportarlo. Por eso necesito<03e0>que me ayudes a recuperar el manuscrito maldito.
+Sobra decir que te recompensaré con creces.<03e0>¿Qué me dices? ¿Te interesa?<03e006e0000008e0000000000000>Bueno, iré a por el libro.<09e008e0010000000300>Las tumbas me dan grima.
+Nada más verte, supe que comprenderías<03e0>la importancia de esta tarea. Me alegra ver<03e0>que no me he equivocado contigo.
+El manuscrito maldito se encuentra<03e0>en las profundidades de las <1be0ffbe34ff>Catacumbas<1ce0>.<04e0>Parece que los túneles se han convertido<03e0>en la guarida de fieros y temibles monstruos,<03e0>así que será mejor que te andes con cuidado.
+Lo creas o no, soy una persona muy ocupada.<03e0>Mi tiempo es más valioso de lo que imaginas...<04e0>Yo en tu lugar aceptaría esta misión antes<03e0>de que cambie de opinión y se la ofrezca a otro.<03e0>Créeme, lo lamentarías tarde o temprano.
+Ya era hora... Estaba harto de esperar.<03e0>¿Cómo has tardado tanto? ¿Traes el manuscrito?
+¿Cómo?<03e0>¿Que el manuscrito maldito ya no existe?
+¡No pongas a prueba mi paciencia, muchacho! <03e0>Sin ese libro, sería imposible... Oh, cielos...<03e0>¿Entonces cómo voy a traerlos de vuelta a la vida?
+Ese... Ese cuadro...
+(¿Qué le digo?)<03e006e0000008e0000000000000>Son del ejército de Melphina.<09e008e0010000000000>Están preocupados por ti.
+¡NOOO!<03e0>¡Basta! ¡Por favor, basta ya!
+¡Toma! ¡Toma esto y desaparece de mi vista!<03e0>No quiero volver a ver ese cuadro, por favor...<04e0>¡Mi cabeza! Creo que va a estallar...
+¿Qué estás diciendo? Eso es absurdo.
+Has vuelto... y veo que con las manos vacías.<03e0>¿No has podido encontrar el manuscrito?<03e0>Debe de estar en la <1be0ffbe34ff>zona oeste<1ce0>.<06e0000008e0000000000000>Así que en el oeste. ¡Voy!<09e008e0010000000300>No sé de qué me hablas...
+Excelente. Dirígete a las <1be0ffbe34ff>Catacumbas<1ce0>, pues.
+No juegues conmigo, muchacho. Te aconsejaría<03e0>que acabases esta misión mientras antes de que<03e0>se me pase el buen humor. Te lo digo por tu bien...
+

@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1070_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Traigo un mensaje del Presidente.
+La sesión del Consejo<0fe003e00ee0>comenzará inmediatamente.
+¿Eso es todo?
+Es lo habitual.<0fe003e00ee0>Siempre las convocan de un día para otro.
+¿Vais a viajar a Elysion? Si es así,<0fe003e00ee0>¿podríamos mandar a alguien con vos?<1ae000000b430fe005e001000ee0>Querría informar a la Academia<0fe003e00ee0>de nuestros progresos.
+Muy bien. ¿Quién será vuestro portavoz?
+Veamos... ¿A quién podría mandar?
+¡Tengo una idea!
+Si no habíais pensado en nadie<0fe003e00ee0>en particular, ¿por qué no Irina?
+A Irina le ha pasado de todo.<1ae0000070420fe005e001000ee0>Ha demostrado que está preparada<0fe003e00ee0>para una tarea tan importante como ésta.
+Buena idea. Si a ella le parece bien...
+Irina, ¿qué opinas?
+¡Sí! ¡Pues claro que sí!
+¡Gracias, hermanito!
+Esto... De nada.
+

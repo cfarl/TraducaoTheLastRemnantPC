@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0600_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ha pasado mucho tiempo...
+¿Has estado aquí antes?
+En mi familia tenemos una tradición:<0fe003e00ee0>para portar el apellido de los Honeywell,<1ae000000c430fe005e001000ee0>los jóvenes deben partir en busca de reliquias<0fe003e00ee0>al llegar a la edad adulta.
+Mola.
+Mi padre murió en la guerra...<1ae00000a0420fe005e001000ee0>Pero soñaba con hallar una nueva<0fe003e00ee0>y grandiosa reliquia para Athlum.
+Decidí investigar este lugar cuando oí<0fe003e00ee0>que la Academia le había echado el ojo.<1ae000001b430fe005e001000ee0>Pensé que tal vez daría con una reliquia...
+Y entonces... me la encontré.
+¿Encontraste a mi madre?
+Perdona. No quiero aburrirte.<0fe003e00ee0>Deberíamos salir de aquí.<1ae0000002430fe005e001000ee0>Tu madre nos estará esperando.
+Esto... Vale.
+

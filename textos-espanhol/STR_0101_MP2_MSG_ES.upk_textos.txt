@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) STR_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+La puerta está cerrada a cal y canto.
+La puerta está cerrada a cal y canto.<03e0>¿Quieres usar la Llave ardiente?<06e0000008e0000000000000>¡Sí! ¡Abramos este chisme!<09e008e0010000000300>Ahora no me viene bien...
+La puerta se ha abierto.
+

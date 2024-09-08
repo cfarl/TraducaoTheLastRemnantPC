@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0110_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡La Gala Cósmica está a punto de comenzar!<03e0>¡La ninfa está a salvo y lista para la celebración!<04e0>Pero eso no quiere decir que se trate de una fiesta<03e0>en plan salvaje. Vamos a orar en silencio por la paz<03e0>en las Riberas Plácidas.
+Y eso me recuerda que tengo una misión<03e0>que encomendarte.<04e0>Para asegurar el éxito del festival y la seguridad<03e0>de la doncella, me gustaría que alguien limpiara<03e0>las Riberas Plácidas de monstruos.<04e0>No basta con despachar a uno o dos...<03e0>Quiero que te deshagas de todos ellos.<03e0>¿Lo harías por el bien del festival?<06e0000008e0000000000000>¡Cuenta conmigo!<09e008e0010000000300>No me apetece.
+¡Sabía que podía contar contigo!<03e0>Quiero que te dirijas a <1be0ffbe34ff>Fornstrand<1ce0> inmediatamente.<04e0>El éxito del festival está en tus manos.
+¡Piensa en todo lo que sufriste para rescatar a la ninfa!<03e0>Por favor...
+Es necesario que las Riberas Plácidas sean<03e0>un lugar seguro para que el festival tenga éxito.<03e0>Necesito que acabes con esos monstruos.<06e0000008e0000000000000>¡Cuenta conmigo!<09e008e0010000000300>Sigue sin apetecerme...
+¡Sabía que podía contar contigo!<03e0>Quiero que te dirijas a <1be0ffbe34ff>Fornstrand<1ce0> inmediatamente.<04e0>El éxito del festival está en tus manos.
+¡Piensa en todo lo que sufriste<03e0>para rescatar a la ninfa! Por favor...
+Supongo que la misión no debe de haber sido<03e0>una tarea fácil, ni siquiera para alguien como tú.<03e0>¿Te apetece intentarlo de nuevo?<06e0000008e0000000000000>¡Claro que sí!<09e008e0010000000300>Pues no mucho.
+¡Estupendo! Contamos contigo.
+La gente se llevará una decepción tremenda<03e0>si no hay festival este año.
+¡Te agradezco tu contribución a nuestra causa!<04e0>Este festival es importante porque queremos<03e0>denunciar lo innecesario e inútil de la guerra.
+Estoy segura de que, cuando la gente se dé cuenta,<03e0>el mundo será un lugar mejor y reinará la paz.
+O puede que nadie se dé cuenta de ello<03e0>y que el mundo se vaya al cuerno...
+¡No pienso permitir que eso ocurra!
+Sólo bromeaba, Sheryl.
+Ten, toma esto.
+Si alguna vez necesitas ayuda, Rush, no seas tímido<03e0>y pídemela. Me encontrarás en la sede del gremio.<04e0>Ahora, mi objetivo es lograr que el mundo entero<03e0>sea consciente del problema de estos pececillos.<03e0>Si hay una guerra, ¿qué será de ellos?
+Son adorables, pero estoy cansada de contarlos...<03e0>¡Debe de haber más de cien!
+

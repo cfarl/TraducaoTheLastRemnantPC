@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) RIO_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Eh, muchacho... ¿Has ido ya a Siebenpur,<03e0>la caverna del sur? Dicen que ahí abajo hay ruinas<03e0>que tienen más de un millar de años.<04e0>Los mercenarios solemos trabajar como escoltas<03e0>para los grupos de sabios y geólogos que vienen<03e0>a visitarlas.<04e0>Pagan bastante bien, siempre y cuando tengas<03e0>la paciencia necesaria para aguantar su cháchara.<04e0>De un tiempo a esta parte, dicen que han visto<03e0>a unos monstruos gigantes correteando por allí<03e0>y estropeando las vetas de minerales.<04e0>¡Yo nunca me he topado con uno, pero estoy segura<03e0>de que podría cargarme a un par de esos bichos<03e0>con las manos atadas a la espalda!
+Encontrar un yacimiento de damasquina es el sueño<03e0>de todo minero de Royotia. Es tan valiosa que basta<03e0>con encontrar una veta para tener la vida resuelta.<04e0>Por desgracia, es un mineral muy poco común<03e0>y sólo unos pocos afortunados han conseguido<03e0>dar con semejante filón.<04e0>En el gremio andan diciendo que hay una veta<03e0>en las profundidades de Lavaluarte, pero claro...<03e0>¡Cualquiera se pone a excavar en ese infierno!
+

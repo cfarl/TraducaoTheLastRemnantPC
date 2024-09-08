@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_05GC_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido al Círculo del Castillo Primigenio,<03e0>el lugar de encuentro de los mejores guerreros.<03e0>¿Qué se te ofrece?
+¿Podría ser que...?<03e0>No, nada. No tiene importancia.
+Estos soldados son los mejores combatientes<03e0>de la ciudadela de los guerreros...<04e0>Si quieres que te ayuden, debes tratarlos<03e0>con el respeto que se merecen.
+¡Alabado sea el Emperador celestial!<03e0>¿Estáis bien? Habéis recorrido un largo camino...
+Los chicos del gremio me han contado<03e0>que has ayudado a nuestro Señor.<04e0>Debes de ser más fuerte de lo que pareces.
+

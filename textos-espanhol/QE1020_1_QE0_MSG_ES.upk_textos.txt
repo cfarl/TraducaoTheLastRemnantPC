@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Mi nombre es Raphus. Soy un aventurero<03e0>que se dedica a viajar por todo el mundo.
+O al menos, lo hacía... hace 50 años. Je, je...
+Parece que ahora está de moda entre los aventureros<03e0>intercambiar tesoros, y pensé que yo también podría<03e0>sacar un buen dinero si lo intentaba...<04e0>El problema es que... me dejé llevar y acabé canjeando<03e0>mi mayor tesoro por una botella de vino de Royotia.<04e0>Hijo, ¿puedes ayudar a un viejo a recuperar su tesoro?<03e0>Es todo lo que deseo en este mundo...<03e0>Si consigues algo más, quédatelo.<06e0000008e0000000000000>¿Por qué no?<09e008e0010000000300>No hay nada que hacer.
+Te lo agradezco, hijo. Aquí tienes el vino de Royotia.<03e0>No lo he probado, así que supongo que no tendrás<03e0>problemas para devolverlo.<04e0>O eso espero...<04e0>Da igual. El caso es que se lo cambié a un joven<03e0>en <1be0ffbe34ff>Balterossa<1ce0>. Se llamaba Rainn.
+Madre mía...
+Mi nombre es Raphus... Dime, ¿ya nos conocemos?<03e0>Me suena tu cara. Aunque claro, viajo mucho...<03e0>O al menos, solía hacerlo.<04e0>¿Me ayudarás a recuperar mi preciado tesoro?<03e0>A cambio, puedes quedarte con los beneficios<03e0>que consigas a base de regatear.<06e0000008e0000000000000>Vale, te ayudaré.<09e008e0010000000300>En serio, abuelo, olvídalo.
+Te lo agradezco, hijo. Aquí tienes el vino de Royotia.<03e0>Ni siquiera lo he abierto, así que supongo que podrás<03e0>canjearlo sin problema por mi tesoro.<04e0>Eso espero, al menos....<04e0>En fin... El caso es que se lo cambié a un joven<03e0>en <1be0ffbe34ff>Balterossa<1ce0>. Se llamaba Rainn.
+Umm...
+Ah, eres tú. ¿Ya has encontrado mi tesoro?
+¡Oh!<03e0>¡Ese mapa!
+¡Vaya, vaya!<03e0>¡Al final ha sido una buena idea pedirte ayuda!<04e0>Hace tiempo, cuando mi querida mujer y yo nos íbamos<03e0>de aventuras por ahí, usábamos este mapa como guía.<04e0>Los recuerdos que me asaltan cada vez que lo miro<03e0>no tienen precio, muchacho.<04e0>¿Sabes? Algunos creen que nuestros garabatos<03e0>son una especie de mapa antiguo o algo así.<03e0>¿Te lo imaginas? Ignorantes...
+Gracias por hacer feliz a un viejo como yo.
+

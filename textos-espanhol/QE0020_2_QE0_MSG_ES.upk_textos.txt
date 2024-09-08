@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0020_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Violet, será mejor que volvamos a Celapalais.<03e0>Los sicarios de tu esposo deben de estar al caer.
+Oh, Gabriel, no sé qué hacer... ¡Mira a tu alrededor!<03e0>El Liafort era el tesoro ancestral de los Gilles-Barre,<03e0>un símbolo de nuestra grandeza...<04e0>¡Y ahora está abandonado a su suerte y rodeado<03e0>de monstruos repugnantes!
+Cálmate, Violet. Te aseguro que el Liafort<03e0>no ha perdido ni un ápice de su grandeza.
+¿Quién anda ahí?
+Sois los sicarios de Nielsen, ¿verdad?
+Y parece que vienen acompañados...
+Antiguamente los Gilles-Barre éramos los dueños<03e0>de estas tierras, pero la región comenzó a decaer<03e0>nada más pasar a manos de Celapalais.<04e0>Mucha gente se vio obligada a emigrar a la capital,<03e0>y el duque de Qubine me hizo casarme con Nielsen<03e0>con la esperanza de borrar el apellido de mi familia.
+¡Pero no permitiré que acabe con el buen nombre<03e0>de los Gilles-Barre! ¡No pienso seguir casada<03e0>con ese pedante insoportable!
+Violet, comprendo que no te guste la situación,<03e0>pero tienes que solucionar esto de otra manera.
+Ya sé que me comprendes, pero entonces...<03e0>¿Por qué siempre me impides cumplir con mi deber?
+Tan sólo me preocupo por ti...<03e0>Venga, volvamos a Celapalais.
+* Suspiro resignado *
+Tienes razón... Volvamos.
+

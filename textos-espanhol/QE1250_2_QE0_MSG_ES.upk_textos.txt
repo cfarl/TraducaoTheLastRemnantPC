@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1250_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Oh! ¡Genial!<03e0>¡Hacía siglos que esperaba esta carta!
+Oye... No habrás abierto el sobre para cotillear, ¿no?<06e0000008e0000000000000>¡Por supuesto que no!<09e008e0010000000000>Esto... Sólo un poquito.
+Vale, vale... Ya sabía que un mensajero digno<03e0>de ese nombre jamás traicionaría mi confianza<03e0>de semejante manera.
+¿Y a que era un aburrimiento?<03e0>Las cartas que me manda este tipo son de un soso<03e0>que no hay quien las aguante...
+En cualquier caso, aquí tienes una recompensa<03e0>por tomarte la molestia de traérmela, ¿vale?<03e0>¡Gracias!
+¡Que tengas un buen día!
+

@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0480_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Oye, Leshau!<03e0>¿Dónde te habías metido?
+Unos tipos de la Academia aparecieron de pronto y...
+Se han llevado el Brimuslabus...<03e0>Baaluk está acabada.
+Tranquilos, no pasa nada...
+Estaba a punto de producirse un cataclismo...<03e0>¡Gracias a ellos, Baaluk se ha librado de un desastre!
+Lo cierto es que nadie se ha vinculado al Brimuslabus<03e0>desde que falleció su anterior guardián...
+¿Estás de broma? ¿Tanto follón por esa estupidez?<03e0>¡Llevo siglos diciéndoos que me nombréis gobernador<03e0>para que pueda vincularme yo mismo al Brimuslabus!
+De... ¡De eso nada! ¡Lo único que quieres es usarlo<03e0>para expandir tus dominios! ¡YO debería gobernar!
+¡Anda ya! ¡Un payaso como tú nunca podría<03e0>garantizar la prosperidad de Baaluk!
+¡Cerrad el pico!
+¿Veis? ¡Por eso le pedí a la Academia<03e0>que se llevase el Brimuslabus!<04e0>¡Ninguno de los dos sois dignos de gobernar!<03e0>¡Ese cataclismo hubiera acabado con nosotros!
+La reliquia estaba a punto de convertirse<03e0>en la perdición de Baaluk. Librarnos de ella<03e0>era lo mejor que podíamos hacer.<04e0>Esta ciudad no necesita una reliquia para prosperar...<03e0>Y tampoco un gobernador.
+¿Cómo?
+La verdad es que Leshau tiene razón.
+Sin reliquia, sin gobierno... ¿Cómo estás tan seguro<03e0>de que todo saldrá bien?
+¡Simplemente lo sé! Confiad en mí...<03e0>Lo único que hemos de hacer es estar unidos.
+Rush, siento no haber sido sincero contigo<03e0>respecto a lo que tenía planeado...<04e0>Por favor, acepta mis disculpas y toma esto<03e0>como recompensa por salvar Baaluk.
+Tal vez tengas razón. Si aunamos esfuerzos...<03e0>¡Tienes que darle ejemplo a la gente, Leshau!<03e0>Seguro que los demás te siguen.
+¡Por supuesto! ¡Haré lo que sea por esta ciudad!
+Rush, si alguna vez me necesitas,<03e0>me encontrarás en la sede del gremio.
+

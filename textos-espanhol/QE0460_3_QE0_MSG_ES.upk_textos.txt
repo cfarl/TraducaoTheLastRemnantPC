@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0460_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido a las profundidades de Royotia.
+Soy la Guardiana del fuego, la centinela de Vespalia,<03e0>un ser destinado a traer la destrucción a Royotia.<04e0>Te he llamado porque deseo encomendarte una tarea.
+Para proteger a Royotia, debes acabar con Vespalia.
+El tiempo se agota. Vespalia ha luchado durante siglos<03e0>para liberarse de su encierro, y pronto lo conseguirá...<04e0>Una vez que la bestia despierte,<03e0>destruirá Royotia por completo.
+Vespalia no sólo es fuerte, sino que posee<03e0>una resistencia extraordinaria. Sólo un milagro<03e0>nos permitiría derrotarla.<04e0>No obstante, contamos con algunos recursos<03e0>para hacerle frente.
+Me gustaría pedirte algo. Encuentra los nueve<03e0>fragmentos carmesíes dispersos por el mundo<03e0>y tráelos hasta aquí.
+La única forma de destruir a Vespalia es reunir<03e0>los nueve fragmentos carmesíes.<04e0>Los fragmentos carmesíes sólo acuden a aquellos<03e0>con una voluntad férrea. Busca a las personas más<03e0>poderosas de la tierra y encontrarás los fragmentos.
+Una vez reunidos, debes combinar los fragmentos.<03e0>Según la combinación que uses, tomarán la forma<03e0>de un escudo, un brazalete o una espada.<04e0>Así, armado con la espada, el brazalete<03e0>y el escudo carmesíes, estarás preparado...<04e0>¡Estarás preparado para destruir<03e0>a Vespalia de una vez por todas!
+Cuando estés listo para enfrentarte a Vespalia,<03e0>vuelve a este mismo lugar.
+Te ruego que nos prestes tu ayuda.<03e0>Eres nuestra única esperanza.
+

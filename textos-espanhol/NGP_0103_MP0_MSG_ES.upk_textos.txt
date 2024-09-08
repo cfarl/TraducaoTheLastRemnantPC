@@ -1,0 +1,40 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_0103_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Esto es <1be0ffbe34ff>Nordalm<1ce0>, el mayor distrito comercial<03e0>de la ciudad de Nagapur.<04e0>A través de estos canales llegan armas, accesorios,<03e0>componentes y todo tipo de artículos procedentes<03e0>de todo el mundo.<04e0>También tenemos una taberna y un gremio,<03e0>por si te interesan ese tipo de sitios.
+Parece que la guerra es inminente...<03e0>No olvides visitar las tiendas del barrio<03e0>y comprar lo que necesites para estar preparado.
+Message 3
+Cuando el Gwayn le prendió fuego a la ciudad,<03e0>los supervivientes huyeron a Nordalm, que fue<03e0>la zona menos castigada por las llamas.<04e0>No pudimos hacer nada... Tuvimos que contemplar<03e0>cómo nuestra querida ciudad se convertía en humo.
+Mira con qué solemnidad nos contempla el Gwayn...<04e0>Mientras esta reliquia proteja la ciudad, haría falta<03e0>estar muy loco para tratar de invadirnos.<04e0>Lo cierto es que mi hijo le tiene miedo y se echa<03e0>a llorar cada vez que lo ve... Y no me extraña,<03e0>la verdad...<04e0>Pero siempre se tranquiliza cuando le digo<03e0>que gracias a él vivimos en paz. ¡El Gwayn<03e0>nos protege de todo mal!
+Mi hijo me ha preguntado si iba a haber una guerra.<03e0>Supongo que habrá oído hablar del Invasor<03e0>y su ejército...<04e0>Le he dicho que el Gwayn nos protegerá<03e0>y que no hay nada de qué preocuparse.<03e0>¡Si vieras la sonrisa que se le ha puesto!
+Mensaje 3
+Todo el mundo piensa que el Gwayn destruyó<03e0>la ciudad en un ataque de furia indiscriminada,<03e0>pero yo no estoy de acuerdo.<04e0>Si el Gwayn no llega a actuar, las huestes del Invasor<03e0>hubieran arrasado toda Nagapur.<04e0>Yo creo que el Gwayn sólo pretendía protegernos<03e0>del Invasor... ¡Y nadie me convencerá de lo contrario!
+Bajo la ciudad hay una gran red de alcantarillado<03e0>que conecta entre sí los distintos canales.<04e0>Pero últimamente han visto a muchos monstruos<03e0>merodeando por los túneles y los han clausurado<03e0>para evitar accidentes.
+¿La entrada al Acueducto?<03e0>Ah, claro, te refieres a las alcantarillas...<03e0>Se encuentra en Südalm.<04e0>No pensarás  en hacer nada allí dentro, ¿verdad?<03e0>Es un lugar oscuro y tenebroso...<03e0>¡y no te puedes ni imaginar cómo apesta!<04e0>Esos túneles están llenos de monstruos...<03e0>¡Yo no me metería allí por nada del mundo!
+Message 3
+Nunca olvidaré lo que hemos pasado<03e0>mientras viva en este lugar...<04e0>Nagapur ha quedado desierta...<03e0>Muchos habitantes han abandonado la ciudad<03e0>por miedo a que se repita este desastre.<04e0>Pero yo no pienso irme. Nací aquí, ¿sabes?<03e0>Nagapur es mi hogar. Pase lo que pase,<03e0>nadie podrá convencerme de que me vaya.
+Ni en mis peores sueños me imaginé que Nagapur<03e0>acabaría en este estado...<04e0>Ojalá hubiera algo que pudiera hacer<03e0>para ayudar a esta ciudad y a sus habitantes.
+¿Y bien? ¿Has acabado?<06e0000008e0000000000000>¡Listo!<09e008e0010000000300>No, no del todo.
+Bien. Ven a buscarme a Flussbahn cuando termines.
+Te dije que vinieras a verme cuando acabaras.<03e0>No antes.
+¡Hola, Rush!<04e0>No sabes cómo te agradezco que hayas dejado<03e0>que me una a tu grupo, de verdad...
+Llevo tiempo viajando a lo largo y ancho<03e0>del mundo. Y durante uno de mis viajes,<03e0>escuché una antigua leyenda...<04e0>Decía que en algún lugar del mundo,<03e0>existe un arma de extraordinario poder.<04e0>Con ella, uno puede vencer al peor de sus enemigos.
+Una leyenda dice que en algún lugar del mundo<03e0>existe un arma de extraordinario poder.<03e0>Me pregunto si será verdad...
+Aquí de pie, viendo a la gente pasar,<03e0>me acuerdo mucho de mi tierra...<04e0>En el cielo azul brillaba este mismo sol,<03e0>y producía las mismas sombras...<04e0>Mi pueblo no era rico, pero por doquier se veía<03e0>felicidad y alegría.<04e0>Ojalá pudiera verlo de nuevo...
+Ojalá pudiera ver mi pueblo de nuevo...
+Cuando mi pueblo fue pasto de las llamas,<03e0>lo único que pude hacer fue quedarme quieta<03e0>y mirar lo que había quedado de él.<04e0>Esa imagen... Es algo que no olvidaré<03e0>mientras viva y me quede un soplo de fuerza.<04e0>He viajado por todo el mundo en busca<03e0>del hombre que causó esa destrucción.<04e0>Y seguiré vagando por el mundo<03e0>hasta que consiga mi venganza.<03e0>Será entonces cuando mi viaje finalice.
+Mi viaje acabará cuando me vengue<03e0>del responsable de la devastación<03e0>de mi pueblo.
+Bienhallado seas.<04e0>¿Sabes? Durante mucho tiempo, mi vida ha girado<03e0>en torno a la venganza, pero... eso ya pasó.<04e0>Los recuerdos que guardo de él y de mi pueblo<03e0>se han convertido en una parte especial de mí.<04e0>Ocurra lo que ocurra, siempre podré recurrir a ellos<03e0>cuando mi voluntad comience a flaquear.<04e0>¿Puedo pedirte un favor? Si no tienes inconveniente,<03e0>me gustaría acompañarte en tus aventuras.<04e0>Tal vez así encontraré una nueva razón para vivir.
+Ah, hola, Rush.<04e0>¡Aquí todo el mundo es amable y generoso!<03e0>Me lo estoy pasando en grande...<03e0>¡Hacía tiempo que no me sentía así!
+¡Buenos días!<04e0>¿Va todo bien?
+Necesito tomarme un descanso.<03e0>Estoy un poco mareada...<04e0>¿Qué? ¿Yo? ¿Perdida? ¡Qué va!<03e0>¡No seas bobo!
+Necesito un descanso. Estoy un poco mareada...
+Quizás me haya exigido demasiado en el festival...<03e0>¡Pero no te preocupes por mí! ¡Dentro de nada<03e0>me sentiré mucho mejor!
+Quizás me haya exigido demasiado en el festival...
+Últimamente siento como si mis poderes<03e0>me fallaran. Es la primera vez que me pasa.<03e0>No sé por qué será...<04e0>Durante la Gala Cósmica, sentí que me invadía<03e0>una gran energía. Era como si sintiese el poder<03e0>de muchas reliquias al mismo tiempo.<04e0>Pero, tan pronto como terminó el festival,<03e0>aquella energía se esfumó... Igual me esforcé<03e0>demasiado y mi cuerpo necesita recuperarse.<04e0>Pero estoy preocupada. ¿Y si no se me pasa?<03e0>¿Qué hago? Jo, necesito mis poderes...<04e0>Igual debería ir a hablar con Marsha.<03e0>Tal vez ella sepa qué debería hacer.
+Últimamente me fallan mis poderes....<03e0>¡Ya no sé qué hacer! Igual debería ir<03e0>a hablar con la maestra Marsha.
+¡Oh! Es un lirio perfumado, ¿verdad?<03e0>Qué maravilla... ¡Qué gesto tan encantador!<04e0>Qué raro... Me siento más fuerte de pronto.<03e0>Es como si estuviera recuperando mi poder.<04e0>Ahora que lo pienso, mi madre solía decir<03e0>que nuestros poderes son como las olas...<04e0>Fluyen desde el mar a la costa y luego<03e0>regresan al mar para unirse a la tierra.<04e0>Creo que ya empiezo a entenderlo...<04e0>Mi poder son mis deseos y mis esperanzas.<03e0>Con ellos doy fuerzas a los demás, y a su vez<03e0>sus buenos pensamientos reponen mi poder.<04e0>Muchas gracias, Rush... ¡Me siento mucho mejor,<03e0>y todo te lo debo a ti!
+¡Ahora me siento mucho mejor!<03e0>¡Y quiero seguir viajando por el mundo!<03e0>Oye... Vendrás a buscarme si me pierdo, ¿verdad?
+Últimamente no hacen más que circular historias<03e0>sobre niños que desaparecen por toda la ciudad,<03e0>y ahora le ha tocado el turno a mi sobrina...<04e0>He intentado encontrarla por mi cuenta,<03e0>pero no he conseguido nada... ¡Maldita sea!<04e0>No soy capaz de abrir la tienda ni ir a trabajar<03e0>con esta tragedia rondándome por la cabeza...
+Oye, me han dicho que fuiste tú quien resolvió<03e0>el problema de los secuestros en la ciudad.<04e0>¡Qué contento me puse cuando mi sobrina<03e0>regresó a casa! ¡La abracé con tanta fuerza<03e0>que no quería soltarla!<04e0>Ahora que ha vuelto, ya he podido abrir la tienda.<03e0>¡Vamos! ¡Echa un vistazo y sírvete!
+

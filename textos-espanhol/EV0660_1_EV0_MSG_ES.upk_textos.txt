@@ -1,0 +1,48 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0660_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Vigilad las puertas!
+¡Sí, señor!
+¡Venga! ¡Moveos!
+¿Qué ocurre?
+¡Vamos, deprisa!
+¡Lady Emma! ¡Rush!
+¡Alabado sea el Emperador, estáis sanos y salvos!
+Ni que hubiera motivos para dudarlo.
+La situación ha empeorado, ¿verdad?
+Sí. El Consejo está tardando<0fe003e00ee0>en darle una reliquia al Invasor,<1ae0000039430fe005e001000ee0>y los Lores andan revolucionados al respecto.
+Mientras tanto, el Invasor sigue<0fe003e00ee0>amenazando con invadir otros países<1ae000000c430fe005e001000ee0>y apoderarse de sus reliquias...
+No esperaría otra cosa de alguien<0fe003e00ee0>capaz de formar un vínculo con el Arca...
+Se ha ganado la enemistad de todos<0fe003e00ee0>cuantos tienen reliquias a su cargo. ¿Qué pretende?
+Por lo pronto, está reuniendo un ejército.
+Así que se avecina una guerra...
+¿Dónde está Dave?
+Está reunido con un enviado del duque Hermeien.
+¿Y qué quiere Hermeien?
+Nuestra ayuda, por lo visto.
+Torgal.
+Veréis, el Consejo está dividido en dos bandos.
+Unos respaldan al Presidente<0fe003e00ee0>para plantarle cara al Invasor.
+Los demás apoyan al Invasor<0fe003e00ee0>porque temen la ira del Emperador.
+Hermeien quiere aliarse con nosotros<0fe003e00ee0>para zanjar el problema lo antes posible.
+Quiere que vaya a Nagapur<0fe003e00ee0>para hablar conmigo en persona.
+¿Qué pensáis hacer?
+Aprovecharme de la ocasión, por supuesto.
+¿Lord David?
+A cambio de apoyar a Hermeien,<0fe003e00ee0>le pediré que respalde<1ae00000c8420fe005e001000ee0>las reivindicaciones<0fe003e00ee0>de independencia de Athlum.
+Pensadlo bien...<0fe003e00ee0>¡Por fin nos libraríamos de Celapalais!
+No estamos en posición de negociar<0fe003e00ee0>tras lo ocurrido con la Academia...
+Tal vez no, pero es igual.
+Casi no podemos ni acercarnos al Gae Bolg<0fe003e00ee0>sin el consentimiento del duque de Qubine.
+¿Por qué ha de ser tan difícil<0fe003e00ee0>defender nuestras propias tierras?
+Nuestro país se merece algo mejor.<0fe003e00ee0>¡Debemos aprovechar esta oportunidad!
+Emma.
+Me alegro de verte sana y salva.
+Una vez más, pido tu ayuda<0fe003e00ee0>para la causa de Athlum.
+Mi vida os pertenece.
+¡Saldremos hacia Nagapur en breve!<0fe003e00ee0>¡Daos prisa con los preparativos!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+

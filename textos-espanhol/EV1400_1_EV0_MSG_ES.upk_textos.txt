@@ -1,0 +1,32 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1400_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Aquí hay alguien...
+¡Wagram!
+Lord Wagram.
+Cuánto tiempo sin vernos.
+Wagram, ¿qué diablos estás tramando?
+¡Cuánta sospecha veo en vuestra mirada!<0fe003e00ee0>Sólo cumplo la voluntad de las reliquias.
+¿Qué quieres decir?
+Desde tiempos inmemoriales,<0fe003e00ee0>las reliquias han velado por la paz y la armonía.
+Para los hombres eran creaciones divinas,<0fe003e00ee0>merecedoras de su miedo y adoración.<1ae0000057430fe005e001000ee0>Pero todo cambió con el nacimiento<0fe003e00ee0>de un ser capaz de controlarlas.
+Con el tiempo, la osadía<0fe003e00ee0>de los hombres fue creciendo, <1ae0000016430fe005e001000ee0>hasta que acabaron considerando<0fe003e00ee0>a las reliquias como meras herramientas.
+Cuán ignorantes son los hombres...
+¡Es hora de que vuelvan a temer<0fe003e00ee0>a las reliquias, a rendir culto a su poder!<1ae0000039430fe005e001000ee0>Ése es el único cometido<0fe003e00ee0>de tan indignas criaturas.
+Ahora que ha aparecido<0fe003e00ee0>una reliquia capaz de expresar su voluntad,<1ae000000c430fe005e001000ee0>debemos escuchar, obedecer<0fe003e00ee0>y aceptar todo cuanto nos diga...
+A cualquier precio.
+¿Dices que existe una reliquia capaz<0fe003e00ee0>de expresar sus intenciones y deseos?
+Te refieres al Invasor, ¿verdad?
+Absurdo...<1ae00000e0410fe005e001000ee0>- ¡Imposible!<0fe003e00ee0>-No puede ser...
+Es... ¡Es imposible!
+No puede ser...
+Así es. Éste fue su hogar<0fe003e00ee0>hasta que se despertó.
+Escuchadme: dejad en paz al Invasor...<1ae0000025430fe005e001000ee0>Si apreciáis vuestras vidas, claro está.
+¡Un momento! ¿Y si el Invasor planease<0fe003e00ee0>algo horrible, como conquistar el mundo?
+¿Pretendes que nos quedemos<0fe003e00ee0>de brazos cruzados mientras tanto?
+¿Es que no me has oído, muchacho?<1ae0000082420fe005e001000ee0>He dicho «a cualquier precio».
+Excelencia...<0fe003e00ee0>No puedo creer que estéis de acuerdo.
+La autoridad de los emperadores<0fe003e00ee0>proviene de las reliquias...<1ae00000f0420fe005e001000ee0>¿Quiénes somos nosotros<0fe003e00ee0>para oponernos a los deseos del Invasor?
+Escuchadme, marqués de Athlum...<0fe003e00ee0>Que nadie ose estorbar al Invasor.<1ae0000048430fe005e001000ee0>Todo aquel que se interponga<0fe003e00ee0>en su camino será culpable de traición.
+Id a informar inmediatamente al Consejo.<0fe003e00ee0>Obedeced nuestras órdenes, Marqués.
+

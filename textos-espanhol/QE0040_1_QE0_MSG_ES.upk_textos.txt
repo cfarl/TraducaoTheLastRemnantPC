@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0040_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Tengo previsto reunirme con mi amada, aunque<03e0>me ha sorprendido el lugar que ha escogido<03e0>para nuestro encuentro...
+El <1be0ffbe34ff>Castillo de Muscato<1ce0>...
+Son los restos de un antiguo castillo que ahora<03e0>sirve de refugio a monstruos de todo tipo.<04e0>¿Por qué habrá elegido un lugar tan peligroso<03e0>para verse conmigo? Por más que le doy vueltas,<03e0>no sé qué se le pasa por la cabeza.
+Pero si hay que ir, iré. Estaría dispuesto a enfrentarme<03e0>al más terrible de los dragones con tal de contemplar<03e0>la sonrisa de mi amada Charlotte.<04e0>Lo que ocurre es que no soy buen luchador...<03e0>Me preguntaba si serías tan amable de escoltarme<03e0>al interior de esas ruinas.<06e0000008e0000000000000>Claro, con mucho gusto.<09e008e0010000000300>¿Eres un hombre o un gallina?
+Te estoy muy agradecido. Me llamo Paris, para servirte.<03e0>Y ahora, si no tienes inconveniente, deberíamos partir<03e0>raudos al <1be0ffbe34ff>Castillo de Muscato<1ce0>.
+Entiendo...
+He devuelto a Charlotte sana y salva a su casa...<03e0>Te agradezco la valiosa ayuda que me has prestado.
+Toma... Aquí tienes una recompensa.<03e0>Te lo ruego, acéptala.
+Mi amada quiere que me reúna con ella en un lugar<03e0>que sirve de refugio a incontables monstruos.<03e0>¿Me ayudarías a atravesar las ruinas?<06e0000008e0000000000000>Venga, vale.<09e008e0010000000300>¿Tengo cara de sujetavelas?
+Te estoy muy agradecido. Me llamo Paris, para servirte.<03e0>Y ahora, si no tienes inconveniente, deberíamos partir<03e0>raudos al <1be0ffbe34ff>Castillo de Muscato<1ce0>.
+Entiendo...
+Espero que no hayas olvidado que prometiste<03e0>acompañarme a las ruinas del castillo.<03e0>Si has terminado los preparativos, partamos.<06e0000008e0000000000000>¡Cuando quieras!<09e008e0010000000300>Dame un minuto más.
+Gracias.
+Muy bien, pero date prisa... <03e0>¡Charlotte está en peligro!
+

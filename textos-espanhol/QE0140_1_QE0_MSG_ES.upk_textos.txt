@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0140_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Veo que tienes las piedras celestes.<04e0>Pues dirígete a la gran torre que se alza en el desierto<03e0>y deposítalas allí. Si lo haces, se revelará ante tus ojos<03e0>un secreto milenario.<06e0000008e0000000000000>Suena bien. ¡Voy para allá!<09e008e0010000000300>La historia no es lo mío.
+Excelente. Adéntrate en el <1be0ffbe34ff>Océano de Arena<1ce003e0>y dirígete al este del lugar que indica la lanza.<04e0>Y recuerda, joven Sykes, no pierdas de vista<03e0>a los espectros. Son como espejos: sólo reflejan<03e0>la verdadera naturaleza de lo que los rodea.<06e0000008e0000000000000>Oye, ¿cómo sabes mi nombre?<09e008e0010000000000>¿Qué? Esto... Vale.
+La historia que comenzó hace tanto tiempo<03e0>debe llegar a su fin...<03e0>Eso es todo cuanto has de saber.
+Umm...
+Esta juventud... Cuando yo era joven,<03e0>nos avergonzábamos de nuestra ignorancia, <03e0>no hacíamos ostentación de ella...
+¿Ya has llevado las piedras celestes a la torre?<06e0000008e0000000000000>Ahora voy, lo prometo.<09e008e0010000000300>Espera sentado, abuelo.
+Dirígete al <1be0ffbe34ff>Océano de Arena<1ce0> y busca al este de la lanza.<03e0>Es tu deber, Rush Sykes.
+Las tres piedras celestes han sido testigos<03e0>de toda la historia de nuestra civilización.<03e0>No se puede escapar del destino...
+Ya has llevado las piedras celestes a la torre...<04e0>Esas piedras tienen más de mil años y recuerdan<03e0>todo cuanto han visto. Si deseas obtener su saber,<03e0>debes continuar explorando la torre.<06e0000008e0000000000000>Entendido. ¡Voy para allá!<09e008e0010000000300>Ya me ocuparé más tarde.
+Buen viaje.
+No hay prisa, pero debes saber que alguien<03e0>espera ansiosamente que cumplas tu misión.<03e0>Deberías tenerlo en cuenta.
+Vaya, muchacho, bien hecho.<04e0>Así que has derrotado al cuerpo maldito de la Reina<03e0>y has salvado su alma... Estoy impresionado.<04e0>Toma una pequeña recompensa por tus desvelos.
+Seguro que Su Excelencia el Emperador celestial<03e0>se alegrará cuando se entere.<04e0>Bueno, ahora debo irme.<03e0>No olvides tu destino, muchacho...
+

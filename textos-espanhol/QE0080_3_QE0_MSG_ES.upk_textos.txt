@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0080_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Bienhallado seáis, Sir Rush!<04e0>Si tenéis un momento, os rogaría que os reunieseis<03e0>una vez más con el comandante Robert.<04e0>Mucho me temo que nuestra mala suerte empeora<03e0>por momentos... Si sois tan amable, acudid al palacio,<03e0>por favor.
+

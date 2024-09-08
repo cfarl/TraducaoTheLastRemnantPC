@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1090_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Supongo que alguien de la taberna te ha hablado<03e0>de mi problema, ¿verdad? Los cotilleos circulan<03e0>a toda velocidad en un pueblecillo como éste.
+Verás, esto es lo que ocurre...<04e0>Tengo aquí una carta que debería entregar<03e0>a su destinatario, pero resulta que se ha marchado<03e0>a no sé qué lugar lleno a rebosar de monstruos.<04e0>Estoy buscando a alguien que se la entregue por mí...<03e0>¿Crees que podrías ayudarme?<06e0000008e0000000000000>Yo me encargo.<09e008e0010000000300>No hablo con desconocidos.
+¡Muchísimas gracias!<03e0>¡Te debo una!
+Ésta es la carta que tienes que entregar.<04e0>Encontrarás a la persona a la que debes dársela<03e0>en la entrada de las <1be0ffbe34ff>ruinas de Robelia<1ce0>.
+Cuando vuelvas de las <1be0ffbe34ff>ruinas de Robelia<1ce0>, no olvides<03e0>venir por aquí para avisarme de que le has entregado<03e0>la carta a su destinatario.<04e0>De lo contrario, no podré darte tu recompensa.
+Lo comprendo...
+Necesito que alguien entregue esta carta por mí,<03e0>pero lamentablemente el destinatario se ha marchado<03e0>a no sé qué sitio lleno de monstruos...<06e0000008e0000000000000>¡Yo me encargo!<09e008e0010000000300>Pero si no te conozco.
+¡Muchísimas gracias!<03e0>¡Te debo una!
+Ésta es la carta que tienes que entregar.<04e0>Encontrarás a la persona a la que debes dársela<03e0>en la entrada de las <1be0ffbe34ff>ruinas de Robelia<1ce0>.
+Cuando vuelvas de las <1be0ffbe34ff>ruinas de Robelia<1ce0>, no olvides<03e0>venir por aquí para avisarme de que le has entregado<03e0>la carta a su destinatario.<04e0>De lo contrario, no podré darte tu recompensa.
+Lo comprendo...
+¡Me alegro de volver a verte!<03e0>Menos mal que estás sano y salvo...<04e0>¿Has podido entregar la carta?
+¡Muchísimas gracias!<03e0>Toma esta pequeña recompensa por tus desvelos.
+Y permíteme que te dé un pequeño consejo...<04e0>En este mundo hay mucha gente que necesita<03e0>que le echen una mano. Si te los encuentras,<03e0>escucha lo que tengan que decirte.
+Nunca olvides que ayudar a los necesitados<03e0>es la mejor forma de ayudarse a uno mismo.<04e0>Ante ti se extiende un camino que templará<03e0>tu carácter y te revelará nuevas experiencias,<03e0>unas buenas y otras malas.<04e0>Conocerás a personas dispuestas a arriesgar<03e0>su vida por ti y a otras que te traicionarán<03e0>a las primeras de cambio.<04e0>Descubrirás verdades eternas, historias olvidadas,<03e0>miedos ocultos, esperanzas que mueven montañas,<03e0>odios ancestrales...<04e0>Pero estos recuerdos te acompañarán siempre<03e0>y te permitirán crecer como persona.<04e0>Sé que los llevarás siempre en el corazón...<03e0>Y sé que, cuando llegue la hora de la verdad,<03e0>te ayudarán a decidir tu propio destino.
+Espero que volvamos a vernos algún día...
+Veo que has vuelto de las <1be0ffbe34ff>ruinas de Robelia<1ce0>.<03e0>Gracias por venir a hablar conmigo.<04e0>¿Estás listo para volver a las ruinas?<06e0000008e0000000000000>Listo para lo que sea.<09e008e0010000000300>La verdad es que no.
+¡Muchas gracias!<03e0>El destinatario debería de estar rondando<03e0>cerca de la entrada... ¡Buena suerte!
+De acuerdo... Vuelve por aquí si cambias de idea.
+

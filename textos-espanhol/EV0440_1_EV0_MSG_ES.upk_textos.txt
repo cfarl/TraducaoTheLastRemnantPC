@@ -1,0 +1,25 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0440_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Mirad!
+¿Quiénes son?
+¿Alguien sabe quién es ése?
+Se hace llamar «el Invasor».
+¿Cómo se atreve a venir con sus tropas?
+¡Debe de ser ese tipo tan grande!
+¡Soy Roeas, heraldo de Su Alteza el Invasor!
+Venimos de la ciudad oriental de Veyriel.<0fe003e00ee0>¡Estamos aquí para reclamar la reliquia<1ae000002a430fe005e001000ee0>que nos corresponde según<0fe003e00ee0>la profecía del Emperador celestial!
+¡Su Alteza traerá prosperidad para todos!<1ae00000dc420fe005e001000ee0>¡La señal de su promesa<0fe003e00ee0>aparecerá pronto ante vosotros!
+¡La reliquia despertará!<0fe003e00ee0>¡El tiempo fluirá una vez más!<1ae000000c430fe005e001000ee0>¡La edad dorada está muy cerca!<0fe003e00ee0>¡Vuestros sueños pronto se harán realidad!
+...
+¡Qué idiotez! ¿Una profecía?<0fe003e00ee0>¡El Emperador jamás les prestaría su apoyo!
+Ignóralos. Que digan lo que quieran.
+Han traído a sus tropas a Elysion...<1ae00000d2420fe005e001000ee0>Tal vez haya algo de verdad en lo que dicen.
+Tal vez hayan coaccionado al Emperador<0fe003e00ee0>para que se ponga de su parte.
+¿Es amigo tuyo?
+¿Qué está pasando?<0fe003e00ee0>¿Qué está haciendo?
+No lo sé.<0fe003e00ee0>Pero... ese tipo no es normal.
+¡Ha desaparecido!
+Tengo que encontrarlo.
+De acuerdo.
+

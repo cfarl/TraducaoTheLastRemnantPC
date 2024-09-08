@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¿Vienes a inscribirte para las pruebas del gremio?<03e0>¿Qué ocurre? ¿Crees que no vas a estar a la altura?<03e0>No temas, novato... ¡Yo te explicaré como va esto!<04e0>Mira, si te parece que una prueba está a tu alcance,<03e0>tú preséntate voluntario... ¡Y si la cosa se pone fea,<03e0>sal corriendo y punto! Es un buen truco, ¿verdad?
+¿No te has enterado? Aquí en Lamberro han abierto<03e0>un nuevo gremio. Parece que están atrayendo<03e0>a los mercenarios más experimentados del lugar.<04e0>Dicen que hay una entrada secreta en algún lugar<03e0>de la Taberna del Ámbar, pero sólo dejan pasar<03e0>a la flor y nata de la ciudad. Yo paso de intentarlo...
+Cada ciudad atrae a distintos tipos de aventureros<03e0>a su gremio.<04e0>Si no encuentras aquí a nadie que te interese,<03e0>prueba a preguntar en otra ciudad.<04e0>En cuanto hayas visitado algún otro gremio,<03e0>ya verás a qué me refiero.
+Has oído hablar de Siebenpur, ¿verdad?<03e0>Es una gigantesca red de cavernas subterráneas.<03e0>Últimamente, los aventureros no hablan de otra cosa.<04e0>Hay quien dice que fue construida por orden<03e0>de uno de los antiguos Emperadores celestiales,<03e0>pero otros piensan que la excavó algún monstruo.<04e0>Nadie lo sabe con seguridad, en parte porque<03e0>casi nadie regresa de allí entero.<04e0>No sé qué confianza tienes en tus habilidades,<03e0>pero prepárate a conciencia si pretendes ir por allí.<03e0>Los monstruos del lugar no son moco de pavo.
+

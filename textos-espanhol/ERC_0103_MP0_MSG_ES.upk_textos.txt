@@ -1,0 +1,32 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0103_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¿Te has perdido?<03e0>Estás en el mercado de Hendler.<03e0>¡Aquí podrás encontrar de todo!<04e0>Las mercancías te parecerán un poco caras,<03e0>pero es porque son de la mejor calidad.<04e0>No como en esas tiendas cutres de la calle Tula.<03e0>Si yo fuera tú, evitaría ir a ese lugar...<04e0>Hoy las calles están abarrotadas de gente<03e0>por culpa de la dichosa reunión del Comité,<03e0>pero normalmente esto está más tranquilo.
+Message 2
+Message 3
+Message 4
+Todo el mundo anda muy desanimado<03e0>por lo ocurrido en Nagapur.<04e0>Si el ejército del Invasor estuviera aún por ahí,<03e0>es probable que Elysion fuera su siguiente objetivo...<04e0>Jopé... Ahora estoy deprimida yo también.<03e0>Ya no me apetece seguir de compras...
+Message 6
+Esta ciudad no tiene otro Señor que el Presidente<03e0>del Consejo, un cargo que cubren por turnos<03e0>los representantes de diferentes naciones.<04e0>Aunque la mayoría de las veces sale elegido<03e0>el que cuenta con más poder e influencia...<04e0>Durante los últimos años, lord Hermeien de Nagapur<03e0>ha ejercido esta labor.<04e0>Ahora corre el rumor de que ha realizado<03e0>experimentos prohibidos con las reliquias<03e0>en la Academia para crear nuevas armas...
+Mensaje 2
+Message 3
+Message 4
+El duque de Ghor asumió el control del Consejo<03e0>tras la muerte del presidente Hermeien, pero dicen<03e0>que la Academia anda de capa caída.<04e0>Al menos han prohibido los experimentos ilegales<03e0>de Hermeien... Parece que ahora solamente hacen<03e0>investigaciones legítimas.
+Message 6
+Muchos tipos importantes pasan por aquí...<04e0>¿Que por qué, preguntas?<04e0>¿Ves esa fila de elegantes edificios de ahí delante?<03e0>Pues son las embajadas de las distintas naciones.<04e0>Ve con cuidado... Si actúas de forma sospechosa,<03e0>son capaces de arrestarte por si las moscas.
+¿Te has fijado? Los peces gordos de las embajadas<03e0>andan bastante exaltados de un tiempo a esta parte.<04e0>¿Que por qué, preguntas?<04e0>¿Es que no te has enterado de lo del fogonazo de luz?<03e0>¡Dicen que algo se ha colado en las Tierras Sagradas!
+Message 3
+Los tenderos andan muy deprimidos.<04e0>¿Que por qué, preguntas?<04e0>Cuando Hermeien era Presidente, las tiendas<03e0>del mercado recibían subvenciones del Consejo,<03e0>pero el duque de Ghor se las ha retirado.<04e0>En fin... Supongo que no era justo que nuestra ciudad<03e0>recibiera un trato especial después de todo.
+¿Estás listo?<06e0000008e0000000000000>¡Para lo que venga!<09e008e0010000000300>Umm, aún no.
+Bien, pues date prisa.<03e0>Avísame cuando estés listo.
+Bien, pues vámonos.<04e0>Procura no hacer ruido.<03e0>Nos toparemos con muchas bestias.
+Ah, eres tú...<04e0>¿Querías algo?
+Dejé ese pueblo rancio y sus tradiciones puritanas<03e0>para venirme a la gran ciudad de Elysion.<04e0>¡Con mis tremendas habilidades, estoy convencido<03e0>de que me haré rico en un periquete trabajando<03e0>como mercenario!
+Dejé ese pueblo rancio y sus tradiciones puritanas<03e0>para venirme a la gran ciudad de Elysion.
+La promesa que hacen una doncella y un caballero<03e0>ante el cáliz sagrado es tan sólida que la defensa<03e0>de mi tierra depende de ella.<04e0>Al menos, eso es lo que creen en mi pueblo...<03e0>¡Vaya panda de ignorantes!<04e0>Un guerrero no puede creer semejante chorrada...<03e0>Eso es lo que es, ¡una chorrada!
+¿Cómo va a ser un pacto entre dos personas<03e0>lo bastante fuerte como para proteger un país?<03e0>¡Menuda bobada!
+Verás... Yo tenía una amiga de la infancia, una chica<03e0>frágil y enfermiza pero con un corazón de oro. Siempre<03e0>estuve cuidando de ella, desde que era una cría...<04e0>Cuando nos hicimos mayores, acordamos realizar<03e0>nuestros votos frente al cáliz sagrado para unir<03e0>nuestras vidas como doncella y caballero.<04e0>Pero ya sabes... Uno no es de piedra. Reconozco<03e0>que no he sido el tipo más honorable del mundo,<03e0>pero te aseguro que mis intenciones eran buenas.<04e0>Tal vez me pasase un poco con mis travesuras,<03e0>pero ya conoces el dicho... «Errar es de qsitis,<03e0>perdonar es de sabios», ¿verdad?<04e0>El caso es que los caballeros de la Orden no debían<03e0>de conocerlo, porque jamás logré que me admitiesen<03e0>entre sus filas...<04e0>Lo intenté sin descanso, pero la salud de mi amiga<03e0>empeoraba a cada día que pasaba... Y acabó muriendo<03e0>antes de que pudiera cumplir mi promesa.<04e0>Dejó este mundo muy decepcionada conmigo,<03e0>y todo por culpa de esa estúpida tradición...<03e0>¡Así que hice pedazos el cáliz sagrado!
+Había prometido hacer mis votos con una amiga,<03e0>pero no conseguí que me nombrasen caballero<03e0>y, al final, murió muy decepcionada conmigo...<04e0>Si no hubiera sido por esa estúpida tradición...<03e0>¡Maldita sea!
+En el fondo sé que no es justo echarle la culpa<03e0>de todo a esa tradición, aunque sigo convencido<03e0>de que es una estupidez.<04e0>Sé que fue culpa mía no convertirme en caballero<03e0>antes de que muriera. No quería admitir la verdad,<03e0>así que le eché la culpa a lo primero que pillé.<04e0>Pero es que me resulta tan doloroso pensar<03e0>en cómo la decepcioné...<04e0>Supongo que es hora de plantarle cara a mi pasado<03e0>y comenzar a vivir una vida de la que pueda sentirme<03e0>orgulloso... y ella también.<04e0>Gracias por escucharme, Rush. Ahora veo las cosas<03e0>con más claridad.<04e0>No puedo seguir viviendo en el pasado...<03e0>¡Te debo una, amigo!
+Rush, voy a dejar de vivir en el pasado.<03e0>Voy a empezar una vida de la que ella<03e0>se hubiera sentido orgullosa. ¡Gracias de nuevo!
+

@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Os traigo un mensaje del duque de Ghor.<04e0>Dice que querría hablar con vos en relación<03e0>con la Espada de Leithion.
+El Duque quiere hablar con vos.<03e0>Dirigíos inmediatamente al <1be0ffbe34ff>Castillo de Ghor<1ce0>.
+

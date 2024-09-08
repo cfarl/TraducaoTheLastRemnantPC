@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0400_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Aquí estás... ¿Qué te pasa?<03e0>Estás actuando de una forma un poco rara...
+Tienes el día tonto, ¿eh?<03e0>Se ve que te has levantado con mal pie...<04e0>¡Veo que voy a tener que recordarte quién manda aquí!
+Caray, ya era hora.<04e0>Siento haber tenido que ponerme tan burro...<03e0>Me alegro de volver a verte, colega.
+

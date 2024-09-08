@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) DLD_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Mover personaje [Hacia adelante]: Subir<03e0>Mover personaje [Hacia atrás]: Bajar<03e0>Cancelar: Soltar palanca
+No se puede mover más la palanca.<03e0>Parece que no puedes continuar.
+Mover personaje [Hacia adelante]: Subir<03e0>Mover personaje [Hacia atrás]: Bajar
+Los monstruos bloquean el acceso a los mandos.
+

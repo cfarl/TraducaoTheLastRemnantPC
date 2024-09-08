@@ -1,0 +1,78 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Saludos, viajero! Estás en el «recibidor» de Balterossa,<03e0>el Refugio de los Comerciantes.<04e0>Los mercaderes se detienen aquí para descansar<03e0>de sus largos viajes o para charlar de negocios<03e0>con otros colegas. ¡Tú siéntete como en casa!
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+¡Alto ahí, viajero! Estás en el «recibidor» de Balterossa,<03e0>el Refugio de los Comerciantes.<04e0>Últimamente hay menos bullicio por aquí.<03e0>Lady Bertrude sufre una extraña enfermedad<03e0>y eso es lo único de lo que habla todo el mundo...
+[[Mensaje de nivel 5]]
+[[Mensaje de nivel 6]]
+El Refugio de los Comerciantes anda de capa caída...<03e004e0>Todo empezó a ir cuesta abajo y sin frenos<03e0>cuando el ejército del Invasor apareció por aquí<03e0>y se llevó nuestra reliquia, el Tao Tie.
+[[Mensaje de nivel 5]] (tras el robo de la reliquia)
+[[Mensaje de nivel 6]] (tras el robo de la reliquia)
+Lady Bertrude de Balterossa estuvo casada,<03e0>pero el Duque falleció hace mucho tiempo<03e0>tras sufrir un accidente en pleno desierto.<04e0>Desde entonces, lady Bertrude ha gobernado<03e0>Balterossa ella sola.<04e0>El amor que siente por su hija, lady Charlotte,<03e0>no tiene parangón. Quizás sea porque es lo único<03e0>que le queda del Duque...
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+Lady Bertrude ha caído terriblemente enferma.<03e0>Los mercaderes de la ciudad han viajado<03e0>por todo el mundo en busca de una cura...<04e0>Pero todo ha sido en vano.<03e0>Su estado empeora por momentos...<04e0>¿Qué extraña enfermedad padecerá lady Bertrude?
+[[Mensaje de nivel 5]]
+[[Mensaje de nivel 6]]
+Hace apenas medio año, un enorme grupo de bestias<03e0>nos atacó por sorpresa.<04e0>El ejército y los Halcones Argénteos emplearon<03e0>todos sus medios en la defensa de Balterossa.<04e0>Pero en medio de tanta confusión,<03e0>apareció el Invasor y nos arrebató el Tao Tie<03e0>usando una tablilla misteriosa.<04e0>Estábamos rodeados por sus huestes, de modo que<03e0>no pudimos hacer nada para impedirlo.
+[[Mensaje de nivel 5]] (tras el robo de la reliquia)
+[[Mensaje de nivel 6]] (tras el robo de la reliquia)
+Jolines... ¡El Tao Tie es lo más fuerte del mundo!<04e0>Puede meter la cola superprofundo...<03e0>¡Y sacar agua de muy, muy abajo!<04e0>Cuando sea mayor, ¡quiero ser el Tao Tie!
+[[Mensaje de nivel 2]]
+El otro día oí a papá hablar con un señor<03e0>que parecía muy rico...<04e0>Dijo que la señora lady Bertrude estaba muy malita.<03e0>¡Y que era por culpa del Tao Tie!<04e0>¡Menuda trola! El Tao Tie siempre nos ha cuidado.<03e0>¡Nunca haría nada malo!
+[[Mensaje de nivel 4]]
+Vinieron unos señores con capuchas negras...<03e0>Daban mucho miedo y mamá me hizo entrar en casa.<03e0>Pero yo miré por la ventana...<04e0>Uno de ellos iba de rojo, ¿sabes? Y, y...<03e0>tocó el Tao Tie y... y desapareció...<03e0>De repente, no estaba... Jo...<04e0>¿¡Qué!? ¡Pues claro que no lloré, borrico!
+[[Mensaje de nivel 4]] (tras el robo de la reliquia)
+Hey, hola. ¿Has visto alguna vez a lady Charlotte,<03e0>la hija de la Duquesa?<04e0>Es la chica más guapa de toda Balterossa...<03e0>Cada vez que la veo, no puedo dejar de...<03e0>Je, je... Ya me entiendes.<04e0>Lo malo es que he oído que ya tiene novio.<03e0>¿Quién será el que le ha robado el corazón?<03e0>¿¡Y por qué no seré yo!?
+[[Mensaje de nivel 2]]
+Dicen que, desde que la Duquesa cayó enferma,<03e0>la dulce y generosa lady Charlotte no se ha apartado<03e0>ni un momento de su lado.<04e0>¡Qué suerte tienen algunas! Ya me gustaría a mí<03e0>que Charlotte estuviera cuidándome junto a mi lecho...<04e0>Es una criatura de una exquisitez sublime,<03e0>con una figura tan delicada como esbelta.<03e0>Pero últimamente ha perdido algo de peso...<04e0>¡Como siga así, lady Charlotte también caerá enferma<03e0>y yo no estaré ahí para ayudarla! ¡Qué tragedia!<04e0>Daría lo que fuera por estar a su lado y consolarla,<03e0>pero no creo que me dejasen entrar en el castillo...<03e0>¡Rayos!
+[[Mensaje de nivel 4]]
+Esos idiotas del ejército del Invasor vinieron<03e0>y se llevaron el Tao Tie.<04e0>Desde entonces, la Duquesa no sale del castillo,<03e0>incapaz de soportar la pena... Y lo que es peor,<03e0>¡lady Charlotte tampoco!<04e0>Oh, amor mío... Si estuviera a tu lado, desterraría<03e0>tus temores y aliviaría tus penas con mi...<04e0>¡Espera! ¡Ya lo tengo! ¡Buscaré una nueva reliquia<03e0>para Balterossa y así podré disfrutar de nuevo<03e0>de la adorable lady Charlotte!<04e0>Aunque, ahora que lo pienso, no tengo ni idea<03e0>de por dónde empezar a buscar. ¡Rayos!
+[[Mensaje de nivel 4]] (tras el robo de la reliquia)
+¡Vaya, abuela! ¿Cómo tú por aquí?
+¿«Abuela»? ¿CÓMO TE ATREVES?<03e0>¿Y quién demonios eres, si se puede saber?
+Uy... Perdona. Te he confundido con otra persona.
+¡No deberías tomarte esas confianzas<03e0>con gente a la que ni siquiera conoces!
+Lo... ¡Lo siento!
+En fin... Lo dejaré estar por esta vez.<03e0>Pero que no vuelva a repetirse, ¿me oyes?
+Llamar «abuela» a una dama como yo es una falta<03e0>de consideración. ¡Además, no soy tan mayor, caray!
+Vaya... Otra vez tú.
+Esto...
+No pareces contento de verme.
+Ejem... Yo... No, no, no es eso.<03e0>En fin, esto... Joven damisela, ¿qué te trae por aquí?
+Me entreno. En mi familia tenemos la costumbre<03e0>de viajar y recorrer el mundo para conmemorar<03e0>nuestro paso a la edad adulta.
+Caray, no debe de ser fácil...<03e0>Pues... Estooo... Cuídate, ¿de acuerdo?
+Gracias.
+Parece que al menos tus modales han mejorado<03e0>desde la última vez que nos encontramos.
+Tienes buen aspecto.
+Hola, señorita... ejem... joven damisela...
+Anda, haz el favor de no llamarme así.<03e0>Suena ridículo.
+Bueno... Pero es que no sé cómo te llamas.
+¿Lo dices en serio?
+* Tenso silencio *
+Me llamo Emmy.
+Me alegro de conocerte al fin. Yo soy...
+No hace falta que me lo digas.<03e0>Te llamas Rush Sykes, ¿verdad?
+Co... ¿Cómo lo sabes?
+Tengo mis recursos.
+En fin, Rush... Cuídate, ¿de acuerdo?
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+¡Gloria a los Halcones!<03e0>Vaya... Hola, Rush. ¿A qué viene esa cara?<03e0>¿No estás acostumbrado a que te hablen los sovanis?
+¿Que quiénes somos los Halcones Argénteos?<03e0>Podría decirse que somos un grupo de caballeros<03e0>dispuestos a luchar por lo que creemos.<04e0>No te preocupes si no sabes exactamente<03e0>a qué me refiero...<04e0>La organización tiene muchos miembros, pero yo<03e0>soy el único que está aquí. Los agentes ejecutan<03e0>sus propias misiones por todo el continente.<04e0>Mi tarea como comandante consiste en enviar<03e0>instrucciones a los agentes de cada región.<03e0>Ellos se encargan del resto.<04e0>No siempre resulta sencillo coordinar operaciones<03e0>a gran escala, pero no hay de qué preocuparse:<03e0>si es necesario, podemos reunir un gran ejército.<04e0>Ah, una cosa más...<03e0>Si los Halcones tuviésemos que entrar en acción,<03e0>¿estarías dispuesto a prestarnos tu ayuda?<04e0>Obviamente, siempre puedes negarte si la misión<03e0>estuviera en contra de tus principios.<03e0>Piénsatelo, ¿de acuerdo?
+Si los Halcones tuviésemos que entrar en acción,<03e0>¿estarías dispuesto a prestarnos tu ayuda?<03e0>Piénsatelo, ¿de acuerdo?
+¿Qué cómo nacieron los Halcones Argénteos?<03e0>Bueno... El fundador fue un mitra, pero aquello<03e0>ocurrió hace décadas.<04e0>Por aquel entonces, yo solía salir a pasear<03e0>por las montañas que rodean la ciudad para ver<03e0>el Tao Tie.<04e0>Ya sabrás que los sovanis somos seres orgullosos.<03e0>Yo era una persona muy reservada, al igual que<03e0>la mayoría de mis congéneres.<04e0>El caso es que un mercenario de aspecto descuidado<03e0>solía vagar por aquella zona. Cada vez que me veía,<03e0>me saludaba.<04e0>Como te puedes imaginar, a mí aquello me parecía<03e0>una impertinencia. Nunca entendí por qué se tomaba<03e0>semejantes confianzas.<04e0>Sin embargo, poco después, un grupo de monstruos<03e0>atacó Balterossa... justo cuando nuestro ejército<03e0>estaba de campaña en tierras lejanas.<04e0>Cuando todo parecía perdido, aquel mercenario reunió<03e0>a los guerreros del pueblo y encabezó un ataque<03e0>contra los monstruos. Gracias a él, la ciudad se salvó.<04e0>Yo era incapaz de comprender a aquel tipo.<03e0>¿Por qué arriesgar la vida por unos desconocidos?<03e0>¿Qué era lo que pretendía conseguir a cambio?<04e0>Aquel hombre me resultaba tan intrigante que decidí<03e0>unirme a él. Con el tiempo, aquel tipo se convirtió<03e0>en el primer líder de los Halcones Argénteos...<04e0>En fin... Es una larga historia. Ya te seguiré contando.<03e0>Por ahora, es más que suficiente.
+Si los Halcones tuviésemos que entrar en acción,<03e0>te agradecería mucho que nos prestases tu ayuda.
+Los hombres bestia son tan tenaces que los duques<03e0>son incapaces de detenerlos sin ayuda.<03e0>Por eso el mundo necesita a los Halcones Argénteos.<04e0>¿Qué? ¿Cómo dices? Ah, cierto, me había quedado<03e0>a mitad de la historia, ¿verdad?<04e0>Bueno, aquel mercenario que salvó la ciudad,<03e0>el fundador de los Halcones Argénteos...<03e0>Me tenía muy intrigado, así que decidí seguirle.<04e0>Al principio sólo quería averiguar qué se le pasaba<03e0>por la cabeza... pero, cuanto más tiempo pasaba<03e0>con él, más me convencían sus ideales...<04e0>Proteger a quienes no pueden protegerse a sí mismos,<03e0>con la ayuda de una espada tan firme y segura<03e0>como las alas del más noble de los halcones.<04e0>Acabé desarrollando un gran respeto hacia mi mentor,<03e0>y sentía una gran curiosidad por conocer su opinión<03e0>sobre todo tipo de temas.<04e0>Pero la vida de un mitra es muy corta, sobre todo<03e0>comparada con la de un sovani. Sabía que su vida<03e0>llegaría a su fin y traté de prepararme para ello...<04e0>Pero su hora llegó antes de lo que me había imaginado.<03e0>Una noche de luna llena, los hombres bestia lanzaron<03e0>un ataque por sorpresa contra una aldea.<04e0>Mi mentor trató de desviar su atención<03e0>atrayéndolos hacia un acantilado. <03e0>Allí les plantó cara... y perdió la vida.<04e0>Murió igual que había vivido...<03e0>Defendiendo a los demás.<04e0>* Silencio *<04e0>Creo que he hablado demasiado, ¿no crees?<04e0>Eres una persona muy extraña...<03e0>Discúlpame, pero te agradecería que me dejases<03e0>un momento a solas...
+Discúlpame, pero te agradecería que me dejases<03e0>un momento a solas...
+Por algún motivo, cada vez que lucho a tu lado<03e0>me acuerdo de la época en la que el fundador y yo<03e0>combatíamos codo con codo.<04e0>Él me enseñó la importancia de proteger al indefenso.<03e0>Por eso, cuando me llegó la hora de asumir el puesto<03e0>de comandante, no dudé ni un momento en aceptar.<04e0>Escucha, Rush... Vivimos en tiempos difíciles.<03e0>Últimamente, cualquier cosa puede hacer que estalle<03e0>una guerra: el poder, las tierras, las reliquias...<04e0>Si mi intervención puede salvar vidas, tomaré partido<03e0>sin dudar ni un instante, aunque para ello deba actuar<03e0>al margen de la ley.<04e0>* Silencio reflexivo *<04e0>La verdad es que, ahora que lo pienso...<03e0>Te pareces mucho a mi mentor, Rush. Supongo que<03e0>por eso paso tanto tiempo charlando contigo.<04e0>Me gustaría saber a dónde te llevarán tus principios.<03e0>Si ese lugar resulta ser las filas de los Halcones,<03e0>siempre serás bienvenido entre nosotros.
+Rush, ¿te gustaría unirte a los Halcones Argénteos?<03e0>Siempre serás bienvenido entre nosotros.
+

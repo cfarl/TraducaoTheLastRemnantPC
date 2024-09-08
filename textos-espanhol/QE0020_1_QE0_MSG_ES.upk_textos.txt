@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0020_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Mi esposa se fue hace siglos. Me temo<03e0>que se ha ido otra vez a ver el Liafort...<03e0>¿Por qué me hace esto?
+Joven, ¿puedo pediros un favor? Mi esposa<03e0>ha vuelto a extraviarse en el <1be0ffbe34ff>Cerro de la Plata<1ce0>.<03e0>Si la traéis de vuelta, prometo recompensaros.<06e0000008e0000000000000>Vale, ¿por qué no?<09e008e0010000000300>Menudo rollo... Paso.
+Gracias, joven. Adelante y buena suerte.
+Esta juventud...
+Joven, permitidme que os insista. Mi esposa<03e0>ha vuelto a extraviarse en el <1be0ffbe34ff>Cerro de la Plata<1ce0>.<03e0>Por favor, traedla de vuelta y os recompensaré.<06e0000008e0000000000000>Vale, ¿por qué no?<09e008e0010000000300>Menudo rollo... Paso.
+Gracias, joven. Adelante, y buena suerte.
+Estos jóvenes de ahora...
+¿Y bien? Veo que aún no la habéis encontrado.<06e0000008e0000000000000>Iba a buscarla ahora mismo.<09e008e0010000000300>Tranquilízate, hombre.
+Entonces, ¿qué hacéis aquí perdiendo el tiempo?<03e0>¡Poneos en marcha, deprisa!
+¡Qué muchacho más impertinente!<03e0>¡Fuera de mi vista!
+Violet ha regresado a mi lado. ¡Muchas gracias!<03e0>Lo malo es que, desde que volvió, se pasa el día<03e0>encerrada en su habitación.<04e0>Comprendo que quiera devolverle a su familia<03e0>su esplendor de antaño, pero tarde o temprano<03e0>deberá aceptar que toda gloria es pasajera...<04e0>En fin, basta de cháchara. Lo prometido es deuda.<03e0>Aquí tenéis vuestra recompensa.
+Hasta la próxima...
+

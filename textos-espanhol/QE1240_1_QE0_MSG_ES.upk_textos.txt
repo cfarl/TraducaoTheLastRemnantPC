@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1240_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Nos han informado de que las tropas del Invasor<03e0>andan merodeando cerca de <1be0ffbe34ff>Undelwalt<1ce0>.<04e0>No sé cuáles serán sus intenciones, pero no podemos<03e0>quedarnos de brazos cruzados. Supongo que en esto<03e0>estarás de acuerdo conmigo.<04e0>Los Halcones Argénteos vamos a plantarle cara<03e0>al ejército del Invasor en el <1be0ffbe34ff>paso de Harphlus<1ce0>.<03e0>¿Quieres ayudarnos a deshacernos de ellos?<06e0000008e0000000000000>¡Contad conmigo!<09e008e0010000000000>Dejémoslo estar...
+Estoy a punto de partir hacia el <1be0ffbe34ff>paso de Harphlus<1ce0>.<03e0>¿Estás preparado?<06e0000008e0000000000000>¡Sí!<09e008e0010000000300>Un segundo...
+¡Gloria a los Halcones!
+Si tienes cosas que hacer, déjalo estar.<03e0>Es posible que la situación se arregle sola<03e0>si los dejamos tranquilos.
+Los soldados del Invasor son los responsables<03e0>del caos que asola el mundo. Y, al contrario<03e0>que los jhanas, son inteligentes de verdad.
+Los Halcones han vuelto a alzarse con la victoria,<03e0>y en buena parte te lo debemos a ti.<04e0>Acepta esta pequeña recompensa.
+Espero que no tendamos que volver a pedirte ayuda.<03e0>Si te digo la verdad, me resulta un poco extraño<03e0>estar en deuda contigo hasta este punto...
+Los Halcones Argénteos luchamos por la justicia<03e0>allá donde nos encontremos, con el consentimiento<03e0>de las autoridades o sin él.<03e0>Nuestras acciones nos han ganado la enemistad<03e0>de muchos Lores, pero al fin y al cabo su admiración<03e0>no nos reporta beneficio alguno.<04e0>Tu ayuda, en cambio, nos ha resultado inestimable.<03e0>Estamos en deuda contigo, Rush: si nos necesitas,<03e0>combatiremos a tu lado siempre que nos lo pidas.<04e0>Ahora debo partir. Si necesitas nuestra ayuda,<03e0>nos encontrarás en el gremio, frente a la cámara<03e0>de la Asamblea de Elysion.
+

@@ -1,0 +1,29 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) FIELD_COMMON_MSG
+-- ----------------------------------------------------------------------------------
+Un mensaje de prueba general.<03e0>Prueba.
+Ha perdido fuerza.
+Esto es un mensaje de prueba.<03e0>¿Puedes leerlo? ¿Está dentro del límite<03e0>de píxeles? Ahora, lo verás desaparecer...
+Es una cuesta muy empinada.<03e0>¿Seguro que quieres seguir?<06e0000008e0000000000000>¡No lo dudes!<09e008e0010000000300>Pues creo que no...
+La cuesta es demasiado empinada<03e0>y está resbaladiza.
+Esta puerta está cerrada a cal y canto<03e0>con el poder de una reliquia.
+Esta puerta está cerrada a cal y canto con el poder<03e0>de una reliquia. ¿Quieres utilizar la reliquia-llave?<06e0000008e0000000000000>Adelante.<09e008e0010000000300>No creo que funcione.
+La puerta se ha abierto.
+Esta puerta está cerrada a cal y canto<03e0>con el poder de una reliquia. Necesitas<03e0>la reliquia-llave correspondiente.
+Esta puerta está cerrada a cal y canto con el poder<03e0>de una reliquia. ¿Quieres utilizar la reliquia-llave?<06e0000008e0000000000000>Cuando quieras.<09e008e0010000000300>Espera un minuto.
+¿Quieres ir al Mapa del mundo?<06e0000008e0010000000000>¡Claro, vamos!<09e008e0000000000300>No hace falta.
+¿Quieres usar el Teletransportador?<06e0000008e0010000000000>Intentémoslo.<09e008e0000000000300>Creo que no...
+El Teletransportador no se puede activar ni vincular<03e0>hasta que no se cumplan todos los requisitos.
+¡Atención!<1ce003e0>Un extraño líquido invade<03e0>este lugar.
+¡Atención!<1ce003e0>Se oye resonar un sonido muy fuerte.
+¡Atención!<1ce003e0>Rush está cubierto de un extraño líquido.<03e0>El hedor repele hasta a los monstruos.
+¡Atención!<1ce003e0>Rush está cubierto de un líquido cuyo aroma<03e0>parece embrujar a los monstruos.
+¡Atención!<1ce003e0>Rush está cubierto de un líquido cuyo aroma<03e0>parece enfurecer a los monstruos.
+¡Atención!<1ce003e0>El Sr. Garras está cubierto de un extraño<03e0>líquido y pierde 1 punto de poderío garral.
+¡Atención!<1ce003e0>El Sr. Garras está cubierto de un extraño<03e0>líquido y recobra todo su poderío garral.
+¡Atención!<1ce003e0>Se oye resonar un sonido muy fuerte<03e0>que enfurece a los monstruos cercanos.
+¡Atención!<1ce003e0>El monstruo lanza un ataque especial.<03e0>Rush no puede correr.
+¡Atención!<1ce003e0>El monstruo lanza un ataque especial.<03e0>Rush no puede moverse del sitio.
+¡Atención!<1ce003e0>El monstruo lanza un ataque especial.<03e0>Rush no puede hacer nada.
+¡Atención!<1ce003e0>El monstruo lanza un ataque especial.<03e0>Rush está paralizado.
+

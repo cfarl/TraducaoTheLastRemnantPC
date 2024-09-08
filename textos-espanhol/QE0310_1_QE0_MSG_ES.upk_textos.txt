@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0310_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hey, Rush! ¿Tú también andas sediento<03e0>de emociones fuertes?<04e0>¡Pues tengo una idea!<03e0>¿Te gustaría participar en un torneo?
+«¡Guerreros, acudid a las Murallas del Heroísmo<03e0>y luchad por el privilegio de pasar a la historia!»<03e0>¿No te emocionas sólo de pensarlo?<04e0>¡Vamos, Rush, no intentes esconderte!<03e0>Además, se trata de un torneo muy prestigioso...<03e0>¡Conozco a gente que mataría por participar en él!
+Hace mucho tiempo, cerca de estas murallas<03e0>vivía un bicho con muy malas pulgas. ¡Era capaz<03e0>de comerse crudo a cualquiera que se le acercara!<04e0>Al final, los guerreros más valerosos de la región<03e0>se hartaron de la situación y unieron sus fuerzas<03e0>para acabar con él.<04e0>Fue una batalla terrorífica, pero entre todos<03e0>consiguieron darle muerte...<04e0>Desde entonces, cada año se celebra un torneo<03e0>en las <1be0ffbe34ff>Murallas del Heroísmo<1ce0> para los luchadores<03e0>que quieran demostrar su valía.<04e0>Básicamente, se trata de una batalla a muerte<03e0>contra los monstruos que habitan la región.<04e0>¡Y al final, los guerreros que derroten al monstruo<03e0>más gordo son proclamados «Héroes de leyenda»!
+¡Sólo de recordar esta historia, me muero<03e0>de ganas de participar!
+¡Venga, Rush!<03e0>¡Vamos a apuntarnos al torneo y a barrer con todo!<03e0>¡Hay que dejar bien alto el pabellón de Athlum!<06e0000008e0000000000000>¡Eso está hecho! ¡Vamos allá!<09e008e0010000000300>Es que me viene regular...
+¡Ya sabía yo que no me dejarías tirado!<03e0>Venga, ¡vamos a las <1be0ffbe34ff>Murallas del Heroísmo<1ce0>!<03e0>¡Volveremos a Athlum con el trofeo a cuestas!
+No estarás asustado, ¿verdad?<03e0>Bueno, venga, te esperaré... ¡Pero más te vale<03e0>estar en plena forma cuando vuelvas!
+¡Rush! ¿Estás listo para pelear de una vez?<03e0>¡Vamos a mostrarle al mundo el poder de Athlum!<06e0000008e0000000000000>¡Eso! ¡A por ellos!<09e008e0010000000300>Lo siento, odio la violencia.
+¡Estupendo! Ya pueden ir grabando nuestros nombres<03e0>en el trofeo... ¡porque no cabe duda de que seremos<03e0>los próximos Héroes de leyenda!<04e0>Venga... ¡Vamos a las <1be0ffbe34ff>Murallas del Heroísmo<1ce0>!
+Chaval, te me estás volviendo un blandengue.<03e0>Pero no pasa nada, te esperaré. Ven a verme<03e0>cuando te vuelvan a crecer las agallas.
+¡Hey, Rush!<03e0>¿Qué, estás listo para el próximo combate?<06e0000008e0000000000000>Siempre estoy listo.<09e008e0010000000300>Esto... Dame un minuto.
+¡Estupendo! ¡Pues vamos a las <1be0ffbe34ff>Murallas del Heroísmo<1ce0>!
+Bueno, vale. Avísame cuando puedas, ¿vale?
+¡Por las aletas de mi padre, Rush! ¡Lo logramos!<03e0>¡Somos los nuevos Héroes de leyenda!<04e0>¡Ahora Athlum pasará a la historia como la patria<03e0>de los guerreros más valientes del mundo!<04e0>¡Hurra! ¡Verás cuando se entere nuestro Señor!
+Ah, por cierto, aquí tienes tu parte del premio.<03e0>Nos lo repartimos como buenos amigos, ¿vale?
+Muy bien... ¡Por Athlum y por lord David!<03e0>¡Vamos a ocuparnos de este asunto de una vez!
+Vaya, vaya... Así que a Athlum le ha llegado el turno<03e0>de convertirse en la morada de los héroes...<04e0>Nos estamos volviendo toda una potencia mundial,<03e0>¿no os parece?
+Pero bueno, nada me hace tan feliz como ver<03e0>contentos a mis amigos... Te doy las gracias, Rush.
+

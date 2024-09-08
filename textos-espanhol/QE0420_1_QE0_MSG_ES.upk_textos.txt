@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0420_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La tablilla de Marshall está reaccionando con el Liafort.<03e0>¿Quieres usar la tablilla?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>¡No! ¿Quién sabe qué pasará?
+Así que esto es lo que viene a ver Violet...<06e0000008e0000000000000>Vamos a llevárselo.<09e008e0010000000300>Dejémoslo estar.
+

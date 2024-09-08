@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) YFD_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Espera... Mira esto.
+¡Escúchame cuando te hablo!<03e0>Tienes que ver esto...
+¿Qué es eso?
+Es un cofre del tesoro, un tipo de reliquia.<03e0>A veces uno se los encuentra en los lugares<03e0>más insospechados.
+Entonces... ¿Dices que es una reliquia?
+Exacto. Tal vez haya algo interesante dentro...<03e0>Prueba a vincularlo para averiguarlo.
+¿Que pruebe a hacer qué?
+Para usar una reliquia, primero debes «vincularla».<03e0>En este caso, no tienes más que tocarla y pedirle<03e0>que te muestre su interior.<04e0>Es tan sencillo que cualquiera podría hacerlo...<03e0>Siempre que nadie la haya vinculado antes, claro.
+Así que has encontrado una espada, ¿no?<03e0>Quédatela. Tal vez con ella seas menos inútil.
+Silencio.
+Antes estabais luchando contra esos... bichos, ¿no?
+Sí. Últimamente los monstruos andan más agitados<03e0>de lo habitual...<04e0>Me temo que está bloqueando la salida.<03e0>Vamos a tener que derrotarlo en combate...<03e0>Será mejor atacarlo antes de que nos vea.
+¿A qué estás esperando?<03e0>Mueve el culo e inicia el combate.
+¡Estás demasiado cerca! ¡Te va a ver!
+Maldición, nos ha visto...<03e0>¿Es que no me has oído? ¡Inicia el combate!
+Maldita sea... ¡Está demasiado cerca!
+

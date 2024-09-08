@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0350_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Vaya, Rush!<03e0>Qué sorpresa encontrarte por aquí...<04e0>¿Sabes? Antes había una enorme reliquia<03e0>en forma de espada aquí, en la Plaza Mayor.<04e0>Se llamaba Corazón Valeroso, pero desapareció<03e0>sin dejar rastro hace unos seis meses.<03e0>¿Qué le ocurriría?<04e0>Rush... ¿por qué crees que existen las reliquias?<03e0>¿Para servir al mundo? ¿Para servirnos a nosotros?<03e0>¿O será otro el propósito de su existencia...?
+

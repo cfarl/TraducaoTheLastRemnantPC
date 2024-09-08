@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0450_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Disculpadme...
+Debéis de ser el marqués de Athlum.<0fe003e00ee0>Los demás asistentes ya han llegado.<1ae00000fc420fe005e001000ee0>Permitidme que os conduzca<0fe003e00ee0>a la cámara de la asamblea.
+Debo presentarme ante el Consejo.<0fe003e00ee0>Por favor, quedaos con él.
+

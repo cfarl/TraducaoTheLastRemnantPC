@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ETV_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+¡Hola, chico!<03e0>Ibas hacia Vackel, ¿verdad?<04e0>Pues me temo que no podrás seguir...<03e0>El camino está cortado más adelante.<03e0>¡Yo ni siquiera puedo volver a mi casa!<04e0>Será mejor que des media vuelta si no quieres<03e0>quedarte aquí atascado, como yo...
+El camino está cortado, muchacho. Es mejor<03e0>que te des la vuelta... ¡Yo lo haría si pudiera!
+Yo de ti daría la vuelta ahora mismo.<03e0>¡Hay un monstruo tremendo ahí delante!<04e0>Mientras siga ahí, no podré irme a casa...<06e0000008e0000000000000>¡Nos ocuparemos de ello!<09e008e0010000000300>Mala suerte.
+¿Lo dices en serio?<03e0>¡Me harías muy feliz!
+Quiero irme a casa...<03e0>¿No podrías ayudar a un viejo en apuros?
+

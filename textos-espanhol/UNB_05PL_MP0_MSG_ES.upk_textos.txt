@@ -1,0 +1,238 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Bienvenido al Redoble Bendito!
+¡Bienvenido al Redoble Bendito!<04e0>Así que quieres que el Emperador celestial<03e0>te conceda una audiencia, ¿eh?<04e0>Sólo las personas más importantes del mundo<03e0>pueden aspirar a hablar con Su Excelencia.<03e0>Mucho me temo que te va a ser imposible...
+Vaya, pero si eres tú...¡Cuánto tiempo, muchacho!<04e0>Gracias a ti, el monstruo que había en la cumbre<03e0>del monte Vackel se ha marchado, así que al fin<03e0>he podido volver a mi casa sano y salvo.<04e0>Parece mentira que un muchachito como tú<03e0>haya despachado a semejante fiera...<03e0>¡Ahora sí que te has ganado mi respeto!
+¡No puedo creer que vencieras a semejante bicho!<03e0>¡Eres un verdadero héroe!
+Undelwalt fue la ciudad más próspera del mundo entero<03e0>hasta que la figura del Emperador celestial se convirtió<03e0>en un cargo meramente simbólico.<04e0>Me da lástima pensarlo...
+El Redoble Bendito ha existido desde los tiempos<03e0>del primer Emperador celestial.<03e0>Es un lugar con mucha historia...<04e0>Antes solía venir una clientela muy refinada,<03e0>pero de un tiempo a esta parte...<03e0>Qué te voy a decir. ¡Mira a tu alrededor!
+Antes, el Harmonio reflejaba la luz del sol<03e0>y emitía unos destellos espectaculares...<03e0>Era una vista impresionante.<04e0>Sin embargo, últimamente está cubierto<03e0>por una pátina verdosa. Podría ser porque<03e0>el vínculo que lo controla se está debilitando...
+Ciudad imperial... ¡Bah!<03e0>Muy espectacular, no te digo que no...<03e0>Pero en el fondo no sirve para nada.<04e0>Igual que el propio Emperador celestial, por otro lado.
+Hoy no ha pasado nada digno de mención.
+¿Acaso un día tan tranquilo como éste no es algo<03e0>digno de mención en estos tiempos que corren?
+Parece que la mujer del barón Nielsen de Celapalais<03e0>ha vuelto a marcharse. No me extraña... ¡Si siempre<03e0>andan como el perro y el gato!
+En toda la ciudad no se habla de otra cosa.
+¡Puede que venga por aquí a charlar!
+Pues sí.
+Dicen que alguien planea asesinar al duque de Qubine.<03e0>He oído que han visto a una mujer sospechosa<03e0>merodeando por los alrededores del palacio...
+En toda la ciudad no se habla de otra cosa.
+El caso se ha resuelto.<03e0>¡Al final era la mujer sospechosa!
+Pues sí.
+Parece que no sé qué princesa del desierto<03e0>anda escapándose del castillo cada dos por tres<03e0>para ver a su enamorado. Ojalá no se meta en un lío.
+En toda la ciudad no se habla de otra cosa.
+Ya está metida en líos.<03e0>El mayor lío en el que puede meterse una mujer<03e0>es el amor.
+Pues sí.
+¡La princesa del desierto se ha fugado con su amado!
+En toda la ciudad no se habla de otra cosa.
+¡Qué bien, me alegro un montón!<03e0>Me encantaría fugarme con mi ser amado algún día...
+Pues sí.
+El conflicto entre Balterossa y Royotia<03e0>se pone peor cada día que pasa.<03e0>Todo el mundo cree que la guerra es inevitable.
+En toda la ciudad no se habla de otra cosa.
+¡Qué horror!<03e0>Espero que esto no afecte a las rutas<03e0>comerciales. ¡Sería el fin de mi negocio!
+Es cierto.
+Se rumorea que el primer Emperador celestial<03e0>halló un portal a otra dimensión en unas marismas<03e0>y logró cerrarlo gracias a sus poderes.
+En toda la ciudad no se habla de otra cosa.
+A mí no me gustan las marismas, pero la que hay<03e0>cerca de Melphina me parece muy hermosa.<03e0>No hay palabras para describir su belleza...
+Pues sí.
+Parece que, al unirse en juramento a un caballero<03e0>de Melphina, las doncellas del bosque obtienen<03e0>la facultad de ver y oír lo que haga su compañero.
+En toda la ciudad no se habla de otra cosa.
+Una doncella y un caballero... ¡Qué romántico!
+Pues sí.
+Parece que algo le ha ocurrido a la Hoja Caída<03e0>de Marismarchita. Las doncellas del bosque<03e0>y los caballeros de Melphina ya están investigando.
+En toda la ciudad no se habla de otra cosa.
+Hagan lo que hagan, espero que no dañen<03e0>la belleza del paisaje.
+Ciertamente...
+La Gala Cósmica está a punto de comenzar,<03e0>pero la ninfa todavía no se ha presentado.<03e0>Esperemos que llegue sana y salva...
+En toda la ciudad no se habla de otra cosa.
+Me encantaría asistir a este festival.<03e0>Quizás si salgo ahora, lo aplacen<03e0>hasta que llegue...
+Sí, claro...
+Al final, la ninfa llegó a tiempo y la Gala Cósmica<03e0>comenzó con normalidad... Lástima que los monstruos<03e0>se cargasen la celebración, como de costumbre.
+En toda la ciudad no se habla de otra cosa.
+¿Y por qué habrían de hacer eso los monstruos?<03e0>¿Quién intentaría arruinar una velada tan maravillosa?
+Bueno...
+Dicen que una mujer chapada a la antigua<03e0>anda buscando un guardaespaldas.<03e0>Está en la taberna de la ciudad de los canales.
+En toda la ciudad no se habla de otra cosa.
+Una mujer sola en una taberna...<03e0>Puede que simplemente padezca mal de amores.
+Seguro.
+Los tesoros que ofrecieron las distintas naciones<03e0>a la ciudad sagrada han caído en manos de traficantes<03e0>que los venden en el mercado negro.
+En toda la ciudad no se habla de otra cosa.
+¿El mercado negro?<03e0>Si me los hubieran ofrecido a mí, les hubiera hecho<03e0>una oferta mucho mejor...
+Pues sí.
+Hay un tipo que anda buscando tres piedras<03e0>relacionadas con la historia del reino del desierto.
+En toda la ciudad no se habla de otra cosa.
+Me encantaría ver cómo son esas piedras,<03e0>pero me temo que los vientos del desierto<03e0>resecarían mi piel.
+Tienes razón.
+Dicen que un científico está buscando un asistente<03e0>que le ayude a investigar los misterios de la arcamagia.
+En toda la ciudad no se habla de otra cosa.
+Pues no tiene más que ofrecer un buen sueldo.<03e0>Así encontrará a alguien enseguida.
+Está claro.
+Parece que se ha escapado no sé qué monstruo<03e0>al que encerró uno de los Emperadores celestiales...<03e0>Algo me dice que se va a armar una buena...
+En toda la ciudad no se habla de otra cosa.
+¡Eso es terrible!<03e0>Tengo que aprovechar al máximo los últimos días<03e0>de mi vida... ¡Compras! ¡Tengo que ir de compras!
+¡Pues aprovecha!
+Un tipo con amnesia está vagando por el desierto<03e0>en busca de algo que ha perdido...<03e0>Tal vez lo que busca sean sus recuerdos.
+En toda la ciudad no se habla de otra cosa.
+Pues hay veces que yo me olvido<03e0>de cobrar a los clientes.
+Pues vaya...
+Parece que han visto a un famoso bandido<03e0>por los alrededores de Athlum.<03e0>Dicen que está esperando a alguien...
+En toda la ciudad no se habla de otra cosa.
+¡Un bandido!<03e0>Espero que no se pase por aquí...
+Yo también.
+Un chaval anda por las ruinas de Robelia<03e0>buscando una estatua que, según dicen,<03e0>es capaz de reunirle con sus seres queridos.
+En toda la ciudad no se habla de otra cosa.
+Yo no la necesito. Tengo a mi alrededor<03e0>a la gente que más me importa...<03e0>¡Los habitantes de Undelwalt!
+Así se habla.
+Ha habido un asesinato en la gran ciudad...<03e0>¡Y el culpable todavía anda suelto!
+En toda la ciudad no se habla de otra cosa.
+Pues si se le ocurre acercarse<03e0>por mi tienda, ¡se va a enterar!
+¡Toma castaña!
+Un yama enorme está buscando algo que ha perdido.<03e0>Dicen que se comporta de una forma muy extraña...
+En toda la ciudad no se habla de otra cosa.
+La verdad es que lo entiendo...<03e0>¡Yo tardo meses en encontrar las cosas<03e0>que se me pierden en mi propia casa!
+Pues sí.
+Parece que han visto a un qsiti albino curioseando<03e0>no sé qué libros sobre arcamagia. Dicen que se parece<03e0>a alguien, pero vete a saber a quién...
+En toda la ciudad no se habla de otra cosa.
+Yo debería leer libros para aprender a preparar<03e0>un buen té. Si es que siempre se me olvida<03e0>poner las hojas de té...
+Pues sí.
+Parece que dos hermanas gemelas han comenzado<03e0>a trabajar como mercenarias, y todo el mundo<03e0>está maravillado con su habilidad.
+En toda la ciudad no se habla de otra cosa.
+Si yo tuviera una hermana gemela, igual yo también<03e0>me hubiera convertido en mercenaria.
+Pues sí.
+Un tipo está organizando no sé qué juego<03e0>en el Océano de Arena. Me pregunto si encontrará<03e0>a mucha gente dispuesta a participar...
+En toda la ciudad no se habla de otra cosa.
+Si que debe de ser grande el Océano de Arena...<03e0>Aunque nunca pondría un pie allí.<03e0>¡Me sienta fatal el aire reseco del desierto!
+Pues sí.
+Dicen que un anciano guerrero ha atravesado<03e0>todo el Océano de Arena en busca de no sé qué espada.
+En toda la ciudad no se habla de otra cosa.
+¿Cuánto se tardará en cruzar el Océano de Arena?<03e0>Aunque nunca pondría un pie allí.<03e0>¡Me sienta fatal el aire reseco del desierto!
+Pues sí.
+Los guardias del duque de Ghor han jurado<03e0>ser fieles a su Señor hasta el final de sus días.
+En toda la ciudad no se habla de otra cosa.
+Me alegro de que nuestros gobernadores<03e0>sean gente decente.
+Pues sí.
+La familia Honeywell ha dado mucho por su patria.<03e0>Todos los habitantes de Athlum sienten<03e0>una profunda admiración hacia sus miembros.
+En toda la ciudad no se habla de otra cosa.
+¿El clan de los Honeywool?
+Ése mismo.
+Se dice que Torgal, uno de los generales de Athlum,<03e0>es algo susceptible con su pasado.
+En toda la ciudad no se habla de otra cosa.
+¿De qué hablan éstos de Athlum?<03e0>¿De una buena receta, quizás?
+Puede...
+He oído que el Torneo de los héroes<03e0>está a punto de comenzar.
+En toda la ciudad no se habla de otra cosa.
+Eso no va conmigo, gracias.
+Está claro.
+Dicen que la Academia de las Artes Místicas<03e0>es una institución de gran renombre.<03e0>Sus estudiantes suelen llegar lejos.
+En toda la ciudad no se habla de otra cosa.
+No me entero... ¿Qué es exactamente?<03e0>¿Una escuela de carpintería?
+Eso parece.
+Athlum ya ha sufrido lo suyo...<03e0>La gente está rezando para que la joven Honeywell<03e0>esté a la altura de su madre.
+En toda la ciudad no se habla de otra cosa.
+¿Cómo? ¿El clan de los Hineywoof?
+Ése mismo.
+Parece que el marqués de Athlum tiene un montón<03e0>de admiradoras. Nadie se explica que aún no haya<03e0>ninguna mujer en su vida.
+En toda la ciudad no se habla de otra cosa.
+¿Y eso de «Athlum» qué es?<03e0>¡Ah, debe de ser una nueva marca de té!
+Sí, claro...
+Se rumorea que la ex directora de la Academia<03e0>anda de ciudad en ciudad visitando tabernas...<03e0>Nadie sabe qué está tramando.
+En toda la ciudad no se habla de otra cosa.
+Debería venir aquí para que le sirviera una copa.<03e0>Yo escucharía sus problemas y la consolaría...
+Sí, claro...
+Últimamente la doctora Sykes ha estado visitando<03e0>el castillo de Athlum muy a menudo.
+En toda la ciudad no se habla de otra cosa.
+«Athlum»... ¿Será una nueva marca de vino?
+Puede...
+Dicen que hay un monstruo que surca<03e0>los cielos de Fordragón.<03e0>Los habitantes de la región están bastante nerviosos...
+En toda la ciudad no se habla de otra cosa.
+¿¡Un monstruo!?<03e0>¿Y qué pasa si me ataca, eh?
+Claro, claro...
+Una guerrera un tanto apasionada pretende cazar<03e0>a los responsables del incidente de las marismas,<03e0>aunque tenga que desobedecer a su comandante.
+En toda la ciudad no se habla de otra cosa.
+Ojalá yo también fuera una guerrera...<03e0>¡Le enseñaría al mundo entero<03e0>de qué es capaz una mujer!
+Pues sí.
+Hay una panda de monstruos feroces<03e0>rondando por el Océano de Arena.<03e0>Parece que son bastante imponentes...
+En toda la ciudad no se habla de otra cosa.
+¿Que hay monstruos en el desierto?<03e0>Mira, otra buena razón para mantenerme<03e0>lejos de los desiertos.
+Pues sí.
+Según los expertos en historia, en las profundidades<03e0>de cierto volcán se esconde algo capaz de destruir<03e0>ciudades enteras.
+En toda la ciudad no se habla de otra cosa.
+Pues lo mejor será no acercarse al volcán...
+Pues sí.
+Nadie sabe qué peligros se esconden en el interior<03e0>del volcán, pero los Lores siempre se las apañan<03e0>para averiguar esas cosas por imposible que parezca.
+En toda la ciudad no se habla de otra cosa.
+Deberíamos acabar con todos los volcanes.
+Pues sí.
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el trono, pero ninguno termina de imponerse.
+En toda la ciudad no se habla de otra cosa.
+¿Y no pueden compartir el puesto?
+Es cierto...
+La gente cuenta que, si escuchas con atención,<03e0>a veces se puede oír un lamento procedente<03e0>de las profundidades del Océano de Arena.
+En toda la ciudad no se habla de otra cosa.
+¿Que el desierto se lamenta?<03e0>Aunque... ¿Para qué me molesto en preguntar?<03e0>A mí el desierto me importa un pimiento...
+Pues sí.
+Hace mucho, mucho tiempo, un gran héroe<03e0>vagaba por el Océano de Arena.
+En toda la ciudad no se habla de otra cosa.
+¿Y qué estaba haciendo en el desierto?<03e0>Espera, el desierto me importa un pito.<03e0>No he dicho nada, ¿de acuerdo?
+Vale.
+Un tipo muy asustado me contó que se paró a mirar<03e0>una columna que encontró en el Océano de Arena<03e0>y de pronto se vio rodeado de fantasmas.
+En toda la ciudad no se habla de otra cosa.
+¿Y qué hace una columna en el desierto?<03e0>No me explico por qué sigo haciendo preguntas<03e0>cuando no tengo ningún interés...
+Pues sí.
+En Melphina hay un tipo que afirma ser un científico,<03e0>pero la gente procura no acercarse a él.<03e0>Dicen que se le va un poco la chaveta.
+En toda la ciudad no se habla de otra cosa.
+¿Y qué puede hacer alguien para que lo tachen<03e0>de trastornado? No alcanzo a comprenderlo...
+Pues sí.
+Dicen que en no sé qué ciudad del desierto<03e0>hay una taberna que está infestada de bichos.<03e0>El dueño no sabe qué hacer para librarse de ellos.
+En toda la ciudad no se habla de otra cosa.
+¿Hay bichos en el desierto?<03e0>Bah, no sé ni para qué finjo que me interesa...<03e0>¡No hay nada más aburrido que un desierto!
+Claro, claro...
+Desde aquel incidente, Nagapur se ha convertido<03e0>en un lugar peligroso. Hay mucha delincuencia,<03e0>sobre todo secuestros de niños.
+En toda la ciudad no se habla de otra cosa.
+¿A qué incidente te refieres?<03e0>¡Ah, claro! Supongo que te refieres a la migración<03e0>de aquella bandada de pájaros hacia Undelwalt...
+Sí, claro...
+Antiguamente, la gente de Royotia se dedicaba<03e0>a recorrer las rutas comerciales e intercambiar<03e0>con otros viajeros los tesoros que encontraban.
+En toda la ciudad no se habla de otra cosa.
+¿Y para qué andaban buscando tesoros<03e0>si luego acababan deshaciéndose de ellos?
+Eso digo yo.
+Los mercaderes de Royotia se quejan<03e0>de que el trazado de las rutas comerciales les impide<03e0>vender sus mercancías más allá de Balterossa.
+En toda la ciudad no se habla de otra cosa.
+Deberían alegrarse de tener rutas comerciales...<03e0>No entiendo de qué se quejan.
+Pues sí.
+Dicen que un mercenario yama anda buscando ayuda<03e0>para llevar a cabo un trabajillo que le viene grande...
+En toda la ciudad no se habla de otra cosa.
+¡Un trabajillo! ¿Verdad que es emocionante?
+Pues sí.
+Una chica me contaba que está muy enamorada<03e0>de un tipo de Celapalais un poco raro. Tan pronto<03e0>resulta encantador como se pone a chillar...
+En toda la ciudad no se habla de otra cosa.
+Supongo que será como estar con dos<03e0>hombres a la vez...<03e0>La verdad, yo los prefiero monos pero calladitos.
+Pues sí.
+Hay un qsiti que se pone en medio de las calles<03e0>más transitadas y mira con odio a toda la gente<03e0>que se choca con él...
+En toda la ciudad no se habla de otra cosa.
+Debe de sentirse solo y busca amigos.<03e0>¡Deberíamos ir todos a animarlo!
+Sí, claro...
+El otro día vi a una chica la mar de misteriosa.<03e0>La pobre va por la vida como si el mundo entero<03e0>se le hubiese venido encima.
+En toda la ciudad no se habla de otra cosa.
+¡Si te lo propones, puedes conseguir cualquier cosa!
+Pues sí.
+Hay un grupo de Damas Sangrientas en las marismas.<03e0>Parece que se preparan para algo importante...
+En toda la ciudad no se habla de otra cosa.
+Las Damas Sangrientas...<03e0>Umm... Creo que esta noche tomaré un buen filete.<03e0>Poco hecho...
+Muy bien.
+Parece que los jhanas andan sembrando el caos<03e0>en los alrededores del Océano de Arena.<03e0>Ni siquiera el Gae Bolg de Athlum los asusta...
+En toda la ciudad no se habla de otra cosa.
+¿Y eso de «Athlum» es una nueva marca de ropa, o qué?
+Supongo...
+¡Los Halcones Argénteos van a acabar<03e0>con todos los jhanas de la zona!<03e0>¿Qué haríamos sin ellos?
+En toda la ciudad no se habla de otra cosa.
+Los Halcones Argénteos...<03e0>Tengo que acordarme de buscar a alguien<03e0>para que saque brillo a la plata del armario.
+Mira, tú...
+Los Halcones Argénteos van a despachar<03e0>a lo poco que queda del ejército del Invasor.
+En toda la ciudad no se habla de otra cosa.
+Los Halcones Argénteos...<03e0>Esto me recuerda que tengo que comprar<03e0>una cubertería nueva...
+Pues sí.
+En la taberna de Elysion hay un tipo muy sombrío<03e0>que se pasa allí las horas muertas.<03e0>Nadie sabe nada sobre su pasado.
+En toda la ciudad no se habla de otra cosa.
+Pues ya podría pasarse por aquí.<03e0>¡Yo podría animarlo!
+Pues sí.
+

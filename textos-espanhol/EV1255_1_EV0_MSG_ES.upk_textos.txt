@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1255_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿La reliquia localizadora<0fe003e00ee0>dice que hay algo por aquí?
+Sí... Siento su presencia.
+¿Quién va?
+¡Soy Milton, el fiel discípulo!<1ae00000e6420fe005e001000ee0>¡Como leal siervo del Invasor,<0fe003e00ee0>detendré a quienes sean indignos de hacerle frente!
+¡No sois más que unos pobres ignorantes<0fe003e00ee0>si osáis desafiar a alguien de tal poder!
+Ya tengo pensado un epitafio para vosotros,<0fe003e00ee0>¡y pienso escribirlo con vuestra sangre!
+

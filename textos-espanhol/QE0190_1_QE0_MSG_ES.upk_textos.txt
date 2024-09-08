@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0190_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+En las <1be0ffbe34ff>ruinas de Robelia<1ce0> hay una sala cerrada<03e0>con llave. Dentro hay una estatua de piedra<03e0>capaz de llevarte ante la persona que desees.<04e0>A mí me dio la llave un hombre que solía<03e0>visitar ese lugar para recoger unas flores.<04e0>La verdad es que no sé por qué tenía la llave<03e0>ni por qué me la dio, pero le estoy muy agradecido...
+Rush, ¿me harías el favor de acompañarme a las ruinas?<03e0>¡Ardo en deseos de ver a mi hermana de nuevo!<06e0000008e0000000000000>¡Claro, vamos!<09e008e0010000000300>Vaya cuento...
+¡Gracias! ¡Estoy listo para partir ahora mismo!
+Pero... ¿por qué dices eso?
+Rush, te lo ruego...<03e0>Necesito que alguien me acompañe a las ruinas.<03e0>¡Ardo en deseos de volver a ver a mi hermana!<06e0000008e0000000000000>¡Claro, vamos!<09e008e0010000000300>Vaya cuento...
+¡Gracias! ¡Estoy listo para partir ahora mismo!
+Pero... ¿por qué dices eso?
+Ven conmigo a las <1be0ffbe34ff>ruinas de Robelia<1ce0>, ¡por favor!<03e0>¡Tengo que encontrar esa estatua!<06e0000008e0000000000000>Vale, vale.<09e008e0010000000300>Qué inocente eres...
+De acuerdo, ¡vamos!
+¿Me estás tomando el pelo o qué?
+No me lo puedo creer...<03e0>¡Por fin he logrado reunirme con mi hermana!<04e0>Todo te lo debo a ti, Rush.<03e0>Me gustaría que aceptaras esto.
+Si alguna vez necesitas algo, no olvides que<03e0>mi hermana siempre está dispuesta a ayudar.<03e0>La encontrarás en la sede del gremio.<04e0>Estábamos pensando en ganar dinero suficiente<03e0>para retirarnos pronto y vivir tranquilamente el resto<03e0>de nuestras vidas, sin preocupaciones.
+

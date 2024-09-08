@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1430_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Qué ocurre?
+No consigo vincularla.
+¿Es cosa del Invasor, verdad?
+Eso creo.
+¿Entonces hemos venido para nada?
+Tiene que haber otra manera<0fe003e00ee0>de llegar a las Tierras Sagradas.
+Si es así la encontraremos, lord David.
+Aún hay muchas reliquias por descubrir...<1ae00000f0420fe005e001000ee0>Sólo tenemos que encontrar una<0fe003e00ee0>capaz de llevarnos hasta allí.
+¿Tan fácil te parece?<0fe003e00ee0>¡Se nos está acabando el tiempo!
+¡No podemos rendirnos ahora, Dave!
+¡En marcha!
+

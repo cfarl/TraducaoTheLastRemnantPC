@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¿Te has perdido, muchacho?<03e0>No te preocupes... Eso es algo habitual aquí.<04e0>Si miras arriba, verás la <1be0ffbe34ff>reliquia de Elysion<1ce0>. Debajo<03e0>se encuentra la estructura de marfil de la cámara<03e0>de la asamblea, así como varios templos famosos.<04e0>La ciudad es un santuario para muchos...<04e0>Pero no dejes que un viejo como yo te aburra<03e0>con sus batallitas. ¿Por qué no echas un vistazo<03e0>tú mismo?
+Pero... ¿qué es esto?<04e0>Tropas entrando en esta ciudad sagrada...<03e0>Hay gente que no tiene vergüenza...
+Message 3
+Message 4
+¿Quién iba a predecir que el ejército del Invasor<03e0>aparecería un día y produciría tal caos?<04e0>Rezo a lady Marion para que no regresen nunca...
+Message 6
+¿Ves esa nube que sube en espiral hacia el cielo?<03e0>Ahí arriba están las Tierras Sagradas.<04e0>Antiguamente se utilizaba el nombre de Elysion<03e0>para referirse a ellas, pero ahora también se usa<03e0>para hablar de la ciudad.<04e0>Ya sé que sólo soy un guarda de seguridad,<03e0>pero algún día me gustaría visitarlas...
+Oye, ¿¡has visto eso!?<04e0>¡Acabo de ver una luz brillante que subía<03e0>desde el Arca hacia las Tierras Sagradas!<04e0>Ojalá hubiera estado en el Arca...<03e0>¡Seguro que la luz me hubiera llevado hasta arriba!
+Sé quiénes eran... Eran el Invasor y su ejército.<04e0>Pensaba que sería una simple banda de rufianes,<03e0>pero me temo que no es así.<04e0>Y... ¿Has visto a la mujer que pronunció el discurso?<03e0>¡Está para mojar pan! Ya quisiera yo que fuera mi jefa...
+Message 4
+Desde que murió el presidente Hermeien,<03e0>la gente está muy preocupada.<04e0>Supongo que, en tiempos como estos, mi tarea<03e0>como protector de los habitantes de esta ciudad<03e0>resulta todavía más importante.<04e0>No es hora de perder el tiempo soñando despierto<03e0>con las Tierras Sagradas...
+Mensaje 6
+En la calle Tula podrás encontrar la mejor selección<03e0>de armas, armaduras y artículos de todo tipo.<04e0>Sé que la gente cuenta maravillas sobre el barrio<03e0>de Hendler, pero allí no venden más que chatarra<03e0>a precio de oro.
+¡Lo vi con mis propios ojos!<03e0>¡Un destello de luz salió del Arca hacia el cielo!<04e0>Me pregunto de qué se trataba. Era distinta de la luz<03e0>que suele emitir el Arca cada vez que se activa.<03e0>Era mucho más brillante e intensa...
+Así que éste es el famoso Invasor...<03e0>He oído que es un malo malísimo,<03e0>y que causa problemas allá donde va.<04e0>No hay más que ver esa mirada perversa...<03e0>¡Ojalá se marche de nuestra ciudad lo antes posible!
+Todos los vecinos de este barrio lamentamos<03e0>profundamente la muerte del presidente Hermeien<03e0>y el declive de la Academia.<04e0>¡Últimamente, hasta los ancianitos del casco viejo<03e0>parecen más animados que nosotros!
+

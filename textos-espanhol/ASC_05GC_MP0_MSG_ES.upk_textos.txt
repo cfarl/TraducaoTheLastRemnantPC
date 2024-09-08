@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_05GC_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Las armas son el espejo del alma.<03e0>En manos de un espadachín inexperto, ni siquiera<03e0>la espada más poderosa alcanzará su máximo potencial.<04e0>Recuerda, jovencito, las armas son mucho más<03e0>que meras herramientas de combate: también sirven<03e0>para templar la mente.
+Parece que estás empezando a descubrir<03e0>el verdadero valor de las artes, jovencito.<03e0>No te descuides.
+He oído que una joven comandante de Athlum<03e0>se ha enfrentado en combate singular a Yerva,<03e0>el guerrero de la leyenda.<04e0>Quién iba a decir que alguien de esta región<03e0>llegaría a alcanzar semejante poder... La verdad<03e0>es que me gustaría medirme en duelo con él.
+¿Conque la independencia de Athlum, eh?<03e0>Si dependiese de mí, preferiría que los Lores<03e0>se pusieran de acuerdo para traer la paz al mundo.<04e0>Ya sé que si eso ocurriera me quedaría sin trabajo,<03e0>pero estoy seguro de que merecería la pena.
+¿Vas a enfrentarte al Invasor en una gran batalla?<03e0>Supongo que este asunto no terminará de verdad<03e0>hasta que no sea derrotado.<04e0>Tendrás que ser muy astuto y planear tus acciones<03e0>cuidadosamente. Si lo haces, el camino a la victoria<03e0>se abrirá ante ti.
+

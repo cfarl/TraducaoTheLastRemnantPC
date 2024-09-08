@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0310_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Premio!
+¡Dave!
+¡Soy David Nassau, marqués de Athlum!
+¡Vuestra presencia en este lugar<0fe003e00ee0>constituye un acto hostil contra Athlum!<1ae000000c430fe005e001000ee0>¡Entregad las armas de inmediato<0fe003e00ee0>y revelad vuestro nombre e intenciones!
+De lo contrario, tendremos<0fe003e00ee0>que someteros por la fuerza.<1ae000000c430fe005e001000ee0>Sólo os daré una oportunidad:<0fe003e00ee0>¡rendíos de inmediato!
+¿Qué estás haciendo?<0fe003e00ee0>¡Echarles la bronca no servirá de nada!
+Muy bien... ¡Haremos que lamenten<0fe003e00ee0>haber puesto los pies en Athlum!
+¡Soldados! ¡A la carga!
+

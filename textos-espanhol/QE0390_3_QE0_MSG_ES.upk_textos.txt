@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0390_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Señor Rush, la doctora Marina os está esperando<03e0>en el <1be0ffbe34ff>castillo<1ce0>. Parecía un asunto urgente...<06e0000008e0000000000000>¿Urgente? Voy para allá.<09e008e0010000000300>Bueno, pues que espere.
+Por favor, acompañadme.
+Comprendido.<03e0>Cuando estéis listo, hacédmelo saber.
+

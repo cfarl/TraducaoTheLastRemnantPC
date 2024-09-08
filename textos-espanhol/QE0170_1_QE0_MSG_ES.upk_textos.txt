@@ -1,0 +1,46 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0170_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Eh, tú! ¿Quién eres? ¿Me conoces?<03e0>¿Te conozco?<04e0>Sólo sé que me llamo Jorgen...<03e0>Pero soy incapaz de recordar nada más.<04e0>¿Cómo soy? ¿Dónde vivo? ¿Cuál es mi profesión?<03e0>¿A qué dedico el tiempo libre? Lo he olvidado todo...<04e0>¿Eh? Ese talismán...<04e0>Oh, perdona. Por un momento me ha parecido<03e0>recordar algo, pero serían imaginaciones mías.<04e0>Aunque bien pensado... No es mala idea.<03e0>Supongo que merece la pena intentarlo.<04e0>Sé que es un poco descortés pedirle favores<03e0>a alguien a quien casi no conoces, pero quisiera<03e0>pedirte una cosa...<04e0>Si te topas con algún objeto que pudiera guardar<03e0>alguna relación conmigo, ¿serías tan amable<03e0>de traérmelo? Sólo quiero recuperar la memoria...<04e0>Tengo la corazonada de que podría recordar algo<03e0>si los viera... Aunque sólo consigas dar con uno,<03e0>te estaría eternamente agradecido.<06e0000008e0000000000000>Vale, veré qué puedo hacer.<09e008e0010000000300>¿Y si son malos recuerdos?
+Te lo agradezco de verdad. En serio, desde ahora<03e0>estoy en deuda contigo.<04e0>Confío en tu intuición. Si encontraras tres objetos<03e0>que te hicieran pensar en mí, no dudes en traérmelos.<03e0>Estoy seguro de que me ayudarán a recordar.
+Ya... Supongo que algunas personas guardan<03e0>recuerdos tan dolorosos que darían lo que fuera<03e0>por estar en mi lugar.<04e0>En fin, disculpa las molestias. Voy a ver si consigo<03e0>recuperar la memoria por mi cuenta.
+¿Eh? ¡Vaya! Nos hemos visto antes, ¿verdad?<03e0>¿Quieres ayudarme a recuperar la memoria?<04e0>Ando buscando objetos que me hagan recordar<03e0>quién soy. Si encuentras alguno, te agradecería<03e0>enormemente que me lo trajeras.<06e0000008e0000000000000>Vale, lo intentaré.<09e008e0010000000300>¿Para qué los necesitas?
+Te lo agradezco de verdad.<03e0>En serio, estoy en deuda contigo.<04e0>Confío en tu intuición. Si encontraras tres objetos<03e0>que te hicieran pensar en mí, no dudes en traérmelos.<03e0>Estoy seguro de que me ayudarán a recordar.
+Buena pregunta. Supongo que para nada, pero...<03e0>No quiero renunciar a mis recuerdos. Intentaré<03e0>recuperar la memoria por mi cuenta.
+¡Hombre! ¡No sabes lo que me alegro de ver<03e0>una cara conocida! Parece que has encontrado<03e0>alguna cosa para mí. ¡Tres cosas, de hecho!<06e0000008e0000000000000>Pues sí, aquí tienes.<09e008e0010000000300>No, sigo en ello...
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_010...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_020...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+ ¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_030...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_040...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_050...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_060...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_070...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+¿Qué es eso que tienes ahí?<06e01900>sEVENT_PRICE_QE0170_P_080...<08e0000000000000>Te resulta familiar, ¿eh?<09e008e0010000000300>Oye, que eso es mío.
+Vaya dedicación...<03e0>Voy a ver si yo también puedo hacer algo<03e0>por mi cuenta para recuperar la memoria.
+Estoy empezando a recordar...
+Creo que... ¡Sí! ¡Sí!<03e0>Aquello ocurrió cuando...
+¡Ahora lo recuerdo todo perfectamente!
+Gracias a ti, he sido capaz de recordar<03e0>mi vida anterior y... cómo he llegado<03e0>a ser quien soy.<04e0>Pero el pasado no determina el futuro...<03e0>De ahora en adelante, viviré cada día<03e0>como si fuera el último.<04e0>Me voy corriendo a disfrutar de mi vida...<03e0>¡Ya he perdido suficiente tiempo!<03e0>Gracias, Rush. Ojalá volvamos a encontrarnos.
+Esta espada... Parece que ha sido hecha para mí.<03e0>Qué sensación... Nunca había sentido algo así.<03e0>¡Seguro que era un gran guerrero con esta arma!
+Al tocar este bastón noto una sensación cálida<03e0>y extraña. Seguro que dominaba las artes místicas,<03e0>¿no es cierto?
+Este pañuelo... Sólo con atármelo, tengo la sensación<03e0>de poder conquistar el mundo. Sí... Seguro que antes<03e0>me infundía valor...
+¿Eh? Ésta es mi letra... ¡Si es mi diario!<03e0>Las páginas están raídas por el uso y llenas<03e0>de fórmulas. Debía de ser todo un intelectual...
+Esta carta me ayudó en muchos momentos difíciles...<03e0>Es de... De la persona que más admiro en el mundo.<03e0>Creía que, si la leía, llegaría a ser como él...
+Este cinturón... Parece muy viejo.<03e0>Debo de haber vivido muchas aventuras con él.<03e0>Seguro que me hacía sentir lleno de fuerza...
+Estas botas son iguales a las que llevo puestas,<03e0>pero están muy gastadas... ¡Seguro que he hecho<03e0>larguísimos viajes con ellas puestas!
+Sí... He atravesado muchos campos de batalla<03e0>con este escudo. ¡Y me sacó de más de una!<03e0>Cada abolladura me trae recuerdos de una batalla...
+Era un gran espadachín famoso por mi habilidad.<03e0>Una vez conseguí cierta espada tras un combate...<03e0>El problema es que portaba una maldición.<04e0>Para evitar que se apoderara de mi alma,<03e0>tuve que pagar un precio muy alto: mi pasado...
+Mi padre era un afamado sabio. Lo admiraba<03e0>desde que era un crío y estudié durante años<03e0>para intentar igualarle.<04e0>Pero hubo un accidente y mi padre murió.<03e0>No pude soportarlo y perdí el control<03e0>de mis facultades... y también mis recuerdos.
+Era el líder de un grupo de pícaros... Bueno,<03e0>suena muy romántico, pero en realidad éramos<03e0>un hatajo de matones. Matones traicioneros...<04e0>El grupo me traicionó... y mi vida se fue al infierno.<03e0>Me obsesionaba tanto vengarme que estaba dispuesto<03e0>a dar lo que fuera por lograrlo... Incluso mis recuerdos.
+En mi país era un gran general. Mis estrategias<03e0>condujeron a mis tropas a incontables victorias...<04e0>Sin embargo, mi vida entera giraba en torno a la guerra.<03e0>Tanta violencia acabó por corromper mi espíritu.<04e0>Para recuperar la paz, tuve que olvidarlo todo...<03e0>Incluidos mis recuerdos.
+Soy descendiente de la familia real de una tierra lejana.<03e0>Cuando murió mi padre, el reino cayó presa del caos.<04e0>Tras una larga batalla, mi hermano pequeño<03e0>se apoderó del trono y, mediante un embrujo,<03e0>borró mi memoria y me desterró aquí.
+No soy del todo mortal. Me llevaría demasiado tiempo<03e0>conseguir que entendieras a qué me refiero, así que<03e0>digamos que por mis venas no corre sangre de mitra...<04e0>Sin embargo, sigo siendo un ser imperfecto...<03e0>Tan sólo puedo existir en este mundo a cambio<03e0>de una parte de mis recuerdos.
+Era un aventurero que viajaba por el mundo en busca<03e0>de fortuna. Un día, buscando tesoros en una caverna<03e0>muy profunda, me topé con un misterioso insecto.<04e0>Pensaba que era un insecto corriente, pero chico...<03e0>Estaba equivocado. Era un parásito que se alimentaba<03e0>de recuerdos, y se comió los míos. El resto ya lo sabes.
+¿Estás seguro de que has buscado suficiente?
+Si logras dar con alguna de mis pertenencias,<03e0>vuelve y dímelo.
+Estos tres objetos... ¿Puedo quedármelos?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>Déjame pensarlo... No.
+En cuanto a los demás... Supongo que no hay manera<03e0>de saber si de verdad me pertenecen.
+¿Has encontrado algo que me refresque la memoria?<03e0>Si logras dar con tres recuerdos de mi pasado<03e0>te estaría muy agradecido...<04e0>Estoy seguro de que cualquier menudencia bastaría.<03e0>¡Cuento contigo!
+Vaya... ¿Tienes algo para mí? ¡Qué bien!<03e0>Pero con esto no basta. Necesito tres objetos...<03e0>Sí, tres es un buen número.<04e0>Pero gracias a ti, tengo la sensación de que recuperaré<03e0>la memoria de un momento a otro. Mi futuro está<03e0>en tus manos...
+Por fin he averiguado quién soy.<03e0>Debería ofrecerte algo por tu ayuda...<03e0>¡Ah, ya lo tengo! ¡Toma esto!
+

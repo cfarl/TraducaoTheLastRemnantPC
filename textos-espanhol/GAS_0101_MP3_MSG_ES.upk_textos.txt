@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GAS_0101_MP3_MSG
+-- ----------------------------------------------------------------------------------
+Escucha... Si eres tú quien inicia los combates<03e0>en lugar de esperar a que te ataquen, tendrás<03e0>la sartén por el mango.
+Sí, ya lo sé.
+Y lo mejor es luchar con el mayor número posible<03e0>de oponentes a la vez.
+¿Por qué? Suena peligroso.
+Pues está claro... ¡Porque, cuanto mayor es el desafío,<03e0>mayor es la recompensa!
+No lo entiendo...
+¿Cómo que no lo entiendes?<03e0>Tú inténtalo, ¿vale? ¡Vamos allá!<04e0>Ah, se me olvidaba... Ten, un mapa de la zona.<03e0>Ahora no tienes excusa para perderte, ¿vale?<03e0>¡Venga, pongámonos en marcha!
+

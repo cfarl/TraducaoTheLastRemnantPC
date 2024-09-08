@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Hay muchos soldados que no dejan de alardear<03e0>sobre batallas pasadas, pero no es fácil averiguar<03e0>quién dice la verdad y quién no.<04e0>Lo único que sé a ciencia cierta es que todo el que diga<03e0>que ha ido a Siebenpur es un auténtico valiente...<03e0>o un auténtico mentiroso.<04e0>Lo cierto es que, después de oír tantas historias,<03e0>me dan ganas de ver cómo es ese sitio de verdad...<03e0>¡Pero no pienso acercarme por allí, claro!
+¿Has atravesado el monte Vackel?<04e0>Los Emperadores celestiales envían a la gente<03e0>a esa montaña para poner a prueba su fuerza<03e0>y su valentía...<04e0>Vaya... Debes de ser mucho más valiente<03e0>de lo que aparentas.
+

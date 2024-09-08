@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GST_0301_MP2_MSG
+-- ----------------------------------------------------------------------------------
+En la parte superior hay una inscripción<03e0>que dice «Capítulo IV: Traición».<03e0>¿Quieres seguir leyendo?<06e0000008e0000000000000>Sí, me encantan las historias.<09e008e0010000000300>Demasiada lectura para mí...
+Un aciago día, la reina Flaumello descubrió<03e0>que su amado duque la había traicionado.<04e0>Undelwalt abandonó a la Reina y, en su lugar,<03e0>cortejó a una joven plebeya, Marion Marshall.<04e0>El Duque se autoproclamó «Emperador celestial»<03e0>y partió a la conquista del mundo con la ayuda<03e0>de Marion y su don de controlar las reliquias.<04e0>Los súbditos del Reino de Glenys se sintieron<03e0>traicionados, y su sorpresa no tardó en degenerar<03e0>en rabia y resentimiento.<04e0>Pese a las protestas de la Reina, sus súbditos<03e0>comenzaron a elaborar planes para derrocar<03e0>al Emperador celestial.<04e0>Cuando la noticia llegó a oídos del Emperador,<03e0>éste decidió mandar una expedición de castigo<03e0>contra el reino para sofocar la rebelión.
+En la parte superior hay una inscripción<03e0>que dice «Capítulo VI: El final».<03e0>¿Quieres seguir leyendo?<06e0000008e0000000000000>Sí, me encantan las historias.<09e008e0010000000300>Demasiada lectura para mí...
+El candelabro está cubierto de polvo.<03e0>Tiene una inscripción: «Entrega tu amor».<03e0>¿Quieres entregar la Piedra del amor perdido?<06e0000008e0000000000000>Claro. ¿Por qué no?<09e008e0010000000300>Quizá más tarde.
+La llama oscila tenuemente.
+La llama oscila tenuemente.
+El candelabro está cubierto de polvo.<03e0>Tiene una inscripción: «Entrega tu saber».
+El candelabro está cubierto de polvo.<03e0>Tiene una inscripción: «Entrega tu saber».<03e0>¿Quieres entregar la Piedra del saber perdido?<06e0000008e0000000000000>Claro. ¿Por qué no?<09e008e0010000000300>Quizá más tarde.
+La llama oscila tenuemente.
+La llama oscila tenuemente.
+El candelabro está cubierto de polvo.<03e0>Tiene una inscripción: «Entrega tu alma».
+El candelabro está cubierto de polvo.<03e0>Tiene una inscripción: «Entrega tu alma».<03e0>¿Quieres entregar la Piedra del alma perdida?<06e0000008e0000000000000>Claro. ¿Por qué no?<09e008e0010000000300>Quizá más tarde.
+La llama oscila tenuemente.
+La llama oscila tenuemente.
+

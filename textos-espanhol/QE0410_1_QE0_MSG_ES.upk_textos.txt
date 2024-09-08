@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0410_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La tablilla de Marshall está reaccionando<03e0>con el Corazón Difunto. ¿Quieres usar la tablilla?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>¡No! Me da mal rollo...
+Haruko decía que tenía ganas de ver esto<03e0>con sus propios ojos.<06e0000008e0000000000000>Vamos a llevárselo.<09e008e0010000000300>Dejémoslo estar.
+

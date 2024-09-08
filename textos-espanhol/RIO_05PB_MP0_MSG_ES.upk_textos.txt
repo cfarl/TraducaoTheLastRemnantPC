@@ -1,0 +1,236 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) RIO_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Ach! ¡Bienvenidos a Gemardiente!
+Estaba cavando en la mina y, cuando me di cuenta,<03e0>estaba en Lavaluarte. Creo que me pasé cavando...<03e0>Bueno, a lo que iba... Allí fue donde la vi.<04e0>Juro por Marion que no fue ninguna alucinación...<03e0>Estaba en esa caverna de lava cuando de pronto<03e0>vi delante de mí a una joven completamente sola.<04e0>Así que agarré y me dirigí hacia ella. Al fin y al cabo,<03e0>no era sitio para una joven. Es un lugar peligroso...<03e0>Y en ese momento, ¡va y desaparece!<04e0>¿Qué cosas, eh? Supongo que debía de ser<03e0>un fantasma con algún asuntillo pendiente...<03e0>Es la única explicación que le encuentro.<04e0>¡Oye, he dicho que no fue ninguna alucinación!<03e0>¡Sé perfectamente lo que vi!
+Parece que lord Príamo no se encuentra bien.<04e0>Me cuesta creerlo... Siempre ha tenido una salud<03e0>de hierro. ¡Pero si es tan fuerte como un minero!<03e0>No es de los que enferman... Y menos tan gravemente.<04e0>Es una lata... Lo único que podemos hacer por él<03e0>es cavar e intentar encontrar algún metal valioso<03e0>para pagar a un curandero venido de tierras lejanas.
+Antes de que ese maldito Invasor apareciese por aquí,<03e0>se oyó un extraño grito en toda la ciudad.<03e0>Parecía el graznido de un pájaro o algo así...<04e0>No sé... Por algún motivo, esa voz me hizo pensar<03e0>en el fantasma que vi aquella vez en Lavaluarte.<04e0>¡Puede que la maldición de ese fantasma<03e0>esté relacionada con el empeño del Invasor<03e0>en apoderarse del Emeth Tag!<04e0>Bah, déjalo. Sólo hablo por hablar...<03e0>Qué tonterías digo, madre mía...
+Hace mucho tiempo, en las profundidades de la tierra,<03e0>nacieron dos aves gemelas destinadas a disputar<03e0>una eterna batalla. Una encarnaba al bien; otra, al mal.<04e0>El fundador de Royotia salvó al ave del bien y,<03e0>como recompensa, recibió armas muy poderosas.<03e0>Gracias a ellas, logró conquistar las tierras vecinas.<04e0>Años más tarde, el ave del bien se enfrentó de nuevo<03e0>al ave del mal y perdió. El ave del mal aprovechó<03e0>entonces para hacerse con el alma del fundador.<04e0>Cuando todo parecía perdido, el ave del bien<03e0>comenzó a emitir un lamento.<03e0>Era una especie de canción de cuna...<04e0>Al oír este canto suave y triste, el ave del mal<03e0>cayó en un eterno sueño y se hundió en la lava.<04e0>Por aquí hemos oído esta leyenda durante siglos.<03e0>Aunque parece que ahora ya no queda mucha gente<03e0>interesada en escuchar cuentos de hadas...
+Lord Paris me ha contado que has derrotado a Vespalia,<03e0>el ave del mal, de una vez por todas.<04e0>Nunca creí que la leyenda fuera verdad...<04e0>Royotia permanece en pie gracias a ti.<03e0>Creo que hablo en nombre de toda la ciudad al decirte<03e0>que cuentas con nuestra más sentida gratitud.
+Antes de que el Invasor llegase a Royotia,<03e0>se oyó un fuerte ruido en toda la ciudad.<03e0>Parecía el chillido de un pájaro.<04e0>Así que la leyenda era cierta... La prisión que forjó<03e0>el ave del bien ha desaparecido. El ave del mal<03e0>ha despertado...<04e0>Ya no importa si el Invasor vuelve o no.<03e0>De todos modos, esto es el fin de Royotia.
+No hay ninguna noticia digna de mención.
+¿Has oído hablar del barón Nielsen de Celapalais?<03e0>Parece que su esposa ha vuelto a abandonarle.<03e0>No sería la primera vez... Ni la segunda.
+Menudo notición, ¿no?
+¡Ach! ¡El barón Nielsen, mi eterno rival!<03e0>Ya nos veremos las caras... Si es que alguna vez<03e0>se entera de nuestra rivalidad, claro.
+¡Eso, eso!
+He oído que no sé qué loca pretende<03e0>asesinar al duque de Qubine...
+Menudo notición, ¿no?
+¡Ach! ¡Ese dichoso duque de Qubine<03e0>no es más que un niñato insoportable!<03e0>Vale, nunca he hablado con él, pero bueno...
+Y nunca te dejarán acercarte a él, así que...
+Parece que la princesa del desierto se escapa<03e0>del castillo cada dos por tres para reunirse<03e0>con un tipo del que anda enamorada. Suena peligroso...
+Menudo notición, ¿no?
+¡Ach! ¡La princesa es mi admiradora número uno!<03e0>Anda que no estaría bien...
+En tus sueños, a lo mejor...
+¡No te lo vas a creer!<03e0>¡La princesa del desierto se ha fugado con su amado!
+Menudo notición, ¿no?
+¡Ach! ¡Mira que fugarse con ese tipo!<03e0>Pues desde ahora, su amado también es mi rival.<03e0>A ver si consigo que se entere...
+¡Lo veo difícil!
+Parece que las relaciones entre Balterossa y Royotia<03e0>se han ido al garete. Los familiares de los soldados<03e0>están preocupados porque la guerra parece inevitable.
+Menudo notición, ¿no?
+¡Ach! Esa gentuza de Balterossa...<03e0>¡Mi querida Royotia les dará su merecido!<03e0>O eso espero...
+¡La esperanza es lo último que se pierde!
+Parece que el primer Emperador celestial ocultó algo<03e0>tras una barrera en las grandes marismas... y ahora<03e0>la barrera se ha roto. Ya le vale.
+Menudo notición, ¿no?
+¡Ach! ¡El primer Emperador celestial!<03e0>¡Otro de mis grandes rivales!<03e0>Lástima que muriera hace siglos...
+Venga, tranquilo, ya pasó...
+Una de las doncellas del bosque tiene un vínculo<03e0>tan fuerte con su caballero que es capaz de sentir<03e0>todo lo que él siente.
+Menudo notición, ¿no?
+¡Ach!<03e0>¡Las doncellas del bosque también son mis admiradoras!<03e0>Ahora que lo pienso, eso sí que estaría bien...
+Ya te gustaría a ti, ya...
+Las doncellas del bosque y la Orden de Melphina<03e0>están montando una expedición. Parece que le pasa<03e0>algo raro a la reliquia de Marismarchita, la Hoja Caída.
+Menudo notición, ¿no?
+¡Ach! Conque la Hoja Caída, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+Eres un aburrimiento de hombre...
+La Gala Cósmica está a punto de empezar,<03e0>pero la Ninfa Cósmica no ha llegado a Nagapur.<03e0>Esperemos que no le haya pasado nada...
+Menudo notición, ¿no?
+¡Ach! ¡La Ninfa Cósmica también es mi admiradora!<03e0>Eso sí que estaría bien, ¿verdad?
+Estás de guasa, ¿verdad?
+Al final la Gala Cósmica empezó según lo previsto.<03e0>El festival suele ser un aburrimiento, pero esta vez<03e0>aparecieron unos monstruos y hubo que interrumpirlo.
+Menudo notición, ¿no?
+¡Ach! Conque la Gala Cósmica, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+Eres un aburrimiento de hombre...
+Una dama chapada a la antigua necesita a alguien<03e0>que le haga de guardaespaldas. Parece que aguarda<03e0>en la taberna de una ciudad llena de canales...
+Menudo notición, ¿no?
+¡Ach! ¿Una dama chapada a la antigua?<03e0>¡Seguro que también es mi admiradora!<03e0>¿Verdad que sí?
+Te lo tienes un poco creído, ¿no?
+Parece que los tesoros de los reinos antiguos<03e0>se han puesto a la venta en el mercado negro...
+Menudo notición, ¿no?
+¡Ach! Conque los tesoros de los reinos antiguos, ¿eh?<03e0>¡Pues llegan tarde, porque ya los he robado todos!<03e0>Tranquilos, tranquilos... Era una broma.
+Pues no ha tenido ni pizca de gracia.
+Hay un tipo que anda buscando tres piedras<03e0>relacionadas con el antiguo reino del desierto.<03e0>Parece que tienen valor histórico, o algo así.
+Menudo notición, ¿no?
+¡Ach! ¡Esas piedras me pertenecen!<03e0>Tranquilos, tranquilos... Era una broma.
+¡No bromees con esas cosas!
+Un tipo aficionado a la arcamagia anda buscando<03e0>a alguien que le ayude en sus experimentos...<03e0>Dice que está a las puertas de un gran descubrimiento.
+Menudo notición, ¿no?
+¡Ach! Conque un investigador, ¿eh?<03e0>¡Pues otro tipo más que añadir a mi lista de rivales!
+Lo que tú digas...
+La gente anda diciendo que es el fin del mundo<03e0>porque se ha escapado no sé qué monstruo terrible<03e0>al que encerró el primer Emperador celestial.
+Menudo notición, ¿no?
+¡Ach! Conque un monstruo terrible, ¿verdad?<03e0>Está claro que también es uno de mis rivales...<03e0>¡Aunque no tendría ninguna posibilidad frente a él!
+Ninguna en absoluto.
+Hay un tipo amnésico que se dedica a vagar<03e0>por las ciudades del desierto buscando algo<03e0>que le ayude a recuperar la memoria...
+Menudo notición, ¿no?
+¡Ach! Conque amnésico, ¿eh?<03e0>Seguro que ese tipo también es mi rival...<03e0>¡Aunque ni él mismo se acuerde!
+Cualquiera se olvida de alguien como tú...
+Parece que han visto a un famoso bandido<03e0>cerca de Athlum. Mucha gente cree que está<03e0>esperando a alguien, pero nadie osa preguntárselo.
+Menudo notición, ¿no?
+¡Ach! Conque un famoso bandido, ¿eh?<03e0>¡No cabe duda de que también es mi rival!<03e0>Yo no sería un mal bandido si me lo propusiera...
+¿Y eso te hace sentir orgulloso?
+Dicen que en las ruinas de Robelia hay una estatua<03e0>capaz de reunirte con quien quieras, esté donde esté.<03e0>Un chico la está buscando para poder ver a su hermana.
+Menudo notición, ¿no?
+¡Ach! Conque una estatua, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+Los hay que no saben apreciar el arte...
+¡Dicen que un asesino anda suelto en la capital!
+Menudo notición, ¿no?
+¡Ach! Conque un asesino anda suelto, ¿eh?<03e0>¡Otro nombre más para mi lista de rivales!<03e0>Ya casi no me queda sitio en mi libreta de agravios...
+Espero que no lo digas en serio...
+Parece que a no sé qué yama descomunal<03e0>se le ha perdido algo, pero nadie se atreve<03e0>a echarle una mano porque es un poco... rarito.
+Menudo notición, ¿no?
+¡Ach! Conque un yama descomunal, ¿eh?<03e0>¡Otro tipo que añadir a mi lista de rivales!
+Desde luego, puede rivalizar contigo<03e0>en lo mal que está de la chaveta...
+Parece que un qsiti albino anda buscando cierto libro<03e0>sobre arcamagia. Mucha gente dice que le recuerda<03e0>a alguien, pero nadie sabe exactamente a quién...
+Menudo notición, ¿no?
+¡Ach! Conque un qsiti albino, ¿eh?<03e0>Pues no cabe duda de que también es mi rival...<03e0>Pero mejor no me preguntéis por qué.
+Si tú lo dices...
+Dos chicas gemelas han empezado a trabajar<03e0>como mercenarias... ¡y no lo hacen nada mal!<03e0>Eso sí, una de ellas tiene un mal genio espantoso.
+Menudo notición, ¿no?
+¡Ach! Conque dos mercenarias gemelas, ¿eh?<03e0>¡Está claro que son mis admiradoras!<03e0>Lo que pasa es que aún no se han dado cuenta...
+Sigue soñando...
+En el Océano de Arena hay un tipo que desafía<03e0>a la gente a participar en no sé qué juego...<03e0>Pero parece que no le vale cualquiera.
+Menudo notición, ¿no?
+¡Ach! Conque le van los jueguecitos, ¿eh?<03e0>¡Pues entonces también es mi rival!
+¡Pero si no sabes ni de qué va el juego!
+Un viejo guerrero anda pateándose el Océano de Arena<03e0>de arriba a abajo en busca de una espada muy especial.
+Menudo notición, ¿no?
+¡Ach! Conque un viejo guerrero, ¿eh?<03e0>¡Pues también es mi rival!<03e0>Ahora sólo me falta hacérselo saber...
+Venga, tranquilo, ya pasó...
+Los guardias de no sé qué ciudad han jurado<03e0>ser fieles a su Señor hasta el final de sus días.
+Menudo notición, ¿no?
+¡Ach! Conque esas tenemos, ¿eh?<03e0>¡Pues el Señor de esa ciudad también es mi rival!<03e0>Ahora sólo me falta averiguar de qué ciudad se trata.
+Buena pregunta...
+No hay ninguna familia en el mundo tan entregada<03e0>como los Honeywell. Si los tienes de tu parte,<03e0>puedes conseguir cualquier cosa.
+Menudo notición, ¿no?
+¡Ach! ¡Pues su sangre corre por mis venas!<03e0>¡La cuñada de mi primo segundo por parte de madre<03e0>tenía un amigo que conocía a una de las Honeywell!
+Vamos, que sois como uña y carne...
+Parece que el general Torgal de Athlum<03e0>tiene un pasado un tanto oscuro...<03e0>¡Y lo han descubierto aquí, en Royotia!
+Menudo notición, ¿no?
+¡Ach! Conque el general Torgal, ¿eh?<03e0>¡Pues ahora él también es mi rival!<03e0>Lástima que no sepa ni quién soy...
+Lo que tú digas...
+Dentro de nada empezará el Torneo de los héroes...<03e0>Es una competición que tiene un gran prestigio<03e0>entre los aficionados al combate.
+Menudo notición, ¿no?
+¡Ach! Conque el Torneo de los héroes, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+Eres un aburrimiento de hombre...
+Parece que existe una academia que lleva años<03e0>entrenando a los mejores místicos del mundo...
+Menudo notición, ¿no?
+¡Ach! Conque una academia de místicos, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+Vaya un ignorante estás hecho...
+Athlum atraviesa momentos difíciles y la gente<03e0>anda un poco preocupada por la nueva matriarca<03e0>del clan de los Honeywell. Como es tan jovencita...
+Menudo notición, ¿no?
+¡Ach! Conque la matriarca de los Honeywell, ¿eh?<03e0>¡Es otra de mis admiradoras, por supuesto!<03e0>O eso quisiera yo...
+Estás de guasa, ¿verdad?
+Últimamente circulan rumores sobre la vida amorosa<03e0>de lord David... o la falta de ella. No se le conoce<03e0>ningún romance... ¡Hay quien dice que es un eunuco!
+Menudo notición, ¿no?
+¡Ach! Conque el marqués de Athlum, ¿eh?<03e0>¡Otro de mis grandes rivales!<03e0>Eso sí que sería impresionante, ¿no te parece?
+Toda una sorpresa, desde luego.
+Dicen que la ex directora de la Academia se dedica<03e0>a recorrer el mundo entero de taberna en taberna.<03e0>Supongo que está tratando de ahogar sus penas...
+Menudo notición, ¿no?
+¡Ach! Conque la ex directora de la Academia, ¿eh?<03e0>Ella también es mi rival...<03e0>¿O acaso era una de mis admiradoras?
+¡A ver si te aclaras!
+Los doctores Sykes no hacen más que entrar y salir<03e0>del Castillo de Athlum de un tiempo a esta parte...<03e0>¡Deben de haber realizado un gran descubrimiento!
+Menudo notición, ¿no?
+¡Ach! Conque la doctora Marina Sykes, ¿eh?<03e0>¡Por supuesto, ella también es mi admiradora!<03e0>Anda que no fardaría si fuera verdad...
+Estás de guasa, ¿verdad?
+Un objeto volador no identificado anda surcando<03e0>el firmamento en torno a Fordragón.<03e0>La gente del lugar anda histérica al respecto...
+Menudo notición, ¿no?
+¡Ach! Conque un objeto volante no identificado, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+Eres un aburrimiento de hombre...
+Una guerrera un tanto impulsiva ha decidido detener<03e0>a los causantes de los incidentes de Marismarchita,<03e0>aunque deba desobedecer al líder de su orden.
+Menudo notición, ¿no?
+¡Ach! Conque una impulsiva guerrera, ¿eh?<03e0>¡Otra para mi lista de admiradoras!<03e0>Eso sí que sería increíble, ¿verdad?
+¡Deja de fanfarronear!
+Dicen que un ejército de monstruos ha surgido<03e0>del Océano de Arena... ¡Son tan poderosos<03e0>que los habitantes de Balterossa están desesperados!
+Menudo notición, ¿no?
+¡Ach! Conque un ejército de monstruos, ¿eh?<03e0>¡Podría machacarlos en un abrir y cerrar de ojos!<03e0>Bueno, vale, no es verdad... ¿Y qué?
+Pues no ha tenido ni pizca de gracia.
+Según los expertos en historia, en el interior<03e0>del volcán se esconde un ser capaz de destruir<03e0>ciudades enteras.
+Menudo notición, ¿no?
+¡Ach! Conque un volcán, ¿eh?<03e0>Pues no sé de qué me estás hablando, así que<03e0>no tengo nada que añadir al respecto. ¡Siguiente!
+¿No sabes de qué volcán te estoy hablando?<03e0>¡Pero si está justo ahí afuera!
+Nadie sabe exactamente qué es lo que ocurre<03e0>en el interior del volcán, ni cómo averiguarlo...<03e0>Pero quizás el marqués de Royotia lo sepa.
+Menudo notición, ¿no?
+¡Ach! Conque en el interior del volcán, ¿eh?<03e0>Pues nunca he estado allí, así que no tengo<03e0>nada que añadir al respecto. ¡Siguiente!
+Ya, es lo que tiene el interior de los volcanes...<03e0>No es un lugar demasiado acogedor.
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el puesto de su padre.
+Menudo notición, ¿no?
+¡Ach! Conque una ciudad que no tiene Señor, ¿eh?<03e0>Pues entonces tendré que ir yo a gobernarla...<03e0>Aunque, bien pensado, debe de ser una lata. Paso.
+¡A ver si te aclaras!
+Dicen que, si prestas atención, al atravesar el desierto<03e0>se puede oír un lamento triste y solitario que procede<03e0>de las profundidades del Océano de Arena.
+Menudo notición, ¿no?
+¡Ach! ¿Las profundidades del Océano de Arena?<03e0>Pues nunca he estado allí, así que no tengo<03e0>nada que añadir al respecto. ¡Siguiente!
+¿Has probado a mirar por la ventana alguna vez?
+Hace mucho tiempo, un héroe de gran fama<03e0>vivía en el Océano de Arena.
+Menudo notición, ¿no?
+¡Ach! Conque un héroe de gran fama, ¿eh?<03e0>¡Pues él también es mi rival!<03e0>Lástima que ya haya muerto...
+Ya, no hay quien mantenga una sana rivalidad<03e0>con alguien que lleva siglos en una caja de pino.
+Estaba paseando por la ciudad y me topé con un tipo<03e0>que no hacía más que repetir: «Si miráis los pilares<03e0>del Océano de Arena, veréis a los fan... fan... fan...».
+Menudo notición, ¿no?
+¡Ach! Conque el Océano de Arena, ¿eh?<03e0>Pues nunca he estado allí, así que no tengo<03e0>nada que añadir al respecto. ¡Siguiente!
+Espero que no lo digas en serio...
+Un científico loco anda merodeando por Melphina.<03e0>Si pasas por allí, es mejor que no te acerques a él.<03e0>¡Dicen que mira a la gente de una forma muy rara!
+Menudo notición, ¿no?
+¡Ach! Conque un científico loco, ¿eh?<03e0>¡Pues él también es uno de mis rivales! ¡Hala!
+Pero... ¿POR QUÉ?
+Dicen que la cafetería de Baaluk está infestada<03e0>de bichos que siguieron al dueño desde el desierto.
+Menudo notición, ¿no?
+¡Ach! Así que bichos del desierto, ¿eh?<03e0>¡Vosotros también sois mis rivales!
+¿Los bichos también? ¿Estás mal de la cabeza?
+Nagapur es cada vez menos segura.<03e0>Parece que han desaparecido varios niños...
+Menudo notición, ¿no?
+¡Ach! Conque Nagapur, ¿eh?<03e0>Pues nunca he estado allí, así que no tengo<03e0>nada que añadir al respecto. ¡Siguiente!
+Eres un aburrimiento de hombre...
+A los aventureros les ha dado por intercambiar<03e0>los tesoros que encuentran durante sus viajes.<03e0>La moda ha calado muy hondo, sobre todo en Royotia...
+Menudo notición, ¿no?
+¡Ach! Conque intercambio de tesoros, ¿eh?<03e0>¡Yo también me dedicaba a eso antes<03e0>de hacerme tabernero! O eso creo, al menos...
+¿Cómo? ¿No estás seguro?
+Parece que los mercaderes de Royotia están hartos<03e0>de que Balterossa controle sus rutas comerciales.
+Menudo notición, ¿no?
+¡Ach! Conque Balterossa, ¿eh?<03e0>Nunca he estado allí. Me pregunto cómo será aquello.
+Vaya... Eso es nuevo.
+Un mercenario yama anda buscando un socio...<03e0>Sería una buena forma de conseguir unas monedas.
+Menudo notición, ¿no?
+¡Ach! Conque un mercenario yama, ¿eh?<03e0>¡Pues él también es mi rival, hala!<03e0>Lástima que no sepa quién es...
+Me lo suponía.
+En Celapalais hay un tipo con ciertos problemas<03e0>de personalidad... ¡Unas veces es encantador<03e0>y otras se pone a insultar a la gente sin motivo!
+Menudo notición, ¿no?
+¡Ach! Conque un loco anda suelto, ¿eh?<03e0>¡Pues él también es mi rival!<03e0>Y, por una vez, lo digo en serio...
+Y, para variar, estoy de acuerdo contigo.
+Hay un qsiti que se pone en lugares concurridos<03e0>y trata de estorbar lo más posible para buscar pelea<03e0>con los que se tropiezan con él. Vaya un pesado...
+Menudo notición, ¿no?
+¡Ach! Conque un qsiti pesado, ¿eh?<03e0>¡Pues es otro de mis grandes rivales!
+¿Rivaliza contigo en pesadez, me figuro?
+Hay una chica misteriosa que anda buscando ayuda.<03e0>Parece que tiene un problema serio de verdad...
+Menudo notición, ¿no?
+¡Ach! Conque una chica misteriosa, ¿eh?<03e0>¡Obviamente, también es una de mis admiradoras!<03e0>O eso espero, vaya.
+Qué duro es ser una estrella, ¿verdad?
+No sé si habrás pasado por Marismarchita,<03e0>pero parece que las Damas Sangrientas están<03e0>reuniéndose por allí. Debe de tratarse de algo gordo.
+Menudo notición, ¿no?
+¡Ach! Conque las Damas Sangrientas, ¿eh?<03e0>¡Evidentemente, todas son mis admiradoras!
+Que sí, que sí...
+Parece que los jhanas han vuelto a hacer de las suyas<03e0>en el Océano de Arena. ¡Pero si parece que fue ayer<03e0>cuando el Gae Bolg los despachó!
+Menudo notición, ¿no?
+¡Ach! Conque los jhanas, ¿eh?<03e0>¡Podría acabar con ellos yo solo!<03e0>Bueno, vale, no...
+Venga, claro... ¿Tú y cuántos más?
+Parece que, hace poco, los Halcones Argénteos<03e0>despacharon a una banda de jhanas...
+Menudo notición, ¿no?
+¡Ach! Conque los Halcones Argénteos, ¿eh?<03e0>¡Todos ellos son mis rivales!<03e0>Seguro que alguno de ellos me tiene respeto...
+Y yo soy tonto y me lo creo...
+Los Halcones Argénteos se están ocupando<03e0>de acabar con los restos del ejército del Invasor.<03e0>¡Menos mal! Quién sabe qué podrían intentar...
+Menudo notición, ¿no?
+¡Ach! Conque el Invasor, ¿eh?<03e0>¡Ese tipo también es mi rival!
+¿Pero a ti qué te ha hecho?
+Dicen por ahí que un tipo de aspecto sombrío<03e0>se pasa las horas muertas en la taberna de Elysion.<03e0>Tiene a todo el mundo deprimido con sus lamentos.
+Menudo notición, ¿no?
+¡Ach! Conque un tipo deprimente, ¿eh?<03e0>¡Pues entonces él también es mi rival!<03e0>Aunque yo estoy más bien contentillo...
+Pues vaya rivalidad más absurda...
+

@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1290_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hermeien!
+El Invasor...
+¡Invasor, mi Señor!<0fe003e00ee0>¡Por favor, tenéis que ayudarme!
+¡Lord David!
+Perdonadme, no era mi intención<0fe003e00ee0>dejarme llevar... ¡Sólo pretendía ayudar!<1ae0000068430fe005e001000ee0>Os lo ruego... ¡Tened piedad!
+Necio. En vez de consagrarte a las reliquias,<0fe003e00ee0>sigues absorto en tus estúpidas intrigas...<1ae0000091430fe005e001000ee0>Se acabó.
+¡Duque!
+Ya basta. Si aún no has despertado,<0fe003e00ee0>es porque has dejado de ser necesario.
+¡Rush!
+¡Alto!
+Tú...
+Esperad... ¡No me abandonéis! ¡Invasor!
+

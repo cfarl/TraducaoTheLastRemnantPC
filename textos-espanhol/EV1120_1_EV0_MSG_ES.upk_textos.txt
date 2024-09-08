@@ -1,0 +1,21 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1120_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Milord...
+¿Irina?
+Tú debes de ser Irina Sykes...<1ae0000020430fe005e001000ee0>He oído hablar de ti...
+Siento una corriente de energía que fluye<0fe003e00ee0>hacia él. Es como si fuera... una reliquia.
+¿Qué? No lo entiendo. ¿Cómo es posible?
+Alguien debe de estar detrás de esto...
+La energía que me está enviando<0fe003e00ee0>me devora por dentro... Intenta controlarme...<1ae0000087430fe005e001000ee0>Noto su presencia a través de ella...
+David... ¿Tú no lo notas?
+Gracias.
+Hemos de ir al Castillo de Ghor e informar al Duque.
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Vale!
+David, no le digas a ese vejestorio<0fe003e00ee0>que me has visto en este estado...<1ae0000082430fe005e001000ee0>O estará restregándomelo toda mi vida...
+Entendido.
+

@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Sí, soy Rainn...
+¿Eh?<03e0>¿Quieres que te devuelva el tesoro de Raphus?<04e0>No será fácil... Lo cambié por esta funda de espada<03e0>junto con un poco de acero de Royotia.<04e0>Claro que, si devuelves la funda, es posible<03e0>que logres recuperar el tesoro de ese viejo...<04e0>Veamos... Si quieres esta funda, tráeme el <1be064f4ecff>Anillo<03e0>de la calma crepuscular<1ce0>. Alyssa debe de conocer<03e0>su paradero. Prueba a buscarla en <1be0ffbe34ff>Baaluk<1ce0>.
+¡Has conseguido el Anillo de la calma crepuscular!<03e0>Entonces... ¿Me lo cambias por esta funda?<06e0000008e0000000000000>A eso vengo.<09e008e0010000000300>Pues va a ser que no.
+¡Muchas gracias! Busca a Beauson en <1be0ffbe34ff>Elysion<1ce0>.<03e0>Supongo que aún tendrá el tesoro del viejo Raphus.
+¿No? ¿Y qué tal si añado al lote este estoque?<06e0000008e0000000000000>Vale, entonces sí.<09e008e0010000000300>No la necesito.
+Eres duro de pelar, chico.... De acuerdo, tú ganas.<03e0>Busca a Beauson en <1be0ffbe34ff>Elysion<1ce0>. Supongo que aún tendrá<03e0>el tesoro del viejo Raphus.
+Bueno, pues vale... Olvídalo entonces.
+* Silencio *<04e0>¿Me podrías dejar en paz?
+Si quieres esta vieja funda, vas a tener que traerme<03e0>el <1be064f4ecff>Anillo de la calma crepuscular<1ce0>. Si vas en serio,<03e0>dirígete a <1be0ffbe34ff>Baaluk<1ce0> y pregunta por Alyssa.
+

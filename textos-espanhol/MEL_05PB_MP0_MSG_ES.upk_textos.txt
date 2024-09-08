@@ -1,0 +1,247 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido al Arroyo Susurrante.
+¿Conoces a Leticia, la doncella del bosque?<03e0>Es tan hermosa y frágil como una flor silvestre.<04e0>¡Ojalá consiguiera que me asignasen la misión<03e0>de protegerla hasta que la muerte nos separe!<04e0>Daría cualquier cosa por hablar con ella...
+¡No tenía ni idea de que Neo ya se había pedido<03e0>proteger a Leticia!<04e0>Neo y yo nos apuntamos a la Orden al mismo tiempo,<03e0>así que sé que es un hombre muy valiente y capaz<03e0>de blandir una espada...<04e0>¡Pero yo soy mucho más guapo y fuerte que él!<04e0>Yo... Ay... Déjame a solas, por favor.
+He visto lo bien que peleaste en la batalla<03e0>de la meseta de Malbourge...<04e0>Sí, yo también participé. Me dejaste impresionado<03e0>con tu manejo de la espada, muchacho.<04e0>¿Cómo? ¿El asunto de Neo y Leticia?<03e0>No, tranquilo, ya lo he superado.<04e0>Cuando te vi emplearte a fondo en la batalla,<03e0>comprendí que no necesito a ninguna mujer.<03e0>Ser un gran guerrero es suficiente para mí.<04e0>¡Gracias por ayudarme a darme cuenta!
+Entreno todos los días para convertirme<03e0>en un gran caballero, aunque aún no he encontrado<03e0>una doncella a la que consagrar mi existencia.<04e0>Me pregunto si algún día daré con ella...
+Estaba en la plaza del Cobalto, rezándole<03e0>a la Lágrima Azul por la pronta recuperación<03e0>de la maestra Olebeag, cuando de pronto...<04e0>¡ZAS! ¡Encontré a mi media naranja!<04e0>Tenía unos ojos preciosos, una mirada llena<03e0>de sinceridad... Pero aún no le he revelado<03e0>mis sentimientos.<04e0>Espero que algún día podamos dedicar nuestras vidas<03e0>el uno al otro y proteger juntos esta hermosa ciudad.
+Desde que perdimos la Lágrima Azul, la gente<03e0>anda preocupada por el futuro de la ciudad.<03e0>Hoy he ido al gremio a ver si podía ayudar...<04e0>Y de pronto... ¡ZAS! Di con mi media naranja.<04e0>Tenía unos ojos preciosos y su belleza resplandecía...<03e0>Pero todavía no le he dicho lo que siento.<04e0>Espero que algún día podamos dedicar nuestras vidas<03e0>el uno al otro y proteger juntos esta hermosa ciudad.
+¿Has visto por aquí a un qsiti albino?<03e0>Era el líder de un grupo que fue exterminado<03e0>en las Catacumbas. Él fue el único superviviente.<04e0>A saber en qué andará ahora metido...<03e0>Espero que no haga ninguna locura.
+Vaya.<04e0>Lo siento, no tengo tiempo para ti.
+He oído que eres el líder de este grupo.<04e0>La situación debe de ser realmente desesperada...<03e0>¿Yo, Leucetius, a las órdenes de un niñato mitra?<04e0>Me alisté porque oí que las fuerzas especiales de Athlum<03e0>necesitaban ayuda, pero no tengo tiempo para cuidar<03e0>de un puñado de críos.<04e0>Ya os enseñaré lo que es ser líder de verdad<03e0>cuando haya «hablado» con los generales...
+No tengo nada que decirte.
+Ese yama...<03e0>Qué fuerza más descomunal...<04e0>...<04e0>¡Oye, no me mires con esa cara!<03e0>¡Sólo le he dejado ganar para no humillarlo en público!<04e0>No es un oponente digno de mí...<03e0>Será mejor que me enfrente a otro de los generales.
+Déjame tranquilo.
+Esa... Esa chica mitra...<03e0>Qué técnica de esgrima más...<04e0>...<04e0>¡Oye, no me mires con esa cara!<03e0>¡Le he dejado ganar!<03e0>¿Cómo iba a hacerle daño a una jovencita?<04e0>Nada de eso... Necesito enfrentarme a alguien<03e0>de mayor rango para conseguir que me escuchen.
+Largo de aquí. ¡Fuera!
+No... No puedo dejar de temblar...<03e0>Su mirada es estremecedora...<04e0>* Escalofríos *<04e0>Rush, tú conoces bien al Marqués, ¿verdad?<04e0>Dime una cosa... Cuando él... Su Alteza, quiero decir...<03e0>Cuando me miró directamente a los ojos,<03e0>empecé a temblar de forma incontrolable.<04e0>¿Cómo es posible que un mitra que no ha cumplido<03e0>ni siquiera veinte años haga temblar a los demás<03e0>con sólo mirarlos?<04e0>¿Es algún poder propio de los marqueses,<03e0>o acaso es porque tiene a su servicio una reliquia<03e0>tan extraordinaria como el Gae Bolg?<04e0>Sea como fuere, Rush, creo que te debo una disculpa.<03e0>Si unos guerreros tan poderosos se han puesto<03e0>a tus órdenes, debes de ser un gran líder.<04e0>Si alguna vez necesitas que te eche una mano,<03e0>no dudes en avisarme.
+¿Has venido a pedirme ayuda?<03e0>No seas tímido.
+El tabernero es mi mentor.<03e0>¡Me gustaría llegar a ser como él algún día!
+¡Pues déjate de cháchara y ponte a trabajar!
+Parece que la esposa del barón Nielsen de Celapalais<03e0>ha desaparecido... Aunque, sabiendo cómo se llevan,<03e0>la verdad es que no me extraña.
+Qué cosas, ¿verdad?
+¿Es que no lo sabías?<03e0>El Barón y la hija de los Gilles-Barre se casaron<03e0>en un matrimonio concertado.
+¡Cuánto sabes!
+Dicen que alguien planea asesinar al duque de Qubine.<03e0>He oído que han visto a una mujer sospechosa<03e0>que se dedica a seguirle los pasos.
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Bueno, está claro que el duque de Qubine<03e0>es un tipo inteligente. No le pasará nada.
+¡Cuánto sabes!
+Dicen que la princesa del desierto está enamorada<03e0>y se escapa del castillo cada dos por tres...
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Parece que se ve en secreto con un guerrero<03e0>de lo más cortés. Me alegro por ella...
+¡Cuánto sabes!
+¡La princesa del desierto se ha fugado con su amado!
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Su madre, la Duquesa, quería que rompiera con él.<03e0>Espero que hagan las paces...
+¡Cuánto sabes!
+El conflicto entre Balterossa y Royotia<03e0>se pone peor cada día que pasa.<03e0>Todo el mundo dice que la guerra es inevitable.
+Qué cosas, ¿verdad?
+¿No te has enterado? Todo esto se debe<03e0>a que Royotia tiene que pagar a Balterossa<03e0>para poder vender sus productos en otras tierras.
+¡Cuánto sabes!
+Se rumorea que el primer Emperador celestial<03e0>halló un portal a otra dimensión en unas marismas<03e0>y logró cerrarlo gracias a sus poderes.
+Qué cosas, ¿verdad?
+¿Es que no lo sabes?<03e0>El primer Emperador celestial venció y encerró<03e0>a todo bicho peligroso que se encontró.
+¡Cuánto sabes!
+Dicen que, al unirse en juramento a un caballero<03e0>de Melphina, las doncellas del bosque obtienen<03e0>la facultad de ver y oír lo que haga su compañero.
+Qué cosas, ¿verdad?
+¿Es que no lo sabías?<03e0>Cuando un caballero y una doncella hacen sus votos,<03e0>prometen vivir juntos una vida de castidad.
+¡Cuánto sabes!
+He oído que le ha pasado algo a la reliquia<03e0>de Marismarchita... Las doncellas del bosque<03e0>y la Orden de Melphina ya lo están investigando.
+Qué cosas, ¿verdad?
+¿Es que no lo sabes? Hay muchos grupos secretos<03e0>en todo el mundo que podrían estar detrás de esto.<03e0>La verdad, no me sorprende que pasen estas cosas.
+¡Cuánto sabes!
+La Gala Cósmica está a punto de comenzar,<03e0>pero la ninfa todavía no se ha presentado.
+Qué cosas, ¿verdad?
+¿Es que no lo sabías?<03e0>Sólo la ninfa puede inaugurar la Gala Cósmica.<03e0>Y la verdad, la de este año se está luciendo...
+¡Cuánto sabes!
+Al final, la ninfa llegó a tiempo y la Gala Cósmica<03e0>comenzó con normalidad... Lástima que los monstruos<03e0>hayan interrumpido la celebración, como siempre.
+Qué cosas, ¿verdad?
+¿Es que no lo sabes? La Gala Cósmica es un ritual<03e0>para rezar por la paz en todo el mundo...<03e0>Y a los monstruos no les gusta la paz. Eso es todo.
+¡Cuánto sabes!
+Una mujer chapada a la antigua<03e0>anda buscando un guardaespaldas.<03e0>Está en la taberna de la ciudad de los canales.
+Qué cosas, ¿verdad?
+¿No te habías enterado?<03e0>Nadie sabe quién es ni de dónde ha salido...<03e0>Sólo sabe hablar de venganza.
+¡Cuánto sabes!
+Parece que muchos tesoros de la ciudad sagrada<03e0>han caído en manos de traficantes que los venden<03e0>en el mercado negro.
+Qué cosas, ¿verdad?
+¿No lo sabías?<03e0>La ciudad sagrada ya no es lo que era.<03e0>Apenas pueden aferrarse a la gloria de tiempos pasados...
+¡Cuánto sabes!
+Dicen que un tipo anda buscando tres piedras<03e0>que cuentan la historia del antiguo reino del desierto.
+Qué cosas, ¿verdad?
+¿Es que no lo sabías? La historia del desierto<03e0>se remonta siglos atrás... Hasta hay quien dice<03e0>haber visto la torre de la leyenda.
+¡Cuánto sabes!
+He oído que un científico loco está buscando<03e0>un asistente que le ayude a investigar los misterios<03e0>de la arcamagia.
+Qué cosas, ¿verdad?
+¿Es que no lo sabías? Hace tiempo existía un arte<03e0>conocido como arcamagia... No tenía nada que ver<03e0>con los hechizos que se utilizan ahora.
+¡Cuánto sabes!
+Dicen que no sé qué monstruo al que encerró<03e0>el primer Emperador celestial ha vuelto a las andadas...
+Qué cosas, ¿verdad?
+¿No lo sabes? El primer Emperador acabó con<03e0>todos los monstruos que existían por entonces.<03e0>¡Algunos podrían haber destruido el mundo!
+¡Cuánto sabes!
+Un tipo con amnesia está vagando por el desierto<03e0>en busca de algo que ha perdido...<03e0>Tal vez se refiera a sus recuerdos.
+Qué cosas, ¿verdad?
+¿No sabes nada del tema?<03e0>Anda vagando por ahí en busca de cosas<03e0>que le hagan recuperar la memoria.
+¡Cuánto sabes!
+Un famoso bandido anda rondando por Athlum.<03e0>La gente anda diciendo que está esperando a alguien.
+Qué cosas, ¿verdad?
+¿No lo sabes? Se trata de Loki, un bandido despiadado.<03e0>Hacía tiempo que nadie lo veía por aquí...<03e0>Bueno, hasta este momento.
+¡Cuánto sabes!
+En las ruinas de Robelia hay una estatua que,<03e0>según dicen, puede reunirte con tus seres queridos.<03e0>Dicen que alguien anda preguntando por ella...
+Qué cosas, ¿verdad?
+¿Es que no lo sabes?<03e0>Tú piensa en el pasado de Robelia y en su caída...<03e0>¡Seguro que te viene a la cabeza!
+¡Cuánto sabes!
+Ha habido un asesinato en la gran ciudad...<03e0>¡Y el culpable todavía anda suelto!
+Qué cosas, ¿verdad?
+¿No te has enterado? Se carga a todos<03e0>los que se le acercan, así que nadie<03e0>ha logrado capturarlo hasta la fecha.
+¡Cuánto sabes!
+Un yama enorme está buscando algo que ha perdido.<03e0>Dicen que se comporta de una forma un tanto extraña...
+Qué cosas, ¿verdad?
+¿No lo sabes? Mira que los yamas son grandes,<03e0>pero es que éste es enorme incluso para ellos...
+¡Cuánto sabes!
+Parece que han visto a un qsiti albino curioseando<03e0>no sé qué libros sobre arcamagia. Dicen que se parece<03e0>a alguien, pero vete a saber a quién...
+Qué cosas, ¿verdad?
+¿No te habías dado cuenta?<03e0>¿No te recuerda al qsiti albino que solía<03e0>formar parte de nuestra tropa?
+¡Cuánto sabes!
+Hay un par de hermanas gemelas que está dando<03e0>mucho que hablar. Trabajan como mercenarias<03e0>y parece que son una monada...
+Qué cosas, ¿verdad?
+¿Es que no las conoces? Son muy famosas...<03e0>¡Y son tan guapas como hábiles en combate!<03e0>Pero creía que ya no trabajaban como mercenarias...
+¡Cuánto sabes!
+Un tipo está organizando no sé qué juego<03e0>en el Océano de Arena. Me pregunto si encontrará<03e0>a mucha gente dispuesta a participar...
+Qué cosas, ¿verdad?
+¿Es que no te has enterado?<03e0>Creo que todo esto lo hace por puro aburrimiento...
+¡Cuánto sabes!
+Dicen que un anciano guerrero ha recorrido<03e0>el mundo entero en busca de no sé qué espada.<03e0>¡Parece que incluso ha cruzado el Océano de Arena!
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Dicen que está buscando un arma de gran poder<03e0>para proteger a su Señor.
+¡Cuánto sabes!
+El duque de Ghor se preocupa por todos y cada uno<03e0>de los soldados que tiene a su servicio.
+Qué cosas, ¿verdad?
+¿Acaso no lo sabes?<03e0>Es el mejor jefe que podían tener.
+¡Cuánto sabes!
+La familia Honeywell es fiel servidora de Athlum.<03e0>Los habitantes de la ciudad han depositado<03e0>una gran confianza y respeto en sus miembros.
+Qué cosas, ¿verdad?
+¿Es que no lo sabes?<03e0>Los Honeywell han dado un nuevo significado<03e0>a la palabra «respeto».
+¡Cuánto sabes!
+Dicen que Torgal, uno de los generales de Athlum,<03e0>es algo susceptible con su pasado.
+Qué cosas, ¿verdad?
+¿De qué te sorprendes? Es un sovani<03e0>y ha vivido mucho más tiempo que nosotros.<03e0>Es normal que tenga cosas que esconder...
+¡Cuánto sabes!
+¡Dentro de nada empezará el Torneo de los héroes!
+Qué cosas, ¿verdad?
+¿Es que no lo sabes? Cada equipo debe enfrentarse<03e0>a varios grupos de monstruos para ganar el torneo.<03e0>Hace falta mucho trabajo en equipo para conseguirlo...
+¡Cuánto sabes!
+Dicen que la Academia de las Artes Místicas<03e0>es una institución de gran renombre.<03e0>Sus estudiantes suelen llegar lejos.
+Qué cosas, ¿verdad?
+¿No lo sabías?<03e0>Creo que cierto general muy famoso estudió allí.
+¡Cuánto sabes!
+Athlum ha sufrido ya lo suyo...<03e0>¡Esperemos que la joven Honeywell<03e0>haga su trabajo tan bien como su madre!
+Qué cosas, ¿verdad?
+¿No lo sabes? El clan de los Honeywell lleva<03e0>varias generaciones al servicio de Athlum.<03e0>Ahora es el turno de esa joven.
+¡Cuánto sabes!
+Muchas chicas se preguntan cómo es posible<03e0>que el marqués de Athlum no tenga una mujer<03e0>en su vida. La verdad es que nadie se lo explica.
+Qué cosas, ¿verdad?
+¿No lo sabías? En Athlum se las apañan muy bien<03e0>para no airear sus trapos sucios. Seguro que tiene<03e0>alguna amiga secreta...
+¡Cuánto sabes!
+Se rumorea que la ex directora de la Academia<03e0>anda de ciudad en ciudad visitando tabernas...
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Parece que está llevando a cabo una investigación<03e0>o algo parecido.
+¡Cuánto sabes!
+Últimamente la doctora Sykes ha estado visitando<03e0>el castillo de Athlum muy a menudo.
+Qué cosas, ¿verdad?
+¿No lo sabes? Sabe mucho sobre las reliquias.<03e0>Seguramente esté llevando a cabo alguna investigación.
+¡Cuánto sabes!
+Dicen que han visto a un monstruo que surca<03e0>los cielos de Fordragón. La gente de la ciudad<03e0>está preocupada por lo que pueda pasar...
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>También han visto una luz naranja por esa zona...
+¡Cuánto sabes!
+Una guerrera un tanto apasionada pretende cazar<03e0>a los responsables del incidente de las marismas.<03e0>Y creo que a su comandante no le hace gracia...
+Qué cosas, ¿verdad?
+¿No te habías enterado? Por lo visto, ella<03e0>y otro caballero poco menos que le suplicaron<03e0>a su Capitán que les dejase ocuparse del caso.
+¡Cuánto sabes!
+Dicen que hay una panda de monstruos feroces<03e0>rondando por el Océano de Arena.<03e0>Ni siquiera el ejército sabe qué hacer con ellos.
+Qué cosas, ¿verdad?
+¿No te habías enterado?<03e0>Los monstruos están causando muchos problemas.<03e0>Tarde o temprano atravesarán nuestras defensas...
+¡Cuánto sabes!
+¡Los arqueólogos dicen que en las profundidades<03e0>de cierto volcán se oculta un ser capaz de arrasar<03e0>una ciudad entera!
+Qué cosas, ¿verdad?
+¿No te habías enterado?<03e0>No sé si fiarme de lo que dicen, sinceramente.<03e0>Creo que sus investigaciones se basan en leyendas.
+¡Cuánto sabes!
+Nadie sabe qué peligros se esconden en el interior<03e0>del volcán, pero los Lores siempre se las apañan<03e0>para averiguar esas cosas por imposible que parezca.
+Qué cosas, ¿verdad?
+¿Es que no te habías enterado?<03e0>Los Lores son capaces de conseguir cualquier cosa<03e0>que deseen, y la información no es una excepción.
+¡Cuánto sabes!
+Parece que no sé qué ciudad ha perdido a su Señor<03e0>y sus hijos están peleándose por el puesto de su padre.
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Los hermanos que se disputan el puesto son<03e0>un par de imbéciles. La pobre ciudad lo lleva claro...
+¡Cuánto sabes!
+Dicen que, si escuchas con atención,<03e0>a veces se oye un lamento procedente<03e0>de las profundidades del Océano de Arena.
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Acaban de descubrirlo.
+¡Cuánto sabes!
+Hace mucho, mucho tiempo, un gran héroe<03e0>vagaba por el Océano de Arena.
+Qué cosas, ¿verdad?
+¿No te habías enterado? Hmm...<03e0>Me pregunto si al traer de vuelta al Héroe,<03e0>aquel monstruo también volvería a la vida.
+¡Cuánto sabes!
+Dicen que, si te paras a mirar las columnas<03e0>del Océano de Arena, aparecerán unos fantasmas.
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Las columnas tienen grabadas no sé qué letras.<03e0>Parece una especie de mensaje o algo así.
+¡Cuánto sabes!
+En Melphina hay un tipo que afirma ser un científico,<03e0>pero la gente procura no acercarse a él.<03e0>Dicen que se le va un poco la chaveta.
+Qué cosas, ¿verdad?
+¿No lo sabías?<03e0>Pues está justo allí.
+¡Cuánto sabes!
+Dicen que en no sé qué ciudad del desierto<03e0>hay una taberna que está infestada de bichos.<03e0>Parece que el dueño está desesperado.
+Qué cosas, ¿verdad?
+¿No lo sabes?<03e0>De vez en cuando hay plagas de estos insectos.<03e0>Debería llamar a un exterminador...
+¡Cuánto sabes!
+Desde aquel incidente, Nagapur se ha convertido<03e0>en un lugar peligroso. Hay mucha delincuencia,<03e0>sobre todo secuestros de niños.
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Es un problema serio, pero afortunadamente<03e0>hay mucha gente intentando resolverlo.
+¡Cuánto sabes!
+Antiguamente, la gente de Royotia se dedicaba<03e0>a recorrer las rutas comerciales e intercambiar<03e0>con otros viajeros los tesoros que encontraban.
+Qué cosas, ¿verdad?
+¿No lo sabías? Antes el trueque era muy popular...<03e0>Había algún timo de vez en cuando, claro está,<03e0>pero son los peligros del comercio...
+¡Cuánto sabes!
+Los mercaderes de Royotia se quejan<03e0>de que el trazado de las rutas comerciales les impide<03e0>vender sus mercancías más allá de Balterossa.
+Qué cosas, ¿verdad?
+¿No lo sabías? La situación se está poniendo fea,<03e0>pero Balterossa ya hará algo para solucionarla.<03e0>Se les da muy bien resolver este tipo de cosas...
+¡Cuánto sabes!
+Un mercenario yama anda buscando ayuda.<03e0>Parece que se ha topado con un trabajo<03e0>que le viene grande...
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>Parece que lleva a cabo sus misiones<03e0>de forma ejemplar y con gran discreción.
+¡Cuánto sabes!
+En Celapalais hay un tipo que tan pronto<03e0>es encantador como se pone hecho una fiera.<03e0>Parece que a algunas chicas las trae loquitas...
+Qué cosas, ¿verdad?
+¿No lo sabes?<03e0>Se trata de un joven que se preocupa muchísimo<03e0>por su hermana mayor.
+¡Cuánto sabes!
+Hay un qsiti que se pone en medio de las calles<03e0>más transitadas y mira con odio a toda la gente<03e0>que se choca con él... ¡Qué tipo tan raro!
+Qué cosas, ¿verdad?
+¿No te has enterado?<03e0>No creo que sea tan malo. Seguro que<03e0>tiene alguna buena razón para actuar así.
+¡Cuánto sabes!
+El otro día vi a una chica la mar de misteriosa.<03e0>La pobre tenía una cara... ¡Parecía que el mundo<03e0>se le hubiese venido encima!
+Qué cosas, ¿verdad?
+Ya lo creo. Hay gente destinada a grandes cosas<03e0>en esta vida... Y a veces este destino puede ser<03e0>una pesada carga.
+¡Cuánto sabes!
+Hay un grupo de Damas Sangrientas en las marismas.<03e0>Parece que se están preparando para algo importante...
+Qué cosas, ¿verdad?
+¿No las conoces?<03e0>Son un grupo de bandidas que recorren el mundo<03e0>apropiándose de los tesoros ajenos.
+¡Cuánto sabes!
+Parece que los jhanas andan sembrando el caos<03e0>en los alrededores del Océano de Arena.<03e0>Ni siquiera el Gae Bolg ha sido capaz de detenerlos...
+Qué cosas, ¿verdad?
+¿Es que no te has enterado? El ejército de Athlum<03e0>se ha enfrentado a ellos en la llanura de Yamarn<03e0>y les ha demostrado quién manda aquí.
+¡Cuánto sabes!
+¡Los Halcones Argénteos van a acabar<03e0>con todos los jhanas de la región!
+Qué cosas, ¿verdad?
+¿No te suenan? Son un grupo de soldados<03e0>que se dedican a recorrer el mundo<03e0>luchando por la justicia.
+¡Cuánto sabes!
+Los Halcones Argénteos van a despachar<03e0>a lo poco que queda del ejército del Invasor.
+Qué cosas, ¿verdad?
+¿Es que no lo sabes? El ejército del Invasor no son<03e0>más que un puñado de soldados que se han unido<03e0>a su causa sólo para ver qué sacan a cambio.
+¡Cuánto sabes!
+En la taberna de Elysion hay un tipo muy sombrío<03e0>que se pasa allí las horas muertas.<03e0>Parece que está espantando a la clientela...
+Qué cosas, ¿verdad?
+¿No lo sabías?<03e0>Muchas cosas están relacionadas entre sí.<03e0>Nada es casual en este mundo.
+¡Cuánto sabes!
+

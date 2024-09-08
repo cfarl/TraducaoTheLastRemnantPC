@@ -1,0 +1,35 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hey, chico! ¿Es la primera vez que vienes a Athlum?<03e0>Estás en la avenida de Xyphos.<04e0>Si continúas por aquí, llegarás a la Plaza Mayor,<03e0>y si sigues caminando, llegarás al barrio de Virtus.
+¡Hey! ¿Has oído hablar del Invasor y su ejército?<04e0>Son un hatajo de matones que harían cualquier cosa<03e0>por conseguir una reliquia... ¡Venderían a su madre<03e0>por un puñado de monedas!<04e0>Últimamente todo el mundo habla de ellos por aquí...<03e0>¡Algunos creen que quieren conquistar el mundo!<03e0>Son una banda peligrosa, no cabe duda.
+[[Mensaje de nivel 3]]
+¡Aaagh! ¡Ese maldito Invasor nos ha arrebatado<03e0>a nuestra querida lady Emma y al Corazón Valeroso!<04e0>Sin ellos, la ciudad nunca volverá a ser igual...<03e0>¡Maldito sea!
+Umm...<03e0>Entonces, ¿ese maldito Invasor ha muerto?<04e0>Nada me haría más feliz que saber que su ejército<03e0>ha sido destruido por completo, pero se rumorea<03e0>que no ha sido así...
+¡Oye! ¿Te has enterado?<03e0>¡Athlum por fin es independiente de Celapalais!<04e0>Ya era hora de que tuviéramos buenas noticias...<03e0>¡Parece que la suerte por fin nos vuelve a sonreír!
+Así que lord David piensa plantarle cara al Invasor...<03e0>¡Pues ese matón de tres al cuarto no tiene ni idea<03e0>de la que se le viene encima! <04e0>Ya verás... El Invasor no tiene ninguna posibilidad...<03e0>¡Espero que lord David le haga pagar lo de lady Emma!
+Tiendas, talleres, materiales, artículos de todo tipo...<04e0>En la avenida de Xyphos hay de todo.<03e0>¡Es el mejor lugar para ir de compras<03e0>de todo Athlum!
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+Hemos perdido el Corazón Valeroso y, con él,<03e0>nuestras esperanzas... La gente va por las calles<03e0>como si la vida ya no tuviera sentido.<04e0>Pero no es el momento de autocompadecerse.<03e0>El trabajo de un tendero es regalar sonrisas,<03e0>¿no te parece?<04e0>Lo que debemos hacer es fabricar muchas armas<03e0>y protecciones de la mejor calidad para poder<03e0>decirle al Invasor: «¡Aquí tienes tu merecido!».
+Desde que el duque de Ghor fue nombrado Presidente,<03e0>el mercado se ha revolucionado.<04e0>Parece que todos los artículos que antes<03e0>se guardaban exclusivamente para Nagapur<03e0>han empezado a llegar a las demás ciudades.
+¡Quién iba a decir que Athlum llegaría a convertirse<03e0>en un estado independiente!<04e0>¿Te has fijado en las miradas de la gente?<03e0>Están llenos de esperanza... Comparado con las caras<03e0>que traían antes, es como la noche y el día.<04e0>Y seguro que andan con ganas de comprar...<03e0>¡Algo me dice que va a ser un gran día!
+¿Ignorar las órdenes del Emperador celestial<03e0>y enfrentarse al Invasor? Bufff... La verdad,<03e0>no estoy seguro de que sea buena idea.<04e0>Pero en fin... Seguro que lord David nos llevará<03e0>por el buen camino. Confío en él, y los demás<03e0>mercaderes también... ¡Que el cielo proteja a Athlum!
+Esa enorme espada es la reliquia de esta ciudad<03e0>y ha cuidado de sus habitantes durante siglos.<04e0>Cuando era pequeña y me sentía triste,<03e0>venía a pasear por la Plaza Mayor.<04e0>Te sonará raro, pero... con sólo mirar a la reliquia,<03e0>me sentía mucho mejor.
+He oído que unos tipos pretenden atacar la ciudad.<03e0>Según parece, se hacen llamar «los invasores»<03e0>o alguna tontería semejante.<04e0>¡Que lo intenten si se atreven! Tenemos al Marqués<03e0>y a los generales para cuidar de nosotros, y además<03e0>el Corazón Valeroso nos protege de cualquier peligro.<04e0>¿Qué más da quiénes sean esos indeseables?<03e0>Nunca podrán con nosotros, así que no creo<03e0>que merezca la pena preocuparse por ellos.
+La espada... ha desaparecido.<03e0>No puedo evitar seguir mirando al cielo,<03e0>por la costumbre... Pero ya no hay nada.<04e0>¿Qué va a ser de nosotros?
+Dicen que el ejército está buscando una nueva reliquia<03e0>para sustituir al Corazón Valeroso. ¡Ni que fuera tan fácil!<04e0>Además, ya me había acostumbrado a mirar al cielo<03e0>y no encontrarlo.
+¿Te has enterado? Athlum al fin es independiente<03e0>de Celapalais.<04e0>¿No es maravilloso? Aunque el Corazón Valeroso<03e0>haya desaparecido, está claro que sigue velando<03e0>por nosotros...
+De modo que la Guardia de Athlum<03e0>va a enfrentarse al ejército del Invasor...<03e0>Espero que todos regresen sanos y salvos.<04e0>Estoy segura de que el Corazón Valeroso<03e0>los protegerá.
+Hmmm... Cara de pánfilo, ropajes estrafalarios,<03e0>andares de pato, hombros caídos...<04e0>¡Oye, tú! No serás Rush Sykes, ¿verdad?<06e0000008e0000000000000>Sí. ¿Por qué?<09e008e0010000000000>Te equivocas, vejestorio.
+Niñato insolente...<04e0>Lord David reclama tu presencia en el <1be0ffbe34ff>castillo<1ce0>.<03e0>Dice que tiene unos asuntos que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+No te esfuerces en hacerte el tonto, chaval.<03e0>Con esa cabeza hueca que tienes, la verdad<03e0>es que no lo necesitas...<04e0>Lord David reclama tu presencia en el castillo de Athlum.<03e0>Parece que tiene un asunto urgente que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+Hmmm... Esa cara, esas ropas...<04e0>Debes de ser Rush Sykes, ¿me equivoco?<06e0000008e0000000000000>Sí, soy Rush.<09e008e0010000000000>No soy el chico que buscáis.
+¡Lo sabía! Traigo un mensaje de lord David.<04e0>Dice que ha encontrado una pista bastante jugosa<03e0>y quiere que acudas al castillo para ponerte al día.<03e0>¿Entendido?
+¡Ja, ja! Déjalo estar, chaval, eres un pésimo actor.<03e0>Lord David quiere hablar contigo, pero no temas...<03e0>No pasa nada grave, al menos que yo sepa.<04e0>Parece que ha encontrado una pista prometedora<03e0>y quiere que vayas al <1be0ffbe34ff>castillo<1ce0> para ponerte al tanto.<04e0>No le hagas esperar demasiado, ¿de acuerdo?<03e0>De lo contrario, igual acabas metido en un lío...<03e0>¡Tranquilo, que es broma!
+¡Oh! Esa gallarda figura...<03e0>Vos debéis de ser Rush Sykes, ¿verdad?<06e0000008e0000000000000>El mismo que viste y calza.<09e008e0010000000000>¿Quién lo pregunta?
+¡Bienhallado seáis! Lord David, marqués de Athlum,<03e0>desea veros en el <1be0ffbe34ff>Castillo de Athlum<1ce0> tan pronto<03e0>como tengáis un momento.
+¡Ja, ja, ja! ¡Tan bromista como siempre!<03e0>Veréis, os traigo un mensaje de lord David.<03e0>Desea veros en el <1be0ffbe34ff>castillo<1ce0> cuando os venga bien.
+Lo siento, chico, aún no he abierto la tienda.<04e0>¿Que cuándo abriré?<03e0>Ufff... ¡Buena pregunta!
+¡El taller está abierto al público!<04e0>[[menú de personalización]]
+

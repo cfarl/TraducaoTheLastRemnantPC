@@ -1,0 +1,264 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Bienvenido al Honor del Guerrero, viajero!<03e0>Pasa y ponte cómodo.
+Bienvenido al Honor del Guerrero...<04e0>¡Anda! No me suena tu cara.<03e0>Y eso que un... rostro como el tuyo no se olvida<03e0>tan fácilmente. Eres nuevo por aquí, ¿verdad?<04e0>Bueno, te diré una cosa: si necesitas algo,<03e0>tú pide por esa boquita. Estaré encantado<03e0>de ser tu... guía personal.<04e0>* Mirada incrédula *<04e0>¿QUÉ? ¿Que quieres ver a lord David?<03e0>Verás, recibe a las visitas en su <1be0ffbe34ff>castillo<1ce0>,<03e0>en la zona central de Athlum, pero...<04e0>Ejem... No te ofendas, pero no es tan fácil<03e0>conseguir una audiencia con el Marqués.<03e0>Aunque igual hace una excepción por ti.
+Esos cabellos rubios, esas facciones esculturales...<03e0>Está claro que lord David es muy apuesto.<04e0>No puedo quitarle los ojos de encima...<03e0>De tanto como lo admiro, quiero decir.
+¡Bienvenido, majetón!<04e0>Hay una chica misteriosa paseándose por aquí.<03e0>La verdad es que era despampanante...<03e0>¡Aunque no tanto como yo, claro!
+Por cierto, conoces <1be0ffbe34ff>Celapalais<1ce0>, ¿no?<03e0>Es el estado soberano de Athlum. Está al noroeste,<03e0>en los límites del continente.
+Me encanta pasear por Celapalais de vez en cuando<03e0>para echar un ojo a lo último en complementos.<04e0>Deberías visitar ese lugar, cielo.<03e0>Seguro que te encantaría.
+¡Hombre! ¡Hola, cielo! Oye, no te asustes, pero...<03e0>¿Ves a esos soldados de allí?<03e004e0>Pues andan preguntando por ti.<03e0>¿No habrás estado metiéndote en líos, verdad?<04e0>Serás granujilla...<03e0>Me recuerdas a mí mismo cuando era más joven.
+¿A qué viene esa cara?<03e0>Si sigues frunciendo el ceño así, te saldrán arrugas.
+Hola, cielo. Esos guardias han vuelto a preguntar por ti.<03e0>Creo que traían un mensaje de lord David.<04e0>Oye... Muchos de mis clientes son guardias de Athlum,<03e0>pero no me hace gracia que vengan por aquí<03e0>estando de servicio... Ve a ver qué quieren, ¿vale?
+No me lo puedo creer... ¿Así que andas mandándote<03e0>mensajitos con mi adorado marqués de Athlum?<03e0>Pero... ¿Se puede saber qué hay entre vosotros dos?<04e0>Aaargh... ¡Me estoy poniendo malo de celos!
+Así que vas a Fordragón, el castillo de Nagapur, ¿no?<04e0>Ten cuidado con el duque Hermeien, Rush...<03e0>Es un tipo frío y despiadado.<04e0>Y si te encuentras con ese depravado del Invasor,<03e0>¡hazle pagar por la muerte de lady Emma!
+¡Por fin! Llegas tarde... ¡Llevo siglos esperándote!<03e0>Lord David también te ha estado buscando.<04e0>Parece que el duque de Ghor lo reclama para algo...<03e0>Deberías ir al castillo cuanto antes.
+Bueno... Supongo que ahora toca llamarle<03e0>«presidente Ghor», ¿verdad?<03e0>Dicen que es un líder varonil y valiente.<04e0>Por lo menos, supongo que es una buena elección<03e0>para gobernar el continente después de lo ocurrido.
+Athlum independiente, ¿eh? Suena bien...<03e0>Ojalá papá estuviera aquí para presenciar esto.
+¿Así que vas a enfrentarte al Invasor?<03e0>Más te vale volver sano y salvo, ¿me oyes?<03e0>Como te ocurra algo... Bufff, ¡te vas a enterar!
+La otra noche, el tabernero acabó su turno<03e0>en un estado un poco lamentable y se fue<03e0>a dar una vuelta por las ruinas de Robelia.<04e0>Entonces, un tipo que parecía su hermano gemelo<03e0>surgió de la nada y le atacó...<03e0>O al menos, eso es lo que cuenta él.<04e0>No sé... Algo me dice que simplemente se desmayó<03e0>y soñó toda esa historia.
+Al este de la ciudad se extiende una amplia franja<03e0>de campos conocida como la llanura de Yamarn.<04e0>A lo largo de la historia, allí han tenido lugar<03e0>muchas batallas contra todo tipo de enemigos,<03e0>desde hordas de monstruos hasta el ejército de Ghor.<04e0>En serio... Si un don nadie como yo pusiera el pie<03e0>en ese lugar, ¡volvería dentro de una caja de pino!
+¿Celapalais? Sí, es la gran ciudad del norte,<03e0>la capital soberana de Athlum.<04e0>Gracias a ellos, nuestro ejército no puede ni dar un paso<03e0>sin preguntarle al duque de Qubine con qué pie...
+¿Has pasado por la Plaza Mayor?<04e0>Es alucinante, ¿verdad? El Corazón Valeroso<03e0>ha desaparecido... ¡Como si nunca hubiera estado allí!<04e0>Esa reliquia es más que un símbolo de la ciudad.<03e0>La plaza es un lugar que trae muchos recuerdos<03e0>a los habitantes de Athlum...<04e0>Maldita sea... ¡Tabernero, ponme algo de beber!<03e0>Y que sea fuerte, ¿vale?
+Ese nuevo Presidente del Consejo, el duque de Ghor,<03e0>es el que vive en esa fortaleza destartalada, ¿no?<04e0>Cuando le nombraron, pensaba que era un tipo<03e0>con más músculos que cerebro, pero parece<03e0>que está consiguiendo mantenerlo todo bajo control.<04e0>¿Y dices que ahora envía a gente en busca<03e0>de reliquias nuevas? ¡No está nada mal!
+Aparentemente, el duque de Ghor fue quien propuso<03e0>al duque de Qubine que ya era hora de que Athlum<03e0>asumiera la independencia.<04e0>Aunque antiguamente hemos sido enemigos,<03e0>el duque de Ghor reconoce nuestra valía...<03e0>Está claro que se trata de un hombre de honor.
+Estoy seguro de que acabaremos con el Invasor.<03e0>De hecho, estoy tan seguro que voy a tomarme<03e0>una pinta más para celebrarlo.
+«Hubo un tiempo en que la tierra temblaba ante<03e0>constantes peligros... Hasta que, un día, los dioses<03e0>forjaron una espada gigante para desterrar al mal».<04e0>Eso dice la leyenda del Corazón Valeroso.<03e0>Cuando era joven, mi padre me la contaba<03e0>un día sí y otro también.<04e0>Luego solía añadir cosas como que debía ser bueno<03e0>o el Corazón Valeroso me perseguiría, pero en fin...<03e0>Ya se sabe cómo son los padres.
+¡Ese cuento del Corazón Valeroso no era más<03e0>que una sarta de mentiras!<04e0>El Invasor ha cometido tantas atrocidades...<03e0>Incluso ha matado a lady Emma...<03e0>¿Y cuándo va a ser castigado por ello, eh?<04e0>¡Y yo que creía en el Corazón Valeroso!<03e0>He confiado ciegamente en él todo este tiempo...<03e0>¡Maldito sea!
+¿Athlum independiente? No te lo tomes a mal,<03e0>no quiero aguarle la fiesta a nadie, pero...<03e0>ahora no estoy de humor para celebraciones.
+Esta vez... ¡Esta vez el Invasor va a pagar<03e0>por sus crímenes! ¡Y por fin averiguaremos<03e0>qué ha sido del Corazón Valeroso!
+Parece que han comenzado a reconstruir las minas<03e0>de Numor. Aún tienen que limpiarlas de monstruos,<03e0>así que tardarán algún tiempo en abrirlas.<04e0>Cuando terminen ya no podremos recolectar por allí,<03e0>lo cual es una lástima... Pero, por lo pronto, parece<03e0>que el ascensor al nivel inferior ya está arreglado.<04e0>¡Ahora es el mejor momento para explorar las minas,<03e0>antes de que sea demasiado tarde!
+¿Que quién soy?<03e0>Soy el maestro cazador de monstruos.<04e0>¿Puedo ayudarte en algo?<06e0000008e0000000000000>Háblame de los monstruos.<09e008e0010000000000>No, déjalo. ¡Buena caza!
+Muy bien, jovencito.<03e0>Espero que no te importe sentarte un rato...<03e0>Tengo mucho que contarte, ¿sabes?<06e0000008e0000000000000>Me sobra el tiempo.<09e008e0010000000000>Entonces mejor otro día.
+Bueno, como quieras.<03e0>Vuelve por aquí cuando tengas tiempo.
+Muy bien... ¡Pues vamos allá!
+La próxima vez que te topes con un monstruo,<03e0>fíjate bien en él. Si prestas atención, averiguarás<03e0>si está listo para combatir o no.
+Pero eso sí, no olvides mantener las distancias.<03e0>Si puedes acercarte sin que te vea, tanto mejor...<03e0>Es un truco de cazador, ¿sabes?
+¡A continuación, es hora de entablar combate!<03e0>Eso sí, ten cuidado al atacar a un monstruo...<03e0>¡Si te descuidas, puede que llame a sus amigotes!
+Lógicamente, la cosa cambia si vas a cazar por gusto...<03e0>Si quieres recompensas, lo mejor es entablar combate<03e0>con tantos monstruos como puedas al mismo tiempo.<04e0>Pero si tienes monstruos cerca, no te entretengas<03e0>ni hagas cosas raras. Aunque parezcan tranquilos<03e0>los monstruos pueden resultar impredecibles.
+No olvides que la práctica hace al maestro...<03e0>Mientras tengas confianza en ti mismo, todo irá bien.
+¿Que quién soy?<03e0>Soy el maestro caza... ¡Anda, si eres tú otra vez!<04e0>Supongo que quieres que te hable sobre monstruos...<03e0>Bueno, ¿tienes tiempo esta vez? Ten en cuenta<03e0>que esto podría a llevar un rato...<06e0000008e0000000000000>Soy todo orejas.<09e008e0010000000000>Esto... No, tengo que irme.
+Bueno, con esto es suficiente, ¿no te parece?<03e0>¡Si te cuento más secretos, me vas a dejar en el paro!<03e0>Tendrás que averiguar lo demás tú mismo... ¡Buena caza!
+Hmmm... Cara de pánfilo, ropajes estrafalarios,<03e0>andares de pato, hombros caídos...<04e0>¡Oye, tú! No serás Rush Sykes, ¿verdad?<06e0000008e0000000000000>Sí. ¿Por qué?<09e008e0010000000000>Te equivocas, vejestorio.
+Niñato insolente...<04e0>Lord David reclama tu presencia en el <1be0ffbe34ff>castillo<1ce0>.<03e0>Dice que tiene unos asuntos que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+No te esfuerces en hacerte el tonto, chaval.<03e0>Con esa cabeza hueca que tienes, la verdad<03e0>es que no lo necesitas...<04e0>Lord David reclama tu presencia en el castillo de Athlum.<03e0>Parece que tiene un asunto urgente que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+Hmmm... Esa cara, esas ropas...<04e0>Debes de ser Rush Sykes, ¿me equivoco?<06e0000008e0000000000000>Sí, soy Rush.<09e008e0010000000000>No, soy... su hermano.
+¡Lo sabía! Traigo un mensaje de lord David.<04e0>Dice que ha encontrado una pista bastante jugosa<03e0>y quiere que acudas al castillo para ponerte al día.<03e0>¿Entendido?
+¡Ja, ja! Déjalo estar, chaval, eres un pésimo actor.<03e0>Lord David quiere hablar contigo, pero no temas...<03e0>No pasa nada grave, al menos que yo sepa.<04e0>Parece que ha encontrado una pista prometedora<03e0>y quiere que vayas al <1be0ffbe34ff>castillo<1ce0> para ponerte al tanto.<04e0>No le hagas esperar demasiado, ¿de acuerdo?<03e0>De lo contrario, igual acabas metido en un lío...<03e0>¡Tranquilo, que es broma!
+¡Oh! Esa gallarda figura...<03e0>Vos debéis de ser Rush Sykes, ¿verdad?<06e0000008e0000000000000>El mismo que viste y calza.<09e008e0010000000000>¿Quién lo pregunta?
+¡Bienhallado seáis! Lord David, marqués de Athlum,<03e0>desea veros en el <1be0ffbe34ff>Castillo de Athlum<1ce0> tan pronto<03e0>como tengáis un momento.
+¡Ja, ja, ja! ¡Tan bromista como siempre!<03e0>Veréis, os traigo un mensaje de lord David.<03e0>Desea veros en el <1be0ffbe34ff>castillo<1ce0> cuando os venga bien.
+Ah, estás aquí.<04e0>El único motivo por el que he accedido a viajar contigo<03e0>es por el dinero. Si andas con ganas de cháchara,<03e0>búscate a otra y déjame en paz.
+¿Otra vez tú? ¿Se puede saber qué parte de la frase<03e0>«déjame en paz» es la que no entiendes?<04e0>Ya sé que crees que soy una avariciosa<03e0>que sólo piensa en el dinero, pero me da igual.<03e0>Si no eres dorado y brillante, no me interesas.<04e0>¿Que por qué? ¿Y a ti qué te importa?<03e0>Si tanto interés tienes en saberlo...<03e0>¿Cuánto estás dispuesto a pagar por esa información?
+¿Es que voy a tener que colgarme un cartel<03e0>que diga «cierra el pico»? No me apetece charlar.<03e0>Si no vas a ayudarme a hacerme rica, piérdete.
+¿Piensas seguir perdiendo el tiempo mucho rato?<03e0>No tengo intención de quedarme aquí apoltronada<03e0>rascándome el ombligo, igual que tú.<04e0>Tiene que haber ALGO que podamos hacer...<03e0>Salir a patrullar, cazar monstruos... ¡Yo qué sé!<03e0>¡Hagamos algo, aunque sea buscar gatos perdidos!<04e0>Y pensar que las doncellas deben de andar como locas<03e0>buscando dinero... Ellas saben lo que es no tener<03e0>un techo para cobijarse ni pan para alimentarse...<04e0>De verdad, no entiendo a la gente como tú...
+¿Será posible? ¿Sigues aquí sin hacer nada?<03e0>Si quieres hacer el vago es tu problema, pero para mí<03e0>el tiempo es oro. ¿Volvemos al trabajo de una vez?
+¿Que si estoy cansada?<03e0>¡No me hagas reír! ¡Si esto es como un paseo!<04e0>¿Alguna vez has vivido día a día, siempre huyendo,<03e0>sin poder parar ni un instante, ni mirar atrás por si...?<04e0>Ufff... Déjalo. Te importaría...<03e0>¿Te importaría no decirle a nadie que me has visto<03e0>perder los papeles? Sí que debo de estar cansada...<04e0>Oye, chaval...<03e0>Tú te apellidas «Sykes», ¿verdad? Supongo que eres<03e0>el hijo de esos célebres investigadores, ¿verdad?<04e0>¿No te hablaron nunca de los proyectos clandestinos<03e0>que tienen lugar en la Academia?<04e0>* Tenso silencio *<04e0>Olvídalo. Me basta con mirarte a la cara para ver<03e0>que no tienes ni idea de lo que te estoy contando.<03e0>No pienses en ello, no se te vaya a fundir la neurona.<04e0>Maldición, me duele la cabeza...<03e0>Déjame tranquila un rato, ¿vale?
+Oye... Déjame tranquila un rato, ¿quieres?
+Vaya, Rush... ¿Otra vez tú?<04e0>¿Qué pasa? ¿Quieres charlar? Pues charlemos...<03e0>Pero si me vas a hacer hablar, más te vale escucharme.<04e0>Ya sabes que pertenezco a las Damas Sangrientas.<03e0>Al principio se trataba de un grupo que dependía<03e0>del Tercer Comité.<04e0>El Tercer Comité se ocupa de realizar experimentos<03e0>demasiado «sucios» para los demás científicos...<03e0>Nosotras nos encargábamos de «echarles una mano».<04e0>No suena tan mal, ¿verdad? Eso es porque no sabes<03e0>de qué éramos capaces. Las «damas» no éramos<03e0>ningunas señoritas... Éramos más duras que nadie.<04e0>Tampoco es que pusiésemos muchas pegas, claro...<03e0>Nos creíamos unas suertudas por haber conseguido<03e0>semejante chollo, pero al final se nos acabó la suerte.<04e0>Un día, llegaron y nos obligaron a hacer de cobayas<03e0>para un experimento. Un experimento que consistía<03e0>en fusionar a una persona con una reliquia...<04e0>Desde entonces tengo que comer como una bestia<03e0>porque mi cuerpo necesita muchísimos más nutrientes<03e0>que el de una mitra normal.<04e0>Patético, ¿verdad?<04e0>* Silencio *<04e0>Oye, ¿se puede saber por qué me miras con esa cara?<03e0>¡Si quisiera tu compasión, me hubiera inventado algo<03e0>sobre el día en que se murió mi perro, o algo así!<04e0>Solamente...<03e0>Solamente necesitaba contártelo, ¿me oyes?<04e0>En fin... Lo hecho, hecho está.<03e0>Será mejor vivir la vida mientras aún pueda.
+Bueno, muchacho...<04e0>¿Qué nos toca hacer ahora?<03e0>Sea lo que sea, espero que nos paguen bien...
+Últimamente no ha pasado nada interesante.
+¿Has oído hablar del barón Nielsen de Celapalais?<03e0>Parece que su esposa ha desaparecido...<03e0>Aunque no me extraña, sabiendo cómo se llevan.
+Eso es lo que cuentan por ahí, al menos.
+¡Pues vaya esposa se ha ido a buscar!<03e0>Yo sí que sabría cuidar de él como se merece...
+Parece mentira, pero he oído que no sé qué loca<03e0>pretende asesinar al duque de Qubine...
+Eso es lo que cuentan por ahí, al menos.
+Pobrecito duque de Qubine... ¡Con lo adorable que es,<03e0>es increíble que tenga que preocuparse por esas cosas!
+Parece que la princesa del desierto se escapa<03e0>del castillo cada dos por tres para reunirse<03e0>con un tipo del que anda enamorada. Suena peligroso...
+Eso es lo que cuentan por ahí, al menos.
+La verdad es que tienes razón. Alguien podría tratar<03e0>de aprovecharse de una princesa indefensa como ella.<03e0>¡Esperemos que no se mezcle con malas compañías!
+¡No te lo vas a creer!<03e0>¡La princesa del desierto se ha fugado con su amado!
+Eso es lo que cuentan por ahí, al menos.
+Ains... Ese lord Paris vale su peso en oro.<03e0>Yo que estaba convencido de que era de los nuestros...
+Parece que las relaciones entre Balterossa y Royotia<03e0>andan de capa caída. Están movilizando a sus ejércitos<03e0>y los familiares de los soldados están preocupados...
+Eso es lo que cuentan por ahí, al menos.
+Bufff... ¡Menuda crisis se nos viene encima!<03e0>¡Así no se va a solucionar nada! ¡Como alguien<03e0>le haga un rasguño a mi Paris, lo estrangularé!
+Vale, vale... Cálmate, ¿quieres?
+Parece que el primer Emperador celestial ocultó algo<03e0>tras una barrera en las grandes marismas... y ahora<03e0>la barrera se ha roto. ¿Será una entrada a otro mundo?
+Eso es lo que cuentan por ahí, al menos.
+Todo el mundo tiene cosas de su pasado<03e0>que preferiría ocultar. Anda, que si yo me pusiera<03e0>a contar las cosas que querría olvidar...
+Una de las doncellas del bosque tiene un vínculo<03e0>tan fuerte con su caballero que es capaz de mirar<03e0>a través de sus ojos y escuchar lo que él oye...
+Eso es lo que cuentan por ahí, al menos.
+Oye, que mi alma también es pura...<03e0>En el fondo, soy como una doncella del bosque<03e0>atrapada en el cuerpo de un tabernero.
+Las doncellas del bosque y la Orden de Melphina<03e0>están preparando una expedición. Parece que le pasa<03e0>algo raro a la Hoja Caída, la reliquia de Marismarchita.
+Eso es lo que cuentan por ahí, al menos.
+Me pregunto qué estará pasando...<03e0>¡Ya lo tengo! ¡Vayamos a cotillear!
+Ejem... ¿Y qué hacemos con la taberna?
+La Gala Cósmica está a punto de empezar,<03e0>pero la Ninfa Cósmica aún no ha llegado a Nagapur...<03e0>Tal vez le haya ocurrido algo...
+Eso es lo que cuentan por ahí, al menos.
+¡Será posible! Pues no sé cómo pretenden<03e0>organizar una Gala Cósmica sin Ninfa Cósmica.<03e0>Yo podría ocupar su lugar, según lo que paguen...
+Al final, la Gala Cósmica empezó según lo previsto.<03e0>Normalmente es un aburrimiento, pero esta vez<03e0>aparecieron unos monstruos y hubo que interrumpirla.
+Eso es lo que cuentan por ahí, al menos.
+La Gala Cósmica suena de lo más romántico.<03e0>Debe de ser como vivir un cuento de hadas.<03e0>Jooo... ¡Yo también quiero ir!
+Una chica chapada a la antigua anda buscando gente<03e0>para hacer de guardaespaldas. Parece que suele estar<03e0>en la taberna de una ciudad llena de canales.
+Eso es lo que cuentan por ahí, al menos.
+¿Qué estará haciendo para necesitar tanta protección?<03e0>Yo no necesito andar rodeado de mozos musculosos.<03e0>Aunque, ahora que lo pienso... no suena tan mal, oye.
+¿Te gustan las antigüedades?<03e0>Parece que varios tesoros de los reinos antiguos<03e0>están a la venta en el mercado negro...
+Eso es lo que cuentan por ahí, al menos.
+¿Que alguien anda por ahí robando tesoros?<03e0>Pues más vale que no se acerquen al mío...<03e0>Nunca permitiré que acabe en el mercado negro.
+Estoy seguro de que no se acercarán por aquí.
+No sé qué tipo anda buscando tres piedras<03e0>relacionadas con el antiguo reino del desierto.<03e0>Parece que tienen valor histórico, o algo así.
+Eso es lo que cuentan por ahí, al menos.
+¿A quién le interesan los pedruscos?<03e0>Lo que me haría feliz es encontrar tres hombres<03e0>que merecieran la pena. Eso sí que sería valioso.
+Un tipo aficionado a la arcamagia anda buscando<03e0>a alguien que le ayude en sus experimentos...<03e0>Dice que está a las puertas de un gran descubrimiento.
+Eso es lo que cuentan por ahí, al menos.
+¿Arcamagia? Ese tipo debe de ser todo un cerebrito.<03e0>Igual me presento como voluntario...<03e0>Me gustan los hombres que saben lo que hacen.
+Parece que se ha escapado no sé qué monstruo<03e0>al que encerró el primer Emperador celestial...<03e0>¡La gente anda diciendo que es el fin del mundo!
+Eso es lo que cuentan por ahí, al menos.
+Pues habrá que aprovechar para repartir amor<03e0>mientras aún podamos, ¿no te parece?
+Hay un tipo amnésico que se dedica a vagar<03e0>por las ciudades del desierto buscando algo<03e0>que le ayude a recuperar la memoria...
+Eso es lo que cuentan por ahí, al menos.
+¡Qué misterioso! Seguro que sus aventuras eran<03e0>de lo más emocionante... ¡Ojalá pudiera conocerlo!
+Parece que han visto a un famoso bandido<03e0>por los alrededores de Athlum. Tiene pinta de estar<03e0>esperando a alguien, pero nadie osa preguntárselo.
+Eso es lo que cuentan por ahí, al menos.
+Jolín... ¡A ver si va a estar esperándome a mí!<03e0>Me gustan los hombres fuertes y grandotes,<03e0>pero prefiero irme con ellos por mi propio pie...
+¿Esperando por ti?<03e0>En fin... Cosas más raras se han visto.
+Dicen que en las ruinas de Robelia hay una estatua<03e0>que te reúne con quien tú quieras, esté donde esté.<03e0>Un chaval anda buscándola para ver a su hermana...
+Eso es lo que cuentan por ahí, al menos.
+¡Alucinante! Es como un cuento de hadas...<03e0>¡Qué no haría yo con una estatua semejante!
+¿Con quién pretendes reunirte?<03e0>Espera... Déjalo. Prefiero no saberlo.
+Un bichejo extraño está sembrando el pánico<03e0>en Celapalais. ¡La gente del lugar está aterrorizada!
+Eso es lo que cuentan por ahí, al menos.
+Apuesto a que el pobre se siente solo.<03e0>Seguro que sólo necesita cariño y muchos abrazos.
+¡Parece que un asesino anda suelto por la capital!
+Eso es lo que cuentan por ahí, al menos.
+¡Pero eso es terrible! Espero que lo encuentren<03e0>y lo lleven ante la justicia lo antes posible.<03e0>¡Así no hay quien se vaya de compras tranquilo!
+Cálmate, no se te vaya a romper una uña.
+Parece que no sé qué Yama anda buscando a alguien<03e0>que le ayude a encontrar no sé qué cosas, pero nadie<03e0>quiere tratar con él porque es un poco... rarito.
+Eso es lo que cuentan por ahí, al menos.
+Yo también estoy buscando algo... ¡El hombre ideal!<03e0>Mejor si tiene experiencia, pero si se me presentase<03e0>un buen aprendiz también lo aceptaría...
+Parece que un qsiti albino anda buscando cierto libro<03e0>sobre arcamagia. Mucha gente dice que le recuerda<03e0>a alguien, pero nadie sabe exactamente quién es.
+Eso es lo que cuentan por ahí, al menos.
+¿Un qsiti albino? Vaya, eso no se ve todos los días...<03e0>Si le convenzo para que trabaje aquí, seguro<03e0>que atrae a un montón de clientes...
+Oye, que esto es un bar, no una caseta de feria...
+Dos chicas gemelas han empezado a trabajar<03e0>como mercenarias... ¡Y no lo hacen nada mal!<03e0>Eso sí, una de ellas tiene un mal genio espantoso.
+Eso es lo que cuentan por ahí, al menos.
+¡Bah! No sé a qué viene tanto revuelo.<03e0>Todavía si fueran un par de hermanos gemelos<03e0>bien fuertes y musculosos...
+En el Océano de Arena hay un tipo que busca<03e0>a alguien que lo desafíe, pero no está dispuesto<03e0>a conformarse con cualquiera...
+Eso es lo que cuentan por ahí, al menos.
+Me encantan los hombres peligrosos...<03e0>Tal vez podríamos vernos las caras y «desafiarnos»<03e0>un poco el uno al otro...
+Dicen que un anciano guerrero está buscando<03e0>una espada muy especial por todo el Océano de Arena.
+Eso es lo que cuentan por ahí, al menos.
+Si te tiras tanto tiempo en el desierto, es normal<03e0>que parezcas un anciano... Yo no haría algo así<03e0>ni harto de vino. ¡Con lo que me cuesta cuidar mi cutis!
+Los guardias de Ghor han jurado lealtad<03e0>a su Señor hasta el final de sus días.
+Eso es lo que cuentan por ahí, al menos.
+Todo el mundo dice que el duque de Ghor es un tipo<03e0>valiente y honorable... Tal vez yo también debería<03e0>dejarlo todo y jurarle fidelidad por el resto de mi vida.
+¿Y qué tal si te mantienes fiel a esta taberna?
+No hay ninguna familia en el mundo tan entregada<03e0>como los Honeywell. Si los tienes de tu parte,<03e0>puedes conseguir cualquier cosa.
+Eso es lo que cuentan por ahí, al menos.
+¡Ya lo creo! Lady Emma sí que se merece un respeto.<03e0>Si las chicas de Athlum siguieran su ejemplo,<03e0>serían las más guapas y fuertes de todo el mundo.
+Sí, la verdad es que yo también la admiro.
+Esto sí que es un cotilleo jugoso...<03e0>¡Parece que el general Torgal se ha topado en Royotia<03e0>con alguien a quien no veía desde hace siglos!
+Eso es lo que cuentan por ahí, al menos.
+Pobrecillo... Entre tú y yo, entiendo perfectamente<03e0>cómo se siente. Es muy difícil restablecer los lazos<03e0>con tu hermano pequeño después de tanto tiempo...
+¡Pero si tu hermano viene a verte todos los días!
+Dentro de nada empezará el Torneo de los héroes...<03e0>Es una competición muy conocida entre los aficionados<03e0>al combate.
+Eso es lo que cuentan por ahí, al menos.
+Hombres misteriosos enfrentándose en combate,<03e0>con sus enormes músculos relucientes de sudor...<03e0>¿Dónde se compran las entradas?
+Parece que existe una academia que lleva años<03e0>entrenando a los mejores místicos del mundo...
+Eso es lo que cuentan por ahí, al menos.
+¡Así me gusta! ¡Los hombres de verdad también<03e0>tienen que tener un poco de cerebro!<03e0>Por eso son tan difíciles de encontrar...
+Athlum atraviesa momentos difíciles y la gente<03e0>anda un poco preocupada por la nueva matriarca<03e0>del clan de los Honeywell. Como es tan jovencita...
+Eso es lo que cuentan por ahí, al menos.
+No le pasará nada. Al fin y al cabo, es igualita<03e0>a lady Emma cuando tenía su edad.
+Ya. Yo tampoco creo que debamos preocuparnos.
+Últimamente circulan rumores sobre la vida amorosa<03e0>de lord David... o la falta de ella. Después de todo,<03e0>no se le conoce ningún romance...
+Eso es lo que cuentan por ahí, al menos.
+Lord David ya tiene bastante con gobernar este país...<03e0>Y además ya me lo he pedido yo. ¡Se siente, chicas!
+Dicen que la ex directora de la Academia está<03e0>vagando por todo el continente de taberna en taberna.<03e0>Supongo que está tratando de ahogar sus penas...
+Eso es lo que cuentan por ahí, al menos.
+Hay que ver... ¿De verdad cree que beber para olvidar<03e0>es la solución a sus problemas?
+Uno de los doctores Sykes no hace más que entrar<03e0>y salir del castillo de un tiempo a esta parte...<03e0>¡Debe de haber realizado un gran descubrimiento!
+Eso es lo que cuentan por ahí, al menos.
+Ese doctor Sykes... Además de su cerebro privilegiado,<03e0>tiene un punto áspero que lo hace irresistible. ¿Cómo?<03e0>¿Que te referías a Marina Sykes? ¿Y ésa quién es?
+Un objeto volador no identificado anda surcando<03e0>el firmamento por los alrededores de Fordragón.<03e0>Los habitantes del lugar andan histéricos al respecto...
+Eso es lo que cuentan por ahí, al menos.
+Entonces, cuando me fui de compras a Nagapur...<03e0>¿Crees que esa cosa estaba observándome<03e0>y babeando ante mi cuerpo serrano? ¡Qué ascazo!
+Bueno... ¿No decías que te gustaría que la gente<03e0>te prestase un poco más de atención?
+Una guerrera un tanto impulsiva ha decidido detener<03e0>a los causantes de los incidentes de Marismarchita,<03e0>aunque deba desobedecer al líder de su orden.
+Eso es lo que cuentan por ahí, al menos.
+De joven, yo también era un impulsivo guerrero...<03e0>¡Si me pusiese a contarte mis aventuras, nos daría<03e0>el amanecer y no habría hecho más que empezar!
+Jolín... Pues ya debe de ser una historia larga, ya.
+Dicen que ha aparecido un ejército de monstruos<03e0>en el Océano de Arena... ¡Son tan poderosos<03e0>que los habitantes de Balterossa están desesperados!
+Eso es lo que cuentan por ahí, al menos.
+Hace falta haber estado desesperado para entender<03e0>lo que es la esperanza... ¡Todo el mundo debería<03e0>probar la desesperación al menos una vez en la vida!
+Pues para esta gente podría ser la primera y la última...
+Según los expertos en historia, en el interior<03e0>de cierto volcán se esconde algo capaz de destruir<03e0>ciudades enteras.
+Eso es lo que cuentan por ahí, al menos.
+Eso no tiene mérito. Fíjate en mí: ¡el amor que siento<03e0>por lord David es tan intenso que yo solito sería capaz<03e0>de hacer temblar la ciudad de Athlum!
+Oye, que estoy hablando en serio...
+Nadie sabe exactamente qué es lo que ocurre<03e0>en el interior del volcán ni cómo averiguarlo...<03e0>Quizás el marqués de Royotia tenga alguna idea.
+Eso es lo que cuentan por ahí, al menos.
+El marqués de Royotia es ése que tiene un bigote<03e0>tan espectacular, ¿verdad? Un tipo que cuida tanto<03e0>su apariencia debe de conocer unos cuantos secretos...
+Caray... No pensé que te fueran los hombres peludos.
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el puesto de su padre.
+Eso es lo que cuentan por ahí, al menos.
+¡No me hables de guerras de sucesión!<03e0>Cuando pienso en lo que tuve que luchar<03e0>para hacerme con esta taberna...
+Lo... ¿Lo dices en serio?
+Si vas al desierto, hay quien dice que se puede oír<03e0>un lamento triste y solitario que procede del fondo<03e0>del Océano de Arena.
+Eso es lo que cuentan por ahí, al menos.
+Pobrecillo... Tranquilo, todos nos hemos sentido solos<03e0>alguna vez. Si tienes ganas de llorar, aquí tienes<03e0>un hombro en el que apoyarte.
+Pe... Pero... Si lo que yo quería decir era...
+Hace mucho tiempo, un héroe de gran fama<03e0>vivía en el Océano de Arena.
+Eso es lo que cuentan por ahí, al menos.
+Seguro que ese tipo fue un hombre maravilloso...<03e0>¡Ojalá hubiera nacido unos cuantos siglos atrás!<03e0>* Suspiro *
+En la Plaza Mayor hay un tipo que repite todo el día:<03e0>«¡Escuchad! Si miráis los pilares del Océano de Arena,<03e0>se os aparecerán los fan... fan... fan...».
+Eso es lo que cuentan por ahí, al menos.
+Es lo que tiene ser famoso. A mí también<03e0>me persiguen mis fans allá por donde voy.
+Un científico loco anda merodeando por Melphina.<03e0>Si pasas por allí, será mejor que no te acerques a él...<03e0>¡Dicen que mira a la gente de una forma muy rara!
+Eso es lo que cuentan por ahí, al menos.
+¿Qué? ¿Cómo los mira? Si es la mirada de un corazón<03e0>necesitado de cariño, debería venir por aquí a disfrutar<03e0>de nuestro ambiente cálido y acogedor.
+Por mí bien... Siempre que pague sus consumiciones.
+Dicen que la cafetería de Baaluk está infestada<03e0>de bichos que siguieron al dueño desde el desierto.
+Eso es lo que cuentan por ahí, al menos.
+¡Puaj! ¡Con el asco que me dan los bichos!
+Estoy seguro de que el sentimiento es mutuo.
+Nagapur es cada vez menos segura.<03e0>Parece que han desaparecido varios niños...
+Eso es lo que cuentan por ahí, al menos.
+¡Santo cielo! ¿Y si los han raptado?<03e0>Será mejor que me ande con cuidado...
+A los aventureros les ha dado por intercambiar<03e0>los tesoros que encuentran durante sus viajes.<03e0>En Royotia es donde la moda ha calado más hondo...
+Eso es lo que cuentan por ahí, al menos.
+Qué lástima... Mi mayor tesoro son los sentimientos<03e0>que tengo guardados en lo más profundo de mi corazón,<03e0>pero no los cambiaría por nada del mundo.
+Ya...
+Parece que los mercaderes de Royotia están hartos<03e0>de que Balterossa controle todas sus rutas comerciales.
+Eso es lo que cuentan por ahí, al menos.
+Es verdad, las gemas de Royotia cuestan una fortuna.<03e0>Me compraría unas pocas, pero no me lo puedo permitir.<03e0>Aunque quizás si despido a algún que otro empleado...
+¡Oye! ¿Qué estás diciendo?
+Un mercenario yama anda buscando un socio...<03e0>Podría ser una buena manera de conseguir dinero.
+Eso es lo que cuentan por ahí, al menos.
+Aaah, debe de ser ese de allí, ¿no crees?<03e0>¡Qué hombre más imponente! ¡Chico, yo de ti<03e0>me convertiría en su «socio» ahora mismito!
+En Celapalais hay un tipo con ciertos problemas<03e0>de personalidad... ¡Unas veces parece muy simpático<03e0>y otras se pone a insultar a la gente sin motivo!
+Eso es lo que cuentan por ahí, al menos.
+Umm... Por algún motivo, los hombres complicados<03e0>siempre me han resultado de lo más atractivos.<03e0>Supongo que despiertan mi instinto maternal.
+¿«Maternal»?
+Hay un qsiti que se pone en lugares concurridos<03e0>y trata de estorbar lo más posible para buscar pelea<03e0>con los que se tropiezan con él. Vaya incordio de tío...
+Eso es lo que cuentan por ahí, al menos.
+Ya me he tropezado con ese tipo... Literalmente.<03e0>¡Como se le ocurra venir por aquí, le voy a servir<03e0>un buen bofetón en toda la cara!
+Hay una dama misteriosa que anda buscando ayuda.<03e0>Parece que necesita que alguien le haga un favor.
+Eso es lo que cuentan por ahí, al menos.
+Yo también necesito que me hagan un favor...
+¿De qué tipo?
+¿Te acuerdas de esa dama que andaba buscando ayuda?<03e0>Parece que sigue necesitando que le echen una mano.
+Eso es lo que cuentan por ahí, al menos.
+Ya... Yo también necesito que me echen una mano.
+Déjate de indirectas, ¿vale?
+No sé si habrás pasado por Marismarchita,<03e0>pero parece que las Damas Sangrientas están<03e0>juntándose allí. Debe de tratarse de algo gordo.
+Eso es lo que cuentan por ahí, al menos.
+¿Las Damas Sangrientas? ¿Sabías que en su momento<03e0>estuve a punto de unirme a ellas? Estaba atravesando<03e0>una etapa de rebeldía y quería salirme de la norma...
+Bueno, ahora mismo tampoco es que te comportes<03e0>de una manera muy normal, que digamos...
+Parece que los jhanas han vuelto a hacer de las suyas<03e0>en el Océano de Arena. ¡Pero si parece que fue ayer<03e0>cuando el Gae Bolg los despachó!
+Eso es lo que cuentan por ahí, al menos.
+Bueno... No merece la pena vivir si andas rindiéndote<03e0>ante las dificultades. Supongo que los jhanas lo saben.<03e0>¡Si uno tiene una meta, debe perseguirla hasta el final!
+No, si eso me parece muy bien...<03e0>¡Siempre que la meta no consista en destruir mi ciudad!
+Parece que, hace poco, los Halcones Argénteos<03e0>despacharon a una banda de jhanas...
+Eso es lo que cuentan por ahí, al menos.
+¿Sabes que soy miembro del club oficial de fans<03e0>de los Halcones Argénteos? Me encanta su líder,<03e0>ese sovani tan duro y varonil...
+Los Halcones Argénteos se están ocupando<03e0>de acabar con los restos del ejército del Invasor.<03e0>Quién sabe qué intentarían si no...
+Eso es lo que cuentan por ahí, al menos.
+¡Así se hace, Halcones!<03e0>Ojalá pudiera dejarlo todo e irme a servirle un trago<03e0>a ese comandante tan macicérrimo que tienen...
+Pero entonces... ¿Quién llevaría la taberna, eh?
+Dicen por ahí que un tipo de aspecto sombrío<03e0>se pasa las horas muertas en la taberna de Elysion.<03e0>Tiene a todo el mundo deprimido con sus lamentos.
+Eso es lo que cuentan por ahí, al menos.
+Por algún motivo, los hombres torturados y misteriosos<03e0>me resultan irresistibles. Me dan ganas de desnudar<03e0>sus pensamientos y averiguar todos sus secretos...
+A ti te resulta irresistible cualquier cosa que respire.
+

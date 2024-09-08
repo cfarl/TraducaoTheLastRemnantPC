@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) BHK_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Hay un candado enorme en la puerta.<03e0>Necesitas una llave para abrirlo.
+Hay un candado enorme en la puerta.<03e0>¿Quieres usar la Llave de Muscato?<06e0000008e0000000000000>¡Probemos!<09e008e0010000000300>Paso...
+Has abierto el candado.
+

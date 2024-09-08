@@ -1,0 +1,21 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0210_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Dentro de poco abriré mi taller, pero estoy preocupado<03e0>por mi falta de experiencia. La verdad es que no tengo<03e0>mucha confianza en mis habilidades.<04e0>He intentado practicar con mis propios componentes,<03e0>pero al ser tan sólo una prueba no consigo emplearme<03e0>tan a fondo como debiera. ¿Podrías echarme una mano?
+¿Crees que podrías traerme algunos componentes?<03e0>Un poquito de <1be064f4ecff>metal ligero<1ce0> me vendría de maravilla<03e0>para poner a punto mis dotes de artesanía...<04e0>Yo no puedo marcharme de la ciudad porque tengo<03e0>que preparar la inauguración, pero te recompensaré<03e0>si me consigues un poco de ese metal.
+No tienes más que buscar un <1be0ffbe34ff>punto de recolección<1ce0>.<03e0>Tienen más o menos este aspecto...
+Estos destellos indican los lugares más adecuados<03e0>para buscar componentes.
+¿Entendido? ¡Bien!
+Una cosa más. Supongo que tienes herramientas<03e0>de recolección, ¿verdad?<04e0>¿Cómo? ¿No tienes?<04e0>Pues entonces sí que tenemos un problema.<03e0>Yo no puedo prestarte las mías porque son<03e0>una herencia familiar. ¿Qué podemos hacer?
+¡Vaya! ¿Tú otra vez?
+Umm... ¿Te interesan los puntos de recolección?
+Y esas garras parecen hechas para escarbar...
+Creo que esta criaturilla está deseando ayudarte.<03e0>¿Cómo lo ves?<06e0000008e0000000000000>Bueno, si se empeña...<09e008e0010000000300>Me temo que soy alérgico...
+Estupendo, entonces...<03e0>¡Hasta pronto!
+* Etiqueta vacía *
+¿Y bien? ¿Me has conseguido algo de <1be064f4ecff>metal ligero<1ce0>?<03e0>Esa pobre criaturilla parece muy triste...<06e0000008e0000000000000>¡Voy para allá!<09e008e0010000000300>Ni loco.
+Cuento contigo... ¡No me defraudes!
+Si cambias de opinión, ya sabes dónde encontrarme.
+¿Me has traído metal ligero? ¡Hurra!<03e0>¡Por fin podré ponerme a practicar!<03e0>Mil gracias, chico... ¡Te debo una!
+Ven a verme cuando puedas a la trastienda de mi taller,<03e0>en la avenida de Grant. ¡Te estaré esperando!<04e0>Ah, y a partir de ahora, estate atento a los puntos<03e0>de recolección... Búscalos bien y los encontrarás.<03e0>¡Los hay por todas partes!
+

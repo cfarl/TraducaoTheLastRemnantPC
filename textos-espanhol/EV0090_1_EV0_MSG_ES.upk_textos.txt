@@ -1,0 +1,38 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0090_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Así que ese talismán tuyo<0fe003e00ee0>no sirve sólo para hacer bonito...
+¡Milord!
+No hacía falta que vinieseis<0fe003e00ee0>a buscarme hasta aquí...
+Os lo ruego, aceptad mis disculpas.
+Me basta con verte sana y salva.
+¿Y éste quién es?
+Dice ser el hijo del doctor Sykes...
+Ya veo.
+Soy Torgal, uno de los cuatro<0fe003e00ee0>generales de Athlum.
+Nuestro Señor, el marqués de Athlum,<0fe003e00ee0>desea haceros partícipe de su gratitud.<1ae000001d430fe005e001000ee0>Acercaos.
+Sabed que vuestras hazañas os han hecho<0fe003e00ee0>merecedor de mi agradecimiento.
+En cuanto a vuestra hermana...<0fe003e00ee0>Si sus captores han hollado<1ae00000dc420fe005e001000ee0>las tierras de Athlum,<0fe003e00ee0>no podemos ignorarlos.
+Os escoltaremos hasta Athlum.
+¿Eh?
+Nuestro Señor quiere decir<0fe003e00ee0>que os ayudará a buscar a vuestra hermana.
+No te preocupes, Torgal.
+¡Muchísimas gracias!<1ae000000c420fe005e001000ee0>Vine aquí persiguiendo a esa cosa volante,<0fe003e00ee0>pero no sabía qué hacer a continuación...
+¡Pero si me ayuda un tipo<0fe003e00ee0>tan importante como tú,<1ae00000c8420fe005e001000ee0>me quitas un peso de encima!
+¡Es genial!
+Me llamo Rush... ¡Rush Sykes!<0fe003e00ee0>¿Y tú?
+Soy David Nassau, marqués de Athlum...<0fe003e00ee0>Pero puedes llamarme David.
+¡Lo que tú digas, Dave!
+Regresemos a ver qué novedades<0fe003e00ee0>nos esperan en Athlum.
+¡Volveremos a Athlum de inmediato!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Venga, Dave! ¡En marcha!
+¡Niñato insolente! ¿No tienes modales?<0fe003e00ee0>¡Ésa no es forma de dirigirse al Marqués!
+¡Caray! ¿Qué mosca te ha picado?
+¡Pasa que me pone enferma<0fe003e00ee0>tu falta de sentido común!
+Es sorprendentemente corto de luces,<0fe003e00ee0>¿no os parece?
+Aún es pronto para saberlo...
+

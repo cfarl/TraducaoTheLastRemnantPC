@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0060_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Así que os atacó un monstruo volador...
+Y dices que te salvaste<0fe003e00ee0>porque tu talismán empezó a brillar.
+Muchacho... ¿Me tomas por tonta?
+¡Es la verdad!
+Da igual. Vayamos por partes...<0fe003e00ee0>Lo primero es salir de aquí.
+

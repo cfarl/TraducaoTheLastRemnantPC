@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0100_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Debemos encontrar sin pérdida de tiempo<0fe003e00ee0>a los indeseables que han raptado a Irina.
+¿Torgal?
+Rush, os hemos preparado<0fe003e00ee0>una habitación en el castillo.
+Supongo que estaréis deseando<0fe003e00ee0>descansar y recuperaros<1ae0000002430fe005e001000ee0>de vuestro... arduo viaje.
+¿Y quedarme aquí sentado sin hacer nada?<0fe003e00ee0>¡Anda ya! ¡Me voy a buscar a esos tipos!
+Vale, haz lo que te parezca...<0fe003e00ee0>Pero procura no meterte en líos.
+No deberíamos dejarle pasear por el castillo<0fe003e00ee0>sin haber comprobado sus antecedentes.<1ae00000f0420fe005e001000ee0>Yo me encargaré.
+Bueno, esto... Me voy, ¿eh? ¿Vale?
+Si lo que buscas es información,<0fe003e00ee0>hay una taberna en el barrio de Virtus<1ae0000002430fe005e001000ee0>que merecería la pena investigar.
+Regresa al castillo si necesitas <0fe003e00ee0>ponerte en contacto con nosotros.
+¡Entendido! ¡Voy para allá!
+

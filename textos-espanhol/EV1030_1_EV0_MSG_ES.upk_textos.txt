@@ -1,0 +1,25 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1030_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido, lord David.
+¿Todo sigue bien por aquí, espero?
+Sin problemas, milord.
+¡Rush!
+Me alegro de que hayas vuelto, Rush.
+¡Yo también! ¿Me he perdido algo?
+Hey, Rush.
+¿Papá?
+¿Cuándo te has despertado?
+No hace mucho.
+Quería darte una sorpresa.
+Siento haberte preocupado.
+No... Me alegro de que estés bien.
+Así que conseguisteis<0fe003e00ee0>deshacer el conjuro de Wagram...
+Umm...
+Rush. Necesito hablar contigo.
+Perdona, papá, no puedo quedarme<0fe003e00ee0>a charlar. Luego me cuentas, ¿vale?
+Rush...
+Umm... Quería preguntarte una cosa.
+Perdona, hermanita. ¿Puedes esperar?
+Esto... Sí, supongo que sí.
+

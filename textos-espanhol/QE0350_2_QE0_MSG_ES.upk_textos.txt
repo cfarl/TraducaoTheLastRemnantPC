@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0350_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya... ¡Hola, Rush!<03e0>¡Qué casualidad verte por aquí!<04e0>He visto una reliquia espectacular en la región<03e0>de Marismarchita, en el noreste: la Hoja Caída.<03e0>Su poder mantiene a raya a las fuerzas del mal.<04e0>Si no fuera por el poder de esa reliquia, Melphina<03e0>estaría completamente a merced de los monstruos.<04e0>Lo cierto es que las reliquias son esenciales<03e0>para nuestra supervivencia...
+

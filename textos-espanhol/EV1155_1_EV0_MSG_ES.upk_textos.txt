@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1155_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿La reliquia localizadora<0fe003e00ee0>dice que hay algo por aquí?
+Sí... Siento su presencia.
+¿Quién va?
+Qué hermoso... ¡Qué escena tan bella!<0fe003e00ee0>¡Ha sido un placer verlos morir!
+Oh, mis pobrecillos sicarios...<0fe003e00ee0>Sin duda eran demasiado incompetentes<1ae000006b430fe005e001000ee0>como para deteneros, pero al menos<0fe003e00ee0>me han deleitado con su magnífica muerte.
+¡La muerte es el pináculo de la perfección!<1ae00000dc420fe005e001000ee0>¡Sólo ella puede rivalizar conmigo!
+Pero debo ocuparme de vosotros, escoria.<1ae00000b4420fe005e001000ee0>¡Llegáis cubiertos de mugre y suciedad,<0fe003e00ee0>apestando a sudor, y os atrevéis<1ae000001a430fe005e001000ee0>a irrumpir aquí como animales salvajes,<0fe003e00ee0>sin quitaros siquiera los zapatos!
+¡Y, para colmo, venís a desbaratar<0fe003e00ee0>los gloriosos planes del Invasor!<1ae0000057430fe005e001000ee0>¡Sois la personificación de todo<0fe003e00ee0>cuanto hay de odioso en el mundo!
+Unos seres tan inmundos necesitan<0fe003e00ee0>que los purifique Snievan, el Esteta.<1ae0000079430fe005e001000ee0>¡Os bañaré en vuestra propia sangre!
+¿Están con el Invasor?<0fe003e00ee0>Y entonces, ¿también con Hermeien?
+Ahora no es el momento, Dave..<0fe003e00ee0>¡Aquí viene!
+

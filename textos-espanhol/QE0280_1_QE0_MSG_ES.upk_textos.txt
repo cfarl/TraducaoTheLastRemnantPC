@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Por fin llegas...<03e0>He averiguado qué trama el Tercer Comité,<03e0>pero antes de nada debo contarte algo.
+Aparentemente, la Academia ha estado trabajando<03e0>en un proyecto secreto conocido con el nombre<03e0>en clave de «Leithion».<04e0>Por lo visto, han aprovechado los conocimientos<03e0>que obtuvieron gracias a sus investigaciones<03e0>para crear su propia reliquia...<04e0>Se trata de una espada: la <1be0ffbe34ff>Espada de Leithion<1ce0>.
+Es un arma capaz de desencadenar cataclismos<03e0>y hacer aparecer monstruos a voluntad.<03e0>Y su poder aumenta cada minuto que pasa...<04e0>Creemos que el Tercer Comité planea utilizarla<03e0>para terminar de sembrar el caos en todo el mundo<03e0>y aprovechar la confusión para alzarse con el poder.<04e0>No podemos permitir que eso ocurra...<03e0>¡Voy a partir inmediatamente a las <1be0ffbe34ff>minas de Numor<1ce003e0>para asegurarme de que quede destruida!
+Si mal no recuerdo, has estado involucrado<03e0>en este asunto desde el primer momento...<03e0>¿No te interesa ver el final con tus propios ojos?
+Ten presente que sólo deberías unirte a mí<03e0>si estás dispuesto a dar tu vida por la misión.<03e0>¿Qué me dices?<06e0000008e0000000000000>¡Cuando quieras!<09e008e0010000000300>Tengo cosas que preparar...
+Que así sea, entonces. Puedes venir conmigo...<03e0>Pero considérate advertido sobre los peligros<03e0>a los que deberemos enfrentarnos.
+Deberías estar siempre preparado...<03e0>Te esperaré, pero date prisa.
+Si mal no recuerdo, has estado metido en la trama<03e0>de la <1be064f4ecff>Espada de Leithion<1ce0> desde el principio...<03e0>¿No te interesa ver el final con tus propios ojos?
+Ten presente que sólo deberías unirte a mí<03e0>si estás dispuesto a dar tu vida por la misión.<03e0>Me dirijo a las <1be0ffbe34ff>minas de Numor<1ce0>. ¿Vienes o no?<06e0000008e0000000000000>¡Cuando quieras!<09e008e0010000000300>Tengo cosas que preparar...
+Que así sea, entonces. Puedes venir...<03e0>Pero no digas que no te he advertido<03e0>sobre los peligros a los que deberemos enfrentarnos.
+Deberías estar siempre preparado...<03e0>Te esperaré, pero date prisa.
+Habéis demostrado que sois magníficos soldados...<03e0>Hubiéramos fracasado de no ser por vuestra ayuda.<04e0>Sin embargo, mis emisarios afirman que han notado<03e0>cosas sospechosas en esta región, así que voy<03e0>a quedarme aquí para poner fin a esto de una vez.
+Estoy en deuda contigo...<03e0>Si necesitas mi ayuda, no dudes en acudir a mí.<04e0>¡Hasta la próxima!
+

@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1170_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Esto está que arde... Y no me refiero sólo al clima,<03e0>sino más bien al tórrido romance entre la Princesa<03e0>y ese macicérrimo príncipe de Royotia.
+Ains... ¡Quién lo pillara!
+El caso es que necesito dinero para atravesar<03e0>el Océano de Arena, así que estaba pensando<03e0>en vender este elegante brazalete protector.<06e01900>sEVENT_PRICE_QE1170_P_000<08e0000000000000>¡Trae para acá!<09e008e0010000000300>Ya voy bastante elegante.
+¡Gracias mil!
+¡Sayonara, Balterossa!
+Je, je, je... Sí, claro. Lo que tú digas...
+Pero sigo pensando que deberías comprarme algo.
+¿Cómo? Lo siento, ricura, no hago descuentos.
+

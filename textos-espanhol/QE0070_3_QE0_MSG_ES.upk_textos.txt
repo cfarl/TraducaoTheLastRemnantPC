@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0070_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Perdonad mi intromisión, pero he observado<03e0>que parecéis un hábil espadachín...<04e0>Quisiera rogaros que os pongáis en contacto<03e0>con el comandante Robert de la Orden de Melphina.<04e0>Nuestra ciudad está atravesando una serie de crisis<03e0>y necesitamos luchadores hábiles para solucionarlas.<03e0>Si queréis ayudarnos, acudid al <1be0ffbe34ff>Palacio de Melphina<1ce0>.
+

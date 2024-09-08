@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0110_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Rush! ¡Has venido! ¡Qué alegría!<04e0>Estoy un poco nerviosa... ¡Pero podré hacerlo!
+En cuanto venzas a todos estos monstruos,<03e0>¡dará comienzo el festival!
+¿No es precioso?<04e0>Mira cómo confluyen todas esas luces<03e0>para convertirse en una gran reliquia.<04e0>La reliquia por sí misma no hace nada, no puede<03e0>luchar contra monstruos ni villanos...<04e0>Pero su belleza es tal que asombra e inspira<03e0>a cuantos la contemplan. La reliquia Syltique...
+Es la reliquia más valiosa del mundo entero.<04e0>Si no fuera por esta magnífica obra de arte,<03e0>el mundo estaría asolado por las guerras.
+El Syltique nos dice...<03e0>Nos dice que la vida no es sólo sufrimiento.<04e0>El mundo está lleno de horrores,<03e0>pero también de bondad y belleza.
+

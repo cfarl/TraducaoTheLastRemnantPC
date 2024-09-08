@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1490_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Por fin habéis llegado.
+¿A qué juegas, Invasor?
+Mi deseo es liberar las reliquias<0fe003e00ee0>de las garras de los hombres.
+¿Liberarlas?
+Los seres de este mundo se han habituado<0fe003e00ee0>a utilizarlas como simples herramientas.
+A este ritmo, pronto sobrepasarán los límites<0fe003e00ee0>de las reliquias y destruirán el universo entero.
+¡Eso es ridículo! <0fe003e00ee0>¿Acaso nos crees capaces de hacer algo así?
+¿Acaso crees que tu confianza<0fe003e00ee0>en los hombres está justificada?
+Mi deber es impedir esa posibilidad.
+¿Quién... o qué diablos eres tú?
+Soy un simple guardián de las reliquias.
+¿Un «guardián»?
+Y aquí en Elysion hay algo<0fe003e00ee0>que necesitas para «liberar» a las reliquias, ¿no?
+Deberías saberlo. En principio,<0fe003e00ee0>no era yo quien debía cumplir esta misión.
+Cuando active esta máquina,<0fe003e00ee0>todas las reliquias serán liberadas.
+Ya que estamos, dime una cosa:<0fe003e00ee0>¿por qué acabaste con Hermeien?
+Quería averiguar qué le pasaría a este mundo<0fe003e00ee0>cuando liberase a todas las reliquias.
+Por suerte, las reliquias sólo consumen<0fe003e00ee0>a los seres inferiores, como los hombres.
+¿Las reliquias consumen a la gente?<0fe003e00ee0>Entonces, si las liberas...
+¿Y bien? ¿Lo has comprendido por fin?
+Lo que comprendo es que<0fe003e00ee0>no te importa en absoluto la vida de la gente.
+Pero yo no cambiaría a mi familia<0fe003e00ee0>y a mis amigos por nada en el mundo.<1ae000000c430fe005e001000ee01ae0000020410fe005e001000ee0>Los protegeré, pase lo que pase.
+Como desees. No tendré piedad.<1ae00000b8420fe005e001001ae00000d24205e001000ee0>Ven...
+

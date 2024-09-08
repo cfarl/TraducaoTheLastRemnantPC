@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0060_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Señor Rush! ¡Por fin he encontrado a Paris!<03e0>Está dispuesto a ayudarme a detener esta guerra.
+Charlotte, no tenemos mucho tiempo.<03e0>Debemos darnos prisa.
+Oh, sí, es cierto...
+Tras nuestro incidente con el vidente, volví a su casa<03e0>para investigar y encontré unas cartas que hablan<03e0>de una especie de conspiración...<04e0>El vidente pretendía provocar a Royotia y Balterossa<03e0>para que desplegaran sus ejércitos y, a continuación,<03e0>aniquilarlos con una legión de monstruos.<04e0>Las cartas estaban escritas en clave. Su contenido<03e0>estaba disimulado entre frases de aspecto inocente,<03e0>así que nos ha llevado tiempo descifrar el mensaje...
+Alguien intentaba manipular a nuestros países<03e0>para desencadenar una guerra. Tanto mi madre<03e0>como el padre de Paris cayeron en la trampa.
+Quisieron aprovecharse de nuestra relación<03e0>y de la desconfianza entre mi padre y la Duquesa.<03e0>Y pensar que nos han utilizado de esta forma...
+Paris...
+Royotia y Balterossa están en grave peligro,<03e0>pero no podemos ir a los dos sitios a la vez...<03e0>¿Dónde deberíamos dirigirnos?<06e0000008e0000000000000>¡A Balterossa!<09e008e0010000000000>¡A Royotia!
+Debemos empezar por Balterossa. Están luchando<03e0>en un lugar llamado <1be0ffbe34ff>Lengua de la Salamandra<1ce0>.<04e0>Evidentemente, a continuación deberemos acudir<03e0>al auxilio del ejército de Royotia... El tiempo será<03e0>nuestro principal enemigo.
+Debemos empezar por Royotia. Sus tropas están<03e0>reagrupándose en el <1be0ffbe34ff>Vientre de la Salamandra<1ce0>.<04e0>¡Démonos prisa para que nos dé tiempo a acudir<03e0>al auxilio del ejército de Balterossa!
+Paris, ¿estamos obrando bien? ¡Los monstruos<03e0>también están atacando a los guardas de Royotia!
+Lo sé, lo sé... ¡Si nos damos prisa, llegaremos a tiempo<03e0>de salvarlos a ellos también! ¡Debemos partir raudos<03e0>al <1be0ffbe34ff>Vientre de la Salamandra<1ce0>!
+Después acudiremos en ayuda del ejército<03e0>de Balterossa. ¡No hay tiempo que perder!
+¡Por favor, Paris, señor Rush, salvemos a los soldados<03e0>de Balterossa! Se encuentran en un lugar conocido<03e0>como la <1be0ffbe34ff>Lengua de la Salamandra<1ce0>.
+Las bestias han huido y ambos ejércitos se han retirado.<04e0>Hemos sufrido unas cuantas bajas, pero debemos<03e0>dar gracias a los cielos por no tener que lamentar<03e0>una tragedia aún mayor.
+La gente está tan agitada que incluso dudan<03e0>del poder de las reliquias... ¿Cómo es posible<03e0>que tamaña tontería nos conduzca a la guerra?
+Charlotte, no todo está perdido. Aún hay algo<03e0>que podemos hacer... y creo que sólo podemos<03e0>hacerlo tú y yo.<04e0>Juntos traeremos la felicidad a mucha gente.
+Paris...<04e0>Pero... lo único que he hecho es herirte.<03e0>¿Cómo es posible que aún me quieras?
+Charlotte... Tu rechazo me causó tal dolor que sentí<03e0>como si una daga ardiente me rasgara el corazón.<04e0>Y aun así, pese a mi dolor, sentí tu dulce melancolía.<03e0>Era como si el instrumento de tortura que desgarraba<03e0>mis entrañas estuviera cubierto de lágrimas...<04e0>Eran las lágrimas que habías derramado al saber<03e0>el tormento que estabas provocando a tu amado.<04e0>Charlotte... Te amaba tanto que estaba dispuesto<03e0>a dejarte marchar, y algo así no es fácil de olvidar.<03e0>Ahora sólo deseo que mi amor se vea correspondido.
+Paris... Siempre te amaré.
+Entonces... ¡debo convencer a mi padre!
+Sí, y yo hablaré con mi madre.<03e0>¡Tiene que entenderlo!
+Señor Rush, pasaos luego por la taberna.<03e0>¡Tengo algo para vos!
+

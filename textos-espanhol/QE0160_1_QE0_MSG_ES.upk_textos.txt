@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0160_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La hora se acerca...<04e0>Pronto despertará el ser que estaba encerrado<03e0>en el interior del Brimuslabus... Ese ser conocido<03e0>como «el Condenado».
+Hace cientos de años, un monstruo surgió de la nada<03e0>y sumió al mundo entero en la oscuridad...<03e0>Durante un tiempo, todo fue miedo y caos.<04e0>El populacho, temeroso ante la magnitud de su poder,<03e0>comenzó a pensar que se trataba de un ser divino.<04e0>Según ellos, aquel monstruo había surgido<03e0>de la misma tierra para destruir las reliquias.
+Pero su razón de ser no me interesa.<04e0>Lo único que me importa es que esa cosa existe,<03e0>y que llevo toda mi vida encadenado a este lugar<03e0>por su culpa.<04e0>Por eso me corresponde destruirlo.<03e0>¡Ven a contemplar su derrota con tus propios ojos!<06e0000008e0000000000000>¡No pienso perdérmelo!<09e008e0010000000000>No me interesa.
+Admiro tu espíritu. No necesitas razones para entrar<03e0>en combate... Te basta con el placer de participar.<06e0000008e0000000000000>¡Es que suena divertido!<09e008e0010000000300>Aunque bien pensado...
+¡Pues ven conmigo!
+Estás cometiendo una insensatez.<03e0>Si lo dejamos en libertad, reinará<03e0>sobre el mundo entero... y lo destruirá.
+Estás cometiendo una insensatez.<03e0>Si lo dejamos en libertad, reinará<03e0>sobre el mundo entero... y lo destruirá.
+¡El Condenado está a punto de despertar!<04e0>Llevo toda mi vida encadenado a este lugar<03e0>por su culpa, y por eso me corresponde destruirlo.<03e0>¡Ven a contemplar su derrota con tus propios ojos!<06e0000008e0000000000000>¡No me lo digas dos veces!<09e008e0010000000000>No me interesa.
+Admiro tu espíritu. No necesitas razones para entrar<03e0>en combate... Te basta con el placer de participar.<06e0000008e0000000000000>¡Es que suena divertido!<09e008e0010000000300>Aunque bien pensado...
+¡Pues ven conmigo!
+Estás cometiendo una insensatez.<03e0>Si lo dejamos en libertad, reinará<03e0>sobre el mundo entero... y lo destruirá.
+Estás cometiendo una insensatez.<03e0>Si lo dejamos en libertad, reinará<03e0>sobre el mundo entero... y lo destruirá.
+¡Juas, juas, juas! ¡Lo conseguimos!<03e0>¡Hemos vencido al Condenado!<04e0>¡Por fin podré hacer realidad mi sueño!<03e0>¡Ha llegado la hora de mi venganza!<04e0>Aaah... Siento cómo su alma se aferra<03e0>a este mundo presa de la desesperación...<03e0>¡Ha llegado tu hora, estúpido!
+Huy...
+Vaya, lo siento. Creo que me he dejado llevar<03e0>por la emoción del momento.<04e0>Toma, una pequeña muestra de mi gratitud.
+Nada temas, yo me ocuparé de él.<03e0>Je, je, je...
+

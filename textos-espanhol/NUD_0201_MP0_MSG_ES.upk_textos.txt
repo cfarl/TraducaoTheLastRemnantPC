@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NUD_0201_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¿Va todo bien?<03e0>¿Volvemos a Elysion?<06e0000008e0000000000000>Buena idea.<09e008e00a0000000300>No, quedémonos.
+De acuerdo.<03e0>Volvamos a Elysion.
+De acuerdo. Sigamos.
+¿No deberíamos volver a Athlum?<06e0000008e0000000000000>Sí. ¡Venga, vamos!<09e008e0010000000300>No, todavía no.
+Vayamos raudos a Athlum.
+No podemos hacer esperar a lord David.<03e0>Acaba de una vez lo que tengas que hacer<03e0>para que podamos irnos.
+

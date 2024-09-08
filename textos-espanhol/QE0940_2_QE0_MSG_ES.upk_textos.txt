@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0940_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Ah, eres tú.<03e0>Llegas justo en el momento oportuno...<04e0>Un grupo de traficantes de esclavos acaba<03e0>de llegar a la ciudad. Tal vez te suenen de algo...<03e0>Antes solían actuar en las afueras de Athlum.<04e0>Ahora se esconden en el <1be0ffbe34ff>Acueducto<1ce0>, pero yo solo<03e0>no puedo acabar con esos desalmados por mucho<03e0>que conozca su escondite.<04e0>Menos mal que un muchacho con un fuerte sentido<03e0>de la justicia acaba de llamar a mi puerta...<03e0>¿Puedo encomendarte esta misión?<04e0>Dime, chico... ¿Irías al <1be0ffbe34ff>Acueducto<1ce0>?<06e0000008e0000000000000>¡De cabeza!<09e008e0010000000300>Hoy no tengo el día justiciero.
+Estupendo, te acompañaré hasta la entrada.
+Entiendo...<03e0>Vuelve si cambias de opinión.
+¿Y bien? ¿Piensas ir al <1be0ffbe34ff>Acueducto<1ce0>?<06e0000008e0000000000000>¡Por supuesto!<09e008e0010000000300>Umm... No.
+Bien, por fin conozco al famoso Rush Sykes.<03e0>Y en el mejor de los momentos...<06e0000008e0000000000000>¿Momento para qué?<09e008e0010000000000>¿Nos conocemos, abuelo?
+Sí, te conozco...<03e0>Como también conozco a tu hermana Irina<03e0>y a tu encantadora madre, Marina.<04e0>Pero dejemos eso para otro día. Lamentablemente,<03e0>hay asuntos más urgentes que atender.
+Ah, eres tú.<03e0>Llegas justo en el momento oportuno...<04e0>Un grupo de traficantes de esclavos acaba<03e0>de llegar a la ciudad. Tal vez te suenen de algo...<03e0>Antes solían actuar en las afueras de Athlum.<04e0>Ahora se esconden en el <1be0ffbe34ff>Acueducto<1ce0>, pero yo solo<03e0>no puedo acabar con esos desalmados por mucho<03e0>que conozca su escondite.<04e0>Menos mal que un muchacho con un fuerte sentido<03e0>de la justicia acaba de llamar a mi puerta...<03e0>¿Puedo encomendarte esta misión?<04e0>Dime, chico... ¿Irías al <1be0ffbe34ff>Acueducto<1ce0>?<06e0000008e0000000000000>¡Ahora mismito!<09e008e0010000000300>No me van las alcantarillas.
+Unos traficantes de esclavos se han establecido<03e0>en el <1be0ffbe34ff>Acueducto<1ce0>. Seguro que ya los conoces...<03e0>¿Irías a enfrentarte a ellos?<06e0000008e0000000000000>Claro... ¡Por la justicia!<09e008e0010000000300>Lo siento, odio el agua...
+

@@ -1,0 +1,23 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1060_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Qué pasa?
+Parece que ya ha llegado<0fe003e00ee0>la reliquia localizadora.
+Así que ésa es la reliquia...<0fe003e00ee0>¿Cuándo podremos probarla?
+Ahora mismo.
+Supongo que esas luces indican<0fe003e00ee0>la posición aproximada de las reliquias.
+Sí. Ahora mismo<0fe003e00ee0>sólo está rastreando la región de Athlum.
+Esa luz de ahí debe de ser el Gae Bolg.
+Parece que así es.
+Dentro de poco conseguiremos ampliar<0fe003e00ee0>su alcance para cubrir el mundo entero.<1ae0000020430fe005e001000ee0>No podemos averiguar<0fe003e00ee0>la posición exacta de cada reliquia,<1ae00000aa420fe005e001000ee0>pero sí hacernos una idea general de su paradero.
+Ya habéis hecho más que suficiente.<0fe003e00ee0>Agradezco sobremanera vuestra ayuda.
+Ha sido un placer. Aún necesitamos<0fe003e00ee0>algún tiempo para ponerla a punto...
+Volviendo a lo de antes...<1ae0000064420fe005e001000ee0>Creo que podríamos ajustar el alcance<0fe003e00ee0>con esta cosa de aquí...
+Hermanita... No esperaba verte por aquí.
+He oído que necesitaban ayuda,<0fe003e00ee0>así que vine a ver si podía hacer algo.
+No seas tonta y deja las reliquias tranquilas.<1ae00000a6420fe005e001000ee0>¡Eres un peligro cuando te acercas a ellas!
+Tengo mis razones.<0fe003e00ee0>Tienes que confiar en mí, Rush.
+¡Lo pasé fatal cuando desapareciste!<1ae000008c420fe005e001000ee0>¡No puedo volver a pasar por algo así!<0fe003e00ee0>¡Me niego en redondo!
+Rush, cálmate.
+¡Oye!
+

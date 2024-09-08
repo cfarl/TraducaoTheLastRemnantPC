@@ -1,0 +1,68 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0102_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Estás en pleno casco viejo, en el distrito de Genaade.<03e0>Las calles están salpicadas de antiguos templos.<04e0>Subiendo por esta calle está el Templo de Elysion,<03e0>un gran santuario que muchos visitan para rezar<03e0>a los dioses desde hace cientos de años.<04e0>¿Es eso lo que te trae por aquí?<03e0>¿Tú también vienes a orar en el templo?
+Message 2
+Message 3
+Message 4
+Desde el incidente de Nagapur, cada vez viene<03e0>más gente a visitar el templo.<04e0>La oración mantiene sus mentes alejadas<03e0>de la angustia que les provoca tanta incertidumbre.
+Message 6
+¿Ves las Tierras Sagradas, más allá de las nubes?<04e0>Según la leyenda, ése es el lugar al que se dirigen<03e0>las almas de los muertos.<04e0>Hace un millar de años, hubo una guerra que se cobró<03e0>las vidas de muchísimos soldados.<04e0>Se dice que Marion Marshall rezó por los caídos<03e0>y, como resultado de sus ruegos, una luz celestial<03e0>envolvió las Tierras Sagradas.<04e0>Desde entonces, ha sido un refugio para las almas<03e0>de los difuntos.
+¿¡Has visto esa luz que subía a toda velocidad<03e0>hacia las Tierras Sagradas!?<04e0>Nunca antes había visto tal resplandor...<03e0>¿Crees que ha podido ser el alma de algún ser<03e0>muy poderoso que se dirigía hacia el cielo?<04e0>Sólo espero que, sea lo que sea, no moleste<03e0>a las almas que allí descansan...
+Message 3
+Message 4
+Me pregunto cuántas almas descansarán ahora<03e0>en las Tierras Sagradas, después de la guerra<03e0>que provocó el ejército del Invasor...<04e0>El Consejo insiste en que han acabado con ellos,<03e0>pero a mí me sigue preocupando que pueda ocurrir<03e0>algo parecido otra vez.<04e0>Y si ocurre, espero que no sea pronto.<03e0>Ojalá las almas de los caídos puedan descansar en paz...
+Message 6
+¿Has oído hablar de lady Marion y del romance<03e0>que mantuvo con el primer Emperador celestial?<04e0>Ay... Ojalá me ocurriera a mí también algo así.<03e0>En fin...
+¿Qué ocurre? ¿Es cierto que un fogonazo de luz<03e0>ha salido disparado hacia las Tierras Sagradas?<04e0>Estaba dentro del templo y me lo he perdido...<03e0>¿Alguien me puede explicar qué ha pasado?
+Message 3
+Todos los días vengo a orar al templo.<04e0>Siempre que me siento triste o desgraciada,<03e0>vengo a contemplar la cara de lady Marion<03e0>y todo parece arreglarse.
+Genaade cuenta con una larga historia.<03e0>Los edificios y las calles aún se conservan<03e0>en su estado original.<04e0>Aunque por la forma en que se construyó la ciudad,<03e0>todo el mundo se pierde por sus calles... ¡Hasta yo,<03e0>y eso que llevo más de treinta años viviendo aquí!
+Oye, chico, ¿has visto eso?<03e0>¡Un destello de luz que subía hacia el cielo!<04e0>¡He vivido aquí más de treinta años,<03e0>pero nunca antes había visto al Arca<03e0>emitir una luz así!
+Message 3
+¡Unos jóvenes me han dicho que el Gwayn<03e0>se ha descontrolado y ha destruido Nagapur!<04e0>¿Y qué pasa si las Tierras Sagradas se desploman<03e0>sobre nuestras cabezas? No sé... Al fin y al cabo,<03e0>también son una reliquia...<04e0>Puede que sea el momento de que este viejecito<03e0>se mude a un pueblo apacible con una buena<03e0>residencia de ancianos...
+¡Vaya, abuela! ¿Cómo tú por aquí?
+¿«Abuela»? ¿CÓMO TE ATREVES?<03e0>¿Y quién demonios eres, si se puede saber?
+Uy... Perdona. Te he confundido con otra persona.
+¿Será posible? ¡La próxima vez, comprueba<03e0>que estás hablando con la persona correcta<03e0>antes de abrir esa bocaza!
+Lo... ¡Lo siento!
+En fin... Lo dejaré estar por esta vez.<03e0>Pero que no vuelva a repetirse, ¿me oyes?
+Llamar «abuela» a una dama como yo es una falta<03e0>de consideración. ¡Además, no soy tan mayor, caray!
+Vaya... Otra vez tú.
+Esto...
+No pareces contento de verme.
+Ejem... Yo... No, no, no es eso.<03e0>En fin, esto... Joven damisela, ¿qué te trae por aquí?
+Me entreno. En mi familia tenemos la costumbre<03e0>de viajar y recorrer el mundo para conmemorar<03e0>nuestro paso a la edad adulta.
+Caray, no debe de ser fácil...<03e0>Pues... Estooo... Cuídate, ¿de acuerdo?
+Gracias.
+Parece que al menos tus modales han mejorado<03e0>desde la última vez que nos encontramos.
+Tienes buen aspecto.
+Hola, señorita... ejem... joven damisela...
+Anda, haz el favor de no llamarme así.<03e0>Suena ridículo.
+Bueno... Pero es que no sé cómo te llamas.
+¿Lo dices en serio?
+* Tenso silencio *
+Me llamo Emmy.
+Me alegro de conocerte al fin. Yo soy...
+No hace falta que me lo digas.<03e0>Te llamas Rush Sykes, ¿verdad?
+Co... ¿Cómo lo sabes?
+Tengo mis recursos.
+En fin, Rush... Cuídate, ¿de acuerdo?
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+¿Qué hay, Rush?<04e0>¿Sabes? ¡Me lo estoy pasando teta!<03e0>¡Esta ciudad me encanta!
+Rush, ¿tú crees en las arcamagas?<04e0>Son mujeres que pueden usar poderes especiales,<03e0>como la arcamagia.<04e0>...<04e0>No tienes ni idea de lo que es la arcamagia, ¿no?<03e0>Entonces, supongo que no sabes nada sobre<03e0>el Anillo de los arcanos...<04e0>Ya te vale. Deberías... no sé, leer más o algo así.<03e0>¡Vaya un inculto que estás hecho!
+Rush, deberías... no sé, leer más o algo así.<03e0>¡Vaya un inculto que estás hecho!
+¿Recuerdas lo que te decía sobre las arcamagas?<03e0>Bueno, pues deja que te explique un poco más...<03e0>Te diré lo que me contaba mi abuela.<04e0>Hace mucho tiempo existía un arte llamado arcamagia<03e0>que era muy distinto a los hechizos que se usan ahora.<03e0>No era necesario ningún objeto para usarla, ¿sabes?<04e0>¡Con la arcamagia podías atravesar dimensiones<03e0>o incluso convocar a monstruos! Los científicos<03e0>siguen hablando de ello hoy en día.<04e0>Las arcamagas son mujeres capaces de usar<03e0>la arcamagia. Se supone que soy descendiente<03e0>de una especie de clan que poseía estos poderes.<04e0>No sabes de qué te estoy hablando, ¿verdad?<03e0>Ains, estoy tan cansada... Ya te contaré el resto<03e0>en otro momento.
+Se supone que soy descendiente de una especie<03e0>de clan de arcamagas, ¿sabes?
+Bueno, sigamos con la historia...<04e0>Si formas parte de una familia con esos poderes,<03e0>te suelen enviar a entrenarte cuando eres joven.<04e0>Y eso es justo lo que estoy haciendo. Debo buscar<03e0>un chisme conocido como el Anillo de los arcanos<03e0>que anda perdido por algún lugar del mundo.<04e0>Estoy harta de este dichoso entrenamiento, así que<03e0>estoy deseando encontrarlo de una vez para poder<03e0>volver a casa y pegarme unas vacaciones.<04e0>Así que... ¿por qué no me ayudas a encontrarlo?<03e0>Anda, Rush, porfi, porfi...
+Estoy harta de este dichoso entrenamiento...<03e0>Estoy deseando encontrar ese dichoso anillo<03e0>para volver a casa y pegarme unas vacaciones.
+¡Mil gracias por ayudarme con el anillo, Rush!<04e0>Vale, entonces, está decidido...<04e0>¡Me voy a hacer arcamaga!<04e0>Según la inscripción del anillo, una arcamaga<03e0>de verdad debe dedicar su vida a averiguar<03e0>las grandes verdades del universo...<04e0>Supongo que debo recorrer el mundo<03e0>para aprender más sobre la arcamagia<03e0>y todas esas cosas... ¡Esto está chupado!<04e0>Voy a esperar a convertirme en arcamaga<03e0>antes de decirle a mi abuela que encontré<03e0>el anillo. ¡Así le daré una sorpresa!<04e0>Bueno, Rush... ¡Nos veremos por ahí!<03e0>¡Mira qué suerte que tienes!
+¡Hey, Rush!<04e0>¿Qué hay de nuevo, viejo?
+

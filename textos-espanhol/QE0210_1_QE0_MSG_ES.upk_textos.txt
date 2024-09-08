@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0210_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hey! ¿Quién anda ahí?
+¿De dónde ha salido este bicho?
+¿Un ladrón? Pero si aún no he abierto el taller...<03e0>¡Todavía no tengo nada que robar!
+Tengo un taller, pero aún no está abierto.<03e0>Vuelve más tarde, ¿vale?
+¡Vaya! Un cliente... Oye, no es que quiera echarte,<03e0>pero me temo que la tienda aún no está lista.
+Veamos... Lo primero que necesito es un poco<03e0>de <1be064f4ecff>metal ligero<1ce0>. ¡No puedo arreglar nada sin él!
+Pero ya me ocuparé de eso más adelante...<03e0>¡Es hora de visitar la <1be0ffbe34ff>taberna<1ce0>!
+

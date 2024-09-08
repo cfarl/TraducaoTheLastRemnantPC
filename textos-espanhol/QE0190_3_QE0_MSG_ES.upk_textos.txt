@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0190_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿No echas de menos la compañía de alguna chica, Rush?
+¿Tal vez una chica salvaje y alocada, como mi hermana?<06e0000008e0000000000000>No es mi tipo.<09e008e0010000000000>¡Encantado!
+¿O mejor una jovencita mona y menudita?<06e0000008e0000000000000>No es mi tipo.<09e008e0010000000000>¡Encantado!
+¿Tal vez una joven alegre y divertida?<06e0000008e0000000000000>No es mi tipo.<09e008e0010000000000>¡Encantado!
+¿O alguna chica misteriosa y seductora?<06e0000008e0000000000000>No es mi tipo.<09e008e0010000000000>¡Encantado!
+Interesante...
+Así que este espejo... ¿es una reliquia?<03e0>¿Y dónde está la estatua? ¡Debería estar aquí!<04e0>¡Yo sólo quiero ver a mi hermana!<03e0>¿Dónde está?
+¿¡Un cataclismo!?<04e0>¡Oh, no!
+¿Kate?<04e0>¿Eres tú? ¿De verdad?
+¡Nunca perdí la esperanza!<03e0>¡Siempre he sabido que este día llegaría!<03e0>¡Estaba seguro de que volvería a verte!
+Yo también, Rhagoh.<04e0>Sé que has pasado mucho tiempo buscándome.<03e0>Sé que te sientes muy solo sin mí.<04e0>Créeme, lo sé todo sobre ti.
+Kate, yo...
+Déjalo. El pasado, pasado está.<03e0>Concentrémonos en el futuro.
+Supongo entonces que estás al corriente de todo...
+

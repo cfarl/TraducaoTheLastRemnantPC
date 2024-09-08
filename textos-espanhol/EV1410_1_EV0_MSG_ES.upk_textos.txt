@@ -1,0 +1,42 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1410_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡El Invasor! ¡Se ha puesto en marcha!
+¿Hacia dónde?
+¡Hacia Elysion, mi Señor!
+¿Y ahora qué quiere?
+No me extrañaría que quisiera<0fe003e00ee0>apoderarse de las Tierras Sagradas.<1ae0000010430fe005e001000ee0>Lo que ignoro es cuál será su propósito...
+¿Y qué hay de los demás Lores?
+¡Señor! ¡Los demás Lores<0fe003e00ee0>no han hecho movimiento alguno!
+Aunque no les guste esta situación,<0fe003e00ee0>nadie quiere que lo declaren traidor...
+Tienes razón, nadie se atreve<0fe003e00ee0>a enfrentarse al Emperador. ¡Maldita sea!
+Lord David...
+¡Tíos, sois unos inútiles!<1ae0000054420fe005e001000ee0>Dave, yo podría solucionar<0fe003e00ee0>este asunto del Invasor si quieres...
+Como no soy de Athlum, no podrían<0fe003e00ee0>culparte por lo que haga, ¿verdad?
+Por favor, dime que estás de guasa.
+Lo digo en serio.<0fe003e00ee0>Sé que no va a ser fácil.
+Pero tengo mi talismán,<0fe003e00ee0>y si juego bien mis cartas...
+Es una locura. Tienes que estar bromeando.
+Dave, no sé cómo agradecerte<03e0>todo lo que has hecho por mí.
+Si no fuera por ti, Irina<0fe003e00ee0>aún estaría secuestrada...<1ae00000ac420fe005e001000ee0>y papá y mamá andarían<0fe003e00ee0>metidos en un lío tremendo.
+Bueno...
+Es hora de que te devuelva<0fe003e00ee0>los favores que me has hecho.
+¡Espera!
+Hermanita, esta vez no puedes venir.<0fe003e00ee0>Sé buena, ¿vale? Volveré enseguida.<1ae0000047430fe005e001000ee0>Siempre acabo volviendo.
+¡Seré idiota!<0fe003e00ee0>¿Qué hago aquí sentado?
+Rush, tienes razón. Si el Invasor<0fe003e00ee0>se sale con la suya, nos dará igual<1ae0000034430fe005e001000ee0>que el Emperador nos declare traidores...<0fe003e00ee0>Podría esperarnos un destino aún peor.
+Quizás Wagram haya podido aceptarlo...<1ae00000a0420fe005e001000ee0>¡Pero eso no implica que nosotros<0fe003e00ee0>tengamos que hacer lo mismo!
+Dave...
+Ya afrontaremos las consecuencias.<0fe003e00ee0>Hemos de hacer todo cuanto sea necesario<1ae000000e430fe005e001000ee0>para proteger al mundo<0fe003e00ee0>de nuestros enemigos.
+¡Me dirijo a vosotros como<0fe003e00ee0>lord David Nassau, marqués de Athlum!<1ae00000f0420fe005e001000ee0>¡Que las tropas se dirijan a Elysion<0fe003e00ee0>de inmediato! ¡Vamos a por el Invasor!
+Si no deseáis participar,<0fe003e00ee0>abandonad Athlum inmediatamente.<1ae00000c8420fe005e001000ee0>¡Quedaos sólo si compartís esta decisión!
+Estáis mal de la cabeza si pensáis<0fe003e00ee0>que os abandonaríamos en este momento.
+¡Eso! ¡No tememos a nada ni a nadie!
+Si Su Excelencia nos descubre,<0fe003e00ee0>ya se nos ocurrirá alguna excusa.
+¡Lord David! ¡Vamos!
+Gracias a todos...
+¡Por el honor de Athlum!
+¡Sí, milord!
+¿Yo también estoy invitada, no?
+Vale...
+

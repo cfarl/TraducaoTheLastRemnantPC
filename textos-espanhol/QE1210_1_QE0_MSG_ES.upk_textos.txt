@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1210_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Has oído hablar del Tercer Comité de la Academia?<03e0>Dado lo que le ha sucedido a tu hermana, supongo<03e0>que sabes de quiénes te estoy hablando.<04e0>Verás... Yo tampoco los tengo en gran estima,<03e0>y estaba pensando en darles el golpe de gracia<03e0>aprovechando que están atravesando un mal momento.
+Pero no me pidas detalles, porque no te los pienso dar.
+No hay palabras para expresar lo que he pasado.<03e0>El dolor que me han causado va mucho más allá<03e0>de lo que te puedes imaginar.<04e0>Pero por fin tengo la oportunidad de atraerlos<03e0>a campo abierto y borrarlos del mapa para siempre...<03e0>¿Qué me dices? ¿Erradicamos a esa escoria?<06e0000008e0000000000000>¡Cuenta conmigo!<09e008e0010000000000>¿Pero qué te pasó?
+Entonces nos enfrentaremos a ellos<03e0>en la <1be0ffbe34ff>llanura de Luhang<1ce0> y acabaremos<03e0>con esos canallas de una vez por todas...
+Estamos a punto de partir.<03e0>¿Estás listo?<06e0000008e0000000000000>¡Sí!<09e008e0010000000300>¿Quién? ¿Yo?
+Entonces, ¡en marcha!
+Estás asustado, ¿verdad?
+¿Es que acaso deseas morir?
+Vamos a acabar con el Tercer Comité.<03e0>Ahórrate las preguntas. ¿Estás con nosotras o no?<06e0000008e0000000000000>Vale.<09e008e0010000000000>¿Pero qué te han hecho?
+Entonces nos enfrentaremos a ellos<03e0>en la <1be0ffbe34ff>llanura de Luhang<1ce0> y acabaremos<03e0>con esos canallas de una vez por todas...
+Estamos a punto de partir.<03e0>¿Estás listo?<06e0000008e0000000000000>¡Sí!<09e008e0010000000300>¿Quién? ¿Yo?
+Entonces, ¡en marcha!
+Estás asustado, ¿verdad?
+¿Es que acaso deseas morir?
+¿Quieres saber si mis heridas han cicatrizado?
+Debes de estar bromeando...
+El miedo y la desesperación no son nada<03e0>comparado con lo que hemos pasado...<04e0>La única manera de sobrevivir en este mundo<03e0>lleno de crueldad es permanecer unidos.
+Pero tú eres distinto a todos los demás...<03e0>Te agradezco que me hayas ayudado<03e0>sin bombardearme a base de preguntas.<04e0>Toma esto como muestra de mi agradecimiento.
+Tal vez necesite un hombre como tú en mi vida...<04e0>¡Juas, juas! ¡Tranquilo, muchacho! ¡Era broma!
+Si me necesitas, estaré en el distrito de Genaade,<03e0>en Elysion. Les hablaré bien de ti a mis amigas...
+

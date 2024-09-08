@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1070_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Aaaargh...
+¡Muchacho! Debo.... Debo pedirte un favor.<03e0>Escúchame, por favor. Mi hora se acerca...<04e0>Te lo ruego... Debes llevarle estas flores a un joven<03e0>que vive en Celapalais... Un chico llamado Rhagoh...<03e0>Por favor... Dime que lo harás.
+* Mirada amenazadora *<04e0>Te envía mi hermano, ¿verdad?<03e0>¡Pues márchate y dile que se olvide de mí!
+El anciano ha muerto. Parece que tiene una carta<03e0>en un bolsillo...<06e0000008e0000000000000>Vaya, vaya... ¿Y esto qué es?<09e008e0010000000000>Debería respetar su intimidad.
+«Mi hora ya está próxima. Ha llegado el momento<03e0>de recoger mis últimos pensamientos en este diario,<03e0>con la esperanza de que alguien lo encuentre.»<04e0>«Todos los años vengo al bosque de Darken<03e0>en busca de las flores que me pidió Rhagoh...»<04e0>«Sólo así puedo redimirme de mis pecados.<03e0>Nunca debí haber usado aquel poder ancestral<03e0>para jugar con el alma de los demás...»<04e0>«Sin embargo, mi mayor crimen es haberle ocultado<03e0>la verdad a Rhagoh. Debí habérselo confesado...»<04e0>«Rhagoh, perdóname. Aquel accidente...<03e0>Por mi culpa, tu hermana...»<04e0>«Siento no haber tenido el valor de contárselo,<03e0>pero quizás la muerte me permita librarme<03e0>de la carga que pesa sobre mi conciencia.»<04e0>«Quizás hubiera debido hablarle de la diosa...<03e0>Sólo espero que mi decisión no le cause<03e0>más dolor a él y a su hermana...»<04e0>(El resto de la carta está emborronado y es ilegible).
+

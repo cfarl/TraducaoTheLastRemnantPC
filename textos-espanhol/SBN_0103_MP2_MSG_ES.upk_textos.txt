@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) SBN_0103_MP2_MSG
+-- ----------------------------------------------------------------------------------
+La puerta está cerrada a cal y canto.
+La puerta está cerrada a cal y canto.¿Quieres usar la Llave cubierta de musgo?<06e0000008e0000000000000>¡Pues claro!<09e008e0010000000300>Todavía no.
+La puerta se ha abierto.
+La puerta tiene la inscripción <03e0>«Clausuradas quedan las Tierras Sagradas».<04e0>Está cerrada a cal y canto.
+

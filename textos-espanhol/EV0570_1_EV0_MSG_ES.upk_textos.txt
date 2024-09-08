@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0570_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Rush?
+¡Papá!
+Me alegro de verte, hijo mío.
+Papá, Irina... La han...
+Sí, ya lo sé.
+Si sois... ¡El marqués de Athlum!
+¿Qué es eso?
+Esto... es lo que buscan<0fe003e00ee0>los que secuestraron a Irina.
+Esta tablilla pone a las reliquias en un...<0fe003e00ee0>estado letárgico. La descubrió tu madre.
+¿Y dónde está mamá?
+Está tratando de despistarlos<0fe003e00ee0>para alejarlos de aquí...
+¿Cómo?
+No te preocupes. Con esto,<0fe003e00ee0>recuperaremos a Irina en un periquete.<1ae0000006430fe005e001000ee0>Tu madre volverá enseguida.
+Has estado magnífico, Rush. Todo irá bien.
+Eso espero...
+Ya seguiréis charlando más tarde.<0fe003e00ee0>Debemos volver a la embajada.
+

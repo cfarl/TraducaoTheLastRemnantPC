@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1180_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Puedo ayudarle en algo, caballero?<03e0>Anda... ¡Si eres tú otra vez!
+El dueño de esta tienda ha tenido la gran idea<03e0>de contratar a una chica guapa y con talento<03e0>como una servidora... ¡Tengo un trabajo de verdad!
+Aunque esto de trabajar es una lata...
+Ahora me gustaría viajar a un sitio con un ambiente<03e0>un poco más fantástico, así que he decidido vender<03e0>este reluciente mineral marca «Khrynia».<04e0>¡Es una oportunidad de oro! ...<03e0>Vale, de acuerdo, tal vez no sea oro de verdad...<03e0>Pero su valor sentimental es incalculable, ¿sabes?<06e01900>sEVENT_PRICE_QE1180_P_000<08e0000000000000>¡Trae acá ese pedrusco!<09e008e0010000000300>No es oro todo lo que reluce.
+¡Te agradezco tu aportación, chaval!
+¡Adiós, Royotia! ¡Se acabó currar de dependienta!<03e0>Ésta no es forma de ganarse la vida...
+Gracias por nada, encanto.
+Jolín... Podrías enrollarte un poco y comprarme algo,<03e0>aunque sólo fuera para recompensar mis esfuerzos<03e0>por conseguir un trabajo.
+Te agradezco la buena voluntad, encanto...<03e0>Pero sólo de buenas intenciones no se come.
+

@@ -1,0 +1,37 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0120_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Maestro! ¡Ha llegado Rush Sykes!
+¿Alguna noticia de Irina?
+Pagus.
+Soy Pagus, uno de los cuatro<0fe003e00ee0>generales de Athlum.
+Me temo que no tenemos noticias<0fe003e00ee0>sobre el paradero de la señorita Irina.
+No obstante, hemos descubierto<0fe003e00ee0>dos sucesos sumamente interesantes.
+Uno: han visto a unos tipos sospechosos<0fe003e00ee0>llevarse a una joven a las cavernas de Gaslin.
+Seguro que...
+¿Y el segundo?
+Se ha detectado una actividad inusitada<0fe003e00ee0>en las ruinas del Castillo de Robelia.
+Esas ruinas siempre han sido<0fe003e00ee0>un refugio de ladrones de tres al cuarto...<1ae00000c8420fe005e001000ee0>¿Acaso ha pasado algo de especial?
+Algo no. Alguien.
+Nuestro informante dice haber visto<0fe003e00ee0>a soldados de Athlum entre las ruinas.
+Eso sí que es «interesante»...
+Vaya, Pagus, gracias.<0fe003e00ee0>Voy corriendo a investigar.
+Espera un momento, Rush.<0fe003e00ee0>Mis generales te acompañarán.
+Nuestro deber es garantizar<0fe003e00ee0>la paz y estabilidad de Athlum.<1ae00000d2420fe005e001000ee0>No podemos quedarnos ociosos<0fe003e00ee0>mientras Athlum corra peligro.
+Y no olvidemos que el maestro Rush<0fe003e00ee0>es hijo de famosos investigadores de reliquias.
+Naturalmente, haremos cuanto podamos<0fe003e00ee0>para socorrer a tan ilustre familia...
+Discúlpanos...<0fe003e00ee0>Hemos estado investigándote.
+Estoy acostumbrado.<0fe003e00ee0>Tener padres famosos también tiene sus ventajas.
+Pasa, Emma. Adelante.
+Sí, milord.
+Me he puesto en contacto<0fe003e00ee0>con la sede de la Academia en Celapalais.<1ae00000d2420fe005e001000ee0>Les he informado de que<0fe003e00ee0>tenemos a Rush a nuestro cargo.
+¿Has hablado con la Academia?<0fe003e00ee0>No sabes la alegría que me das...
+Yo ya había desistido de intentar<0fe003e00ee0>ponerme en contacto con ellos...<1ae000008c420fe005e001000ee0>Es como hablarle a una pared.
+Son muy celosos de sus secretos.
+Eres un cielo, Emma.
+De todos modos, no sabemos si el mensaje<0fe003e00ee0>llegará hasta la Academia de Elysion...
+¡Seguro que sí!<0fe003e00ee0>Jolín, han secuestrado a mi hermana...<1ae00000b4420fe005e001000ee0>¡Ni siquiera los peces gordos de la Academia<0fe003e00ee0>le ocultarían algo así a papá y mamá!
+No olvides que los Sykes están involucrados<0fe003e00ee0>en un proyecto del más alto nivel.<1ae00000f0420fe005e001000ee0>Puede que tarden algún tiempo en responder.
+Hasta entonces, te ayudaré<0fe003e00ee0>con todos los medios a mi alcance.
+¡Me parece estupendo!
+

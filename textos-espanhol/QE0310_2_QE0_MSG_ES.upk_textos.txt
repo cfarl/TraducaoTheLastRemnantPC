@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0310_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Damas y caballeros, llegó el momento que todos<03e0>estábamos esperando... ¡El Torneo de los héroes<03e0>ha comenzado!<04e0>¿Cuál de estos grupos de guerreros conseguirá<03e0>superar los tres niveles y convertirse en los nuevos<03e0>Héroes de leyenda?
+¡Es hora de que empiece la primera ronda!<04e0>Nuestros primeros participantes son...<03e0>¡Vaya, unos recién llegados! Desde la lejana tierra<03e0>de Athlum... ¡he aquí el equipo Blocter!
+¡Su primer rival será el temible dragón bravo!<04e0>Es un contrincante formidable para la primera ronda...<03e0>¿Estará a la altura el equipo Blocter?
+Parece bastante fuerte... Esto va a ser<03e0>un combate interesante. ¡Vamos, Rush!
+¡Damas y caballeros, bienvenidos de nuevo a la forja<03e0>de leyendas! ¡Es hora de comenzar la segunda ronda!<04e0>Es el turno del equipo revelación de las tierras del norte.<03e0>Desde Athlum... ¡El equipo Blocter!<03e0>¿Mantendrán el nivel que han mostrado hasta ahora?
+Su próximo rival será... ¡El peligroso león fiero!<03e0>¡Esto se pone interesante, queridos espectadores!
+Y por fin, queridos espectadores, llegamos al final<03e0>de este gran torneo. ¿Quién conseguirá el honor<03e0>y la gloria, y quién volverá con las manos vacías?
+¡Es hora de que los últimos contendientes<03e0>hagan su aparición! Se trata de...<04e0>¡Caray! Contra todo pronóstico, y a pesar<03e0>de las pocas expectativas que habían despertado,<03e0>son los atletas de Athlum: ¡el equipo Blocter!<04e0>Ahora se enfrentarán a la perdición de muchos<03e0>aspirantes a campeones... ¡El Degüellahéroes!<04e0>Si logran derrotarlo, Blocter y compañía saldrán<03e0>por la puerta grande.... ¡Pero si no lo consiguen,<03e0>saldrán con los pies por delante!
+Vaya, este bicho parece peligroso... ¡A ver si es<03e0>capaz de aguantar el ardor guerrero de Athlum!<03e0>¡Vamos, Rush! ¡Que vean de qué somos capaces!
+¡Juas, juas, juas!<03e0>¡Esto está tirado!
+Muy bien, vamos a descansar y a prepararnos<03e0>para la próxima ronda, ¿de acuerdo?
+Hemos... ¡Hemos ganado!<03e0>¡HURRAAA!
+Y el vencedor es... ¡El equipo Blocter!<03e0>¡Ardo en deseos de averiguar qué tal les irá<03e0>en la próxima ronda!
+¡El vencedor, por un gran margen, es el equipo Blocter!<03e0>Señores, no sé ustedes... ¡Pero yo estoy deseando<03e0>ver qué ocurre en la siguiente ronda!
+¡No puedo creer lo que ven mis ojos!<03e0>¡El equipo Blocter, la revelación del campeonato,<03e0>ha logrado hacerse con el gran premio!<04e0>Estos guerreros de Athlum se han ganado a pulso<03e0>del título de Héroes de leyenda... ¡Enhorabuena!
+

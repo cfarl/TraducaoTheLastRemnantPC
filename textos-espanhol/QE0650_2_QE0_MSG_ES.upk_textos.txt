@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0650_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La parte frontal del pilar está decorada con un grabado<03e0>que representa un fantasma. Aparentemente, equivale<03e0>a la letra «A».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una mujer. Aparentemente, equivale<03e0>a la letra «B».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa una lanza. Aparentemente, equivale<03e0>a la letra «C».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa un insecto. Aparentemente, equivale<03e0>a la letra «D».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa las arenas del desierto. Aparentemente,<03e0>equivale a la letra «E».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una persona que duerme. Por lo visto,<03e0>equivale al número «1».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una persona sentada. Aparentemente,<03e0>equivale al número «2».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una persona de pie. Aparentemente,<03e0>equivale al número «3».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una persona que sujeta un objeto.<03e0>Aparentemente, equivale al número «4».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una persona que camina. Por lo visto,<03e0>equivale al número «5».
+La parte frontal del pilar está decorada con un grabado<03e0>que representa a una persona que corre. Por lo visto,<03e0>equivale al número «6».
+

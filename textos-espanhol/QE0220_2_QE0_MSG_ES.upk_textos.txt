@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0220_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+El aire arrastra un leve olor dulzón.
+Un dulce aroma impregna esta zona.
+El aire está cargado de un perfume empalagoso.
+

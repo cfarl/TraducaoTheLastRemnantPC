@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GSS_0102_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay talladas varias líneas de caracteres desconocidos.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una persona dormida.<03e0>Representa el número 1.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una persona sentada.<03e0>Representa el número 2.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una persona de pie.<03e0>Representa el número 3.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una persona que sujeta<03e0>un objeto. Representa el número 4.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una persona que anda.<03e0>Representa el número 5.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una persona que corre.<03e0>Representa el número 6.
+Hay grabado un símbolo cuya forma<03e0>representa un alma.<03e0>Representa la letra A.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una mujer.<03e0>Representa la letra B.
+Hay grabado un símbolo cuya forma<03e0>recuerda a una lanza.<03e0>Representa la letra C.
+Hay grabado un símbolo cuya forma<03e0>recuerda a un insecto.<03e0>Representa la letra D.
+Hay grabado un símbolo cuya forma<03e0>representa unos granos de arena.<03e0>Representa la letra E.
+

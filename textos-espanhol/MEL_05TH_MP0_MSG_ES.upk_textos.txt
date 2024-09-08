@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Tú debes de ser el joven que nos ha ayudado<03e0>es estos tiempos tan duros...<04e0>Soy Olebeag, señora de Melphina.<03e0>Permíteme que te exprese mi gratitud de parte<03e0>de todos nosotros.
+Soy Olebeag, la señora de Melphina.<03e0>Permíteme que te dé la bienvenida..<04e0>Aunque nuestra humilde ciudad esté muy apartada<03e0>y no es muy grande, no encontrarás un lugar mejor<03e0>para estudiar las artes místicas.
+No sé qué me pasa últimamente...<04e0>Siento como si alguien intentase controlarme.<03e0>Es una sensación muy desagradable...
+No me encuentro bien y necesito descansar.<03e0>Te ruego que me disculpes. Sé que has recorrido<03e0>un largo camino para llegar hasta aquí.
+Joven Sykes, me alegra verte de nuevo.<04e0>Robert y yo deseamos expresarte<03e0>nuestra más sentida gratitud por la ayuda<03e0>que has prestado a la Orden.<04e0>Te lo ruego, quédate en nuestra ciudad a descansar.
+Joven Sykes, me alegra verte de nuevo.<04e0>Me gustaría agradecerte tu inestimable ayuda<03e0>y el riesgo que asumiste para salvar Melphina<03e0>del horrible destino que le aguardaba.<04e0>Eres el héroe de esta ciudad.
+La Lágrima Azul es nuestro mayor tesoro.<03e0>Sin embargo, no hay nada más valioso<03e0>que la vida de alguien.<04e0>Entregaremos inmediatamente la Lágrima Azul<03e0>para salvar la vida de la doncella del bosque.
+Soy Olebeag, la señora de Melphina.<04e0>Aunque nuestra ciudad no es muy grande<03e0>y está muy apartada, quisiera transmitiros<03e0>mi más cálida bienvenida.
+Últimamente mi salud está fallando...<03e0>Debo admitir que es un fastidio.
+Soy Robert, comandante de la Orden de Melphina.<03e0>Si alguna vez decidís uniros a nosotros, buscadme.
+Maestra Olebeag... Ojalá pudiera hacer algo<03e0>para aliviar vuestro sufrimiento.
+Maestra Olebeag...<04e0>¡No puedo soportar veros en ese estado!<03e0>¡Ojalá pudiera cambiarme por vos!
+Señor Rush, bienvenido a nuestra humilde ciudad.<04e0>Si no hubiera sido por vuestra ayuda,<03e0>esta ciudad ya no existiría. Sería un honor<03e0>para nosotros aceptaros en nuestra Orden.
+¡Maestra Olebeag, os ruego que me perdonéis!<03e0>El deber de la Orden era protegeros de todo mal...<03e0>Siento mucho haberos fallado.
+Maestro Sykes, permitidme que os dé esta llave<03e0>de Siebenpur. Ya no la necesitaremos.
+Bienvenido, viajero.<03e0>Soy Marsha, sacerdotisa de las doncellas del bosque.
+La maestra Olebeag está terriblemente enferma.<03e0>Estoy muy preocupada.
+Hemos sentido una extraña fuerza que emana<03e0>de la maestra Olebeag. Es una energía poderosa,<03e0>misteriosa y... funesta.<04e0>Me pregunto quién será el responsable...
+Señor Rush, me alegro de que estéis aquí.<04e0>Gracias a vuestra ayuda hemos podido restablecer<03e0>la barrera. Como líder de las doncellas del bosque,<03e0>dejad que os exprese nuestra más honda gratitud...
+Si no hubiera sido por vos, sir Robert y yo<03e0>no seguiríamos con vida. Os habéis convertido<03e0>en todo un héroe para la ciudad de Melphina...<04e0>Y habéis ocasionado un gran revuelo<03e0>entre las doncellas del bosque. Ahora<03e0>todas desean unir su vida a la vuestra...
+Veo que has conseguido un lirio perfumado.<03e0>Su aroma tiene propiedades calmantes...<03e0>Resulta muy útil cuando te sientes intranquilo.
+Pareces inquieto por algo. Tal vez deberías<03e0>hacerte con un ramillete de lirios perfumados.<03e0>Su aroma es muy relajante.
+Esos tipos que querían apoderarse de la Lágrima Azul<03e0>lograron huir. Los seguimos hasta las minas de Numor,<03e0>pero allí desaparecieron como las ratas que son.<04e0>Maldita sea... ¡Y pensar que siguen sueltos!
+Bienhallado seáis, maestro Sykes.<04e0>Vuestra ayuda ha resultado inestimable<03e0>para sacar a Melphina de esta difícil situación.<04e0>Sabed que contáis con mi más sincera gratitud.
+¿Eh?<04e0>Oh, perdonadme, maestro Sykes.<03e0>No me había dado cuenta de que estabais aquí.<04e0>¿Sabéis una cosa? Últimamente paso mucho tiempo<03e0>reflexionando sobre el rumbo que ha tomado mi vida<03e0>y cuestionándome mis decisiones...
+Últimamente paso mucho tiempo reflexionando<03e0>sobre el rumbo que ha tomado mi vida...
+Nadie puede detener el paso del tiempo, y el brazo<03e0>con el que empuño mi espada se hace más débil<03e0>cada día que pasa.<04e0>Dentro de poco me llegará la hora de darle el relevo<03e0>a un joven caballero para que dirija la Orden.<04e0>Pero no hay de qué preocuparse: en Melphina<03e0>hay muchos caballeros jóvenes y prometedores.<03e0>La historia de la Orden no terminará con mi partida.
+Dentro de poco me llegará la hora de poner<03e0>a un joven caballero al mando de la Orden.
+Maestro Sykes... ¿Puedo preguntaros una cosa?<03e0>¿Alguna vez os habéis cuestionado el propósito<03e0>de vuestra existencia?<04e0>Desde que juré lealtad a Marsha, mi vida entera<03e0>ha estado dedicada a la Orden. Todos mis actos<03e0>han estado encaminados a proteger a Melphina.<04e0>¿Qué haré cuando deje de ser un caballero?<03e0>No sé si sabré cómo darle sentido a mi vida.<03e0>Me da pavor perder el camino...<04e0>No sé si me comprendéis, pero es un pensamiento<03e0>que me tiene atormentado últimamente.
+No sé qué será de mí cuando deje la Orden.<03e0>Me da pavor perder el camino. Últimamente,<03e0>este pensamiento me tiene atormentado.
+Mi único propósito en la vida era utilizar mi posición<03e0>como líder de la Orden para proteger Melphina<03e0>costase lo que costase.<04e0>Sin embargo, vos le habéis dado a mi existencia<03e0>un nuevo propósito.<04e0>El mundo entero padece interminables guerras...<03e0>¡En vez de pensar tan sólo en proteger Melphina,<03e0>debería ampliar mis horizontes al resto del mundo!<04e0>Aunque mi avanzada edad me impida ser un caballero,<03e0>así podré seguir sirviendo a la causa de la justicia<03e0>como he hecho a lo largo de toda mi vida.<04e0>Maestro Rush, me honraría sobremanera<03e0>que me permitieseis unirme a vuestro grupo.<03e0>Así podré seguir luchando por la causa del bien.
+¡Bienhallado seáis!<04e0>Aunque deje de ser un caballero, seguiré<03e0>ayudando de la única manera que conozco.
+

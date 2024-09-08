@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) WM_CM_MSG_00
+-- ----------------------------------------------------------------------------------
+rush_sykes_sNo debería marcharme yo solo.<03e0>Será mejor que vuelva con David.
+plocterOye, ¿a dónde crees que vas?<03e0>Tienes que ir al <1be0ffbe34ff>Castillo de Athlum<1ce003e0>para presentar tu informe.
+pagus¿A dónde vas, muchacho?<03e0>Deberías ir primero al <1be0ffbe34ff>Castillo de Athlum<1ce003e0>para dar parte de tu investigación.
+rush_sykes_sVaya pérdida de tiempo. Si lo sé no vengo...<03e0>¡Iré a buscar a Irina yo solo!
+emma_honeywell_s¿A dónde crees que vas?<03e0>Debemos presentarnos ante lord David.
+emma_honeywell_s¡Espero que no estés pensando en salir<03e0>en busca del hombre de rojo sin lord David!
+david_nassau_s¿A dónde vas, Rush?<03e0>El <1be0ffbe34ff>Templo de Elysion<1ce0> nos aguarda.
+david_nassau_s¿A dónde vas, Rush? Creía que Emma y tú<03e0>habíais partido en busca de tu madre.
+emma_honeywell_s¿No estarás pensando en abandonar a lord David?<03e0>¡Tenemos que permanecer unidos!
+rush_sykes_sNo creo que sea buena idea salir yo solo...
+pagus¿A dónde vais?<03e0>Deberíais quedaros aquí hasta nueva orden.
+david_nassau_sRush, hemos de partir raudos a <1be0ffbe34ff>Fordragón<1ce0>.<03e0>¡No tenemos ni un segundo que perder!
+plocter¡Maestro!<03e0>Una especie de muro invisible nos bloquea el paso.<03e0>¡No podemos seguir por aquí!
+irina_sykes_sParece que la energía de esos puntos oscuros<03e0>está formando una especie de muralla.
+david_nassau_s¡Entonces tendremos que destruirlos!
+irina_sykes_s¡Lord David!<03e0>Noto un gran poder que emana<03e0>de esos puntos oscuros...<04e0>Tendremos que <1be0ffbe34ff>acabar con ellos<1ce003e0>para poder entrar en Königsdorf.
+david_nassau_sQue así sea, pues...<03e0>¡Soldados! ¡Preparaos para cargar!
+david_nassau_sRush, hemos de enfrentarnos al ejército del Invasor<03e0>en la <1be0ffbe34ff>Llanura Sagrada<1ce0> para poder entrar a Elysion.<03e0>Apresurémonos.
+

@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Éste es el Gremio de la Neutralidad.<03e0>¿Te podemos ayudar en algo?
+¡Aaagh! ¡No hay quien pegue ojo con esa campana!<04e0>No me digas que no sabes de qué te hablo...<03e0>¡De la campana del <1be0ffbe34ff>Castillo de Muscato<1ce0>, claro está!<04e0>Hace siglos era un hermoso castillo de color plateado.<03e0>El Señor del castillo practicaba rituales de todo tipo,<03e0>la gente componía canciones en su honor, y cosas así.<04e0>Pero ahora está totalmente abandonado y sus ruinas<03e0>están abarrotadas de monstruos. Menudo lugar...<04e0>El caso es que en medio del castillo hay un campanario<03e0>y algunas noches se puede oír el tañido de su campana.<03e0>Y eso que allí ya no vive nadie...<04e0>¡Uf, me dan escalofríos sólo de pensarlo!
+El desierto está lleno de peligros, pero merece la pena<03e0>aventurarse... También está lleno de tesoros ocultos.<04e0>En el gremio corre el rumor de que más allá<03e0>del Océano de Arena se encuentran las ruinas<03e0>del mayor de los reinos antiguos, el Reino de Glenys.<04e0>Daría lo que fuera por hacerme con sus tesoros...
+

@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) DLP_0101_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Lady Emma me comentó que vuestro talismán<03e0>encierra un extraño poder.
+Sí, es cierto. ¿Qué pasa?<03e0>¿Es que no te lo crees?
+Lady Emma es una persona de fiar y no tengo<03e0>motivo alguno para dudar de ella.<04e0>Pero decidme... ¿Alguna vez habéis intentado<03e0>usar ese poder fuera del campo de batalla?
+¿Qué quieres decir?
+¿Sois capaz de activarlo ahora, por ejemplo?
+Umm... No lo sé, pero puedo intentarlo.
+Qué... ¿Qué ha pasado?
+Ya veo. Parece que vuestro talismán tiene el poder<03e0>de manipular el tiempo...<04e0>Si lo utilizáis sabiamente, podría resultaros muy útil<03e0>a la hora de entablar combate. Podríais enfrentaros<03e0>en solitario a varios monstruos sin correr peligro.<04e0>Sin embargo, dudo que el poder de vuestro talismán<03e0>tenga una duración ilimitada. ¡Usadlo con prudencia!
+La puerta está cerrada a cal y canto.
+La puerta está cerrada a cal y canto.<03e0>¿Quieres usar la Llave de las llanuras?<06e0000008e0000000000000>¡Pues claro!<09e008e0010000000300>Quiero echar un ojo antes.
+La puerta se ha abierto.
+

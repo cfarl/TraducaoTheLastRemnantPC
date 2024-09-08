@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1310_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Te encuentras mejor?
+Umm... Siento haberos preocupado.
+Hey, no pasa nada.
+¿Cómo está Irina?
+Bien. Sólo está agotada de tanto ajetreo.
+Comprendo.
+Se suponía que iba a permanecer<0fe003e00ee0>al margen de este asunto. Te di mi palabra...
+No es culpa tuya, Dave.<0fe003e00ee0>Irina lo hizo porque quería.
+¡Rush!
+¿Mamá?
+Irina... ¡Irina ha desaparecido!
+Cuando veáis esto, ya me habré marchado<0fe003e00ee0>al bosque de Darken. Quiero comprobar algo.
+No os preocupéis, no me pasará nada.<0fe003e00ee0>Si la cosa se pone fea, volveré enseguida.
+¿Cómo ha podido hacer semejante locura?
+Nadie puede cambiar su condición...<1ae00000aa420fe005e001000ee0>Pero poseer la bendición de Marion<0fe003e00ee0>no conlleva la obligación de utilizarla.
+Jolín, mira que se toma las cosas a pecho...
+¡Dave! ¡Tengo que salvar a Irina!
+Ya sé que no puedo hacer<0fe003e00ee0>gran cosa contra el Invasor...<1ae00000b4420fe005e001000ee0>¡Pero ya abandoné a Irina una vez<0fe003e00ee0>y no pienso volver a hacerlo!
+Lo comprendo.
+Sin embargo...
+No puedo permitir que vayas solo.<0fe003e00ee0>Iré contigo.
+¡Gracias, Dave!
+¡Muy bien! Ya está decidido.<0fe003e00ee0>¡Pongámonos en marcha!
+

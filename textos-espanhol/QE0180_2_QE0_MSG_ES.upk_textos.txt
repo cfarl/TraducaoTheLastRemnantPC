@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush... No sé si debería cargarte este muerto encima,<03e0>pero no sé a quién más puedo recurrir.<04e0>No sé si te lo había comentado, pero ando buscando<03e0>un elixir para devolverle la vista a Reya.<04e0>Por ahora no ha habido suerte, pero los mercaderes<03e0>que han pasado por la ciudad me han hablado de algo<03e0>que podría ser justo lo que necesito.<04e0>Por lo visto, existe una planta llamada «flor de luz»<03e0>que es capaz de devolverle la vista a los ciegos.<04e0>Parece que crece en la cima del <1be0ffbe34ff>monte Vackel<1ce0>.<03e0>Al menos, eso creían los mercaderes.Si por mí fuera, ya estaría trepando ese monte...<03e0>Pero no sé qué sería de Reya si me ocurriera algo.<03e0>Sería un mal trago terrible para esa chiquilla.<04e0>Además, ahora que he prometido acompañarte,<03e0>estaría feo largarme por las buenas yo solo...<04e0>Por eso quiero pedirte un favor...<03e0>¿Puedes acompañarme al <1be0ffbe34ff>monte Vackel<1ce003e0>y ayudarme a buscar una <1be064f4ecff>flor de luz<1ce0> para Reya?<06e0000008e0000000000000>Iré, me ha caído bien.<09e008e0010000000300>Mejor que no te vea...
+Sabía que podía contar contigo.<04e0>Me han explicado cómo son esas flores, así que<03e0>las encontraré enseguida en cuanto lleguemos allí.
+Yo sólo quiero que Reya recupere la vista...<03e0>Si encuentras un momento para ayudarme,<03e0>haz el favor de avisarme.
+Las flores de luz crecen en el <1be0ffbe34ff>monte Vackel<1ce0>.<03e0>Me han explicado cómo son esas flores, así que<03e0>las encontraré enseguida en cuanto lleguemos allí.<04e0>Haré lo que sea para que Reya recupere la vista.<03e0>No te pediría ayuda si no fuera importante para mí.
+¿Has cambiado de idea? ¿Me vas a ayudar o no?<04e0>Debo ir al <1be0ffbe34ff>monte Vackel<1ce0> y conseguir<03e0>una <1be064f4ecff>flor de luz<1ce0> para Reya. ¿Te vienes?<06e0000008e0000000000000>Sí, estoy listo.<09e008e0010000000300>No estoy seguro...
+Sabía que podía contar contigo.<04e0>Me han explicado cómo son esas flores, así que<03e0>las encontraré enseguida en cuanto lleguemos allí.
+Ya sé que no es un gran plan, pero es lo que hay.<03e0>Cuando termines con lo que estés haciendo,<03e0>dame un toque.
+Bueno, ¿me vas a ayudar o no? Debo ir al <1be0ffbe34ff>monte Vackel<1ce003e0>para conseguir una <1be064f4ecff>flor de luz<1ce0> para Reya.<06e0000008e0000000000000>Claro, ¡adelante!<09e008e0010000000300>Necesito más tiempo...
+Quiero hacer todo lo que esté en mi mano<03e0>para ayudar a Reya. Ayúdame a devolverle la vista.
+Vale, vale, lo entiendo. Si terminas algún día<03e0>con tus dichosos preparativos, dame un toque.
+

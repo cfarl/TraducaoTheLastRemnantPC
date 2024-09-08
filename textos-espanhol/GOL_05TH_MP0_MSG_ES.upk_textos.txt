@@ -1,0 +1,26 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya, sois amigos del Marqués...<03e0>¿A qué habéis venido?
+No puedo creer que lord Hermeien siga vivo...<03e0>Aunque esa abrumadora maldad que irradiaba<03e0>es prueba suficiente de que ya no es humano.<04e0>Espero que esto no provoque otra guerra...<03e0>Pero no pienso quedarme de brazos cruzados.<03e0>Enviaré a algunos emisarios a recabar información.
+Veo que la cosa se está animando.<04e0>Mis emisarios me han informado de tus intenciones.<03e0>También me han contado algo sobrecogedor.<04e0>Creíamos que el Tercer Comité había desaparecido<03e0>tras el incidente en Nagapur, pero parece que algunos<03e0>de sus miembros pretenden resucitarlo.<04e0>¡Como si no tuviéramos nada mejor que hacer<03e0>que ocuparnos de esos indeseables!
+Últimamente reina semejante confusión<03e0>que no hay manera de mantener la situación<03e0>bajo control...<04e0>Hace nada me han informado de que los miembros<03e0>del Tercer Comité se están reagrupando en Nagapur,<03e0>en Elysion e incluso en este castillo.<04e0>Y, por si fuera poco, la Academia me ha informado<03e0>de que han desaparecido unos documentos secretos<03e0>relacionados con sus investigaciones.<04e0>Si el ladrón los vende en el mercado negro,<03e0>podrían caer en manos del Tercer Comité...<03e0>Y entonces, ¿quién sabe lo que podría ocurrir?
+Las reliquias tienen poderes que escapan<03e0>a la comprensión de unos simples mortales<03e0>como nosotros.<04e0>Si ni siquiera somos capaces de controlar<03e0>nuestros impulsos, ¿cómo podemos aspirar<03e0>a controlarlas?<04e0>La humildad es una virtud muy importante.<03e0>Ojalá todo el mundo fuera tan consciente<03e0>de ello como vosotros.
+Nunca creí que llegaría el día<03e0>en que nos volveríamos a encontrar.<04e0>Tú has recorrido tu camino, yo he recorrido el mío,<03e0>y aquí estamos de nuevo frente a frente...<04e0>Según me informan mis emisarios, los miembros<03e0>del Tercer Comité se han hecho con una reliquia<03e0>conocida como la «Espada de Leithion».<04e0>Nunca he oído hablar de esa espada...<03e0>¿Qué es lo que estarán tramando?<03e0>Tengo que averiguarlo como sea.
+¿Y tú quién eres?<03e0>No me suena tu cara...<04e0>¿¡Te das cuenta de que te encuentras<03e0>ante el duque de Ghor, el héroe legendario<03e0>en cuyas manos reposa el Bilquis!?
+¡El duque de Ghor está al frente del Consejo!<03e0>¡Debéis mostrar más respeto!
+¿Por qué estáis todavía aquí?<03e0>¿Es que no sabéis que el Consejo se reúne en Elysion?
+Lord... Hermeien... No, no puede ser...
+¡Haré que el Invasor lamente<03e0>haber tocado al duque de Ghor!
+¿Qué ocurre?
+Parece que el Marqués te ha tomado cariño.
+¿Qué ocurre?
+Eres un muchacho muy interesante...<03e0>No sé cómo, pero siempre consigues hacerte<03e0>con la simpatía de quienes te rodean.
+¿Qué ocurre?
+Todos los que se han reunido aquí<03e0>tienen el mismo brillo que tú en los ojos...<03e0>Ver algo así me hace muy feliz.
+¿Qué ocurre?
+Nadie sabe cuándo se construyó el castillo...<03e0>Lo más probable es que haya estado aquí<03e0>desde que se fundó la ciudad.<04e0>Puede que quienes ayudaron a levantar este sitio<03e0>no fueran puros de corazón, pero eran valientes<03e0>y estaban decididos a salir adelante.<04e0>Su único objetivo era construir un futuro digno...<03e0>Y tú tienes la misma mirada que ellos.<04e0>Sin embargo, en tus ojos veo algo más...<03e0>Se trata de cierto brillo que también veo<03e0>cuando me miro en el espejo.<04e0>Dime, muchacho... ¿Quién eres realmente?
+¿Qué ocurre, Rush?
+¿Que quieres excavar bajo el Castillo de Ghor?<03e0>No seas ridículo.<04e0>Hace nada, un qsiti me vino con la misma petición.<03e0>No hacía más que darme la tabarra con historias<03e0>sobre ruinas, milagros y esas tonterías.<04e0>Sea como fuere, no es hora de jugar a buscar tesoros.<03e0>No tengo nada en contra de la gente con imaginación,<03e0>pero cada cosa tiene su momento.<04e0>Tú y tu amiguito el qsiti deberíais tener en cuenta<03e0>las circunstancias que nos rodean antes de venir<03e0>a pedirnos favores absurdos.
+¿Que si conozco a un mercenario llamado Gaou?<03e0>La verdad es que es más conocido bajo el nombre<03e0>de «el Rey». ¿Por qué lo preguntas?<04e0>* Tenso silencio *<04e0>Entiendo... Interesante.<03e0>No te preocupes, yo me encargaré.
+

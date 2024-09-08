@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0030_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Cielos... Tal vez debería habérselo impedido...<06e0000008e0000000000000>¡Pues claro!<09e008e0010000000000>Esto... ¿Qué ha pasado?
+¿Cómo que «Pues claro»?<03e0>¡Si ni siquiera sabéis de qué estoy hablando!
+Perdón... Dejadme que os explique.
+Violet está tramando algo terrible...<03e0>Pretende asesinar al duque de Qubine.<04e0>Pero yo la amo con locura y estoy al corriente<03e0>de sus problemas familiares, así que...<03e0>¿Cómo se lo iba a impedir?<04e0>Bastaría con difundir el rumor de que el Duque<03e0>ha sido asesinado, pero no quiere escucharme.<04e0>El caso es que sé dónde se encuentra, y creo<03e0>que todavía podemos alcanzarla...<03e0>¿Me ayudaréis a detenerla?<06e0000008e0000000000000>Vale, ya que tú no te atreves...<09e008e0010000000300>No la veo capaz de hacerlo...
+¡Entonces, corramos a <1be0ffbe34ff>Celapalais<1ce0>!<03e0>Sólo espero que lleguemos a tiempo...
+¡Eso es que no la conoces como yo!
+Creo que todavía podemos alcanzarla...<03e0>¿Me ayudaréis a detenerla?<06e0000008e0000000000000>Vale, ya que tú no te atreves...<09e008e0010000000300>No la veo capaz de hacerlo...
+¡Entonces, corramos a <1be0ffbe34ff>Celapalais<1ce0>!<03e0>Sólo espero que lleguemos a tiempo...
+¡Eso es que no la conoces como yo!
+

@@ -1,0 +1,28 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1380_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Soy el Presidente en funciones del Consejo,<0fe003e00ee0>David Nassau, marqués de Athlum.<1ae000001b430fe005e001000ee0>Es un gran honor para mí<0fe003e00ee0>presentarme ante Vuestra Excelencia.
+Es un día memorable para el pueblo<0fe003e00ee0>de Athlum, pues no existe mayor gloria<1ae000000c430fe005e001000ee0>que tener la oportunidad de asistir<0fe003e00ee0>a una audiencia con Su Excelencia...
+Ya es suficiente.
+¿Excelencia?
+Basta de formalidades, Marqués.<0fe003e00ee0>Son demasiado... impersonales.
+Aquí tratamos a todos igual, sean caballeros<0fe003e00ee0>o campesinos. No es precisa tanta cortesía.
+¿Acaso no estáis de acuerdo?
+Como prefiera Su Excelencia.
+Vaya tío más raro.
+Marqués de Athlum...<1ae000007c420fe005e001000ee0>Hemos oído hablar de vuestras hazañas.<0fe003e00ee0>Realizar tales proezas a vuestra edad<1ae0000020430fe005e001000ee0>es francamente impresionante. Sin duda,<0fe003e00ee0>vuestro padre estaría orgulloso de vos.
+Oh... Vuestra amabilidad me abruma.
+Excelencia... Vengo a haceros una pregunta.
+¿Os preocupa el Invasor?
+Es un tema delicado. Aunque nos gustaría<0fe003e00ee0>satisfacer vuestra sed de conocimiento...
+La estabilidad del mundo está en peligro<0fe003e00ee0>por culpa del Invasor. ¡Debemos detenerlo!<1ae0000034430fe005e001000ee0>¡Os lo ruego, contadme cuanto sepáis!
+¿La estabilidad del mundo peligra, decís?<0fe003e00ee0>Un hombre aterrador, sin duda.
+¡Excelencia! ¿Acaso no fuisteis vos<0fe003e00ee0>quien le concedió sus poderes?<1ae0000002430fe005e001000ee0>¿Cuál era vuestra intención?
+Sois como un niño, Marqués...<0fe003e00ee0>No veis más allá de vuestras narices.
+¿Vos sois Irina Sykes?
+¡Sí!
+¿Así que por vuestras venas<0fe003e00ee0>corre la sangre de Marshall?<1ae0000003430fe005e001000ee0>Habéis heredado la belleza de lady Marion.
+Marqués, os revelaré el secreto del Invasor<0fe003e00ee0>en honor a nuestra antigua consorte...
+Sin embargo...
+¡Armaos de valor antes de continuar!
+

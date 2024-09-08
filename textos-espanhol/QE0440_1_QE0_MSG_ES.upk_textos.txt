@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0440_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Rush! Esperaba ansiosa tu llegada.<04e0>He estado preguntando por la taberna y he averiguado<03e0>qué ha sido de esos desaprensivos de ropas oscuras.
+Uno es un qsiti llamado Nordis, que por lo visto<03e0>es todo un maestro de esgrima... El otro es un mitra<03e0>llamado Azelle.<04e0>Dicen que han huido de Melphina a Nagapur<03e0>y que se esconden en las <1be0ffbe34ff>minas de Numor<1ce0>.
+Han mancillado el nombre de la Orden de Melphina<03e0>y han puesto en peligro a la ciudad. Pagarán por ello...<03e0>Yo misma me ocuparé de que así sea.<04e0>Hay que encontrar a esos miserables y ponerlos<03e0>en manos de la justicia. Estás de acuerdo conmigo,<03e0>¿verdad, Rush?
+Debemos ir raudos en su búsqueda.<03e0>Si no nos damos prisa, se escabullirán<03e0>como las ratas que son.
+¡Rush, apresurémonos!<03e006e0000008e0000000000000>¡Hagamos justicia!<09e008e0010000000300>Ya han sufrido bastante...
+No esperaba menos de ti, Rush. Veo que conoces<03e0>bien los principios del honor y la justicia.
+Esos canallas andarán deambulando por las <1be0ffbe34ff>minas<03e0>de Numor<1ce0>. Dirígete allí lo antes que puedas.<03e0>Yo haré lo mismo.
+¿Qué? ¿Cómo puedes decir algo así?<04e0>Como quieras... Aunque tenga que hacerlo yo sola,<03e0>me ocuparé personalmente de que reciban su castigo.<03e0>Ya sabes dónde buscarme si cambias de opinión...
+Oh, Rush...<04e0>Todo esto es por culpa de ese hombre de negro...<03e0>Ese Azelle es quien ha secuestrado a la<03e0>doncella del bosque, ¡no me cabe ninguna duda!
+Mi intención era castigarlo por mancillar el honor<03e0>de la Orden y del país, pero nunca imaginé<03e0>que ocurriría nada parecido...
+He demostrado que soy indigna de pertenecer<03e0>a la Orden de Melphina.<04e0>Nunca más volveré a usar esta espada.<03e0>Rush, si la quieres, es toda tuya...
+He cometido un pecado imperdonable.<03e0>Aquí sólo hay una criminal, y soy yo...<04e0>Ojalá hubiera escuchado al comandante Robert...
+¡Rush! Sabía que te lo pensarías.<03e0>¡Adelante! ¡Hagamos justicia!<06e0000008e0000000000000>¡Sí! ¡A por ellos!<09e008e0010000000300>La ira lleva al lado oscuro.
+Agradezco tu entusiasmo.<03e0>¡En marcha! ¡A las <1be0ffbe34ff>minas de Numor<1ce0>!
+¿Pero qué dices? ¿Acaso has olvidado tu sentido<03e0>de la justicia? En fin... Si recapacitas, ya sabes<03e0>dónde encontrarme.
+

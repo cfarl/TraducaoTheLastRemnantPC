@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0130_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+He aquí la <1be064f4ecff>Lanza de los albores<1ce0>, el tesoro del reino<03e0>que otrora fue la tierra predilecta del primer<03e0>Emperador celestial.<04e0>Te aseguro que no te arrepentirás de tu inversión...<03e006e01900>sEVENT_PRICE_QE0130_P_004<08e0000000000000>Bueno... De acuerdo.<09e008e0010000000300>Nunca he visto tanto dinero.
+Excelente. Por cierto, una vez que cerremos el trato...<03e0>Si te he visto, no me acuerdo. Confío en que sabrás<03e0>mantener esto en la más absoluta confidencialidad.<04e0>¡Hasta nunca! No volveremos a vernos.
+Me temo que no tienes fondos suficientes.
+Bueno, pues adiós muy buenas.
+

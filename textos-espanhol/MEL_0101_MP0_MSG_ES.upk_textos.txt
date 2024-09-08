@@ -1,0 +1,129 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido a Melphina, la ciudad de la cultura.<03e0>Ésta es la plaza del Cobalto. ¡Detente un momento<03e0>y respira este aire puro!<04e0>¿Cómo? ¿Que qué son esas esferas que flotan?<03e0>¡Es la Lágrima Azul!<04e0>Es la más noble de todas las reliquias: da ánimos<03e0>a las gentes de bien y ahuyenta a los seres malignos.
+Message 2
+Message 3
+¡Oh, no! ¡Oh, no! Nuestra Señora, la maestra Olebeag,<03e0>padece un terrible mal... ¡Y nadie es capaz de sanarla!<04e0>La doncella del bosque Marsha está rezando y haciendo<03e0>todo cuanto puede, pero no parece que sirva de nada...<03e0>¿Es que no hay nadie que pueda hacer algo?
+Message 5
+Message 6
+¿Qué? ¿Que dónde están las esferas flotantes?<03e0>Ah, ¿te refieres a la Lágrima Azul?<04e0>Hace seis meses, una de las doncellas del bosque<03e0>fue secuestrada y tuvimos que entregar<03e0>la Lágrima Azul como rescate.<04e0>Sir Robert y la maestra Olebeag pidieron disculpas<03e0>por lo ocurrido, pero no tenían otra elección.<03e0>La doncella está a salvo, y eso es lo que importa.
+Message 5 (Seizing Remnant)
+Message 6 (Seizing Remnant)
+Las doncellas del bosque rezamos a la Hoja Caída,<03e0>la reliquia celestial que vela por la seguridad<03e0>de Marismarchita.<04e0>Nuestros rituales ayudan a fortalecer la barrera<03e0>que defiende la ciudad, aunque últimamente parece<03e0>que esa barrera se está debilitando.<04e0>Y hay muchas organizaciones que pretenden<03e0>hacerse con esta reliquia, pero no hay nada<03e0>de qué preocuparse.<04e0>¡Al fin y al cabo, la Orden de Melphina nos protege!
+Message 2
+Message 3
+La doncella Marsha aún está rezando para que<03e0>la maestra Olebeag se recupere pronto.<03e0>Pero hay algo que me preocupa...<04e0>Yo también he estado rezando a la Lágrima Azul,<03e0>y he notado algo... extraño. Es como si alguien<03e0>hubiese levantado un muro a su alrededor.<04e0>Espero que aún pueda escuchar mis ruegos...
+Message 5
+Message 6
+Es culpa nuestra que nos arrebataran<03e0>la Lágrima Azul...<04e0>Un día, un hombre vestido de negro apareció,<03e0>secuestró a la nueva doncella y exigió la reliquia<03e0>a cambio de su liberación. ¡Qué desfachatez!<04e0>La maestra Olebeag debe de estar muy abatida...
+Message 5 (Seizing Remnant)
+Message 6 (Seizing Remnant)
+La Orden de Melphina es un escudo que protege<03e0>a esta ciudad frente a los monstruos.<04e0>Su líder, Sir Robert, es un hombre muy severo,<03e0>pero para mí es un verdadero honor luchar<03e0>a su lado.
+Message 2
+Mientras la maestra Olebeag siga enferma,<03e0>corremos un grave peligro si los monstruos<03e0>nos atacan o alguien trata de invadirnos.<04e0>Por si las moscas, la Orden de Melphina<03e0>ha reforzado la seguridad en toda la ciudad.
+Message 4
+El hombre que secuestró a la doncella del bosque<03e0>iba vestido de negro y tenía un brillo muy extraño<03e0>en la mirada...<04e0>Parecía trastornado, como un animal<03e0>acorralado sin salida.<04e0>Intentamos razonar con él, pero no hubo forma<03e0>de conseguir que nos escuchara.<04e0>No sólo no hemos recuperado la Lágrima Azul,<03e0>tampoco hemos podido salvar el alma de ese tipo...
+Message 4 (Seizing Remnant)
+Contempla este jardín...<04e0>Las hojas de las plantas protegen a las flores,<03e0>igual que los caballeros de la Orden protegen<03e0>a las doncellas del bosque.<04e0>Cada caballero jura por su honor proteger con su vida<03e0>a su doncella, y ambos prometen velar por la castidad<03e0>del otro.<04e0>Pero... Ejem, la verdad es que no sé si debería<03e0>contarte este tipo de cosas.
+Message 2
+¿Te has fijado en el jardín últimamente?<03e0>La tierra se está secando... Si sigue así,<03e0>las plantas no llegarán a florecer del todo.<04e0>Y la salud de la maestra Olebeag<03e0>empeora cada día que pasa...<04e0>Este jardín es un fiel reflejo de la situación<03e0>en la ciudad, ¿no te parece?<04e0>Bien pensado, quizás seas demasiado joven<03e0>para entenderlo...
+Message 4
+¿Has visto el jardín?<03e0>Todas las flores se han marchitado.<04e0>Es como el ánimo de la gente de la ciudad.<03e0>Desde que perdimos la Lágrima Azul,<03e0>todos andamos de capa caída.<04e0>¿Qué va a ser de Melphina?<04e0>Vaya, lo siento... Tal vez este tema sea<03e0>demasiado serio para ti.
+Message 4 (Seizing Remnant)
+¡Vaya, abuela! ¿Cómo tú por aquí?
+¿«Abuela»? ¿CÓMO TE ATREVES?<03e0>¿Y quién demonios eres, si se puede saber?
+Uy... Perdona. Te he confundido con otra persona.
+¿Será posible? ¡La próxima vez, comprueba<03e0>que estás hablando con la persona correcta<03e0>antes de abrir esa bocaza!
+Lo... ¡Lo siento!
+En fin... Lo dejaré estar por esta vez.<03e0>Pero que no vuelva a repetirse, ¿me oyes?
+Llamar «abuela» a una dama como yo es una falta<03e0>de consideración. ¡Además, no soy tan mayor, caray!
+Vaya... Otra vez tú.
+Esto...
+No pareces contento de verme.
+Ejem... Yo... No, no, no es eso.<03e0>En fin, esto... Joven damisela, ¿qué te trae por aquí?
+Me entreno. En mi familia tenemos la costumbre<03e0>de viajar y recorrer el mundo para conmemorar<03e0>nuestro paso a la edad adulta.
+Caray, no debe de ser fácil...<03e0>Pues... Estooo... Cuídate, ¿de acuerdo?
+Gracias.
+Parece que al menos tus modales han mejorado<03e0>desde la última vez que nos encontramos.
+Tienes buen aspecto.
+Hola, señorita... ejem... joven damisela...
+Anda, haz el favor de no llamarme así.<03e0>Suena ridículo.
+Bueno... Pero es que no sé cómo te llamas.
+¿Lo dices en serio?
+* Tenso silencio *
+Me llamo Emmy.
+Me alegro de conocerte al fin. Yo soy...
+No hace falta que me lo digas.<03e0>Te llamas Rush Sykes, ¿verdad?
+Co... ¿Cómo lo sabes?
+Tengo mis recursos.
+En fin, Rush... Cuídate, ¿de acuerdo?
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Hola, Rush.<04e0>¿Qué mosca le ha picado a ese tal Leucetius?<04e0>Me retó en combate diciendo que quería el puesto<03e0>de líder del grupo.<04e0>Le di un buen escarmiento. Je, je...<03e0>Así aprenderá.
+Hola, Rush. Acabo de toparme con un sovani<03e0>de lo más desagradable.<04e0>Insistía en ser el líder de nuestro grupo, y eso que<03e0>le dijimos mil veces que no dependía de nosotros.<04e0>No tuve más remedio que emplear otros métodos<03e0>más «expeditivos» para hacerle entender...
+¿Qué pasa, Rush?<04e0>Sí, he visto a Leucetius.<03e0>Parecía afligido por algo.<04e0>Le estuve animando un rato y luego se fue.<03e0>No te preocupes por él.<03e0>Ya me he ocupado de todo.
+Saludos.<04e0>¿Qué pasa? ¿Tan raro es encontrar a un yama<03e0>interesado en aprender artes místicas?
+Ahora mismo soy un hechicero principiante,<03e0>pero antes trabajaba como guardia de seguridad<03e0>y tenía bastantes clientes.<04e0>Solían llamarme para trabajar en la Academia,<03e0>y a veces incluso para las reuniones del Consejo...<04e0>Trabajé mucho tiempo como guardia de seguridad<03e0>en la Academia. ¡Nadie pagaba tan bien como ellos!
+Ahora mismo soy un hechicero principiante,<03e0>pero antes trabajaba como guardia de seguridad<03e0>y tenía bastantes clientes.
+Una vez hice un trabajillo para la Academia.<03e0>Consistía en vigilar la puerta de un laboratorio<03e0>en el que estaban haciendo unos experimentos.<04e0>La verdad es que debería haberme dado cuenta<03e0>de que estaban haciendo algo ilegal y muy peligroso...<04e0>Un día, la reliquia con la que estaban experimentando<03e0>comenzó a relucir... y, a continuación, se produjo<03e0>una tremenda explosión.<04e0>Estuve varios días sin llegar a recobrar del todo<03e0>el conocimiento. Por suerte, poco después<03e0>conseguí recuperarme.<04e0>Pero mis brazos... Tras aquel incidente,<03e0>quedaron prácticamente paralizados.<04e0>Ya no podía seguir trabajando como guardia de seguridad,<03e0>así que todo el mundo se olvidó de mí.
+Aquella explosión me dejó los brazos<03e0>casi paralizados... Así no podía seguir trabajando.
+Ya no podía hacer lo único que sabía hacer.<03e0>Mi vida ya no tenía sentido...<03e0>Ya no sabía qué me depararía el futuro.<04e0>Por las tardes, contemplaba la puesta de sol<03e0>desde Fornstrand y pensaba que lo más sencillo<03e0>sería saltar al océano y desaparecer.<04e0>Entonces, una joven mitra que se hacía llamar<03e0>«Ninfa Cósmica» se sentó a mi lado y escuchó<03e0>tranquilamente mi historia.<04e0>Acto seguido, se giró hacia mí y me dijo:<03e0>«¿Y por qué no pruebas a aprender artes místicas?»<04e0>Te puedes imaginar la cara que se me quedó...<03e0>Al fin y al cabo, siempre me había ganado la vida<03e0>a fuerza de golpes. ¿Cómo iba a aprender hechizos?<04e0>Pero antes de que pudiese responder, la miré a la cara,<03e0>vi su sonrisa... y me sentí lleno de fuerza y esperanza.<03e0>¡Pues claro que podía conseguirlo!<04e0>No sé, quizás sólo necesitaba aferrarme a algo<03e0>para quitarme aquella sensación de desesperación.
+Había perdido completamente la esperanza<03e0>cuando una chica que decía ser la «Ninfa Cósmica»<03e0>me convenció para que probase las artes místicas.
+No me resultó fácil dominar las artes místicas...<03e0>Todos los que me conocían se burlaban de mí<03e0>y decían que no tenía ninguna posibilidad.<04e0>Pero no me rendí. ¿Cómo iba a hacerlo?<03e0>Al fin y al cabo, era mi última esperanza.<04e0>Tras mucho estudiar, un día le cogí el tranquillo.<03e0>Nunca olvidaré lo que sentí cuando conseguí<03e0>lanzar un hechizo por primera vez...<04e0>Por eso he decidido convertirme en un maestro<03e0>de las artes místicas. Tal vez parezca imposible,<03e0>pero estoy dispuesto a intentarlo.<04e0>Algún día conseguiré hacer realidad mi sueño,<03e0>y entonces buscaré a la chica que me devolvió<03e0>la esperanza para agradecerle lo que hizo.<04e0>Seguro que anda por aquí en estos momentos,<03e0>ayudando a otras personas en apuros.<03e0>¡Ardo en deseos de volver a verla!
+Oye, Rush...<04e0>Si no te importa, me gustaría acompañarte<03e0>en tus aventuras. Así me resultará más fácil aprender<03e0>lo que necesito saber para convertirme en un maestro.
+¿Sí?<03e0>¿Qué ocurre?
+¿Qué ocurre?
+¿Has visto a lord David?<04e0>No debería andar solo por ahí.<03e0>Si le ves, dile que lo estoy buscando, por favor.
+¿Dónde habrá ido?
+* Silencio *
+Parece que las cosas han vuelto<03e0>a la normalidad en esta ciudad.<04e0>Aun así, lord David no debería andar por ahí solo.<03e0>Dile que lo estoy buscando.
+¿Has visto a lord David?
+Si nos lo hubieran entregado a nosotros,<03e0>lo habríamos usado como se merece.<04e0>Aunque no sé lo que pensaría lord David<03e0>de todo este asunto.
+Olvida lo que acabo de decir.
+La reliquia del Arca...<03e0>He visto algo similar, pero no recuerdo<03e0>qué era exactamente ni dónde lo vi...
+No logro acordarme...
+Lord David ha tomado su decisión.<04e0>Me mantendré a su lado hasta la muerte.
+Esa reliquia es un regalo para los sentidos.<03e0>Su belleza es arrebatadora.<04e0>Imagínate cómo sería flotar en su interior...<03e0>¡Sería de lo más divertido!
+Qué belleza...
+* Suspiro *
+Esos rumores sobre reliquias desaparecidas<03e0>me han tenido preocupado, pero parece<03e0>que todo ha vuelto a la normalidad.
+Efectivamente.
+Igual que Athlum...<04e0>¿Volveremos algún día a disfrutar de su esplendor?
+No me lo puedo creer.
+Existe en algún lugar del mundo.
+Debemos encontrarla.
+Debemos seguir hasta el final.
+¡Oye, Rush! ¡Echa un vistazo a estas armas!<03e0>¡Qué maravilla!
+Umm...
+Lady Emma...
+¡Hey, Rush!<03e0>Todo va bien.<04e0>¡No te sulfures, hombre!
+¡No te sulfures, hombre!
+El ánimo de todos está por los suelos<03e0>ahora que las reliquias han desaparecido.<03e0>Hasta nuestras armas han perdido su brillo...
+Hasta nuestras armas han perdido su brillo.
+No tengo ni idea de lo que está pasando.<04e0>Todo lo que sé es que iré allá donde<03e0>tú decidas ir.
+¡Estoy listo!
+¡Adelante, Rush!<04e0>¡Yo me encargo del que se cruce en nuestro camino!
+¿Que qué estoy haciendo?<04e0>Pues dando un paseo.<03e0>Cualquiera diría que no puedo vagar por las calles<03e0>de Athlum o Celapalais sin escolta...<04e0>No le digas a Torgal que me has visto, por favor.
+No le digas a Torgal que me has visto.
+Aquí, las reliquias están sanas y salvas.
+...
+Aquí también...<04e0>Así que no es sólo Athlum...
+...
+¿Parezco preocupado?<03e0>Hago lo posible para que no se me note...
+¿Lo conseguiremos?
+¡Llegó el momento, Rush!<04e0>¡Acabemos con esto juntos!
+Todo parece normal por aquí...<04e0>Pero sólo son apariencias: algo se esconde<03e0>bajo la superficie. Debemos tener cuidado.
+Debemos tener cuidado.
+Las reliquias están desapareciendo...<03e0>¿Y cómo encaja esto en el rompecabezas?<04e0>Hay algo que se nos escapa...
+Hay algo que se nos escapa...
+No te quedes ahí parado, Rush.<03e0>Ayúdanos a encontrar una forma de llegar<03e0>a las Tierras Sagradas.
+Tiene que haber un modo.
+Protegeré a lord David igual que hizo mi madre...<03e0>Y también a ti y a la señorita Irina.
+

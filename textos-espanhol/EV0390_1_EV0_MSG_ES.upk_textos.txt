@@ -1,0 +1,38 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0390_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ah, estás aquí.
+¿Qué ocurre?
+Rush, el Consejo va a reunirse<0fe003e00ee0>en Elysion dentro de unos días.
+¿El Consejo? ¿Y eso qué es?
+A grandes rasgos, es un organismo<0fe003e00ee0>que procura que todo el mundo juegue limpio.<1ae0000002430fe005e001000ee0>Cada cierto tiempo, los Lores se reúnen allí<0fe003e00ee0>para discutir sobre asuntos urgentes.
+Así que nosotros también iremos a Elysion.
+Entonces...<0fe003e00ee0>¿Me has hecho venir sólo para despedirte?
+Oh, no. De hecho, si vienes con nosotros<0fe003e00ee0>te saldrá gratis el viaje hasta Elysion.
+No es nada fácil entrar en Elysion<0fe003e00ee0>cuando se reúne el Consejo...
+Y más con el aumento de la vigilancia<0fe003e00ee0>que conlleva la presencia de tantos líderes.
+¡Si logro entrar en Elysion,<0fe003e00ee0>podría ir a la Academia!<1ae00000dc420fe005e001000ee0>¡Hey, Dave, eso estaría genial!
+Aún no sabemos siquiera si invitarán<0fe003e00ee0>a lord David a la reunión de la asamblea.
+¿Qué quieres decir?
+Normalmente, sólo se convoca al Consejo<0fe003e00ee0>a los líderes más poderosos.<1ae0000007430fe005e001000ee0>Es poco probable que un heredero<0fe003e00ee0>tan joven como yo pueda participar.
+¿Es que has hecho enfadar a alguien?
+Todavía no... Pero he estado investigando<0fe003e00ee0>a cierta persona que podría andar detrás<1ae000002a430fe005e001000ee0>de las intrigas de la Academia.
+¿De quién se trata?
+Del líder de la Academia<0fe003e00ee0>y Presidente del Consejo...
+El duque Wilfred Hermeien, señor de Nagapur.
+Wilfred Hermeien, ¿eh?<0fe003e00ee0>¿Crees que fue él quien secuestró a Irina?
+Eso es lo que querría averiguar.
+¡Lord David!
+La familia de los Hermeien ha presidido<0fe003e00ee0>el Consejo durante varias generaciones.<1ae00000dc420fe005e001000ee0>Si le provocamos, no dudará en poner<0fe003e00ee0>a todos los Lores en vuestra contra.
+El difunto Marqués hizo grandes esfuerzos<0fe003e00ee0>para evitar enemistarse con el Presidente.<1ae0000025430fe005e001000ee0>Pensad en lo que le conviene a Athlum...
+De modo que sigo sin estar<0fe003e00ee0>a la altura de mi padre, ¿eh?
+Basta de cháchara.<0fe003e00ee0>Ya seguiremos hablando en Elysion.<1ae00000e8420fe005e001000ee0>Comenzad a prepararos para partir.
+Sí, milord.
+Sí, milord.
+Sí, milord.
+Sí, milord.
+Esto, Dave...
+¿Qué ocurre?
+Eh... Nada, déjalo.<0fe003e00ee0>¡Nos vemos luego!
+Umm.
+

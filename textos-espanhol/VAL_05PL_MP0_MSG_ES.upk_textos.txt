@@ -1,0 +1,264 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) VAL_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenidos al Café Polvo Lunar.
+Hey, muchacho, ¿has oído eso?<03e0>Parece que hay una ciudad más allá del desierto.<04e0>En el extremo sur del mundo, al pie del monte Alton,<03e0>se encuentra una ciudad de mineros muy recios...<03e0>y tercos, todo hay que decirlo.
+¿Qué pasa, chico?<03e0>¿Quieres saber qué se oculta en el desierto del oeste?<04e0>Los viejos aventureros decían que al oeste del oeste<03e0>se alza una ciudad olvidada, pero no sé si es verdad...<03e0>Nadie ha vuelto con vida para confirmarlo.<04e0>Pero tú no te preocupes por esas cosas, rapaz.<03e0>Créeme, es mejor que no te acerques por allí...<03e0>¡Si fueras mi hijo, te lo prohibiría terminantemente!
+Siempre que veo a Zolean por aquí, está bebiendo solo.<03e0>Es un poco raro, porque durante años venía siempre<03e0>acompañado de un amigo. ¿Qué habrá sido de él?
+¿Qué pasa, chico? ¿Piensas cruzar el desierto?<04e0>El Océano de Arena está repleto de monstruos<03e0>que no existen en ningún otro lugar del mundo...<03e0>afortunadamente.<04e0>Si de verdad estás empeñado en atravesarlo,<03e0>asegúrate de ir bien preparado.
+¿Que qué es ese bicho que espera ahí afuerita?<03e0>¡Pos es mi compadrito!<04e0>Nosotros los mercaderes nos ganamos la vida<03e0>trayendo y llevando artículos de aquí p'allá<03e0>a través del desierto.<04e0>Es un trabajo rete-duro, pero con mi compadrito<03e0>a mi lado se me hace mucho más llevadero.<04e0>Eh, quieto ahí, amigo... ¡Momentito, por favor!<03e0>¡No me importa lo que me ofrezcas, no pienso<03e0>desprenderme de mi fiel corcel!
+Hey, colega, ¿te has enterado?<04e0>La patrona del lugar lleva harto tiempo enferma<03e0>y ninguna de las medicinas que le han traído<03e0>ha servido para nada.<04e0>Y el caso es que, al venir p'acá, estuve en otro país<03e0>en el que contaban un rollo parecido.<04e0>Es como si esta plaga sólo atacara a los nobles.<03e0>No lo entiendo, la verdad.
+* Silencio *<04e0>* Tenso silencio *<04e0>¿Es que no sabes cuándo dejar en paz a alguien?<03e0>Ya sé que no sirve de nada seguir evitando el tema...<04e0>Desde que desapareció el Tao Tie, Balterossa<03e0>se ha vuelto una ciudad fantasma. Ya no viene<03e0>ni un mercader... ¡Mi negocio se ha ido al carajo!<04e0>Hasta tuve que vender a mi compadrito<03e0>para poder pagar las facturas...<04e0>Snif, snif... Ojalá pudiera verlo...<03e0>¡Como no lo estén tratando bien se las voy a partir!
+Muchas chicas son seguidoras de lady Charlotte.<03e0>Cada vez que la ven lucir un vestido nuevo,<03e0>las tiendas se vacían de ese modelito.<04e0>En pocas palabras, es la estrella de la ciudad...<04e0>Y a mí me da muuucha envidia...<03e0>¡Ya me gustaría a mí que todo el mundo<03e0>intentara copiarme!
+¿Te has enterado de lo último sobre<03e0>lady Charlotte?<04e0>¡Parece que ha roto con su novio!<03e0>En toda la ciudad no se habla de otra cosa.<04e0>Y cuando sepas quién era, vas a alucinar...<03e0>¡Era Paris, el hijo del marqués de Royotia!<04e0>Ya le vale... ¡Con lo bueno que está!<03e0>Y además tiene pinta de ser un chico<03e0>de lo más tierno y apasionado...<04e0>Ay... Si fuera mi novio, ¡no lo dejaría marchar<03e0>por nada del mundo!
+¿Te has enterado de lo último sobre<03e0>lady Charlotte?<04e0>Parece que ha vuelto con su novio Paris.<03e0>Supongo que se lo habrá pensado mejor...<03e0>¿Cómo iba a dejar escapar a ese machote?<04e0>Y alucina... Parece que el amor que les une<03e0>era tan fuerte que han impedido que fuéramos<03e0>a la guerra con Royotia.<04e0>Ay... Ojalá consiguiera camelar a un chico<03e0>tan macizo y sensible como él...
+Hace un millar de años existía un próspero país<03e0>en mitad del desierto que disponía de un ejército<03e0>sumamente poderoso para asegurar su protección.<04e0>Pero su poder llegó a tal extremo que el Emperador<03e0>se sintió amenazado por ellos y envió sus huestes<03e0>contra el reino.<04e0>Cuando se retiraron, todo estaba destruido.<04e0>Sin embargo, dicen que los espíritus de los guerreros<03e0>caídos en defensa del reino aún vagan por el desierto<03e0>esperando una oportunidad para vengarse...<04e0>Mi tatarabuelo me contó esto cuando era un crío...<03e0>¡Y no sabes el miedo que me dio! Pasé varios años<03e0>sin salir de casa por la noche...<04e0>De hecho, todavía me asusta ir al baño solo...<03e0>Qué miedo...
+Estoy muy preocupado por lady Bertrude.<03e0>Está muy enferma y cada día se pone peor.<04e0>Ha pasado de ser la cabeza visible y orgullosa<03e0>de este país a yacer enferma en una cama...<03e0>¿Cómo ha podido ocurrir algo así?<04e0>No será que... ¿Y si esto fuera la maldición<03e0>de los antiguos guerreros del desierto?<04e0>Como resulte que la leyenda iba en serio...<03e0>¡Bufff, prefiero no pensar en ello!
+Hace medio año, una legión de monstruos<03e0>atacó la ciudad. Nunca en mi vida había visto<03e0>a tanta bestia junta...<04e0>Un soldado de los Halcones Argénteos me dijo<03e0>que llegaron de las profundidades del desierto,<03e0>que una bestia los convocó mediante una maldición.<04e0>Parece que acudieron a la llamada por centenares<03e0>y la batalla alcanzó una crueldad inimaginable.<04e0>Estoy seguro de que esto es obra de los espíritus<03e0>indignados del antiguo reino del desierto...<04e0>Deben de estar despertándose para buscar venganza<03e0>y enviar a sus hordas de monstruos contra las tierras<03e0>del Emperador celestial...<04e0>¡Por mi santa madre! Y pensar que la leyenda<03e0>del Reino de Glenys era cierta...
+Los Halcones Argénteos mantenemos el orden<03e0>en todo el continente, sin importar las fronteras.<03e0>Al fin y al cabo, todos vivimos en el mismo mundo.<04e0>Estamos en medio de una reunión estratégica<03e0>muy importante. ¡No interrumpas, por favor!
+Vaya, eres tú otra vez.<03e0>El comandante nos ha hablado de ti.<04e0>A primera vista no pareces gran cosa, pero dicen<03e0>que eres bastante bueno con la espada.<04e0>En la próxima batalla contra los monstruos,<03e0>únete a nosotros. Últimamente toda ayuda es poca...
+¡Hola, Rush!<03e0>Perdona por haber sido tan borde antes.<04e0>Has dejado tan impresionado al comandante<03e0>que ha decidido acompañarte en tu viaje.<04e0>Todos nosotros hemos jurado respetar y defender<03e0>a nuestra organización frente a cualquier peligro.<04e0>Dile al comandante Caedmon que no tiene<03e0>que preocuparse por nosotros. Los Halcones<03e0>seguiremos aquí cuando vuelva.
+Hace un rato vinieron por aquí dos gemelas,<03e0>y la del pelo blanco se dejó una llave.<03e0>No sé qué hacer con ella. Si la quieres, quédatela.
+Hombre, ¿cómo tú por aquí?<03e0>Le estoy cogiendo el gusto a este lugar...<03e0>Es mi refugio contra el calor y el bullicio de ahí afuera.
+Vaya, eres tú...<04e0>Tengo la impresión de que se me ha vuelto a olvidar<03e0>algo importante... O a lo mejor son imaginaciones mías.
+Tengo la impresión de que se me ha olvidado algo<03e0>muy importante... Pero quizás sean imaginaciones mías.
+Últimamente no deja de venirme a la mente<03e0>la imagen de una extraña mujer...<04e0>Se trata de una chica con una sonrisa traviesa<03e0>y manos esbeltas y delicadas. Se acerca a mí,<03e0>me acaricia la mejilla y, a continuación...<04e0>Ejem... Tal vez el calor del desierto se me esté<03e0>subiendo a la cabeza.<04e0>Al fin y al cabo, los hombres que dedicamos<03e0>nuestras vidas a la guerra no tenemos tiempo<03e0>para hazañas románticas, ¿no te parece?
+Últimamente me asaltan recuerdos de una mujer<03e0>a la que no conozco. Es curioso... Un guerrero<03e0>como yo no tiene tiempo para romances.
+Oh, Rush... Estoy empezando a acordarme de cosas,<03e0>aunque mis recuerdos todavía están muy borrosos.<03e0>Aquella mujer y yo... salíamos juntos.<04e0>Era una dama excepcional... Brillante, resuelta<03e0>y tan apasionada como el sol del desierto.<04e0>Estábamos sentados a la orilla del agua.<03e0>Recuerdo cómo se reflejaba su sonrisa<03e0>sobre la superficie del río.<04e0>Un río... ¿Y si fuera un canal?<03e0>¿Dónde ocurriría todo esto? Maldita sea...<03e0>¡No consigo acordarme de lo más importante!
+¿Quién sería esa mujer? Maldita sea...<03e0>¡No logro acordarme! Creo que estábamos<03e0>sentados a la orilla de un canal, pero...
+Hola, Rush.<03e0>He tomado una decisión...<04e0>Debo encontrar a esa mujer. Aún no sé quién es,<03e0>pero algo me dice que debo dar con ella.<04e0>Yo me consideraba una persona que solamente<03e0>se sentía a gusto en el campo de batalla, pero parece<03e0>que existe algo -o alguien- aún más importante para mí.<04e0>Todavía no sé dónde comenzar mi búsqueda,<03e0>pero estoy seguro de que mis recuerdos<03e0>volverán con el tiempo.<04e0>Rush, me gustaría seguir acompañándote durante<03e0>una temporada. Creo que viajar contigo me ayudará<03e0>a recuperar la memoria.
+Hola, Rush.<03e0>¡Creo que estoy a punto de recordar algo más!
+Me alegro de verte, chico.<03e0>Estaba aquí tomando algo con un viejo amigo.
+Vaya, si es nuestro intrépido líder...<03e0>¿Ha ocurrido algo tan terrible que necesitas la ayuda<03e0>de este pobre anciano?<04e0>Un luchador experimentado como yo puede resultar<03e0>muy útil a la hora de entablar batalla. De vez en cuando,<03e0>los jóvenes guerreros como tú vienen a pedirme consejo.<04e0>El caso es que hace un momento estaba tomando algo<03e0>con un amigo. Hace años que venimos a esta taberna<03e0>a tomar una copa después de cada batalla.<04e0>La próxima vez puedes venir con nosotros si quieres...<03e0>Aunque eres un poco joven, ¿no? Entonces olvídalo...<03e0>¡No quiero meterme en líos con el Marqués! ¡Juas, juas!
+Mi amigo y yo venimos a esta taberna desde hace<03e0>mucho, mucho tiempo. Después de cada batalla,<03e0>venimos aquí a tomar algo para relajarnos.
+¿Quieres que te hable de mi amigo?<03e0>Bueno, nos conocimos en un campo de batalla,<03e0>hará... unos treinta o cuarenta años.<04e0>Era nuestra primera batalla de verdad y a los dos<03e0>nos temblaban las escamas por los nervios, pero<03e0>ambos salimos del trance con la ayuda del otro.<04e0>Desde entonces, siempre hemos sido compañeros<03e0>de armas... Y, a veces, rivales.<04e0>Pero ya no somos ningunos jovencitos...<03e0>Últimamente pasamos más tiempo bebiendo<03e0>que otra cosa... ¡Juas, juas, juas!
+Mi amigo es un viejo conocido de la guerra...<03e0>Pero últimamente pasamos más tiempo bebiendo<03e0>que otra cosa... ¡Juas, juas, juas!
+Heeey... ¡Cuánto me alegro de verte!<03e0>Fíjate... ¡Justo echtábamoch hablando de ti!<03e0>Mira, Zane, échte es Ruch...<04e0>¿Hein?<03e0>¿Pero dónde cuernoch che ha ido? No puede cher<03e0>que che haya largao otra vech sin avichar...<03e0>¡Y el muy bellaco che ha dejado la cuenta chin pagar!<04e0>Te juro que echtaba aquí hache un minuto...<03e0>Cherá pochible... * ¡HIP! *<03e0>¡Chiempre desapareche cuando lo nechechito!<03e0>Igual que aquella vez en Chiebenpur...<04e0>En fin... ¿Chabech una cocha?<03e0>Creo que tal vech haya bebido demachiado... * ¡HIP! *
+Pareche mentira que Zane che haya marchado achí,<03e0>chin mách, igual que en Chiebenpur. Chi ech que...<03e0>* ¡HIP! *
+¿Vaya? ¿Qué es eso? Pero si eso es...<03e0>¡Eso es de Zane! ¿Dónde lo has encontrado?<03e0>* Silencio emocionado *<04e0>Verás... Hace tres años se organizó una expedición<03e0>para expulsar a los hombres bestia de Siebenpur.<03e0>Zane estaba al mando de uno de los escuadrones.<04e0>Zane sabía que la única manera de vencer al ejército<03e0>de los hombres bestia era acabar con su líder,<03e0>así que fue a dar con él... Y nunca volvió.<04e0>Al final logramos derrotar a los hombres bestia,<03e0>pero no conseguimos dar con Zane.<04e0>Yo no me lo podía creer... No era capaz de aceptar<03e0>que hubiera muerto sin verlo con mis propios ojos.<04e0>Pensé que, si venía a la taberna donde solíamos quedar,<03e0>acabaría apareciendo tarde o temprano...<03e0>Y llevo esperando aquí desde entonces.<04e0>Supongo que no era capaz de aceptar la verdad,<03e0>pero si has encontrado su anillo, no puedo seguir<03e0>huyendo de la realidad por más tiempo.<04e0>Supongo que será mejor que me haga a la idea...<03e0>Me temo que, pese a mi avanzada edad, todavía<03e0>tengo que mejorar mi disciplina...<04e0>Gracias por todo, Rush.<03e0>Si necesitas la ayuda de este anciano, avísame.<03e0>Procuraré ayudarte en lo que pueda.
+Hola, muchacho.<03e0>Si necesitas la ayuda de este anciano, avísame.<03e0>Procuraré ayudarte en lo que pueda.
+¡Bienvenido! Te lo ruego, siéntete como en casa.
+¿Ves a mi hija? ¿A que es preciosa?<03e0>Pues como le toques un pelo, ya puedes ir buscando<03e0>trabajo como eunuco. Dicho lo cual... ¿Qué te pongo?
+¿Has oído hablar del barón Nielsen de Celapalais?<03e0>Parece que su esposa ha vuelto a huir del palacio.<03e0>Aunque, sabiendo cómo se llevan, a nadie le sorprende.
+¿Tú qué opinas, papá?
+¿En qué demonios está pensando el Barón?<03e0>¡El primer deber de un hombre es cuidar de su familia!<03e0>¿Verdad que sí, hija mía?
+Esto... Claro.
+Parece mentira, pero he oído que no sé qué loca<03e0>pretende asesinar al duque de Qubine...
+¿Tú qué opinas, papá?
+¿Asesinar? Santo cielo, ¡qué peligroso está el mundo!<03e0>Hija de mi alma, creo que voy a tener que prohibirte<03e0>que salgas de casa después del anochecer...
+Oh... Lo comprendo.
+Parece que la princesa del desierto se escapa<03e0>cada dos por tres del castillo para reunirse<03e0>con su amado.
+¿Tú qué opinas, papá?
+Lo siento por su madre... A ningún padre le gusta<03e0>perder de vista a su hija querida. Cariño, será mejor<03e0>que no salgas de casa por una temporada...
+Oh... Lo comprendo.
+¡La princesa del desierto se ha fugado con su amado!
+¿Tú qué opinas, papá?
+¿QUÉ? ¡Lo siento por los padres de esa joven!<03e0>¡Ojalá encuentren a ese cerdo y lo ahorquen<03e0>por abusar de la inocencia de esa pobre criatura!
+¡Cálmate, papá!
+Parece que las relaciones entre Balterossa y Royotia<03e0>andan de capa caída. Están movilizando a sus ejércitos<03e0>y los familiares de los soldados están preocupados...
+¿Tú qué opinas, papá?
+Todo esto es culpa de ese canalla libidinoso<03e0>que secuestró a la princesa... ¡Ojalá lo castiguen<03e0>por sus crímenes! ¿Verdad que sí, hija mía?
+Esto... Sí, ojalá.
+Parece que el primer Emperador celestial ocultó algo<03e0>tras una barrera en las grandes marismas... y ahora<03e0>la barrera se ha roto. ¿Será una entrada a otro mundo?
+¿Tú qué opinas, papá?
+¿Y si ya no fuera posible regresar una vez<03e0>que se cruza esa entrada? ¡Hija mía, te prohíbo<03e0>que vayas por las marismas hasta nueva orden!
+Esto... Bueno.
+Una de las doncellas del bosque tiene un vínculo<03e0>tan fuerte con su caballero que es capaz de sentir<03e0>todo lo que él siente.
+¿Tú qué opinas, papá?
+Tal vez debería buscarle a mi hija un caballero<03e0>que jurase protegerla... Pero no, espera, ése es<03e0>MI deber. ¡No temas, hija, te protegeré con mi vida!
+Esto... Gracias.
+Las doncellas del bosque y la Orden de Melphina<03e0>están montando una expedición. Parece que le pasa<03e0>algo raro a la reliquia de Marismarchita, la Hoja Caída.
+¿Tú qué opinas, papá?
+Umm... Parece que las marismas se están poniendo<03e0>muy peligrosas. Será mejor que no vayas por allí...<03e0>Hija mía, no salgas de la ciudad en una temporada.
+Esto... Bueno.
+La Gala Cósmica está a punto de empezar, pero<03e0>la Ninfa Cósmica aún no ha llegado a Nagapur...<03e0>Tal vez le haya ocurrido algo...
+¿Tú qué opinas, papá?
+Conque la Gala Cósmica, ¿eh?<03e0>Si te portas bien, hija mía, tu papaíto te llevará a verla.
+¡Ay, qué alegría!
+Al final la Ninfa Cósmica llegó a tiempo y el festival<03e0>empezó según lo previsto, pero hubo que interrumpirlo<03e0>por culpa de los monstruos.
+¿Tú qué opinas, papá?
+¿QUÉ? ¿MONSTRUOS EN EL FESTIVAL?<03e0>Nada, nada... ¡Demasiado peligroso! Lo siento,<03e0>pero no puedo permitir que corras ese riesgo.
+Jo...
+Una dama chapada a la antigua necesita a alguien<03e0>que le haga de guardaespaldas. Parece que recibe<03e0>a los aspirantes en la taberna de Nagapur.
+¿Tú qué opinas, papá?
+Deberías tratar de parecerte a esa señora, hija mía.<03e0>Lo mejor es tener un aspecto respetable y formal,<03e0>como la gente de bien.
+Esto... Bueno.
+¿Te gustan las antigüedades?<03e0>Parece que los tesoros de los reinos antiguos<03e0>se han puesto a la venta en el mercado negro...
+¿Tú qué opinas, papá?
+¿El mercado negro? Hija mía, no deberías preocuparte<03e0>por ese tipo de cosas... Olvídate del tema, ¿me oyes?
+Esto... Bueno.
+Hay un tipo que anda buscando tres piedras<03e0>a lo largo y ancho del desierto. Dice que tienen<03e0>cierto valor histórico, o algo así.
+¿Tú qué opinas, papá?
+Los páramos del desierto esconden muchos secretos.<03e0>¡Hija mía, deberías estudiar la apasionante historia<03e0>de las tierras que se extienden ante tus ojos!
+Esto... Pues no sé cómo.
+Un tipo aficionado a la arcamagia anda buscando<03e0>a alguien que le ayude en sus experimentos...<03e0>Dice que está a las puertas de un gran descubrimiento.
+¿Tú qué opinas, papá?
+Arcamagia, descubrimientos... Una oferta tentadora.<03e0>Acudiría en su ayuda, pero me partiría el corazón<03e0>dejar sola a mi hija del alma.
+Parece que se ha escapado no sé qué monstruo<03e0>al que encerró uno de los Emperadores celestiales...<03e0>¡La gente dice que el mundo entero está en peligro!
+¿Tú qué opinas, papá?
+¿Así que el mundo entero está en peligro?<03e0>No temas, hija mía... ¡Tu papaíto te protegerá<03e0>aunque le cueste la vida!
+Papaíto...
+Hay un tipo amnésico que se dedica a vagar<03e0>por las ciudades del desierto buscando algo<03e0>que le ayude a recuperar la memoria...
+¿Tú qué opinas, papá?
+Debe de ser horrible perder la memoria.<03e0>Si mi querida hija me olvidase, no sé<03e0>qué sería de mí. ¡Mi vida no tendría sentido!
+¡Cálmate, papá!
+Parece que han visto a un famoso bandido<03e0>por los alrededores de Athlum. Dicen que está<03e0>esperando a alguien, pero nadie osa preguntárselo.
+¿Tú qué opinas, papá?
+¿Cómo? ¿Un bandido? ¿Y, lo que es peor, un HOMBRE?<03e0>¡No se hable más! Hija mía, te prohíbo terminantemente<03e0>que te acerques por Athlum. ¿Me oyes?
+Esto... Bueno.
+Dicen que en las ruinas de Robelia hay una estatua<03e0>capaz de reunirte con quien quieras, esté donde esté.<03e0>Un chico que perdió a su hermana anda buscándola...
+¿Tú qué opinas, papá?
+¡Qué invento más maravilloso! Hija mía, si alguna vez<03e0>nos separan, prométeme que buscarás esa estatua<03e0>para que nos volvamos a encontrar.
+Esto... Bueno.
+¡Dicen que un asesino anda suelto en la capital!
+¿Tú qué opinas, papá?
+¿Un asesino? ¿En la capital? ¿Qué capital?<03e0>A ver si va a ser aquí... Pues no se hable más,<03e0>¡te prohíbo terminantemente que salgas de casa!
+Pero... Jo...
+Parece que un yama enorme ha perdido<03e0>no sé qué cosas, pero nadie se atreve<03e0>a ayudarle porque está un poco... tocado.
+¿Tú qué opinas, papá?
+¿Que se le ha perdido algo? Es una lástima...<03e0>Pero hija mía, si alguna vez se te pierde algo,<03e0>tú pídele ayuda a tu papaíto, ¿me oyes?
+Esto... Bueno.
+Parece que un qsiti albino anda buscando cierto libro<03e0>sobre arcamagia. Mucha gente dice que le recuerda<03e0>a alguien, pero nadie sabe exactamente a quién...
+¿Tú qué opinas, papá?
+Conque libros de arcamagia... De joven, yo también<03e0>me interesé por los misterios de las fuerzas ocultas.<03e0>Hija mía, si te interesa el tema, no dudes en estudiarlo.
+Esto... Bueno.
+Dos chicas gemelas han empezado a trabajar<03e0>como mercenarias... ¡y no lo hacen nada mal!<03e0>Eso sí, una de ellas tiene un mal genio espantoso.
+¿Tú qué opinas, papá?
+Umm... No querría ser sexista, pero los mercenarios<03e0>siempre están arriesgando la vida. Hija mía, te prohíbo<03e0>que te hagas mercenaria, ¿me oyes?
+Esto... Bueno.
+En el Océano de Arena hay un tipo que desafía<03e0>a la gente a participar en no sé qué juego, pero<03e0>sólo quiere competir contra gente muy especial.
+¿Tú qué opinas, papá?
+¿Un hombre que busca a gente «muy especial»<03e0>para participar en un «juego»? No me digas más...<03e0>Te prohíbo que te acerques al desierto, ¿entendido?
+Esto... Bueno.
+Un viejo guerrero anda pateándose el Océano de Arena<03e0>de arriba a abajo en busca de una espada muy especial.
+¿Tú qué opinas, papá?
+Un anciano en busca de una espada... Debe de ser<03e0>muy importante para él, ¿no crees, hija mía?
+Esto... Sí.
+Los guardias del duque de Ghor han jurado<03e0>ser fieles a su Señor hasta el final de sus días.
+¿Tú qué opinas, papá?
+Umm... Con unos guardianes tan devotos, el Señor<03e0>de esa ciudad sí que debe de ser un gran hombre.<03e0>Hija mía, puedes ir a esa ciudad siempre que quieras.
+¡Ay, qué alegría!
+No hay ninguna familia en el mundo tan entregada<03e0>como los Honeywell. Si los tienes de tu parte,<03e0>puedes conseguir cualquier cosa.
+¿Tú qué opinas, papá?
+La matriarca de los Honeywell es una gran guerrera...<03e0>¡Pero esa vida es demasiado peligrosa para mi hijita!<03e0>¡Te prohíbo que sigas su ejemplo!
+Esto... Bueno.
+Parece que el general Torgal de Athlum<03e0>tiene un pasado un tanto oscuro... En Royotia<03e0>se está armando cierto revuelo al respecto.
+¿Tú qué opinas, papá?
+Conque tiene un pasado un tanto oscuro, ¿eh?<03e0>Hija mía, te prohíbo que te acerques a hombres<03e0>que tengan un pasado oscuro. ¿Me oyes?
+Esto... Bueno.
+Dentro de nada empezará un torneo legendario.<03e0>Todos los aficionados al combate están invitados<03e0>a participar...
+¿Tú qué opinas, papá?
+Legendario o no, seguro que es muy peligroso.<03e0>¡Te prohíbo terminantemente que vayas a verlo!<03e0>No estarías pensando en participar, ¿verdad?
+Esto... No, qué va.
+Parece que existe una academia que lleva años<03e0>entrenando a los mejores místicos del mundo...
+¿Tú qué opinas, papá?
+¡Qué recuerdos! Yo también estudié en la Academia<03e0>de las Artes Místicas, ¿sabes? Sería una escuela<03e0>estupenda para ti, hija mía.
+Esto... Bueno.
+Athlum atraviesa momentos difíciles y la gente<03e0>anda un poco preocupada por la nueva matriarca<03e0>del clan de los Honeywell. Como es tan jovencita...
+¿Tú qué opinas, papá?
+Pobrecilla. Mira que perder a su madre y tener<03e0>que empuñar una espada a tan tierna edad...<03e0>¡Hija mía, que no se te ocurra hacerte guerrera!
+Esto... Bueno.
+Últimamente circulan rumores sobre la vida amorosa<03e0>de lord David... o la falta de ella. Después de todo,<03e0>no se le conoce ningún romance...
+¿Tú qué opinas, papá?
+A esa edad y con las hormonas desatadas...<03e0>¡A saber lo que se le pasará por la cabeza!<03e0>¡Hija mía, te prohíbo que te acerques por Athlum!
+Esto... Bueno.
+Dicen que la ex directora de la Academia se dedica<03e0>a recorrer el mundo entero de taberna en taberna.<03e0>Supongo que está tratando de ahogar sus penas...
+¿Tú qué opinas, papá?
+¿La ex directora de la Academia?<03e0>¡Pues que no se le ocurra venir por aquí!<03e0>¿Qué clase de ejemplo va a darle a mi hijita?
+Esto... Si tú lo dices...
+Los doctores Sykes no hacen más que entrar y salir<03e0>del Castillo de Athlum de un tiempo a esta parte...<03e0>¡Deben de haber realizado un gran descubrimiento!
+¿Tú qué opinas, papá?
+Qué intrigante... Un nuevo descubrimiento<03e0>de esos científicos. ¿Qué me dices, hija mía?<03e0>¿Nos vamos a Athlum a ver de qué se trata?
+Esto... Bueno.
+Unos objetos volantes no identificados andan surcando<03e0>el firmamento en torno a Fordragón. La gente del lugar<03e0>anda histérica al respecto...
+¿Tú qué opinas, papá?
+¿Objetos voladores? ¡Suena muy peligroso!<03e0>¡Hija mía, te prohíbo que te acerques a Nagapur!
+Esto... Bueno.
+Una guerrera un tanto impulsiva ha decidido detener<03e0>a los causantes de los incidentes de Marismarchita,<03e0>aunque deba desobedecer al líder de su orden.
+¿Tú qué opinas, papá?
+Una cosa es ser un poco marimacho y otra es ser<03e0>demasiado impulsiva. Seguro que acaba metida en líos.<03e0>¡Hija mía, prométeme que nunca actuarás sin pensar!
+Esto... Bueno.
+Dicen que un ejército de monstruos ha surgido<03e0>del Océano de Arena. Y son muy poderosos...<03e0>Parece que estamos en serios apuros...
+¿Tú qué opinas, papá?
+Bueno, en cualquier caso no hay motivo para ir<03e0>al Océano de Arena. Procuraré no encargarte<03e0>ningún recado que te haga acercarte por allí.
+Según los expertos en historia, en el interior<03e0>del volcán se esconde algo capaz de destruir<03e0>ciudades enteras.
+¿Tú qué opinas, papá?
+¿En las profundidades del volcán? Pues como estalle,<03e0>lo vamos a tener muy crudo para escapar...<03e0>¡Hija mía, te prohíbo que te acerques a ese volcán!
+Esto... Bueno.
+Nadie sabe exactamente qué es lo que ocurre<03e0>en el interior del volcán, ni cómo averiguarlo...<03e0>Pero quizás el marqués de Royotia lo sepa.
+¿Tú qué opinas, papá?
+Parece que el volcán sigue siendo peligroso.<03e0>Ya sé que no tienes motivo para ir por allí...<03e0>¡Pero lo tienes prohibidísimo, por si acaso!
+Esto... Bueno.
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el puesto de su padre.
+¿Tú qué opinas, papá?
+Umm... Debe de ser un lugar muy peligroso.<03e0>¡Hija mía, te prohíbo que vayas a una ciudad<03e0>que no tenga unas autoridades competentes!
+Esto... Bueno.
+Dicen que, si prestas atención, al atravesar el desierto<03e0>se puede oír un lamento triste y solitario que procede<03e0>de las profundidades del Océano de Arena.
+¿Tú qué opinas, papá?
+¿Conque lamentos procedentes del desierto, eh?<03e0>Suena muy sospechoso... ¡Hija mía, si alguna vez vas<03e0>al Océano de Arena, te prohíbo visitar el subsuelo!
+Esto... Bueno.
+Hace mucho tiempo, un héroe de gran fama<03e0>vivía en el Océano de Arena.
+¿Tú qué opinas, papá?
+Un héroe... ¿Un héroe de sexo masculino?<03e0>Pues me da igual cuánto tiempo haya pasado...<03e0>¡Ni se te ocurra acercarte al Océano de Arena!
+Esto... Bueno.
+Estaba paseando por la ciudad y me topé con un tipo<03e0>que no hacía más que repetir: «Si miráis los pilares<03e0>del Océano de Arena, veréis a los fan... fan... fan...».
+¿Tú qué opinas, papá?
+¿Yo? No tengo ni idea, pero suena muy sospechoso...<03e0>¡Hija mía, te prohíbo una vez más que te acerques<03e0>al Océano de Arena!
+Esto... Bueno.
+Un científico loco anda merodeando por Melphina.<03e0>Si pasas por allí, es mejor que no te acerques a él...<03e0>¡Dicen que mira a la gente de una forma muy rara!
+¿Tú qué opinas, papá?
+Practicar las ciencias de forma irresponsable<03e0>es un crimen infame. ¡Y además es un hombre!<03e0>¡Hija mía, te prohíbo que te acerques a Melphina!
+Esto... Bueno.
+Dicen que la cafetería de Baaluk está infestada<03e0>de bichos que siguieron al dueño desde el desierto.
+¿Tú qué opinas, papá?
+¡No permitiré que ningún bicho se acerque a mi hija,<03e0>por insignificante que sea! Si ves alguno avísame,<03e0>hija mía, ¿de acuerdo? ¡Yo me ocuparé de él!
+Esto... Bueno.
+Nagapur es cada vez menos segura.<03e0>Parece que han desaparecido varios jóvenes...
+¿Tú qué opinas, papá?
+¿Jóvenes? ¿MUJERES jóvenes?<03e0>Hija mía, te prohíbo terminantemente que te acerques<03e0>a Nagapur... ¡Que no se te ocurra siquiera pensar en ir!
+Esto... Bueno.
+A los aventureros les ha dado por intercambiar<03e0>los tesoros que encuentran durante sus viajes.<03e0>La moda ha calado muy hondo, sobre todo en Royotia...
+¿Tú qué opinas, papá?
+Suena divertido, pero sólo si intercambias tesoros<03e0>con alguien de confianza... Hija mía, no creo que sea<03e0>buena idea que practiques semejantes pasatiempos.
+Esto... Bueno.
+Parece que los mercaderes de Royotia están hartos<03e0>de que Balterossa controle sus rutas comerciales.
+¿Tú qué opinas, papá?
+Conque mercaderes iracundos, ¿eh?<03e0>Hija mía, si alguno de esos mercaderes se atreve<03e0>a levantarte la voz, avisa a tu papaíto, ¿me oyes?
+Esto... Bueno.
+Un mercenario yama anda buscando un socio...<03e0>Sería una buena forma de conseguir unas monedas.
+¿Tú qué opinas, papá?
+Una familia respetable como la nuestra no debería<03e0>rebajarse al nivel de esos mercenarios. ¡Hija mía,<03e0>te prohíbo que hables de esa profesión tan peligrosa!
+Esto... Bueno.
+En Celapalais hay un tipo con doble personalidad...<03e0>¡Unas veces parece muy simpático<03e0>y otras se pone a insultar a la gente sin motivo!
+¿Tú qué opinas, papá?
+¿Un tipo con doble personalidad?<03e0>Hija mía, te prohíbo que te hagas amiga de ese tipo.<03e0>Tú no te fíes de los desconocidos, ¿de acuerdo?
+Esto... Bueno.
+Hay un qsiti que se dedica a buscar lugares concurridos<03e0>y estorbar lo más posible para buscar pelea con quienes<03e0>se tropiezan con él. Es un incordio de tío...
+¿Tú qué opinas, papá?
+¡Qué maleducado! Hija mía, creo que será mejor<03e0>que evites los lugares concurridos por un tiempo.<03e0>¡A ver si te va a pasar algo malo!
+Esto... Bueno.
+Hay una chica misteriosa que está esperando<03e0>algo muy importante. Parece muy preocupada...
+¿Tú qué opinas, papá?
+Una dama en apuros... Hija mía, si alguna vez<03e0>te preocupa algo, ven derechita a decírmelo.<03e0>Yo te ayudaré a soportar esa carga.
+Papaíto...
+Dicen que las Damas Sangrientas están reuniéndose<03e0>en los alrededores de Marismarchita.
+¿Tú qué opinas, papá?
+¿Conque las Damas Sangrientas, eh?<03e0>No he oído más que barbaridades sobre ellas.<03e0>¡Hija mía, te prohíbo que te acerques a Marismarchita!
+Esto... Bueno.
+Parece que los jhanas han vuelto a hacer de las suyas<03e0>en el Océano de Arena. ¡Pero si parece que fue ayer<03e0>cuando el Gae Bolg los despachó!
+¿Tú qué opinas, papá?
+El Océano de Arena es demasiado peligroso<03e0>y esos jhanas no hacen más que causar problemas...<03e0>¡Te prohíbo que te acerques por allí, hija mía!
+Esto... Bueno.
+Parece que, hace poco, los Halcones Argénteos<03e0>despacharon a una banda de jhanas...
+¿Tú qué opinas, papá?
+Los Halcones Argénteos son unos tipos admirables,<03e0>pero para ellos la vida consiste en pelear... ¡No, señor!<03e0>¡Te prohíbo que te juntes con esa gente, hija mía!
+Esto... Bueno.
+Los Halcones Argénteos están persiguiendo<03e0>a lo que queda del ejército del Invasor. ¡Menos mal!<03e0>Si los dejasen escapar, podrían intentar algo...
+¿Tú qué opinas, papá?
+Si se atreven a enfrentarse al ejército del Invasor,<03e0>debe de tratarse de una gente muy peligrosa...<03e0>¡Hija mía, te prohíbo que te acerques a ellos!
+Esto... Bueno.
+Dicen por ahí que un tipo de aspecto sombrío<03e0>se pasa las horas muertas en la taberna de Elysion.<03e0>Tiene a todo el mundo deprimido con sus lamentos.
+¿Tú qué opinas, papá?
+Un tipo de aspecto sombrío... ¿UN HOMBRE?<03e0>¡No, es demasiado peligroso! ¡Hija mía, te prohíbo<03e0>terminantemente que vayas a la taberna de Elysion!
+Esto... Bueno.
+

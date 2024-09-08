@@ -1,0 +1,37 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_0104_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Elysion se encuentra bajo el control del Consejo,<03e0>una organización compuesta por los dirigentes<03e0>de cada estado.<04e0>Por eso decidieron que era el mejor sitio<03e0>para un centro de investigación como la Academia.
+Message 2
+Message 3
+Message 4
+Todo en este mundo tiene un final...<03e0>excepto las reliquias.<04e0>Para ellas, la vida de un hombre<03e0>debe de parecer efímera...
+Message 6
+Éste es el nivel más alto de Elysion.<04e0>Para llegar a la Academia, sube por estas escaleras<03e0>y cruza la calle principal.<04e0>La cámara de la asamblea está al final de la calle,<03e0>pero no dejan entrar a los civiles.<04e0>Las escaleras que hay junto a la cámara de la asamblea<03e0>conducen al Arca. Es una gran atracción turística...<03e0>¿Tú también has venido a verla?
+Message 2
+Message 3
+Message 4
+El Consejo atravesaba una situación difícil<03e0>cuando murió el presidente Hermeien.<04e0>Pero ahora que el duque de Ghor lo ha sustituido,<03e0>parece que las cosas vuelven a su sitio.<04e0>Dicen que antaño fue un gran guerrero y que tiene<03e0>unas excelentes aptitudes para la política.
+Message 6
+Vengo desde muy lejos sólo para ver el Arca.<03e0>Ojalá pudiera viajar en ella hasta el cielo...<04e0>Esto no lo sabe mucha gente, pero los científicos<03e0>de la Academia están autorizados a usarla<03e0>varias veces al año... ¡Qué envidia me dan!<04e0>Si quieres echarle un vistazo al arca,<03e0>no tienes más que subir esas escaleras de allí.
+Mensaje 2
+Mensaje 3
+Vine desde la lejana Nagapur<03e0>para disfrutar de estos parajes.<04e0>En cuanto me enteré de lo del Gwayn,<03e0>volví corriendo a casa, pero...<04e0>De mi barrio no quedaban más que escombros.<03e0>Espero que las almas de los que perecieron<03e0>hayan conseguido llegar a las Tierras Sagradas.<04e0>Nada me haría más feliz...
+A Elysion se la conoce como la capital del mundo,<03e0>pero no es a causa de su tamaño, sino porque es<03e0>la ciudad que alberga la Academia.<04e0>Averiguar la verdad sobre las reliquias sería<03e0>como revelar el mayor secreto del universo.
+Acabo de ver una luz brillante que surgía del Arca<03e0>en dirección a las Tierras Sagradas.<04e0>No creo que fuera cosa de la Academia...<03e0>¿Y si alguien se ha colado para usar el Arca?<03e0>Quién sabe para qué pretenderán utilizarla...<04e0>Pero no, el Arca ya tiene un vínculo forjado...<03e0>Eso sería imposible.
+Message 3
+Corre por ahí el rumor de que el presidente Hermeien<03e0>usaba su influencia para investigar en secreto<03e0>la forma de convertir las reliquias en armas.<04e0>Cuando su plan fracasó, parece que la gente<03e0>empezó a dejar la Academia.<04e0>Una causa podría ser la muerte del Presidente,<03e0>pero yo creo que el motivo más importante<03e0>fue el desastre del Gwayn.<04e0>Después de toda la destrucción que han causado, <03e0>la gente debe de haberse dado cuenta<03e0>de que las reliquias no son tan fáciles de controlar.
+No se puede pasar a esta zona.
+Disculpad la interrupción, pero tengo órdenes<03e0>de acompañar a lord David a la asamblea...<06e0000008e0000000000000>Vale, llévatelo.<09e008e0010000000300>Espera un momento.
+Lord David, permitidme que os conduzca<03e0>hasta la cámara de la asamblea.
+Entiendo... En ese caso, os ruego que me aviséis<03e0>cuando estéis preparado.
+¡Hola, Rush!<04e0>¿Va todo bien?
+No sé por qué, pero me siento a gusto aquí.<03e0>Supongo que esto me trae buenos recuerdos...<04e0>Sé que esto te sonará raro...<03e0>¡Al fin y al cabo, me echaron de la Academia!
+Me siento a gusto aquí.<03e0>Guardo muy buenos recuerdos de la Academia.
+Aunque haya dejado la Academia, sigo pensando<03e0>en las reliquias y en qué son en realidad...<04e0>Si pudiéramos descubrir su verdadero poder,<03e0>podríamos usarlas para detener esta guerra<03e0>que asola el mundo.
+Si pudiéramos descubrir el verdadero poder<03e0>de las reliquias, ¡podríamos usarlas para detener<03e0>esta guerra que asola el mundo!
+Las reliquias nos ofrecen sabiduría<03e0>y mejoran nuestra vida en muchos sentidos.<03e0>Son el mayor tesoro del mundo.<04e0>Sin embargo, últimamente no dejo de pensar<03e0>que no tenemos derecho a utilizar su poder<03e0>en nuestro propio beneficio.<04e0>La cruda realidad es que el mundo se ha vuelto<03e0>dependiente de las reliquias. Se han convertido<03e0>en una parte inseparable de nuestras vidas.<04e0>Nos hemos pasado siglos intentando comprenderlas,<03e0>pero seguimos sin saber mucho sobre ellas.<04e0>Rush... ¿Y si hubiéramos hecho mal al pretender<03e0>controlar estos artefactos divinos?
+Creo que nunca debimos usar el poder de las reliquias<03e0>en nuestro propio beneficio.<03e0>Y si tengo razón...
+Rush, he estado reflexionando sobre ciertas cosas.<04e0>No he sido capaz de dar respuesta a todas<03e0>mis preguntas, pero algo he sacado en claro.<04e0>Las reliquias reflejan nuestras decisiones.<03e0>Cada vez que hacemos una mala elección,<03e0>las reliquias lo reflejan.<04e0>Me gustaría encontrar una manera de que nosotros<03e0>y las reliquias podamos convivir y ser felices juntos.<04e0>Quiero recorrer el mundo y aprender cosas<03e0>para encontrar las respuestas que busco.<04e0>Espero averiguar lo que necesito<03e0>mientras te acompaño en tu viaje...
+Rush, me gustaría encontrar una forma<03e0>de vivir en paz con las reliquias. Ojalá podamos<03e0>trabajar juntos para encontrar respuestas.
+

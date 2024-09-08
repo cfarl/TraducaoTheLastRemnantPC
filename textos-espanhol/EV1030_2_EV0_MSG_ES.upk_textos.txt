@@ -1,0 +1,27 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1030_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Hey, Irina.
+Rush... Señor David...
+¿Por qué estás tan sorprendida?<0fe003e00ee0>Querías decirme algo, ¿verdad?
+Sí, pero...
+Lo siento, pero hemos de presentarnos<0fe003e00ee0>ante el Consejo por un asunto urgente.<1ae0000003430fe005e001000ee0>Si no te importa, creo que tendré<0fe003e00ee0>que robarte a tu hermano un poco más...
+¡Espere! ¡He oído que el Invasor sigue vivo!<1ae0000016430fe005e001000ee0>Es que... ¿Quiere que Rush siga luchando?
+Señor David... Le agradezco de verdad<0fe003e00ee0>que nos esté ayudando a Rush y a mí.<1ae0000019430fe005e001000ee0>Pero por favor, ¡deje marchar a Rush!<0fe003e00ee0>Puede llevarme a mí si quiere.
+¿Qué demonios estás diciendo?
+¡Sólo intento salvarte la vida!<0fe003e00ee0>¿Cómo puedes hablar de ponerme a salvo<1ae0000016430fe005e001000ee0>si tú no haces más que meterte en líos?
+Quiero echaros una mano...<0fe003e00ee0>¡Pero no puedo si no me dejas!
+Yo... no quiero que te preocupes por estas cosas.
+Rush. Ve a prepararte.<0fe003e00ee0>Tengo que hablar con Irina.
+Vale...
+Rush sólo quiere que estés a salvo.
+Ya lo sé. Pero...
+No seas tonta, Irina.<0fe003e00ee0>No eres más que una chica normal.
+¿Yo? ¿Normal?<0fe003e00ee0>¿Con este terrible poder que tengo?
+Olvídate de lo que pasó en Nagapur, ¿de acuerdo?
+Nagapur...<0fe003e00ee0>¿Cómo voy a olvidar algo así?
+No puedes... y tampoco debes.
+Las tragedias deben ser recordadas...<0fe003e00ee0>Tú puedes poner fin a este disparate.
+¿Qué haces aquí?
+Aunque lo supieras, no podrías<0fe003e00ee0>impedir que cumpliese mi objetivo...<1ae0000021430fe005e001000ee0>Porque yo...
+

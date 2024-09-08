@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0410_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Caray...
+Ésta es la reliquia de Elysion.<0fe003e00ee0>Su poder mantiene el mundo en equilibrio.
+Mil años ha, la gran Marion Marshall<0fe003e00ee0>formó un vínculo con esta reliquia<1ae0000061430fe005e001000ee0>y convirtió este lugar<0fe003e00ee0>en la cuna de nuestra civilización.
+Ah...
+¿No se suponía que eras de Elysion?
+Sí, nací aquí, pero nos mudamos<0fe003e00ee0>a Eulam cuando era pequeño.<1ae00000f0420fe005e001000ee0>No recuerdo Elysion en absoluto.
+¿Lord David?
+Sí. Dirijámonos a la embajada.
+

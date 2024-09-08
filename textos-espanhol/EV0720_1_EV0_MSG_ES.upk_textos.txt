@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0720_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Señor, las fuerzas del Invasor<0fe003e00ee0>y la guardia del duque de Qubine<1ae0000002430fe005e001000ee0>han entablado combate<0fe003e00ee0>en el Nido de las Águilas.
+Parece que Celapalais<0fe003e00ee0>está saliendo bastante malparada...
+Torgal, Blocter...<0fe003e00ee0>Hemos de ir raudos en su ayuda.
+Pagus, Emma, quedaos aquí con Rush<0fe003e00ee0>para velar por la seguridad de Athlum.
+Lord David, ¿me permitís?
+El Invasor ha reunido un ejército<0fe003e00ee0>y ha invadido Celapalais<1ae00000b4420fe005e001000ee0>sin preocuparse en absoluto por nosotros.
+El poder y la insolencia<0fe003e00ee0>de nuestro enemigo son indiscutibles...<1ae00000b4420fe005e001000ee0>Igual que las consecuencias de esta batalla.<0fe003e00ee0>Si Celapalais cae, Athlum estará perdida.
+Debéis llevar tantos hombres como podáis<0fe003e00ee0>si con ello mejoran vuestras posibilidades.
+Emma...
+Llevaos a los demás.<0fe003e00ee0>¡Protegeré Athlum aunque me cueste la vida!
+Entendido. Cuida bien de la ciudad.
+Sí, milord.
+En marcha, soldados. ¡A las armas!
+Sí, milord.
+Sí, milord.
+Sí, milord.
+Sí, milord.
+¡Eso!
+

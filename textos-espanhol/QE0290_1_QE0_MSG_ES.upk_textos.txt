@@ -1,0 +1,28 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush... ¿Tienes un momento?
+Perdona, pero es mejor que hablemos en otro lugar.
+He sentido la necesidad de venir aquí, pero...<03e0>Como era de esperar, aún no ha regresado.
+Rush, quería preguntarte algo...
+¿Has oído eso?
+¡Lady Emma!
+¿Qué ocurre?
+¡Mi General! En las <1be0ffbe34ff>ruinas de Robelia<1ce0>...<04e0>Ha aparecido un monstruo enorme... ¡Un gigante!<03e0>¡Es una especie de gigante!<04e0>Era como si alguien lo controlara...<03e0>¡Ha ido directo a por los soldados de Athlum!
+Entendido. Voy enseguida.
+Ya lo has oído. Seguiremos hablando<03e0>en cuanto me haya ocupado de esto.
+Aunque bien pensado... Rush, ¿quieres ayudarme?<06e0000008e0000000000000>¡Eso ni se pregunta!<09e008e0010000000300>Umm....
+Te lo agradezco... Apresurémonos, pues.<03e0>¡Vamos al <1be0ffbe34ff>Castillo de Robelia<1ce0>!
+No hay tiempo para titubeos.<03e0>Vuelve cuando te hayas decidido.
+Parece que están apareciendo monstruos<03e0>en las ruinas del <1be0ffbe34ff>Castillo de Robelia<1ce0>.
+Debo ir para allá a hacerme cargo de ellos.<03e0>Rush, ¿quieres acompañarme?<06e0000008e0000000000000>¡Sí, te ayudaré!<09e008e0010000000300>Umm... Esto...
+Te lo agradezco... Apresurémonos, pues.<03e0>¡Vamos al <1be0ffbe34ff>Castillo de Robelia<1ce0>!
+No hay tiempo para titubeos, Rush.<03e0>Deja de comportarte como un crío<03e0>y decídete de una vez.
+¿Estás bien? Lo siento, parece que todo este asunto<03e0>ha resultado ser más grave de lo que creía...<04e0>Últimamente, este tipo de incidentes se ha convertido<03e0>en algo muy común. Ya sé que tú y yo hemos tenido<03e0>algunas diferencias, pero te agradezco tu ayuda.
+Volviendo al asunto del que hablábamos antes...<03e0>Me gustaría pedirte un favor.
+No sé por donde empezar...
+Esta plaza, frente al Corazón Valeroso,<03e0>es un lugar muy querido para mí.<04e0>Hace mucho tiempo, me despedí de un ser querido<03e0>en este mismo sitio. Prometimos volver a vernos<03e0>en cuanto regresara de sus viajes.<04e0>No sé cuándo volverá, pero todavía no he perdido<03e0>la esperanza de volver a verla. Sé que regresará<03e0>tarde o temprano.
+No obstante, tengo que ocuparme de todos<03e0>estos incidentes en las afueras de Athlum,<03e0>y no puedo pasarme la vida aquí esperando...
+Por eso me gustaría pedirte algo. Si esta persona<03e0>regresara a Athlum y yo no pudiera venir a recibirla,<03e0>¿podrías acudir tú a encontrarte con ella?<04e0>Sabrás de quién hablo en cuanto la veas.<03e0>Seguro que a ti también te hará ilusión verla.
+Espero que no te importe. Permíteme que te ofrezca<03e0>esta recompensa como pago por adelantado, ¿vale?<04e0>Rush... No me falles, por favor. Cuento contigo.
+

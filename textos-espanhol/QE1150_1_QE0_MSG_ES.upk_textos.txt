@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1150_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Diosss, este lugar tiene una pinta deprimente.<03e0>De verdad, ese pez gordo del duque de Ghor<03e0>ya podría reformarlo un poco.
+Yo redecoraría este sitio de arriba abajo...<03e0>Habría que pintar las murallas de color fucsia,<03e0>que este año está de moda...<04e0>¡Y debería ser obligatorio que todo el mundo llevase<03e0>una rosa en la solapa! Eso le daría algo más de clase<03e0>a este lugar, ¿no te parece?
+El caso es que estaba pensando en visitar un sitio<03e0>con un poco más de historia, con monumentos<03e0>y con todas esas tonterías, para variar.<04e0>Y, como ando un poco justa de pasta, he decidido<03e0>poner en venta este exclusivo talismán de la suerte<03e0>marca «Khrynia». ¿A que es una monada?<06e01900>sEVENT_PRICE_QE1150_P_000<08e0000000000000>¡Qué chulo! ¡Me lo quedo!<09e008e0010000000300>Búscate un trabajo, nena.
+¡Genial! Ya verás como no te arrepientes...<03e0>Los cenutrios como tú necesitan toda la suerte<03e0>del mundo para evitar que les timen. Je, je, je...
+¡Hasta nunca, Ghor! ¡Ahí te quedas!
+¿Qué?
+¿Sabías que tu retrato sale en la enciclopedia?<03e0>Está justo al lado de la palabra «fracasado».
+Tío, ¿no podrías hacer un esfuerzo para dejar<03e0>de ser un pobre desgraciado? Lo digo porque<03e0>así no puedo mantener mi tren de vida.
+

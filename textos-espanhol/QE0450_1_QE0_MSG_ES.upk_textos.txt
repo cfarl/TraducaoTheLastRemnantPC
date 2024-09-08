@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0450_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hace un millar de años, un gran reino se levantaba<03e0>en medio del desierto. Su ejército era conocido<03e0>en el mundo entero.<04e0>Entre sus filas combatía la guardia real, unos soldados<03e0>conocidos como los Mandrógiros. Su destreza y valor<03e0>en combate sigue siendo legendarios hoy en día.<04e0>Se trataba de un grupo de héroes que acabó<03e0>con incontables bestias y protegía a su reina<03e0>mejor que un muro de acero...<04e0>Eran diestros guerreros capaces de derrotar<03e0>a ejércitos mucho más numerosos.<04e0>No obstante, su propia fuerza fue su perdición.<03e0>Con el tiempo, acabaron convirtiéndose en monstruos<03e0>y se rebelaron contra el primer Emperador celestial.<04e0>El Emperador contraatacó y, tras una feroz batalla,<03e0>se apoderó del Tao Tie y aprisionó a los Mandrógiros<03e0>por siempre jamás.
+¿Pensáis que no es más que un cuento de hadas?<03e0>Pues os vais a llevar una sorpresa, joven viajero...<04e0>Tras un millar de años, los Mandrógiros han vuelto.<03e0>Creemos que se están preparando para enfrentarse<03e0>a Balterossa y recuperar el Tao Tie.<04e0>Debemos impedírselo cueste lo que cueste....<03e0>No sé cómo, pero debemos derrotar a la tropa<03e0>que le plantó cara al mismísimo Emperador.<04e0>Balterossa está reclutando a todos los hombres<03e0>que puedan acudir en su defensa. Dime, viajero...<03e0>¿Acudirás tú también al <1be0ffbe34ff>Vientre de la Salamandra<1ce0>?<06e0000008e0000000000000>Claro, haré lo que pueda.<09e008e0010000000000>¡Nunca venceremos!
+Las formaciones <1be064f4ecff>Vanguardia<1ce0> y <1be064f4ecff>Murciélago<1ce0> serían ideales<03e0>para esta batalla, pero sus secretos se han perdido<03e0>en las tinieblas de la historia.<04e0>Ésta no va a ser una batalla fácil...<06e0000008e0000000000000>¡Aun así, lo intentaré!<09e008e0010000000300>Este... ¿Puedo echarme atrás?
+Entonces... ¡Adelante, viajero!
+Es por tu bien. Los héroes no ganan las guerras...<03e0>Es precisa una estrategia en la que todos tengan<03e0>un papel que cumplir.
+Es por tu bien. Los héroes no ganan las guerras...<03e0>Es precisa una estrategia en la que todos tengan<03e0>un papel que cumplir.
+¡Los Mandrógiros han vuelto! Hace mil años<03e0>se atrevieron a desafiar al Emperador celestial...<03e0>¡Y ahora vienen dispuestos a llevarse el Tao Tie!<04e0>Balterossa está reclutando a todos los hombres<03e0>que puedan acudir en su defensa. Dime, viajero...<03e0>¿Acudirás tú también al <1be0ffbe34ff>Vientre de la Salamandra<1ce0>?<06e0000008e0000000000000>¡Claro! ¡Lucharé!<09e008e0010000000000>¡No puedo con un ejército!
+Las formaciones <1be064f4ecff>Vanguardia<1ce0> y <1be064f4ecff>Murciélago<1ce0> serían ideales<03e0>para esta batalla, pero sus secretos se han perdido<03e0>en las tinieblas de la historia.<04e0>Ésta no va a ser una batalla fácil...<06e0000008e0000000000000>¡Aun así, lo intentaré!<09e008e0010000000300>Este... ¿Puedo echarme atrás?
+Entonces... ¡Adelante, viajero!
+Es por tu bien. Los héroes no ganan las guerras...<03e0>Es precisa una estrategia en la que todos tengan<03e0>un papel que cumplir.
+Es por tu bien. Los héroes no ganan las guerras...<03e0>Es precisa una estrategia en la que todos tengan<03e0>un papel que cumplir.
+Vaya, vaya... ¿Has derrotado a los Mandrógiros?<06e0000008e0000000000000>¡Pues claro!<09e008e0010000000000>Qué va...
+Ya veo... Así que acabaste con ellos sin dudarlo.
+Entonces, ten esto.
+Parece que Balterossa está a salvo por ahora...<03e0>Aunque me pregunto qué llevaría a los Mandrógiros<03e0>a traicionar al primer Emperador celestial.<04e0>En fin... Puede que sepamos la verdad algún día.<03e0>¡Mil gracias por tu ayuda y bienaventurado seas,<03e0>joven viajero!
+Eres muy modesto...
+

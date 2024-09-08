@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0120_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Señor! Os pareceré demasiado directa,<03e0>pero necesito ayuda. ¿Escucharéis al menos<03e0>lo que tengo que deciros?<04e0>Un hombre terrible ha destruido mi hogar y he jurado<03e0>vengarme de él para devolver el honor a mi tierra.<04e0>Pero no soy lo bastante fuerte para hacerlo sola...
+He oído que un legendario guerrero habita las tierras<03e0>de <1be0ffbe34ff>Brezalverde<1ce0>. Se dice que es mortífero en combate<03e0>y un hábil estratega.<04e0>Quisiera conocerlo y aprender de él...<03e0>¡Con su ayuda, podría devolver el honor a mi tierra!<03e0>Decidme... ¿Me ayudaríais a averiguar su paradero?<06e0000008e0000000000000>Claro, si me lo pides así...<09e008e0010000000300>¿Es que tengo cara de guía?
+¡Gracias! Por cierto, mi nombre es Glenys...<03e0>¡Pongámonos en camino! ¡Vayamos a <1be0ffbe34ff>Brezalverde<1ce0>!
+Lo entiendo...<03e0>Bueno, si encontráis algún momento libre,<03e0>hacédmelo saber... Seguramente estaré por aquí.
+Sois vos otra vez...<03e0>Por favor, necesito vengarme de ese hombre.<03e0>¡Debo hacerlo por el honor de mi tierra!
+Pero para ello debo aprender del mejor maestro.<03e0>Por favor... Si me acompañáis a buscarlo, prometo<03e0>recompensaros como os merecéis.<06e0000008e0000000000000>Vale, vale... Vamos.<09e008e0010000000300>He dicho que no.
+¡Gracias! Esperaba que volvierais y así ha sido...<03e0>¡Y luego dicen que los jóvenes de ahora son<03e0>unos insolidarios!<04e0>¡Vayamos a <1be0ffbe34ff>Brezalverde<1ce0>!<03e0>Por cierto... Me llamo Glenys.<03e0>Encantada de conoceros.
+Ya veo...<03e0>Bueno, si cambiáis de opinión,<03e0>me encontraréis por aquí.
+De modo que la famosa técnica del maestro era<03e0>una formación de combate que él mismo había creado...<03e0>Esperaba otra cosa, la verdad...<04e0>En fin... Alguien con vuestra experiencia<03e0>y habilidad en combate sabrá sacarle partido.<04e0>Si podéis ayudarme a vengar a mi pueblo,<03e0>quizás yo también os pueda ser de utilidad...
+Sé que aún tengo mucho que aprender, pero<03e0>os ruego que me dejéis unirme a vuestro grupo.<04e0>Os estaré esperando en la sede del gremio,<03e0>por si me necesitáis...
+Dirijámonos a <1be0ffbe34ff>Brezalverde<1ce0>.
+Dirijámonos a <1be0ffbe34ff>Aveclyff<1ce0>.
+

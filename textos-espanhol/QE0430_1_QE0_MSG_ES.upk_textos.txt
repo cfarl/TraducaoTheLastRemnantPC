@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0430_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La tablilla de Marshall está reaccionando<03e0>con la Flâchonelle. ¿Quieres usar la tablilla?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>¡No! Me da cosa...
+Si me llevo esto, Rhagoh me va a odiar...<06e0000008e0000000000000>¡Que se chinche!<09e008e0010000000300>Dejémoslo estar.
+

@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0480_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¡Es él!
+¡Por aquí!
+Eh, ¿qué demonios hace?
+¡Shhh!
+¿Acaso pretende vincularse al Arca?<0fe003e00ee0>¡Hace falta un gran poder para ello!
+Esa luz...
+¡No puede ser!
+Me temo que es verdad. Esa luz es...
+Es como si la cámara de la asamblea<0fe003e00ee0>estuviera... ¡brillando!
+¡Luminiscencia!
+Lo ha logrado... ¡Se ha vinculado al Arca!<0fe003e00ee0>¿Quién... o qué es ese tipo?
+

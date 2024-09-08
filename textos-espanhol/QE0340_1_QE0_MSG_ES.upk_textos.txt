@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0340_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush, gracias por venir. Quería pedirte un favor<03e0>antes de que regresen los demás.<04e0>Ya sé que te aviso con muy poco tiempo, pero...<03e0>¿Me acompañarías a <1be0ffbe34ff>Fornstrand<1ce0>? Hace mucho<03e0>que quería ir por allí a visitar a alguien...<06e0000008e0000000000000>Claro, ¿por qué no?<09e008e0010000000300>Lo siento, está muy lejos.
+Gracias, Rush.<04e0>Ten en cuenta que los monstruos de <1be0ffbe34ff>Fornstrand<1ce003e0>están en pleno periodo de cría en esta época del año.<03e0>Debemos andarnos con cuidado.
+Oh...<03e0>Claro, me imagino que estarás ocupado.<03e0>No quiero molestarte.
+¿Me acompañarías a <1be0ffbe34ff>Fornstrand<1ce0>? Ahora que tengo<03e0>un momento, me gustaría visitar a alguien.<06e0000008e0000000000000>Claro, ¿por qué no?<09e008e0010000000300>Lo siento, está muy lejos.
+Gracias por acompañarme.<04e0>Sé que no es gran cosa, pero, por favor, acepta esto.
+Por fin Athlum está empezando a tomar las riendas<03e0>de su propio destino.<04e0>Con ayuda de todo el mundo, quiero convertirla<03e0>en una ciudad digna de admiración.
+

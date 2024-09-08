@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0440_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Ophelia! ¿Dónde te habías metido?<03e0>¡Melphina está en estado de emergencia!
+Han secuestrado a Leticia, una de las doncellas<03e0>del bosque, y el secuestrador exige que le demos<03e0>la Lágrima Azul. Si no, dice que la matará...
+El secuestrador estaba tan desesperado<03e0>que no ha habido forma de que nos escuchara.<03e0>No hemos podido calmarlo ni negociar con él.
+Ciertamente, tenéis razón...
+No me lo puedo creer...
+¿¡QUÉ!?
+La Orden se ha planteado rescatar a la chica<03e0>por la fuerza, pero el secuestrador está tan histérico<03e0>que es capaz de hacerle daño a la doncella.
+La Lágrima Azul es el mayor tesoro de nuestro país.<03e0>No obstante, no hay nada más valioso en este mundo<03e0>que la vida de alguien...
+Mi único deseo es proteger al pueblo de Melphina.<04e0>Al igual que Robert y la Orden, que han sabido<03e0>comportarse como verdaderos caballeros<03e0>y han luchado con bravura por este país hasta hoy.
+Que así sea, entonces...<04e0>Debemos darle la Lágrima Azul antes de que acabe<03e0>con la vida de la doncella.
+

@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1450_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Qué es eso?
+Una reliquia... ¡Una reliquia capaz<0fe003e00ee0>de llevarnos a las Tierras Sagradas!
+Genial, ¿eh, Dave?
+En marcha, pues.
+Creía que ya os lo habíamos advertido...<1ae00000be420fe005e001000ee0>Continuar estorbando al Invasor<0fe003e00ee0>podría poner en peligro vuestra salud.
+¡Wagram!
+Os doy una última oportunidad<0fe003e00ee0>para escapar con vida. Marchaos de aquí.
+¿Y si me niego?
+Como deseéis.<1ae0000082420fe005e001000ee0> ¡Entonces borraré vuestra presencia<0fe003e00ee0>de la faz de la tierra!
+¡Por el poder de este conjuro ancestral<0fe003e00ee0>yo convoco a tu ser y a tu alma inmortal;<1ae0000025430fe005e001000ee0>abandona tu morada de luz celestial<0fe003e00ee0>y desciende a la tierra, tu nuevo hogar!
+¡Ven a mí!
+

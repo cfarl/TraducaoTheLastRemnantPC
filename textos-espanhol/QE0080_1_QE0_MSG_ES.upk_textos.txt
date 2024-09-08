@@ -1,0 +1,46 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0080_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Marsha, mi querida doncella del bosque...<03e0>¿Nos ayudaréis a encontrar a los caballeros<03e0>de la Orden que han desaparecido?
+Por supuesto. Maestra Olebeag. Robert...<03e0>Os presento a Leticia, una de las nuevas doncellas.<04e0>Cuenta con unos poderes de empatía<03e0>verdaderamente asombrosos.
+Leticia está vinculada a Neo, uno de los caballeros<03e0>que han desaparecido.<04e0>Desde que comenzó todo esto, ha intentado<03e0>buscar su presencia, y al fin parece que<03e0>ha percibido algo...
+Adelante, Leticia.<03e0>Dinos lo que ves.
+Sí, mi Señora.
+Veo...
+Veo unas luces pequeñas y tenues...<04e0>Hay unas plantas creciendo entre las rocas<03e0>que desprenden un hermoso fulgor verde,<03e0>y escucho el rumor del agua al caer...
+Plantas que brillan, agua que cae...<04e0>¡Por el Emperador celestial! Debe de referirse<03e0>a la caverna del suroeste... ¡<1be0ffbe34ff>Siebenpur<1ce0>!
+¡Maestro Sykes!<04e0>¡Acabamos de descubrir una nueva pista<03e0>sobre el paradero de los caballeros desaparecidos!
+Leticia, una de las doncellas del bosque,<03e0>ha tenido una visión del lugar donde se hallan<03e0>los caballeros extraviados.<04e0>Por su descripción, creemos que se trata<03e0>de las cavernas del suroeste... <1be0ffbe34ff>Siebenpur<1ce0>.
+En breve partiré hacia <1be0ffbe34ff>Siebenpur<1ce0> para rescatar<03e0>a mis compañeros de armas...
+Os agradecería inmensamente vuestra ayuda,<03e0>maestro Sykes. ¿Puedo pediros que luchéis<03e0>a mi lado una vez más?<06e0000008e0000000000000>¡Claro! ¡Al rescate!<09e008e0010000000300>Lo siento, estoy ocupado.
+Una vez más me honráis con vuestra generosidad.<03e0>Estoy en deuda con vos...<04e0>Preparémonos para partir hacia <1be0ffbe34ff>Siebenpur<1ce003e0>inmediatamente.
+Tranquilo, no os sintáis obligado a aceptar.<03e0>Me hago cargo de que es una osadía por mi parte<03e0>haceros semejante petición.<04e0>Pese a todo, si algún día os decidís a ayudarnos,<03e0>os agradecería que me lo hicierais saber.
+Afortunadamente, todos han podido regresar<03e0>a Melphina sanos y salvos gracias a vuestra ayuda,<03e0>maestro Sykes. De nuevo, estoy en deuda con vos.
+Umm...<04e0>Ophelia, me temo que estos hombres de negro<03e0>son sólo el principio de algo mucho más siniestro:<03e0>una organización con varias reliquias en su poder.
+No creo que estos granujas sean los cabecillas<03e0>de semejante organización.<04e0>Si no averiguamos quiénes son los responsables<03e0>de esta trama contra Melphina, sólo lograremos<03e0>que manden a otro grupo de asesinos.
+El maestro Rush está de acuerdo conmigo.<04e0>Ophelia, créeme, comparto el dolor de tu corazón<03e0>y las heridas de tu orgullo, pero es preciso actuar<03e0>con cautela si queremos resolver esta situación.
+Ophelia... La reputación de la Orden<03e0>no es lo más importante que está en juego.
+¡Ah, es verdad!<04e0>Maestro Sykes, aceptad este obsequio<03e0>como prueba de nuestra gratitud.
+La subcomandante es tan hábil con la espada<03e0>como impulsivo es su espíritu. Pero aún es joven,<03e0>y es normal que se deje llevar por su sed de justicia.
+Pero responder a la violencia con más violencia<03e0>sólo sirve para avivar más los conflictos.<04e0>Seguiremos pendientes de los movimientos<03e0>de esos hombres de negro. Espero que tarde<03e0>o temprano lleguemos al fondo de este asunto.
+Pero, Comandante... Los bellacos que raptaron<03e0>a nuestros compañeros todavía no se encuentran<03e0>en manos de la justicia.
+¡Nuestra obligación es vengar el honor mancillado<03e0>de la Orden de Melphina!<04e0>Los actos de esos canallas son imperdonables...<03e0>¡Merecen un castigo rápido y contundente!
+Pero... ¿Y qué será del buen nombre<03e0>de nuestra Orden?
+...
+¡Qué situación más detestable!<03e0>¡Si nos dejamos pisar, la Orden de Melphina<03e0>se convertirá en el hazmerreír del continente!
+¡Mostrémosles a esos bellacos que no hay piedad<03e0>para quienes traicionan a las gentes de Melphina!
+¡Mostrémosles a esos bellacos que no hay piedad<03e0>para quienes traicionan a las gentes de Melphina!
+(Creo que es hora de tomar partido...)<03e006e0000008e0000000000000>Debemos ser cuidadosos.<09e008e0010000000000>El honor es lo primero.
+Umm...<03e0>Creo que tenéis razón.
+Así que vais a acompañar a Robert, ¿no es así?<03e0>La verdad es que sois un joven muy valiente.<04e0>Me recordáis a mí cuando era un chiquillo...
+Robert, será mejor que dejemos este asunto<03e0>para otro momento. Ahora debemos agradecerle<03e0>al joven Sykes su ayuda durante el rescate.
+¡Qué joven más valeroso!<03e0>Permitidme que os exprese mi gratitud<03e0>por salvar a mis hombres de la muerte.
+<1be0ffbe34ff>Siebenpur<1ce0> tiene fama de ser uno de los lugares<03e0>más peligrosos que existen...<04e0>¿Qué hace un caballero de la Orden en semejante lugar?
+Menos mal que todos han vuelto sanos y salvos...
+Oh, Neo...<03e0>Por favor, que no le haya pasado nada...
+Oh, Neo...<03e0>Por favor, que no le haya pasado nada...
+¡Habéis traído a mi Neo sano y salvo!<03e0>¡Rush, os lo agradezco de verdad!
+Así que los otros caballeros no han podido escapar<03e0>a través de la reliquia transportadora...<04e0>No hay de qué preocuparse. El poder de la Lágrima Azul<03e0>puede deshacer las acciones de la reliquia y enviarte<03e0>de vuelta.<04e0>¿Quieres volver a <1be0ffbe34ff>Siebenpur<1ce0>?<06e0000008e0000000000000>¡Claro, a salvar a los demás!<09e008e0010000000300>Tengo mucho que hacer.
+Todos estamos en tus manos, joven Sykes.
+Me preocupa el destino de la Orden, pero debo<03e0>reconocer que la prudencia es de sabios.<03e0>Tómate tu tiempo para prepararte antes de volver...
+

@@ -1,0 +1,21 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1060_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya, por fin has llegado. Muy bien, déjame<03e0>que te explique en qué consiste este asunto.<04e0>Nuestro «cliente» es un aristócrata cuyo hijo<03e0>vino a jugar a estas cuevas. El problema es<03e0>que aún no ha regresado.<04e0>Hay momentos del día en que estas cavernas<03e0>se llenan de monstruos. Es posible que el chaval<03e0>se perdiera tratando de esconderse de ellos.<04e0>En cualquier caso, nuestra misión es encontrarlo.<04e0>¿Qué pasa? ¿Esperabas algo más emocionante?<03e0>Tú dirás lo que quieras, pero esto no es un trabajillo<03e0>que esté al alcance de una simple niñera...<04e0>Ese chaval no es más que un crío, y además<03e0>parece que es un mocoso más bien debilucho.<03e0>Sus padres están preocupados, y con razón.<04e0>Por si fuera poco, se dice que estas cuevas sirven<03e0>de refugio a unos bandidos con muy malas pulgas.<03e0>Si encuentran al rapaz antes que nosotros...<04e0>Lo mejor será que se lo impidamos, ¿de acuerdo?<03e0>Venga, pongámonos en marcha.
+¡BUAAAH!<03e0>¡Soltadme! ¡Soltadme!<03e0>¡Quiero irme a casa! ¡SOCORRO!
+¡Calla la boca!
+Esa voz... ¿Será posible?<03e0>¡Venga, Rush, más nos vale apresurarnos!
+¡SOCORROOO!
+Oye... ¡AY! ¡Cuidado! ¡Deja de resistirte<03e0>y quédate quietecito como una buena víctima!
+¡Tío, será mejor que lo dejemos estar!<03e0>¡La idea era secuestrar a un crío,<03e0>no a un mastodonte de dos metros!
+¡Eso digo yo! ¡Nos va a hacer papilla!<03e0>¿Cómo vamos a pedir un rescate por él<03e0>si nos puede aplastar con sólo mirarnos?
+Maldita sea... ¡Callaos de una vez!<04e0>A mí me dijeron que el hijo de unos ricachones<03e0>se había escondido aquí. ¿Cómo iba a saber<03e0>que ese «mocoso indefenso» era un yama?
+Esto va a acabar mal...<04e0>¡Rush, tenemos que ayudarle!<03e006e0000008e0000000000000>Sí, «salvemos» a esa «criatura».<09e008e0010000000000>¿Al niño o al secuestrador?
+¿A ti qué te parece?<03e0>¡Al niño, claro está!<06e0000008e0000000000000>Bueno, si te empeñas...<09e008e0010000000000>Ejem... ¿Lo ves necesario?
+¡Muy bien!<03e0>¡Vamos a darle lo suyo a estos indeseables!
+¿A qué vienen tantos miramientos?<03e0>¡Vamos a machacarlos!
+Esto... Gracias, señores.<03e0>Estaba muy asustado.
+No te preocupes, chaval, ya pasó todo.
+Rush, voy a llevar a este pequeñín a su casa.<03e0>Ven luego a buscarme a la taberna de Athlum<03e0>y te daré tu parte de la recompensa, ¿de acuerdo?
+Nos vemos dentro de nada, entonces.
+

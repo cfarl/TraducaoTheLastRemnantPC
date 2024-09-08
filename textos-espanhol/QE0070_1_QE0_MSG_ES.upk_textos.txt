@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0070_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Soy Robert, comandante de la Orden de Melphina.<03e0>Somos un grupo de caballeros que se dedican<03e0>a proteger esta región.<04e0>A juzgar por vuestro porte, debéis de ser<03e0>un aventurero bastante competente...<03e0>Si es así, tengo una misión para vos.
+Al noroeste de la ciudad se halla <1be0ffbe34ff>Marismarchita<1ce0>,<03e0>el pantano maldito. Durante años, una reliquia<03e0>contuvo la maldad que habita en él...<04e0>Pero su poder se ha ido debilitando. Últimamente<03e0>han empezado a aparecer monstruosas criaturas.
+Enviamos a una patrulla a examinar la barrera<03e0>tan pronto lo descubrimos, pero aún no han vuelto.<04e0>Ojalá pudiera mandar a más soldados en su busca,<03e0>pero lo principal es la seguridad de la ciudad.<03e0>No podemos prescindir de más guerreros...
+¿Estaríais dispuesto a acompañarme<03e0>a Marismarchita para reparar la barrera?<06e0000008e0000000000000>Claro, con mucho gusto.<09e008e0010000000300>Ya me lo pensaré...
+¡Magnífico! ¡Será un honor contar con la ayuda<03e0>de un joven con tanto sentido de la justicia!<04e0>Partamos raudos hacia <1be0ffbe34ff>Marismarchita<1ce0>.
+Tranquilo, no os sintáis obligado a aceptar.<03e0>Comprendo que es una osadía por mi parte<03e0>haceros semejante petición.<04e0>Pese a todo, si algún día os decidís a ayudarnos,<03e0>os agradecería que me lo hicierais saber.
+Ophelia, no olvides cómo debe comportarse<03e0>un verdadero caballero de la Orden de Melphina.
+Ophelia... La Orden es un escudo, no una espada.<03e0>Nuestro cometido es proteger nuestro hogar.<04e0>¿Quién se ocupará de defender a nuestra gente<03e0>si los abandonamos en un momento como éste?
+Nuestra mayor prioridad es salvar vidas...<03e0>Debemos partir en busca de nuestros hombres<03e0>sin tardanza. No es hora de pensar en vengarnos.
+Ah, maestro Sykes... Disculpadme.<04e0>Os presento a la subcomandante Ophelia.<03e0>Perdonadnos por este pequeño desliz...
+¿Veis? El maestro Sykes está de acuerdo.<04e0>Ophelia... Comprendo que estéis furiosa<03e0>por lo ocurrido, pero ahora no podemos dejar<03e0>que las emociones nublen nuestro buen juicio.
+Ejem... Sin duda, la opinión del maestro Sykes<03e0>no carece de fundamento...
+¡Oh, es verdad!<04e0>Maestro Sykes, aceptad esto como símbolo<03e0>de nuestro agradecimiento...
+Ahora deberíamos encontrar a nuestros hombres.<03e0>Voto a tal... ¿Dónde podrían estar?
+Comandante... Hace tiempo que esperamos,<03e0>pero seguimos sin noticias de nuestros hombres...<04e0>Parece que, mientras nos ocupábamos de la barrera,<03e0>alguien ha estado conspirando contra nosotros.
+Pero, mi Comandante...<03e0>¡Hemos visto salir del pantano a un grupo<03e0>de hombres sospechosos vestidos de negro!
+Con vuestro permiso, Comandante,<03e0>partiré rauda a arrestar a esos canallas<03e0>y llevarlos ante la justicia para castigarlos.
+Pero...
+* Silencio *
+¡Exacto! ¡Es hora de demostrarles a esos bellacos<03e0>que no habrá piedad para quienes osen traicionar<03e0>a las gentes de Melphina!
+¡Mostrémosles a esos bellacos que no hay piedad<03e0>para quienes traicionan a las gentes de Melphina!
+(Supongo que me toca decidir qué hacemos...)<03e006e0000008e0000000000000>Los inocentes son lo primero.<09e008e0010000000000>¡A por los conspiradores!
+Bienvenidos a nuestra recóndita y lejana aldea.<03e0>No hay mejor lugar en todo el continente<03e0>para los estudios místicos y científicos.
+Confío en Robert más que en nadie en el mundo.<03e0>Su habilidad con la espada es tal que no dudaría<03e0>en poner mi vida en sus manos.
+Robert, será mejor que dejemos este asunto<03e0>para otro momento. Ahora debemos agradecerle<03e0>al joven Sykes su ayuda con la barrera.
+Ah, la valentía de la juventud... Permitidme<03e0>que yo también os exprese mi agradecimiento.
+

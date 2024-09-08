@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1265_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Ése era el último...
+La corriente de energía se ha interrumpido.
+Muy bien. Ya podemos entrar en Königsdorf.
+¿Qué está pasando?
+¡Por favor, deteneos!
+¡El Gae Bolg está... intentando liberarse!
+¡No puedo controlarlo!
+¡Rush!
+¡Maldita sea!<0fe003e00ee0>¡Va a haber que pararlos a la fuerza!
+

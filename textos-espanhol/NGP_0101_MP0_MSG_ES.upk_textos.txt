@@ -1,0 +1,57 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Pareces sorprendido.<04e0>Sí, ese temible dragón que tienes ante ti no es otro<03e0>que la reliquia de Nagapur... ¡El legendario Gwayn!<04e0>El gran castillo situado enfrente es Fordragón,<03e0>la residencia de nuestro venerado Wilfred Hermeien.
+El Invasor anda detrás de todas las reliquias<03e0>que pueda conseguir, ¡pero no vamos a permitir<03e0>que se lleve la nuestra!<04e0>Protegeremos a nuestro Señor y a nuestra reliquia.<03e0>¡Nagapur no sucumbirá!
+Message 3
+Message 4
+Esto es <1be0ffbe34ff>Flussbahn<1ce0>, la entrada a la ciudad.<03e0>Está construida a lo largo del canal.<04e0>Cerca del Gwayn hay dos barrios residenciales,<03e0>uno bajo cada una de sus alas: <1be0ffbe34ff>Nordalm<1ce0> al norte<03e0>y <1be0ffbe34ff>Südalm<1ce0> al sur.
+¿Que cómo se va a <1be0ffbe34ff>Fordragón<1ce0>?<04e0>Tienes que tomar un barco para llegar hasta allí.<03e0>Los muelles están justo aquí debajo.<04e0>Lo que no sé es si dejarán subir al barco<03e0>a un plebeyo como tú...
+El duque de Ghor está congregando a su ejército<03e0>en la llanura de Luhang. Estaremos preparados<03e0>cuando el Invasor aparezca por aquí.
+Message 4
+No hay nadie con tanta autoridad e influencia<03e0>como nuestro Señor, lord Wilfred Hermeien.<04e0>No cabe duda de que es un líder nato.<03e0>Por eso lo eligieron Presidente del Consejo.<04e0>Su cargo lo convierte en la persona<03e0>más poderosa y admirada de todo el mundo...<04e0>La verdad es que es todo un honor<03e0>ser uno de sus súbditos...
+El Consejo ha tomado la decisión correcta.<03e0>Nadie puede ser tan tonto como para creer<03e0>que el Emperador está aliado con el Invasor.<04e0>Lord Hermeien tiene todo mi apoyo.
+Message 3
+Message 4
+Sí, esto son los muelles.<04e0>Lo siento, chaval. Este barco va a Fordragón,<03e0>pero no te puedo dejar subir a menos que tengas<03e0>una invitación de lord Hermeien.
+Bienvenido a los muelles.<03e0>El barco que va a Fordragón está a punto de partir.<04e0>¿Quieres que te lleve, muchacho?<06e0000008e0000000000000>Sí. ¡Gracias, señor barquero!<09e008e0010000000000>No, me mareo en los barcos.
+Muy bien... Avísame si cambias de opinión.<04e0>Pero no olvides que solamente puedo llevar<03e0>a gente que tenga permiso para subir a bordo.
+¿El Marqués? No, aún no ha vuelto.<04e0>¿Por qué no aprovechas para darte otra vuelta<03e0>por la ciudad?
+No podemos irnos hasta que regrese lord David.<04e0>Date una vuelta por ahí y disfruta del paisaje...<03e0>Y, ya que estás, mantén los oídos bien abiertos<03e0>y consigue toda la información que puedas.<04e0>Cuando hayas acabado, avísanos a Pagus y a mí<03e0>y volveremos a Flussbahn.
+Hace tres años, una persona muy importante para mí<03e0>se marchó rumbo a las tierras del sur. Desde entonces<03e0>he estado aguardando ansiosamente su regreso.<04e0>Nunca he perdido la esperanza de volverle a ver...<03e0>Seguiré esperando tanto tiempo como sea necesario.
+¡Vaya, abuela! ¿Cómo tú por aquí?
+¿«Abuela»? ¿CÓMO TE ATREVES?<03e0>¿Y quién demonios eres, si se puede saber?
+Uy... Perdona. Te he confundido con otra persona.
+¿Será posible? ¡La próxima vez, comprueba<03e0>que estás hablando con la persona correcta<03e0>antes de abrir esa bocaza!
+Lo... ¡Lo siento!
+En fin... Lo dejaré estar por esta vez.<03e0>Pero que no vuelva a repetirse, ¿me oyes?
+Llamar «abuela» a una dama como yo es una falta<03e0>de consideración. ¡Además, no soy tan mayor, caray!
+Vaya... Otra vez tú.
+Esto...
+No pareces contento de verme.
+Ejem... Yo... No, no, no es eso.<03e0>En fin, esto... Joven damisela, ¿qué te trae por aquí?
+Me entreno. En mi familia tenemos la costumbre<03e0>de viajar y recorrer el mundo para conmemorar<03e0>nuestro paso a la edad adulta.
+Caray, no debe de ser fácil...<03e0>Pues... Estooo... Cuídate, ¿de acuerdo?
+Gracias.
+Eres un chico muy amable.
+Tienes buen aspecto.
+Hola, señorita... ejem... joven damisela...
+Anda, haz el favor de no llamarme así.<03e0>Suena ridículo.
+Bueno... Pero es que no sé cómo te llamas.
+¿Lo dices en serio?
+* Tenso silencio *
+Me llamo Emmy.
+Me alegro de conocerte al fin. Yo soy...
+No hace falta que me lo digas.<03e0>Te llamas Rush Sykes, ¿verdad?
+Co... ¿Cómo lo sabes? ¿Me has leído el pensamiento?
+Tengo mis recursos... Pero no es difícil imaginar<03e0>lo que se te está pasando por la cabeza ahora mismo.
+En fin, Rush... Cuídate, ¿de acuerdo?
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+

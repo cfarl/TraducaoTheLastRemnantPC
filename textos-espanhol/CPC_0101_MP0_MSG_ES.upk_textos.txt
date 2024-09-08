@@ -1,0 +1,74 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Ésta es la avenida de Grant, la vía principal<03e0>de Celapalais.<04e0>¿Ves ese palacio al final de la calle?<03e0>Allí es donde vive nuestro líder, el duque de Qubine.<04e0>Toda esta avenida está llena de tiendas que venden<03e0>cualquier cosa que puedas desear... ¡Echa un vistazo!
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+Santo cielo... ¡Ese malvado Invasor<03e0>ha robado el Corazón Valeroso de Athlum!<03e0>En toda la ciudad no se habla de otra cosa...<04e0>Me pongo enfermo sólo de pensar que algún día<03e0>alguien nos pueda arrebatar el Umbermarici...<03e0>¿Cómo lo estará pasando la gente de Athlum?
+¡Santo cielo! ¡No sé cómo podemos dormir<03e0>con tanta mala noticia junta!<04e0>¿Cómo? ¿No te has enterado?<03e0>¡El duque de Qubine está muy enfermo!<04e0>Toda la gente que me he encontrado por la calle<03e0>dice que se está poniendo peor cada día que pasa.<04e0>Maldición... Ojalá pudiéramos hacer algo...
+[[Mensaje de nivel 6]]
+Armas, objetos, accesorios, componentes...<03e0>En esta calle se venden productos de todo tipo.<04e0>Te aconsejo que pruebes las hierbas medicinales<03e0>procedentes del sur. ¡En cuanto aspires su aroma,<03e0>quedarás enganchado a ellas de por vida!
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+¡No pensaba que el ejército del Invasor<03e0>fuese tan poderoso!<04e0>Yo estaba montando guardia en esta zona<03e0>cuando empezaron a llegar camaradas heridos<03e0>del campo de batalla. ¡Parecía el fin del mundo!<04e0>Lord Qubine ha dado la orden de reforzar el ejército,<03e0>así que los mercaderes han sacado a la venta<03e0>lo mejor de su repertorio.<04e0>Si el Invasor vuelve a asomar la cabeza por aquí,<03e0>estaremos listos para darle la paliza de su vida.
+Se rumorea que aquella luz cegadora que iluminó<03e0>el cielo venía de la reliquia de Nagapur.<03e0>Dicen que se ha vuelto loca y ha arrasado la ciudad.<04e0>También he oído que últimamente<03e0>está empeorando la salud de lord Qubine...<04e0>¿Y si Celapalais acaba siendo destruida,<03e0>igual que Nagapur? Eso no va a ocurrir, ¿verdad?
+[[Mensaje de nivel 6]]
+Ninguna otra ciudad en el mundo tiene una reliquia<03e0>tan hermosa como la nuestra. ¿No es maravillosa? <04e0>Esos cristales que flotan en el aire forman parte<03e0>del Umbermarici, la reliquia de Celapalais.<04e0>Mientras lord Qubine permanezca vinculado a ella,<03e0>estos cristales seguirán brillando y los habitantes<03e0>de esta ciudad vivirán felices y en paz.<04e0>No cabe duda de que el poder y la gloria de Celapalais<03e0>están estrechamente ligados al Umbermarici...
+[[Mensaje de nivel 2]]
+Ni un ejército como el de Ghor lo tendría fácil<03e0>para conquistar Celapalais, pero el Invasor logró<03e0>atravesar nuestras defensas como si nada.<04e0>Las huestes del Invasor deben de ser demonios<03e0>venidos del mismísimo infierno... Si no es así,<03e0>¿cómo se explica que tengan semejante fuerza?<04e0>Supongo que aquella luz surgió para poner fin<03e0>a esa terrible batalla. ¡Si no llega a ser por<03e0>el Umbermarici, no hubiéramos vivido para contarlo!
+Desde que la salud de lord Qubine empezó<03e0>a debilitarse, no me atrevo ni a mirar al cielo.<04e0>A veces... A veces me da la sensación<03e0>de que el Umbermarici emite una luz distinta<03e0>de lo habitual, más... enfermiza.<04e0>No... Mejor olvida lo que te he dicho.<03e0>Deben de ser imaginaciones mías.
+Hmmm... Cara de pánfilo, ropajes estrafalarios,<03e0>andares de pato, hombros caídos...<04e0>¡Oye, tú! No serás Rush Sykes, ¿verdad?<06e0000008e0000000000000>Sí. ¿Por qué?<09e008e0010000000000>Te equivocas, vejestorio.
+Niñato insolente...<04e0>Lord David reclama tu presencia en el <1be0ffbe34ff>castillo<1ce0>.<03e0>Dice que tiene unos asuntos que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+No te esfuerces en hacerte el tonto, chaval.<03e0>Con esa cabeza hueca que tienes, la verdad<03e0>es que no lo necesitas...<04e0>Lord David reclama tu presencia en el castillo de Athlum.<03e0>Parece que tiene un asunto urgente que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+Hmmm... Esa cara, esas ropas...<04e0>Debes de ser Rush Sykes, ¿me equivoco?<06e0000008e0000000000000>Sí, soy Rush.<09e008e0010000000000>No soy el chico que buscáis.
+¡Lo sabía! Traigo un mensaje de lord David.<04e0>Dice que ha encontrado una pista bastante jugosa<03e0>y quiere que acudas al castillo para ponerte al día.<03e0>¿Entendido?
+¡Ja, ja! Déjalo estar, chaval, eres un pésimo actor.<03e0>Lord David quiere hablar contigo, pero no temas...<03e0>No pasa nada grave, al menos que yo sepa.<04e0>Parece que ha encontrado una pista prometedora<03e0>y quiere que vayas al <1be0ffbe34ff>castillo<1ce0> para ponerte al tanto.<04e0>No le hagas esperar demasiado, ¿de acuerdo?<03e0>De lo contrario, igual acabas metido en un lío...<03e0>¡Tranquilo, que es broma!
+¡Oh! Esa gallarda figura...<03e0>Vos debéis de ser Rush Sykes, ¿verdad?<06e0000008e0000000000000>El mismo que viste y calza.<09e008e0010000000000>¿Quién lo pregunta?
+¡Bienhallado seáis! Lord David, marqués de Athlum,<03e0>desea veros en el <1be0ffbe34ff>Castillo de Athlum<1ce0> tan pronto<03e0>como tengáis un momento.
+¡Ja, ja, ja! ¡Tan bromista como siempre!<03e0>Veréis, os traigo un mensaje de lord David.<03e0>Desea veros en el <1be0ffbe34ff>castillo<1ce0> cuando os venga bien.
+¡Vaya, abuela! ¿Cómo tú por aquí?
+¿«Abuela»? ¿CÓMO TE ATREVES?<03e0>¿Y quién demonios eres, si se puede saber?
+Uy... Perdona. Te he confundido con otra persona.
+¿Será posible? ¡La próxima vez, comprueba<03e0>que estás hablando con la persona correcta<03e0>antes de abrir esa bocaza!
+Lo... ¡Lo siento!
+En fin... Lo dejaré estar por esta vez.<03e0>Pero que no vuelva a repetirse, ¿me oyes?
+Llamar «abuela» a una dama como yo es una falta<03e0>de consideración. ¡Además, no soy tan mayor, caray!
+Vaya... Otra vez tú.
+Esto...
+No pareces contento de verme.
+Ejem... Yo... No, no, no es eso.<03e0>En fin, esto... Joven damisela, ¿qué te trae por aquí?
+Me entreno. En mi familia tenemos la costumbre<03e0>de viajar y recorrer el mundo para conmemorar<03e0>nuestro paso a la edad adulta.
+Caray, no debe de ser fácil...<03e0>Pues... Estooo... Cuídate, ¿de acuerdo?
+Gracias.
+Parece que al menos tus modales han mejorado<03e0>desde la última vez que nos encontramos.
+Tienes buen aspecto.
+Hola, señorita... ejem... joven damisela...
+Anda, haz el favor de no llamarme así.<03e0>Suena ridículo.
+Bueno... Pero es que no sé cómo te llamas.
+¿Lo dices en serio?
+* Tenso silencio *
+Me llamo Emmy.
+Me alegro de conocerte al fin. Yo soy...
+No hace falta que me lo digas.<03e0>Te llamas Rush Sykes, ¿verdad?
+Co... ¿Cómo lo sabes?
+Tengo mis recursos.
+En fin, Rush... Cuídate, ¿de acuerdo?
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+¿Eh? Oh, Rush...<03e0>¿Cómo va todo?<04e0>Supongo que debería darte las gracias por tu ayuda.<03e0>Me refiero a aquel incidente de Celapalais, claro.
+Me encanta este lugar. La majestuosidad<03e0>de sus edificios, el bullicio de sus gentes...<04e0>Hace tiempo, los dominios de los Gilles-Barre<03e0>eran tan prósperos como esta ciudad.
+Esta zona me recuerda a los antiguos dominios<03e0>de los Gilles-Barre... Su gente, sus calles...
+Mientras mi padre yacía en su lecho de muerte,<03e0>la fortuna de los Gilles-Barre sufrió un terrible revés.<04e0>Cuando descubrí la magnitud del desastre,<03e0>juré devolverle la honra a nuestra familia.<04e0>Por eso odiaba a mi marido... Sé que me quería, pero...<03e0>no podía entender lo que es caer en desgracia.<03e0>No era uno de los nuestros, ¿entiendes?<04e0>Era incapaz de comprender mi rabia...<03e0>O eso creía yo. Ahora que lo pienso, tal vez<03e0>fuera yo la que era incapaz de comprenderle.
+Juré devolverle la honra a mi familia...<03e0>Pero, ahora que miro atrás, me doy cuenta<03e0>de que en realidad lo hice todo al revés.
+Últimamente tengo un sueño muy extraño.<04e0>Es sobre el día en que murió el antiguo duque<03e0>de Qubine. Me veo a mí misma volviendo al palacio,<03e0>sollozando por el camino.<04e0>El sol se está poniendo y la ciudad está bañada<03e0>por una luz rojiza. Mi madre me lleva de la mano<03e0>y mi padre me contempla con una triste sonrisa. <04e0>Ha pasado tanto tiempo... Era como estar allí.<03e0>Pero supongo que ese sueño refleja bastante bien<03e0>cómo me sentía hasta hace poco.<04e0>El duque de Qubine me arrebató todo cuanto<03e0>me importaba en el mundo: mi padre, mi madre,<03e0>mis recuerdos...<04e0>Cuando murió, sentí que por fin le había llegado<03e0>su merecido... O eso creía entonces.<04e0>Ahora que lo pienso con calma, me doy cuenta<03e0>de que se trataba de una visión muy hermosa.<03e0>No me había percatado hasta ahora...
+El camino que hoy se extiende ante mí<03e0>es tan hermoso como lo fue en el pasado.<03e0>Ahora lo veo con claridad...
+Rush...<04e0>Durante mucho tiempo pensé que, al desaparecer<03e0>el duque de Qubine, los Gilles-Barre recuperarían<03e0>sus tierras, su fortuna y, lo más importante, su honor.<04e0>Pero por fin me he dado cuenta de que eso<03e0>no es lo que verdaderamente deseo...<04e0>Lo que de verdad quiero es recuperar a mis padres<03e0>y revivir los buenos momentos que pasamos juntos.<03e0>Por eso es por lo que he luchado tanto tiempo.<04e0>Es extraño, ¿no te parece? Aunque mi familia<03e0>recobre su importancia de antaño, jamás podré<03e0>traer a mis padres de vuelta.<04e0>Lo que deseo no se puede conseguir por la fuerza...<03e0>Pero, al mismo tiempo, es algo que ya llevo conmigo<03e0>a todas partes... en mi propio corazón.<04e0>Mi deber es conservar los recuerdos que me quedan<03e0>y hacerme merecedora de ellos. Qué tonta he sido...<04e0>* Suspiro *<04e0>Rush... Gracias por escucharme.<03e0>Creo que explicarte mi historia es el primer paso<03e0>para curar mis heridas.
+Vaya... Hola, Rush.<04e0>Iba a llevar flores a la tumba de mis padres...<03e0>¿Qué tipo de flores crees que les gustarían?
+Hombre, ¿cómo tú por aquí? Gracias por tu ayuda.<04e0>Si quieres mejorar tu equipo, no dudes en avisarme.
+

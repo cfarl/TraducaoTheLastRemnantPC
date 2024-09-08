@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0330_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Te estaba esperando.
+Camarada soldado, dirígete a la sala más alejada.<03e0>Te esperaré allí.<04e0>Los elevadores ya funcionan como es debido.<03e0>Así podrás reservar tus fuerzas para el duelo.
+Por fin estás aquí, Emma Honeywell...<03e0>Comencemos.
+¿Eh? Pareces un poco joven, muchacha.<03e0>¿De verdad eres tú la matriarca del clan Honeywell?
+Soy Emma Honeywell II.<03e0>Traigo conmigo la espada de mi madre<03e0>como prueba de mi linaje.
+Umm... Mi plan era enfrentarme a un soldado de verdad,<03e0>no a una cría.
+Comprendo tu decepción, pero deberías verme luchar<03e0>antes de decidir si soy o no una oponente digna.
+Me gusta tu actitud, muchacha.<03e0>Muy bien... ¡Comencemos!
+¡AAAGH!<04e0>Eres... ¡Eres mucho más fuerte de lo que pareces!
+He luchado dignamente.<03e0>Sin embargo, aún me queda un largo camino<03e0>para ser merecedora de empuñar esta espada.
+Todavía tengo mucho que aprender.
+¿Mande?<04e0>¡Juas, juas, juas! Tan joven y tan sensata...<03e0>Tienes un brillante futuro por delante, muchacha.
+Si nos necesitas, mis amigos mercenarios y yo<03e0>estaremos en Athlum, en el barrio de Virtus.<03e0>Avísanos si podemos echarte una mano.
+Gracias, Yerva.<03e0>Será todo un honor contar con vosotros.
+

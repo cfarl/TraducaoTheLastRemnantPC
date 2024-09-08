@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0330_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Irina, debes forjar un vínculo<0fe003e00ee0>con esta reliquia. Debes liberar su poder...
+Este poder puede cambiar el mundo.<0fe003e00ee0>Incluso podría resucitar a los muertos.
+Entonces...
+Estaría bien ver de nuevo<0fe003e00ee0>a tu hermano, ¿no te parece?
+¡Irina!
+Rush, tienen un rehén.<0fe003e00ee0>Mantén la calma.
+Pero...
+Escucha... Esos tipos son peligrosos<0fe003e00ee0>y no sabemos de qué son capaces.
+¡Vaya, vaya! ¡Si es el marqués de Athlum!
+¿Sabéis quién soy? Tanto mejor.
+Vuestros actos no han pasado inadvertidos.<0fe003e00ee0>Sabemos que habéis manipulado<1ae0000002430fe005e001000ee0>tanto el Almalástica como la Schiavona.<0fe003e00ee0>Y no hablemos del secuestro...
+Vuestras acciones constituyen<0fe003e00ee0>una violación de las leyes del Consejo...<1ae00000e6420fe005e001000ee0>¡Y os castigaremos por ello!
+Somos hombres razonables, Marqués.<1ae00000aa420fe005e001000ee0>Alguien de vuestra talla ha de entender<0fe003e00ee0>que ciertas leyes son... poco prácticas.
+Pero comprendo vuestra posición.<0fe003e00ee0>Nos retiraremos si es lo que deseáis.<1ae000002f430fe005e001000ee0>No osaríamos hacer nada que os molestase.
+¿Eso es todo?
+¡No! ¡Exijo que la liberéis<0fe003e00ee0>y os entreguéis inmediatamente!
+¿Acaso os creéis invulnerable<0fe003e00ee0>sólo por ser el marqués de Athlum?
+Vuestra confianza da a entender<0fe003e00ee0>que no actuáis en solitario.<1ae00000c4420fe005e001000ee0>¿Quién es vuestro aliado?<0fe003e00ee0>¿El duque de Ghor, quizás?
+A estas alturas, deberíais estar<0fe003e00ee0>al tanto de la respuesta de la Academia...<1ae0000039430fe005e001000ee0>O más bien de la falta de ella.
+¿Acaso formáis parte de la Academia?
+Mi querido Marqués...<0fe003e00ee0>Irina es muy especial.<1ae0000011430fe005e001000ee0>Sus padres desean de todo corazón<0fe003e00ee0>que participe en nuestro experimento.
+Ella por fin lo ha comprendido.
+Simplemente... empezamos con mal pie.
+¡Mentiroso! ¡No te lo crees ni tú!
+¡Irina, sé que no quieres estar aquí!<0fe003e00ee0>¡No te preocupes! ¡Estoy contigo!<1ae0000020430fe005e001000ee0>¡Soy yo, Rush! ¡Tu hermano!
+Lástima que no compartan<0fe003e00ee0>los mismos poderes...
+Marqués, ¿seríais tan amable<0fe003e00ee0>de decirle a vuestro impetuoso amigo<1ae0000020430fe005e001000ee0>que se tranquilice un poco?<0fe003e00ee0>Sería una ayuda para nuestra investigación.
+¡Rush, detente!
+¡No! ¡Voy a salvar a mi hermana!
+Marqués, sería conveniente<0fe003e00ee0>que le paraseis los pies a vuestro amigo.<1ae0000039430fe005e001000ee0>De lo contrario,<0fe003e00ee0>temo que vuestra vida corra peligro...
+Vuestra historia es difícil de creer.<0fe003e00ee0>Nos acompañaréis a Athlum<1ae00000ea420fe005e001000ee0>para confirmarla con la Academia.
+¿No os fiais de mi palabra?<0fe003e00ee0>Muy bien.<1ae0000007430fe005e001000ee0>Entonces...<0fe003e00ee0>¡Tendré que convenceros a la fuerza!
+

@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0480_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Leshau... ¿Salir a la caza del monstruo?<03e0>¿Estás seguro de lo que dices?
+¡Sí, sí, sí!<03e0>¡Tenemos que acabar con él!<06e0000008e0000000000000>¿De qué monstruo habláis?<09e008e0010000000000>Mejor no entrometerse...
+Vaya... ¡Bienhallado seáis, viajero!<03e0>¿Qué monstruo, decís?<04e0>¡Validus! Parece que está armando una buena<03e0>en el <1be0ffbe34ff>Valle de los Dioses<1ce0>...
+Pero nunca se había comportado así antes...
+¡Pero ahora sí! He oído que han encontrado<03e0>muertos a un grupo de viajeros... O, mejor dicho,<03e0>lo que queda de ellos.
+¡Vos, forastero!<03e0>Tenéis pinta de ser un chico fuerte...<04e0>¡Venid conmigo a acabar con Validus!<03e0>Si no lo hacemos, ¿quién sabe qué será de Baaluk?<06e0000008e0000000000000>¡Me apunto!<09e008e0010000000300>¡Paso!
+¡Sabía que podía contar con vos!<03e0>¡Pongámonos en marcha!
+Ya que insistís en seguir adelante, buena suerte.<03e0>Tened cuidado ahí fuera...
+Pero... ¡Debemos salvar Baaluk!
+¡Baaluk está perdida!
+No me interesan las cacerías de monstruos...
+¿Es que no os importa lo que le pase a Baaluk?<04e0>¡Oídme, forastero! ¡Ayudadme a acabar con Validus!<06e0000008e0000000000000>¡Me apunto!<09e008e0010000000300>¡Paso!
+¡Sabía que podía contar con vos!<03e0>¡Pongámonos en marcha!
+Ya que insistís en seguir adelante, buena suerte.<03e0>Tened cuidado ahí fuera...
+Pero... ¡Debemos salvar Baaluk!
+¿Ves? Ni siquiera este luchador de aspecto tan temible<03e0>está dispuesto a acompañarte.
+¡Seguro que simplemente lo pillé en mal momento!<04e0>¡Oh, forastero! Ahora sí que vendréis conmigo<03e0>a acabar con Validus, ¿verdad?<06e0000008e0000000000000>¡Me apunto!<09e008e0010000000300>¡Paso!
+Estupendo... ¡Pongámonos en marcha!
+Si insistís en partir, no os lo puedo impedir...<03e0>Tened cuidado ahí fuera.
+Pero... ¡Debemos salvar Baaluk!
+

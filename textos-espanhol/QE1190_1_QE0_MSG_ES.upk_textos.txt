@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1190_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hay que ver...<04e0>¿Cómo es posible que este sitio esté tan a tomar viento<03e0>de absolutamente TODO? ¿Sabes cuánto tardé en llegar<03e0>hasta aquí desde Royotia? ¡Una eternidad!
+Y además, la gente de este lugar no tiene originalidad...<03e0>¡Con lo que me costó perfeccionar mi look de hechicera,<03e0>y resulta que aquí todo el mundo va vestido igual que yo!
+Yo quiero vivir sin trabajar... ¿Me echas una mano?<03e0>Deberías comprarme esta vara mágica «Khrynia»...<03e0>¡Seguro que no has visto una vara igual en tu vida!<06e01900>sEVENT_PRICE_QE1190_P_000<08e0000000000000>¡Venga aquí esa vara!<09e008e0010000000300>Anda, no me des la vara...
+¡Gracias!
+¡Adiós muy buenas, Melphina!
+Bah... ¡Tú te lo pierdes!
+La «K» de Khrynia viene de «Kalidad», ¿sabes?
+¿Será posible? ¿En serio no te llega el dinero?<03e0>¡Vivir sin trabajar no es gratis, chaval!
+

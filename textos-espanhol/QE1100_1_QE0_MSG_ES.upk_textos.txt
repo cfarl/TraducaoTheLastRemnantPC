@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1100_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hombre, al fin volvemos a encontrarnos.<03e0>¿Te acuerdas de mí?
+¿Quieres escuchar mi historia?<06e0000008e0000000000000>¡Me encantan las historias!<09e008e0010000000300>No tengo tiempo.
+Muchas gracias.
+Supongo que tienes mucho que hacer...<04e0>Por favor, vuelve por aquí cuando tengas tiempo.
+Me gustaría pedirte un último favor.<06e0000008e0000000000000>¡Lo que sea!<09e008e0010000000300>No tengo tiempo.
+Muchas gracias.
+Supongo que tienes mucho que hacer...<04e0>Por favor, vuelve por aquí cuando tengas tiempo.
+A lo largo de tus aventuras, has conocido<03e0>a mucha gente que te ha ayudado a madurar.<04e0>Y a cambio, tú les has dado algo muy valioso,<03e0>algo que atesorarán por siempre jamás.<04e0>Las palabras se quedan cortas para expresar<03e0>lo que les has ofrecido.
+...
+Permíteme que intente explicarme...<04e0>Tal vez los cielos se tornen grises, los océanos<03e0>se evaporen o desaparezca la tierra que hollamos<03e0>con nuestras pisadas.<04e0>Pero ni el más libre de los pájaros, el más ágil<03e0>de los peces o el más sabio de los hombres...<04e0>Nada ni nadie en el mundo podrá superar el regalo<03e0>que le has hecho a esa gente. Se trata de algo<03e0>que sólo tú podías darles, Rush.
+La huella que dejarán tus actos trascenderá<03e0>el paso del tiempo... Y determinará el destino<03e0>que te aguarda al final del camino.
+Ahora debo marcharme de vuelta a mi hogar...<03e0>Y a mi época.
+

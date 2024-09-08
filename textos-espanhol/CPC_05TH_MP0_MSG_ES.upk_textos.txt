@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05TH_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya... Eres Rush Sykes, ¿verdad?<03e0>Me han contado muchas cosas sobre ti.<04e0>Aprovecha tu visita a Celapalais para equiparte<03e0>como gustes para las batallas que te esperan.
+La pérdida de la general Honeywell<03e0>y del Corazón Valeroso ha sido un duro golpe...<03e0>Aceptad mis más sinceras condolencias...<04e0>Pero si no hubieseis acudido al Nido de las Águilas,<03e0>Celapalais hubiera estado en serios apuros.<03e0>Os agradezco vuestra ayuda de todo corazón.
+Últimamente no me encuentro bien...<04e0>Supongo que toda esta debacle de Nagapur<03e0>ha resultado más agotadora de lo que creía...<03e0>Pero en fin, no hay de qué preocuparse.
+Aaah... Cómo odio verme en este estado...<03e0>No le digáis nada de esto al duque de Ghor, ¿vale?<04e0>Como se entere, ese carcamal me lo echará en cara<03e0>durante el resto de mi vida...
+Así que lord Hermeien era el responsable de que<03e0>se descontrolasen los poderes de las reliquias...<03e004e0>Nunca lo hubiera sospechado... Supongo que<03e0>aún tengo mucho que aprender. El duque de Ghor<03e0>va a recordarme este descuido el resto de mi vida.
+El futuro de Athlum está en vuestras manos...<04e0>Recordad que el Emperador Celestial no es<03e0>un hombre al que se pueda tomar a la ligera.<03e0>No bajéis la guardia en su presencia.
+Dos caminos se abren ante vosotros...<03e0>El primero os permitirá crear un nuevo mundo.<04e0>El segundo os convertirá en traidores al trono imperial<03e0>y hará que los seguidores del Emperador os persigan<03e0>hasta acabar con vosotros. ¿Cuál de los dos escogéis?
+¡Cuidado con lo que dices, muchacho!<03e0>¡Te encuentras ante lord Qubine!
+Es terrible verlo sufrir tanto...<03e0>Pobre lord Qubine... ¡Es tan valiente!
+Es terrible verlo sufrir tanto...<03e0>Pobre lord Qubine... ¡Es tan valiente!<04e0>¿Es que nadie conoce a algún curandero<03e0>que pueda ayudarnos?
+El Duque todavía no está restablecido...<03e0>¡Decid lo que tengáis que decir y marchaos!
+Aunque Athlum haya conseguido la independencia,<03e0>eso no os da derecho a acudir al Duque para rogarle<03e0>que os haga más favores...<04e0>¿No queríais independencia? ¡Pues arregláoslas solos!
+Si alguien descubre que estáis aquí con el Duque,<03e0>es posible que acusen a Su Alteza de formar parte<03e0>de vuestra conspiración...<04e0>¡Si ya habéis dicho lo que teníais que decir,<03e0>haced el favor de marcharos de una vez!
+

@@ -1,0 +1,29 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0470_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Oh...<03e0>Ese resplandor...<03e0>¿Podrías mostrármelo?
+Sin duda alguna, se trata de uno de los fragmentos<03e0>carmesíes. Puedo sentir el poder que desprende.
+Takshend, el escudo de fuego...<04e0>Este escudo alado se forjó con plegarias para proteger<03e0>de todo mal a su portador. Es capaz de amortiguar<03e0>incluso los golpes más demoledores.
+Vespe, la espada de fuego...<04e0>Su acero brotó de las garras de un ser desgarrado<03e0>por la ira y el desconsuelo. Su filo hiere con la fuerza<03e0>de esas mismas emociones...
+Manrynell, el brazalete de fuego...<04e0>Sólo las llamas pueden controlar otras llamas.<03e0>Este brazalete nació de un alma orgullosa,<03e0>tan pura como la luz escarlata del fuego.
+Por fin has conseguido la espada, el escudo<03e0>y el brazalete...
+Te lo agradezco de corazón.
+Si tienes a bien escucharme, te contaré la historia<03e0>de Royotia y de sus orígenes.<04e0>Soy el único ser vivo que queda como testigo<03e0>de esta historia. Hace mucho tiempo, donde hoy<03e0>se levanta Royotia, vivían dos aves gemelas.<04e0>Una recibía el nombre de Vespalia; la otra, Pivasalia.<04e0>Estas aves gemelas eran tan antiguas como el mundo,<03e0>y ambas habían luchado entre sí durante tanto tiempo<03e0>que nadie recordaba cómo había empezado todo.
+Tras una eternidad, parecía que el conflicto iba<03e0>a llegar a su fin. Vespalia estaba a punto de acabar<03e0>con la vida de Pivasalia...<04e0>Pero, por azares del destino, Pivasalia fue salvada<03e0>por un joven viajero que pasaba por allí.
+En deuda con el joven, Pivasalia le concedió<03e0>cuantos deseos le expresó.<04e0>Necesitaba un arma y le dio sus garras; para protegerlo<03e0>ante al fuego, le cedió sus alas; para dominar las llamas,<03e0>le otorgó su alma.<04e0>Como recompensa por haberle salvado la vida,<03e0>Pivasalia le permitió superar cuantos obstáculos<03e0>se cruzaron en su camino.
+Así pues, el joven se convirtió en el primer gobernante<03e0>de aquella tierra, que llamó Royotia.<04e0>Por aquel entonces, Pivasalia había otorgado al joven<03e0>todo cuanto era y poseía... Y tuvo que enfrentarse<03e0>de nuevo a Vespalia sin ningún recurso para defenderse.<04e0>Cuando la victoria de Vespalia parecía garantizada,<03e0>el hombre apareció con la espada hecha de garras,<03e0>el escudo alado y el brazalete que encerraba su alma.<04e0>Pivasalia recuperó su poder y, en ese mismo instante,<03e0>las fauces de Vespalia partieron al hombre en dos.
+Al presenciar esto, Pivasalia sintió un desconsuelo<03e0>sólo igualado por su ira. La fuerza de sus emociones<03e0>logró encerrar a Vespalia en una cárcel de llamas.<04e0>Sin embargo, el encierro no fue permanente.<03e0>No existía poder capaz de encerrar a Vespalia<03e0>por completo y para siempre.<04e0>Pivasalia sabía que Vespalia escaparía tarde o temprano,<03e0>así que se dirigió hacia el cuerpo inerte de aquel joven<03e0>y ante él juró proteger la ciudad que había fundado.<04e0>Para impedir que algo así volviera a suceder,<03e0>se arrancó las plumas, se cortó las garras<03e0>y lo convirtió todo en piedras de color carmesí.
+Una vez concluida esta acción, el alma del ave<03e0>voló a las profundidades del reino de aquel hombre<03e0>para custodiar desde allí la prisión de Vespalia.
+Y aquí acaba la historia. Ya sé que parece<03e0>un cuento como otro cualquiera, pero me alegra<03e0>haber podido contársela a alguien.<04e0>Gracias por escucharme, Rush.
+Entonces, ¿vas a enfrentarte a Vespalia?<04e0>Si fracasas, será el fin de todo el pueblo de Royotia<03e0>y entonces ya no habrá vuelta atrás...
+Aun así...<03e0>Sabiendo esto, ¿estás dispuesto a luchar?<06e0000008e0000000000000>¡Sin duda alguna!<09e008e0010000000300>Ahora mismo no.
+Entendido. Si esa es tu elección,<03e0>permaneceré a tu lado.
+¡Adelante, pues!
+Lo comprendo... Eres cauteloso, y eso es de sabios.<03e0>De todas formas, nos estamos quedando sin tiempo.<03e0>¡Vuelve en cuanto puedas, por favor!
+Gracias por todo lo que has hecho. Ya puedo descansar<03e0>sabiendo que no desaparecerá la ciudad que aquel joven<03e0>creó con tanto esfuerzo.<04e0>Mi tarea aquí también ha concluido.<03e0>Como recompensa por tu ayuda, acepta esto, por favor.
+Gracias. Has salvado a Royotia.
+Y a mí también...
+Sólo tú puedes impedir la destrucción de Royotia.<04e0>¿Estás listo para enfrentarte a Vespalia?<06e0000008e0000000000000>Más listo que nunca...<09e008e0010000000300>Debo volver a Royotia.<09e008e0020000000300>Aún tengo cosas que hacer...
+Entiendo.<03e0>Cuando estés preparado, ven a verme.
+Avísame cuando estés preparado.
+

@@ -1,0 +1,54 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0090_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Neo, ¿hay alguna noticia del destacamento<03e0>que mandamos a la <1be0ffbe34ff>meseta de Malbourge<1ce0>?
+Nuestra avanzadilla está enzarzada<03e0>en un combate sin cuartel...<04e0>¡No esperábamos que surgiese tal cantidad<03e0>de monstruos de los pantanos de Marismarchita!
+¡Las fuerzas enemigas están avanzando<03e0>hacia Melphina!
+Nuestras tropas de vanguardia no tardarán en caer.<03e0>Deberíamos prepararnos para unirnos al combate<03e0>ahora que todavía podemos.
+Así es. Debemos acudir a la <1be0ffbe34ff>meseta de Malbourge<1ce003e0>a toda prisa. No entiendo de dónde han salido....<03e0>¡Si hace nada que restauramos la barrera!
+Alguien debe de haber superado las defensas<03e0>de la reliquia para desactivarla... Sea quien sea,<03e0>supongo que pretende destruir la barrera.
+Maestra Olebeag, Sir Robert, permitid que os acompañe.<03e0>Si la reliquia está fuera de control, es preciso reparar<03e0>la barrera lo antes posible.
+Robert, Marsha, caballeros de la Orden...<03e0>Adelante, y que los cielos os asistan.
+¡Voto a tal, maestro Sykes!<03e0>¡Hace nada que arreglamos la barrera<03e0>y los monstruos ya han vuelto a las andadas!
+Están mucho mejor organizados que antes.<03e0>Han formado un ejército de un tamaño nunca visto<03e0>y nos han informado de que se dirigen a Melphina.
+Me disponía a conducir a la Orden hacia la <1be0ffbe34ff>meseta<03e0>de Malbourge<1ce0> para detener a los monstruos.<04e0>Aunque nos cueste la vida, hemos de impedir<03e0>que esos seres infernales arrasen Melphina.
+Maestro Sykes, siento tener que recurrir a vos<03e0>una vez más, pero concededme un último favor...<03e0>¿Podríais ayudarme a defender Melphina?<06e0000008e0000000000000>¡Claro que sí!<09e008e0010000000000>Esto... Me lo pensaré.
+Maestro Sykes... Os prometo por lo más sagrado<03e0>que algún día saldaré mi deuda con vos.<04e0>Por favor, id corriendo a prepararos. ¡En marcha!<06e0000008e0000000000000>Estoy listo. ¡Adelante!<09e008e0010000000300>Vale, dame un minuto.
+Maestro Sykes, es hora de partir.<03e006e0000008e0000000000000>Sí... ¡Vamos allá!<09e008e0010000000300>Aún no estoy listo...
+¡Dirijámonos raudos a la <1be0ffbe34ff>meseta de Malbourge<1ce0>,<03e0>mis valientes caballeros de la Orden de Melphina!
+Comprendo... Es necesario acudir bien preparado<03e0>a una batalla de tal importancia... Avisadnos<03e0>cuando estéis listo y nos pondremos en marcha.
+Tranquilo, no os sintáis obligado a aceptar.<03e0>Sé que es una gran osadía por mi parte<03e0>haceros semejante petición.<04e0>Pese a todo, si algún día os decidís a ayudarnos,<03e0>os agradecería que me lo hicierais saber.
+Maestro Sykes... Gracias a vuestra ayuda,<03e0>nuestro reino ha escapado de la catástrofe<03e0>no una ni dos, sino tres veces...<04e0>Os juro que, mientras viva, jamás olvidaremos<03e0>lo que habéis hecho por nosotros.
+Así es. Sin embargo, cuando Marsha encerró<03e0>a los monstruos con sus oraciones, las miradas<03e0>de esos canallas se llenaron de pavor.<04e0>Estoy seguro de que esos bellacos no volverán<03e0>a poner nuestra patria en peligro.
+Ophelia... Ensañarnos con quienes han aceptado<03e0>su derrota y emprendido la huida causaría<03e0>más mal que bien al honor de nuestra Orden.
+Ophelia, sólo el orgullo que sentís por la Orden<03e0>rivaliza con el mío... y vuestro sentido de la justicia<03e0>es el motivo por el que os otorgué vuestro puesto.
+Vuestra habilidad con la espada es indiscutible,<03e0>pero debéis escuchar a vuestro corazón.<04e0>Un caballero debe pensar en los demás antes<03e0>que en sí mismo y ser siempre misericordioso.
+Disculpadme, maestro Sykes. Esta discusión<03e0>se ha alargado más de lo que esperaba,<03e0>pero quisiera saldar mi deuda con vos.
+Si alguna vez os veis en apuros durante<03e0>vuestro periplo, no dudéis en avisarme.<04e0>Sea cual sea el problema, podéis contar<03e0>con mi acero y mi consejo.
+¡Oh, es verdad!<04e0>Maestro Sykes, aceptad esto como símbolo<03e0>de nuestro agradecimiento...
+Maestro Sykes...
+¡Comandante! ¿Es cierto que los responsables<03e0>de este asunto han escapado con vida?
+¡Comandante, sois demasiado blando!<04e0>¿Habéis olvidado cuántas pérdidas hemos sufrido<03e0>por culpa de esos criminales?<04e0>Semejantes delitos no pueden quedar impunes.<03e0>¡Por el honor de la Orden, debemos encontrar<03e0>a los culpables y hacerles pagar por sus crímenes!
+Semejantes delitos no pueden quedar impunes.<03e0>¡Por el honor de la Orden, debemos encontrar<03e0>a los culpables y hacerles pagar por sus crímenes!
+Mi Comandante...
+¿Veis? ¡Incluso Rush está de acuerdo!<04e0>¡No puedo permitir que escapen los bellacos<03e0>que atacaron a mi patria y mis compañeros!<03e0>¡Pagarán por sus crímenes contra la Orden!
+¡Jamás perdonaré a los canallas que traten<03e0>de traicionar a las gentes de Melphina!
+(Rayos. Otra vez me toca tomar partido...)<03e0>Bueno, un caballero sin misericordia...<06e0000008e0000000000000>... no es digno de ese nombre.<09e008e0010000000000>... no es menos eficaz.
+Así que vas a acompañar a Robert, ¿no?<03e0>La verdad es que eres un joven muy valiente.<04e0>Me recuerdas a mí cuando era una chiquilla...
+Joven Sykes... Voy a contarte un relato<03e0>que ha pasado de generación en generación<03e0>entre los gobernantes de estas tierras.<04e0>Verás... Antiguamente, antes de que existiese<03e0>el reino de Melphina, vivió en estas tierras<03e0>una hermosa sacerdotisa de misteriosos poderes.<04e0>Al ver su belleza, el Emperador celestial la quiso<03e0>para sí. Sin embargo, ella ya le había entregado<03e0>su corazón a un caballero.<04e0>Al verse rechazado, el Emperador montó en cólera<03e0>y arrojó una maldición sobre Marismarchita.
+A partir de entonces, comenzaron a aparecer<03e0>todo tipo de criaturas diabólicas en los alrededores.<03e0>La región se convirtió en un lugar prohibido.<04e0>Durante tres días y tres noches, la sacerdotisa<03e0>rezó sin descanso para que Marismarchita<03e0>recobrara la tranquilidad de antaño.
+Durante todo este tiempo, su amado caballero<03e0>permaneció junto a la sacerdotisa para protegerla<03e0>de cualquier monstruo que osase acercarse.<04e0>Cuando ambos estaban al límite de sus fuerzas,<03e0>surgió de la nada una luz cegadora que envolvió<03e0>a los demonios...<04e0>Una reliquia con el poder de contener el mal<03e0>acababa de despertar.<04e0>Las súplicas de los dos amantes habían logrado<03e0>trascender el tiempo y el espacio hasta alcanzar<03e0>a la reliquia.
+Los acontecimientos que hemos presenciado<03e0>me han recordado esa leyenda.<04e0>Joven Sykes, eres el héroe de nuestra patria.
+Robert, será mejor que hablemos de este asunto<03e0>en otro momento. Por el momento, tenemos que<03e0>agradecer su ayuda al joven Sykes.
+Joven Sykes, te has convertido en un héroe<03e0>para nuestra gente.
+Gracias, maestra Olebeag. Al fin y al cabo,<03e0>si la reliquia queda fuera de control, alguien<03e0>tendrá que restaurar la barrera.
+Todos han vuelto sanos y salvos...<03e0>Alabado sea el cielo.
+Marsha tiene razón. Parece que alguien<03e0>está tratando de romper la barrera.<04e0>Me pregunto si el culpable tendrá algo que ver<03e0>con los hombres que nos raptaron.
+Vuestro sentido del honor es impresionante...<03e0>¡Qué gesto tan conmovedor!
+¿Cómo es que la barrera se ha roto así, sin más?<03e0>Nunca había pasado nada parecido...
+Eh, Rush, ¿también venís con nosotros?<03e0>¡Genial! ¡Estoy deseando ponerme en marcha!
+Ahora mismo se dirigen hacia Melphina.<03e0>Como no ataquemos rápidamente...
+Habéis hecho tanto por nosotros...<03e0>Nunca lo olvidaremos.
+Neo, maestra Marsha, caballeros de la Orden...<03e0>¡Por favor, regresad sanos y salvos!
+¡Habéis traído a Neo de vuelta sano y salvo!<03e0>¡Os lo agradezco de corazón!
+

@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1050_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Conoces Balterossa, ¿verdad? Es una ciudad mercante<03e0>situada en pleno Océano de Arena.<04e0>Es el principal lugar de paso para los comerciantes<03e0>procedentes de Royotia, la ciudad minera.<03e0>Casi todas las mercancías de Royotia pasan por allí.<04e0>Desde Balterossa llegan a Elysion y, acto seguido,<03e0>se transportan al resto del continente.<04e0>Sobra decir que, para cuando llegan a Athlum,<03e0>los productos de Royotia han subido de precio<03e0>considerablemente.
+Por eso estamos negociando con Balterossa<03e0>para crear una ruta directa hacia Athlum.<03e0>Hasta hemos contratado a un tipo para trazarla.<04e0>Pero el cartógrafo nos lo está poniendo difícil.<03e0>Supongo que habrás oído hablar de los jhanas...<03e0>Son un incordio pero no son para tanto, ¿no?<04e0>Bueno, pues para él sí. Dice que no piensa<03e0>ni asomarse por allí sin un guardaespaldas.<03e0>Si te interesa sacarte un dinerillo...<06e0000008e0000000000000>Suena bien. Cuenta conmigo.<09e008e0010000000300>Lo siento, paso.
+Muy bien. Dirígete a las <1be0ffbe34ff>cavernas de Gaslin<1ce0> y toma<03e0>el primer desvío a la derecha, nada más entrar.<03e0>Ésa es la ruta que lleva al Océano de Arena.<04e0>Lo único que tienes que hacer es asegurarte<03e0>de que los jhanas no le hagan nada al cartógrafo.<03e0>¿Entendido?
+¡Vale, pasa del tema! ¡Seguro que luego eres el primero<03e0>en aprovecharte de la bajada de los precios una vez<03e0>que la ruta esté en marcha!<04e0>Hay que fastidiarse. Esta juventud...
+Dichosos los ojos. ¿Piensas ayudarnos a trazar<03e0>la nueva ruta comercial?<06e0000008e0000000000000>Sí, os echaré una mano.<09e008e0010000000300>Lo siento, no me interesa.
+Bien, parece que el cartógrafo ha llegado<03e0>a Balterossa sano y salvo.<04e0>Por fin podremos hacer realidad nuestro sueño<03e0>de comerciar directamente con Balterossa...<03e0>¡Muchas gracias por tu ayuda!
+Oye... Me parece que te has olvidado de un pequeño<03e0>detalle, ¿no? ¿No ibas a ir a las <1be0ffbe34ff>cavernas de Gaslin<1ce0>?<03e0>Porque yo no pensaba hacerlo.<06e0000008e0000000000000>Sí, sí, ya voy...<09e008e0010000000300>Estoy... con los preparativos.
+Eso espero. Entra a las cavernas y sigue<03e0>el primer sendero de la derecha.<04e0>Sólo tienes que proteger al cartógrafo<03e0>de los jhanas, ¿de acuerdo?
+Bueno, pues date prisa, ¿eh? ¡Es muy importante<03e0>que acabemos este estudio lo antes posible!
+

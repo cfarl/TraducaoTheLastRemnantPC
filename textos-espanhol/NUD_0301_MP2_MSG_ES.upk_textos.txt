@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NUD_0301_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Mover personaje [Hacia adelante]: Subir<03e0>Mover personaje [Hacia atrás]: Bajar<03e0>Cancelar: Soltar palanca
+Mover personaje [Hacia adelante]: Subir<03e0>Mover personaje [Hacia atrás]: Bajar
+Los monstruos bloquean el acceso a los mandos.
+

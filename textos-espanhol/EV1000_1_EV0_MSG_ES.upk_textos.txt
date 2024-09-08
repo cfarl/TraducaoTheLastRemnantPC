@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1000_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Durante los seis meses que siguieron,<0fe003e00ee0>el duque de Ghor asumió la presidencia del Consejo<1ae0000048430fe005e001000ee0>e hizo correr la voz de que Hermeien<0fe003e00ee0>había muerto en la batalla.
+Según la versión oficial,<0fe003e00ee0>tras acabar con Hermeien,<1ae00000ea420fe005e001000ee0>el Invasor y sus tropas<0fe003e00ee0>fueron vencidos en combate.<1ae00000be420fe005e001000ee0>Con la derrota del ejército enemigo,<0fe003e00ee0>la guerra tocó a su fin.
+Sin embargo, el conflicto dejó heridas<0fe003e00ee0>más profundas de lo que creíamos...
+Brotes de violencia asolaron el mundo.<1ae000008c420fe005e001000ee0>Tras intentar aplacarlos sin éxito,<0fe003e00ee0>los Lores elaboraron un plan maestro...
+Usar el poder de las reliquias<0fe003e00ee0>para poner fin a los disturbios.<1ae00000c8420fe005e001000ee0>Así pues, las protectoras del pueblo<0fe003e00ee0>se tornaron en herramientas de represión.
+Pero el duque de Ghor<0fe003e00ee0>se negó a aceptar este plan. <1ae000000c430fe005e001000ee0>La gente había depositado<0fe003e00ee0>su confianza en el Consejo,<1ae00000f0420fe005e001000ee0>y su deber era hacerse<0fe003e00ee0>merecedor de dicha confianza.
+Gracias a los esfuerzos del Presidente,<0fe003e00ee0>las cosas comenzaron a cambiar.<1ae0000016430fe005e001000ee0>El Duque tomó la decisión de ordenar<0fe003e00ee0>la búsqueda de nuevas reliquias<1ae00000f0420fe005e001000ee0>para que el pueblo pudiese<0fe003e00ee0>depositar sus esperanzas en ellas.
+Cuando el Consejo transmitió<0fe003e00ee0>sus intenciones a sus súbditos,<1ae00000e6420fe005e001000ee0>el pueblo se sintió conmovido<0fe003e00ee0>y los ánimos se apaciguaron.
+Era el comienzo de una nueva era,<0fe003e00ee0>lejos de los horrores de la guerra.<1ae0000028430fe005e001000ee0>O, al menos, eso creíamos...
+

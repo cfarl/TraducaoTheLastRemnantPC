@@ -1,0 +1,21 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0050_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Rush! ¡Cuánto tiempo!<03e0>Tengo que pedirte otro favor.
+Al este de Balterossa, en las profundidades<03e0>del Océano de Arena, vive un anciano vidente.<04e0>Charlotte y yo te agradeceríamos sobremanera<03e0>que nos escoltases hasta su morada.<06e0000008e0000000000000>¡Yo me encargo!<09e008e0010000000300>Estoy un poco liado...
+Siento involucrarte otra vez en nuestros problemas,<03e0>pero te agradezco enormemente tu ayuda.<04e0>Nuestros padres no aceptan nuestro amor.<03e0>Aunque han intentado mantenernos separados,<03e0>hemos seguido viéndonos en secreto.<04e0>Pero ya estamos hartos de tantas intrigas<03e0>y de pasarnos la vida ocultando nuestro amor...<03e0>¡No tenemos por qué avergonzarnos de lo que sentimos!
+Hemos decidido fugarnos.<04e0>El vidente ha prometido escondernos por un tiempo,<03e0>y después huiremos a un lugar lejano donde podamos<03e0>comenzar una nueva vida juntos.
+Partamos al <1be0ffbe34ff>pasaje de Subterra<1ce0>, Rush.<03e0>Eres la única persona en quien puedo confiar...<03e0>Aprecio mucho este gesto, de verdad.
+Entendido.<03e0>Vuelve cuando acabes con lo que estés haciendo.<03e0>Te estaré esperando.
+¿Es posible que todo lo ocurrido haya sido sólo<03e0>el resultado de las maquinaciones del vidente?<03e0>No sé... Ya no me queda nada en lo que creer.<04e0>Al menos, gracias a ti, Rush, Charlotte está a salvo.<03e0>Parece que mi corazón es lo único que ha salido<03e0>malparado de este trance.
+Pero perdona mis divagaciones...<03e0>Aquí tienes una pequeña muestra de mi gratitud.
+Dicen que, con el tiempo, los corazones rotos<03e0>se habitúan al dolor... Lo único que puedo hacer<03e0>es esperar.
+En las profundidades del Océano de Arena vive<03e0>un anciano vidente. Me gustaría que nos llevaras<03e0>a Charlotte y a mí ante él.<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>Estoy un poco liado...
+No me gusta involucrarte de nuevo en nuestros<03e0>problemas personales, pero te estoy muy agradecido.<04e0>Nuestros padres no aceptan nuestro amor.<03e0>Han intentado mantenernos separados,<03e0>aunque hemos seguido viéndonos en secreto.<04e0>Pero ya estamos hartos de tantas intrigas<03e0>y de ocultar nuestro amor. ¡No tenemos por qué<03e0>avergonzarnos de lo que sentimos!
+Hemos decidido fugarnos.<04e0>El vidente nos esconderá durante un tiempo.<03e0>Más adelante, huiremos a algún lugar lejano<03e0>donde podamos estar juntos.
+Partamos al <1be0ffbe34ff>pasaje de Subterra<1ce0>, Rush.<03e0>Eres la única persona en quien puedo confiar...<03e0>Aprecio mucho este gesto, de verdad.
+Entendido.<03e0>Vuelve cuando acabes con lo que estés haciendo.<03e0>Te estaré esperando.
+Charlotte... ¡El vidente la ha secuestrado!<03e0>Y pensar que confiábamos ciegamente en él...<03e0>Por favor, ¡debemos ir a rescatarla!<06e0000008e0000000000000>¡Por supuesto! ¡Vamos!<09e008e0010000000300>Lo sé, pero sigo liado...
+Te lo agradezco de veras.
+¡Eres la única persona en la que puedo confiar, Rush!
+

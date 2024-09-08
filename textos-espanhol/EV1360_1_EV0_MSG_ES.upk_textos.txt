@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1360_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Señor David...
+¿Ya te has levantado? ¿Cómo estás?
+¡Muy bien! ¡Estoy perfectamente!<0fe003e00ee0>Espero no haberos preocupado mucho.
+Nos basta con saber que estás bien.
+Señor David...<0fe003e00ee0>Felicidades por la independencia de Athlum.
+Gracias, pero ya sabes que<0fe003e00ee0>parte del mérito te corresponde a ti.
+Te estoy verdaderamente agradecido.
+¿En serio? ¿Yo? Si... ¡Si no hice nada!
+Sólo hice lo que hubiera hecho<0fe003e00ee0>cualquiera en mi lugar... Yo...
+Esto... ¡Debería ir a prepararme!
+
+-- ----------------------------------------------------------------------------------
+-- (Export 1) EV1360_1_MSG
+-- ----------------------------------------------------------------------------------
+Mr. David.
+You're up.How do you feel?
+I'm great! I'm totally fine!I hope I didn't worry everyone too much...
+We're just glad you're alright.
+Mr. David.Congratulations on Athlum's independence.
+Thank you.
+You know, you are one of the reasonsthis was even possible.
+R-really? Me?
+I-I didn't do anything!
+I just did what anyone else would've done...
+I just...
+U-um...I-I should go get ready!
+

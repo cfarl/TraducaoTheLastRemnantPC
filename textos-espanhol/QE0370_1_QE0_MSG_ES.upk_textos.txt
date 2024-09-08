@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0370_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La tablilla de Marshall está reaccionando<03e0>con el Almalástica. ¿Quieres usar la tablilla?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>No, me gusta el paisaje.
+

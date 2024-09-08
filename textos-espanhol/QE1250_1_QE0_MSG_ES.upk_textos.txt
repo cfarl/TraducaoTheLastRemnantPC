@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1250_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey...
+Esta carta...<03e0>Tiene que llegar a la <1be0ffbe34ff>taberna de Balterossa<1ce0>...<03e0>¿Crees que podrías...?<06e0000008e0000000000000>¿... llevarla por ti? Claro.<09e008e0010000000300>Quita, tío. Das grima.
+Para ir a <1be0ffbe34ff>Balterossa<1ce0>, sigue la <1be0ffbe34ff>Senda del Suroeste<1ce0>.<04e0>El destinatario te recompensará, supongo...<03e0>No tienes que venir a decirme nada después.<03e0>Total... A nadie le importa lo que pienso...<04e0>Gracias.
+Ay... Bueno, pues nada...
+

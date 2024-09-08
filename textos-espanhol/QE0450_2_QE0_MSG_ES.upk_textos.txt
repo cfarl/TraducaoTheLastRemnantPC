@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0450_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Balterossa está buscando hombres de armas<03e0>para apoyar a su ejército en combate. Por favor,<03e0>solamente guerreros experimentados.<04e0>Si estáis seguros de vuestras habilidades, acudid al<03e01be0ffbe34ff>Castillo de Balterossa<1ce0> y hablad con el jefe de personal.<03e0>Él os dirá todo cuanto necesitáis saber.
+

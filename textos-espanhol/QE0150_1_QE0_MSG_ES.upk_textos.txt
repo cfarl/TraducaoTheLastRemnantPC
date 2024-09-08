@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0150_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Chico, ¿has oído hablar de la arcamagia?<03e0>Es un arte ancestral que ha caído en desuso.
+Hay quien dice que el primer Emperador celestial<03e0>era un maestro de la arcamagia... Así que monté<03e0>una expedición para buscar pruebas en unas ruinas.<04e0>Sin embargo, cuando estaba a punto de averiguar<03e0>la verdad, los soldados que había contratado<03e0>como escolta fueron brutalmente asesinados.<04e0>Yo conseguí escapar sano y salvo, pero mientras huía<03e0>vi a un monstruo repulsivo.<04e0>¿Crees que podrías investigar la zona por mí?<03e0>Sé que se trata de una tarea peligrosa, pero<03e0>necesito saber qué se esconde allí fuera.<06e0000008e0000000000000>¡Me va el peligro!<09e008e0010000000300>Le tengo cariño a mi pellejo.
+Gracias, muchacho. El lugar al que me refiero<03e0>es la <1be0ffbe34ff>primera galería de Siebenpur<1ce0>...<03e0>¡Buena suerte!
+Sabía que era demasiado pedir... No te preocupes,<03e0>no le diré a nadie que eres un poco gallina.
+¿Serías tan amable de investigar las ruinas por mí?<03e0>Ten en cuenta que será una tarea peligrosa.<03e0>Hay un monstruo repulsivo que vaga por allí...<03e006e0000008e0000000000000>¡Me va el peligro!<09e008e0010000000300>Le tengo cariño a mi pellejo.
+Gracias, muchacho. El lugar al que me refiero<03e0>es la <1be0ffbe34ff>primera galería de Siebenpur<1ce0>...<03e0>¡Buena suerte!
+Sabía que era demasiado pedir...<03e0>En fin, supongo que es la decisión más prudente.
+¿Eres lo bastante valiente como para ayudarme<03e0>a investigar las ruinas de las que te hablé?<06e0000008e0000000000000>¡Me va el peligro!<09e008e0010000000300>Le tengo cariño a mi pellejo.
+Gracias, muchacho. El lugar al que me refiero<03e0>es la <1be0ffbe34ff>primera galería de Siebenpur<1ce0>...<03e0>¡Buena suerte!
+Sabía que era demasiado pedir...<03e0>En fin, supongo que es la decisión más prudente.
+¿El pozo de las tinieblas?<04e0>¿Acaso la arcamagia es el poder bruto de la tierra?<03e0>Si es así, un hechizo capaz de canalizar esa energía<03e0>sería más peligroso de lo que podemos imaginar...
+Me alegro de que hayas vuelto sano y salvo.<03e0>Aquí tienes la recompensa que te prometí.
+Ahora que conozco los peligros de la arcamagia,<03e0>tendré cuidado de no cometer ninguna imprudencia<03e0>con ella.<04e0>Tal vez obtendría más respuestas si me uniese a ti<03e0>y a tus amigos. Si necesitáis otro par de manos,<03e0>no dudéis en avisarme.<04e0>¡Y gracias de nuevo!
+

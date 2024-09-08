@@ -1,0 +1,229 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido al Mirador de los Cielos.<03e0>¿Sobre qué quieres información?<06e0000008e0000000000000>Sobre las ciudades vecinas.<09e008e0010000000000>Sobre la Academia.<09e008e0020000000000>Sobre ti.
+Desde Elysion se puede llegar a muchas ciudades.<04e0>Balterossa, una gran ciudad comercial al suroeste,<03e0>es la más poblada y cuenta con la mejor selección<03e0>de mercancías.<04e0>Royotia, al otro lado del desierto del sur,<03e0>es una ciudad minera. Sus montañas son<03e0>muy ricas en minerales de todo tipo.<04e0>Veamos... ¿Qué otros lugares hay por ahí?<03e0>¡Mejor descúbrelo tú mismo!
+La Academia es una organización que investiga<03e0>las reliquias y cuya sede se encuentra<03e0>cerca de la cámara de la asamblea.<04e0>El Consejo apoya a la Academia debido a la malsana<03e0>obsesión del presidente Hermeien con las reliquias.<04e0>Ha invertido un montón de dinero para mantener<03e0>la Academia a flote.
+Vuelve en diez años, cuando seas un hombre,<03e0>y te contaré todo lo que quieras saber, cielo...<03e0>Todo, todito, todo...
+Ahora que te hablado de las demás ciudades,<03e0>te aconsejaría que aprovechases para ir a verlas<03e0>con tus propios ojos.
+¡Oh, casi lo olvidaba!<04e0>Al sureste de Elysion se encuentra Melphina,<03e0>una bella ciudad ilustrada rodeada de naturaleza.<04e0>Ojalá tuviera un día libre para visitarla con calma...
+La Academia está en el edificio que encontrarás<03e0>en frente de la cámara de la asamblea. Se dedica<03e0>a investigar reliquias con los fondos del Consejo.<04e0>Desde que el duque de Ghor preside el Consejo,<03e0>han cesado los experimentos ilegales que se hacían<03e0>cuando Hermeien estaba al mando.<04e0>La Academia vuelve a ser una organización decente.
+¿Quierech chaber cómo llegar a echach ciudadech?<03e0>Prechta atenchión, muchacho...<04e0>Los mercaderes uchan la <1be0ffbe34ff>Chenda del Churoechte<1ce003e0>para atravechar el desierto, pero chiempre lo hacen<03e0>acompañadoch de guardaechpaldach...<04e0>¡Echa ruta echtá abarrotada de bechtiach ferochech!<03e0>Chi aprechiach tu vida, no te acherquech por allí...<03e0>¿Me oyech?
+¿De dónde demonioch chalió eche ejército<03e0>que montó aquel dechfile en la calle Tula?<03e0>Aunque aquella mujer echtaba para mojar pan...<04e0>¿Y dónde cuernoch echtá Veyriel?<03e0>¡Yo choy todo un maechtro en geografía<03e0>y jamach había oído hablar de echa chiudad!
+Alrededor de Elychion hay unach fortalechach<03e0>que che conchtruyeron para proteger la chiudad<03e0>frente a pochiblech ataquech.<04e0>Llevan chiglos abandonadach, pero últimamente<03e0>dichen por ahí que unoch tipoch muy extranoch<03e0>andan merodeando por la chona.<04e0>No ché qué echtarán tramando...<03e0>¡Pero cheguro que no ech nada bueno!
+En Elysion encontrarás muchas cosas a la venta,<03e0>pero te recomiendo encarecidamente que pruebes<03e0>los bollitos benditos.<04e0>Por fuera son suaves y esponjosos como las nubes.<03e0>Su cremoso relleno simboliza la reliquia de la ciudad,<03e0>que flota entre ellas.<04e0>Un solo mordisco te transportará al paraíso...<03e0>O mejor dicho, a las Tierras Sagradas.<04e0>¿Te va entrando el hambre? Si quieres llevarte alguno,<03e0>puedes comprarlos en el barrio de Hendler.
+Hey, deja que te cuente una cosa...<04e0>Me dijeron que habían visto a gente merodeando<03e0>por las fortalezas de noche, así que decidí<03e0>ir a comprobarlo por mí mismo.<04e0>Y cuando llegué, me topé con lord Hermeien...<03e0>¡Se suponía que había muerto en la guerra!<04e0>Ya se lo he contado a varias personas<03e0>y nadie me cree... ¡Yo sé lo que vi!
+¿Tú también lo has pensado, eh?<03e0>¡No me mires como si no supieras de qué te hablo!<03e0>¡La tabernera!<04e0>Con esa bata blanca que suele llevar puesta,<03e0>ese pelo reluciente como el sol y esos ojos<03e0>almendrados llenos de vida y pasión...<04e0>Estás pensando en ir tras ella, ¿no es así?<03e0>Bien, pues deberías desistir. ¿Sabes por qué?<04e0>Porque, si la investigación que mi hermano<03e0>está llevando a cabo en Melphina tiene éxito,<03e0>¡se volverá loca por mí! ¡Ja, ja, ja!
+¿A que tú también pensaste lo mismo?<04e0>Aquel ejército que vino hablando de sueños<03e0>y cosas por el estilo... Seguro que todo era un circo<03e0>para que invitaran a algún Lord al Consejo.<04e0>Aquel tipo enorme de la armadura... Seguro que era<03e0>el Invasor. Aunque yo no vi en él ni una pizca<03e0>de inteligencia o liderazgo, tal como dicen...<04e0>Todo esto tiene que ser una broma...
+¿Tú también lo has pensado, eh?<03e0>¡No me mires como si no supieras de qué te hablo!<03e0>¡Las fortalezas!<04e0>Corre el rumor de que han visto a unos tipos<03e0>sospechosos en su interior.<04e0>A mí me parece que se trata de ex miembros<03e0>de la Academia que se dedican a llevar a cabo<03e0>sus investigaciones «privadas».<04e0>Mi hermano y yo solíamos hacer todo tipo<03e0>de experimentos allí cuando éramos jóvenes...<03e0>¡Ja, ja, ja!
+Haruko, la nueva directora de la Academia,<03e0>es una gran científica, pero no estoy segura<03e0>de que tenga dotes para la gestión.<04e0>Creo que le han dado el puesto de forma temporal<03e0>y que pronto la sustituirán por otra persona...<03e0>Puede que por John Sykes.
+La Academia está acabada.<04e0>Cuando el Consejo descubrió los proyectos ilegales<03e0>de Hermeien, no sólo los cancelaron, sino que<03e0>nos recortaron el presupuesto a todos los demás.<04e0>Imagínate la desbandada... Los únicos científicos<03e0>que aún permanecen aquí son los que sienten<03e0>verdadera pasión por su trabajo.<04e0>Creo que yo también lo voy a dejar.<03e0>Volveré a casa y me casaré con el hombre<03e0>que mis padres hayan escogido para mí.
+Me he enterado de que un ejército de no sé dónde<03e0>está usando las fortalezas abandonadas de Elysion.<04e0>Y no sólo una, sino varias...<04e0>Espero que no se trate del ejército del Invasor...<03e0>¡Se suponía que había desaparecido en Nagapur!<03e0>Santo cielo, no quiero ni pensarlo.
+Je, je, qué vida tan relajada que llevo.
+Pues estás despedido.
+Je, je, qué vida tan ajetreada que llevo.
+¿Has oído hablar del barón Nielsen de Celapalais?<03e0>Parece que su esposa ha desaparecido... Aunque,<03e0>sabiendo cómo se llevan, no me extraña.
+Interesante, ¿verdad?
+¿Por qué tiene que aguantar el pobre una cosa así?<03e0>¡Es intolerable!
+Dicen que alguien planea asesinar al duque de Qubine.<03e0>He oído que han visto a una mujer sospechosa<03e0>merodeando por los alrededores del palacio...
+Interesante, ¿verdad?
+Pues si era tan sospechosa, ¿por qué leches<03e0>no la arrestaron?
+Parece que no sé qué princesa del desierto<03e0>anda escapándose del castillo cada dos por tres<03e0>para ver a un chico del que se ha enamorado.
+Interesante, ¿verdad?
+Es normal que los críos se metan en líos,<03e0>pero también que les castiguen por ello.<03e0>¡Así aprenderán lo que es la vida!
+Habla la voz de la experiencia, claro...
+¡He oído que la princesa del reino del desierto<03e0>se ha fugado con su amado!
+Interesante, ¿verdad?
+¡Sólo los tontos se fugan! Estúpidos críos...<03e0>Jo... ¿Y por qué nadie se enamora de mí, eh?
+¡Je, je!
+El conflicto entre Balterossa y Royotia<03e0>se pone peor cada día que pasa.<03e0>Todo el mundo cree que la guerra es inevitable.
+Interesante, ¿verdad?
+En vez de decir que la guerra es inevitable,<03e0>¿por qué demonios no hacen algo para evitarlo?<03e0>Malditos vagos...
+Bueno... Supongo no debe de ser tarea sencilla.
+Se rumorea que el primer Emperador celestial<03e0>encontró un portal a otra dimensión en mitad<03e0>de unas marismas y usó su poder para cerrarlo.
+Interesante, ¿verdad?
+Pues vaya un inútil...<03e0>¿Por qué demonios no lo destruyó?<03e0>Muerto el perro, se acabó la rabia.
+Si fuera tan fácil, supongo que lo habría hecho.
+Dicen que, al unirse en juramento a un caballero<03e0>de Melphina, las doncellas del bosque obtienen<03e0>la facultad de ver y oír lo que haga su compañero.
+Interesante, ¿verdad?
+Pues vaya rollo. Todo el mundo necesita su espacio<03e0>y sus momentos de soledad.<03e0>Yo no sería capaz de vivir así.
+Pero mira que eres rancia, ¿eh?
+Las doncellas del bosque y la Orden de Melphina<03e0>deben de estar preparando algo gordo. He oído<03e0>que le ha pasado algo a la reliquia de Marismarchita...
+Interesante, ¿verdad?
+¿Ves? ¡Tenía razón! ¡El primer Emperador<03e0>ES un inútil! ¡Esto no hubiera pasado<03e0>si hubiera destruido ese dichoso pasadizo!
+¡Pues viaja mil años al pasado y se lo dices!<03e0>No te digo...
+La Gala Cósmica está a punto de comenzar,<03e0>pero la ninfa todavía no se ha presentado.<03e0>Dicen que igual le ha pasado algo...
+Interesante, ¿verdad?
+Seguro que está tomándose su tiempo<03e0>para arreglarse...<03e0>¡Qué presumidas que son las mujeres!
+Pues anda que tú...
+Parece que la ninfa llegó a tiempo y el festival<03e0>comenzó según lo previsto...<03e0>Hasta que aparecieron los monstruos, claro está.
+Interesante, ¿verdad?
+¡Pero si es un festival!<03e0>¡Cuantos más seamos, más reiremos!
+Sí, claro... Mientras vengan a tomarse algo aquí,<03e0>tú tan contenta, ¿verdad?
+Dicen que una mujer chapada a la antigua<03e0>anda buscando un guardaespaldas.<03e0>Está en la taberna de la ciudad de los canales.
+Interesante, ¿verdad?
+¿Qué clase de enclenque necesita un guardaespaldas?
+Pues para tu información, no todo el mundo<03e0>es tan fuerte como tú...
+Parece que muchos tesoros de los antiguos reinos<03e0>han caído en manos de traficantes que los venden<03e0>en el mercado negro.
+Interesante, ¿verdad?
+Unos vienen y otros se van...
+¿Y eso qué quiere decir?
+Dicen que un tipo anda buscando tres piedras<03e0>que desempeñaron un papel muy importante<03e0>en la historia del antiguo reino del desierto.
+Interesante, ¿verdad?
+¿Alguien busca unas piedras?<03e0>Pues ahí detrás hay unas cuantas, por si las necesita...
+Un tipo que se dedica a investigar la historia<03e0>de la arcamagia anda buscando un ayudante.<03e0>Tal vez descubra algún secreto...
+Interesante, ¿verdad?
+¡Vaya! ¡Igual puede fabricarme un filtro de amor!
+Dicen que no sé qué monstruo al que encerró<03e0>el primer Emperador celestial ha vuelto a las andadas.<03e0>La gente anda temiéndose lo peor...
+Interesante, ¿verdad?
+¿Vamos a morir todos?<03e0>¡Pues entonces voy a sacar todo mi dinero<03e0>e irme de compras!
+Y si al final no nos pasa nada... ¿Qué harás, eh?
+Un tipo con amnesia está vagando por el desierto<03e0>en busca de algo que le devuelva sus recuerdos...
+Interesante, ¿verdad?
+A veces me gustaría tener amnesia.<03e0>Hay muchas cosas que preferiría no recordar...
+Oh, no te preocupes. De aquí a unos años<03e0>empezarás a perder la chaveta...
+Un famoso bandido anda rondando por Athlum.<03e0>La gente cree que está esperando a alguien,<03e0>pero nadie se atreve a preguntárselo.
+Interesante, ¿verdad?
+¿Y qué pasaría si intenta atacarme, eh?<03e0>Deberían encerrar a todos los bandidos...<03e0>¡Pobre de mí!
+En las ruinas de Robelia hay una estatua que,<03e0>según dicen, puede reunirte con alguien que esté<03e0>muy, muy lejos. Un chaval anda preguntando por ella.
+Interesante, ¿verdad?
+Uy...<03e0>Se me ha metido algo en el ojo...
+¿Eh? ¿Estás llorando?
+¡Un asesino anda suelto en la gran ciudad!
+Interesante, ¿verdad?
+¿¡Cómo!?<03e0>¿¡Aquí!?
+Un yama enorme anda buscando no sé qué cosa,<03e0>pero la gente dice que se comporta de una forma<03e0>un poco extraña... Dicen que está un poco loco.
+Interesante, ¿verdad?
+¿Un yama enorme? Eso no es ninguna novedad.<03e0>Ostras... ¡Ojalá se pase por aquí!
+Pensando ya en las ganancias, ¿no?
+Parece que han visto a un qsiti albino curioseando<03e0>unos libros sobre artes místicas. Dicen que se parece<03e0>a alguien, pero nadie termina de saber a quién...
+Interesante, ¿verdad?
+Nunca me han gustado los ratones de biblioteca.<03e0>Debería salir y tomar algo el sol...
+Hay un par de mercenarias gemelas que están dando<03e0>mucho que hablar. Son un poco bordes, pero todos<03e0>los hombres de la ciudad están deseando conocerlas.
+Interesante, ¿verdad?
+Hombres... * Suspiro *
+Un tipo está organizando no sé qué juego<03e0>en el Océano de Arena. Me pregunto si encontrará<03e0>a mucha gente dispuesta a participar...
+Interesante, ¿verdad?
+Bueno... ¡La idea es genial!<03e0>La vida es para disfrutarla, sí señor.
+Vaya... Pues eso suena un pelín raro<03e0>en boca de una amargada como tú.
+Dicen que un anciano guerrero ha atravesado<03e0>todo el Océano de Arena en busca de no sé qué espada.
+Interesante, ¿verdad?
+A los hombres les encantan ese tipo de aventuras.<03e0>A mí no me importaría que mi hombre se embarcara<03e0>en un viaje así, mientras me siga mandando dinero...
+Chica, eres la pesadilla de todo hombre...
+Parece que los soldados de no sé qué ciudad<03e0>han jurado dedicar sus vidas a proteger a su Señor.
+Interesante, ¿verdad?
+Pues si yo estuviera al mando,<03e0>los trataría a todos como mis esclavos...
+No hay ninguna familia en el mundo tan leal<03e0>como los Honeywell. Si los tienes de tu parte,<03e0>puedes vivir tranquilo.
+Interesante, ¿verdad?
+Me pregunto si los tengo de mi parte...
+Dicen en Royotia que Torgal, uno de los generales<03e0>de Athlum, es algo susceptible con su pasado.
+Interesante, ¿verdad?
+Todo el mundo es algo susceptible con alguna parte<03e0>de su pasado. Desde luego, hay cosas que se irán<03e0>conmigo a la tumba.
+No te preocupes... De todas formas,<03e0>a nadie le interesa tu pasado.
+La competición por el título de «Héroes de leyenda»<03e0>está a punto de comenzar. Me pregunto cuánta gente<03e0>se apuntará este año.
+Interesante, ¿verdad?
+Buena suerte. Yo, paso.
+Dicen que la Academia de las Artes Místicas<03e0>es una institución de gran renombre.<03e0>Sus estudiantes suelen llegar lejos.
+Interesante, ¿verdad?
+Con esa clase de educación,<03e0>seguro que luego se forran...
+Athlum ha sufrido ya lo suyo, y la gente<03e0>anda un poco preocupada por la Honeywell<03e0>que ha sustituido a Emma. Como es tan jovencita...
+Interesante, ¿verdad?
+Le irá bien, ya verás.
+Vaya... ¿Acaba de salir un cumplido de tu boca?<03e0>¿Tienes fiebre o algo así?
+Muchas chicas se preguntan cómo es posible<03e0>que el marqués de Athlum no tenga una mujer<03e0>en su vida. La verdad es que nadie se lo explica.
+Interesante, ¿verdad?
+¿Y quién dice que no tiene una novia?<03e0>Anda, que ya quisiera yo saberlo...
+Se rumorea que la ex directora de la Academia<03e0>anda de ciudad en ciudad visitando tabernas...
+Interesante, ¿verdad?
+¡Puede que venga a ésta!<03e0>Siempre me ha caído bien.
+A ti sólo te gusta su dinero...
+Últimamente la doctora Sykes ha estado visitando<03e0>el castillo de Athlum muy a menudo.
+Interesante, ¿verdad?
+¿La doctora Sykes?<03e0>Yo solía trabajar para ella.
+¿En serio? ¿Trabajabas para la Academia?
+Dicen que hay un monstruo que surca<03e0>los cielos de Fordragón.<03e0>La gente del lugar está muy asustada...
+Interesante, ¿verdad?
+A mí también hay cosas que me asustan, pero<03e0>son cosas con las que tenemos que aprender a vivir.
+Una guerrera un tanto apasionada pretende cazar<03e0>a los responsables del incidente de las marismas,<03e0>en contra de las órdenes de su jefe.
+Interesante, ¿verdad?
+Ya me gustaría a mí que me cazase un guerrero<03e0>bien apasionado, ya...
+Sigue soñando.
+Dicen que hay una panda de monstruos feroces<03e0>rondando por el Océano de Arena. Los habitantes<03e0>de Balterossa no saben qué hacer.
+Interesante, ¿verdad?
+¡Menudo dramón! Debería ir a echar un vistazo.
+Estás como una cabra...
+Los arqueólogos dicen que en las profundidades<03e0>de cierto volcán se oculta un ser capaz de arrasar<03e0>una ciudad entera...
+Interesante, ¿verdad?
+Qué miedo... Pero no sé si podemos fiarnos<03e0>de los pronósticos de los meteorólogos.
+Son arqueólogos, no meteorólogos,<03e0>cabeza de chorlito...
+Nadie sabe qué peligros se esconden dentro del volcán,<03e0>pero los Lores siempre se las apañan para averiguar<03e0>esas cosas, por difícil que parezca.
+Interesante, ¿verdad?
+¿Y cómo puede un Lord saber cosas<03e0>que no saben ni siquiera los científicos?
+Bueno, tienen sus recursos...
+Dicen que una ciudad acaba de perder a su Señor,<03e0>y sus hijos están peleándose por el puesto de su padre.
+Interesante, ¿verdad?
+¿Y a mí qué me importa?<03e0>Lo mismo me da que me da lo mismo...
+No creo que ellos tampoco den un duro por ti...
+Dicen que, si prestas atención, a veces se oye<03e0>un lamento procedente de las profundidades<03e0>del Océano de Arena.
+Interesante, ¿verdad?
+¿Un lamento? ¿A alguien le duele algo?<03e0>Mira cómo lloro...
+¿Te estás cachondeando?<03e0>Estás cachondeándote, ¿verdad?
+Hace mucho, mucho tiempo, un héroe vivía<03e0>en el Océano de Arena...
+Interesante, ¿verdad?
+¿Y?
+Pues... no sé nada más.
+Dicen que un tipo se llevó un susto de muerte<03e0>en el Océano de Arena. Estaba diciéndole algo<03e0>a una columna y aparecieron unos fantasmas...
+Interesante, ¿verdad?
+Pues yo casi prefiero un fantasma a un tipo<03e0>que se dedica a hablarle a las columnas.
+Visto así...
+En Melphina hay un tipo que afirma ser un científico,<03e0>pero es mejor no acercarse a él...<03e0>¡Está completamente trastornado!
+Interesante, ¿verdad?
+Ah, ese tipo.
+¿Es amigo tuyo?
+Dicen que en no sé qué ciudad hay una cafetería<03e0>que está infestada de bichos del desierto. Parece<03e0>que traen al dueño por el camino de la amargura...
+Interesante, ¿verdad?
+Qué insalubre...<03e0>No pienso entrar nunca ahí.
+Desde aquel incidente, Nagapur se ha convertido<03e0>en un lugar peligroso. Hay mucha delincuencia,<03e0>sobre todo secuestros de niños.
+Interesante, ¿verdad?
+¿Secuestros? ¿De niños?<03e0>¡Qué barbaridad!
+Antiguamente, la gente de Royotia se dedicaba<03e0>a recorrer las rutas comerciales e intercambiar<03e0>con otros viajeros los tesoros que encontraban.
+Interesante, ¿verdad?
+¿Intercambiaban tesoros?<03e0>Pues yo lo único que cambiaría por un tesoro<03e0>sería un buen saco de dinero.
+Los mercaderes de Royotia se quejan<03e0>de que el trazado de las rutas comerciales les impide<03e0>vender sus mercancías más allá de Balterossa.
+Interesante, ¿verdad?
+Seguro que ellos las venden luego a un precio<03e0>razonable, y no como harían estos mercaderes,<03e0>que no hacen más que engordar precios.
+Acabas de ganarte la enemistad<03e0>de todos los mercaderes del mundo.
+Un mercenario yama anda buscando ayuda.<03e0>Parece que se ha topado con un trabajo<03e0>que le viene grande...
+Interesante, ¿verdad?
+Los mercenarios no tienen un sueldo fijo.<03e0>Debería cambiar de profesión.<03e0>El trabajo de oficina es una buena opción...
+Con la de luchas que hay hoy en día,<03e0>estoy seguro que ganan mucho más que tú.
+Una chica me ha contado que está enamoradísima<03e0>de un tipo de Celapalais que tan pronto es encantador<03e0>como se pone a chillar. Mujeres...
+Interesante, ¿verdad?
+Pues para mí también sería un hombre ideal.
+¿Ah, sí?
+Hay un qsiti que se pone en medio de las calles<03e0>más transitadas y mira con odio a toda la gente<03e0>que se choca con él... ¡Qué tipo tan raro!
+Interesante, ¿verdad?
+Ah, ya sé quién es.
+¿Otro amigo tuyo?
+El otro día vi a una chica la mar de misteriosa.<03e0>La pobre va por la vida como si el mundo entero<03e0>se le hubiese venido encima.
+Interesante, ¿verdad?
+Tal vez yo también debería actuar de forma misteriosa.<03e0>Así la gente se fijaría más en mí.
+Hay un grupo de Damas Sangrientas en las marismas.<03e0>Parece que se están preparando para algo importante...
+Interesante, ¿verdad?
+¿Esas amazonas feministas?<03e0>Ojalá un horrible monstruo se las coma a todas.
+Parece que los jhanas andan sembrando el caos<03e0>en los alrededores del Océano de Arena.<03e0>Ni siquiera el Gae Bolg ha sido capaz de detenerlos...
+Interesante, ¿verdad?
+Nunca aprenderán...<03e0>Igualito que los hombres.
+Me ofendes.
+He oído que los Halcones Argénteos van a acabar<03e0>con todos los jhanas. ¿Qué haríamos sin ellos?
+Interesante, ¿verdad?
+Los pobres jhanas no tienen la culpa de nada.<03e0>Su raza vive de lo que roba a la gente...<03e0>No saben hacer otra cosa.
+¿Y tú cómo sabes eso?
+Dicen que los Halcones Argénteos van a despachar<03e0>a lo poco que queda del ejército del Invasor...<03e0>¡Esperemos que no dejen a ninguno en pie!
+Interesante, ¿verdad?
+Pues vaya... Menos soldados significa menos clientes.
+Uno de nuestros clientes es un tipo muy sombrío<03e0>que se pasa aquí las horas muertas. Da un miedo...
+Interesante, ¿verdad?
+Me gustaría echarle a patadas, pero...<03e0>la verdad es que no tengo motivos para hacerlo.
+Nadie sabe nada sobre él.
+

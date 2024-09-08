@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0240_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Por culpa de ese monstruo, nuestras almas<03e0>han permanecido atrapadas aquí durante años.
+Pero ahora que has acabado con ese ser infernal,<03e0>por fin podremos regresar a Elysion.
+¿Cómo? ¿Vienes en busca del manuscrito maldito?<04e0>Déjame adivinar... Vienes de parte de un qsiti albino<03e0>con ojos de color rojo brillante, ¿no es así?
+Sé que es una historia increíble, pero...<04e0>Hace tiempo, ese qsiti era el General al mando<03e0>de la división del ejército de Melphina en la que<03e0>estábamos alistados todos nosotros.<04e0>Era un hombre valiente y de buen corazón...<03e0>Pero un día, hace diez años, nuestra división<03e0>fue aniquilada en una batalla. Sólo él sobrevivió.
+No fue culpa suya, ¿sabes? Son gajes del oficio,<03e0>pero para el General fue un golpe tremendo.<03e0>Acabó culpándose a sí mismo por nuestras muertes.
+Nos preocupa que el General haya enloquecido<03e0>mientras nosotros estábamos aquí encerrados...<04e0>Parece que tiene pesadillas por las noches<03e0>y oye voces fantasmales que lo atormentan...<03e0>Su espíritu no ha vuelto a encontrar la paz.
+Debe de creer que, en caso de conseguir<03e0>el manuscrito maldito, podría devolvernos la vida.<03e0>Supongo que te contrató para eso...<04e0>Pero ese libro ya no es más que un recuerdo.<03e0>Su origen se remonta a la noche de los tiempos<03e0>y hace siglos que se convirtió en polvo.<04e0>Y pensar que el General aún pretende hacerse<03e0>con él después de tantos años...
+Es terrible verle sufrir así, pero no podemos hacer<03e0>gran cosa al respecto. Éste ya no es nuestro mundo;<03e0>dentro de poco pondremos rumbo a Elysion...
+Por favor... ¿Podrías darle esto al General?<03e0>Y dile... Dile que no se preocupe por nosotros.<03e0>Para nosotros fue un honor luchar a su lado.
+Mi General... Por favor, dejadnos marchar...<03e0>No perdáis la cabeza...
+(Así que un qsiti albino con los ojos rojos, ¿eh?)<03e006e0000008e0000000000000>Sí, vengo de su parte.<09e008e0010000000000>Esto... No me acuerdo.
+

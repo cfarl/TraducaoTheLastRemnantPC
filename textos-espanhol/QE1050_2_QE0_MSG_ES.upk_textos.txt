@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1050_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Gracias por venir... Te llamas Rush, ¿verdad?<03e0>Ahora que estás aquí, podemos empezar.<04e0>Tranquilo, no tienes que hacer nada de especial.<03e0>Yo me encargaré de trazar la ruta hacia la salida;<03e0>tú procura que lleguemos allí de una pieza...<04e0>No creo que sea de gran ayuda si nos topamos<03e0>con los jhanas, así que dime qué debo hacer.<03e0>Espero que sepas lo que haces...
+Tengo un mal presentimiento...<03e0>¡Creo que hay algo ahí delante!<03e0>¿Qué hacemos?<06e0000008e0000000000000>Espera, echaré un vistazo.<09e008e0010000000000>Sigue, yo vigilo la retaguardia.
+Je, je... Supongo que estoy un poco nervioso.<03e0>Ya sabes, más vale prevenir que curar.
+¡AAAGH!
+Una bifurcación... ¿Por dónde vamos?<03e0>Juraría que he visto a un jhana por la derecha.<06e0000008e0000000000000>Vamos hacia la derecha.<09e008e0010000000000>Vamos hacia la izquierda.
+Ah, supongo que está de patrulla...<03e0>¡Menos mal!
+¡AAAGH!
+Alto, espera un momento, siento escalofríos...<03e0>Hay algo ahí delante, estoy seguro.<06e0000008e0000000000000>Espera aquí, yo me encargo.<09e008e0010000000000>Sigue adelante, yo te cubro.
+Bueno... Parece que ha sido una falsa alarma.
+¡AAAGH!
+¡Este sitio está tomado por los jhanas!<03e0>Pero estoy casi seguro de que el camino<03e0>de la izquierda no tiene salida. ¿Qué hacemos?<06e0000008e0000000000000>Vamos hacia la derecha.<09e008e0010000000000>Vamos hacia la izquierda.
+¡Oh, nooo!
+Uf, les hemos dado esquinazo...<03e0>¡Menos mal que vinimos por aquí!
+¡Creo que están preparando una emboscada!<03e0>¿Qué hacemos? Desde aquí sólo se ve a uno, pero...<06e0000008e0000000000000>¡Si quieren pelea, la tendrán!<09e008e0010000000000>Espera, a ver qué pasa...
+¡Juas, juas! ¡Vaya cobardica! En cuanto nos ha visto...<03e0>Bueno, en cuanto te ha visto a TI, ha salido corriendo<03e0>con el rabo entre las piernas.
+¡SOCORROOO!
+Ya casi hemos llegado a la salida, pero en vez<03e0>de estar más tranquilo, temo que nos aguarde<03e0>algo espantoso a la vuelta de la esquina...<06e0000008e0000000000000>Vale, espera. Voy a mirar...<09e008e0010000000000>¡No seas gallina! Vamos allá.
+¡SOCORROOO!
+Anda, pues no ha sido nada. ¿Quién lo iba a decir?
+¡Gracias, mil gracias! Se ve que teníamos razón...<03e0>¡Este camino atraviesa todo el Océano de Arena!
+

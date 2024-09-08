@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0060_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Señor Rush...<03e0>¿Puedo robaros un momento de vuestro tiempo?<04e0>Parece evidente que Balterossa y Royotia se disponen<03e0>a declararse la guerra. Ambos países están movilizando<03e0>a sus respectivos ejércitos...
+Durante largo tiempo, Royotia ha intentado establecer<03e0>sus propias rutas comerciales para escapar del control<03e0>de Balterossa.<04e0>Pero mi madre se opone abiertamente.<04e0>Parece que en Royotia no se dan cuenta de lo difícil<03e0>que resulta crear una ruta comercial y protegerla<03e0>frente a bandidos y monstruos.<04e0>Mantener un mínimo nivel de seguridad en una ruta<03e0>de semejante escala les costaría muchísimas vidas.<04e0>En cambio, con la bendición del Tao Tie, Balterossa<03e0>lo tiene mucho más fácil para mantener bajo control<03e0>el Océano de Arena. Así ha sido durante siglos...<04e0>Estoy de acuerdo con mi madre. Lo mejor para todos<03e0>sería que Royotia siguiese usando nuestras rutas.<04e0>Pero Royotia se niega a hacernos caso, y cada vez<03e0>hay más brotes de insurgencia en Balterossa...<04e0>Mi madre está segura de que Royotia está implicada,<03e0>pero de ahí a declararle la guerra a Royotia sin tener<03e0>ninguna prueba sólida...
+Decidme, Rush... ¿Es necesaria esta guerra?<03e0>¿No podemos hacer nada para detenerla?<06e0000008e0000000000000>Sí, y alguien puede ayudarnos.<09e008e0010000000000>No podemos hacer nada.
+Oh... Paris... Tenéis razón.<03e0>Si él... Si pudiéramos...<04e0>Señor Rush... ¿Podría encomendaros una misión?<03e0>¡Es preciso detener esta guerra!<06e0000008e0000000000000>¡No me lo pidas dos veces!<09e008e0010000000300>Esto no hay quien lo detenga.
+Muchas gracias. ¡Partiré de inmediato a <1be0ffbe34ff>Royotia<1ce0>!<03e0>Al fin y al cabo, Paris es el hijo del Marqués...<03e0>¡Seguro que puede hacer algo!
+No... ¡No puedo creerlo!
+¡No! ¡No puedo aceptarlo!
+¡Señor Rush! Os agradezco vuestra ayuda.<04e0>Lord Príamo y mi madre han atendido nuestras súplicas<03e0>y han acordado deponer las armas.<04e0>Pero mi madre no quiere ni hablar del tema<03e0>de los conspiradores... Me temo que nunca<03e0>conoceremos al responsable.<04e0>De todas formas, las relaciones entre naciones<03e0>siempre son un tenso toma y daca complicado<03e0>por incontables influencias externas...<04e0>La política es una ciencia harto compleja.<04e0>En fin... Me alegra que mi madre y lord Príamo<03e0>hayan llegado a un acuerdo.
+Me gustaría entregaros esto.
+Ahora he de irme. Si alguna vez pasáis por Balterossa,<03e0>consideradme vuestra humilde servidora.<04e0>Paris ha jurado ayudaros siempre que necesitéis<03e0>una espada a vuestro lado.<04e0>Pero no le pongáis en demasiado peligro...<03e0>Me entristecería sobremanera verlo regresar<03e0>con los pies por delante.
+

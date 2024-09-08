@@ -1,0 +1,40 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1350_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Rush.
+Irina está bien. Duerme como un angelito.<0fe003e00ee0>No se imagina lo que nos ha hecho pasar...
+Me alegro de oírlo.
+Lord David.
+Sí, ya sé que tenemos<0fe003e00ee0>que decidir qué haremos a continuación...
+¡Alteza! ¡No podéis...!
+¿Lord Qubine?
+Vaya... Estáis muy serio, como siempre.
+¿A qué debo este honor?
+Seré breve...
+Necesito que alguien le haga una visita<0fe003e00ee0>al Emperador. Y ese alguien sois vos, David.
+¿Al Emperador celestial? ¿Por qué?
+El Invasor dice haber recibido sus poderes<0fe003e00ee0>del mismísimo Emperador celestial.<1ae0000015430fe005e001000ee0>Vuestra tarea es averiguar<0fe003e00ee0>qué sabe Su Excelencia al respecto.
+Eso es una gran responsabilidad.<1ae000009a420fe005e001000ee0>Un hombre de tan baja alcurnia como yo<0fe003e00ee0>no es digno de dirigirse al Emperador.
+¿Cómo? ¿De verdad creéis que<0fe003e00ee0>el Presidente en funciones del Consejo<1ae0000002430fe005e001000ee0>no tiene derecho a pedirle<0fe003e00ee0>una audiencia a Su Excelencia?
+¿Qué queréis decir?<0fe003e00ee0>¿He sido nombrado Presidente en funciones?
+Fue algo que decidimos hace tiempo<0fe003e00ee0>ese carcamal del duque de Ghor y yo.<1ae0000002430fe005e001000ee0>Por supuesto, sólo es una solución temporal<0fe003e00ee0>hasta que se recupere.
+No temáis, la decisión se basa<0fe003e00ee0>únicamente en vuestros méritos.<1ae000000b430fe005e001000ee0>No os compromete a nada.
+Comprendo...
+Ahora que ya os he puesto al día,<0fe003e00ee0>quiero que partáis inmediatamente.
+Ah, David. Una cosa más...
+A partir de ahora, no es necesario<0fe003e00ee0>que pidáis mi autorización para nada,<1ae0000002430fe005e001000ee0>ni siquiera para usar el Gae Bolg.<0fe003e00ee0>Sois libre de elegir vuestro camino.
+Queréis decir que...
+Estáis un poco lento hoy, ¿verdad?<1ae00000a0420fe005e001000ee0>Digo que, desde ahora, Athlum es<0fe003e00ee0>un estado independiente de Celapalais.
+¡Lord David!
+¡Maestro!
+¡Así se hace, Dave!
+Lord Qubine, no sé cómo agradeceros...
+David, digo, lord David de Athlum.<0fe003e00ee0>Recordad una cosa...<1ae0000048430fe005e001000ee0>Tomar decisiones en solitario<0fe003e00ee0>no será una tarea sencilla.
+Agradezco vuestra preocupación,<0fe003e00ee0>pero no estaré solo.<1ae000000f430fe005e001000ee0>Estoy rodeado de gente con la que sé<0fe003e00ee0>que puedo contar... Gente de confianza.
+¡Muy bien! ¡Undelwalt nos espera!<0fe003e00ee0>¡Empezad los preparativos de inmediato!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Así se habla!
+

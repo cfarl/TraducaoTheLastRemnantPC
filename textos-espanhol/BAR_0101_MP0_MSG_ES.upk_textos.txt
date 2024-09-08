@@ -1,0 +1,150 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) BAR_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Vaya, vaya! Hacía una eternidad que no veíamos<03e0>a ningún forastero por estos lares... ¡Y menos aún<03e0>a un mozo tan bien parecido como tú!<04e0>Bienvenido a <1be0ffbe34ff>Baaluk<1ce0>, la joya de occidente...<03e0>O el quinto infierno, según a quién le preguntes.<03e0>Esto es <1be0ffbe34ff>Grentze<1ce0>, nuestro principal asentamiento.<04e0>Estoy segura de que todos se alegrarán de verte...<03e0>Al fin y al cabo, no solemos recibir visitas.
+[[Mensaje de nivel 2]]
+[[Mensaje de nivel 3]]
+Hace poco pasó por aquí otro viajero...<03e0>Aunque no era tan mono como tú, claro está.<03e0>Dijo que trabajaba para «el conejo», o algo así.<04e0>No hacía más que hablarme de los cambios<03e0>que habían tenido lugar allí y de que ahora tenían<03e0>un nuevo jefe. ¡Como si a mí me importase!<04e0>Yo ni siquiera sabía que existía una organización<03e0>como ésa, pero bueno... Mientras no me pidan dinero,<03e0>me da igual que me cuenten lo que quieran.
+[[Mensaje de nivel 5]]
+[[Mensaje de nivel 6]]
+Vaya, eres tú. ¿Vienes a visitarnos?<03e0>Pues será mejor que vengas en otro momento...<03e0>Resulta que nos acaban de robar el Brimuslabus.<04e0>Desde hace siglos, el Brimuslabus ha protegido<03e0>a la ciudad de un dios con muy malas pulgas.<04e0>Pero ahora que ha desaparecido, no me extrañaría<03e0>que esa cosa volviera por aquí...<03e0>Y algo me dice que va a traer ganas de bronca.<04e0>Nuestra pobre aldea... ¡Esto será nuestra perdición!
+Vaya, vaya... ¿No es increíble? El señor Wyngale<03e0>y sus muchachos nos han salvado de un desastre.<04e0>Hay que ver... ¡No sé ni cómo agradecérselo!<03e0>¡Estaba rezándole a todo lo que se me pasaba<03e0>por la cabeza!
+[[Mensaje de nivel 6]] (tras el robo de la reliquia)
+Supongo que te has fijado en esas púas gigantes<03e0>que brotan del precipicio de allí al fondo. Se trata<03e0>de la reliquia de la ciudad, el Brimuslabus.<04e0>Según la leyenda, antiguamente vivía un monstruo<03e0>en esta región, pero el primer Emperador celestial<03e0>usó sus poderes para encerrarlo allí dentro.<04e0>Aunque aquello ocurrió hace cientos de años...<03e0>No sabría decirte si hay algo de verdad en la leyenda.<03e0>Sinceramente, yo mismo no sé si creérmelo.
+El Brimuslabus ha desaparecido...<04e0>Ahora sí que estoy preocupado de verdad.<03e0>Espero que aquella historia del monstruo<03e0>no fuera más que un cuento para críos...
+[[Mensaje de nivel 3]]
+No te lo pierdas... Hace poco vino por aquí un tipo<03e0>de lo más estirado procedente de una tierra lejana...<03e0>Aunque casi cualquier sitio pilla lejos de aquí, claro.<04e0>El caso es que los de la ciudad se han metido<03e0>en otra de sus guerras y parece que han perdido<03e0>todas sus reliquias...<04e0>Así que mandaron al emisario para indagar por aquí,<03e0>a ver si encontraba reliquias sin vincular.<04e0>Imagínate... El muy caradura pretendía llevarse nuestro<03e0>querido Brimuslabus. ¡Obviamente, no hizo muchos<03e0>amigos por aquí hasta que se le pasó la tontería!<04e0>Qué morro tienen en la ciudad... ¡Mira que querer<03e0>llevarse nuestra reliquia! Si el primer Emperador<03e0>encerró a quel bicho sería por algo, ¿no?
+[[Mensaje de nivel 5]]
+[[Mensaje de nivel 6]]
+¡Hay que ver! ¡Resulta que aquella leyenda sobre<03e0>aquel demonio al que encerró el primer Emperador<03e0>era verdad de la buena!<04e0>Maldita sea... Hasta ahora, siempre habíamos logrado<03e0>ahuyentar a todos los que pretendían apoderarse<03e0>del Brimuslabus. ¿Qué habremos hecho mal?<04e0>Bueno, no hay gran cosa que podamos hacer...<03e0>Yo nací aquí, igual que mi padre y el padre<03e0>de mi padre... ¡De aquí no me mueve nadie!
+¡Oye! ¿No te has enterado? ¡Un bichejo gigante<03e0>apareció de pronto por aquí y Wyngale, el sovani,<03e0>le pegó una paliza de impresión!<04e0>Y yo que pensaba que no era más que un pirado...<03e0>¿Quién iba a decir que sería nuestro salvador?
+[[Mensaje de nivel 6]] (tras el robo de la reliquia)
+Dos veces al año pasa por aquí una caravana<03e0>de mercaderes. Traen toda clase de artículos<03e0>y productos exóticos procedentes del este.<04e0>Algunos de los mercaderes dicen que en oriente<03e0>hay unas ciudades enormes... ¡El doble de grandes<03e0>que ésta, incluso!<04e0>Francamente, me parece que nos están tomando<03e0>el pelo. ¿Cómo va a existir una ciudad tan grande?<03e0>Venga ya... ¿Acaso tengo cara de idiota?
+[[Mensaje de nivel 2]]
+¡Caray! ¡Qué sorpresa!<04e0>Ha llegado un tipo del este que dice ser un emisario<03e0>o algo así. Parece ser que ha venido desde Elysion,<03e0>la capital del continente.<04e0>Por lo visto, andan metidos en no sé qué guerra<03e0>y han perdido un puñado de reliquias. Qué faena,<03e0>¿no te parece?<04e0>Al final va a ser cierto que el mundo es más grande<03e0>de lo que creía... ¡Me están entrando ganas de liarme<03e0>la manta a la cabeza y salir a explorar yo también!
+[[Mensaje de nivel 4]]
+¡Oye, chico! ¡No te quedes holgazaneando por aquí!<04e0>¿Es que no te has enterado? ¡Se ha despertado<03e0>el monstruo que estaba atrapado cerca de aquí!<04e0>Esta ciudad se va a ir al garete de un momento a otro,<03e0>te lo digo yo. Yo me largo... No sé adónde, pero creo<03e0>que cualquier sitio es más seguro que éste.
+Oye, chaval... ¿Es verdad lo que dicen por ahí?<03e0>¿Es cierto que alguien ha despachado al bicho<03e0>que iba a destruir el pueblo?<04e0>Estaba alejándome de la ciudad cuando me enteré,<03e0>así que volví para ver si era verdad...<04e0>He oído que aquel sovani chalado apareció de pronto<03e0>con un puñado de amigos y salvó al pueblo entero...<03e0>No está mal para semejante loco de la colina, ¿no?
+¿Ves a ese caballero sovani junto al acantilado?<03e0>Se llama Wyngale.<04e0>Mamá dice que ha defendido Grentze desde hace<03e0>ni se sabe... ¡Incluso antes de que naciera yo!
+[[Mensaje de nivel 2]]
+El señor Wyngale viene aquí todos los días<03e0>a rezarle al Brimuslabus.<04e0>La verdad, no sé cómo no se le cansan los brazos<03e0>de estar tanto tiempo así.<04e0>Me ofrecería a ocupar su lugar durante un rato<03e0>para que pudiera descansar, pero es que yo<03e0>sólo tengo dos brazos...
+[[Mensaje de nivel 4]]
+Señor, ¿qué será de nosotros? El Brimuslabus<03e0>ha desaparecido... Y mamá dice que se ha escapado<03e0>un monstruo espantoso.<04e0>Supongo que el señor Wyngale se ocupará de él...<03e0>¿Verdad que sí?
+Señor, ¿sabía que ese bicho malísimo ya es historia?<03e0>El señor Wyngale le ha dado una buena paliza...<03e0>¡Cuando sea mayor, quiero ser como él!
+Me llamo Wyngale.<04e0>Hace años que monto guardia en este lugar,<03e0>vigilando el Brimuslabus... Y lo que encierra<03e0>en su interior.
+Estúpido qsiti...<03e0>El Brimuslabus no ha bendecido esta ciudad.<04e0>O tal vez sí... Tal vez haya impedido que se despierte...<03e0>Bien pensado, eso sí que sería una bendición.
+¡Vaya, abuela! ¿Cómo tú por aquí?
+¿«Abuela»? ¿CÓMO TE ATREVES?<03e0>¿Y quién demonios eres, si se puede saber?
+Uy... Perdona. Te he confundido con otra persona.
+¡No deberías tomarte esas confianzas<03e0>con gente a la que ni siquiera conoces!
+Lo... ¡Lo siento!
+En fin... Lo dejaré estar por esta vez.<03e0>Pero que no vuelva a repetirse, ¿me oyes?
+Llamar «abuela» a una dama como yo es una falta<03e0>de consideración. ¡Además, no soy tan mayor, caray!
+Vaya... Otra vez tú.
+Esto...
+No pareces contento de verme.
+Ejem... Yo... ¡No es eso! Es que...<03e0>En fin, esto... Joven damisela, ¿qué te trae por aquí?
+Me entreno. En mi familia tenemos la costumbre<03e0>de viajar y recorrer el mundo para conmemorar<03e0>nuestro paso a la edad adulta.
+Caray, no debe de ser fácil...<03e0>Pues... Estooo... Cuídate, ¿de acuerdo?
+Gracias.
+Parece que al menos tus modales han mejorado<03e0>desde la última vez que nos encontramos.
+Tienes buen aspecto.
+Hola, señorita... ejem... joven damisela...
+Anda, haz el favor de no llamarme así.<03e0>Suena ridículo.
+Bueno... Pero es que no sé cómo te llamas.
+¿Lo dices en serio?
+* Tenso silencio *
+Me llamo Emmy.
+Me alegro de conocerte al fin. Yo soy...
+No hace falta que me lo digas.<03e0>Te llamas Rush Sykes, ¿verdad?
+Co... ¿Cómo lo sabes?
+Tengo mis recursos.
+En fin, Rush... Cuídate, ¿de acuerdo?
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+¿Que a qué viene tanto entrenamiento?<03e0>Bueno... Tengo mis motivos, pero más que nada<03e0>quiero mejorar mis capacidades físicas y mentales.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Todavía estás buscando a tu hermana, ¿verdad?<03e0>Ojalá pudiera ayudarte a encontrarla.
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Hablo con mi familia de vez en cuando.<03e0>Si no, ¿cómo iba a saber quién eres?
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Me he estado entrenando durante mucho tiempo,<03e0>pero aún me queda un largo camino por delante<03e0>para igualar a mi madre... ¡Y no pienso rendirme!
+Oh, Rush...<04e0>¡Por fin! ¡Soy libre!<03e0>¡Al fin llegó el momento de acabar con ese tipo!
+¿Que de quién estoy hablando?<04e0>¿De quién? Je, je... Podría ser cualquiera.<03e0>Incluso alguien a quien conoces muy bien.<03e0>Je, je, je...
+Je, je, je...
+Llevo siglos encadenado al Brimuslabus...<03e0>Desde los años en que el primer Emperador<03e0>gobernaba el mundo entero.<04e0>No me crees, ¿verdad? Pues claro que no. Je, je, je...<04e0>El Emperador era un imbécil, y eso es quedarse corto.<03e0>Sentía unos celos tremendos de mi enorme fuerza<03e0>y mi carácter indómito.<04e0>Cuando dejé de serle útil, me obligó a vincularme<03e0>al Brimuslabus y vigilar la prisión del Condenado.<03e0>Maldito desgraciado...
+Je, je, je...
+Rush...<04e0>Estoy... Estoy empezando a recordar cada vez mejor...<03e0>Cómo era yo por aquel entonces.<04e0>Trabajaba para el primer Emperador celestial y luchaba<03e0>en su nombre... Constantemente. Mis días se llenaron<03e0>de furia, destrucción, caos, muerte...<04e0>Fueron los mejores años de mi vida.<03e0>Una época maravillosa...<04e0>Pero el primer Emperador celestial me arrebató<03e0>todo cuanto me importaba...<04e0>Ahora veremos quién ríe el último...<03e0>Je, je, je... ¡JUAS, JUAS, JUAS!
+¡JUAS, JUAS, JUAS!
+Antes de dejarme aquí me dijo una cosa...<03e0>«Volveremos a vernos si el destino lo permite».<04e0>Je, je, je... Siento su presencia como si estuviera<03e0>aquí delante. Su alma aún recorre este mundo,<03e0>como si hubiera escapado de las fauces de la muerte.<04e0>Espérame, espíritu atrapado entre el cielo y la tierra...<03e0>Espérame, porque voy a encontrarte y destruirte...<03e0>Te arrepentirás de no haber ardido en el infierno.<04e0>¡Pagarás por tus crímenes, maldito traidor!<03e0>¡Cuando acabe contigo, no quedará de ti ni el alma!<03e0>¡JUAS, JUAS, JUAS, JUAS!
+¡Rush! ¡Me siento como nuevo!<04e0>La próxima vez que partas al combate, avísame.<03e0>¿Me oyes? ¡No se te ocurra dejarme atrás!
+Rush, al fin me he liberado de mis ataduras...<03e0>Pero ahora noto un vacío que no puedo explicar.
+Oye, Rush... Siento haber tenido que engañarte<03e0>para que me ayudases a salvar Baaluk...<03e0>Pero te agradezco lo que has hecho, de verdad.
+¡Oye! ¿No seguirás enfadado conmigo, verdad?<03e0>Sé que no he sido del todo sincero, así que<03e0>entiendo que no me tengas en demasiada estima.<04e0>Pero créeme, de ahora en adelante estoy dispuesto<03e0>a hacer lo que sea por el bien de Baaluk. Tú dime<03e0>qué debo hacer. ¡Tus deseos son órdenes!<04e0>Estoy listo para ponerme en marcha...<03e0>¡No tienes más que avisarme!
+Estoy dispuesto a hacer lo que sea para ayudar...<03e0>La próxima vez que vayas a entrar en combate,<03e0>no tienes más que avisarme.
+¿Sí? Ah, Rush...<04e0>Ejem... ¿Cómo va todo? ¿Necesitas algo?<04e0>¿Cómo? ¿Que si me ocurre algo?<03e0>¡No! ¡Claro que no! ¡Para nada! Ejem... Ji, ji, ji...<04e0>Dicho lo cual... Aún no es hora de irnos, ¿verdad?<03e0>Si todavía tenemos tiempo, te agradecería mucho<03e0>que me dejases a solas un momento...
+Esto... Hola, Rush. ¿Ya es hora de irnos?<03e0>Si todavía tenemos tiempo, te agradecería<03e0>que me dejases a solas un momento...
+Rush... Tengo la sensación de que me han timado.<03e0>De hecho, creo que nos han engañado a todos...<03e0>Y todo es culpa mía.<04e0>Fue Wyngale el que me dijo que el Brimuslabus<03e0>provocaría un cataclismo de un momento a otro,<03e0>y yo confié en su palabra sin dudarlo.<04e0>Siempre he pensado que era un tipo muy reservado<03e0>pero con buen fondo... Pero, desde que se llevaron<03e0>el Brimuslabus, está muy raro. Parece otra persona...<04e0>Tal vez esté dejando ver su verdadera naturaleza.<03e0>Es posible que Baaluk no le importe en absoluto...<03e0>¿Y si nos ha estado engañando todos estos años?<04e0>Y esa gente a la que le entregamos la reliquia...<03e0>No sé por qué, pero me dan muy mala espina.<04e0>Llevo todo este tiempo pensando que estaba ayudando<03e0>a salvar, pero ahora tengo la impresión de que tal vez<03e0>me haya dejado embaucar como un crío...<04e0>Y ya no tenemos una reliquia que nos proteja...<03e0>Maldita sea... Como le pase algo horrible a Baaluk<03e0>nunca seré capaz de perdonármelo.
+Maldita sea... Espero que no le pase nada Baaluk.<03e0>De lo contrario, nunca me lo perdonaría.
+De modo que hay ciudades que no tienen reliquias...<03e0>¿Y dices que tú vienes de una de ellas? ¡Caray!<03e0>Entonces, es posible que Baaluk salga adelante...<04e0>Rush, te estoy muy agradecido, de verdad...<03e0>¡Tus palabras me han devuelto la esperanza!<04e0>Y pensar en que he llegado a dudar de Wyngale...<03e0>No sé qué se me pasó por la cabeza. Debería empezar<03e0>a tener más fe en la gente que me rodea.<04e0>Pero ahora no es momento de obsesionarse<03e0>con el pasado. ¡Tenemos que convertir Baaluk<03e0>en una ciudad donde todos vivan felices!
+Muy bien, Rush, me has convencido.<04e0>Haré lo que sea para convertir Baaluk en una ciudad<03e0>donde todos vivan felices... ¡Aunque no tengamos<03e0>ninguna reliquia!
+El lugar donde antes se hallaba el Brimuslabus<03e0>emite una extraña energía... Noto un tremendo poder.<04e0>No me lo puedo creer...<03e0>Yo sólo quería lo mejor para Baaluk.<04e0>Temo... Temo que esto sea culpa mía...<03e0>Y, si es así, tengo que hacer algo para solucionarlo.<04e0>Rush, tengo que recuperar el Brimuslabus.<03e0>Supongo que, si todo vuelve a ser como antes,<03e0>las cosas volverán a la normalidad, ¿no crees?<04e0>Ya sé que no tienes tiempo de averiguar qué trama<03e0>esa gente de la Academia, pero tal vez lo descubras<03e0>durante el transcurso de tus aventuras...<04e0>Por favor, déjame que te acompañe y luche a tu lado.<03e0>¡Tengo que hacer algo, aunque no sirva de nada!
+¡Rush!<03e0>¿Alguna noticia de la Academia?
+¿Sí? ¿Necesitas algo?
+¿Ocurre algo?
+¿Has visto a lord David?<04e0>No me gusta que ande por ahí él solo...<03e0>Por favor, si le ves, dile que le estoy buscando.
+Vándalo...
+* Silencio *
+A primera vista, no parece que este sitio<03e0>haya cambiado demasiado...<04e0>No obstante, no es buena idea que lord David<03e0>ande por aquí sin escolta. Si lo veis, decidle<03e0>que le estoy buscando.
+¿No habéis visto a lord David?
+Puestos a que alguien robase la reliquia,<03e0>podríamos habérnosla llevado nosotros mismos.<04e0>Pero no, lord David no lo hubiera permitido...
+Por favor, olvidad lo que he dicho.
+Y cabe suponer que el Invasor es aún más poderoso<03e0>que ese monstruo...
+* Silencio *
+El Arca... Tiene que haber alguna reliquia similar<03e0>en algún rincón del mundo.
+No se me ocurre dónde...
+Lord David está tan preparado como puede estar.<04e0>Lo único que debo hacer es seguirle.
+Ah, qué reliquia más espectacular...<03e0>Tiene un cierto encanto, ¿no os parece?<03e0>Creo que no me cansaría jamás de mirarla...<04e0>Aunque ahora que me fijo...<03e0>Se parece un poco a un alfiletero, ¿verdad?
+Increíble...
+* Silencio contemplativo *
+Estoy un poco nervioso desde que las reliquias<03e0>empezaron a desaparecer a diestro y siniestro,<03e0>pero fijaos...<04e0>Este lugar sigue igual que siempre.<03e0>Es un pequeño detalle, pero resulta reconfortante.
+Sí, sí...
+Entonces ocurre lo mismo que en Athlum...<03e0>Aunque no lo parezca, el ambiente de la ciudad<03e0>ha cambiado por completo.
+¿Se puede saber qué está ocurriendo?
+A pesar de que lo he visto con mis propios ojos,<03e0>todavía no me lo termino de creer.<03e0>Nunca creí que existiera un monstruo semejante...
+* Silencio *
+Tiene que existir en algún lugar...
+Sigamos buscando.
+Acabemos con esto...<03e0>Debemos averiguar cómo termina esta historia.
+¡Fíjate en las armas que venden por aquí!<03e0>Armas de filo, contundentes, ceremoniales,<03e0>de uso cotidiano... ¡Las armas son mi gran pasión!
+Je, je, je...
+Lady Emma...
+¡Oye, Rush, fíjate! La reliquia sigue vivita y coleando...<03e0>Ahora no podemos echarnos atrás, ¿verdad?
+Ahora no podemos perder la esperanza.
+Incluso las armas parecen haber perdido el lustre...<03e0>Supongo que es porque la reliquia ha desaparecido.
+Caray...<03e0>Hasta las armas parecen haber perdido el lustre.
+¿Pero qué demonios ha pasado?<04e0>En fin, al menos hemos ganado...<03e0>Ya no tendremos que preocuparnos por esa cosa.
+Ya no tendremos que preocuparnos por esa cosa.
+¡Aaagh! ¡Como siga pensando en cosas de reliquias,<03e0>me va a estallar la cabeza! Mira, avísame una vez<03e0>que sepas dónde tenemos que ir, ¿vale?
+¡Estoy listo para pasar a la acción!
+¡Adelante, Rush! No te preocupes...<03e0>¡Yo me encargaré de despachar a cualquiera<03e0>que se interponga en nuestro camino!
+¿Que qué estoy haciendo?<04e0>Pues exactamente lo que parece: dar una vuelta.<03e0>El problema de ser marqués es que nunca puedo<03e0>pasear tranquilamente por Athlum ni por Celapalais...<04e0>Supongo que a Torgal no le hará ninguna gracia<03e0>que ande por aquí solo, así que no le digas nada...<03e0>¿De acuerdo?
+Será nuestro secreto, ¿de acuerdo?
+La reliquia de esta ciudad todavía sigue en pie.
+* Silencio *
+Y aquí también...<04e0>Se ve que Athlum no es la única ciudad<03e0>que ha perdido su reliquia...
+* Silencio *
+Y pensar que el Brimuslabus mantenía a raya<03e0>a semejante monstruosidad...<04e0>Deberíamos sentirnos afortunados de que no hubiera<03e0>un ser como éste encerrado bajo el Corazón Valeroso...
+* Silencio *
+¿Que a qué viene tanta prisa?<03e0>Si te digo la verdad, tenía la esperanza<03e0>de que nadie me reconociera...
+Ojalá no lleguemos demasiado tarde...
+¡Vamos allá, Rush!<03e0>¡Volveremos juntos y victoriosos!
+Parece que nada ha cambiado en esta ciudad,<03e0>pero las apariencias engañan. Bajo la superficie<03e0>están preparándose grandes acontecimientos.<04e0>En marcha, Rush. No hay tiempo que perder.
+Este lugar es muy peligroso...
+Aquí también han perdido su reliquia...<03e0>Tal vez se trate de una simple coincidencia,<03e0>pero no cabe duda de que parece una conspiración...
+Tiene que haber alguien detrás de todo esto...
+¿Cómo es posible? ¿Quién tendrá suficiente poder<03e0>como para controlar una reliquia capaz de atrapar<03e0>a semejante monstruosidad?
+* Silencio *
+Deja de hacer el tonto y ayúdanos a buscar, ¿quieres?<03e0>Tiene que haber otra forma de ir a las Tierras Sagradas,<03e0>pero nunca la descubriremos si no pones de tu parte.
+No te preocupes... ¡La encontraremos!
+Ahora que mi madre ya no puede ocuparse de David,<03e0>yo me encargaré de protegerlo...<03e0>Y espero que tú hagas lo propio por Irina.
+

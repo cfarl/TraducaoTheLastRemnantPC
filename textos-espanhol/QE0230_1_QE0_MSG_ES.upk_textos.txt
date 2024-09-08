@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0230_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Tú... escuchar?<03e0>Querer saber... ¿Tú escuchar a mí?<06e0000008e0000000000000>Umm... Claro, dime.<09e008e0010000000300>¡Aaah! ¡Un pez que habla!
+¡Oh! ¡Agradecido estar!
+En... En <1be0ffbe34ff>Vallenegro<1ce0>... haber <1be064f4ecff>seis<1ce0>...<03e0>Yo perder, en pasaje secreto, secreto.<04e0>Pero allí estar, de amigo pequeñito...<03e0>Brillante, brillante.<03e0>Ser brillante... <1be064f4ecff>Mi tesoro<1ce0>.
+¿Encontrarlos?
+Oh... Oh...
+Pero... necesitar más...
+...<04e0>¿Eh?
+¡Hey! ¿Qué tenemos aquí? Encantado, pequeñajo.<03e0>Dime, ¿qué puedo hacer por ti? ¿Darle una lección<03e0>a alguien? ¿Acabar con algún incordio?<04e0>Tengo una oferta especial: ¡si me encargas<03e0>un fiambre, te consigo otro de regalo!<04e0>Es un chiste, ¿lo pillas?<03e0>Sí, apuesto a que sí, je, je...<03e0>Como siempre digo, soy un experto en fiambres.<04e0>¿Cómo lo quieres, chico? ¿Troceado en pedacitos?<03e0>¿Cortado en rebanadas? ¿Con hueso o sin hueso?<04e0>Me siento orgulloso de lo que hago, así que<03e0>mis servicios están garantizados de por vida.<04e0>Venga... Escúpelo, mi pequeño amigo mitra.<06e0000008e0000000000000>¿Ya te has olvidado de mí?<09e008e0010000000000>Umm... Encontré tu tesoro.
+Hey, hey, hey, ¿de qué leches hablas?<03e0>Yo nunca olvido una cara, y menos aún<03e0>la de alguien que quiere que le parta la suya a otro.
+¿Eh?<03e0>Hey, ¿pero de qué vas?<03e0>Yo acepto dinero, no baratijas, chico.
+¿Yo te pedí esta basura?<03e0>¿Es que te caíste de la cuna cuando eras crío?<04e0>¡Demonios! ¡Ha sido él! Maldita sea, otra vez no.<03e0>¡Será inútil!
+¡Maldita sea! Acabo de despertarme y ya estoy cabreado.<03e0>Voy a ir a repartir tortas a ver si me calmo...<03e0>Largo de aquí, chico, o empiezo contigo.
+

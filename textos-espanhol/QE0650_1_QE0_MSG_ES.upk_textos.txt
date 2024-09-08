@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0650_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Me he enterado de que el tesoro de uno de los reinos<03e0>perdidos yace en algún lugar del desierto. Pero apuesto<03e0>a que el lugar está plagado de fantasmas...<04e0>¿Irías a mirar?<06e0000008e0000000000000>Claro.<09e008e0010000000300>Paso.
+¡Genial! No te perderás, hay varios pilares repartidos<03e0>por todo el desierto que sirven de guía. Si te acercas<03e0>a ellos, verás que tienen un identificador.<04e0>Recórrelos en el siguiente orden:<03e0>C-4-B-E-A-1, y entonces...
+Bufff... ¡Me dan escalofríos sólo de pensarlo!
+Los pilares están escritos en la antigua lengua<03e0>de los reinos perdidos, así que necesitarás esto.<03e0>Así sabrás cómo tienes que leerlos.
+Vaya, mira que eres aburrido...
+¡Hey! ¿Así que has conseguido el tesoro oculto?<03e0>¡Bravo, mi valiente!
+* Silencio incrédulo *
+¿Una piedra? ¿Este estúpido pedrusco<03e0>es el tesoro oculto de los reinos perdidos?<04e0>¡Y yo que creía haber averiguado algo importante!<03e0>Voy a tener que mejorar mi técnica de espio...<03e0>digo, de investigación.<04e0>Bueno, creo que esta cosa no me sirve para nada,<03e0>así que... ¡Toda tuya!
+Hasta otra.
+¿Ves? Los fantasmas dan miedo de verdad...<03e0>¡Incluso a alguien como tú le dan respeto!<03e0>¿No vas a intentarlo de nuevo?<06e0000008e0000000000000>Ya lo creo.<09e008e0010000000300>Ni loco.
+¡Genial! No te perderás, hay varios pilares repartidos<03e0>por todo el desierto que sirven de guía. Si te acercas<03e0>a ellos, verás que tienen un identificador.<04e0>Recórrelos en el siguiente orden:<03e0>C-4-B-E-A-1, y entonces...
+Veremos que ocurre... * Escalofrío *
+Cobarde...
+

@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0060_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Bienhallado seas, Rush Sykes.<03e0>Mi hijo me ha hablado mucho de ti...<04e0>¡No te preocupes, todo han sido halagos!<03e0>Parece que lo has sacado de muchos apuros.<06e0000008e0000000000000>Ya. En cuanto a esta guerra...<09e008e0010000000000>¿Dónde está Charlotte?
+Balterossa lleva años apropiándose de los beneficios<03e0>que le corresponden por derecho a Royotia.<04e0>Nuestro mayor deseo es poner fin a esta situación<03e0>y lograr el control de nuestras rutas comerciales.<04e0>Pero esa mujer ignora nuestros derechos a su antojo<03e0>y nos culpa de sus propios problemas de seguridad.<04e0>Sus actos constituyen una declaración de guerra...<03e0>¡Y si una guerra es lo que desea, le demostraremos<03e0>de qué somos capaces en Royotia!<04e0>Estableceremos nuestras propias rutas comerciales.<03e0>Si hemos de luchar por ello, que así sea.
+Te refieres a la hija de la Duquesa, ¿verdad?<03e0>Esa lagarta que intenta embaucar a mi hijo...<04e0>¡Pues por supuesto que no sé dónde está!<03e0>Me importa un rábano lo que le pase.<04e0>Por cierto, ¿no sabrás dónde se ha metido Paris?<03e0>Mira que desaparecer cuando estamos a punto<03e0>de entrar en guerra...<04e0>Espero que no haya ido a ver a esa pelandusca...<03e0>¡<1be0ffbe34ff>Lavaluarte<1ce0> es un lugar demasiado peligroso!
+Rush, gracias a ti y a mi hijo hemos sufrido<03e0>muchas menos pérdidas de las que hubiera esperado.<04e0>No obstante, Paris aún tiene mucho que aprender<03e0>sobre política. Mi hijo todavía no está muy ducho<03e0>en asuntos de estado.
+Gracias, Rush.<03e0>Si alguna vez necesitas mi ayuda, búscame<03e0>en la sede del gremio. Haré todo cuanto pueda.
+El señor Paris y lady Charlotte son aún muy jóvenes.<03e0>Me temo que les esperan tiempos difíciles...
+Las relaciones entre países dependen en gran medida<03e0>de las naciones que les rodean.
+Según parece, el ejército de Balterossa<03e0>ha sufrido graves pérdidas.
+

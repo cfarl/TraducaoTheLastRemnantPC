@@ -1,0 +1,28 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0460_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Oyes eso?
+Ese bramido es la llamada de la protectora<03e0>de esta ciudad, la Guardiana del fuego.<03e0>No sé por qué, pero creo que quiere verte.
+¿Piensas reunirte con la Guardiana del fuego?<06e0000008e0000000000000>Sí, ¿por qué no?<09e008e0010000000300>A ver si me va a comer...
+Muy bien.
+Toma, aquí tienes la llave de <1be0ffbe34ff>Lavaluarte<1ce0>.<04e0>Con ella podrás abrir la puerta que mi pueblo<03e0>lleva tanto tiempo guardando. Entra y dirígete<03e0>a las tierras más profundas.<04e0>Cuando llegues a una plaza en llamas,<03e0>verás a la Guardiana del fuego.
+Para serte sincero...
+La verdad es que, por lo que yo sé, es la primera vez<03e0>que la Guardiana del fuego se reúne con alguien<03e0>que no pertenece a la familia real... ¿Qué querrá de ti?
+Perdona, sólo estaba pensando en voz alta...<03e0>Adelante, joven Sykes, es hora de partir.
+No seas ridículo. La Guardiana del fuego es alguien<03e0>de gran importancia para este país. Por lo menos,<03e0>deberías escuchar lo que tiene que decirte.
+La Guardiana del fuego, protectora de nuestra ciudad,<03e0>solicita tu presencia.<04e0>Supongo que irás a su encuentro, ¿verdad?<06e0000008e0000000000000>Claro, lo haré.<09e008e0010000000300>Umm... Creo que paso.
+Bien.
+Ten, aquí tienes la llave de <1be0ffbe34ff>Lavaluarte<1ce0>.<04e0>Con ella, podrás abrir la puerta que mi pueblo<03e0>lleva tanto tiempo guardando. Entra y dirígete<03e0>a las profundidades de la tierra.<04e0>Cuando llegues a una plaza en llamas,<03e0>verás a la Guardiana del fuego.
+Para serte sincero...
+La verdad es que, por lo que yo sé, es la primera vez<03e0>que la Guardiana del fuego se reúne con alguien<03e0>que no forma parte de la familia real.<04e0>¿Qué querrá de ti?
+Perdona, sólo estaba pensando en voz alta...<03e0>Adelante, joven Sykes, es hora de partir.
+Entiendo...<03e0>Vuelve a verme si cambias de opinión.
+Creo que la Guardiana del fuego, protectora de Royotia,<03e0>reclama tu presencia.
+Una vez más... ¿Te reunirás con ella?<06e0000008e0000000000000>Voy para allá...<09e008e0010000000300>No, creo que paso.
+Bien.<03e0>Adelante, joven Sykes.
+Vaya, así que la vas a hacer esperar...<03e0>Tengo un mal presentimiento...
+Entiendo...<04e0>De modo que, para salvar a mi país, debes destruir<03e0>a una bestia llamada Vespalia...<04e0>Es la primera vez que oigo hablar de tal monstruo,<03e0>pero no hay motivos para dudar de la palabra<03e0>de la Guardiana del fuego.
+En cuanto a estos fragmentos carmesíes...<03e0>Por lo menos en eso sí que puedo ser de utilidad.<04e0>El tesoro más antiguo de Royotia es una gema rojiza<03e0>que centellea como el fuego, la <1be064f4ecff>Manoryll Salia<1ce0>,<03e0>un latido solidificado del corazón de un Roc.<04e0>Es una gema legendaria que pertenece a nuestra nación,<03e0>pero ahora es tuya.
+Te lo ruego, Rush Sykes... Haz todo lo que puedas<03e0>para proteger a Royotia.
+Este pasaje te llevará ante la Guardiana del fuego.<03e0>Cuando estés preparado para reunirte con ella,<03e0>sólo tienes que seguirlo.<04e0>Buena suerte, Rush Sykes. Mi país está en tus manos.
+

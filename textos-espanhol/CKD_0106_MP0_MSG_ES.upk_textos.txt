@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CKD_0106_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¿Quieres usar el teletransportador?<06e0000008e0030000000000>Vamos al nivel Metopon.<09e008e0020000000000>Vamos al mapa del mundo.<09e008e0010000000300>No, me quedo aquí.
+La puerta está cerrada a cal y canto.
+

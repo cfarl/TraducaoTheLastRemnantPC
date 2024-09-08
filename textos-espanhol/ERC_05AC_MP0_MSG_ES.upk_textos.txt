@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_05AC_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido a la Academia.<03e0>Soy Haruko, la directora.
+¿Eres Rush Sykes? Soy Haruko, la directora<03e0>de la Academia. Siento mucho que no puedas<03e0>ver a tus padres...
+Te diré una cosa, pero que no salga de aquí...<04e0>Los doctores John y Marina Sykes se encuentran<03e0>en las <1be0ffbe34ff>Tierras Sagradas<1ce0>. Están llevando a cabo<03e0>una pequeña investigación.
+Tendrá que pasar algún tiempo antes de que nadie<03e0>pueda ponerse en contacto con ellos, porque hay<03e0>que usar el <1be0ffbe34ff>Arca<1ce0> para llegar hasta allí...<04e0>Por desgracia, cada vez que se usa esta reliquia,<03e0>hay que esperar varios meses para volver a usarla.
+Tus padres se encuentran en las <1be0ffbe34ff>Tierras Sagradas<1ce003e0>trabajando en una investigación.<04e0>No se podrá contactar con ellos durante un tiempo.
+Siento mucho que no puedas ver a tus padres...
+Bienvenido a la Academia.
+Bienvenido a la Academia.<03e0>¿En qué puedo ayudarte?
+Umm...<06e0000008e0000000000000>Vengo a ver a los Sykes.<09e008e0010000000000>En nada, olvídalo.
+Lo siento, pero los doctores Sykes están ocupados<03e0>trabajando en una investigación muy importante<03e0>y no se les puede molestar.
+La Academia trabaja para hacer de este mundo<03e0>un lugar mejor y difundir los resultados de su labor<03e0>por todos los rincones del mundo.<04e0>No podemos dejar que nuestros asuntos personales<03e0>interfieran en nuestro trabajo.
+El acceso a los laboratorios sólo está permitido<03e0>a los miembros de la Academia.
+Trabajé con John en un proyecto hace tiempo.<04e0>A pesar de ser uno de los mejores científicos<03e0>con los que cuenta la Academia, es muy amable<03e0>y nada pretencioso.<04e0>Además es un hombre de familia. Tiene un retrato<03e0>de sus hijos encima de su mesa, y cada dos por tres<03e0>se para a mirarlo...
+¿Cómo? ¿Dices que el Arca se ha activado?<03e0>Es imposible... Está vinculada a un miembro<03e0>de la Academia.<04e0>Sólo un miembro del equipo de investigación<03e0>nombrado por la Academia podría activarla...<03e0>Tus ojos te están jugando una mala pasada.
+Desde que se eligió al nuevo Consejo,<03e0>los partidarios del duque Hermeien<03e0>han ido dejando la Academia.<04e0>Por culpa de esta reorganización,<03e0>mis responsabilidades y mi salario son menores.<04e0>Pero da igual. Me quedaré y seguiré con mi trabajo.
+¿Estás buscando una reliquia que te lleve<03e0>a las Tierras Sagradas?<04e0>El caso es que he oído que existe una reliquia<03e0>similar al Arca de Elysion en algún lugar del mundo...
+¿Cómo? De modo que quieres saber qué ocurriría<03e0>si desaparecieran las reliquias, ¿eh?<04e0>Por lo que sé, la tierra volvería a su estado original.<03e0>En los desiertos, el viento resecaría la tierra<03e0>y las plantas se marchitarían y desaparecerían.<04e0>Otras ciudades quedarían arrasadas por erupciones<03e0>volcánicas, o sus ríos se desbordarían y anegarían<03e0>sus tierras.<04e0>Pero siempre habría ciudades que se salvarían...<03e0>Al fin y al cabo, hay lugares que no tienen reliquias.<04e0>Fíjate en la isla de Eulam, sin ir más lejos.<03e0>He oído que no es mas sitio para vivir,<03e0>y eso que no tienen ninguna reliquia.<04e0>Dicho lo cual, si no es indiscreción...<03e0>¿Puedo saber por qué lo preguntas?
+Admiro a los doctores Sykes. Son los científicos<03e0>más brillantes de la Academia...<04e0>Pero mi respeto se lo han ganado porque se oponen<03e0>abiertamente al uso de las reliquias como armas.<04e0>¡Me encantaría trabajar con ellos algún día!
+¿¡Se ha activado el Arca!?<03e0>¿Cómo es posible una cosa así?<04e0>Cuando se forja un vínculo con una reliquia,<03e0>ninguna otra persona puede activarla a menos<03e0>que el vínculo anterior se rompa...<04e0>Eso lo aprende todo el mundo en el cursillo<03e0>de introducción a las reliquias. ¿Es que todo<03e0>lo que nos han enseñado es mentira?
+Después de que lord Hermeien muriera,<03e0>tuvieron lugar varios cambios en la Academia.<04e0>Hasta la directora Haruko fue despedida, y eso<03e0>que amaba su trabajo y se empleaba a fondo<03e0>en la investigación... Era una gran directora.<04e0>De los pocos que quedaron, muchos se fueron<03e0>por su propio pie.<04e0>Pero yo pienso quedarme aquí.<03e0>¡He de conseguir que lo acontecido en Nagapur<03e0>no vuelva a ocurrir nunca!
+El primer Emperador celestial puso a los Hermeien<03e0>a cargo de las reliquias que descubrió...<04e0>El difunto ex presidente Hermeien es la única persona<03e0>que podría haberos ayudado a encontrar una reliquia<03e0>similar al Arca.
+El anterior director era un vejestorio nombrado<03e0>por el antiguo Presidente del Consejo.<04e0>Era exigente, autoritario y aficionado a los secretos.<03e0>La verdad es que no le caía bien a casi nadie.<04e0>Hubo muchos problemas, y eso que no nos enteramos<03e0>ni de la mitad. Casi todo el mundo piensa que la última<03e0>reorganización de personal se hizo para cubrirlos.
+En la ciudad todo el mundo se pregunta<03e0>cómo se ha podido activar el Arca...<04e0>La legendaria Marion Marshall era la única capaz<03e0>de anular los vínculos existentes de las reliquias.<03e0>¿Y si hubiera... vuelto?
+El último duque Hermeien usaba la Academia<03e0>como tapadera para sus abyectos propósitos,<03e0>como duplicar las reliquias y usarlas como armas...<04e0>Me entristece pensar que mis colegas científicos<03e0>pudieran hacer una cosa así.<04e0>Me quedaré y... encontraré la manera<03e0>de usar las reliquias para hacer el bien.
+El Arca fue descubierta por el primer Emperador<03e0>celestial.<04e0>Tal vez haya otras reliquias similares<03e0>en las tierras que visitó a lo largo de su vida...
+...
+

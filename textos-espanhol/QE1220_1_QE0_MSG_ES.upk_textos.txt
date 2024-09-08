@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1220_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+La población de jhanas se está descontrolando,<03e0>así que los Halcones Argénteos hemos decidido<03e0>tenderles una trampa en <1be0ffbe34ff>Vallenegro<1ce0> y aplastarlos.<04e0>¿Querrías echarnos una mano?<06e0000008e0000000000000>¡Por supuesto!<09e008e0010000000000>Qué aburrimiento...
+Estoy a punto de partir hacia <1be0ffbe34ff>Vallenegro<1ce0>.<03e0>¿Estás preparado?<06e0000008e0000000000000>¡Sí!<09e008e0010000000300>Un segundo...
+¡Gloria a los Halcones!
+Si tienes cosas que hacer, tómate tu tiempo.
+Siempre he dicho que es preciso ser piadoso<03e0>con todos los seres vivientes, pero los jhanas<03e0>no merecen tamaña cortesía.
+Bien hecho. Supongo que esto los tranquilizará<03e0>durante una temporada, por lo menos.<04e0>Los jhanas se asustan con facilidad, pero volverán...<03e0>y en mayor número.
+Ten, toma esto.
+Es posible que vuelva a pedirte ayuda<03e0>en otra ocasión... ¡Hasta entonces!
+La población de jhanas se está descontrolando,<03e0>así que los Halcones Argénteos hemos decidido<03e0>tenderles una trampa en <1be0ffbe34ff>Vallenegro<1ce0> y aplastarlos.<04e0>¿Querrías echarnos una mano?<06e0000008e0000000000000>¡Por supuesto!<09e008e0010000000000>Qué aburrimiento...
+

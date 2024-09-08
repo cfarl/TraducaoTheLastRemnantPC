@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1175_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿La reliquia localizadora<0fe003e00ee0>dice que hay algo por aquí?
+Sí... Siento su presencia.
+¿Quién va?
+Yo Zu... Zuido, ayudante del Invasor...<1ae000002c430fe005e001000ee0>Yo ma... ma... mataros a todos.
+¡Miedo! ¡Dar miedo!<1ae0000002430fe005e001000ee0>¡Vo... vosotros dar miedo! Yo...
+Os voy a mandar al otro barrio ya mismo.<0fe003e00ee0>¡Por algo me llaman «el Triturador»!<1ae0000025430fe005e001000ee0>¿Te enteras, mocoso?
+¡No tengo miedo de nada! ¡Ja!<0fe003e00ee0>¡Al final, todos acabamos palmándola!<1ae0000020430fe005e001000ee0>Dicen que el otro barrio no está tan mal.<0fe003e00ee0>¿Qué decís, os apetece comprobarlo?
+

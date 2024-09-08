@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0400_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Supongo que ya has oído hablar de ese famoso<03e0>«monstruo volante», ¿eh?<04e0>Me imagino que ya te habrás dado cuenta,<03e0>pero el «monstruo» en cuestión es el Lob Omen.<04e0>Parece que, al ver la que se ha armado en Nagapur,<03e0>ha decidido esconderse en <1be0ffbe34ff>Fordragón<1ce0>.<04e0>Me gustaría recuperarlo, pero el lugar se ha llenado<03e0>de monstruos desde que Hermeien desapareció.<03e0>Es peligroso incluso para mí.<04e0>Pero oye, supongo que ya no me guardas rencor<03e0>por raptar a tu hermana y haber intentado matarte<03e0>unas cuantas veces... ¿Verdad?<04e0>¿Podrías ayudarme a recuperar el Lob Omen?<03e0>Al fin y al cabo, a ti te gusta buscar reliquias...<03e0>¿Qué me dices? ¿Estás conmigo?<06e0000008e0000000000000>Claro, tío. Sin rencores.<09e008e0010000000300>Búscate la vida, colega.
+¿Qué pasa?<03e0>¿Me ayudas a recuperar el Lob Omen o no?<06e0000008e0000000000000>Claro, tío.<09e008e0010000000300>Cuando las ranas críen pelo.
+Genial, así me gusta.<04e0>Podemos colarnos en el castillo a través<03e0>del <1be0ffbe34ff>Acueducto<1ce0>... ¡Que empiece el baile!
+Genial, así me gusta.<04e0>Podemos colarnos en el castillo a través<03e0>del <1be0ffbe34ff>Acueducto<1ce0>... ¡Que empiece el baile!
+Bah. Cobardica.<03e0>Yo nunca te hubiera dejado tirado.
+¿Qué hay, Rush? Gracias por echarme un cable<03e0>para recuperar el Lob Omen.<04e0>Toma esto... No es gran cosa, pero quédatelo<03e0>y no seas tonto.
+¿Por qué cuernos me miras con esa cara?<03e0>¿Qué pasa? ¿Creías que no tenía modales?<04e0>¡Será posible! Mira que eres...<03e0>Bah, qué más da... Hasta la próxima, tío.
+

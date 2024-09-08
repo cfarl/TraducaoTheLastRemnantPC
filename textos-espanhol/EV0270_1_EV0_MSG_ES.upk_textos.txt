@@ -1,0 +1,24 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0270_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Teníais razón, lord David. Sin duda,<0fe003e00ee0>esa criatura volante ha de ser una reliquia.
+Confirmadlo con la Academia.
+Sí, milord.
+¿Quién andará detrás de esto?
+Todavía no sabemos lo suficiente...<1ae00000dc420fe005e001000ee0>Sin duda, la situación es<0fe003e00ee0>más complicada de lo que creíamos.
+Sí. Deberíamos mantenernos al margen<0fe003e00ee0>hasta que tengamos más información.
+¿Y qué pasa con Irina?<0fe003e00ee0>¿Qué hago, cruzar los dedos?
+No estamos ante un enemigo corriente.<0fe003e00ee0>Es necesario un plan bien elaborado.
+¡Dave, diles algo!
+Torgal tiene razón.
+Nuestro enemigo<0fe003e00ee0>tiene en su poder una reliquia<1ae00000a4420fe005e001000ee0>de la que ni siquiera<0fe003e00ee0>han oído hablar en la Academia.
+Tomar una decisión precipitada<0fe003e00ee0>pondría a Athlum en peligro.<1ae00000e6420fe005e001000ee0>Has de comprender mi posición, Rush.
+¿A dónde vas?
+A buscar a Irina, por supuesto.
+¿Acaso la gente de Athlum<0fe003e00ee0>no es lo más importante para ti?<1ae00000dc420fe005e001000ee0>Bueno, pues para mí<0fe003e00ee0>lo más importante es Irina.
+Gracias por haberme ayudado hasta ahora.<0fe003e00ee0>En adelante, me las arreglaré yo solo.
+Lord David, todavía<0fe003e00ee0>no sabemos nada sobre su talismán.
+Quizás deberíamos haberlo retenido.
+Quizás. Sé que vamos a necesitar<0fe003e00ee0>más poder... No va a ser suficiente<1ae0000022430fe005e001000ee0>con el Gae Bolg y el Corazón Valeroso.
+El futuro de Athlum está en juego...
+

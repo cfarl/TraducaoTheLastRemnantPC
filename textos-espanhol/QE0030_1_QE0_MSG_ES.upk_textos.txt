@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0030_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Mi esposa ha vuelto a desaparecer, y esta vez<03e0>tengo un mal presentimiento.<04e0>Ya sé que anda viéndose con ese hombre, pero<03e0>lo que me da miedo es que la esté utilizando...<03e0>O que le esté llenando la cabeza de tonterías.
+Ah, joven, ¿tenéis un momento?<03e0>Creo haber averiguado el paradero de mi esposa.<03e0>¿Podríais ir a comprobar si se encuentra bien?<06e0000008e0000000000000>Claro.<09e008e0010000000300>Seguro que no le pasa nada.
+Se encuentra en el interior de las <1be0ffbe34ff>cavernas de Gaslin<1ce0>.<03e0>Daos prisa, os lo ruego.
+¿Cómo podéis estar tan seguro?
+Violet, mi esposa, ha desaparecido.<03e0>Espero que no le haya ocurrido nada malo...<03e0>¿Podríais ir a ver si se encuentra bien?<06e0000008e0000000000000>Claro.<09e008e0010000000300>Seguro que no le pasa nada.
+Se encuentra en el interior de las <1be0ffbe34ff>cavernas de Gaslin<1ce0>.<03e0>Daos prisa, os lo ruego.
+¿Cómo podéis estar tan seguro?
+¿Todavía no la habéis encontrado?<03e0>¿Y si le ha pasado algo?<06e0000008e0000000000000>Ya estoy en ello.<09e008e0010000000300>Calma, hay tiempo de sobra.
+Se encuentra en el interior de las <1be0ffbe34ff>cavernas de Gaslin<1ce0>.<03e0>Daos prisa, os lo ruego.
+¡Sois el mayor holgazán que he conocido jamás!
+El duque de Qubine ha manejado la situación<03e0>de forma admirable, pese al peligro que entrañaba.
+Últimamente Violet y yo hablamos más a menudo,<03e0>aunque sigue desapareciendo con frecuencia.<04e0>Tratadla bien si os la encontráis por ahí, ¿vale?<04e0>Ah, y tomad esto. Es una pequeña recompensa<03e0>por vuestros desvelos.
+Detrás de la taberna hay un gremio muy selecto.<03e0>Me aseguraré de que conozcan vuestro nombre<03e0>y vuestras hazañas.<04e0>No sé cómo agradeceros vuestra ayuda.
+

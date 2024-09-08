@@ -1,0 +1,34 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GOL_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¿Quién sois y qué hacéis aquí? Esto es Ghor,<03e0>más conocida como la ciudadela de los guerreros.<04e0>Aquí se reúnen los mejores soldados del mundo<03e0>al servicio del valiente duque de Ghor.<04e0>¿Cómo? ¿Venís de Athlum? Eso significa que estáis<03e0>a las órdenes de ese mocoso, el duque de Qubine...<04e0>¡Si no tenéis asuntos que atender, largaos de aquí!
+Message 2
+Message 3
+Message 4
+¡Desde que nombraron Presidente al duque de Ghor,<03e0>la ciudadela de los guerreros se ha convertido<03e0>en un hervidero de actividad!<04e0>Nos ha tocado vivir en unos tiempos muy movidos...<03e0>Menos mal que nuestro Señor es capaz de conducir<03e0>por el buen camino a las almas más descarriadas.<04e0>Como habitante de esta ciudad, estoy dispuesto<03e0>a hacer lo que sea con tal de ayudar.
+¡Maldito sea el Invasor!<04e0>¡No sabes cuántas veces me han entrado ganas<03e0>de asaltar su fortaleza con mis muchachos y darle<03e0>su merecido a ese canalla y a sus sicarios!<04e0>Pero debo conservar la calma, y más aún ahora<03e0>que nuestro Señor se encuentra indispuesto.<04e0>Ahora mismo, lo primero es su recuperación:<03e0>es mejor no darle motivos para preocuparse.<04e0>Mientras tanto, no pienso permitir que entre<03e0>en la ciudad nadie que tenga pinta sospechosa.
+Los Lores de Ghor han servido fielmente<03e0>a la familia Hermeien de Nagapur desde hace<03e0>tres generaciones.<04e0>Si alguien intentase plantarle cara a Nagapur,<03e0>las tropas de Ghor se encargarían de poner<03e0>las cosas en su sitio.<04e0>Te diré una cosa, pero que quede entre nosotros...<03e0>La verdad es que nuestro Señor me parece<03e0>mucho más competente que lord Hermeien.
+Message 2
+Message 3
+Message 4
+¡Es increíble que el gobernador de una ciudad<03e0>tan pequeña como la nuestra haya sido nombrado<03e0>Presidente del Consejo!<04e0>Últimamente parece que todo es posible...<04e0>O eso, o las demás ciudades del mundo<03e0>al fin se han dado cuenta de lo mucho<03e0>que vale nuestro Señor... ¡Juas, juas, juas!
+Hace mucho tiempo, se me ocurrió desafiar<03e0>al duque de Ghor para hacerme con el cargo<03e0>de Señor de la ciudadela.<04e0>Fue un combate breve pero intenso...<03e0>Sobre todo breve.<04e0>Sobra decir que me llevé una paliza de impresión,<03e0>pero me quedé maravillado al comprobar su fuerza<03e0>en mis propias carnes.<04e0>Nuestro Señor es el guerrero más fiero del mundo.<03e0>No va a morir sin dar mucha guerra antes... ¡Ya verás!
+¿Es la primera vez que vienes por aquí?<03e0>Esta ciudad es un poco liosa, ¿verdad?<04e0>Antiguamente, este sitio no era más<03e0>que un antiguo castillo abandonado...<04e0>Pero, desde que nuestro Señor la convirtió en su hogar,<03e0>esta fortaleza es un destino obligado para los guerreros<03e0>más experimentados de todo el mundo.<04e0>Por eso he venido hasta aquí, ¿sabes?
+Message 2
+¡Nuestro Señor es el nuevo Presidente del Consejo!<03e0>Supongo que eso quiere decir que los demás Lores<03e0>han apoyado su candidatura...<04e0>¡Todo el mundo está muy emocionado!<03e0>¡Incluso han abierto la taberna del barrio<03e0>hasta el amanecer para celebrarlo!<04e0>Creemos de corazón en nuestro Señor,<03e0>así que lucharemos por él si es necesario.
+Message 4
+Esta ciudad no tiene ninguna reliquia gigantesca,<03e0>al contrario que otras ciudades...<04e0>Pero nuestro Señor no se separa nunca<03e0>de un hacha llamada Bilquis.<04e0>Tiene el poder de sacar a relucir lo mejor de cada uno,<03e0>el poder que todos llevamos dentro.<04e0>Esa gran hacha representa la presencia y el poder<03e0>que ostenta nuestro Señor...<04e0>¡Te apuesto lo que quieras a que no encuentras<03e0>un arma más hermosa en todo el mundo!
+Message 2
+¿Has visitado Nagapur últimamente?<04e0>No es la primera vez que mis ojos contemplan<03e0>los estragos de la guerra, pero nunca había visto<03e0>semejante destrucción...<04e0>Estoy un poco preocupado...<03e0>¿Y si el Bilquis hiciera lo mismo<03e0>y causara una catástrofe semejante?<04e0>¡Una pequeña fortaleza como la nuestra<03e0>quedaría destruida en cuestión de segundos!
+Message 4
+¿No crees que hay algo sospechoso<03e0>aquí debajo?
+Ah, hola. ¿Te vas ya? ¿No?<03e0>Pues a mí no me des la paliza...<04e0>Oye, antes de irte...<04e0>Creo que algo se esconde bajo esta ciudad.<03e0>Hemos rebuscado en todos los rincones del castillo,<03e0>pero puede que lo que buscamos esté bajo tierra.<04e0>¡Estoy formando un equipo de excavación<03e0>para hacer el descubrimiento del siglo!<04e0>El Arco Iris fue un hallazgo, pero era nuestro hallazgo<03e0>y sólo nuestro...<03e0>¡Tengo que descubrir algo importante de verdad!<04e0>Esto va a requerir mucho tiempo y dinero...<03e0>Prometo ayudarte si me necesitas, <03e0>¡pero sólo si no me das la vara en mi tiempo libre!<04e0>Venga, hasta luego. ¡Nos vemos!
+Bufff...<03e0>¿Va a funcionar esto alguna vez?
+¿Tienes algún trabajo para mí?<04e0>¿No?<03e0>Es que necesito dinero para mi excavación...<04e0>Pagus me sugirió que me acercara por un gremio,<03e0>así que me vine para acá...<03e0>Pero ahora no aparece por ningún lado.<04e0>Y eso que fue él mismo el que descubrió<03e0>la leyenda del Arco Iris. ¡Ni siquiera recuerdo<03e0>cómo me metí yo en toda esta historia!<04e0>¿Será posible...?
+Nada...<03e0>Sigue sin aparecer...
+Vaya, Rush, ¡dichosos los ojos!<03e0>Te estaba buscando...<04e0>Se me echó el mundo encima cuando se vino abajo<03e0>mi idea de crear un equipo de excavación,<03e0>así que ahora tengo otro plan.<04e0>¡Y estaba pensando en pediros ayuda!<03e0>Por supuesto que os pagaré por ello, faltaría más.<04e0>La zona del Castillo de Ghor parece sospechosa...<03e0>¡Estoy convencido de que allí hay algo!<04e0>Trataré de convencer al duque de Ghor<03e0>para que nos deje investigar la zona.<03e0>Así que venga, anda, ¡ayudadme!
+¡Tenéis que uniros a mi grupo de excavación!<03e0>Pediré permiso al duque de Ghor para excavar<03e0>debajo del castillo. ¿Qué decís?
+Hey, Rush...<04e0>No he conseguido el permiso del duque de Ghor.<03e0>Cuando se lo pedí, me fulminó con la mirada...<04e0>* Suspiro *<04e0>En fin... Tendremos que excavar en otro sitio.<03e0>Hay montones de ruinas por el mundo...<03e0>¡No pienso rendirme tan fácilmente!<04e0>En tiempos tan duros como estos,<03e0>lo mejor es tener la mente ocupada en algo.<03e0>Además, se supone que doy esperanza a la gente.<04e0>Así que... ¡Venga!<03e0>¡Vayamos a realizar el descubrimiento del siglo!
+¡Rush! ¿Ya estás listo?<03e0>¡Vamos a realizar el descubrimiento del siglo!
+¿Qué?<03e0>¿Que el ejército de Celapalais busca a Maddox?<04e0>¡Sí, hombre! ¡No me lo creo!<03e0>Vale que es un buen tipo, pero también<03e0>es un pobre viejo paranoico.<04e0>Piensa un poco...<03e0>Si eso fuera cierto, ¿no crees que Athlum<03e0>andaría detrás de él también?<04e0>Menudo majareta...
+

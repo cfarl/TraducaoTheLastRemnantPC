@@ -1,0 +1,272 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hola! Bienvenido a la Taberna del Ámbar.
+Parece que han visto a algún tipo de animal<03e0>rondando por las tiendas de la avenida de Grant.<03e0>Como aparezca por aquí, no sé qué voy a hacer...
+Han venido por aquí unos soldados que andaban<03e0>buscando a alguien... No se trataría de ti, ¿verdad?
+Vaya... ¿A qué viene esa cara?<03e0>¿Es que te has peleado con alguien?<03e0>¿Has discutido con tu chica, tal vez?
+Esos soldados han vuelto por aquí. Parece que traen<03e0>un mensaje del marqués de Athlum. Te están buscando<03e0>a ti, ¿verdad? Venga, a mí me lo puedes contar todo...
+Hijo, sí que estás solicitado... Ha vuelto a venir<03e0>un mensajero de Athlum que preguntaba por ti.<04e0>Y yo que pensaba que eras un guaperas cualquiera...<03e0>¿Qué pasa, acaso eres uno de los generales de Athlum<03e0>o algo así?
+Ufff... ¡Qué aburrimiento!<04e0>¡Pensaba que trabajar en la taberna me ayudaría<03e0>a conocer a gente interesante, pero todos los clientes<03e0>son gente del barrio!<04e0>¡Ya me gustaría que lord Qubine viniese por aquí<03e0>a tomar algo, por ejemplo!<03e0>Aunque, la verdad, aún es un poco jovencito...
+Por la avenida de Grant circula el rumor de que<03e0>un gran ejército se está reuniendo en Nagapur.<04e0>No estarán pensando en declararnos la guerra<03e0>o algo por el estilo, ¿verdad?<04e0>Aunque si así fuera no tendríais de qué preocuparos,<03e0>mi bella tabernera... ¡Si fuera necesario, daría mi vida<03e0>con tal de protegeros!
+¡No me puedo creer que el ejército del Invasor<03e0>barriese a nuestros soldados con tanta facilidad!<03e0>A fin de cuentas, sus tropas no eran nada especial...<04e0>Oh, bella tabernera escanciadora de néctar celestial...<03e0>¿Qué opináis de mi valiente aportación a la defensa<03e0>de la ciudad?<04e0>¿Cómo? ¿Me visteis esconderme bajo la barra?<04e0>Es que sufrí una... indisposición momentánea.<03e0>Pero no fue nada, de verdad... Ejem.
+Una vez cada dos años, más o menos, los Lores<03e0>celebran una gran reunión del Consejo en Elysion,<03e0>la ciudad sagrada situada en el centro del continente.<04e0>Lo malo es que está muy lejos de aquí. Si planeas<03e0>ir a Elysion, prepárate para un largo viaje.
+¿Has oído hablar de Balterossa? Es una ciudad situada<03e0>en el desierto del sur. Allí puedes comprar armas<03e0>forjadas con materiales exóticos.<04e0>El mercado de la ciudad es uno de esos sitios<03e0>que hay que ver al menos una vez en la vida...<03e0>Si eres capaz de llegar vivo hasta allí, claro está.
+El ejército del Invasor parece tener dos líderes...<04e0>Uno es un gigante con armadura. El otro<03e0>es una mujer muy hermosa, pero que tiene<03e0>una lengua tan afilada como su espada.<04e0>Y se han ganado a pulso dirigir ese ejército...<03e0>Nadie ha sido capaz de derrotarlos en combate.<03e0>Yo no sería capaz ni de hacerles un rasguño.<04e0>Cuando están juntos liberan un aura aterradora.<03e0>Dicen que en cada batalla dejan a su paso<03e0>una montaña de cuerpos sin vida...<04e0>Créeme... Es mejor que no te cruces en su camino.
+¿Has visto a ese yama con cara de pocos amigos<03e0>que está bebiendo solo en el piso de abajo?<04e0>Se trata de uno de nuestros clientes habituales,<03e0>pero ha viajado mucho, al contrario que los demás,<03e0>y sabe mucho más de lo que parece.<04e0>Si buscas información sobre algún lugar exótico,<03e0>échale valor y prueba a preguntarle. Ya sé que da<03e0>un poco de miedo, pero en el fondo es un encanto.
+Cuando atacó el ejército del Invasor, muchos soldados<03e0>se juntaron aquí, en el distrito Lamberro, de camino<03e0>al campo de batalla.<04e0>Pero sólo unos pocos han regresado...<03e0>Vivos, quiero decir.<04e0>Por suerte, ese yama que viene todos los días<03e0>regresó sano y salvo... ¡Menos mal!
+¿Quieres que te hable sobre las familias nobles<03e0>de Celapalais? Bueno...<04e0>Está la casa de los Nielsen, la de los Zita...<03e0>Esas dos y la casa de los Gilles-Barre son<03e0>las más conocidas, si mal no recuerdo.<04e0>Sin embargo, la fortuna de los Gilles-Barre<03e0>ha caído en picado desde que lord Qubine<03e0>asumió el mando de Celapalais.<04e0>Su patriarca, el conde Gierven, falleció hace años.<03e0>Hay quien dice que ése fue el comienzo del fin<03e0>para su familia.<04e0>Los Nielsen, en cambio, han ganado prestigio,<03e0>sobre todo desde que la hija del conde Gierven<03e0>se casó con un miembro de la familia.<04e0>En fin... Está visto que la gente de alta alcurnia<03e0>también tiene sus problemas, ¿no te parece?
+Oh... Voy a caer rendida de un momento a otro...<04e0>¡Rendida de amor, por supuesto!<04e0>Verás, uno de los guardias de Celapalais...<03e0>Tiene unos ojos que relucen más aún<03e0>que el mismísimo Umbermarici...<04e0>Vale, de acuerdo, en realidad no sé cómo es<03e0>porque siempre va con casco...<03e0>Pero tampoco me hace falta.<04e0>Todavía no le he confesado lo que siento por él,<03e0>pero estoy tan enamorada que voy a estallar<03e0>de un momento a otro... Ains...
+¡Soy la chica más feliz del mundo!<03e0>Le pedí una cita a mi amado...<03e0>¡Y me ha dicho que sí!<04e0>Es uno de los guardias de Celapalais...<03e0>¡Sus ojos relucen como el mismísimo Umbermarici,<03e0>pero sólo yo tengo el privilegio de contemplarlos!<04e0>¿Es normal sentirse tan feliz cuando estás enamorada?<03e0>Ojalá pudiera compartir contigo mi felicidad...
+* Sollozos *<04e0>¡Cuán cruel es el destino!<03e0>¡Me ha arrebatado a mi amado por siempre jamás!<04e0>Antes de marcharse, me pidió que no volviera<03e0>a pensar en él si ocurría lo peor...<04e0>Ese idiota...<03e0>¡Ni que fuera tan fácil olvidarse de él!<04e0>Ésta es su espada. Es lo único que ha quedado de él.<03e0>Iba a tirarla, pero ahora que lo pienso...<04e0>¿Quieres quedártela? Después de hablar contigo,<03e0>tengo la impresión de que deberías quedártela...<03e0>Qué extraño, ¿no te parece?
+Ojalá su espada te ayude a proteger a tus amigos.<03e0>Es la única esperanza que me queda...
+¡Alabado sea el Emperador!<03e0>¡Habían destinado a mi amado al Nido de las Águilas,<03e0>pero ha regresado sano y salvo!<04e0>Dice que por un momento todo parecía perdido,<03e0>pero de pronto apareció el ejército de Athlum<03e0>y le dio la vuelta a la batalla.<04e0>¡Y ahora que ha vuelto, ha decidido dejar el ejército<03e0>y casarse conmigo! De hecho, iba a vender su espada,<03e0>pero ahora que lo pienso... ¿Te la quieres quedar?<04e0>Al fin y al cabo, ha protegido a mi prometido<03e0>durante todo este tiempo... ¿Quién sabe?<03e0>¡Tal vez te proteja a ti también!
+¿Te ha resultado útil la espada?<03e0>Ha protegido a mi amado durante todo este tiempo...<03e0>¿Quién sabe? ¡Quizás te proteja a ti también!
+Hmmm... Cara de pánfilo, ropajes estrafalarios,<03e0>andares de pato, hombros caídos...<04e0>¡Oye, tú! No serás Rush Sykes, ¿verdad?<06e0000008e0000000000000>Sí. ¿Por qué?<09e008e0010000000000>Te equivocas, vejestorio.
+Niñato insolente...<04e0>Lord David reclama tu presencia en el <1be0ffbe34ff>castillo<1ce0>.<03e0>Dice que tiene unos asuntos que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+No te esfuerces en hacerte el tonto, chaval.<03e0>Con esa cabeza hueca que tienes, la verdad<03e0>es que no lo necesitas...<04e0>Lord David reclama tu presencia en el castillo de Athlum.<03e0>Parece que tiene un asunto urgente que hablar contigo,<03e0>así que vamos... ¡Date prisa!
+Hmmm... Esa cara, esas ropas...<04e0>Debes de ser Rush Sykes, ¿me equivoco?<06e0000008e0000000000000>Sí, soy Rush.<09e008e0010000000000>No soy el chico que buscáis.
+¡Lo sabía! Traigo un mensaje de lord David.<04e0>Dice que ha encontrado una pista bastante jugosa<03e0>y quiere que acudas al castillo para ponerte al día.<03e0>¿Entendido?
+¡Ja, ja! Déjalo estar, chaval, eres un pésimo actor.<03e0>Lord David quiere hablar contigo, pero no temas...<03e0>No pasa nada grave, al menos que yo sepa.<04e0>Parece que ha encontrado una pista prometedora<03e0>y quiere que vayas al <1be0ffbe34ff>castillo<1ce0> para ponerte al tanto.<04e0>No le hagas esperar demasiado, ¿de acuerdo?<03e0>De lo contrario, igual acabas metido en un lío...<03e0>¡Tranquilo, que es broma!
+¡Ja, ja, ja! ¡Tan bromista como siempre!<03e0>Veréis, os traigo un mensaje de lord David.<03e0>Desea veros en el <1be0ffbe34ff>castillo<1ce0> cuando os venga bien.
+¡Bienhallado seáis! Lord David, marqués de Athlum,<03e0>desea veros en el <1be0ffbe34ff>Castillo de Athlum<1ce0> tan pronto<03e0>como tengáis un momento.
+¡Ja, ja, ja! ¡Tan bromista como siempre!<03e0>Veréis, os traigo un mensaje de lord David.<03e0>Desea veros en el <1be0ffbe34ff>castillo<1ce0> cuando os venga bien.
+Vaya, si es el joven Rush...<04e0>Discúlpame, pero ahora no tengo tiempo para charlar.<03e0>He quedado con una doncella de inigualable hermosura.
+¿Conoces a la feroz Ophelia, la subcomandante<03e0>de la Orden de Melphina?<04e0>No se parece en nada a ese rancio del Comandante.<03e0>Es una dama en la flor de la juventud, una belleza<03e0>con una ardiente sed de justicia... y de otras cosas.<04e0>Ojalá pudiera domar a semejante tigresa...<03e0>Umm... Tal vez debería intentar unirme<03e0>a esa tal Orden de Melphina.
+Ophelia, subcomandante de la Orden de Melphina.<03e0>Algún día me cruzaré en vuestro camino y sentiré<03e0>el ardor de vuestra pasión en mis propias carnes...
+¿Has oído hablar de lady Charlotte de Balterossa?<03e0>Es la preciosa heredera del reino del desierto.<04e0>Su rostro es como un oasis en mitad de las arenas...<03e0>Y su carácter es el de una florecilla suave y delicada,<03e0>¡no como el de esa arpía de su madre!<04e0>Me pregunto si podría hacerme con esa florecilla<03e0>y plantarla en un jardín paradisíaco...
+La princesa del desierto, Charlotte de Balterossa...<03e0>Un día lograré inclinarme hacia vos y susurraros<03e0>al oído mis palabras de amor...
+¿Conoces a la diosa de Elysion, Marion Marshall?<04e0>Ni siquiera la legendaria Reina del desierto pudo<03e0>competir con su grandeza. Dicen que su belleza<03e0>hacía temblar los corazones más valientes...<04e0>Ojalá pudiera contemplarla con mis propios ojos...<03e0>¡El abismo de la historia conspira contra nuestro amor,<03e0>pero juro que encontraré la manera de cruzarlo!
+La diosa de Elysion, Marion Marshall...<03e0>Ojalá pudiera remontar el curso de la historia<03e0>para contemplar vuestra belleza...
+Violet, la idolatrada heredera de la casa<03e0>más ilustre de Celapalais, los Gilles-Barre...<03e0>Es más noble que la más bella de las rosas.<04e0>Oh... ¡Cómo me conmueve verla luchar por la gloria<03e0>de su familia y portar la carga que su difunto padre<03e0>arrastró durante tantos años!<04e0>* Silencio *<04e0>Vale, de acuerdo, voy a ser sincero contigo...<04e0>Soy el tercer hijo de una humilde familia de Athlum.<03e0>En casa no había sitio para mí, así que me escapé<03e0>a la primera oportunidad que tuve.<04e0>Sin embargo, enseguida descubrí que no tenía<03e0>ningún talento con el que ganarme la vida.<04e0>Ya te habrás dado cuenta de que lo mío<03e0>no son las gestas heroicas...<03e0>Mi única cualidad es tener una cara bonita.<04e0>¿Tanto te sorprende oírme hablar así?<03e0>Pese a lo que pueda aparentar, soy muy consciente<03e0>de mi situación... y estoy dispuesto a aprovecharla.<04e0>El caso es que me he dedicado a buscarme la vida<03e0>agasajando damas y cortejando doncellas.<03e0>Ninguna había conseguido robarme el corazón...<04e0>Hasta ahora, claro.<03e0>Por algún motivo, no puedo dejar de pensar en Violet.<03e0>Es la primera vez que me ocurre algo así...<04e0>* Silencio pensativo *<04e0>En fin, perdona que me haya ido por las ramas.<03e0>No sé qué hago contándole algo así a un chaval como tú.<04e0>La verdad, yo me imaginaba al barón Nielsen como<03e0>un bellaco innoble, y en realidad ha resultado ser<03e0>muy abierto de mente... Debería olvidar este asunto.<04e0>Espero que me disculpes. No era mi intención<03e0>hacerte escuchar la historia de mi vida.<03e0>Aunque debo decir que se te da muy bien escuchar.<04e0>Rush, una vez más me gustaría ponerme a tu servicio.<03e0>Prometo hacer todo cuanto pueda...<03e0>Aunque quizá será mejor que no esperes gran cosa.
+¡Rush Sykes! Me alegro de que volvamos a vernos.<03e0>¿Necesitas mis servicios? Si tienes algún problema<03e0>con el sexo opuesto, no dudes en consultarme.
+Últimamente no pasa nada interesante...<03e0>* Suspiro *
+¿Has oído hablar del barón Nielsen?<03e0>Pues su esposa ha vuelto a desaparecer...<03e0>Deben de llevarse como el perro y el gato.
+Cómo está el mundo, ¿verdad?
+Pobre Barón...<03e0>Es uno de nuestros clientes habituales, ¿sabes?
+Ah, ese viejo estirado del bigote, ¿verdad?<03e0>Siempre anda preocupándose por mí.
+Parece mentira, pero he oído que una loca<03e0>pretende asesinar al duque de Qubine...
+Cómo está el mundo, ¿verdad?
+Pues yo había oído contar lo mismo<03e0>sobre el barón Nielsen...
+¡No me digas! Suena sospechoso...
+Parece que la princesa del desierto se escapa<03e0>del castillo cada dos por tres para reunirse<03e0>con un tipo del que anda enamorada. Suena peligroso...
+Cómo está el mundo, ¿verdad?
+Ojalá yo también pudiera escaparme...<03e0>¡La vida no está para pasársela trabajando!
+¡Oye! ¡Si yo tengo que trabajar, tú también!
+¡No te lo vas a creer!<03e0>¡La princesa del desierto se ha fugado con su amado!
+Cómo está el mundo, ¿verdad?
+Conque dejarlo todo y fugarse, ¿eh?<03e0>La verdad es que suena de lo más romántico.
+¡Tú lo que quieres es no venir a trabajar!
+Parece que las relaciones entre Balterossa y Royotia<03e0>andan de capa caída. Están movilizando a sus ejércitos<03e0>y los familiares de los soldados están preocupados...
+Cómo está el mundo, ¿verdad?
+¿Y qué hay de la pobre princesa?<03e0>¿No estaba enamorada de aquel chico de Royotia?
+Supongo que lo habrán dejado...
+Parece que el primer Emperador celestial ocultó algo<03e0>tras una barrera en las grandes marismas... y ahora<03e0>la barrera se ha roto. ¿Será una entrada a otro mundo?
+Cómo está el mundo, ¿verdad?
+Algunas cosas es mejor no tocarlas...<03e0>Será mejor dejarla tranquila, ¿no crees?
+¡Pero es que están saliendo monstruos de allí!
+Una de las doncellas del bosque tiene un vínculo<03e0>tan fuerte con su caballero que es capaz de mirar<03e0>a través de sus ojos y escuchar lo que él oye...
+Cómo está el mundo, ¿verdad?
+¿Y por qué no aprovechamos el vínculo que nos une<03e0>y nos vamos por ahí de vacaciones, eh?<03e0>Seguro que te mueres de ganas...
+¡Que no! ¡Vete tú sola!
+Las doncellas del bosque y la Orden de Melphina<03e0>están montando una expedición. Parece que le pasa<03e0>algo raro a la Hoja Caída, la reliquia de Marismarchita.
+Cómo está el mundo, ¿verdad?
+¿Qué más da? Si los monstruos la quieren,<03e0>por mí se la pueden quedar.
+Eres una irresponsable...
+La Gala Cósmica ya está a punto de comenzar<03e0>y la Ninfa Cósmica aún no ha llegado a Nagapur...<03e0>A ver si va a estar en apuros...
+Cómo está el mundo, ¿verdad?
+¿Y por qué no buscan a otra Ninfa y punto?
+No debe de ser tan fácil.
+Al final la Gala Cósmica empezó según lo previsto.<03e0>El festival suele ser un aburrimiento, pero esta vez<03e0>aparecieron unos monstruos y hubo que interrumpirlo.
+Cómo está el mundo, ¿verdad?
+Pues podrían dejar que los monstruos se apunten, ¿no?
+¿Y convertirlo en un festival de lucha?
+Una dama chapada a la antigua necesita a alguien<03e0>que le haga de guardaespaldas. Parece que recibe<03e0>a los aspirantes en la taberna situada junto al canal.
+Cómo está el mundo, ¿verdad?
+Aquí en Celapalais hay un canal, pero hay algo<03e0>que no me encaja... ¿No se referirá al canal<03e0>de alguna otra ciudad?
+Espera... ¿Desde cuándo tenemos un canal?
+¿Te gustan las antigüedades?<03e0>Parece que los tesoros de los reinos antiguos<03e0>han empezado a aparecer en el mercado negro...
+Cómo está el mundo, ¿verdad?
+La última vez que fuiste a Undelwalt<03e0>viniste cargada de chismes, ¿verdad?<03e0>¿Los compraste en el mercado negro?
+¿Qué insinúas? ¡Los compré en la taberna!
+Hay un tipo que anda buscando tres piedras<03e0>relacionadas con el antiguo reino del desierto.<03e0>Parece que tienen valor histórico, o algo así.
+Cómo está el mundo, ¿verdad?
+Pues igual le puedo echar una mano.<03e0>Mis amigos y yo nos pasábamos el día<03e0>tirándonos piedras cuando éramos críos.
+No le vale cualquier pedrusco, idiota.<03e0>Se trata de unas piedras muy especiales...
+Un tipo aficionado a la arcamagia anda buscando<03e0>a alguien que le ayude en sus experimentos.<03e0>Está a las puertas de un gran descubrimiento...
+Cómo está el mundo, ¿verdad?
+Qué aburrimiento. Que no cuente conmigo.
+Pues vale.
+Parece que no sé qué monstruo al que encerró<03e0>el primer Emperador celestial ha vuelto a las andadas.<03e0>¡La gente anda diciendo que es el fin del mundo!
+Cómo está el mundo, ¿verdad?
+Pues bueno... La vida es así.
+Mira que eres borde...
+Hay un tipo amnésico que se dedica a vagar<03e0>por las ciudades del desierto buscando algo<03e0>que le ayude a recuperar la memoria...
+Cómo está el mundo, ¿verdad?
+Debería concentrarse en disfrutar de la vida<03e0>en vez de perder el tiempo tratando de recuperar<03e0>sus viejos recuerdos...
+Vaya, ¡qué bonito te ha quedado eso!
+Parece que han visto a un famoso bandido<03e0>por los alrededores de Athlum. Se dice que está<03e0>esperando a alguien, pero nadie osa preguntárselo.
+Cómo está el mundo, ¿verdad?
+¿Un famoso bandido? No será Loki, ¿verdad?<03e0>Santo cielo... Athlum ya no es lo que era.
+¿Loki? ¿Y ése quién es?
+Dicen que en las ruinas de Robelia hay una estatua<03e0>capaz de localizar a quien quieras, esté donde esté.<03e0>Un chico que busca a su hermana anda detrás de ella.
+Cómo está el mundo, ¿verdad?
+Imagínate que gracias a la estatua descubres<03e0>que alguien te está poniendo los cuernos...<03e0>¿Qué harías?
+Bueno... Dicen que compartir es vivir, ¿no?
+Un bichejo extraño está rondando por Celapalais.<03e0>Parece que tiene a todo el mundo asustado...
+Cómo está el mundo, ¿verdad?
+Sí, yo me he topado con él... ¡Es horrible!
+Pues a mí me pareció una monada.
+¡Dicen que un asesino anda suelto en la capital!
+Cómo está el mundo, ¿verdad?
+Espero que lo arresten lo antes posible...
+Yo también... ¡Qué miedo!
+Parece que a no sé qué yama descomunal<03e0>se le ha perdido algo, pero nadie se atreve<03e0>a ayudarle porque es un poco... rarito.
+Cómo está el mundo, ¿verdad?
+Lo mejor es no tener nada que ver con esa gente.
+Ya lo sé... Pero me da un poco de lástima, la verdad.
+Parece que un qsiti albino anda buscando cierto libro<03e0>sobre arcamagia. Mucha gente dice que le recuerda<03e0>a alguien, pero nadie sabe exactamente quién es.
+Cómo está el mundo, ¿verdad?
+La arcamagia es un arte antiguo y misterioso, ¿verdad?<03e0>No debe de ser nada fácil dominarlo...
+A mí no me importaría aprenderlo...<03e0>pero no me gusta nada estudiar.
+Dos chicas gemelas han empezado a trabajar<03e0>como mercenarias... ¡y no lo hacen nada mal!<03e0>Eso sí, una de ellas tiene un mal genio espantoso.
+Cómo está el mundo, ¿verdad?
+Ay... Ojalá tuviera una hermana gemela.<03e0>Así podría sustituirme cuando me diera pereza<03e0>venir a trabajar...
+¿No te das cuenta de que, si te sustituye,<03e0>la que cobraría a fin de mes sería ella y no tú?
+En el Océano de Arena hay un tipo que desafía<03e0>a la gente a participar en no sé qué juego...<03e0>Pero no parece dispuesto a medirse con cualquiera.
+Cómo está el mundo, ¿verdad?
+Pues mejor no tratar con ese tío, ¿no?
+¡Por mí estupendo!
+Un viejo guerrero ha cruzado el Océano de Arena<03e0>en busca de una espada muy especial.
+Cómo está el mundo, ¿verdad?
+Nadie puede cruzar el Océano de Arena sin ayuda...
+Pues parece que este tipo sí.
+Los guardias del duque de Ghor han jurado<03e0>ser fieles a su Señor hasta el final de sus días.
+Cómo está el mundo, ¿verdad?
+Los hombres son muy propensos a hacer<03e0>ese tipo de cosas.
+Sí... Tiene su encanto, ¿no te parece?
+La familia de los Honeywell es muy famosa<03e0>por la increíble lealtad de todos sus miembros.<03e0>Si tienes su apoyo, puedes conseguir cualquier cosa.
+Cómo está el mundo, ¿verdad?
+Como la general Emma, ¿verdad?<03e0>Cuando era pequeña, la vi en persona una vez...<03e0>¡Era toda una belleza!
+Se ha conservado bastante bien, pero me pregunto<03e0>qué aspecto tendría de joven.
+Parece que el general Torgal de Athlum<03e0>tiene un pasado un tanto oscuro...En Royotia<03e0>están saliendo a la luz muchos trapos sucios.
+Cómo está el mundo, ¿verdad?
+Torgal es el sovani, ¿verdad? Algo muy gordo<03e0>debe de haberle pasado para que se pusiera<03e0>al servicio de un mitra.
+Umm... ¿Crees que tiene deudas pendientes, o algo así?
+Dentro de nada empezará el Torneo de los héroes...<03e0>Es una competición que tiene bastante prestigio<03e0>entre los aficionados al combate.
+Cómo está el mundo, ¿verdad?
+A mí no me van esas cosas, la verdad.
+Pues a mí me parece que no debe de estar mal.
+Parece que existe una academia que lleva años<03e0>entrenando a los mejores místicos del mundo...
+Cómo está el mundo, ¿verdad?
+Hablando de academias... ¿Cómo llevas los deberes?
+Ejem... La verdad es que no los llevo.
+Athlum atraviesa momentos difíciles y la gente<03e0>anda un poco preocupada por la nueva matriarca<03e0>del clan de los Honeywell. Como es tan jovencita...
+Cómo está el mundo, ¿verdad?
+Todo irá bien. ¡Si es igualita a la general Emma!
+Vaya... ¿Así que la general Emma se parecía<03e0>a la general Emmy cuando era pequeña?
+Últimamente circulan rumores sobre la vida amorosa<03e0>de lord David... o la falta de ella. Después de todo,<03e0>no se le conoce ningún romance...
+Cómo está el mundo, ¿verdad?
+¿En serio? A mí me suena haberlo visto<03e0>con una chica hace algún tiempo...
+¿Qué? ¿Cómo? ¿En serio?<03e0>¡Si sabes algo, ya me lo estás contando!
+Dicen que la ex directora de la Academia se dedica<03e0>a recorrer el mundo entero de taberna en taberna.<03e0>Supongo que está tratando de ahogar sus penas...
+Cómo está el mundo, ¿verdad?
+Lo que no sé es en qué estaban pensando<03e0>cuando la pusieron a cargo de la Academia...
+Es un asunto un poco sospechoso, ¿verdad?
+Los doctores Sykes no hacen más que entrar y salir<03e0>del Castillo de Athlum de un tiempo a esta parte...<03e0>¡Deben de haber realizado un gran descubrimiento!
+Cómo está el mundo, ¿verdad?
+He oído que su hijo también anda por el castillo.
+Debe de haberse alistado al ejército, ¿no?
+Un objeto volador no identificado anda surcando<03e0>el firmamento por los alrededores de Fordragón.<03e0>La gente del lugar anda histérica al respecto...
+Cómo está el mundo, ¿verdad?
+No se le ocurrirá venir por aquí, ¿verdad?
+Si lo hace, lo atraparemos.
+Una guerrera un tanto impulsiva ha decidido detener<03e0>a los causantes de los incidentes de Marismarchita,<03e0>aunque deba desobedecer al líder de su orden.
+Cómo está el mundo, ¿verdad?
+¿Por qué tiene tanto empeño en capturarlos?
+Ya... Algo me dice que lo que mueve a esa mujer<03e0>es su propia sed de venganza.
+Dicen que un ejército de monstruos ha surgido<03e0>del Océano de Arena... ¡Son tan poderosos<03e0>que los habitantes de Balterossa están desesperados!
+Cómo está el mundo, ¿verdad?
+¡Santo cielo! ¿Cómo acabará esta historia?
+Esperemos que no les pase nada...
+Según los expertos en historia, en el interior<03e0>de cierto volcán existe algo capaz de destruir<03e0>ciudades enteras.
+Cómo está el mundo, ¿verdad?
+¿Y desde cuándo lo sabían?<03e0>Podrían haberlo hecho público hace tiempo...
+Supongo que no merecía la pena preocuparse<03e0>por ello mientras permaneciese dormido...
+Nadie sabe exactamente qué es lo que ocurre<03e0>en el interior del volcán, ni cómo averiguarlo...<03e0>Pero quizás el marqués de Royotia tenga alguna idea.
+Cómo está el mundo, ¿verdad?
+Seguro que al Marqués se le ocurre algo.
+Bah... Conociéndole, seguro que pretende<03e0>quemarlo en la hoguera...
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el puesto de su padre.
+Cómo está el mundo, ¿verdad?
+Está claro, ¿no? Deberían gobernar juntos.
+Si no se ponen de acuerdo, ¡yo gobernaré en su lugar!
+Dicen que, si prestas atención, al atravesar el desierto<03e0>se puede oír un lamento triste y solitario que procede<03e0>de las profundidades del Océano de Arena.
+Cómo está el mundo, ¿verdad?
+Para ya, ¿quieres?<03e0>Las historias de fantasmas me dan mal rollo...
+Pero es interesante, ¿no te parece?
+Hace mucho tiempo, un héroe de gran fama<03e0>vivía en el Océano de Arena.
+Cómo está el mundo, ¿verdad?
+Venga, anda... Ya nos conocemos tus historias.<03e0>Seguro que ésta también te la has inventado.
+¡Pues es verdad de la buena!
+Estaba paseando por la ciudad y me topé con un tipo<03e0>que no hacía más que repetir: «Si miráis los pilares<03e0>del Océano de Arena, veréis a los fan... fan... fan...».
+Cómo está el mundo, ¿verdad?
+¡Basta ya de historias de fantasmas!
+Pero es que son tan emocionantes...
+Un científico loco anda merodeando por Melphina.<03e0>Si pasas por allí, es mejor que no te acerques a él.<03e0>¡Dicen que mira a la gente de una forma muy rara!
+Cómo está el mundo, ¿verdad?
+Me pregunto qué se le pasará por la cabeza...
+Supongo que busca cobayas para sus experimentos...
+Dicen que la cafetería de Baaluk está infestada<03e0>de bichos que siguieron al dueño desde el desierto.
+Cómo está el mundo, ¿verdad?
+¿Y la clientela no ha huido en desbandada?
+Como les hagan una inspección de sanidad...
+Nagapur es cada vez menos segura.<03e0>Parece que no hacen más que desaparecer niños...
+Cómo está el mundo, ¿verdad?
+Seguro que los han raptado...<03e0>Hace poco pasaba algo parecido en Athlum, ¿verdad?
+¡Es verdad! Si mal no recuerdo, el general Blocter<03e0>detuvo a los responsables. Me pregunto si estos<03e0>serán los mismos tipos...
+A los aventureros les ha dado por intercambiar<03e0>los tesoros que encuentran durante sus viajes.<03e0>La moda ha calado muy hondo, sobre todo en Royotia...
+Cómo está el mundo, ¿verdad?
+Es la primera vez que oigo tal cosa.<03e0>¿Y dónde dices que se ha puesto de moda?
+Si la cosa sigue el trazado de las rutas comerciales,<03e0>supongo que será entre Balterossa y Royotia.
+Parece que los mercaderes de Royotia están hartos<03e0>de que Balterossa controle sus rutas comerciales.
+Cómo está el mundo, ¿verdad?
+No me extraña. Los artículos de Royotia que llegan<03e0>hasta aquí después de atravesar Balterossa y Elysion<03e0>vienen con unos precios que quitan el hipo.
+Sería mucho más fácil si llegasen<03e0>directamente aquí, ¿no te parece?
+Un mercenario yama anda buscando un socio...<03e0>Sería una buena forma de conseguir unas monedas.
+Cómo está el mundo, ¿verdad?
+¿Dónde se ha visto que un mercenario<03e0>contrate a otros mercenarios?
+Debe de ser un yama muy prudente, ¿no?
+En Celapalais hay un tipo con ciertos problemas<03e0>de personalidad... ¡A veces parece muy simpático<03e0>y otras se pone violento de pronto!
+Cómo está el mundo, ¿verdad?
+De hecho, viene bastante por aquí, ¿no?
+Sí... El otro día parecía muy apenado.
+Hay un qsiti que se pone en lugares concurridos<03e0>y trata de estorbar lo más posible para buscar pelea<03e0>con los que se tropiezan con él. Vaya un pesado...
+Cómo está el mundo, ¿verdad?
+Lo que le ocurre a ese tipo es<03e0>que le falta confianza en sí mismo.
+¿En serio? Yo pensaba que simplemente era un pesado.
+Un chico me ha hablado de una misteriosa joven<03e0>a la que conoció. Estaba seguro de que no tenía<03e0>ninguna posibilidad con ella, pero la veía tan triste...
+Cómo está el mundo, ¿verdad?
+Pues a mí no me importaría que algún chico<03e0>me tirase los trastos...
+¿No lo dirás en serio?<03e0>A mí esos tipos tan babosos me dan grima...
+No sé si habrás pasado por Marismarchita,<03e0>pero parece que las Damas Sangrientas están<03e0>juntándose allí. Debe de tratarse de algo gordo.
+Cómo está el mundo, ¿verdad?
+¿Son esas que van de ciudad en ciudad<03e0>robando todo lo que encuentran a su paso?<03e0>¡Pues a ver si las cazan de una vez!
+¡Eso digo yo!
+Parece que los jhanas han vuelto a hacer de las suyas<03e0>en el Océano de Arena. ¡Pero si parece que fue ayer<03e0>cuando el Gae Bolg los despachó!
+Cómo está el mundo, ¿verdad?
+He oído que los Halcones Argénteos<03e0>ya se están preparando para acabar con ellos.
+¡Menos mal! La verdad es que son una gran ayuda...
+Parece que, hace poco, los Halcones Argénteos<03e0>despacharon a una banda de jhanas...
+Cómo está el mundo, ¿verdad?
+¡Menos mal! No sé que sería de nosotros<03e0>si no fuera por los Halcones Argénteos...
+¡Un día de estos me voy a alistar en su ejército!
+Los Halcones Argénteos van a acabar con lo poco<03e0>que queda del ejército del Invasor. ¡Menos mal!<03e0>Si los dejasen escapar, podrían intentar algo...
+Cómo está el mundo, ¿verdad?
+¿El Invasor? ¿Quién es ese tipo?
+¡Desde luego, debe de ser un tipo peligroso!
+Dicen que un tipo de aspecto sombrío se dedica<03e0>a pasarse las horas muertas en la taberna de Elysion.<03e0>Parece que tiene hartos a los demás clientes...
+Cómo está el mundo, ¿verdad?
+Bueno... En Elysion se junta gente de todo tipo,<03e0>pero comprendo que a veces resulte un fastidio.
+En esa ciudad pasan muchas cosas raras...<03e0>Ya sabes a qué me refiero.
+

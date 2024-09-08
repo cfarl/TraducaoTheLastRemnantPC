@@ -1,0 +1,35 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1140_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Dónde se esconderá Hermeien?<0fe003e00ee0>Nagapur todavía está en ruinas...
+¡Lord David! ¡Me alegro de veros!
+¿Qué ocurre?
+Mirad esto.
+¿Qué son esos puntos negros?
+Aparecieron hace unos días.
+¿También son reliquias?
+Bueno, eso creo...<0fe003e00ee0>Pero no parecen reliquias corrientes.<1ae0000001430fe005e001000ee0>Están absorbiendo la energía de las<0fe003e00ee0>reliquias cercanas y concentrándola en este lugar.
+¿Reliquias capaces de robar energía?<0fe003e00ee0>Jamás he oído nada parecido.
+Nosotros tampoco.<0fe003e00ee0>Vamos a investigarlo ahora mismo.
+¿Dónde está ese sitio en el que<0fe003e00ee0>están concentrando toda la energía?
+Es un lugar situado entre todos<0fe003e00ee0>los demás puntos negros... Aquí.
+¿Eso no es...?
+Creo que es Königsdorf. Una fortaleza<0fe003e00ee0>codiciada desde tiempos inmemoriales.
+¿Irina?
+Emite la misma energía<0fe003e00ee0>que desprendía el duque Hermeien.
+Entonces debe de estar allí.
+Preparaos para el combate.<0fe003e00ee0>Vamos a lanzar un asalto contra Königsdorf.
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+¡Sí, milord!
+Ah, sí...
+Y que no se entere el duque de Ghor.<0fe003e00ee0>No sabemos cómo reaccionaría...
+Querría pediros un favor.<1ae0000070420fe005e001000ee0>Si fuera posible, me gustaría<0fe003e00ee0>que Irina nos siguiese acompañando.
+Tengo el presentimiento<0fe003e00ee0>de que nos resultará de gran ayuda.
+Si os preocupa su bienestar,<0fe003e00ee0>lo comprenderé perfectamente.<1ae00000be420fe005e001000ee0>No está obligada a venir.
+Irina ya tiene edad<0fe003e00ee0>para tomar sus propias decisiones.
+¡Muchas gracias!<0fe003e00ee0>¡Señor David, le ayudaré en todo lo que pueda!
+De acuerdo, pues en marcha.<0fe003e00ee0>Tenemos que prepararnos.
+Esto... Sí. Cierto.
+

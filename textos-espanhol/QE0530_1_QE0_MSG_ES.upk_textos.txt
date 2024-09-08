@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0530_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Chico! Te has enterado de lo del monstruo, ¿no?<03e0>¿Ése que luchó contra un héroe ancestral durante<03e0>décadas antes de que lo encerraran bajo el desierto?<04e0>Pues dicen que ha vuelto... Aunque parece que aún<03e0>no ha causado demasiados quebraderos de cabeza.<04e0>Además, hay una banda de forasteros misteriosos<03e0>que anda merodeando por la ciudad últimamente.<03e0>Seguro que tienen algo que ver con el monstruo.<04e0>Dicen que hasta han resucitado al héroe de la leyenda...<03e0>Este asunto me huele mal... Hay que pararlos antes<03e0>de que sea demasiado tarde.<06e0000008e0000000000000>¡Soy el hombre indicado!<09e008e0010000000300>Suena peligroso...
+¡Genial! Entonces, busca en <1be0ffbe34ff>pasaje de Subterra<1ce0>.<03e0>Si buscas entre las arenas movedizas, encontrarás<03e0>una especie de islote. Ése es el lugar.<04e0>No hace falta decir que, si te entretienes demasiado,<03e0>el guerrero de la leyenda irá a por ti. ¡Ni se te ocurra<03e0>enfrentarte a ambos! ¡Te harían papilla!
+¡Bah!<03e0>¡Vaya alfeñique estás hecho!
+¡Te aviso de que hay nigromantes por todas partes!<04e0>Monstruos y antiguos caballeros que despiertan<03e0>en las profundidades del desierto... ¡Haz algo<03e0>o esto parecerá la noche de los muertos vivientes!<06e0000008e0000000000000>¡Voy por mi estaca!<09e008e0010000000300>A mí no me cargues el muerto.
+¡Genial! Pues el primer paso es explorar las cavernas<03e01be0ffbe34ff>pasaje de Subterra<1ce0>. Si no me equivoco, el monstruo<03e0>se esconde en un islote entre las arenas movedizas.<04e0>No hace falta decir que, si te entretienes demasiado,<03e0>el guerrero de la leyenda irá a por ti. ¡Ten cuidado!<03e0>¡Hasta tu cerebro es apetitoso para un zombi!
+¿¡Qué!? ¡Eres patético!<03e0>¡Serás el primero en caer, ya verás!
+¡Ja! El monstruo te ha asustado, ¿verdad?<03e0>¡No seas gallina y acaba con ese bicho<03e0>antes de que devore nuestras almas!<06e0000008e0000000000000>Vale, vale.<09e008e0010000000300>Tío, no te pases.
+Recuerda... Tienes que buscar esa isla escondida<03e0>entre las arenas movedizas.<04e0>Pero ten cuidado... Si te entretienes demasiado,<03e0>el guerrero de la leyenda irá a por ti. ¡Los zombis<03e0>no le hacen ascos ni a un cerebro como el tuyo!
+Oye... ¿Seguro que estás bien?<03e0>¿No tendrás ganas de comer cerebros, verdad?
+¿QUÉ?<03e0>¿Que has matado al monstruo?
+* Silencio asombrado *
+Bueno, pues tanto mejor, supongo...<03e0>Buen trabajo, chico. Acepta esto como pago.
+¿Sabes? Últimamente pasan cosas<03e0>espeluznantes en Balterossa.<04e0>¡Ten cuidado con los fantasmas, chico!
+Bueno, tengo cosas que hacer... ¡Hasta luego!
+Espera un momento... ¿Así que no sólo has acabado<03e0>con el monstruo, sino que has enviado al infierno<03e0>al guerrero fantasma?
+Hay que ver... ¡Vaya héroe estás hecho, chaval!<04e0>Toma, esto es para ti.
+Esto debería acabar con este conflicto tan largo.<03e0>Mira que son cabezotas, ¿eh? Nadie necesita luchar<03e0>durante un millar de años para hacerse entender...<04e0>Seguro que, antes de convertirse en fantasma,<03e0>ese guerrero debía de ser una persona de grandes<03e0>ideales... ¿Por qué se dejaría matar?<04e0>En fin, estoy seguro de que algo habremos hecho<03e0>en Balterossa para merecernos esto, ¿no crees?<03e0>Creo que hay gato encerrado, ¡y debe de ser grande!
+Bueno, tengo cosas que hacer... ¡Hasta luego!
+

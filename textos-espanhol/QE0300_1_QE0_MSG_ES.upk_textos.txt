@@ -1,0 +1,30 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0300_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hola, traidor.
+Allan... ¿No nos hemos visto en ochenta años<03e0>y es así cómo me saludas?
+Has pasado demasiado tiempo entre los mitras, necio.<03e0>Ochenta años no son nada para nosotros.
+Siempre utilizas ese tono tan hostil cuando necesitas<03e0>un favor. ¿De qué se trata esta vez?
+¡Bah! No necesito tu ayuda.
+Vengo a avisarte de que nuestros viejos amigos<03e0>de la Hermandad del Acero han vuelto a las andadas.<04e0>Como te puedes imaginar, es preciso detenerlos<03e0>a la mayor brevedad. Supuse que no te querrías<03e0>perder un acontecimiento semejante.
+Entiendo. No cabe duda que debemos hacer algo.<03e0>Rush... ¿Querríais echarnos una mano?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>No, ahora no puedo.
+Os lo agradezco.
+Mira que pedirle ayuda a un mitra...<04e0>En fin, os esperaré en las <1be0ffbe34ff>cavernas de Gaslin<1ce0>.
+¡Bah!
+Eres un necio, Torgal. De entre todos los sovanis<03e0>que conozco, tú deberías saber mejor que nadie<03e0>que no se puede confiar en los mitras.
+Esta nueva «Hermandad del Acero» debe desaparecer.<03e0>No me hagáis esperar demasiado.
+¿Vais a colaborar?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>No, no me apetece...
+Os agradezco vuestra ayuda.
+Mira que pedirle ayuda a un mitra...<04e0>En fin, os esperaré en las <1be0ffbe34ff>cavernas de Gaslin<1ce0>.
+¡Bah!
+¿Ves, Torgal? No se puede confiar en los mitras.<03e0>Son unos egoístas...
+Pero supongo que sólo me puedo culpar a mí mismo<03e0>por la arrogancia de estos mitras.
+Antes de que David gobernara en Athlum, Torgal<03e0>fue nombrado General en reconocimiento a su labor<03e0>como guardián de la paz y el orden.<04e0>Yo tenía la esperanza de que lográsemos<03e0>llevar la paz al mundo entero, no sólo a Athlum.<04e0>Pero, a medida que la Hermandad del Acero fue<03e0>adquiriendo fama, sus filas empezaron a llenarse<03e0>de soldados advenedizos e inútiles.<04e0>Hoy no son más que un grupo de bárbaros violentos<03e0>y descontrolados que arrasan con todo a su paso<03e0>en nombre de la «justicia».
+Cuando se dio cuenta de lo ocurrido, Torgal mandó<03e0>disolver la hermandad, pero ya era demasiado tarde<03e0>para enterrar sus ideales.<04e0>Para la insignificante vida de un mitra, cincuenta años<03e0>es tiempo suficiente para que las ideas se transformen<03e0>en dogma... Y el dogma en fanatismo.<04e0>Por eso debemos poner fin a esta historia.
+También existen organizaciones más realistas,<03e0>como los Halcones Argénteos. No se trata sólo<03e0>de una cuestión de razas...
+Pero el líder de los Halcones Argénteos también<03e0>es un sovani, ¿verdad?
+Las organizaciones cambian con el tiempo.<03e0>¿Quién sabe en qué se acabarán convirtiendo?<03e0>Los sovanis viven más años, eso es todo.
+Siempre has sido un excéntrico.<03e0>A los sovanis no suelen importarles los demás.
+Yo podría decir lo mismo de ti.
+Bah... A mí sólo me atrae el sabor de la sangre.<03e0>No me interesa en absoluto la política.<04e0>Pero supongo que estoy en deuda contigo.<03e0>Si alguna vez necesitas algo de mí, estaré<03e0>en la sede del gremio.
+

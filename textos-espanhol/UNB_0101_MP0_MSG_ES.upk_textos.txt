@@ -1,0 +1,14 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) UNB_0101_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Bienvenidos a Undelwalt!<03e0>La ciudad imperial ha existido desde los tiempos<03e0>del primer Emperador celestial.<04e0>Y bien... ¿Qué os trae por aquí?<03e0>¿Venís a rendirle pleitesía a Su Excelencia?
+Message 2
+Message 3
+¿Te has fijado en esos grandes pilares de piedra<03e0>que hay repartidos por las calles? Son el Harmonio,<03e0>la reliquia del Emperador celestial.<04e0>Dicen que su sonido arroja una bendición sobre<03e0>la ciudad... Pero, a juzgar por el estado en el que<03e0>se encuentra Undelwalt, no sé si creérmelo.
+Message 2
+Message 3
+Cuando yo era joven, las calles de Undelwalt<03e0>siempre estaban llenas a rebosar de gente...<03e0>¡Y en la taberna y el gremio ni se podía entrar!<04e0>Pero ya has visto las vueltas que da la vida...<03e0>Ahora no queda ni un alma en la ciudad.
+Message 2
+Esos advenedizos y su dichoso «Consejo»...<03e0>¡La mera existencia de esa institución mancilla<03e0>el prestigio y autoridad del Emperador celestial!<04e0>¡Esto es una blasfemia! ¡No hay otra forma<03e0>de describirlo!
+Message 2
+

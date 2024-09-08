@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) RBC_0301_MP2_MSG
+-- ----------------------------------------------------------------------------------
+La puerta está cerrada a cal y canto.
+La puerta está cerrada con cerrojo.<03e0>¿Intentamos quitarlo?<06e0000008e0000000000000>Sí, no parece muy sólido.<09e008e0010000000300>No, es demasiado resistente.
+

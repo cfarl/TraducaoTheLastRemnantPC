@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) CPC_05GL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido a la sede de la Espada de los tres reinos.
+Una persona de mi importancia necesita<03e0>rodearse de los mercenarios más habilidosos...<03e0>Por eso siempre recurro a los miembros del gremio.<04e0>Así me quedo mucho más tranquilo: al fin y al cabo,<03e0>el dinero no es un problema... ¡Tengo suficiente<03e0>como para cubrir entero el distrito de Lamberro!
+Las tarifas de los mercenarios son bastante elevadas,<03e0>pero es lógico: un buen mercenario debe ser diestro<03e0>en muchos campos, no sólo en el uso de las armas...<04e0>Han de cuidar su equipo, su técnica, su elegancia,<03e0>su lenguaje... La gente de alcurnia se fija en esas cosas<03e0>antes de contratar a alguien.<04e0>No es sencillo destacar: hace falta mucho trabajo...<03e0>y mucho dinero.
+

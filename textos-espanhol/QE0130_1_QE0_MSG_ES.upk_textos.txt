@@ -1,0 +1,20 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0130_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Al mirar la perversión que asola hoy en día<03e0>la ciudad imperial, me pongo enferma...<04e0>Aunque sirve de lección: el que siembra vientos<03e0>cosecha tempestades...
+Dicen que los tesoros de muchos reinos antiguos<03e0>han empezado a circular por el mercado negro.<04e0>Si algún tesoro de mi tierra ha acabado ahí,<03e0>debo recuperarlo cueste lo que cueste.<03e0>¿Me ayudaréis a buscar?<06e0000008e0000000000000>¡Vamos a la caza de tesoros!<09e008e0010000000300>Seguro que no queda nada...
+Gracias. Me gustaría encontrar un arma conocida<03e0>como la <1be064f4ecff>Lanza de los albores<1ce0>.<04e0>No permitiré que esta ola de corrupción ultraje<03e0>el buen nombre de mi tierra, su historia, su honor...
+Estoy segura de que en la ciudad imperial<03e0>hay gente relacionada con el mercado negro.<03e0>Sólo tenemos que encontrar a la persona adecuada.
+Puede que tengáis razón...<03e0>¡Pero no me rendiré! No después de llegar hasta aquí.
+Por fin la Lanza de los albores<03e0>ha vuelto a sus legítimos dueños.<03e0>Rush, no sé cómo agradecértelo...<04e0>Mi largo viaje ha llegado a su fin...<03e0>Ya puedo decirlo sin miedo a equivocarme.
+Desde ahora, Rush, mi vida os pertenece.<03e0>¡Lucharé a vuestro lado con todos mis medios!
+Todos los países han rendido tributo al Emperador<03e0>celestial durante siglos. Era un gran honor regalarle<03e0>tesoros elaborados por los mejores artesanos.<04e0>Pero ahora, la ciudad imperial ha caído tan bajo<03e0>que hasta estas ofrendas han acabado saliendo<03e0>a la venta en el mercado negro.<04e0>El tesoro de mi tierra también debe de estar por aquí,<03e0>y tengo que recuperarlo a cualquier precio.<03e0>Me ayudaréis, ¿verdad, Rush?<06e0000008e0000000000000>¡Claro! ¡A la caza de tesoros!<09e008e0010000000300>No creo que lo encuentres...
+Gracias. Me gustaría encontrar un arma<03e0>llamada la <1be064f4ecff>Lanza de los albores<1ce0>.<04e0>No permitiré que esta ola de corrupción ultraje<03e0>el buen nombre de mi tierra, su historia, su honor...
+Seguro que en el mercado negro de <1be0ffbe34ff>Undelwalt<1ce003e0>hay alguien que sabe dónde se hallan esos tesoros.
+Puede que tengáis razón...<03e0>¡Pero no me rendiré! No después de llegar hasta aquí.
+¿Tú otra vez? Quieres más, ¿eh?<04e0>¿Conoces la Ciudad Espectral? Se trataba<03e0>de un reino temido incluso por el Emperador,<03e0>y éste era su mayor tesoro...<04e0>La espada <1be064f4ecff>Finsternis<1ce0>, también conocida<03e0>como «el heraldo de la oscuridad».<04e0>Créeme, no le ofrezco mercancía como ésta<03e0>a cualquiera. No dejes pasar esta oportunidad...<06e01900>sEVENT_PRICE_QE0130_P_003<08e0000000000000>Es cara, pero me la quedo.<09e008e0010000000300>¿Parezco millonario o qué?
+Buena elección.
+Pronto me llegarán artículos nuevos,<03e0>pero no se lo digas a nadie. Se trata<03e0>de una mercancía muy... codiciada.<04e0>Vuelve pronto para hacer otra aportación<03e0>al mantenimiento de Undelwalt, ¿vale?
+Ya deberías saberlo...<03e0>Si no vas a comprar, lárgate de aquí.
+Tú te lo pierdes.
+

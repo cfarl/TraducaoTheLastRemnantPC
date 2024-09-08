@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0390_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush, estás aquí... ¿Tienes un momento?<04e0>Como ya sabrás, el duque de Ghor ha ordenado<03e0>a tu amigo el Marqués que parta a recorrer<03e0>el mundo en busca de reliquias.<04e0>Sé que no debería entrometerme en sus asuntos,<03e0>pero se me ha ocurrido una idea que podría ser útil.<04e0>Podrías usar la <1be064f4ecff>tablilla de Marshall<1ce0> para transformar<03e0>en talismán las reliquias que no estén vinculadas<03e0>y llevártelas contigo.<04e0>Si las reliquias están en nuestras manos, el Invasor<03e0>no podrá hacerse con ellas, ¿no es cierto?<04e0>En cualquier caso, lo primero que hemos de hacer<03e0>es recuperar la tablilla. Debe de estar en <1be0ffbe34ff>Villamarshall<1ce0>.<03e0>Rush, ¿te vienes conmigo a buscarla?<06e0000008e0000000000000>Cuando quieras, mamá.<09e008e0010000000300>Tengo las maletas sin hacer...
+Gracias, cariño.<03e0>Vayamos a <1be0ffbe34ff>Villamarshall<1ce0>, entonces.
+Tranquilo, hijo mío. Esperaré por aquí<03e0>hasta que estés listo, ¿de acuerdo?
+Rush, ¿has terminado de preparar tus cosas?<03e0>Recuerda que tenemos que ir a <1be0ffbe34ff>Villamarshall<1ce003e0>a recuperar esa tablilla.<06e0000008e0000000000000>¡Vale! ¡Vamos allá!<09e008e0010000000300>Un momentito más, ¿vale?
+Muy bien... ¡En marcha, entonces!<03e0>Aún recuerdas cómo llegar hasta allí, ¿verdad?
+De acuerdo, pero no olvides que no tenemos<03e0>todo el día. No te entretengas, ¿vale?
+Rush... ¿Es que te has perdido?<03e0>La tablilla está en <1be0ffbe34ff>Villamarshall<1ce0>...<03e0>¿Quieres que te indique el camino?<06e0000008e0000000000000>Calma, lo tengo controlado.<09e008e0010000000300>Espera, he olvidado algo.
+Muy bien... En marcha, pues.
+De acuerdo, pero no olvides que no tenemos<03e0>todo el día. No te entretengas, ¿vale?
+

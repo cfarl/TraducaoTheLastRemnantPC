@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Si atravesáis esa puerta, entraréis en la sala<03e0>en la que se oculta el gigante.
+Lady Emma... Antes de que continuéis, hay algo<03e0>que debéis saber.
+El gigante era demasiado para nosotros, así que<03e0>tuvimos que dispersarnos... Pero uno de nosotros<03e0>no logró escapar.<04e0>Hemos intentado dar con él. Oímos gritos y golpes,<03e0>pero no hemos sido capaces de encontrarlo.<04e0>Espero que esté bien...
+

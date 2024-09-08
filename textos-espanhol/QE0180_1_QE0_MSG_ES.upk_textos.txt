@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0180_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Loki?<03e0>¿Dónde te has metido?<04e0>¡Qué fastidio! Mira que desaparecer y dejarme<03e0>con la palabra en la boca... ¡Aún no había acabado<03e0>de contarle mi historia!
+...<03e0>Umm...<04e0>¡Vaya, lo siento! ¿Querías algo?<04e0>Soy Reya. ¿Y tú quién eres?<06e0000008e0000000000000>Soy Rush.<09e008e0010000000000>Sólo pasaba por aquí.
+Rush, ¿eh?<03e0>¡Bonito nombre!<03e0>¡Seguro que no se me olvida!
+¿Eh? Me parece haber oído a alguien, pero supongo<03e0>que deben de ser imaginaciones mías.
+¿Qué? ¿Me preguntas que si conozco a Loki?<04e0>¡Pues claro que sí! Es amigo mío.<04e0>¿Es amigo tuyo también? Pues trátalo bien, ¿vale?<03e0>La verdad es que es muy tímido.
+Trátalo bien.<03e0>La verdad es que es muy tímido.
+¡Sé que estás ahí! ¡Sal de ahí ahora mismo!<04e0>Oh. Soy Reya. ¿Y tú quién eres?<06e0000008e0000000000000>Soy Rush.<09e008e0010000000000>Sólo pasaba por aquí.
+Rush, ¿eh? ¡Bonito nombre!<03e0>¡Seguro que no se me olvida!
+¿Eh? Me parece haber oído a alguien, pero supongo<03e0>que deben de haber sido imaginaciones mías.
+¿Eh? Umm...<03e0>Perdona, pero ¿tú quién eres?<06e0000008e0000000000000>Soy Rush.<09e008e0010000000000>Sólo pasaba por aquí.
+Ay, es verdad, Rush, perdona...<03e0>Soy malísima con los nombres.<04e0>¡Pero esta vez sí que me acordaré, de verdad!
+Perdona si te he parecido maleducada...<03e0>Es que soy muy mala con los nombres,<03e0>y eso que tu voz me sonaba familiar.
+Loki no hace más que desaparecer.<03e0>¡Estaba hablando con él hace un minuto!<03e0>Es como si se fuera cada vez que te ve llegar.<04e0>Me pregunto por qué... A lo mejor te tiene miedo,<03e0>y eso que a mí me pareces una buena persona.
+Umm...<03e0>Eres Rush, ¿verdad? ¡Lo sabía!<04e0>Estoy segura de que eres un chico muy guapo.<03e0>Tienes que serlo, porque hueles realmente bien...<03e0>¡Igual que la ropa recién lavada!
+

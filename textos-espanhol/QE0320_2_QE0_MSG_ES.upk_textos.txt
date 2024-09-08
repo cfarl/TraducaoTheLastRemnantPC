@@ -1,0 +1,35 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0320_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Eh? Esas patas de gallo, esa enorme bocaza...<04e0>¡Caramba, pero si es Pagus!<03e0>¡Encantado de verte de nuevo!
+¡Oh, sí, ya lo creo! Y tengo motivos para ello, ¿sabes?<03e0>¡Acabo de realizar el descubrimiento del siglo!<04e0>Pagus... Te va a dar un ataque cuando oigas esto.<03e0>Verás...
+¡Maddox! ¡Por todos los emperadores celestiales,<03e0>casi me matas del susto!<04e0>No sólo viene a verme uno de los generales<03e0>de Athlum, ¡también está aquí un ex general<03e0>del ejército de Celapalais! ¡Qué poderío!
+El Arco Iris es una reliquia que toma la forma<03e0>de una luz de siete colores.<04e0>Las leyendas cuentan que otorgó todo tipo<03e0>de milagros a su anterior propietario...<04e0>En cuanto a mí... Bueno... Estaba excavando<03e0>en <1be0ffbe34ff>Siebenpur<1ce0> no hace mucho cuando, de repente,<03e0>surgió una luz cegadora.<04e0>Pero estaba bajo tierra, a bastante profundidad,<03e0>así que no podía tratarse de la luz del sol, ¿no?
+Fue exactamente como en los libros de historia...<03e0>Un rayo de luz de colores sobre mi cabeza.<04e0>No puedo siquiera intentar describir su belleza...<03e0>Era una visión tan fascinante que sólo podía ser<03e0>obra de los dioses.
+¿Qué? ¿Me estás llamando mentiroso?
+Supongo que sí, pero ahora la cosa está difícil.<03e0>Parece que un monstruo enorme ha convertido<03e0>la zona en su guarida.<04e0>A menos que alguien lo eche de allí,<03e0>va a ser harto difícil ver el Arco Iris<03e0>sin convertirse en su cena.<06e0000008e0000000000000>¡Aquí estoy para solucionarlo!<09e008e0010000000300>(Suena bastante peligroso...)
+Bueno, bueno... Eres de los que no se arredran<03e0>ante nada... ¿Verdad, chaval?<04e0>Pero no subestimes a esta bestia, chico,<03e0>o te llevarás una desagradable sorpresa.
+Recuerda que ni siquiera los mineros de Royotia<03e0>han podido detener a ese bicho, y eso que no son<03e0>ningunos enclenques...<04e0>Sé prudente, ¿vale?<03e0>No te hagas el valiente o lo lamentarás.
+(O sea...)<03e006e0000008e0000000000000>¡A por el monstruo!<09e008e0010000000300>(Que se ocupe otro...)
+Basta de teatro, Sibal, ya se lo he dicho yo.
+¿No será que has pasado demasiado<03e0>tiempo bajo tierra y estás empezando<03e0>a tener visiones por la falta de oxígeno?
+O sea, que si vamos allí, nosotros también<03e0>podremos ver el Arco Iris, ¿no es así?
+¡Sibal! Han pasado treinta años... ¡Se dice pronto!<03e0>Tienes buen aspecto, ¡tan alegre como siempre!
+¡Maddox, Sibal, por favor!<03e0>Comportémonos como adultos, ¿de acuerdo?
+Así que la reliquia milagrosa era real...<04e0>Sibal, has podido contemplar una leyenda<03e0>de más de 640 años de antigüedad.<03e0>¡Por mis ancas, has conseguido algo maravilloso!
+¡Ja, ja, ja! ¡Envíame a tus chicos cuando quieras<03e0>a las minas! ¡Yo me ocuparé de ellos, no te preocupes!
+Bueno, lo siento...
+Dime, chico... digo, Rush. Perdóname.<03e0>Me he pasado un poco contigo, ¿verdad?
+Sé que Pagus es un viejo entrometido,<03e0>pero cuida de él por mí, ¿de acuerdo?
+Bueno, bueno... La verdad es que hacía tiempo<03e0>que no experimentaba algo así...<04e0>Tengo que acordarme de enseñar a mis subordinados<03e0>que la experiencia es tan importante o más que<03e0>el estudio de los libros.
+Pagus, Rush, me vuelvo a Melphina.<03e0>Pagus... En cuanto tengas oportunidad,<03e0>no olvides venir a visitarme.
+Sibal, ten cuidado...<03e0>Puede que no estemos por aquí la próxima vez<03e0>que te ataquen los monstruos.
+Claro, compañero. Ya es hora de que nosotros<03e0>también nos pasemos por Melphina.
+Un monstruo gigantesco ha entrado en la cueva<03e0>en la que vi el Arco Iris. Y parecía hambriento...<04e0>Mientras el monstruo siga allí, no podremos entrar<03e0>a buscar la reliquia.<06e0000008e0000000000000>¡Yo me ocupo de esa cosa!<09e008e0010000000300>Odio a los monstruos.
+Recuerda que ni siquiera los mineros de Royotia<03e0>han podido detener a ese bicho, y eso que no son<03e0>ningunos enclenques...<04e0>Sé prudente, ¿vale? No te hagas el valiente<03e0>o lo lamentarás.
+¿Qué pasa, chico?<03e0>¿Acaso tienes miedo de ese monstruo tan malísimo?<04e0>Yo sí. ¡Por eso ni me he acercado!
+¡Vaya! Pero si es el chico de nuevo. Creía que Pagus<03e0>y tú ya os habíais vuelto a Athlum...<04e0>¿No me digas que vas a volver a la cueva<03e0>para intentar ver el Arco Iris?<06e0000008e0000000000000>¡Ese monstruo está perdido!<09e008e0010000000300>(Sí, hombre... Me voy a casa.)
+Recuerda que ni siquiera los mineros de Royotia<03e0>han podido detener a ese bicho, y eso que no son<03e0>ningunos enclenques...<04e0>Sé prudente, ¿vale? No te hagas el valiente<03e0>o lo lamentarás.
+¿Qué pasa, chico?<03e0>¿Acaso tienes miedo de ese monstruo tan malísimo?<04e0>Yo sí. ¡Por eso ni me he acercado!
+Muchacho, los hombres que huyen de sus problemas<03e0>están huyendo de sí mismos y de su madurez.<03e0>¡No seas gallina y vence de una vez a esa cosa!<04e0>Te esperaré por aquí, que parece que no hay peligro...
+

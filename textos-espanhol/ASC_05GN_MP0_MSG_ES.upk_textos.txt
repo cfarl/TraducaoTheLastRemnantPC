@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ASC_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Esto es un <1be0ffbe34ff>gremio<1ce0>. Lo siento, pero el encargado<03e0>no está en este momento.<04e0>Vuelve más tarde, ¿de acuerdo?
+¿Cómo? ¡No me digas que un mocoso como tú<03e0>pretende superar una de las pruebas del gremio!<03e0>¡Pobre novato! ¡Si estás más verde que una lechuga!<04e0>¡Juas, juas! ¡Es imposible, no sabes lo que dices!<04e0>Estas no son tareas para niños de teta...<03e0>¡Los monstruos te despacharían en un periquete!<03e0>Anda, olvídalo y vuélvete a casa con tu mamá...
+¿Las pruebas del gremio?<03e0>Las hay de todo tipo... Desde simples recados<03e0>hasta las misiones más peligrosas.<04e0>Si tienes tiempo, ve a echar un vistazo.<03e0>Intenta una prueba o dos y luego ya irás viendo...
+Oye, muchacho, ¿sabías que algunos<03e0>de los mejores guerreros de la región<03e0>han fundado su propio gremio?<04e0>Dicen que hay un pasadizo secreto<03e0>en la parte trasera del Honor del Guerrero,<03e0>o algo así.
+¿Independencia? Sí, sí, eso está muy bien,<03e0>pero a mí lo que me interesa son las pruebas<03e0>de los gremios.
+¿El Invasor? Sí, es un problema, lo sé,<03e0>pero a mí lo que de verdad me interesa<03e0>son las pruebas de los gremios.
+¿Qué pasa, chico? ¿Te has perdido? Esto es un gremio,<03e0>un lugar de reunión para aventureros veteranos.<04e0>No es lugar para chiquillos que no pueden<03e0>ni levantar una espada. Anda, vete a casa a jugar...
+El gremio es el lugar ideal para la gente<03e0>que está buscando algo que hacer.<04e0>Y no me refiero a tareas de caridad...<03e0>Puedes ganar mucho dinero si sabes elegir bien.<04e0>Ellos sacan algo a cambio, claro está, así que<03e0>lo suyo es que tú también salgas beneficiado.
+

@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) SBN_0104_MP2_MSG
+-- ----------------------------------------------------------------------------------
+Voy a vincularme al Arca.<03e0>Rush, ¿estás preparado?<06e0000008e0000000000000>¡Adelante!<09e008e0010000000300>Dame un minuto.
+Esto podría tener consecuencias serias...<03e0>¿De verdad estás preparado?<06e0000008e0000000000000>¡Venga, dale!<09e008e0010000000300>Si me lo planteas así... No.
+

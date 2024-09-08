@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0350_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya, hola. Cuánto tiempo, ¿verdad?<03e006e0000008e0000000000000>¡Ya lo creo! ¿Qué tal?<09e008e0010000000000>Esto... ¿Te conozco?
+¿Ya te has olvidado? Nos conocimos hace tiempo,<03e0>en la Academia.<04e0>Soy Haruko, investigadora de reliquias.<03e0>Es un placer volver a verte.
+Han pasado muchas cosas desde la última vez<03e0>que nos vimos. Para empezar, ya no trabajo<03e0>para la Academia.<04e0>Confieso que no poder participar en los proyectos<03e0>de la Academia es... una lástima, la verdad.<04e0>Pero lo cierto es que, desde que me nombraron<03e0>directora, casi no tenía tiempo para investigar.<03e0>En fin, supongo que una cosa compensa la otra.<04e0>El caso es que decidí aprovechar la oportunidad<03e0>para salir a ver mundo y contemplar las reliquias<03e0>que contiene.<04e0>Avísame si oyes hablar de algún lugar<03e0>en el que haya reliquias por descubrir.<03e0>Podríamos ir juntos a buscarlas...
+

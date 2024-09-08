@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0460_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush Sykes, el marqués Príamo de Royotia ha oído<03e0>el relato de vuestras hazañas y quiere hablaros<03e0>de un asunto de gran importancia.<04e0>Su Alteza os espera en el <1be0ffbe34ff>Castillo de Royotia<1ce0>.
+

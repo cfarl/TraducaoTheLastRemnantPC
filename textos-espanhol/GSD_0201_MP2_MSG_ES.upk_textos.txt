@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GSD_0201_MP2_MSG
+-- ----------------------------------------------------------------------------------
+El pedestal tiene una inscripción muy antigua:<04e0>«Nuestros poderes cierran la puerta;<03e0>nuestras alas revelan el camino;<03e0>el símbolo de nuestra fe demuestra nuestra valía».
+El pedestal tiene una inscripción muy antigua:<04e0>«Nuestros poderes cierran la puerta;<03e0>nuestras alas revelan el camino;<03e0>el símbolo de nuestra fe demuestra nuestra valía».<04e0>¿Quieres abrir la puerta con la Estatuilla divina?<06e0000008e0000000000000>¡Claro!<09e008e0010000000300>Ahora mismo, no.
+El pedestal ha perdido su poder.
+Todos los pedestales han perdido su poder.
+

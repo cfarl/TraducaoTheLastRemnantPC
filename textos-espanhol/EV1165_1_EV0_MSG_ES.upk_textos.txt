@@ -1,0 +1,15 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1165_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+La corriente de energía<0fe003e00ee0>se está debilitando...
+¿Estás segura?
+Sí. La barrera que rodea Königsdorf<0fe003e00ee0>parece menos fuerte que antes.
+Entonces, ¿ése era uno de esos puntos negros?<1ae00000c8420fe005e001000ee0>¿Esos canallas están robando el poder<0fe003e00ee0>de las reliquias y mandándolo a Königsdorf?
+Sí, eso creo.
+¡No puede ser!<0fe003e00ee0>¿Crees que ese General era una reliquia?
+Eso no lo sé...
+Chicos, ¿qué más da lo que sean?<0fe003e00ee0>Tenemos que acabar con ellos<1ae00000c8420fe005e001000ee0>para entrar en Königsdorf, ¿no?<0fe003e00ee0>¡Ya buscaremos respuestas más adelante!
+Tienes razón. Gracias, Rush.
+Vamos. Tenemos muchos combates por delante.
+¿Están con el Invasor?<1ae000006c420fe005e001000ee0>Y entonces, ¿también con Hermeien?
+

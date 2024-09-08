@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0470_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Te reunirás con la Guardiana del fuego?<06e0000008e0000000000000>Sí, claro que sí.<09e008e0010000000300>No, paso de ir.
+De acuerdo.<03e0>Entonces, adelante.
+Entiendo...
+Vaya, vaya... Has derrotado a Vespalia, ¿verdad?<03e0>No sabes cuánto te lo agradezco.<04e0>¿Dices que la guardiana también ha desaparecido?<03e0>En fin, le estaremos por siempre agradecidos...
+Royotia está por fin a salvo, y todo gracias a ti.<04e0>Nuestro pueblo está en deuda contigo.<03e0>Siempre serás bienvenido en nuestra tierra.
+

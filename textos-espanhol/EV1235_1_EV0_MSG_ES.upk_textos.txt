@@ -1,0 +1,11 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1235_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿La reliquia localizadora<0fe003e00ee0>dice que hay algo por aquí?
+Sí... Siento su presencia.
+¿Quién va?
+¡Ya era hora!<0fe003e00ee0>¡Creí que iba a hacerme viejo esperándoos!
+Menos mal que los demás<0fe003e00ee0>aún no os han machacado...<1ae00000c8420fe005e001000ee0>¡Porque sólo Young el Belicoso<0fe003e00ee0>es digno de patearos el trasero!
+¡Preparaos para recibir una paliza<0fe003e00ee0>antológica a manos del señor Young!
+Llevo siglos esperando este momento...<1ae00000f0420fe005e001000ee0>¡Más vale que estéis a la altura,<0fe003e00ee0>porque pienso saborearlo a placer!
+

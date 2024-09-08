@@ -1,0 +1,22 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0320_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya, vaya... Juraría que conozco a este buen qsiti...<03e0>Esa enorme boca de sabihondo, esas patas de gallo...<04e0>Pagus... ¿Eres tú?
+Bueno, la vida da muchas sorpresas...<03e0>Por cierto, Pagus.... ¡Se me olvidaba!<04e0>¿Te has enterado de lo de Sibal?<03e0>Parece que ha encontrado algo tan increíble<03e0>que vas a quedarte de piedra.
+Así es... El Arco Iris. La célebre reliquia<03e0>capaz de hacer milagros. Es increíble.<03e0>Estuvimos tanto tiempo buscándola...
+Y circulan tantas historias sobre ella...<04e0>El duque Gulaaj la descubrió hace cientos de años.<03e0>Sus dominios estaban a punto de ser destruidos<03e0>por un maremoto.<05e00100>Sin embargo, los milagrosos poderes de esta reliquia<03e0>permitieron a Gulaaj no sólo sobrevivir, sino también<03e0>conquistar los reinos vecinos.<05e00100>Desde entonces, sus hazañas se han convertido<03e0>en leyenda...
+Bueno, eso es lo que él dice...<03e0>Aunque aún no sé cómo lo ha descubierto.<04e0>Sibal está al mando de un grupo de excavación<03e0>en <1be0ffbe34ff>Royotia<1ce0>. En cuanto tenga un momento libre,<03e0>me acercaré para verlo con mis propios ojos.
+¿Eh? Maddox... ¿Eres tú? ¡Maddox!<03e0>¡Dichosos los ojos! ¿Cuánto tiempo ha pasado?<03e0>Parece mentira...<04e0>¿Qué hace un famoso General de Celapalais<03e0>en un sitio como éste? Creía que habías huido<03e0>lejos del mundanal ruido...
+¿Ah, sí?<03e0>No... No se tratará de...
+¿Y Sibal lo ha visto?<03e0>¿Ha visto el Arco Iris de verdad con sus propios ojos?
+La antigua reliquia legendaria, el Arco Iris...<03e0>¡Y pensar que existe de verdad!
+¡Caramba! Noto un cosquilleo en el estómago...<03e0>¡Hacía muchos años que no me sentía así!<03e0>¡En cuanto pueda, está claro que iré a ver a Sibal!
+Hola, Rush.<03e0>Maddox es un viejo amigo de la escuela.<04e0>Hace años, Sibal y nosotros dos coincidimos<03e0>en un curso sobre civilizaciones antiguas.
+Por aquel entonces, los tres estábamos<03e0>obsesionados con las leyendas antiguas,<03e0>sobre todo las que hablaban del Arco Iris...<04e0>Se trata de una reliquia que concedía milagros<03e0>a los pueblos de los reinos antiguos.
+¡Y ahora Maddox dice que Sibal la ha encontrado!<04e0>La reliquia con el poder de conceder milagros...<03e0>Verla con mis propios ojos ha sido mi sueño<03e0>desde que era un estudiante.
+Rush, muchacho, sé que se trata de la necedad<03e0>de un viejo, pero me gustaría pediros un favor,<03e0>si tenéis un momento...
+¿Me acompañaríais a ver a Sibal?<03e006e0000008e0000000000000>¡Me encantaría!<09e008e0010000000300>¿Tiene que ser ahora?
+¡Gracias, muchacho! Os lo agradezco de verdad.<03e0>Sibal se encuentra en la ciudad minera de <1be0ffbe34ff>Royotia<1ce0>,<03e0>al sur del desierto.
+Cielos, no he visto a Sibal en muchos años.<03e0>¡Estoy más nervioso que un adolescente!
+Ah... Disculpad lo repentino de mi petición.<03e0>Ya sé que los jóvenes tenéis cosas que hacer.<03e0>Si tuvierais tiempo más adelante, hacédmelo saber.
+

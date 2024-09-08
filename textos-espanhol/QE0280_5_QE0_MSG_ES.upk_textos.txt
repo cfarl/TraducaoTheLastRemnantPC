@@ -1,0 +1,9 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_5_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Pero qué...? Esto no estaba así antes.<03e0>El cataclismo debe de haber provocado<03e0>un derrumbamiento en esta zona.<04e0>No nos va a quedar más remedio que buscar<03e0>otra forma de llegar hasta la espada.
+Qué raro...<03e0>Este sitio me resulta familiar.
+¿Qué ocurre? ¿Os habéis perdido?<03e0>¿Necesitáis que abra un portal?<06e0000008e0000000000000>Sí, por favor...<09e008e0010000000300>¡Sé arreglármelas solo!
+¿Qué demonios está pasando aquí?<03e0>¿Tendrá esto algo que ver con la Espada de Leithion?
+Este lugar es muy peligroso. Si quieres,<03e0>aún estás a tiempo de dar media vuelta.<06e0000008e0000000000000>Sí, llegó la hora de irse.<09e008e0010000000300>Estoy perfectamente.
+

@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) ERC_05GL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+De modo que tú eres la nueva mascota<03e0>de Caedmon. Sé lo que estás tramando...<04e0>Quieres su puesto, ¿verdad? ¡Pues es mío!<03e0>Después de todo, ¡yo estoy al mando de la división<03e0>de Elysion de los Halcones Argénteos!<04e0>¡Y no te lo pienso poner nada fácil!
+¡Hey! ¡Ha pasado mucho tiempo!<04e0>¿Qué? ¿Que no te acuerdas de mí?<03e0>Luchamos juntos contra aquellos monstruos<03e0>en el paso de Harphlus. Ya te vale...<04e0>Bueno, pues yo sí que me acuerdo de ti.<03e0>¡Tú sí que sabes cómo manejar un arma!<03e0>¡Contamos contigo para nuestro próximo encargo!
+

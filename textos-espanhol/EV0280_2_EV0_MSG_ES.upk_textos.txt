@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0280_2_EV0_MSG
+-- ----------------------------------------------------------------------------------
+¿Estás mejor?
+Eres delicada con la comida, ¿eh?<0fe003e00ee0>Siento que no te agrade el menú, princesa.
+Oye...
+Rush...
+Rush está muerto.
+No...
+Deja de llorar por él y come.<1ae00000f0420fe005e001000ee0>Eres una pieza clave del plan.<0fe003e00ee0>Deberías sentirte orgullosa.
+Oye, ¡espera!
+¿Cuánto tiempo vamos a retenerla aquí?<0fe003e00ee0>¡Deberíamos liberarla!
+¿Acaso te da lástima?
+Este asunto me pone enfermo.<0fe003e00ee0>¡Si no es más que una cría!
+Sólo obedezco las órdenes de mi Señor...<0fe003e00ee0>y tú deberías cumplir las mías.
+¡Vale, pues dame órdenes de verdad!<0fe003e00ee0>¡Estoy harto de hacer de canguro!
+Como desees. Vayamos<0fe003e00ee0>a por la siguiente reliquia.
+

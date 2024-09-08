@@ -1,0 +1,34 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Lady Emma! ¡Lady Emma!
+El gigante está en una sala del interior de las ruinas.<03e0>Para llegar hasta él hay que recorrer un pasadizo<03e0>que se encuentra en el segundo piso.
+Esta escalera conduce a la segunda planta.
+Así que eres tú quien está detrás de todo esto...<03e0>Entrega tus armas inmediatamente, a menos<03e0>que prefieras que te las arrebate a la fuerza.
+¡Vaya! Pero si es la encantadora general Honeywell...
+Tal vez os estéis pasando de exigente, ¿no creéis?<03e0>Voy a haceros una contraoferta: regresad a Athlum<03e0>y decidle a vuestro jefe que se rinda sin condiciones.
+Y, ya que estáis, aprovechad para dejar abiertas<03e0>las puertas de la ciudad. Así no derramaremos<03e0>tanta sangre cuando lleguemos a conquistarla.
+En vez de malgastar vuestras vidas y mi tiempo<03e0>intentando resistiros, os aconsejo que aceptéis<03e0>mi oferta y abandonéis las ruinas ahora mismo.
+¿Qué estás ocultando?
+¿Ocultar? Nada, mi querida señora...
+Pero creo que tengo algo que os interesará...
+La... Lady Emma...
+Ahora lo entendéis, ¿verdad?<03e0>Volved a casa, General.
+No...
+¿En serio? ¿Estáis segura de lo que decís?<04e0>Si no hacéis lo que os digo, no podré garantizar<03e0>la integridad física de este chico... Supongo que<03e0>no querréis correr semejante riesgo.
+Buen intento.... ¿Pero crees que voy a permitir<03e0>que una escoria como tú se salga con la suya?
+Soy un soldado de Athlum. Pase lo que pase,<03e0>nunca haría nada que pusiera la ciudad en peligro.<03e0>He jurado proteger mi patria y eso es lo que haré.
+Vaya declaración de lealtad más repulsiva.<04e0>Bonitas palabras, sin duda... Pero mucho me temo<03e0>que dentro de nada serán vuestro epitafio.
+Tal vez cambiéis de idea cuando muera el chico.<03e0>¿Queréis ese peso sobre vuestra conciencia?
+Estoy harta de tanto teatro. Y ya te lo he dicho...<03e0>¡Tus amenazas no doblegarán a los soldados de Athlum!
+¿Podrás aguantar un poco más?
+¡Sí, señora!
+Bien.<03e0>¡Vamos allá, Rush!
+Ese tipejo de capa negra... ¿Qué demonios creía<03e0>que iba a conseguir? Esta vez lo hemos detenido,<03e0>pero lo cierto es que nos ha cogido por sorpresa.
+¿Estás bien?
+¡Sí, señora! Siento haberos causado problemas...
+No pasa nada. Me alegro de que estés a salvo.
+¡Lady Emma!
+Aquí ya no hacemos nada. Asegurémonos de que<03e0>todos los heridos reciban la atención que necesitan<03e0>y marchémonos de aquí.
+¡Sí, señora!
+

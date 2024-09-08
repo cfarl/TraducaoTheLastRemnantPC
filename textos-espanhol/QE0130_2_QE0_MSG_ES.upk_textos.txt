@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0130_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Hey, chico, ven aquí. Parece que tienes buen ojo.<03e0>¿Quieres ver algo extraordinario?<04e0>Mira, el tesoro de la antigua ciudad flotante:<03e0>el <1be064f4ecff>Manuscrito del dios dragón<1ce0>.<04e0>Las técnicas que encontrarás aquí te ayudarán<03e0>a vencer a tus enemigos en menos que tarda<03e0>un dragón en despachar a un caballero, ¿sabes?<04e0>Je, je... Ya sabía que atraería tu atención...<04e0>Me parte el corazón deshacerme de esta joya,<03e0>pero haré una excepción por ser tú...<03e006e01900>sEVENT_PRICE_QE0130_P_001<08e0000000000000>Vale, ¡me lo quedo!<09e008e0010000000300>Umm... No, gracias.
+¡Encantado de hacer negocios contigo!
+¿Qué pasa? ¿Te has dejado la cartera<03e0>en los otros pantalones? Anda, largo de aquí.
+Mala suerte, chico, mala suerte.<03e0>Pues piérdete entonces.<03e0>Me estás espantando a los clientes de verdad.
+

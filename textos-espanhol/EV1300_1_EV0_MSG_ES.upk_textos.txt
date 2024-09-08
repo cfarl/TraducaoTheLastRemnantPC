@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV1300_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Hemos vuelto, milord.
+¿Cómo está el Presidente?
+Aún es pronto para saberlo.
+Entiendo.
+¿Qué es esto?
+¿Qué ocurre, papá?
+Oye, esa luz se está moviendo.
+¿Eh?
+Lo hemos perdido.
+¿Pero qué demonios era?
+¡Si aparece en esta monada,<0fe003e00ee0>no cabe duda de que es una reliquia!
+¿Irina?
+¡No! ¡Irina!
+Un bosque oscuro, profundo...<1ae0000061430fe005e001000ee0>Lleno de energía...<1ae0000002430fe005e001000ee0>El Invasor está allí.
+La luz ha vuelto a aparecer.
+¿Dónde está?
+Umm... En el bosque de Darken, parece.
+Entonces... ¿Esa luz es el Invasor?<1ae0000096420fe005e001000ee0>¿Por qué sale en el localizador de reliquias?
+Será por los talismanes que lleva...
+¿Y bien, Dave?
+Lord David, ¿qué hacemos?
+No pudimos salvar al duque de Ghor...
+No tenemos nada que hacer ante el Invasor.<1ae00000ba420fe005e001000ee0>Ya lo demostró con creces<0fe003e00ee0>en Nagapur, y también en Königsdorf.
+Aunque diéramos con él<0fe003e00ee0>en el bosque de Darken, ¿de qué serviría?<1ae00000fa420fe005e001000ee0>¿Cómo pretendéis que le paremos los pies?
+Señor David...<1ae000009c420fe005e001000ee0>Tal vez podría...
+¿Irina?
+¡Irina!
+

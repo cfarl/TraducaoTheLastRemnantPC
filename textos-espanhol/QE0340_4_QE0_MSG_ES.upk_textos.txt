@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0340_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Señor Rush, lord David tiene algo importante<03e0>que deciros. ¿Podríais acudir al <1be0ffbe34ff>Castillo de Athlum<1ce0>?<06e0000008e0000000000000>Voy para allá.<09e008e0010000000300>Puede que luego.
+Gracias, señor.
+Parecía un asunto de suma importancia...
+

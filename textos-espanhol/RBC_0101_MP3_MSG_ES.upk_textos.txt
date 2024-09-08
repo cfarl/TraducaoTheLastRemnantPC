@@ -1,0 +1,17 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) RBC_0101_MP3_MSG
+-- ----------------------------------------------------------------------------------
+Rush, estamos a punto de entrar en una guarida<03e0>de monstruos, así que manteneos alerta. Todo irá bien<03e0>mientras nos ocupemos de ellos de uno en uno...
+Vale, entendido.
+Por cierto... Tomad esto. Es un orbe de espinela.<03e0>Con él podréis utilizar artes místicas.
+¿Artes místicas?
+Hechizos, para entendernos. Se trata de técnicas<03e0>que permiten canalizar energía a través de un arma<03e0>con resultados sorprendentes.
+Ah, vale...
+Con este orbe, vos también seréis capaz de usar<03e0>artes místicas para defenderos del enemigo.
+¡Genial! ¡Gracias!
+Por último, permitidme que os entregue este mapa<03e0>de la zona. Con esto deberíais tener todo lo necesario<03e0>para hacer frente a cualquier situación. ¿Continuamos?
+pagusUmm... Me parece que esta puerta es una reliquia.<03e0>Sólo la persona vinculada a ella puede abrirla.
+rush_sykes_s¿Qué hacemos entonces?
+pagusUmm... Al fin y al cabo, no deja de ser una puerta.<03e0>Tiene que haber una llave en algún sitio.
+pagus¡Aquí está! Seguro que con esto podremos abrir<03e0>esa puerta... ¡Vamos a comprobarlo!
+

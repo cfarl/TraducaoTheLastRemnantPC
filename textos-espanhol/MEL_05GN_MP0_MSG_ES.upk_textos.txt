@@ -1,0 +1,7 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) MEL_05GN_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Bienvenido al gremio.<03e0>¿Qué puedo hacer por ti?
+¿Habéis estado en Siebenpur, la caverna<03e0>que se encuentra al sur de aquí?<04e0>Es un lugar muy famoso entre los investigadores<03e0>porque está lleno de plantas exóticas<03e0>que no crecen en ningún otro lugar.<04e0>De hecho, he oído que no sé qué científico<03e0>anda por allí creando nuevas medicinas a partir<03e0>de estas plantas.
+¿Os acordáis de aquella ciénaga que cruzasteis<03e0>cuando veníais para acá?<04e0>Se trata de Marismarchita, el hogar de las doncellas<03e0>del bosque. Allí rendimos culto a la Hoja Caída.<04e0>Y, mientras oramos, los caballeros de la Orden<03e0>de Melphina nos protegen de los monstruos.<03e0>Es muy romántico, ¿sabes?
+

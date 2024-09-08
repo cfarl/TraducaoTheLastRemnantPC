@@ -1,0 +1,12 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1130_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡QUÉ FUEEERTE! Elysion es enooorme...<03e0>Casi tanto como las barrigas de los Lores.
+Seguro que todos los que visitan esta ciudad<03e0>acaban perdiéndose. Yo, desde luego, me perdí<03e0>bien perdida...
+El caso es que, mientras vagaba sin rumbo, me gasté<03e0>todos mis ahorros. Pero tengo una idea: ¿me compras<03e0>este superexplosivo «Khrynia»? ¡Es la bomba!<06e01900>sEVENT_PRICE_QE1130_P_000<08e0000000000000>¡Me encantan los petardos!<09e008e0010000000300>No te acerques a mí con eso.
+¡Gracias!
+¡Bien! ¡Es hora de marcharse de este agujero!
+Hay que ver...
+Eres un tío de lo más aburrido.
+¿Cómo? ¿De verdad no tienes suficiente dinero?<03e0>¿De dónde has salido, tío? ¿De una tribu de jhanas?
+

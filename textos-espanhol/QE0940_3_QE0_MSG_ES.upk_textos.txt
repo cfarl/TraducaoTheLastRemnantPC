@@ -1,0 +1,8 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0940_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Eh?<03e0>¿Qué demonios quieres?<06e0000008e0000000000000>¡Suelta a la chica, canalla!<09e008e0010000000000>Nada, sólo pasaba por aquí.
+Vaya... Así que aún quedan idiotas con agallas<03e0>en esta ciudad. Pues has escogido un mal momento<03e0>para hacerte el valiente...
+Hey, alto ahí, chico. ¿Qué te has creído?<03e0>Vienes aquí, nos ves la cara, ¿y piensas<03e0>que vamos a dejarte marchar así, sin más?
+¡Muchachos! ¡Coged a estos mocosos!<03e0>¡Nos darán un buen precio por ellos!
+

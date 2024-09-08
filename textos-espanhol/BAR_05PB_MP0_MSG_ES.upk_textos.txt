@@ -1,0 +1,256 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) BAR_05PB_MP0_MSG
+-- ----------------------------------------------------------------------------------
+Vaya, vaya... Hacía tiempo que no veíamos<03e0>ninguna cara nueva por aquí. ¡Bienvenido a La Fosa!
+Ese vejestorio llevaba siglos diciendo chorradas...<03e0>¿Quién iba a pensar que le daría por hacerse el héroe<03e0>ahora que la cosa está peligrosa de verdad?<04e0>¿Y se puede saber por qué nos deja semejante carta?<03e0>«Espero no causar problemas»... ¡Pues el muy idiota<03e0>se ha cubierto de gloria!
+Os he visto a ti y a Wyngale peleando<03e0>contra aquel monstruo... Muchas gracias.
+Os he visto a ti y a Wyngale peleando<03e0>contra aquel monstruo...<04e0>Muchas gracias por todo...<03e0>Seguro que nuestro antiguo Señor está<03e0>observándonos desde el cielo y muriéndose de risa.
+¡Hola, forastero! Últimamente no vemos<03e0>a mucha gente como tú por estos lares...<03e0>¡Siéntate a tomar algo!
+¡Dichosos los ojos!<03e0>¡Hacía siglos que no venía ningún cliente por aquí!<03e0>Dime, ¿qué puedo hacer por ti?
+Vaya... ¿Qué tenemos aquí? ¡Una cara nueva!<03e0>¿Qué tal, muchacho? ¿Recorriendo el mundo?<04e0>Siéntate y tómate un té. Aprovecha y disfruta<03e0>ahora que no tienes problemas, no como yo.<03e0>Soy el dueño de este lugar, ¿sabes?<04e0>Al principio tenía una taberna en Balterossa...<03e0>Me sobraban clientes, pero todo era carísimo.<03e0>¡No había manera de llegar a fin de mes!<04e0>Así que decidí trasladar mi establecimiento aquí,<03e0>lejos del mundanal ruido.
+¿Sabes lo peor de todo? Por más que lo intento,<03e0>soy incapaz de llevar una taberna sin ayuda,<03e0>ni siquiera un pequeño bar de barrio como éste.<04e0>Estaba desesperado, así que me fui al pueblo<03e0>y contraté a dos tipos que no parecían tener<03e0>nada mejor que hacer... ¡En buena hora!<04e0>¡Es increíble! El más joven es un vago redomado...<03e0>¡He visto momias con más vidilla que él! Pero bueno...<03e0>Ya sabes cómo son los mitras, sin ánimo de ofender.<04e0>El mayor... es buen tipo y le pone mucho empeño,<03e0>pero es un incompetente. Por más que se esfuerza,<03e0>es incapaz de recordar qué le ha pedido cada cliente.<04e0>Y la clientela... En general se trata de mercenarios<03e0>en horas bajas, así que no se puede decir que sean<03e0>una gente muy amistosa, ¿sabes?<04e0>Bufff...<04e0>Y yo que soñaba con tener una taberna llena<03e0>de gente guapa y de animadas conversaciones<03e0>sobre aventuras y conspiradores...
+Vaya, perdóname. Supongo que querías relajarte<03e0>y aquí estoy yo contándote mis problemas...<04e0>Bueno, la próxima vez que te acerques por aquí<03e0>ven a visitarme, ¿de acuerdo? Prometo invitarte<03e0>a una buena taza de té.
+Además de tener una selección impresionante<03e0>de vinos y licores, en La Fosa servimos un té<03e0>con cada consumición.<04e0>Las hojas de té nos las traen de Melphina...<03e0>Y créeme, cuestan una fortuna.<04e0>Pero ese tipo de detalles son los que atraen<03e0>a una abundante clientela... Bueno, al menos<03e0>así era hasta hace unos días.
+¡Hey, chico! ¿Cómo va todo? ¡No te vas a creer<03e0>lo que me ha pasado! Es horrible, horrible... Verás...<04e0>¿Cómo? ¿Que no tienes tiempo para charlar?<03e0>¿Tienes que irte?<04e0>Oh... Vale... Lo comprendo.
+Vaya... ¡Hola, muchacho!<04e0>¿Sabes? Cuando me dijeron que había resucitado<03e0>no sé qué bicho salido de una leyenda, estuve a punto<03e0>de cerrar el chiringuito.<04e0>Y hubiera sido una lástima, con lo que me costó<03e0>llegar hasta aquí, pero en fin...<03e0>¡Imagínate qué alivio sentí cuando os ocupasteis de él!<04e0>La verdad es que me habéis dado una alegría...<03e0>Supongo que he acabado por cogerle cariño<03e0>a este pueblecillo perdido en mitad de la nada.
+Hombre, otro «forastero»...<03e0>Yo tampoco soy de aquí, ¿sabes? El año pasado<03e0>un tipo me contrató para escoltarlo hasta aquí.<04e0>¡Pero luego, apenas llegamos al pueblo,<03e0>el muy canalla desapareció sin pagar!<04e0>Llevo atrapado aquí desde entonces...<03e0>Estoy tratando de ahorrar dinero para irme<03e0>de una vez de este pueblo de mala muerte.<04e0>Aquí no hay absolutamente nada que hacer.<03e0>Te lo juro, este sitio es un asco... ¡No sabes<03e0>qué ganas tengo de largarme de una vez!
+Vaya... Hola, forastero.<03e0>No te preocupes por los platos, ¿vale?<04e0>Ya he ahorrado lo suficiente para irme de Grentze,<03e0>pero creo que voy a quedarme una temporada más.<04e0>Al fin y al cabo, fíjate en esta gente.. ¡Dejarlos solos<03e0>sería tan cruel como mandar a un bebé a enfrentarse<03e0>contra todo el ejército de Ghor!
+Caray... Todo el pueblo anda histérico diciendo<03e0>que ha despertado no sé qué bicho legendario.<03e0>Dicen que es un dios, o un demonio, o algo así.<04e0>Supongo que me va a tocar ayudar a esta gente.<03e0>Al fin y al cabo soy un mercenario, ¿no?<03e0>Luchar es mi especialidad.<04e0>¡Y lucharé para proteger esta ciudad si hace falta!
+¡Ese listillo de Wyngale me ha quitado el puesto!<03e0>¡Yo fui el primero que prometió defender Grentze!<04e0>Tranquilo, es broma... Apenas me acerqué por allí,<03e0>las piernas empezaron a temblarme como si fueran<03e0>a fallarme de un momento a otro.<04e0>Te juro que sólo con mirar a esa cosa ya creía<03e0>que me iba a dar un patatús... Si hay algún héroe<03e0>en esta ciudad, no cabe duda de que es Wyngale.
+¿Otra vez tú?<04e0>Estoy descansando, ¿te enteras?<03e0>Déjame en paz.
+¿Otra vez tú?<04e0>Mira, comprendo que tengas ganas de charlar conmigo.<03e0>Sé que los chavales como tú sois muy impresionables,<03e0>pero mi tiempo libre es sólo mío, ¿me oyes?<04e0>* Mirada asesina *<04e0>Pero bueno... ¿Se puede saber por qué me miras<03e0>con esa cara de imbécil? Vale, no me lo digas...<03e0>No tienes ni idea de quién soy, ¿verdad?<04e0>¡Maldita sea! Yo que creía que ya me había librado<03e0>de gente como tú...
+No tienes ni idea de quién soy, ¿verdad?<03e0>Y yo que pensaba que los críos de ahora<03e0>eran un poco más espabilados...
+¿De verdad que nunca has oído hablar de mí?<04e0>No es que quiera fanfarronear, pero muchos<03e0>me conocen como el Rey de los mercenarios...<04e0>Jolín... Ya me imaginaba que me pasaría factura<03e0>dejar las guerras a gran escala y dedicarme a hacer<03e0>trabajillos como éste, pero...<04e0>En fin... ¿Qué más da si no sabes quién soy?<03e0>Está claro que eres un polluelo recién salido del nido.<03e0>¿Por qué no intentas batirte en duelo conmigo?<04e0>Aunque debo advertirte que te van a hacer falta<03e0>más de dos asaltos para aprender mis secretos...<03e0>¡Juas, juas, juas!<04e0>* Silencio *<04e0>Oye, al menos podrías fingir interés, ¿no crees?
+No es que quiera fanfarronear, pero muchos<03e0>me conocen como el Rey de los mercenarios...<03e0>Venga, demuéstrame de qué eres capaz.
+Vaya, vaya...<03e0>¿La gallinita va a enseñarme de qué es capaz?<04e0>¿Qué pasa? ¿Por qué me miras con esa cara?<03e0>¿No te gusta que te llamen gallina?<04e0>No me malinterpretes, no es que pretenda humillarte<03e0>para dármelas de importante, ni nada por el estilo.<04e0>De hecho, tienes una mirada bastante aguda.<03e0>Quizás podrías llegar a ser un buen luchador<03e0>si supieras sacar partido de tus cualidades.<04e0>Tal vez te acepte como aprendiz si me lo pides<03e0>con humildad, pero no te creas que le ofrezco<03e0>semejante honor a cualquiera.<04e0>¿Cómo? ¿Acaso dudas de mi habilidad?<03e0>¿Cómo te atreves a tacharme de creído?<04e0>Bah, piensa lo que quieras. ¿Qué vas a hacer, eh?<03e0>Si conoces a alguien que sea capaz de derrotarme,<03e0>tráemelo y le mostraré quién manda aquí. ¡Juas, juas!
+Vaya... ¿La gallinita va a enseñarme de qué es capaz?<03e0>Si conoces a alguien que se crea capaz de derrotarme,<03e0>tráemelo y le demostraré lo equivocado que está.
+¿Otra vez tú? ¿Es que no entiendes el significado<03e0>de las palabras «tiempo muerto»?<04e0>Déjame descansar, ¿quieres?<03e0>Me siento como si las Tierras Sagradas<03e0>se hubieran desplomado sobre mi cabeza.<04e0>Esto es cosa tuya, ¿verdad? Apenas te digo que nadie<03e0>puede derrotarme, aparece un yama enmascarado<03e0>y me desafía a un duelo...<04e0>¡Como si no me hubiera dado cuenta de que era<03e0>el duque de Ghor! ¡Si llevaba a cuestas el Bilquis!<04e0>Ya le vale...<03e0>¡Tampoco hacía falta tomarse el asunto tan a pecho!<03e0>Fíjate... ¡Me ha dejado la cara como un mapa!<04e0>Lo siento... Mi orgullo está un poco maltrecho.<03e0>Eso me pasa por dejarme llevar por mi ego...<03e0>Supongo que debería retomar mi entrenamiento.<04e0>¿Qué me dices? ¿Te apuntas a unas clases?<03e0>Cuando te dije que tenías potencial, lo decía<03e0>completamente en serio...<04e0>Pero, antes que nada, lo más importante<03e0>para un mercenario es estar bien fuerte...<03e0>¡Así que vamos a comer! ¡Juas, juas, juas!
+Rush, parece que tenemos un rato libre, ¿no?<03e0>¿Te apetece entrenar un poco? O tal vez<03e0>podríamos ir a comer algo...
+Es una carta escrita en un papel sucio y amarillento.<03e0>Esto es lo que pone:<04e0>«Grentze está en peligro y mi deber es protegerla,<03e0>así que voy a acabar con el Condenado...<03e0>¡Aunque no sé muy bien cómo!».<04e0>«Espero no causar problemas al dueño del bar,<03e0>pero no puedo quedarme de brazos cruzados<03e0>mientras el mundo esté en peligro».<04e0>«Pero no hay de qué preocuparse: he avisado<03e0>a mi hermano gemelo, que vive en Balterossa,<03e0>para que me sustituya. ¡Nadie notará la diferencia!».<04e0>«En fin, tengo que irme. No creo que consiga<03e0>hacerle nada más que un rasguño a esa cosa,<03e0>pero procuraré que le duela lo más posible. ¡Hala!».
+¡Soy la adorable jovencita que se encarga<03e0>de atraer a los clientes a nuestro establecimiento!<04e0>Pero no se te ocurra propasarte, ¿eh?<03e0>¡En realidad, no soy una chica! ¡Jur, jur, jur!
+* Silencio *
+Parece que la esposa del barón Nielsen de Celapalais<03e0>ha vuelto a desaparecer... Aunque la verdad,<03e0>sabiendo cómo se llevan, no me extraña en absoluto.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues verás como se ha fugado para liarse conmigo!<03e0>¡La parienta se va a morir de celos! ¡Jur, jur, jur!
+Parece que no sé qué loca pretende asesinar<03e0>al duque de Qubine...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues ya podrías aprender de mí!<03e0>Verás cómo salvo a ese crío en menos<03e0>que canta un periquete... ¡Jur, jur, jur!
+Parece que la princesa del desierto se escapa<03e0>del castillo cada dos por tres para reunirse<03e0>con un tipo del que anda enamorada.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues ya ha llegado la hora de que venga<03e0>por aquí para convertirme en su príncipe!<03e0>Eso sí que sería una sorpresa, ¿eh? ¡Jur, jur, jur!
+¡Qué cosas!<03e0>¡La princesa del desierto se ha fugado con su amado!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Mira que no fugarse conmigo...<03e0>Pues ella se lo pierde, ¿verdad?<03e0>¡Jur, jur, jur!
+Parece que las relaciones entre Balterossa y Royotia<03e0>van de mal en peor. Están movilizando a sus ejércitos<03e0>y los familiares de los soldados están preocupados...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues a mí me dan ganas de agarrar mi espada<03e0>e ir corriendo a impedir que estalle esa guerra!<03e0>No intentéis pararme... ¡Soy invencible! ¡Jur, jur, jur!
+Parece que el primer Emperador celestial ocultó algo<03e0>tras una barrera en las grandes marismas... y ahora<03e0>la barrera se ha roto. ¿Será una entrada a otro mundo?
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues me dan ganas de ir a arreglarla yo mismo!<03e0>Y que nadie intente pararme... ¡Soy imparable!<03e0>¡Jur, jur, jur!
+Una de las doncellas del bosque tiene un vínculo<03e0>tan fuerte con su caballero que es capaz de sentir<03e0>todo lo que él siente.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues yo creo que tener semejante vínculo<03e0>debe de ser una lata! Uno tiene sus secretos...<03e0>¡Jur, jur, jur!
+Las doncellas del bosque y la Orden de Melphina<03e0>están montando una expedición. Parece que le pasa<03e0>algo raro a la Hoja Caída, la reliquia de Marismarchita.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues algo me dice que va a ser un desastre...<03e0>¡Jur, jur, jur!
+La Gala Cósmica está a punto de empezar,<03e0>pero la Ninfa Cósmica aún no ha llegado a Nagapur...<03e0>Tal vez le haya ocurrido algo...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues yo estoy pensando en ir a salvarla!<03e0>Una chica tan indefensa no debería viajar sola...<03e0>¡Yo seré su caballero de brillante armadura!
+Al final la Gala Cósmica empezó según lo previsto.<03e0>El festival suele ser un aburrimiento, pero esta vez<03e0>aparecieron unos monstruos y hubo que interrumpirlo.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues a mí me encantan los festivales!<03e0>Además, si no hay mucha gente, pueden ser<03e0>de lo más romántico, ¿no te parece? ¡Jur, jur, jur!
+Una dama chapada a la antigua necesita a alguien<03e0>que le haga de guardaespaldas. Dicen que recibe<03e0>a los aspirantes en la taberna de Nagapur.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues si busca caballeros con experiencia,<03e0>no tiene más que hablar con un servidor!<03e0>¡Jur, jur, jur!
+¿Te van las antigüedades?<03e0>Parece que muchos tesoros de los reinos antiguos<03e0>se han puesto a la venta en el mercado negro...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues a mí me dan ganas de ir a recuperarlos<03e0>y convertirme en un famoso arqueólogo!<03e0>¡Jur, jur, jur!
+Hay un tipo que anda buscando tres piedras<03e0>relacionadas con el antiguo reino del desierto.<03e0>Parece que tienen valor histórico, o algo así.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¿Pues sabes lo que me gustaría a mí?<03e0>¡Tener tres novias! Eso sí que estaría bien...<03e0>¡Jur, jur, jur!
+Un tipo aficionado a la arcamagia anda buscando<03e0>a alguien que le ayude en sus experimentos...<03e0>Dice que está a las puertas de un gran descubrimiento.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¿Pues queréis saber el secreto de mi vigor?<03e0>¡La arcamagia! Que no, tranquilos... ¡Era broma!<03e0>¡Jur, jur, jur!
+¡Se ha escapado un monstruo al que encerró<03e0>el primer Emperador celestial! Dicen que esto<03e0>es el fin del mundo...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues si el mundo corre peligro, tendré que salvarlo!<03e0>¡Jur, jur, jur!
+Hay un tipo amnésico que se dedica a vagar<03e0>por las ciudades del desierto buscando algo<03e0>que le ayude a recuperar la memoria...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues no sé para qué quiere recuperar la memoria...<03e0>¡Yo ni siquiera recuerdo lo que he comido hoy<03e0>y no estoy preocupado en absoluto! ¡Jur, jur, jur!
+Parece que un famoso bandido anda rondando<03e0>por Athlum. Dicen que está esperando a alguien,<03e0>pero nadie se atreve a preguntárselo.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo pareceré inofensivo, pero también soy<03e0>todo un rebelde... ¡El otro día, les enseñé el trasero<03e0>a las viejas de la residencia! ¡Jur, jur, jur!
+Dicen que en las ruinas de Robelia hay una estatua<03e0>capaz de reunirte con quien quieras, esté donde esté.<03e0>Parece que un chico anda buscándola.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues seguro que mi mujer sabe dónde está...<03e0>Si no llega a ser por esa estatua, no sé cómo<03e0>me hubiera arrastrado hasta el altar... ¡Jur, jur, jur!
+¡Parece que un asesino anda suelto por la capital!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues está claro, ¿no?<03e0>Seguro que es alguno de esos tipos<03e0>procedentes del continente... ¡Jur, jur, jur!
+Parece que un yama enorme necesita ayuda<03e0>para encontrar una cosa, pero nadie se atreve<03e0>a echarle una mano porque es un poco... rarito.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo también andaba buscando algo...<03e0>¡Pero ya no me acuerdo de qué era!<03e0>¡Jur, jur, jur!
+Parece que un qsiti albino anda buscando cierto libro<03e0>sobre arcamagia. Mucha gente dice que le recuerda<03e0>a alguien, pero nadie sabe exactamente a quién...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo soy todo un maestro de las artes místicas...<03e0>¡Mis danzas místicas son capaces de hacer huir<03e0>al más pintado! ¡Jur, jur, jur!
+Dos chicas gemelas han empezado a trabajar<03e0>como mercenarias... ¡y no lo hacen nada mal!<03e0>Eso sí, una de ellas tiene un mal genio espantoso.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo era mercenario en mis tiempos mozos...<03e0>Quizás debería asociarme con ese par de bellezas.<03e0>¡Jur, jur, jur!
+En el Océano de Arena hay un tipo que busca<03e0>a alguien que lo desafíe, pero no está dispuesto<03e0>a conformarse con cualquiera...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo estaba dispuesto a plantarle cara a ese tipo,<03e0>pero la parienta anda con gripe... ¡Me toca quedarme<03e0>en casa haciéndole compañía! ¡Jur, jur, jur!
+Un viejo guerrero anda pateándose el Océano de Arena<03e0>de arriba a abajo en busca de una espada muy especial.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues mi corazón es tan grande como el Océano<03e0>de Arena... ¡Pero no me gusta que me lo pateen!<03e0>¡Jur, jur, jur!
+Los guardias del duque de Ghor han jurado<03e0>ser fieles a su Señor hasta el final de sus días.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues si esos chavalines me conocieran...<03e0>¡Yo les enseñaría lo que es estar a las órdenes<03e0>de un hombre de verdad! ¡Jur, jur, jur!
+No hay ninguna familia en el mundo tan entregada<03e0>como los Honeywell. Si los tienes de tu parte,<03e0>puedes conseguir cualquier cosa.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues eso es porque no me conocen a mí...<03e0>¡Lo mío con esta taberna sí que es entrega,<03e0>y lo demás son tonterías! ¡Jur, jur, jur!
+Parece que uno de los cuatro generales de Athlum,<03e0>ese tal Torgal, tiene un pasado un tanto oscuro...<03e0>¡Y en Royotia acaban de descubrir el pastel!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues si quieres que te hable de mi pasado oscuro,<03e0>no tienes más que decírmelo... ¿Me has oído?<03e0>¡Jur, jur, jur!
+Dentro de nada empezará el Torneo de los héroes...<03e0>Es una competición que tiene bastante prestigio<03e0>entre los aficionados al combate.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues no me puedo creer que no me hayan invitado...<03e0>¡Un luchador como yo no puede faltar en un evento<03e0>de semejante calibre! ¡Jur, jur, jur!
+Parece que existe una academia que lleva años<03e0>entrenando a los mejores místicos del mundo...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo soy el mejor místico de todos los tiempos<03e0>y aprendí por mi cuenta... Igual deberían contratarme<03e0>como profesor, ¿no te parece? ¡Jur, jur, jur!
+Athlum atraviesa momentos difíciles y la gente<03e0>anda un poco preocupada por la nueva matriarca<03e0>del clan de los Honeywell. Como es tan jovencita...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues no veo dónde está el problema. Yo llevo<03e0>comportándome como si tuviera quince años<03e0>desde que cumplí los treinta y cinco... ¡Jur, jur, jur!
+Últimamente circulan rumores sobre la vida amorosa<03e0>de lord David... o la falta de ella. Después de todo,<03e0>no se le conoce ningún romance...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Cuando me hablan de romance, me acuerdo<03e0>de lo enamorada de mí que estaba la parienta...<03e0>Claro que de eso hacen cincuenta años... ¡Jur, jur, jur!
+Dicen que la ex directora de la Academia se dedica<03e0>a recorrer el mundo entero de taberna en taberna.<03e0>Supongo que está tratando de ahogar sus penas...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+No hay nada más triste que una chica que bebe sola.<03e0>Debería venir por aquí... ¡Así podríamos beber juntos!<03e0>¡Jur, jur, jur!
+Últimamente los doctores Sykes no hacen<03e0>más que entrar y salir del castillo de Athlum...<03e0>¡Deben de haber realizado un gran descubrimiento!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues a mí me da la sensación de que yo también<03e0>estoy a punto de descubrir algo gordo... ¡Jur, jur, jur!
+Un objeto volador no identificado anda surcando<03e0>el firmamento por los alrededores de Fordragón.<03e0>La gente del lugar anda histérica al respecto...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues me acercaré por allí para ocuparme de él.<03e0>Mañana, quizás. O tal vez pasado... ¡Jur, jur, jur!
+Una guerrera un tanto impulsiva ha decidido detener<03e0>a los causantes de los incidentes de Marismarchita,<03e0>pero su jefe cree que es mejor dejarlos marchar.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo también era bastante impulsivo de joven...<03e0>¡Y ahora más todavía! ¡Jur, jur, jur!
+Dicen que un ejército de monstruos ha surgido<03e0>del Océano de Arena... ¡Son tan poderosos<03e0>que los habitantes de Balterossa están desesperados!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues como decía mi madre, la clave de la victoria<03e0>está en escoger la formación adecuada! ¡Jur, jur, jur!
+Según los expertos en historia, en el interior<03e0>del volcán se esconde algo capaz de destruir<03e0>ciudades enteras.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo tengo casi más años que Baaluk<03e0>y ningún historiador ha venido a investigarme...<03e0>¡Jur, jur, jur!
+Nadie sabe exactamente qué es lo que ocurre<03e0>en el interior del volcán, ni cómo averiguarlo...<03e0>Pero quizás el marqués de Royotia tenga alguna idea...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues como decía mi madre, la clave de la victoria<03e0>está en las piedras carmesíes! ¡Jur, jur, jur!
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el puesto de su padre.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues menudo lío tienen montado!<03e0>Aunque oye, ahora que lo pienso...<03e0>esa historia me suena de algo...
+Dicen que, si prestas atención, al atravesar el desierto<03e0>se puede oír un lamento triste y solitario que procede<03e0>de las profundidades del Océano de Arena.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues seguro que son criaturas mutantes!<03e0>¡Criaturas mutantes del centro de la tierra!<03e0>¡Jur, jur, jur!
+Hace mucho tiempo, un héroe de gran fama<03e0>vivía en el Océano de Arena.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Yo sí que era un héroe! ¡Lo llevaba escrito en la cara!<03e0>Vale que me lo pintaron unos graciosos en la escuela<03e0>el día de las novatadas, pero... ¡Jur, jur, jur!
+En la Plaza Mayor hay un tipo que repite todo el día:<03e0>«¡Escuchad! Si miráis los pilares del Océano de Arena,<03e0>se os aparecerán los fan... fan... fan...».
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Buuuh! Qué miedo, ¿verdad?<03e0>¡Jur, jur, jur!
+Un científico loco anda merodeando por Melphina.<03e0>Si pasas por allí, es mejor que no te acerques a él...<03e0>¡Dicen que mira a la gente de una forma muy rara!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues algo me dice que yo me entendería<03e0>de maravilla con ese tipo. Qué cosas, ¿no?¡Jur, jur, jur!
+Dicen que en cierta ciudad del Océano de Arena<03e0>hay una cafetería infestada de bichos que siguieron<03e0>al dueño desde las profundidades del desierto.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues creo que sé de qué cafetería se trata...<03e0>¡Jur, jur, jur!
+Nagapur es cada vez menos segura.<03e0>Parece que han desaparecido varios niños...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Yo me ocuparé de rescatarlos...<03e0>En cuanto termine de lavar los platos.<03e0>¡Jur, jur, jur!
+A los aventureros les ha dado por intercambiar<03e0>los tesoros que encuentran durante sus viajes.<03e0>La moda ha calado muy hondo, sobre todo en Royotia...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues igual debería probar suerte yo también...<03e0>¡Jur, jur, jur!
+Parece que los mercaderes de Royotia están hartos<03e0>de que Balterossa controle sus rutas comerciales.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues si quieren hacerse ricos, deberían acudir a mí.<03e0>No hay más que ver la cara de millonario que tengo...<03e0>¡Jur, jur, jur!
+Un mercenario yama anda buscando un socio...<03e0>Sería una buena forma de conseguir unas monedas.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues quizás debería ofrecerle mis servicios...<03e0>¡Si necesita a alguien que le sirva de escudo,<03e0>yo le valdría perfectamente! ¡Jur, jur, jur!
+En Celapalais hay un tipo con ciertos problemas<03e0>de personalidad... Dicen que es todo un espectáculo<03e0>ver cómo le cambia el humor de un momento a otro.
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues si se trata de dar espectáculo, un servidor<03e0>tiene las de ganar. ¿Te has fijado en este modelito?<03e0>¡Jur, jur, jur!
+Hay un qsiti que se pone en lugares concurridos<03e0>y trata de estorbar lo más posible para buscar pelea<03e0>con los que se tropiezan con él. Vaya incordio de tío...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues de pequeño yo también era un incordio.<03e0>Menos mal que se me pasó con la edad, ¿no?<03e0>¡Jur, jur, jur!
+Hay una chica misteriosa que ronda por aquí.<03e0>Dicen que tiene un carácter un poco difícil...<03e0>¡Ni que el mundo se le hubiera venido encima!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues seguro que un donjuán como yo podría<03e0>darle lo que necesita, ¿verdad? ¡Jur, jur, jur!
+No sé si habrás estado en Marismarchita últimamente,<03e0>pero parece que las Damas Sangrientas se están<03e0>reuniendo por la zona. Debe de tratarse de algo gordo...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues claro que se están reuniendo!<03e0>¡Son mi club de admiradoras, está claro!<03e0>¡Jur, jur, jur!
+Parece que los jhanas han vuelto a hacer de las suyas<03e0>en el Océano de Arena. ¡Pero si parece que fue ayer<03e0>cuando los despachó el Gae Bolg!
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues no sé si lo sabes, pero una vez derroté<03e0>a un jhana en un duelo a muerte... por la espalda<03e0>y sin que me viera, claro está. ¡Jur, jur, jur!
+Parece que, hace poco, los Halcones Argénteos<03e0>despacharon a una banda de jhanas...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Pues yo sería un Halcón Argénteo estupendo...<03e0>¡No hay más que fijarse en esta melena gris!<03e0>¡Jur, jur, jur!
+Los Halcones Argénteos van a acabar con lo poco<03e0>que queda del ejército del Invasor... ¡Menos mal!<03e0>Si los dejasen escapar, podrían intentar algo...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+¡Pues yo podría echarles una mano!<03e0>Supongo que no les vendría mal tener a alguien<03e0>que se llevase los golpes por ellos, ¿no? ¡Jur, jur, jur!
+Dicen por ahí que un tipo de aspecto sombrío<03e0>se pasa las horas muertas en la taberna de Elysion.<03e0>Parece que tiene hartos a los demás clientes...
+Al menos, eso dicen las malas lenguas.
+Pues ya ves tú qué bien. ¿Y a mí qué?
+Elysion... ¡Ésa sí que es una ciudad de leyenda!<03e0>¡Allí fue donde le pedí la mano a la parienta!<03e0>¡Jur, jur, jur!
+

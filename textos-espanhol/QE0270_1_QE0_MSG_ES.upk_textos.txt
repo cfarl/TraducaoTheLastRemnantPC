@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0270_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Quieres que te cuente una historia?<04e0>Hace mucho tiempo, había un monstruo tan fiero<03e0>que lo que más le gustaba en el mundo era pelear.<04e0>Luchó tanto y durante tanto tiempo,<03e0>que acabó por olvidarse de todo lo demás.<04e0>Poco a poco se convirtió en una máquina de pelear,<03e0>y su corazón acabó volviéndose tan frío y duro<03e0>como el acero.<04e0>Tanto fue así que, al cabo de algún tiempo,<03e0>su cuerpo se había transformado en una espada.
+¿Te ha gustado? Sólo es un cuento para críos,<03e0>pero el otro día pasó por aquí un viejecito<03e0>que se lo creyó a pies juntillas. Increíble, ¿no?<04e0>¡De hecho, se fue corriendo a buscar la espada!<04e0>Lo malo es que esa zona está llena de bandidos<03e0>y me preocupa que le pueda pasar algo...<03e0>¿Podrías acercarte a comprobar si está bien?<06e0000008e0000000000000>Vale, suena interesante.<09e008e0010000000300>Ya se las apañará él solo.
+¡Gracias! ¡Eres muy amable!<04e0>Se supone que la espada está en una caverna<03e0>de <1be0ffbe34ff>Lavaluarte<1ce0>. Ten cuidado, ¿de acuerdo?
+No, si ya lo sé...<03e0>Pero tengo un mal presentimiento.
+Ya sé que suena absurdo que un monstruo<03e0>se transforme en una espada, pero cualquiera<03e0>convencía a ese viejecito...<04e0>El caso es que esa zona está llena de bandidos,<03e0>y ya sabes cómo se las gastan. ¿Te importaría<03e0>ir a ver si está bien? Me quedaría más tranquila.<06e0000008e0000000000000>¡Claro! ¡Pobre viejecito!<09e008e0010000000300>Tranquila, ¿qué le va a pasar?
+¡Gracias por pensártelo mejor!<03e0>Te debo una, en serio.<04e0>Mi abuela dice que la espada se encuentra<03e0>en una cueva de <1be0ffbe34ff>Lavaluarte<1ce0>. Ten cuidado, ¿eh?
+Supongo que tienes razón, pero no sé...<03e0>Esto me da mala espina.
+Entonces, ¿no le ha pasado nada al viejecito?<03e0>¡Menos mal!<04e0>¡Muchas gracias por comprobarlo!<03e0>Acepta esto como recompensa.
+¡Qué viejecito más gracioso!<03e0>Ojalá vuelva a encontrármelo.
+

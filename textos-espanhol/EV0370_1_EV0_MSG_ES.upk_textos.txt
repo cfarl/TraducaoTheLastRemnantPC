@@ -1,0 +1,31 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) EV0370_1_EV0_MSG
+-- ----------------------------------------------------------------------------------
+Creí que no me soltaría nunca...
+¿No logras dormir?
+¡No he sido capaz de salvarla!
+¡Maldición! Irina...<0fe003e00ee0>¿Y ahora qué demonios hago?
+¡Rush, tienes que calmarte!<0fe003e00ee0>Irina está viva.
+¿Cómo lo...?
+Una criatura voladora fue avistada cerca<0fe003e00ee0>de Vallenegro después de que nos fuéramos.<1ae00000c8420fe005e001000ee0>Llevaba a una joven consigo...
+Hemos comparado varios informes<0fe003e00ee0>y estamos seguros de que era Irina.
+¿En serio?
+Pagus lo ha comprobado personalmente.<0fe003e00ee0>Tu hermana está viva, Rush.
+¿Qué ocurre?
+Aunque esté viva,<0fe003e00ee0>sigo sin ser capaz de salvarla...
+¡No pierdas la esperanza, Rush!<0fe003e00ee0>¡Debes conservar tus fuerzas!
+Si no la ayudas tú, ¿quién lo hará?
+Tienes razón. He de encontrar una solución.
+Como dije, te ayudaré en lo que pueda.<0fe003e00ee0>Aún es pronto para perder la esperanza.
+Dave... Gracias.
+Ya, bueno... Ese tal Wagram<0fe003e00ee0>insinuó que pertenece a la Academia.<1ae0000002430fe005e001000ee0>Si es cierto, esto es mucho más serio<0fe003e00ee0>de lo que creíamos. Necesitarás ayuda.<1ae0000043430fe005e001000ee0>Además... Irina nos salvó.<0fe003e00ee0>Le debo mi vida.<1ae00000f0420fe005e001000ee0>Y los hombres de Athlum<0fe003e00ee0>siempre pagan sus deudas.
+¿Seguro que puedes ayudarnos?<0fe003e00ee0>A Torgal no le hará ninguna gracia...
+Su trabajo es arreglar mis marrones...<0fe003e00ee0>Lleva haciéndolo desde que nací.
+Jo, tío... ¡Pobre hombre!
+Te avisaré en cuanto sepamos<0fe003e00ee0>a dónde ha ido esa criatura voladora.
+Vale. Yo también estaré pendiente.
+Lord David, ¿seguís empeñado<0fe003e00ee0>en investigar este asunto?
+¡Pues claro! ¡No voy a permitir<0fe003e00ee0>que esos sinvergüenzas mancillen Athlum!
+Ese brujo...<0fe003e00ee0>Averigua quién es ese Wagram,<1ae00000dc420fe005e001000ee0>aunque debas poner la Academia patas arriba.
+Sí, milord.
+

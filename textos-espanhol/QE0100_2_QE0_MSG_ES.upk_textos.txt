@@ -1,0 +1,36 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0100_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¿Eh?<03e0>¡Hombre, hola! Hace buen día, ¿verdad?<03e0>¡Qué solecito más rico!<04e0>Fíjate... ¿A que son monos? Llevo todo el día<03e0>contando los pececillos, pero hay un montón...<03e0>¡Tengo la cabeza que echa humo!<06e0000008e0000000000000>¿Eres la Ninfa Cósmica?<09e008e0010000000000>Sigue así... ¡Ánimo!
+Vaya, ¿cómo te has enterado?<04e0>Me llamo Sheryl. Desde que era pequeña,<03e0>siempre he querido ser la Ninfa Cósmica...<03e0>¡No me puedo creer que me hayan elegido! ¡Ji, ji, ji!
+¡Anda, se me olvidaba! ¡Ahora no me puedo entretener!<03e0>¡Tengo que ir corriendo a <1be0ffbe34ff>Nagapur<1ce0>!
+* Mirada pensativa *<03e0>Umm... ¿Y por dónde se va a <1be0ffbe34ff>Nagapur<1ce0>?
+...
+Umm... ¡Hey! Debe de ser cosa del destino<03e0>que nos hayamos encontrado aquí, ¿no crees?<03e0>¡Está claro que deberíamos ir juntos a <1be0ffbe34ff>Nagapur<1ce0>!<04e0>¿Cómo? No, este súbito arrebato de amistad no tiene<03e0>nada que ver con el hecho de que me haya perdido...<03e0>Pero será mejor que vayas tú delante, por si acaso.<04e0>Bueno, ¡pues pongámonos en camino!
+Ah, sí... Intentemos evitar a los monstruos, ¿vale?<03e0>Ya sé que sólo quieren jugar, pero no tengo tiempo<03e0>para esas tonterías, ¿sabes?
+¡Gracias! ¡Lo haré lo mejor que pueda!
+¡Rayos! ¡He perdido la cuenta! Hay que ver...<03e0>Yo que ya tenía contados 263 pececillos...
+Uno, dos, tres...<03e0>A ver, chicos, estaos quietos un momento, ¿vale?<04e0>¿Umm?
+¡Ay, perdona, no te había visto!<03e0>¿Querías algo?<06e0000008e0000000000000>¿Eres la Ninfa Cósmica?<09e008e0010000000000>Te gusta contar peces, ¿eh?
+Vaya, ¿cómo te has enterado?<04e0>Me llamo Sheryl. Desde que era pequeña,<03e0>siempre he querido ser la Ninfa Cósmica...<03e0>¡No me puedo creer que me hayan elegido! ¡Ji, ji, ji!
+¡Anda, se me olvidaba! ¡Ahora no me puedo entretener!<03e0>¡Tengo que ir corriendo a <1be0ffbe34ff>Nagapur<1ce0>!
+* Mirada pensativa *<03e0>Umm... ¿Y por dónde se va a <1be0ffbe34ff>Nagapur<1ce0>?
+* Silencio *
+Umm... ¡Hey! Debe de ser cosa del destino<03e0>que nos hayamos encontrado aquí, ¿no crees?<03e0>¡Está claro que deberíamos ir juntos a <1be0ffbe34ff>Nagapur<1ce0>!<04e0>¿Cómo? No, este súbito arrebato de amistad no tiene<03e0>nada que ver con el hecho de que me haya perdido...<03e0>Pero será mejor que vayas tú delante, por si acaso.<04e0>Bueno, ¡pues pongámonos en camino!
+Ah, sí... Intentemos evitar a los monstruos, ¿vale?<03e0>Ya sé que sólo quieren jugar, pero no tengo tiempo<03e0>para esas tonterías, ¿sabes?
+Ji, ji, ji... En realidad tampoco lo hago por gusto.<03e0>Es que soy una chica que se distrae con facilidad.<03e0>Me pasa desde que era pequeñita.<04e0>Bueno, de vuelta al trabajo...<03e0>¡Hoy pienso contarlos a todos!
+¡Vaya, hola! Oye, me suena tu cara...<03e0>¿Ya habías venido antes por aquí, verdad?<04e0>Ji, ji, ji... ¡Qué coincidencia!<03e0>Entonces... ¿Vienes mucho por aquí?<06e0000008e0000000000000>Ejem... La Gala Cósmica...<09e008e0010000000000>No, sólo pasaba por aquí.
+¿La Gala Cósmica?<04e0>Umm...<04e0>Ah, sí, he oído hablar de ella. ¿Sabes una cosa?<03e0>Desde pequeña, siempre he deseado salir elegida<03e0>como Ninfa Cósmica, y este año, por fin...<04e0>¡OSTRAS! ¡Tengo que ir corriendo a <1be0ffbe34ff>Nagapur<1ce0>!<03e0>Ay, ay, ay... ¡Voy a llegar tardeee!
+Ay, pues qué bien... Qué tengas un buen viaje,<03e0>entonces. ¡Chao!
+¡Hola!<03e0>Espera... ¿Nos conocemos? Tengo la impresión<03e0>de que nos hemos visto antes...<04e0>Sí... Estuvimos charlando o algo así, ¿verdad?<04e0>Bueno, cuéntame...<03e0>¿Puedo ayudarte en algo?<06e0000008e0000000000000>Oye, la Gala Cósmica...<09e008e0010000000000>Sólo admiraba el paisaje...
+¿La Gala Cósmica?<04e0>Umm...<04e0>Ah, sí, he oído hablar de ella. ¿Sabes una cosa?<03e0>Desde pequeña, siempre he deseado salir elegida<03e0>como Ninfa Cósmica, y este año, por fin...<04e0>¡OSTRAS! ¡Tengo que ir corriendo a <1be0ffbe34ff>Nagapur<1ce0>!<03e0>Ay, ay, ay... ¡Voy a llegar tardeee!
+Vaya... ¿Estabas mirándome a mí?<03e0>¡Qué corte! Bueno, pues intentaré hacerlo<03e0>lo mejor posible. Ji, ji, ji... ¡Allá voy!
+Bufff...<03e0>¡Menos mal que he salido sana y salva!
+Vaya, ¿aún estás ahí? ¿Es que necesitas algo?<03e0>Ah, ya lo sé... ¡Seguro que te has perdido!<04e0>Ji, ji... ¡Eres una monada, pero seguro<03e0>que en el fondo eres un cabezahueca!<04e0>Bueno, tengo muchas cosas que hacer<03e0>en Nagapur, así que tengo que dejarte.<03e0>Nos vemos luego, ¿vale? ¡Chao!
+Uff...<03e0>¡Ya debemos de estar a las puertas de Nagapur!<04e0>¡Guau! ¡No hemos tardado nada!<03e0>Creí que estaríamos viajando durante semanas...<04e0>Ya sé que cuesta creerlo, pero a veces soy<03e0>un poco perezosa... ¡No sabes cómo me alegro<03e0>de que ya haya pasado todo!<04e0>Pero bueno, supongo que debería darte las gracias<03e0>por ponérmelo fácil para segui... digo, por comprobar<03e0>que iba por el camino correcto. ¡Gracias, gracias!
+Bueno, tengo muchas cosas que hacer<03e0>en Nagapur, así que tengo que dejarte.<03e0>Nos vemos luego, ¿vale? ¡Chao!
+Uff...<03e0>¡Ya debemos de estar a las puertas de Nagapur!<04e0>¡Aaah! ¡No esperaba que este pantano fuera tan grande!<03e0>Ni que diera tanto miedo...<04e0>Siento como si hubiera madurado un poquito más...<03e0>Supongo que es por lo que dicen: ¡viajar te hace<03e0>más sabia y experimentada!<04e0>De todas formas, he podido volver sana y salva<03e0>gracias a ti. ¡Ji, ji, ji! ¡Así que gracias, gracias!
+Bueno, tengo muchas cosas que hacer<03e0>en Nagapur, así que tengo que dejarte.<03e0>Nos vemos luego, ¿vale? ¡Chao!
+Uff...<03e0>¡Supongo que ya queda poco para Nagapur!<04e0>De todos modos, hemos tardado siglos en llegar.<03e0>¿Tendré tiempo para una siesta? ¡Estoy agotada!<04e0>Al menos ya estamos aquí. Olvidemos la siesta...<03e0>¡Al fin y al cabo, hemos estado varias veces a punto<03e0>de dormir el sueño eterno! Qué miedo he pasado...<04e0>En cualquier caso, debo reconocer<03e0>que me has protegido bastante bien...<03e0>¡Así que gracias, gracias!
+Bueno, tengo muchas cosas que hacer<03e0>en Nagapur, así que tengo que dejarte.<03e0>Nos vemos luego, ¿vale? ¡Chao!
+

@@ -1,0 +1,6 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) GST_0201_MP2_MSG
+-- ----------------------------------------------------------------------------------
+En la parte superior hay una inscripción<03e0>que dice «Capítulo III: Amor».<03e0>¿Quieres seguir leyendo?<06e0000008e0000000000000>Sí, me encantan las historias.<09e008e0010000000300>Demasiada lectura para mí...
+La reina Flaumello IV juró amor eterno<03e0>al Señor de Undelwalt.<04e0>Sus relaciones fueron de dominio público<03e0>desde el principio. No tardaron en anunciar<03e0>su compromiso ante sus súbditos.<04e0>El pueblo del Reino de Glenys celebró<03e0>el feliz acontecimiento durante días.<04e0>Nadie podía imaginar el terrible giro<03e0>que iban a tomar los acontecimientos.
+

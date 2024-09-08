@@ -1,0 +1,13 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0070_2_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Buscamos la Hoja Caída. La grieta en la barrera<03e0>de esta reliquia es, probablemente, por donde fluye<03e0>esta maldad que nos acecha.
+Tenemos que contener esta marea maligna<03e0>para que las doncellas del bosque puedan<03e0>restaurar el poder de la barrera con sus ruegos.
+El tiempo apremia... ¡Apresurémonos!
+Parece que hemos conseguido completar<03e0>el ritual sin contratiempos...<04e0>Gracias, maestro Sykes... Sin vuestra ayuda,<03e0>¿quién sabe qué nos hubiera ocurrido?
+La barrera ya está restaurada, pero seguimos<03e0>sin encontrar a nuestros osados compañeros...<04e0>No consigo pensar en otra cosa, pero en fin...<03e0>Por ahora, volvamos a Melphina.
+La barrera parece bastante robusta.
+¡La barrera de la reliquia se ha venido abajo!<03e0>¡Una oleada de energía maligna os sacude!
+El viento... Las flores... <03e0>El incesante rumor del agua...<04e0>¡En nombre de la Hoja Caída, nuestra reliquia,<03e0>que las almas perdidas de los caídos se purifiquen<03e0>y suban hacia los cielos!
+Rush Sykes...<03e0>Os estoy profundamente agradecida.<04e0>Permitidme que os transmita la gratitud<03e0>de las doncellas del bosque.
+

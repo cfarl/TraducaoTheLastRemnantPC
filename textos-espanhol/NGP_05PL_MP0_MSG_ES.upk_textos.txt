@@ -1,0 +1,258 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) NGP_05PL_MP0_MSG
+-- ----------------------------------------------------------------------------------
+¡Bienvenido al Café Boca de Dragón!
+Bienvenido.<04e0>¿Te diriges a Fordragón?<03e0>Entonces tienes que tomar el barco que sale<03e0>de Flussbahn y recorre los canales.<04e0>No te lo tomes a mal, pero...<03e0>¿Acaso eres un conocido de lord Hermeien?<03e0>Si no es así, no te dejarán entrar en el castillo.<04e0>Los plebeyos no pueden subir a ese barco.
+Bienvenido.<04e0>¿El Acueducto?<03e0>Creo que hay una entrada en Südalm, pero...<04e0>Ahora que lo pienso, últimamente han visto<03e0>a muchos monstruos merodeando por la zona,<03e0>así que esa entrada suele estar cerrada.
+El señor Zolean suele frecuentar este establecimiento.<04e0>Hace tres años que viene solo. Antes solía venir<03e0>con un amigo, pero no sé qué habrá sido de él.
+El Lord anterior era lord Oswald Hermeien.<04e0>Era un hombre bueno y generoso, pero hace años<03e0>que desapareció sin dejar rastro. Desde entonces,<03e0>lord Wilfred ha ocupado su lugar.<04e0>Circulan rumores de que lord Wilfred le tendió<03e0>una trampa y lo echó de Fordragón.<04e0>Ojalá no sean verdad... No hay nada peor<03e0>que una rivalidad entre padres e hijos.
+En Südalm, es posible que te encuentres<03e0>con un anciano de mirada afable.<04e0>Dicen que sabe muchas cosas sobre Fordragón,<03e0>incluso la forma de colarse en el castillo.<03e0>Pero no sé si será cierto...<04e0>La verdad es que me recuerda a alguien,<03e0>pero no sabría decir a quién...
+Tú también te has encontrado a ese anciano<03e0>que suele andar por Südalm, ¿verdad?<04e0>El otro día me salvó la vida cuando estuve<03e0>a punto de caer al canal...<04e0>Y entonces fue cuando me di cuenta...<03e0>No sé por qué, pero me recuerda a alguien.<03e0>¡Lo malo es que no estoy muy seguro de a quién!
+¿Piensas quedarte y seguir llevando la taberna?<03e0>Mi familia y yo vamos a marcharnos de la ciudad.<04e0>Pero antes de irme, quería contarte una cosa...<04e0>¿Te acuerdas de aquel anciano que me resultaba<03e0>familiar? Pues ya he descubierto quién es.<03e0>Se trata del anterior Lord: ¡Oswald Hermeien!<04e0>Aunque supongo que eso ya no importa...
+Ya has visto el Gwayn, ¿verdad?<04e0>¿Sabes? A lo largo de mi vida he visto más reliquias<03e0>de las que puedo recordar, pero no existe ninguna<03e0>tan impresionante como ésta.<04e0>En las tierras del sur hay un lugar llamado Balterossa<03e0>que también tiene una reliquia bastante impresionante,<03e0>pero no le llega al Gwayn ni a la suela de los zapatos.<04e0>Créeme, muchacho, deberías recorrer el mundo<03e0>y contemplar las reliquias con tus propios ojos...
+No pensaba que el Gwayn fuera capaz de causar<03e0>semejante devastación...<04e0>Estaba convencido de que era la reliquia<03e0>más poderosa del mundo...<04e0>Esto viene a demostrar que estaba en lo cierto,<03e0>pero la verdad es que no esperaba que sucediera<03e0>algo así...
+He oído que el Invasor quiere hacerse<03e0>con todas las reliquias.<04e0>Las ciudades más grandes pueden hacerle frente<03e0>y defenderse con sus ejércitos, pero... ¿Qué será<03e0>de los pueblos más pequeños?
+Últimamente vienen un montón de encapuchados<03e0>vestidos de negro a la taberna...<03e0>¡Y la verdad es que no hay quien los aguante!<04e0>A ver... ¿Qué clase de persona viene a un bar<03e0>con un monstruo blanco y gelatinoso a cuestas?<04e0>Los demás clientes se asustaron y se fueron, claro...<03e0>¿Y sabes a quién le tocó que limpiar ese desaguisado?<03e0>¡Pues a una servidora, cómo no!
+Mucha gente perdió la vida en la catástrofe del Gwayn.<03e0>La taberna ha perdido a buena parte de su clientela.<04e0>Y los que siguen viniendo por aquí llegan<03e0>con una cara de lo más seria...<04e0>Al menos hemos sacado una cosa en limpio<03e0>de esta debacle:<04e0>desde que lord Hermeien murió en la batalla,<03e0>esos tipos vestidos de negro no se han vuelto<03e0>a asomar por aquí.<04e0>Así, al menos, la gente que venga a la taberna<03e0>podrá guardar luto en paz.
+El duque de Ghor era un fiel servidor<03e0>de nuestro anterior gobernante.<04e0>Por eso, cada vez que Nagapur está en apuros,<03e0>Su Alteza acude en nuestra ayuda.
+Por el Emperador celestial, ¿qué pasa aquí?<04e0>¡Desde que el duque de Ghor se convirtió<03e0>en el Presidente del Consejo, los habitantes<03e0>del Castillo de Ghor se han vuelto unos pedantes!<04e0>En fin, de todos modos no creo que el Duque<03e0>siga mucho tiempo al frente del Consejo...<04e0>¡Ese yama no le llega a lord Hermeien<03e0>ni a la suela de los zapatos!
+Aunque el Invasor intentara invadir Nagapur,<03e0>el duque de Ghor sabría cómo hacerle frente.<04e0>A esta ciudad no le ocurrirá nada.
+Rush, he oído que estás buscando una forma<03e0>de llegar a las Tierras Sagradas...<03e0>Tengo cierta información que podría interesarte<04e0>Si viajas en dirección noreste desde Nagapur<03e0>hasta llegar a la <1be0ffbe34ff>sexta galería de Siebenpur<1ce0>,<03e0>hallarás lo que buscas al final del camino.<04e0>Rush, Irina...<03e0>Para mí sois como una familia.<03e0>Volved sanos y salvos, os lo ruego.
+Si viajas a la <1be0ffbe34ff>sexta galería de Siebenpur<1ce0>,<03e0>hallarás lo que buscas al final del camino.
+Eres tú...<04e0>Nunca creí que llegaría el día en que trabajaría<03e0>para alguien como tú.
+¿Otra vez tú? Oye, no tienes por qué espiarme, ¿vale?<03e0>Estoy trabajando duro, así que no creo que tengas<03e0>ninguna queja sobre mí.<04e0>Relájate, chaval. Pienso seguir empleándome a fondo<03e0>siempre y cuando sigas pagándome.
+¿Acaso te crees que te voy a apuñalar por la espalda<03e0>si me quitas el ojo de encima? Jamás he traicionado<03e0>a mi patrón, ¿me oyes?<04e0>Bueno, de acuerdo, lo he hecho un par de veces...<03e0>¡Pero se lo tenían merecido!
+Vaya, tú otra vez. Hay  que ver, algunos tienen<03e0>demasiado tiempo libre...<04e0>Oye, deja que te pregunte algo: ¿se puede saber<03e0>por qué luchas? ¿Acaso le debes algo al Marqués?<04e0>Por tu cara, está claro que ésa no es la única razón.<03e0>En fin... Tú tranquilo, que no pienso interrogarte...
+Tú otra vez... ¿Es que no piensas dejarme en paz?
+Oye, Rush... ¿Qué opinas de lo que está pasando<03e0>en el mundo? No me refiero sólo a la guerra...<04e0>Hace tiempo que empecé a crear vínculos<03e0>con reliquias, y últimamente estoy notando<03e0>cosas muy extrañas... No sé cómo describirlas.<04e0>Apuesto a que al Marqués también le pasa...<03e0>¿A ti no?
+Aquí pasa algo raro. Tal vez las reliquias no sean<03e0>el chollo que pensaba que eran...
+Los gritos de las reliquias... Su esencia...<03e0>¡Maldita sea! ¡No puedo soportarlo más!<04e0>Rush, ya estás contándome todo lo que sepas<03e0>sobre este asunto. ¿Cómo puedes controlarlas<03e0>tan fácilmente si nosotros las pasamos canutas?<04e0>Perdona, chico, sé que eres un buen tipo.<03e0>Tienes muchos amigos para atestiguarlo, pero...<04e0>Sólo... quiero una respuesta. ¿Y si...?<03e0>¿Y si éste fuera nuestro castigo por pretender<03e0>someter a las reliquias a nuestro control?
+¡Oye, Rush!<04e0>He dejado de darle tantas vueltas a las reliquias...<03e0>Tanto angustiarme por ello no iba con mi carácter.<03e0>Anda, dame trabajo... ¡Me aburro como una ostra!
+Todo parece tan tranquilo... y aburrido.
+Tanta inactividad es prueba clara<03e0>de que hay paz en tu vida.
+Sí, claro...
+Parece que la mujer del barón Nielsen de Celapalais<03e0>ha vuelto a largarse por ahí... No me extraña...<03e0>¡Si siempre andan como el perro y el gato!
+¿Verdad que es emocionante?
+Las idas y venidas de la posición social no son nada<03e0>comparadas con la corriente del océano de la vida.
+¿Que qué?
+¡Alguien planea asesinar al duque de Qubine!<03e0>He oído que han visto a una mujer sospechosa<03e0>cerca del palacio, pero no han llegado a detenerla.
+¿Verdad que es emocionante?
+Los rumores funestos se extienden como el fuego...<03e0>Y aun así, nadie hace nada.
+Sí, así son las cosas...
+Parece que cierta princesa del desierto se escapa<03e0>del castillo cada dos por tres para reunirse con su amado.
+¿Verdad que es emocionante?
+El amor es una espada afilada<03e0>que te parte el alma en dos.
+¿Que el amor es una espada? ¿Qué?
+¡La princesa del desierto se ha fugado con su amado!
+¿Verdad que es emocionante?
+El amor es un escudo que te protege ante el mundo.
+¿Que el amor es un escudo? ¿Mande?
+El conflicto entre Balterossa y Royotia<03e0>se pone peor cada día que pasa.<03e0>Todo el mundo cree que la guerra es inevitable.
+¿Verdad que es emocionante?
+Los sentimientos no controlan la guerra.<03e0>La guerra controla los sentimientos.
+No lo pillo.
+Se rumorea que el primer Emperador celestial<03e0>halló un portal a otra dimensión en unas marismas<03e0>y logró cerrarlo gracias a sus poderes.
+¿Verdad que es emocionante?
+Sólo el ignorante ansía ver lo que esconde<03e0>una zona vedada.
+Y tú no sientes la más mínima curiosidad, ¿verdad?
+Dicen que, al unirse en juramento a un caballero<03e0>de Melphina, las doncellas del bosque obtienen<03e0>la facultad de ver y oír lo que haga su compañero.
+¿Verdad que es emocionante?
+Aquellos que caminan juntos, caen juntos...<03e0>Pero juntos, es más fácil levantarse de nuevo.
+Eso es cierto con gente en la que confías.<03e0>Otros te dejarían tirado en el suelo.
+¡Parece que algo raro ocurre en Marismarchita, señor!<03e0>Las doncellas del bosque y los caballeros de Melphina<03e0>ya están investigando.
+¿Verdad que es emocionante?
+Aquellos que se unen en juramento<03e0>son como las manecillas de un reloj.<03e0>Aunque se alejen, permanecerán unidos para siempre.
+Las manecillas de un reloj se pueden romper.<03e0>Lo sabes, ¿verdad?
+La Gala Cósmica está a punto de empezar,<03e0>pero la Ninfa Cósmica aún no ha llegado...<03e0>Esperemos que no le haya pasado nada.
+¿Verdad que es emocionante?
+La vida es como un laberinto. La entrada y la salida<03e0>son fáciles de encontrar, pero trazar el recorrido<03e0>con cuidado es la parte divertida.
+¿Un laberinto? Sí, yo me siento perdida a veces...
+Al final, la ninfa llegó a tiempo y la Gala Cósmica<03e0>comenzó con normalidad... Lástima que los monstruos<03e0>hayan interrumpido la celebración, como siempre.
+¿Verdad que es emocionante?
+La tranquilidad y el silencio transforman<03e0>los recuerdos en monstruos...
+¿Se puede saber qué tripa se te ha roto?
+Una mujer chapada a la antigua<03e0>anda buscando un guardaespaldas.<03e0>Está en la taberna de la ciudad de los canales.
+¿Verdad que es emocionante?
+Para proteger a alguien, debes cuidar de todo su ser.<03e0>Al fin y al cabo, estás protegiendo su futuro...
+Si tanto necesita un guardaespaldas...<03e0>¿Por qué no se queda en su casita?
+Parece que muchos de los tesoros que se entregaron<03e0>a la ciudad sagrada han caído en manos de traficantes<03e0>que los venden en el mercado negro...
+¿Verdad que es emocionante?
+Aquellos que se aferran al pasado<03e0>nunca conseguirán crear un futuro.
+¡Tú lo has dicho! ¡Esa ciudad necesita ponerse al día!
+Hay un tipo que anda buscando tres piedras<03e0>relacionadas con el antiguo reino del desierto.
+¿Verdad que es emocionante?
+Si estamos destinados a tener algo, acabará<03e0>cayendo en nuestras manos tarde o temprano.<03e0>Sólo tenemos que reconocerlo cuando nos llega.
+¿Y qué tendrá el destino preparado<03e0>para que caiga en mi regazo?
+He oído que un científico está buscando un asistente<03e0>que le ayude a investigar los misterios de la arcamagia.
+¿Verdad que es emocionante?
+La búsqueda del conocimiento dura hasta la muerte.
+¿Y es entonces cuando acabará su investigación?<03e0>¿Cuando se muera?
+Parece que se ha escapado no sé qué monstruo<03e0>al que encerró uno de los Emperadores celestiales...
+¿Verdad que es emocionante?
+El mundo dejará de existir si la gente se emperra<03e0>en pensar únicamente en su propia salvación.
+Mientras yo esté a salvo, me importa un pepino<03e0>lo que les pase a los demás...
+Un tipo con amnesia está vagando por el desierto<03e0>en busca de algo que ha perdido...
+¿Verdad que es emocionante?
+Si alguien se pierde, podrá encontrarse<03e0>en los corazones de sus amigos.
+Y entonces, ¿por qué él no se busca ahí, eh?
+Parece que han visto a un famoso bandido<03e0>por los alrededores de Athlum.<03e0>La gente cree que está esperando a alguien...
+¿Verdad que es emocionante?
+Nadie debería meter la nariz<03e0>en los asuntos de los demás.<03e0>Cada uno sabrá lo que quiere contar de su pasado.
+Vale, sí, que debemos confiar los unos<03e0>en los otros. Lo pillo.
+Un chaval anda por las ruinas de Robelia<03e0>buscando una estatua que, según dicen,<03e0>es capaz de reunirle con sus seres queridos.
+¿Verdad que es emocionante?
+Un deseo puede cumplirse, pero un sueño es un sueño.
+Me estás diciendo que procure<03e0>no apuntar demasiado alto, ¿verdad?
+Ha habido un asesinato en la gran ciudad...<03e0>¡Y el culpable todavía anda suelto!
+¿Verdad que es emocionante?
+El crimen es una cuesta resbaladiza.<03e0>Algún día se dará de bruces contra el suelo.
+Sí, y subir de nuevo la cuesta será harto difícil.
+Un yama enorme está buscando algo que ha perdido.<03e0>Dicen que se comporta de una forma muy extraña...<03e0>Me pregunto de dónde habrá salido.
+¿Verdad que es emocionante?
+Lo que perdemos es el fiel reflejo<03e0>de nuestros errores.
+Será tonto el yama este...
+Parece que han visto a un qsiti albino curioseando<03e0>no sé qué libros sobre arcamagia. Dicen que se parece<03e0>a alguien, pero vete a saber a quién...
+¿Verdad que es emocionante?
+Se empieza haciendo castillos de arena<03e0>y se acaba construyendo casas, torres, imperios...<03e0>Todo depende del talento de cada uno.
+Y no hay manera de averiguar dónde reside tu talento<03e0>hasta que no lo pones a prueba, ¿no es verdad?
+He oído que hay un par de mercenarias<03e0>que están dando mucho que hablar.<03e0>Son hermanas... ¡y además gemelas!
+¿Verdad que es emocionante?
+El esfuerzo individual contribuye<03e0>al crecimiento personal, pero no ayuda<03e0>en modo alguno a los demás.
+En los negocios, el resultado es lo único que cuenta.
+Un tipo está organizando no sé qué juego<03e0>en el Océano de Arena. Me pregunto si encontrará<03e0>a mucha gente dispuesta a participar...
+¿Verdad que es emocionante?
+Los niños aprenden las leyes de la supervivencia<03e0>a través de los juegos.
+¿Me estás diciendo que es como un niño?
+Dicen que un anciano guerrero está atravesando<03e0>el Océano de Arena en busca de no sé qué espada.
+¿Verdad que es emocionante?
+Un viaje te permite encontrarte a ti mismo y,<03e0>al mismo tiempo, te muestra la inmensidad del mundo.
+A mí me encanta viajar, pero odio<03e0>la parte de volver a casa...
+Los guardias del duque de Ghor han jurado<03e0>ser fieles a su Señor hasta el final de sus días.<03e0>¡Debe de tratarlos francamente bien!
+¿Verdad que es emocionante?
+Las flores ofrecen el regalo de su belleza<03e0>a quienes las cuidan y a cambio obtienen sustento.<03e0>Es una fórmula muy sencilla.
+Pues yo sólo riego las flores más bonitas.
+La familia Honeywell ha dado mucho por Athlum.<03e0>Todos los habitantes de la ciudad les guardan<03e0>una gran confianza y respeto.
+¿Verdad que es emocionante?
+No puedes confiar en alguien que siempre duda<03e0>de los demás, ni en alguien que nunca desconfía<03e0>de nadie.
+Exacto. No es buena idea fiarse de alguien<03e0>que es demasiado amable para ser verdad.
+Dicen que Torgal, uno de los generales de Athlum,<03e0>es algo susceptible con su pasado.
+¿Verdad que es emocionante?
+Puedes averiguar mucho sobre alguien<03e0>si conoces su pasado, pero nunca podrás<03e0>predecir su futuro.
+Todos tenemos nuestros secretillos...<03e0>Eso no nos convierte en malas personas, ¿no?
+El torneo por el título de «Héroes de leyenda»<03e0>está a punto de comenzar.<03e0>Me pregunto cuánta gente se apuntará este año.
+¿Verdad que es emocionante?
+El único perdedor será quien desprecie al ganador...<03e0>Y el verdadero ganador será aquél que dé las gracias<03e0>por haber sobrevivido.
+Combatir es un pasatiempo muy incivilizado...
+Dicen que la Academia de las Artes Místicas<03e0>es una institución de gran renombre.<03e0>Sus estudiantes suelen llegar lejos.
+¿Verdad que es emocionante?
+Muchos nunca descubren su verdadero don<03e0>debido a las circunstancias que les rodean.
+Si tu profesión actual no se te da bien,<03e0>prueba otra cosa...<03e0>¡En esta vida hay trabajos para todos los gustos!
+Athlum ya ha sufrido lo suyo...<03e0>Esperemos que la joven Honeywell<03e0>esté a la altura de su madre.
+¿Verdad que es emocionante?
+A menudo, los pequeños errores de la juventud<03e0>aportan lecciones más valiosas que las de un sabio.
+Tienes que vivir nuevas experiencias<03e0>y cometer errores para crecer como persona.
+Muchas chicas se preguntan cómo es posible<03e0>que el marqués de Athlum no tenga una mujer<03e0>en su vida. La verdad es que nadie se lo explica.
+¿Verdad que es emocionante?
+El amor es un juego para dos.
+Sí, y a veces termina en solitario...
+Se rumorea que la ex directora de la Academia<03e0>anda de ciudad en ciudad visitando tabernas...<03e0>¿Qué estará tramando?
+¿Verdad que es emocionante?
+Antes que trepar una cumbre escarpada,<03e0>es mejor tomar un sendero, aunque lleve más tiempo.
+La vida da muchas vueltas.<03e0>Unas veces uno se pierde y otras encuentra un atajo...
+Últimamente la doctora Sykes ha estado visitando<03e0>el castillo de Athlum muy a menudo.<03e0>¡Debe de haber hecho un gran descubrimiento!
+¿Verdad que es emocionante?
+Los necios se convencen a sí mismos de su talento<03e0>para poder sobrevivir.
+Es cierto que muchos genios están algo chalados...
+Dicen que hay un monstruo que surca<03e0>los cielos de Fordragón.<03e0>Tiene a todo el mundo aterrorizado...
+¿Verdad que es emocionante?
+A la gente le atraen las cosas grotescas<03e0>y desconocidas...
+Pues no sé por qué.
+Una guerrera un tanto apasionada pretende cazar<03e0>a los responsables del incidente de las marismas.<03e0>Y creo que su comandante no está de acuerdo...
+¿Verdad que es emocionante?
+La justicia despachada con violencia<03e0>está mancillada por el hedor del pecado...
+Me pregunto qué la impulsaría a actuar así.
+Hay una panda de monstruos feroces<03e0>rondando por el Océano de Arena.<03e0>Parece que son bastante imponentes...
+¿Verdad que es emocionante?
+No hay mejor táctica que la estrategia.
+¡Que peleen los hombres!
+Según los expertos en historia, en las profundidades<03e0>de cierto volcán se esconde algo capaz de destruir<03e0>ciudades enteras.
+¿Verdad que es emocionante?
+La gente debería aprender a cerrar la boca<03e0>en vez de opinar sobre cosas de las que<03e0>no tiene ni idea.
+Oye... No lo dirás por mí, ¿verdad?
+Nadie sabe qué peligros se esconden en el interior<03e0>del volcán, pero los Lores siempre se las apañan<03e0>para averiguar esas cosas por imposible que parezca.
+¿Verdad que es emocionante?
+El temor es la peor epidemia a la que puede<03e0>hacer frente un gobernador...<03e0>Si no se controla, puede destruir toda una ciudad.
+A mí se me ocurren cosas peores...
+¿Sabías que existe una ciudad que no tiene Señor?<03e0>Los hijos del antiguo gobernador están peleándose<03e0>por el puesto de su padre.
+¿Verdad que es emocionante?
+A la hora de construir un molino, uno debe<03e0>andarse con cuidado. El viento, al igual que la gente,<03e0>es sumamente imprevisible.
+Entonces... ¿Qué molino -o hijo- crees<03e0>que resultaría más adecuado?
+La gente cuenta que, si prestas atención,<03e0>a veces se escucha un lamento procedente<03e0>de las profundidades del Océano de Arena.
+¿Verdad que es emocionante?
+La pena es un sentimiento innecesario y prescindible.
+Vamos, que ya es hora de que lo supere, ¿no?
+Hace mucho, mucho tiempo, un gran héroe<03e0>vagaba por el Océano de Arena.
+¿Verdad que es emocionante?
+Un héroe no es más que alguien dispuesto<03e0>a cometer cualquier atrocidad con tal de alzarse<03e0>con la victoria.
+He oído que hace tiempo exterminó<03e0>a un montón de monstruos... ¡Qué salvaje!
+Dicen que, si te paras a mirar las columnas<03e0>del Océano de Arena, se te aparecerán los fantasmas.
+¿Verdad que es emocionante?
+No hay que sentirse avergonzado de tener miedo.<03e0>Enfrentarse a lo desconocido debería ser<03e0>un motivo de placer.
+¡Es verdad! ¡Me encanta descubrir cosas nuevas!
+En Melphina hay un tipo que afirma ser un científico,<03e0>pero la gente dice que se le va un poco la chaveta.
+¿Verdad que es emocionante?
+Toda tecnología debe su origen a quienes osaron<03e0>llevar a cabo investigaciones poco ortodoxas.
+La verdad es que muchos avances de la ciencia<03e0>surgieron gracias a experimentos un poco raros.
+Dicen que en no sé qué ciudad del desierto<03e0>hay una cafetería que está infestada de bichos.<03e0>Parece que el dueño no sabe cómo librarse de ellos.
+¿Verdad que es emocionante?
+Es fácil dar la felicidad por descontado.<03e0>No nos damos cuenta de lo que tenemos<03e0>hasta que nos lo quitan de las manos...
+Qué poético.
+Desde aquel incidente, esta ciudad se ha convertido<03e0>en un lugar peligroso. La gente dice que ha habido<03e0>muchos secuestros de niños...
+¿Verdad que es emocionante?
+Los criminales surgen de los rincones oscuros<03e0>para aprovecharse de nuestros descuidos.
+Sería más fácil resolver los crímenes<03e0>si todos mantuviesen los ojos abiertos<03e0>y cooperasen los unos con los otros.
+Antiguamente, la gente de Royotia se dedicaba<03e0>a recorrer las rutas comerciales e intercambiar<03e0>con otros viajeros los tesoros que encontraban.
+¿Verdad que es emocionante?
+Los recuerdos son más importantes<03e0>que los objetos materiales... Pero a veces<03e0>esos objetos pueden ayudarnos a recordar.
+Pues a ver si te aplicas el cuento<03e0>y me haces algún regalo.
+Los mercaderes de Royotia se quejan<03e0>de que el trazado de las rutas comerciales les impide<03e0>vender sus mercancías más allá de Balterossa.
+¿Verdad que es emocionante?
+Una situación de desequilibrio<03e0>sólo puede conducir a una revolución.
+No creo que sea tan sencillo... ¿O sí?
+Un mercenario yama anda buscando ayuda.<03e0>Parece que se ha topado con un trabajo<03e0>que le viene grande...
+¿Verdad que es emocionante?
+Quienes no saben qué resultados alcanzar<03e0>son incapaces de conseguir resultados.
+No te comprometas a hacer algo si no estás seguro<03e0>de poder hacerlo... ¿Es eso lo que quieres decir?
+En Celapalais hay un tipo que tan pronto<03e0>es encantador como se pone a chillar.<03e0>¡Muchas chicas lo encuentran irresistible!
+¿Verdad que es emocionante?
+El amor tiene su origen en la sorpresa.
+A mí no me vendrían mal unas cuantas sorpresas<03e0>en la vida, la verdad...
+Hay un qsiti que se pone en medio de las calles<03e0>más transitadas y mira con odio a toda la gente<03e0>que se choca con él... ¡Qué tipo tan raro!
+¿Verdad que es emocionante?
+No es fácil tocar algo tan frágil<03e0>como los corazones de la gente...
+¿A ti te parece que ese qsiti es frágil?
+El otro día vi a una chica la mar de misteriosa<03e0>que iba por la vida como si el mundo se le hubiese<03e0>venido encima... Me pregunto si necesitará ayuda.
+¿Verdad que es emocionante?
+En algún momento, uno debe detenerse<03e0>y echar un vistazo al camino recorrido.<03e0>Ése es nuestro destino.
+¿Quieres decir que no hay manera de saber<03e0>hasta dónde estás destinado a llegar<03e0>hasta que no llegas allí?
+Parece que las Damas Sangrientas están reuniéndose<03e0>cerca de las marismas. Debe de tratarse de algo gordo...
+¿Verdad que es emocionante?
+La determinación es la clave del éxito.
+Estoy completamente de acuerdo.
+Parece que los jhanas andan sembrando el caos<03e0>en los alrededores del Océano de Arena.<03e0>Ni siquiera el Gae Bolg ha sido capaz de detenerlos...
+¿Verdad que es emocionante?
+La temeridad sólo conduce a la destrucción.
+Dentro de nada estarán extinguidos...
+¡Los Halcones Argénteos van a acabar<03e0>con todos los jhanas de la zona!<03e0>¿Qué haríamos sin ellos?
+¿Verdad que es emocionante?
+Quienes ignoran los intentos de los demás<03e0>por mantener la justicia desconocen<03e0>el verdadero significado de la palabra.
+¿Crees que los Halcones Argénteos<03e0>están actuando de forma egoísta?<03e0>Yo no lo veo tan claro...
+Los Halcones Argénteos van a despachar<03e0>a lo poco que queda del ejército del Invasor...<03e0>¡Esperemos que no dejen a ninguno en pie!
+¿Verdad que es emocionante?
+Los vencedores sólo pueden disfrutar de la gloria<03e0>hasta que les llega el momento de ser derrotados.
+Por eso los Halcones Argénteos llevan siglos<03e0>cubriéndose de gloria... ¡Porque nunca pierden!
+De un tiempo a esta parte, un tipo de aspecto sombrío<03e0>se pasa las horas muertas en la taberna de Elysion.<03e0>Me pregunto qué le habrá pasado...
+¿Verdad que es emocionante?
+Sólo los necios piensan que están rodeados de necios.
+Entonces... ¿Tú crees que ese tipo trama algo?
+

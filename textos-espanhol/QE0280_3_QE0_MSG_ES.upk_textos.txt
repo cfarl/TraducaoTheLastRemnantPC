@@ -1,0 +1,18 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0280_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Duque!<03e0>¡Os estábamos esperando!<04e0>Mirad esto, mi Señor.
+Hmm....<04e0>Supongo que ésta es la Espada de Leithion.<03e0>Entonces, no hace falta que sigamos buscando.
+Tened cuidado, mi Señor...<03e0>Este lugar tiene algo... raro.<03e0>Están ocurriendo cosas muy extrañas.
+Había oído que algún entrometido estaba tratando<03e0>de descubrir nuestros planes.... Pero nunca pensé<03e0>que se tratase de vos, Duque.
+Por desgracia, me temo que habéis visto demasiado.<03e0>Ahora que conocéis nuestro plan, ya no podemos<03e0>dejaros marchar con vida.<04e0>Por suerte, llegáis en el momento indicado<03e0>para poner a prueba el poder de este juguete...
+¡Rezad lo que sepáis!
+Quienes pretenden crear sus propias reliquias<03e0>son unos locos y unos insensatos. Esa espada<03e0>es un arma demasiado peligrosa...<04e0>Su existencia constituye un terrible peligro<03e0>para todos los seres vivientes, así que debe<03e0>ser destruida inmediatamente.
+Regresemos.
+Hace un momento estaba explorando esta zona<03e0>con otros cuatro compañeros... ¡Pero de pronto<03e0>me he dado la vuelta y estaba aquí solo!
+Pero no hay de qué preocuparse...<03e0>Sé por dónde está la salida.
+Estaba siguiendo a un yama de aspecto sospechoso,<03e0>pero me ha dado esquinazo.
+¿Quieres regresar?<06e0000008e0000000000000>Sí, llegó la hora de irse.<09e008e0010000000300>¡De eso nada, monada!
+¡Duque! Hemos visto a un yama con pinta sospechosa<03e0>un poco más adelante...<03e0>¡Tened cuidado!
+Tal vez debieras volver a tus preparativos...<06e0000008e0000000000000>Sí, voy para allá.<09e008e0010000000300>¡De eso nada, monada!
+

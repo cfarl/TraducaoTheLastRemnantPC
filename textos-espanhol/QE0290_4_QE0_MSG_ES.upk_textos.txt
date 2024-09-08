@@ -1,0 +1,10 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0290_4_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Rush... ¿Tienes un momento?
+Perdona, pero es mejor que hablemos en otro lugar.
+Parece que están apareciendo monstruos<03e0>en las ruinas del <1be0ffbe34ff>Castillo de Robelia<1ce0>.
+Debo ir para allá y hacerme cargo de ellos.<03e0>Rush, ¿quieres acompañarme?<06e0000008e0000000000000>¡Sí, te ayudaré!<09e008e0010000000300>Umm... Esto...
+Bien. Te lo agradezco.<03e0>Apresurémonos pues. ¡Vamos al <1be0ffbe34ff>Castillo de Robelia<1ce0>!
+No hay tiempo para titubeos.<03e0>Vuelve cuando te hayas decidido.
+

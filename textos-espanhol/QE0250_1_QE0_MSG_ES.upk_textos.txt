@@ -1,0 +1,19 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0250_1_QE0_MSG
+-- ----------------------------------------------------------------------------------
+¡Hola, forastero! Por tu aspecto, me atrevería<03e0>a decir que sabes cómo manejar una espada.<03e0>Justo el tipo de persona que andaba buscando...
+Me llamo Hannah. Yo y mi hermana Hinnah<03e0>trabajamos como mercenarias a sueldo, ¿sabes?<04e0>El caso es que estábamos limpiando de monstruos<03e0>las ruinas del suroeste, donde antiguamente<03e0>se encontraba el <1be0ffbe34ff>Castillo de Muscato<1ce0>.
+Pero cuando acabamos, Hinnah se negó a volver.<03e0>Decía que se le había perdido algo muy importante<03e0>entre las ruinas, y se quedó allí para buscarlo.<04e0>Iba a ayudarla, claro está, pero...
+El caso es que acabamos discutiendo,<03e0>como de costumbre...<04e0>Al fin y al cabo, ¿qué pinta una frágil muchachita<03e0>como yo en ese sitio lleno de mugre y bichos?<03e0>No aguantaba ni un minuto más en aquel lugar.<04e0>Las chicas tenemos nuestros límites, ¿sabes?<03e0>Estaba segura de que lo comprenderías.
+Lo cierto es que estoy preocupada por Hinnah.<03e0>A ver si le va a pasar algo, solita en esas ruinas...<04e0>A fin de cuentas, es la única hermana que tengo.<03e0>Si le ocurriera algo malo, no sé qué sería de mí.<04e0>Mi valiente guerrero... Te estaría tan agradecida<03e0>si pudieras ir a buscarla y ponerla a salvo...<03e0>Seguro que puedo recompensarte de algún modo.
+¿Qué me dices? ¿Aceptas la misión?<03e006e0000008e0000000000000>¡Sí, sí, sí, sí, sí!<09e008e0010000000300>¿Puedo pensármelo?
+¡Perfecto! ¡Sabía que me echarías una mano!<04e0>Te lo agradezco de veras. Por favor,<03e0>saca a Hinnah de ese lugar inmundo<03e0>y vuelve a por tu recompensa.
+Ah, una advertencia: Hinnah es muy testaruda.<03e0>Lo más probable es que no te haga ni caso<03e0>hasta que no encuentre lo que ha perdido.
+¿«Pensártelo»? Así que no te interesa, ¿eh?<03e0>Ya veo...<04e0>Bueno, avísame si cambias de opinión.<03e0>Te aseguro que te estaré muy, muy agradecida...
+Para mí, Hinnah es la persona más importante<03e0>del mundo... ¡Es la única hermana que tengo!<03e0>Por favor, encuéntrala y tráela de vuelta.<04e0>Haría lo que fuera con tal de volver a verla...<03e0>Lo que fuera, de verdad.
+¡Hombre, aquí llega mi caballero andante!<03e0>Hinnah acaba de regresar... ¡Muchas gracias<03e0>por tu ayuda!<04e0>Aunque lo cierto es que venía como si hubiera<03e0>estado revolcándose en una pocilga... Deberías<03e0>tratar a las damas con más cuidado.
+Pero al menos está de vuelta sana y salva,<03e0>y eso es lo que de verdad me importa.<04e0>Por cierto... ¿Qué era exactamente lo que<03e0>se le había perdido? No ha querido decírmelo.
+¿Cómo? ¿Un pendiente viejo y ennegrecido?<04e0>Conque era eso... Cuando éramos niñas, Hinnah y yo<03e0>estuvimos ahorrando para comprar esos pendientes.<03e0>Se ve que siguen siendo muy importantes para ella...
+Pero bueno, no es momento para ponerse<03e0>a hurgar en el baúl de los recuerdos.<04e0>Ha llegado la hora de... darte tu recompensa.
+¿Que qué es? Se trata de una promesa<03e0>para la próxima vez que nos veamos...<03e0>Considéralo una especie de vale.<04e0>Quizás la próxima vez tengamos tiempo<03e0>de... conocernos mejor. Espero que así sea...<03e0>Y seguro que tú también.<04e0>¡Hasta la próxima!
+

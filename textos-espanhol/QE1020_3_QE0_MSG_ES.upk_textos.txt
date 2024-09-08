@@ -1,0 +1,16 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE1020_3_QE0_MSG
+-- ----------------------------------------------------------------------------------
+Sí, soy Alyssa. ¿Y tú quién eres?
+Umm... Así que andas detrás del Anillo de la calma<03e0>crepuscular, ¿no?<04e0>Pues siento decirte que, desde que me timaron<03e0>con un falso mapa del tesoro, he abandonado<03e0>definitivamente la práctica del intercambio.<04e0>Sin embargo, te puedo vender el anillo por diez mil.<06e01900>sEVENT_PRICE_QE1020_P_030<08e0000000000000>Vale, lo compro.<09e008e0010000000300>¿Y ahora quién es el timador?
+Gracias por tu confianza... y por tu dinero.<04e0>¿Y dices que fue un hombre llamado Rainn<03e0>el que te encomendó esta tarea? Entiendo...
+Lo siento, parece que andas un poco... corto.
+Entonces no puedes llevarte el anillo. Ya te he dicho<03e0>que había terminado con este rollo del trueque.
+¿El mapa de un tesoro?
+¿Te refieres a ese falso mapa del tesoro del primer<03e0>Emperador celestial? Sólo eran unos garabatos.<04e0>Beauson, ese rufián... ¡Sabía perfectamente<03e0>que esa basura no valía nada! ¡Pagará por ello!
+¿Que dónde está el mapa ahora?
+No sé tú, chico, pero yo tengo la costumbre<03e0>de deshacerme de la basura.<04e0>Andará por aquí cerca, tirado en el suelo.
+¡Vaya! ¿Te ha devuelto la Gema irisada?<04e0>Bueno, quédatela. Yo la conseguí en otro trueque,<03e0>y la verdad es que no la necesito.<04e0>Y ya puestos, toma este Anillo de la calma crepuscular.<03e0>Recuerdo que te lo vendí, pero no sé muy bien cómo<03e0>ha vuelto a mis manos...
+¿Necesitas algo?
+¿Así que un tal Rainn te ha pedido esto?<03e0>Curioso...
+

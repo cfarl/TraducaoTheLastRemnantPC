@@ -1,0 +1,5 @@
+-- ----------------------------------------------------------------------------------
+-- (Export 0) QE0350_5_QE0_MSG
+-- ----------------------------------------------------------------------------------
+He venido a ver la reliquia de la ciudad...<04e0>Se trata del Gwayn, la reliquia del miedo.<03e0>Su poder era tan destructivo que arrasó<03e0>la ciudad de Nagapur en un abrir y cerrar de ojos.<04e0>Es la primera vez que contemplo el Gwayn en persona.<03e0>Y ahora que lo veo con mis propios ojos y siento<03e0>su presencia...<04e0>La verdad, creo que las reliquias no están aquí para ser<03e0>nuestras herramientas, ni siquiera nuestros aliados.<04e0>Al igual que el Gwayn, pueden parecer inertes,<03e0>o incluso protectores... Pero basta un simple error<03e0>para que su poder caiga sobre nosotros.<04e0>Un poder tan inmenso sólo acarrea destrucción.<03e0>A veces me pregunto si de verdad somos dignos<03e0>de convivir con las reliquias...
+
