@@ -5544,139 +5544,139 @@ Escolha entre ficar com os objetos obtidos na batalha ou converter os monstros c
 Monstros capturados nas batalhas podem ser vendidos para conseguir dinheiro.
 Você pode ficar com os objetos para si mesmo, ou pode dá-los para os outros membros do grupo.
 Você conseguiu um tesouro!
-Choose a category to alter settings. Press the Confirm command to move to the next section.
-Quit system settings.
-Set the resolution and windowed/fullscreen mode.
-Set the background movement when idle. This is active only in windowed mode.
-Select a language for text. After settings are changed, the game must be restarted to reflect the changes.
-Select a voice language. After settings are changed, the game must be restarted to reflect the changes.
-Set the resolution for character model textures. <1be0ffff40ff>High settings may slow down processing.
-Set the resolution for world model textures. <1be0ffff40ff>High settings may slow down processing.
-Set the resolution for shadow effects. After settings are changed, the game must be restarted to reflect the changes. Changes are only reflected if the shadow effects in battles are set to High Quality. <1be0ffff40ff>High settings may slow down processing.
-Set the resolution for other textures. <1be0ffff40ff>High settings may slow down processing.
-Set the maximum frame rate. <1be0ffff40ff>High settings may slow down processing.
-Set the in-battle shadow effects. <1be0ffff40ff>High settings may slow down processing.
-Set the in-battle effect levels. <1be0ffff40ff>High settings may slow down processing.
-Set the LOD distance of character models in the field. <1be0ffff40ff>High settings may slow down processing.
-Set the clip distance of character models in the field. <1be0ffff40ff>High settings may slow down processing.
-Set keyboard layout.
-Select a key to bind.
-Select a button to bind.
-Four keys must be pressed simultaneously for a soft reset. Select four keys to bind.
-Four buttons must be pressed simultaneously for a soft reset. Select four buttons to bind.
-Bind a key to move the cursor up.
-Bind a key to move the cursor down.
-Bind a key to move the cursor left.
-Bind a key to move the cursor right.
-Bind a key to the Confirm command.
-Bind a key to the Cancel command.
-Bind a key to scroll pages.
-Bind a key to scroll up.
-Bind a key to scroll down.
-Bind a key to display the Information bar.
-Bind a key for help display.
-Bind a key to toggle marking on/off.
-Bind a key to return to default settings.
-Bind a key to the Sort command.
-Bind a key to toggle page left.
-Bind a key to toggle page right.
-Bind a key to move the character forward.
-Bind a key to move the character backward.
-Bind a key to move the character left.
-Bind a key to move the character right.
-Bind a key to move the camera up.
-Bind a key to move the camera down.
-Bind a key to move the camera left.
-Bind a key to move the camera right.
-Bind a key to return the camera to its default position.
-Bind a key to zoom in.
-Bind a key to zoom out.
-Bind a key to move the cursor left.
-Bind a key to move the cursor right.
-Bind a key to cancel the cursor.
-Bind a key to lock onto a target.
-Bind a key to the Action command.
-Bind a key to the Monster Encounter Trigger.
-Bind a key to the Dobra Temporal command.
-Bind a key to bring up the party menu.
-Bind a key to bring up the navigation map.
-Bind a key to exit to the city map or world map.
-Bind a key to the up Critical Trigger command.
-Bind a key to the down Critical Trigger command.
-Bind a key to the left Critical Trigger command.
-Bind a key to the right Critical Trigger command.
-Bind a key to the center Critical Trigger command.
-Bind a key to switch Turbo Mode On/Off during battle.
-Bind a key to the Pause command.
-Bind a key to skip events.
-Bind a key combination to soft reset.
-Reset all keyboard assignments to the default setting.
-Set key signal display setting. If it is not set to a keyboard, most gamepad assignments will need to be set.
-Select a preset gamepad assignment. All current gamepad assignments will be lost.
-Assign character movement settings to an analog stick. This will also be assigned to the menu cursor.
-Assign camera position to an analog stick.
-Assign a button to the up Critical Trigger command.
-Assign a button to the down Critical Trigger command.
-Assign a button to the left Critical Trigger command.
-Assign a button to the right Critical Trigger command.
-Assign a button to the Confirm command.
-Assign a button to the Cancel command.
-Assign a button to scroll pages.
-Assign a button to scroll up.
-Assign a button to scroll down.
-Assign a button to display the Information bar.
-Assign a button for help display.
-Assign a button to toggle marking on/off.
-Assign a button to return to default settings.
-Assign a button to the Sort command.
-Assign a button to toggle page left.
-Assign a button to toggle page right.
-Assign a button to move the character forward.
-Assign a button to move the character backward.
-Assign a button to move the character left.
-Assign a button to move the character right.
-Assign a button to move the camera up.
-Assign a button to move the camera down.
-Assign a button to move the camera left.
-Assign a button to move the camera right.
-Assign a button to return the camera to its default position.
-Assign a button to zoom in.
-Assign a button to zoom out.
-Assign a button to move the cursor left.
-Assign a button to move the cursor right.
-Assign a button to cancel the cursor.
-Assign a button to lock onto a target.
-Assign a button to the Action command.
-Assign a button to the Monster Encouter Trigger.
-Assign a button to the Dobra Temporal command.
-Assign a button to bring up the party menu.
-Assign a button to bring up the navigation map.
-Assign a button to exit to the city map or world map.
-Assign a button to the up Critical Trigger command.
-Assign a button to the down Critical Trigger command.
-Assign a button to the left Critical Trigger command.
-Assign a button to the right Critical Trigger command.
-Assign a button to the center Critical Trigger command.
-Assign a button to the Pause command.
-Assign a button to skip events.
-Assign a button combination to soft reset.
-Set mouse-controlled camera settings. The default will allow camera movement when the right button is depressed.
-Assign a command to the left mouse button within the menu.
-Assign a command to the right mouse button within the menu.
-Assign a command to the center mouse button within the menu.
-Assign a command to the scroll wheel up function within the menu.
-Assign a command to the scroll wheel down function within the menu.
-Assign a command to the left mouse button in the field.
-Assign a command to the right mouse button in the field.
-Assign a command to the center mouse button in the field.
-Assign a command to the scroll wheel up function in the field.
-Assign a command to the scroll wheel down function in the field.
-Assign a command to the left mouse button in battle.
-Assign a command to the right mouse button in battle.
-Assign a command to the center mouse button in battle.
-Assign a command to the scroll wheel up function in battle.
-Assign a command to the scroll wheel down function in battle.
-Reverse the commands bound to the left and right buttons.
+Escolha a categoria para alterar a configuração.<03e0>Pressione confirmar para avançar para a seção seguinte.
+Sair da configuração do sistema.
+Escolhe a resolução e o modo de janela cheia.
+Escolhe o movimento do fundo quando inativo. Só está disponível no modo de janela cheia.
+Escolha o idioma do texto. Depois de mudar a configuração você terá que reiniciar o jogo para refletir as mudanças.
+Escolha o idioma das vozes. Depois de mudar a configuração você terá que reiniciar o jogo para refletir as mudanças.
+Define a resolução para as texturas do personagem. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a resolução para as texturas do cenário. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a resolução para os efeitos de sombra. O jogo deverá ser reiniciado depois de alterar a configuração, para que as mudanças sejam ativadas. As mudanças só estarão disponíveis se os efeitos de sombra nas batalhas forem colocadas em qualidade alta. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a resolução de outras texturas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o máximo de imagens por segundo. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define os efeitos de sombra nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o nível dos efeitos nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o nível de dealhe dos personagens. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a distância de visualização dos modelos de personagens. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o layout do teclado.
+Selecione uma tecla para associar.
+Selecione um botão para associar.
+Quatro teclas devem ser pressionadas ao mesmo tempo para um reinício parcial. Selecione as quatro teclas que deseja associar.
+Quatro botões devem ser pressionados ao mesmo tempo para um reinício parcial. Selecione os quatro botões que deseja associar.
+Associa uma tecla para mover o cursor para cima.
+Associa uma tecla para mover o cursor para baixo.
+Associa uma tecla para mover o cursor para esquerda.
+Associa uma tecla para mover o cursor para direita.
+Associa uma tecla para o comando Confirmar.
+Associa uma tecla para o comando Cancelar.
+Associa uma tecla para a rolagem de páginas.
+Associa uma tecla para rolar a página para cima.
+Associa uma tecla para rolar a página para baixo.
+Associa uma tecla para mostrar a barra de informação.
+Associa uma tecla para mostrar a ajuda.
+Associa uma tecla para a opção de ativar ou desativar as marcações.
+Associa uma tecla para restaurar os valores padrão.
+Associa uma tecla ao comando de ordenar.
+Associa uma tecla para o comando de passar para a página à esquerda.
+Associa uma tecla para o comando de passar para a página à direita.
+Associa uma tecla para mover o personagem para frente.
+Associa uma tecla para mover o personagem para trás.
+Associa uma tecla para mover o personagem para a esquerda.
+Associa uma tecla para mover o personagem para a direita.
+Associa uma tecla para mover a câmera para cima.
+Associa uma tecla para mover a câmera para baixo.
+Associa uma tecla para mover a câmera para a esquerda.
+Associa uma tecla para mover a câmera para a direita.
+Associa uma tecla para voltar a câmera para sua posição padrão.
+Associa uma tecla para aproximar a câmera.
+Associa uma tecla para afastar a câmera.
+Associa uma tecla para mover o cursor para a esquerda.
+Associa uma tecla para mover o cursor para a direita.
+Associa uma tecla para cancelar o cursor.
+Associa uma tecla ao comando de fixar um alvo.
+Associa uma tecla ao comando de Ação.
+Associa uma tecla para iniciar o combate com os monstros.
+Associa uma tecla ao comando de Dobra Temporal.
+Associa uma tecla para abrir o Menu Principal.
+Associa uma tecla para abrir o Mapa de Navegação.
+Associa uma tecla para sair do mapa da cidade ou do mapa do mundo.
+Associa uma tecla para executar um Movimento Crítico para cima.
+Associa uma tecla para executar um Movimento Crítico para baixo.
+Associa uma tecla para executar um Movimento Crítico para a esquerda.
+Associa uma tecla para executar um Movimento Crítico para a direita.
+Associa uma tecla para executar um Movimento Crítico no centro.
+Associa uma tecla para habilitar/desabilitar o modo turbo nas batalhas.
+Associa uma tecla para pausar o jogo.
+Associa uma tecla para saltar as cenas do jogo.
+Associa uma combinação de teclas para o reinício parcial do jogo.
+Retorna todas associações do teclado para a configuração padrão.
+Escolhe quais tipos de botões devem ser exibidos. Se não for utilizado o teclado, a maioria das funções do controle terão que ser associadas.
+Selecione as associações padrão para o controle. As associações feitas anteriormente serão perdidas.
+Associa a movimentação do personagem a um controle analógico. Isso também vai associar o movimento do cursor do menu.
+Associa a posição da câmera a um controle analógico.
+Associa uma tecla para executar um Movimento Crítico para cima.
+Associa uma tecla para executar um Movimento Crítico para baixo.
+Associa uma tecla para executar um Movimento Crítico para a esquerda.
+Associa uma tecla para executar um Movimento Crítico para a direita.
+Associa um botão comando Confirmar.
+Associa um botão ao comando Cancelar.
+Associa um botão para a rolagem de páginas.
+Associa um botão para rolar a página para cima.
+Associa um botão para rolar a página para baixo.
+Associa um botão para mostrar a barra de informação.
+Associa um botão para mostrar a ajuda.
+Associa um botão para a opção de ativar ou desativar as marcações.
+Associa um botão para restaurar os valores padrão.
+Associa um botão ao comando de ordenar.
+Associa um botão para o comando de passar para a página à esquerda.
+Associa um botão para o comando de passar para a página à direita.
+Associa um botão para mover o personagem para frente.
+Associa um botão para mover o personagem para trás.
+Associa um botão para mover o personagem para a esquerda.
+Associa um botão para mover o personagem para a direita.
+Associa um botão para mover a câmera para cima.
+Associa um botão para mover a câmera para baixo.
+Associa um botão para mover a câmera para a esquerda.
+Associa um botão para mover a câmera para a direita.
+Associa um botão para voltar a câmera para sua posição padrão.
+Associa um botão para aproximar a câmera.
+Associa um botão para afastar a câmera.
+Associa um botão para mover o cursor para a esquerda.
+Associa um botão para mover o cursor para a direita.
+Associa um botão para cancelar o cursor.
+Associa um botão ao comando de fixar um alvo.
+Associa um botão ao comando de Ação.
+Associa um botão para iniciar o combate com os monstros.
+Associa um botão ao comando de Dobra Temporal.
+Associa um botão para abrir o Menu Principal.
+Associa um botão para abrir o Mapa de Navegação.
+Associa um botão para sair do mapa da cidade ou do mapa do mundo.
+Associa um botão para executar um Movimento Crítico para cima.
+Associa um botão para executar um Movimento Crítico para baixo.
+Associa um botão para executar um Movimento Crítico para a esquerda.
+Associa um botão para executar um Movimento Crítico para a direita.
+Associa um botão para executar um Movimento Crítico no centro.
+Associa um botão para pausar o jogo.
+Associa um botão para saltar as cenas do jogo.
+Associa um botão para o reinício parcial do jogo.
+Define configurações da câmera quando controlada pelo mouse. A opção padrão vai permitir mover a câmera ao soltar o botão direito.
+Associa um comando ao botão esquerdo do mouse dentro do menu.
+Associa um comando ao botão direito do mouse dentro do menu.
+Associa um comando ao botão central do mouse dentro do menu.
+Associa um comando à rolagem do mouse para cima dentro do menu.
+Associa um comando à rolagem do mouse para baixo dentro do menu.
+Associa um comando ao botão esquerdo do mouse fora das cidades.
+Associa um comando ao botão direito do mouse fora das cidades.
+Associa um comando ao botão central do mouse fora das cidades.
+Associa um comando à rolagem do mouse para cima fora das cidades.
+Associa um comando à rolagem do mouse para baixo fora das cidades.
+Associa um comando à rolagem do mouse para a esquerda fora das cidades.
+Associa um comando à rolagem do mouse para a direita fora das cidades.
+Associa um comando ao botão central do mouse nas batalhas.
+Associa um comando à rolagem do mouse para cima nas batalhas.
+Associa um comando à rolagem do mouse para baixo nas batalhas.
+Reverte os comandos associados aos botões direito e esquerdo do mouse.
 Reset all mouse bindings to the default setting.
 Set the sound output settings. After settings are changed, the game must be restarted to reflect the changes.
 Change wield style.
@@ -21961,23 +21961,23 @@ Quantidade
 Total
 Nº.
 BÔNUS
-Ranking de Batalha
+Classificação
 Sistema
-Linguagem
+Idioma
 Textura
-Taxa de Quadros
+Imagens por segundo
 Tela de Batalha
-Tela de Campo
+Tela do Mundo
 Teclado
 Controle
 Mouse
-Ligações
+Associações
 Menu
-Campo
+Mundo
 Batalha
 Sistema
-Estilo de Manejo Atual
-Estilos de Manejo
+Estilo de Manejo da Arma
+Estilos de Manejo da Arma
 Vezes Concluídas
 Automático
 Menu dummy text

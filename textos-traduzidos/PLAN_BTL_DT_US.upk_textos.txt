@@ -184,7 +184,7 @@ Associa uma tecla para mostrar a barra de informação.
 Associa uma tecla para mostrar a ajuda.
 Associa uma tecla para a opção de ativar ou desativar as marcações.
 Associa uma tecla para restaurar os valores padrão.
-Associa uma tecla para o comando de Ordenar.
+Associa uma tecla ao comando de ordenar.
 Associa uma tecla para o comando de passar para a página à esquerda.
 Associa uma tecla para o comando de passar para a página à direita.
 Associa uma tecla para mover o personagem para frente.
@@ -198,108 +198,108 @@ Associa uma tecla para mover a câmera para a direita.
 Associa uma tecla para voltar a câmera para sua posição padrão.
 Associa uma tecla para aproximar a câmera.
 Associa uma tecla para afastar a câmera.
-Associa uma tecla para mover o cursor para esquerda.
-Associa uma tecla para mover o cursor para direita.
+Associa uma tecla para mover o cursor para a esquerda.
+Associa uma tecla para mover o cursor para a direita.
 Associa uma tecla para cancelar o cursor.
-Bind a key to lock onto a target.
-Bind a key to the Action command.
-Bind a key to the Monster Encounter Trigger.
-Bind a key to the Dobra Temporal command.
-Bind a key to bring up the party menu.
-Bind a key to bring up the navigation map.
-Bind a key to exit to the city map or world map.
-Bind a key to the up Critical Trigger command.
-Bind a key to the down Critical Trigger command.
-Bind a key to the left Critical Trigger command.
-Bind a key to the right Critical Trigger command.
-Bind a key to the center Critical Trigger command.
-Bind a key to switch Turbo Mode On/Off during battle.
-Bind a key to the Pause command.
-Bind a key to skip events.
-Bind a key combination to soft reset.
-Reset all keyboard assignments to the default setting.
-Set key signal display setting. If it is not set to a keyboard, most gamepad assignments will need to be set.
-Select a preset gamepad assignment. All current gamepad assignments will be lost.
-Assign character movement settings to an analog stick. This will also be assigned to the menu cursor.
-Assign camera position to an analog stick.
-Assign a button to the up Critical Trigger command.
-Assign a button to the down Critical Trigger command.
-Assign a button to the left Critical Trigger command.
-Assign a button to the right Critical Trigger command.
-Assign a button to the Confirm command.
-Assign a button to the Cancel command.
-Assign a button to scroll pages.
-Assign a button to scroll up.
-Assign a button to scroll down.
-Assign a button to display the Information bar.
-Assign a button for help display.
-Assign a button to toggle marking on/off.
-Assign a button to return to default settings.
-Assign a button to the Sort command.
-Assign a button to toggle page left.
-Assign a button to toggle page right.
-Assign a button to move the character forward.
-Assign a button to move the character backward.
-Assign a button to move the character left.
-Assign a button to move the character right.
-Assign a button to move the camera up.
-Assign a button to move the camera down.
-Assign a button to move the camera left.
-Assign a button to move the camera right.
-Assign a button to return the camera to its default position.
-Assign a button to zoom in.
-Assign a button to zoom out.
-Assign a button to move the cursor left.
-Assign a button to move the cursor right.
-Assign a button to cancel the cursor.
-Assign a button to lock onto a target.
-Assign a button to the Action command.
-Assign a button to the Monster Encouter Trigger.
-Assign a button to the Dobra Temporal command.
-Assign a button to bring up the party menu.
-Assign a button to bring up the navigation map.
-Assign a button to exit to the city map or world map.
-Assign a button to the up Critical Trigger command.
-Assign a button to the down Critical Trigger command.
-Assign a button to the left Critical Trigger command.
-Assign a button to the right Critical Trigger command.
-Assign a button to the center Critical Trigger command.
-Assign a button to the Pause command.
-Assign a button to skip events.
-Assign a button combination to soft reset.
-Set mouse-controlled camera settings. The default will allow camera movement when the right button is depressed.
-Assign a command to the left mouse button within the menu.
-Assign a command to the right mouse button within the menu.
-Assign a command to the center mouse button within the menu.
-Assign a command to the scroll wheel up function within the menu.
-Assign a command to the scroll wheel down function within the menu.
-Assign a command to the left mouse button in the field.
-Assign a command to the right mouse button in the field.
-Assign a command to the center mouse button in the field.
-Assign a command to the scroll wheel up function in the field.
-Assign a command to the scroll wheel down function in the field.
-Assign a command to the left mouse button in battle.
-Assign a command to the right mouse button in battle.
-Assign a command to the center mouse button in battle.
-Assign a command to the scroll wheel up function in battle.
-Assign a command to the scroll wheel down function in battle.
-Reverse the commands bound to the left and right buttons.
-Reset all mouse bindings to the default setting.
-Set the sound output settings. After settings are changed, the game must be restarted to reflect the changes.
-Change wield style.
-Wield styles cannot be changed if the unit has a two-handed weapon or a shield equipped.
-Switch Auto Save function On/Off.
-Auto Saving...
-Auto Save complete.
-Game data cannot be saved in the Auto Save field.
-Set the sound control settings. After settings are changed, the game must be restarted to reflect the changes.
-Set the in-battle light effect settings. <1be0ffff40ff>Activating settings may slow down processing.
-Set the in-battle character model LOD level. <1be0ffff40ff>High settings may slow down processing.
-Assign a button to switch Turbo Mode On/Off during battle.
-Set the battle voices settings.
-Set the in-battle depth of field. <1be0ffff40ff>Activating settings may slow down processing.
-Set mouse sensitivity.
-Set the light effect settings On/Off on the field or during events. <1be0ffff40ff>Activating settings may slow down processing.
+Associa uma tecla ao comando de fixar um alvo.
+Associa uma tecla ao comando de Ação.
+Associa uma tecla para iniciar o combate com os monstros.
+Associa uma tecla ao comando de Dobra Temporal.
+Associa uma tecla para abrir o Menu Principal.
+Associa uma tecla para abrir o Mapa de Navegação.
+Associa uma tecla para sair do mapa da cidade ou do mapa do mundo.
+Associa uma tecla para executar um Movimento Crítico para cima.
+Associa uma tecla para executar um Movimento Crítico para baixo.
+Associa uma tecla para executar um Movimento Crítico para a esquerda.
+Associa uma tecla para executar um Movimento Crítico para a direita.
+Associa uma tecla para executar um Movimento Crítico no centro.
+Associa uma tecla para habilitar/desabilitar o modo turbo nas batalhas.
+Associa uma tecla para pausar o jogo.
+Associa uma tecla para saltar as cenas do jogo.
+Associa uma combinação de teclas para o reinício parcial do jogo.
+Retorna todas associações do teclado para a configuração padrão.
+Escolhe quais tipos de botões devem ser exibidos. Se não for utilizado o teclado, a maioria das funções do controle terão que ser associadas.
+Selecione as associações padrão para o controle. As associações feitas anteriormente serão perdidas.
+Associa a movimentação do personagem a um controle analógico. Isso também vai associar o movimento do cursor do menu.
+Associa a posição da câmera a um controle analógico.
+Associa uma tecla para executar um Movimento Crítico para cima.
+Associa uma tecla para executar um Movimento Crítico para baixo.
+Associa uma tecla para executar um Movimento Crítico para a esquerda.
+Associa uma tecla para executar um Movimento Crítico para a direita.
+Associa um botão comando Confirmar.
+Associa um botão ao comando Cancelar.
+Associa um botão para a rolagem de páginas.
+Associa um botão para rolar a página para cima.
+Associa um botão para rolar a página para baixo.
+Associa um botão para mostrar a barra de informação.
+Associa um botão para mostrar a ajuda.
+Associa um botão para a opção de ativar ou desativar as marcações.
+Associa um botão para restaurar os valores padrão.
+Associa um botão ao comando de ordenar.
+Associa um botão para o comando de passar para a página à esquerda.
+Associa um botão para o comando de passar para a página à direita.
+Associa um botão para mover o personagem para frente.
+Associa um botão para mover o personagem para trás.
+Associa um botão para mover o personagem para a esquerda.
+Associa um botão para mover o personagem para a direita.
+Associa um botão para mover a câmera para cima.
+Associa um botão para mover a câmera para baixo.
+Associa um botão para mover a câmera para a esquerda.
+Associa um botão para mover a câmera para a direita.
+Associa um botão para voltar a câmera para sua posição padrão.
+Associa um botão para aproximar a câmera.
+Associa um botão para afastar a câmera.
+Associa um botão para mover o cursor para a esquerda.
+Associa um botão para mover o cursor para a direita.
+Associa um botão para cancelar o cursor.
+Associa um botão ao comando de fixar um alvo.
+Associa um botão ao comando de Ação.
+Associa um botão para iniciar o combate com os monstros.
+Associa um botão ao comando de Dobra Temporal.
+Associa um botão para abrir o Menu Principal.
+Associa um botão para abrir o Mapa de Navegação.
+Associa um botão para sair do mapa da cidade ou do mapa do mundo.
+Associa um botão para executar um Movimento Crítico para cima.
+Associa um botão para executar um Movimento Crítico para baixo.
+Associa um botão para executar um Movimento Crítico para a esquerda.
+Associa um botão para executar um Movimento Crítico para a direita.
+Associa um botão para executar um Movimento Crítico no centro.
+Associa um botão para pausar o jogo.
+Associa um botão para saltar as cenas do jogo.
+Associa um botão para o reinício parcial do jogo.
+Define configurações da câmera quando controlada pelo mouse. A opção padrão vai permitir mover a câmera ao soltar o botão direito.
+Associa um comando ao botão esquerdo do mouse dentro do menu.
+Associa um comando ao botão direito do mouse dentro do menu.
+Associa um comando ao botão central do mouse dentro do menu.
+Associa um comando à rolagem do mouse para cima dentro do menu.
+Associa um comando à rolagem do mouse para baixo dentro do menu.
+Associa um comando ao botão esquerdo do mouse fora das cidades.
+Associa um comando ao botão direito do mouse fora das cidades.
+Associa um comando ao botão central do mouse fora das cidades.
+Associa um comando à rolagem do mouse para cima fora das cidades.
+Associa um comando à rolagem do mouse para baixo fora das cidades.
+Associa um comando à rolagem do mouse para a esquerda fora das cidades.
+Associa um comando à rolagem do mouse para a direita fora das cidades.
+Associa um comando ao botão central do mouse nas batalhas.
+Associa um comando à rolagem do mouse para cima nas batalhas.
+Associa um comando à rolagem do mouse para baixo nas batalhas.
+Reverte os comandos associados aos botões direito e esquerdo do mouse.
+Retorna as configurações do mouse ao seu valor padrão.
+Define as configurações de som. O jogo deve ser reiniciado para que as mudanças sejam aplicadas.
+Altera o estilo de maneja da arma.
+O estilo de manejo da arma não pode ser alterado se uma arma de duas mãos ou um escudo estiver equipado.
+Troca a função de salvamento automático.
+Salvando...
+O jogo foi salvo com sucesso.
+Os dados do jogo não podem ser salvos no espaço de salvamento automático.
+Define as configurações do controle de som. O jogo deve ser reiniciado para que as mudanças sejam aplicadas.
+Define as configurações dos efeitos de luz nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o nível de detalhe dos personagens durante a batalha. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Associa um botão para ativar/desativar o modo turbo durante as batalhas.
+Define as configurações de voz nas batalhas.
+Define a profundidade de campo nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define a sensibilidade do mouse.
+Ativa ou desativa a configuração dos efeitos de luz fora do campo de batalha. <1be0ffff40ff>Ativa a configuração pode causar lentidão.
 Battle Action dummy help
 Uma técnica especial de David. Use o<03e0>Kellendros para lançar uma poderosa onda de<03e0>energia, causando grandes danos no oponente.
 Uma técnica especial do Rush. Atinge uma<03e0>unidade inimiga com uma chuva torrencial<03e0>de golpes causando grandes danos.
@@ -702,14 +702,14 @@ Uma conjuração do Talismã.<03e0>Invoca o Remanescente Ciclope para<03e0>o cam
 Uma conjuração do Lob Omen.<03e0>Invoca o Remanescente Lob Omen para<03e0>o campo de batalha.
 Uma conjuração de Namul Niram.<03e0>Invoca os Remanescentes Namul Sin<03e0>e Niram Sin para o campo de batalha.
 Uma técnica especial do Snievan.<03e0>Ela planta o medo na mente dos outros.<03e0>Causa grandes danos nas unidades próximas.
-Uma técnica especial do Zuido.<03e0>Um poderoso ataque de pressão corporal.<03e0>Causa grandes danos nas unidades próximas.
+Uma técnica especial do Zuido.<03e0>Um poderoso abraço esmagador.<03e0>Causa grandes danos nas unidades próximas.
 Uma técnica especial do Ludope.<03e0>Ele expõe os mistérios do mundo.<03e0>Causa grandes danos místicos em todas unidades.
-Uma técnica especial da Hannah.<03e0>Ela coopera com Hinnah em seu ataque cruel.<03e0>Causa grandes danos em todas unidades.
-Uma técnica especial do Milton.<03e0>Aumenta as habilidades do seu grupo com força de vontade.
-Uma técnica especial da Hinnah.<03e0>Ela seduz os inimigos com sua pose sexy.<03e0>Has a high chance of terminating enemy unions.
-Uma técnica especial do Young.<03e0>Um ataque combinado que abala a terra.<03e0>Causa grandes danos nas unidades próximas.
-Uma técnica especial da Khrynia.<03e0>Ela coopera com Irina nesse ataque copiado.<03e0>Causa grandes danos em todas unidades.
-[Longo-Alcance] O campo de batalha está tomado<03e0>por chamas.<03e0>Danos extremos a todo o exército inimigo.
+Uma técnica especial da Hannah.<03e0>Ela coopera com Hinnah em um ataque cruel.<03e0>Causa grandes danos em todas unidades.
+Uma técnica especial do Milton.<03e0>Aumenta as habilidades do seu grupo por meio de<03e0>sua força de vontade.
+Uma técnica especial da Hinnah.<03e0>Ela seduz os inimigos com movimentos sensuais.<03e0>Tem uma grande chance de exterminar unidades inimigas.
+Uma técnica especial do Young.<03e0>Um ataque combinado que faz tremer a terra.<03e0>Causa grandes danos nas unidades próximas.
+Uma técnica especial da Khrynia.<03e0>Efetua um ataque combinado com Irina.<03e0>Causa grandes danos em todas unidades.
+[Longo-Alcance] O campo de batalha está tomado<03e0>por chamas.<03e0>Causa dano extremo a todo o exército inimigo.
 Action Category dummy help
 Ataca com a arma equipada.
 Ataques físicos realizados com ou sem armas.
@@ -856,7 +856,7 @@ Libera o poder oculto do talismã.
 [Específico de um monstro]<1ce0> Em espera, não travado em duelo
 [Específico de um monstro]<1ce0> Em espera: travado em duelo
 [Específico de um monstro]<1ce0> Não faz nada
-KO's a union to free its members from being cursed.
+Nocauteia uma unidade para liberá-la de uma maldição.
 Orders a full-out attack centering around Snievan's Phantom Pain.
 Orders a full-out attack centering around Zuido's Giant Press.
 Orders a full-out attack centering around Ludope's Galaxy.
@@ -967,10 +967,10 @@ Uma variação do Caixão que aumenta<03e0>a eficiência dos remédios.
 Aumenta as defesas das fileiras de trás,<03e0>mas reduz o ataque e a defesa místicas<03e0>e a mobilidade das fileiras frontais.
 Uma variação do Cesto que aumenta<03e0>os efeitos dos estados benéficos.
 Aumenta a defesa física das fileiras frontais<03e0>e a defesa mística das fileiras de trás, mas<03e0>reduz sua mobilidade.
-Improves attack and speed of union,<03e0>but reduces defense.
-Improves defense of union, but reduces<03e0>attack, intellect, and speed.
-Improves attack and defense of lead<03e0>ranks, and mystic attack and mystic<03e0>defense of back ranks.
-An ancient formation.<03e0>Effects are determined by<03e0>placement.
+Melhora o ataque e a velocidade da unidade,<03e0>mas reduz a sua defesa.
+Aumenta a defesa da unidade, mas reduz o ataque<03e0>a inteligência e a velocidade.
+Melhora o ataque e a defeza das fileiras frontais,<03e0>mas reduz o ataque, a inteligência e a velocidade<03e0>das fileiras de trás.
+Uma formação ancestral.<03e0>Seus efeitos varias de acordo com a posição.
 Battle Sequence dummy
 Líder derrotado! Unidade não pode atuar.
 As artes de combate<1ce0> estão bloqueadas!
@@ -1121,13 +1121,13 @@ Um cavaleiro da ordem de Melphina.<03e0>Formado na Faculdade de Direito de Melph
 Um cavaleiro da ordem de Melphina.<03e0>É amigável e extrovertido, mas<03e0>se assusta com facilidade.
 Um agente do Duque de Ghor,<03e0>muito leal e dedicado ao seu senhor.<03e0>Um mercenário cativante.
 Um agente do Duque de Ghor,<03e0>muito leal e dedicado ao seu senhor.<03e0>Sério e responsável.
-A member of the Seven, Snievan dreams of filling<03e0>the world with nothing but beauty. His odd behavior<03e0>has made him an outcast from his own race.
-A member of the Seven, Zuido is usually a gentle<03e0>soul<07f0>though his alternate personality is quite the<03e0>opposite. They say it comes from a childhood trauma.
-A member of the Seven, Ludope was a military<03e0>leader who lost his entire troop in battle. His hatred<03e0>for everything comes from the pain he holds inside.
-A member of the Seven, Hannah is Hinnah's overly<03e0>protective twin sister. Though usually good-natured,<03e0>when angry, not even Hinnah can hold her back.
-A member of the Seven, Milton is a legendary<03e0>swordsman, victorious on many battlefields. He<03e0>devotes his life to perfecting the way of the sword.
-A member of the Seven, Hinnah is Hannah's twin<03e0>sister, so devoted to her that she would do anything<03e0>for her. She acts tough, but she is quite the crybaby.
-A member of the Seven, Young searches for<03e0>the meaning of his life through fighting.<03e0>He is a true romantic.
+Snievan, um dos sete generais, sonha com encher<03e0>o mundo com beleza. Seu estranho comportamento<03e0>fez dele um proscito de sua própria raça.
+Zuido, um dos sete generais, tem uma alma nobre,<03e0>embora sua dupla personalidade seja exatamente o<03e0>oposto. Dizem que ela surgiu com um trauma de infância.
+Ludope, um dos sete generais, era um líder militar<03e0>que perdeu todo seu esquadrão em uma batalha.<03e0>Seu ódio é derivado dessa dor.
+Hannah, uma dos sete generais, é a irmã gêmea que<03e0>superprotege Hinnah. Em geral é bem humorada, mas<03e0>quando se enfeza nem a Hinnah consegue acalmá-la.
+Milton, um dos sete generais, é um lendário<03e0>espadachim que venceu muitas batalhas. Ele dedica<03e0>sua vida a aperfeiçoar o caminho da espada.
+Hinnah, uma dos sete generais, é a irmã gêmea de<03e0>Hannah, e capaz de fazer qualquer coisa por ela.<03e0>Mesmo parecendo durona, é na verdade uma chorona.
+Young, um dos sete generais, busca encontrar<03e0>o sentido da vida por meio do combate.<03e0>Ele é um verdadeiro romântico.
 City Location Dummy
 Selecione um destino.
 Voltar ao Mapa do Mundo
@@ -6802,7 +6802,7 @@ Não há espaço livre no dispositivo de armazenamento.<03e0>É necessário 2MB 
 Os dados estão corrompidos e não podem ser carregados.<03e0>Deseja excluir os dados corrompidos?
 Os dados estão corrompidos, não podem ser sobrepostos.<03e0>Quer excluir os dados corrompidos e salvar o jogo?
 Já existe um jogo salvo.<03e0>Deseja sobrescrevê-lo?
-Isso vai interromper o jogo.<03e0>Confirmar?
+Isso vai interromper o jogo.<03e0>Deseja continuar?
 Isso vai interromper o jogo.<03e0>O progresso que não foi salvo será perdido.<03e0>Confirmar?
 Essa chave já está associada a um outro comando.<03e0>Deseja associar ela a um novo comando?
 Esse botão já está associado a um outro comando.<03e0>Deseja associar ele a um novo comando?
@@ -6949,7 +6949,7 @@ Salvamento concluído.
 Excluindo os dados corrompidos.
 Os dados corrompidos foram excluídos.
 Verificando dados.
-Uma atualização necessária para o jogo não<03e0>foi encontrada no dispositivo de armazenamento atual.<03e0>Retornando para a tela de título.
+Para continuar é necessária uma atualização que não<03e0>foi encontrada no dispositivo de armazenamento atual.<03e0>Retornando para a tela de título.
 Erro ao carregar.<03e0>Faça o download da atualização necessária para carregar esses dados.
 O Sr. Garras não encontrou nada.
 O Sr. Garras adquiriu uma <1be0ffff40ff>Broca<1ce0>!
