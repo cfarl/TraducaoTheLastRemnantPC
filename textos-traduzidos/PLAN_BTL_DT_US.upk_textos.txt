@@ -3157,17 +3157,17 @@ Um fragmento de pergaminho que descreve<03e0>a formação Leito.
 Um pergaminho que revela os segredos da<03e0>formação Cesto.
 Um fragmento de pergaminho que descreve<03e0>a formação Mochila.
 Um pergaminho que revela os segredos da<03e0>formação Asas de Morcego.
-A figurine representing Snievan's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Zuido's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Ludope's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Hannah's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Milton's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Hinnah's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Young's loyalty.<03e0>It emits a mysterious light.
-A scroll used to learn the formation<03e0>Porcelain Chain.
-A scroll used to learn the formation<03e0>Mystic Seal.
-A scroll used to learn the formation<03e0>The Slayer.
-A scroll used to learn the formation<03e0>Eremurus Rain.
+Uma estatueta representando a lealdade de Snievan.<03e0>Ela emite uma luz misteriosa.  
+Uma estatueta representando a lealdade de Zuido.<03e0>Ela emite uma luz misteriosa.  
+Uma estatueta representando a lealdade de Ludope.<03e0>Ela emite uma luz misteriosa.  
+Uma estatueta representando a lealdade de Hannah.<03e0>Ela emite uma luz misteriosa.  
+Uma estatueta representando a lealdade de Milton.<03e0>Ela emite uma luz misteriosa.  
+Uma estatueta representando a lealdade de Hinnah.<03e0>Ela emite uma luz misteriosa.  
+Uma estatueta representando a lealdade de Young.<03e0>Ela emite uma luz misteriosa.  
+Um pergaminho usado para aprender a formação<03e0>Corrente de Porcenala.  
+Um pergaminho usado para aprender a formação<03e0>Selo Místico.  
+Um pergaminho usado para aprender a formação<03e0>O Matador.  
+Um pergaminho usado para aprender a formação<03e0>Chuva Eremurus.
 Consumables dummy help
 Uma folha com poderes de cura.<03e0>É usada para fazer misturas de ervas.
 Uma raiz com poderes de cura.<03e0>É usada para fazer misturas de ervas.
