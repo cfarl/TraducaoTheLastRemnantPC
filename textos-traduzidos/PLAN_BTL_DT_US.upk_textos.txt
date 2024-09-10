@@ -9838,19 +9838,19 @@ Punição Divina III
 Armagedon
 Armagedon II
 Armagedon III
-Phantom Pain
-Giant Press
-Galaxy
-Twin Snowpetal
-Iron Will
-Seduction
-Brawl
-Dual Snowpetal
-Crimson Flare
-Crimson Flare II
-Crimson Flare III
-Crimson Flare IV
-Crimson Flare V
+Calvário Espectral
+Abraço de Gigante
+Galáxia
+Pétala Glacial Dupla
+Vontade de Ferro
+Sedução
+Briga
+Pétala Glacial Dupla
+Fogo Escarlate
+Fogo Escarlate II
+Fogo Escarlate III
+Fogo Escarlate IV
+Fogo Escarlate V
 Battle Commands dummy
 O inimigo está muito distante!
 O inimigo está muito distante!
@@ -9965,7 +9965,7 @@ Irmãs, libere Pétala Glacial Dupla!
 Milton, libere Vontade de Ferro!
 Hinnah, libere Sedução!
 Young, libere Briga!
-Khrynia, libere Pétala Glacial Duplo!
+Khrynia, libere Pétala Glacial Dupla!
 Formation dummy
 Posição de Combate
 Posição de Combate II
