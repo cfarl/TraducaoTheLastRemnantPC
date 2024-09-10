@@ -2527,29 +2527,29 @@ Uma vestimenta feita de borracha.
 Uma vestimenta feita a partir dos restos<03e0>de um demônio.
 Um batom de cor vermelho sangue.
 Uma rocha contendo inscrições que<03e0>profetizam o fim do mundo.
-A spear-like Remnant.<03e0>A very powerful, Snievan-specific weapon.
-A customization of the Rhongomynad,<03e0>making it more powerful.
-A high-quality customization of the Rhongomynad.<03e0>Its power has been massively increased.
-A large, sword-like Remnant.<03e0>A very powerful Zuido-specific weapon.
-A customization of the Somberblade,<03e0>making it more powerful.
-A high-quality customization of the Somberblade.<03e0>Its power has been massively increased.
-A hammer-like Remnant.<03e0>A very powerful, Ludope-specific weapon.
-A customization of the Dvergr,<03e0>making it more powerful.
-A high-quality customization of the Dvergr.<03e0>Its power has been massively increased.
-A katana-like Remnant.<03e0>A very powerful, Hannah-specific<03e0>weapon.
-A customization of the Crimsonblade,<03e0>making it more powerful.
-A high-quality customization of the Crimsonblade.<03e0>Its power has been massively increased.
-A katana-like Remnant.<03e0>A Milton-specific weapon, its blade<03e0>can even cut through steel.
-A customization of the Meteor,<03e0>making it more powerful.
-A high-quality customization of the Meteor.<03e0>Its power has been massively increased.
-A katana-like Remnant.<03e0>A very powerful, Hinnah-specific<03e0>weapon.
-A customization of the Azureblade,<03e0>making it more powerful.
-A high-quality customization of the Azureblade.<03e0>Its power has been massively increased.
-A sword-like Remnant.<03e0>A very powerful, Young-specific weapon.
-A customization of the Frostsword,<03e0>making it more powerful.
-A high-quality customization of the Frostsword.<03e0>Its power has been massively increased.
-A frayed charm said to hold<03e0>a witch's powers.
-A replica of Athlum's Remnant, the Valeria Heart.<03e0>It is in high demand.
+Um Remanescente parecido com uma lança.<03e0>Uma arma muito poderosa, específica de Snievan.  
+Uma customização do Rhongomynad,<03e0>tornando-o mais poderoso.  
+Uma customização de alta qualidade do Rhongomynad.<03e0>Seu poder foi massivamente aumentado.  
+Um Remanescente grande, semelhante a uma espada.<03e0>Uma arma muito poderosa, específica de Zuido.  
+Uma customização da Somberblade,<03e0>tornando-a mais poderosa.  
+Uma customização de alta qualidade da Somberblade.<03e0>Seu poder foi massivamente aumentado.  
+Um Remanescente parecido com um martelo.<03e0>Uma arma muito poderosa, específica de Ludope.  
+Uma customização do Dvergr,<03e0>tornando-o mais poderoso.  
+Uma customização de alta qualidade do Dvergr.<03e0>Seu poder foi massivamente aumentado.  
+Um Remanescente semelhante a uma katana.<03e0>Uma arma muito poderosa, específica de Hannah.<03e0>  
+Uma customização da Crimsonblade,<03e0>tornando-a mais poderosa.  
+Uma customização de alta qualidade da Crimsonblade.<03e0>Seu poder foi massivamente aumentado.  
+Um Remanescente semelhante a uma katana.<03e0>Uma arma específica de Milton, sua lâmina<03e0>é capaz de cortar até mesmo aço.  
+Uma customização do Meteor,<03e0>tornando-o mais poderoso.  
+Uma customização de alta qualidade do Meteor.<03e0>Seu poder foi massivamente aumentado.  
+Um Remanescente semelhante a uma katana.<03e0>Uma arma muito poderosa, específica de Hinnah.<03e0>  
+Uma customização da Azureblade,<03e0>tornando-a mais poderosa.  
+Uma customização de alta qualidade da Azureblade.<03e0>Seu poder foi massivamente aumentado.  
+Um Remanescente semelhante a uma espada.<03e0>Uma arma muito poderosa, específica de Young.  
+Uma customização da Frostsword,<03e0>tornando-a mais poderosa.  
+Uma customização de alta qualidade da Frostsword.<03e0>Seu poder foi massivamente aumentado.  
+Um amuleto desgastado que se diz<03e0>conter os poderes de uma bruxa.  
+Uma réplica do Remanescente de Athlum, o Coração Valente.<03e0>Está em alta demanda.
 Guild Task dummy text
 Objetivo: Derrotar 6 Flauros<03e0>Localização: A Passagem Subterrânea
 Objetivo: Derrotar 5 Abutres<03e0>Localização: Lavafender
