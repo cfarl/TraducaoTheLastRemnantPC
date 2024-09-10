@@ -16793,7 +16793,7 @@ Apresentar relatório
 F<f8fff4fff8ff010000001ce0> Modo Turbo <1be066ffffff>On
 F<f8fff4fff8ff010000001ce0> Modo Turbo <1be0ff66ffff>Off
 Outro
-Hervas
+Ervas
 Poções
 Locões
 Explosivos
@@ -16847,7 +16847,7 @@ Tipo de Teclado
 None
 Cursor [Cima]
 Cursor [Baixo]
-Cursor [Esuerda]
+Cursor [Esquerda]
 Cursor [Direita]
 Confirmar
 Cancelar
