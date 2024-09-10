@@ -4730,33 +4730,33 @@ Obrigado.
 Hee hee... mais um.
 Agora estou mais perto da perfeição.
 Inacreditável...
-Só alguém com a minha beleza é digno disto!
-Isso ai!
-Maravilha! Isto só vai aumentar a minha beleza!
-O quê? Sua horrível besta!
+Só alguém tão belo como eu é digno disso!
+É isso ai!
+Que maravilha! Isso vai aumentar ainda mais a minha beleza!
+O quê? Sua besta imunda!
 Eu... Eu querer...
 Eu... Eu pegar...
 Eu... Eu fazer...
-O quê!? Você só está pedindo pra morrer!
+O quê? Você está pedindo para morrer!
 Posso?
-Hehe... Eu peguei todos!
-Hehe... Vou tocar uma nova música pra você.
+Hehe... Agora tenho todos!
+Hehe... Vou tocar para você uma nova melodia.
 Você cruel, cruel mitra...
 Posso?
 Obrigado.
-Eu queria isto.
+Eu queria isso.
 Não me obrigue a te machucar.
-Hm.
+Hm...
 Bom.
-Isto deve dar.
-Seu maldito...
-Isso é meu, certo?
-Haha, otários! É meu!
+Isso deve dar.
+Seu minúsculo...
+Isso é para mim, não é?
+Haha, seus otários! É meu!
 Perfeito!
 Isso não é legal...
 Obrigado por vir!
-Isto deve servir!
-Oh, sim! Eu sou o rei!
+Isso deve servir!
+Ah, sim! Eu sou o rei!
 Awww...
 PT dummy text
 Rush, preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que temos tempo para procurar?
@@ -6803,30 +6803,30 @@ Os dados estão corrompidos e não podem ser carregados.<03e0>Deseja excluir os 
 Os dados estão corrompidos, não podem ser sobrepostos.<03e0>Quer excluir os dados corrompidos e salvar o jogo?
 Já existe um jogo salvo.<03e0>Deseja sobrescrevê-lo?
 Isso vai interromper o jogo.<03e0>Deseja continuar?
-Isso vai interromper o jogo.<03e0>O progresso que não foi salvo será perdido.<03e0>Confirmar?
-Essa chave já está associada a um outro comando.<03e0>Deseja associar ela a um novo comando?
+Isso vai interromper o jogo.<03e0>O progresso que não foi salvo será perdido.<03e0>Deseja continuar?
+Essa tecla já está associada a um outro comando.<03e0>Deseja associar ela a um novo comando?
 Esse botão já está associado a um outro comando.<03e0>Deseja associar ele a um novo comando?
-As configurações de resolução/modo foram alteradas. <03e0>Prosseguir? Se não confirmado nos próximos 15 segundos,<03e0>o jogo será redefinido automaticamente para as configurações padrão.  
-Retorna todas as vinculações de teclas para as configurações padrão.<03e0>Prosseguir?  
-Ao selecionar predefinição, todas as atribuições atuais do gamepad<03e0>serão perdidas.<03e0>Prosseguir?  
-Retorna todas as atribuições do mouse para as configurações padrão.<03e0>Prosseguir?
-Isso reverterá as atribuições para <03e0>os botões esquerdo e direito do mouse.<03e0> Prosseguir?  
-Pressione Cima enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.  
-Pressione Baixo enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.  
-Pressione Esquerda enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.  
-Pressione Direita enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.
-As configurações estão completas. Confirme as entradas com <03e0>as setas acesas no lado esquerdo.<03e0> Para continuar, pressione Sim. Pressione Não para retornar <03e0>à página de seleção.  
-O controle analógico está atribuído ao movimento do personagem.<03e0> Deseja sobrescrever com o comando atual?  
-O controle analógico está atribuído ao movimento da câmera.<03e0> Deseja sobrescrever com o comando atual?  
-Os dados de conclusão do jogo foram salvos.<03e0> Prosseguir?
-Os dados de Auto Save já existem.<03e0> Ao ativar o Auto Save, os dados atuais<03e0>serão sobrescritos. Prosseguir?  
-O monstro chefe deve ser derrotado para deixar esta área.<1ce003e01be0ff4060ff> Salvar o progresso do jogo aqui pode resultar em uma parada no progresso do jogo <1ce003e0>se o monstro não puder ser derrotado.<1ce003e01be0ff4060ff> Tenha cuidado ao sobrescrever os dados de salvamento.<1ce0> Prosseguir?  
-Para definir a exibição do sinal de tecla para o gamepad,<03e0> as atribuições atuais do gamepad serão redefinidas.<03e0> Prosseguir?  
-Para definir a exibição do sinal de tecla para o Controle Xbox 360 para <03e0>Windows, as atribuições atuais do gamepad serão redefinidas.<03e0> Prosseguir?
-Isso definirá a exibição do sinal de tecla para<03e0> o gamepad.<03e0> Prosseguir?  
-Isso definirá a exibição do sinal de tecla para<03e0> o Controle Xbox 360 para Windows.<03e0> Prosseguir?  
-Defina a dificuldade da batalha.<03e003e0> Jogar em <1be0ffbe34ff>Modo Difícil<1ce0>?<03e0> Selecione Não para a dificuldade normal.<03e01be0ff4060ff> Uma vez que o jogo tenha começado, o modo não pode ser alterado.  
-O jogo deve ser reiniciado para atualizar as configurações.<03e0> Para continuar a jogabilidade, reinicie o jogo.<03e0> Deseja encerrar o jogo atual?
+As configurações de resolução/modo foram alteradas.<03e0>Deseja continuar? Se não for confirmado nos próximos<03e0>15 segundos, será restaurada a configuração padrão.
+Retorna todas as teclas associadas para a configuração padrão.<03e0>Deseja continuar?
+Ao selecionar essa opção, todas as associações que<03e0>foram feitas para o controle serão perdidas.<03e0>Deseja continuar?
+Retorna todas as associações do mouse para a configuração padrão.<03e0>Deseja continuar?
+Isso vai trocar os comandos associados aos botões<03e0>esquerdo e direito do mouse.<03e0>Deseja continuar?
+Pressione para cima ao executar uma <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando cancelar para sair da configuração.
+Pressione para baixo ao executar uma <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando cancelar para sair da configuração.
+Pressione para esquerda ao executar uma <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando cancelar para sair da configuração.
+Pressione para direita ao executar uma <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando cancelar para sair da configuração.
+A configuração foi concluída. Confirme as opções<03e0>selecionadas no lado esquerdo.<03e0>Para continuar, pressione Sim. Pressione Não para retornar<03e0>à página de seleção.
+O controle analógico está associado ao movimento do personagem.<03e0>Deseja usar essa nova associação?
+O controle analógico está associado ao movimento da câmera.<03e0>Deseja usar essa nova associação?
+Os dados do jogo concluído foram salvos.<03e0>Deseja continuar?
+Já existem dados de salvamento automático.<03e0>Se for ativada a função de salvamento automático<03e0>os dados atuais serão sobrescritos. Prosseguir?
+O monstro chefe deve ser derrotado para sair dessa área.<1ce003e01be0ff4060ff>Se você salvar o jogo aqui, poderá ficar parado nesse<1ce003e0>lugar caso não consiga derrotar o monstro.<1ce003e01be0ff4060ff>Tenha isso em mente antes de sobrescrever seus dados.<1ce0>Deseja continuar?
+Ao associar ao controle as teclas que aparecerão<03e0>na tela, a configuração atual dele será reiniciada.<03e0>Deseja continuar?
+Ao associar ao controle de Xbox 360 as teclas que aparecerão<03e0>na tela, a configuração atual dele será reiniciada.<03e0>Deseja continuar?
+Essa opção vai associar ao controle as teclas que<03e0>aparecerão na tela.<03e0>Deseja continuar?
+Essa opção vai associar ao controle de Xbox 360 as<03e0>teclas que aparecerão na tela.<03e0>Deseja continuar?
+Define a dificuldade das batalhas.<03e003e0>Jogar no <1be0ffbe34ff>Modo Difícil<1ce0>?<03e0>Selecione Não para jogar no Modo Normal.<03e01be0ff4060ff>Você não poderá mudar a dificuldade depois de inciar o jogo.
+O jogo deve ser reiniciado para atualizar a configuração.<03e0>Para continuar jogando você deverá reiniciar o jogo.<03e0>Deseja encerrar o jogo atual?
 System Message dummy text
 char_name<0000> se juntou ao grupo!
 char_name<0000> deixou o grupo.
