@@ -857,14 +857,14 @@ Libera o poder oculto do talismã.
 [Específico de um monstro]<1ce0> Em espera: travado em duelo
 [Específico de um monstro]<1ce0> Não faz nada
 Nocauteia uma unidade para liberá-la de uma maldição.
-Orders a full-out attack centering around Snievan's Phantom Pain.
-Orders a full-out attack centering around Zuido's Giant Press.
-Orders a full-out attack centering around Ludope's Galaxy.
-Orders a full-out attack centering around Hannah and Hinnah's Twin Snowpetal.
-Orders a full-out attack centering around Milton's Iron Will.
-Orders a full-out attack centering around Hinnah's Seduction.
-Orders a full-out attack centering around Young's Brawl.
-Orders a full-out attack centering around Khrynia and Irina's Dual Snowpetal.
+Ordena um ataque total centrado no Phantom Pain de Snievan.
+Ordena um ataque total centrado no Giant Press de Zuido.
+Ordena um ataque total centrado no Galaxy de Ludope.
+Ordena um ataque total centrado no Twin Snowpetal de Hannah e Hinnah.
+Ordena um ataque total centrado no Iron Will de Milton.
+Ordena um ataque total centrado no Seduction de Hinnah.
+Ordena um ataque total centrado no Brawl de Young.
+Ordena um ataque total centrado no Dual Snowpetal de Khrynia e Irina.
 Formation dummy help
 Aumenta a mobilidade das fileiras frontais.
 Aumenta o poder dos ataques laterais.<03e0>Muito eficaz contra homens-fera.
