@@ -7310,48 +7310,48 @@ Missão Adicional<1ce0>: Destrua todos os Ídolos!
 Missão Adicional<1ce0>: Derrote o Remanescente Esquecido!
 Missão Adicional<1ce0>: Derrote os Sete Generais Iluminados
 Missão Adicional<1ce0>: Derrote o Conquistador Iluminado
-Nothing is assigned to this command.<03e0>Please assign something to this command.
-Restart game to update settings.
-Resolution/mode settings were not confirmed<03e0>within 15 seconds and have returned to<03e0>default settings.
-Entry failed.<03e0>Please make sure only one analog stick is<03e0>pressed. Returning to entry screen.
-Entry failed.<03e0>Another analog stick cannot be assigned to<03e0>up/down directions. Returning to entry screen.
-Entry failed.<03e0>Another analog stick cannot be assigned to<03e0>left/right directions. Returning to entry screen.
-Entry failed.<03e0>The chosen analog stick is already assigned to<03e0>up/down directions. Returning to entry screen.
-Save game completion data. Loading this data will start a new<03e0>game with a portion of G and items from the previous game.<03e01be0ff4060ff>Be careful of overwriting files when saving game progress.
-Parameter bonus!<1ce003e003e0>You have become chummy with Duke Ghor,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Jager,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Haruko,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Gabriel,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Jorgen,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Roberto,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Loki,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Paris,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Rhagoh,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Glenys,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Violet,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Nora,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Khrynia,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Kate,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Sheryl,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Baulson,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Gaou,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Zolean,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Yuniver,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Darien,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Sibal,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Leshau,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Maddox,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Allan,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Caedmon,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Leucetius,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Wyngale,<03e0>thus awakening his true powers!
-Steam authentication failed.
-Rush<1ce0> has joined the battle!
-Emma<1ce0> has joined the battle!
-Blocter<1ce0> has joined the battle!
-Emmy<1ce0> has joined the battle!
-The selected key cannot be used.<03e0>Please select another key.
-The selected button cannot be used.<03e0>Please select another button.
+Nada foi atribuído neste comando.<03e0>Por favor, atribua algo a ele.  
+Reinicie o jogo para atualizar as configurações.  
+As configurações de resolução/modo não foram confirmadas<03e0>dentro de 15 segundos e foram retornadas para<03e0>as configurações padrão.  
+Entrada falhou.<03e0>Por favor, certifique-se de que apenas um mantete analógico esteja<03e0>pressionado. Retornando para a tela de entrada.  
+Entrada falhou.<03e0>Outro mantete analógico não pode ser atribuído às<03e0>direções cima/baixo. Retornando para a tela de entrada.  
+Entrada falhou.<03e0>Outro mantete analógico não pode ser atribuído às<03e0>direções esquerda/direita. Retornando para a tela de entrada.  
+Entrada falhou.<03e0>O mantete analógico escolhido já está atribuído às<03e0>direções cima/baixo. Retornando para a tela de entrada.
+Salvar os dados de conclusão do jogo. Carregar esses dados iniciará um novo<03e0>jogo com uma porção de G e itens do jogo anterior.<03e01be0ff4060ff>Tome cuidado ao sobrescrever arquivos ao salvar o progresso do jogo.
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo do Duke Ghor,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Jager,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Haruko,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Gabriel,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Jorgen,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Roberto,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Loki,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Paris,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Rhagoh,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Glenys,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Violet,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Nora,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Khrynia,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Kate,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Sheryl,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Baulson,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Gaou,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Zolean,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Yuniver,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Darien,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Sibal,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Leshau,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Maddox,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Allan,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Caedmon,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Leucetius,<03e0>despertando assim seus verdadeiros poderes!
+Bônus de parâmetros!<1ce003e003e0>Você se tornou amigo de Wyngale,<03e0>despertando assim seus verdadeiros poderes!
+Autenticação da Steam falhou.
+Rush<1ce0> entrou na batalha!
+Emma<1ce0> entrou na batalha!
+Blocter<1ce0> entrou na batalha!
+Emmy<1ce0> entrou na batalha!
+A tecla selecionada não pode ser usada.<03e0>Por favor, selecione outra tecla.
+O botão selecionado não pode ser usado.<03e0>Por favor, selecione outro botão.
 1.23457E+25
 Parameters dummy text
 param_name<00001ce0> aumentou!
