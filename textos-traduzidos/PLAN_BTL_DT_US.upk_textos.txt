@@ -14919,17 +14919,17 @@ Leito
 Cesto
 Mochila
 Asas de Morcego
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Porcelain Chain
-Mystic Seal
-The Slayer
-Eremurus Rain
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Corrente de Porcelana
+Selo Místico
+O Caçador
+Chuva Eremurus
 Consumables dummy
 Folha de Cura
 Raiz de Cura
