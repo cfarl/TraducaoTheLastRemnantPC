@@ -161,7 +161,7 @@ Define a resolução para as texturas do personagem. <1be0ffff40ff>Uma configura
 Define a resolução para as texturas do cenário. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
 Define a resolução para os efeitos de sombra. O jogo deverá ser reiniciado depois de alterar a configuração, para que as mudanças sejam ativadas. As mudanças só estarão disponíveis se os efeitos de sombra nas batalhas forem colocadas em qualidade alta. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
 Define a resolução de outras texturas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
-Define o máximo de imagens por segundo. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
+Define o máximo de quadros por segundo. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
 Define os efeitos de sombra nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
 Define o nível dos efeitos nas batalhas. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
 Define o nível de dealhe dos personagens. <1be0ffff40ff>Uma configuração alta pode causar lentidão.
@@ -286,7 +286,7 @@ Associa um comando à rolagem do mouse para baixo nas batalhas.
 Reverte os comandos associados aos botões direito e esquerdo do mouse.
 Retorna as configurações do mouse ao seu valor padrão.
 Define as configurações de som. O jogo deve ser reiniciado para que as mudanças sejam aplicadas.
-Altera o estilo de maneja da arma.
+Altera o estilo de combate.
 O estilo de manejo da arma não pode ser alterado se uma arma de duas mãos ou um escudo estiver equipado.
 Troca a função de salvamento automático.
 Salvando...
@@ -16572,7 +16572,7 @@ Classificação
 Sistema
 Idioma
 Textura
-Imagens por segundo
+Quadros por segundo
 Tela de Batalha
 Tela do Mundo
 Teclado
@@ -16583,7 +16583,7 @@ Menu
 Mundo
 Batalha
 Sistema
-Estilo de Manejo da Arma
+Estilo de Combate
 Estilos de Manejo da Arma
 Vezes Concluídas
 Automático
@@ -16782,16 +16782,16 @@ Anular reserva
 )<f8fff4fff8ff010000001ce0> Mudar ordem dos personagens
 Apresentar relatório
 '<f8fff4fff8ff010000001ce0> Mostrar no topo da lista
-'<f8fff4fff8ff010000001ce0> Cancela mostrar no topo da lista
-'<f8fff4fff8ff010000001ce0> Criar arte <1be0ff66ffff>indisponível
-'<f8fff4fff8ff010000001ce0> Criar arte <1be066ffffff>disponível
+'<f8fff4fff8ff010000001ce0> Não mostrar no topo da lista
+'<f8fff4fff8ff010000001ce0> Desabilitar <1be0ff66ffff>arte
+'<f8fff4fff8ff010000001ce0> Habilitar <1be066ffffff>arte
 *<f8fff4fff8ff010000001ce0> Encolher
 *<f8fff4fff8ff010001001ce0> Encolher
 +<f8fff4fff8ff010000001ce0> Ampliar
 +<f8fff4fff8ff010001001ce0> Ampliar
-(<f8fff4fff8ff010000001ce0> Limpar ligação(ões)
-F<f8fff4fff8ff010000001ce0> Modo Turbo <1be066ffffff>On
-F<f8fff4fff8ff010000001ce0> Modo Turbo <1be0ff66ffff>Off
+(<f8fff4fff8ff010000001ce0> Limpar configuração de teclas e botões
+F<f8fff4fff8ff010000001ce0> Modo Turbo <1be066ffffff>Sim
+F<f8fff4fff8ff010000001ce0> Modo Turbo <1be0ff66ffff>Não
 Outro
 Ervas
 Poções
@@ -16799,31 +16799,31 @@ Locões
 Explosivos
 Cristais
 Armadilhas
-Ore
-Vegetação
+Minério
+Plantas
 Metais
 Minerais
-Monster Components
+Componentes
 Sistema
-Tela
-teclado
+Gráficos
+Teclado
 Controle
 Mouse
 Resolução/Modo
 [Janela]
-[Tela Inteira]
-Movimento ocioso
-Sem Pausa
-Pausa
+[Tela Cheia]
+Modo Inativo
+Seguir no jogo
+Pausar o jogo
 *Disponível apenas no modo Janela.
 Idioma [Texto]
 Idioma [Voz]
-Japanese
-English
-Français
+Japonês
+Inglês
+Francês
 Italiano
-Deutsch
-Español
+Alemão
+Espanhol
 *O jogo será reiniciado após a conclusão da configuração.
 Textura - Personagens
 Textura - Mundo
@@ -16833,18 +16833,18 @@ NADA
 BAIXA QUALIDADE
 MÉDIA QUALIDADE
 ALTA QUALIDADE
-Taxa de quadros Máxima
+Máximo de quadros por segundo
 30
 60
-Sombra
-Nível de Efeitos
+Sombras
+Nível dos Efeitos
 Perto
 Longe
-Distancia LOD Personagem
-Distancia Clip Personagem
+Distância detalhe personagem
+Distância visualização personagem
 Tipo de Teclado
-*<1ce0>Requirido
-None
+*<1ce0>Obrigatório
+Nenhum
 Cursor [Cima]
 Cursor [Baixo]
 Cursor [Esquerda]
@@ -16854,108 +16854,108 @@ Cancelar
 Rolagem da Página
 Rolagem da Página [Cima]
 Rolagem da Página [Baixo]
-Tela de Informação
-Modelo Tela de Ajuda
+Mostrar Informação
+Mostrar Ajuda
 Marcação
-Voltar as configurações Padrão
-Chamar Comando de Classificação
+Restaurar a configuração padrão
+Ordenar
 Alternar Página [Esquerda]
 Alternar Página [Direita]
-Mover Personagem [Frente]
-Mover Personagem [Trás]
-Mover Personagem [Esquerda]
-Mover Personagem [Direita]
+Mover Personagem [Para frente]
+Mover Personagem [Para trás]
+Mover Personagem [Para a esquerda]
+Mover Personagem [Para a direita]
 Câmera [Cima]
 Câmera [Baixo]
 Câmera [Esquerda]
 Câmera [Direita]
-Posição da Câmera: Padrão
-Posição da Câmera: Zoom Perto
-Posição da Câmera: Zoom Longe
-Cursor de Alvo [Esquerda]
-Cursor de Alvo [Direita]
-Cursor Cancelar Alvo
-Travar Alvo
+Posição da câmera: padrão
+Posição da câmera: próxima
+Posição da câmera: afastada
+Cursor de alvo [Esquerda]
+Cursor de alvo [Direita]
+Cancelar cursor de alvo
+Travar alvo
 Ações
-gatilho de Encontrar Monstros
+Iniciar combate
 Dobra Temporal
-Chamar Menu do Grupo
-Chamar Mapa de Navegação
+Exibir Menu Principal
+Exibir Mapa de Navegação
 Sair para o Mapa da Cidade/Mundo
-Gatilho Crítico [Cima]
-Gatilho Crítico [Baixo]
-Gatilho Crítico [Esquerda]
-Gatilho Crítico [Direita]
-Gatilho Crítico [Centro]
+Movimento Crítico [Cima]
+Movimento Crítico [Baixo]
+Movimento Crítico [Esquerda]
+Movimento Crítico [Direita]
+Movimento Crítico [Centro]
 Modo Turbo
 Pausar
-Pular Evento
-Reset Suave
-Redefinir vínculos de teclado
-Exibição do Sinal da Tecla
+Pular Cena
+Reinício parcial
+Restaurar configuração de teclado
+Tipo de botões mostrados
 Controle Xbox 360 para Windows
 Controle
 Teclado
-Atribuir Função de Movimento
-Atribuir Configurações da Câmera
-Definir
+Atribuir função de movimento
+Atribuir configuração de câmera
+Atribuir
 Nada
-Predefinido
+Valores predefinidos
 Tipo A
 Tipo B
 Tipo C
 Tipo D
 Tipo E
 Tipo F
-Configurações da Câmera do Mouse
+Configuração da câmera no Mouse
 Nenhum
-Padrão
-Arrastar botão esquerdo
-Arrastar botão central
-Arrastar botão direito
-Botão Esquerdo
-Botão Direito
-Botão Central
-Roda de Deslocamento [Cima]
-Roda de Deslocamento [Baixo]
+Normal
+Ao manter pressionado o botão esquerdo
+Ao manter pressionado o botão central
+Ao manter pressionado o botão direito
+Botão esquerdo
+Botão direito
+Botão central
+Botão de rolagem [Cima]
+Botão de rolagem [Baixo]
 Inverter botões esquerdo e direito
-Redefinir vínculos do mouse
-Surround
-Estéreo
-Surround
-Configurações do Gatilho Crítico
-%<f8fff4fff8ff010000001ce0> Estilo de Empunhadura
-Mudar estilo de empunhadura
+Restaurar configuração do mouse
+Som surround
+Som estéreo
+Som surround
+Configuração do Movimento Crítico
+%<f8fff4fff8ff010000001ce0> Estilo de combate
+Mudar estilo de combate
 Salvar automaticamente
-On
-Off
+Sim
+Não
 Hardware
 Software
-Controle de Som
-Efeitos de Luz de Batalha
-Nível LOD do Modelo do Personagem
-Off
-On
-Resetar
-Vozes de Batalha
-On
-Off
-Profundidade de Campo em Batalha
-On
-Off
+Controle de som
+Efeitos de luz em batalhas
+Nível de detalhe dos personagens
+Não
+Sim
+Restaurar
+Vozes em batalha
+Sim
+Não
+Profundidade de campo em batalha
+Sim
+Não
 Sensibilidade
-Baixo
-Alto
-Efeitos de Luz de Campo/Eventos
-Off
-On
-Baixo
-Alto
+Baixa
+Alta
+Efeitos de luz fora do campo de batalha
+Não
+Sim
+Baixa
+Alta
 Menu Misc dummy
 eqonly_name<0000> apenas
 reward_kingaku
 ???
-PARCEIRO
+CONVIDADO
 CONVOCAR
 VAZIO
 Personagens na reserva
