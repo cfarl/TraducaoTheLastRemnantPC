@@ -16865,10 +16865,10 @@ Mover Personagem [Frente]
 Mover Personagem [Trás]
 Mover Personagem [Esquerda]
 Mover Personagem [Direita]
-Camera [Cima]
-Camera [Baixo]
-Camera [Esquerda]
-Camera [Direita]
+Câmera [Cima]
+Câmera [Baixo]
+Câmera [Esquerda]
+Câmera [Direita]
 Posição da Câmera: Padrão
 Posição da Câmera: Zoom Perto
 Posição da Câmera: Zoom Longe
@@ -16894,13 +16894,13 @@ Reset Suave
 Redefinir vínculos de teclado
 Exibição do Sinal da Tecla
 Controle Xbox 360 para Windows
-Gamepad
+Controle
 Teclado
 Atribuir Função de Movimento
 Atribuir Configurações da Câmera
 Definir
-None
-Presete
+Nada
+Predefinido
 Tipo A
 Tipo B
 Tipo C
@@ -16936,7 +16936,7 @@ Efeitos de Luz de Batalha
 Nível LOD do Modelo do Personagem
 Off
 On
-Reset
+Resetar
 Vozes de Batalha
 On
 Off
