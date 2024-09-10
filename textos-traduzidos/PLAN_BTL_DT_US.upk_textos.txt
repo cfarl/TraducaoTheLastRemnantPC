@@ -10270,18 +10270,18 @@ Mochila III
 Asas de Morcego
 Asas de Morcego II
 Asas de Morcego III
-Porcelain Chain
-Porcelain Blast
-Porcelain Destruction
-Mystic Seal
-Mystic Seal II
-Mystic Seal III
-The Slayer
-The Slayer II
-The Slayer III
-Eremurus Rain
-Eremurus Storm
-Eremurus Stream
+Corrente de Porcenala
+Explosão de Porcenala
+Destruição de Porcenala
+Selo Místico
+Selo Místico II
+Selo Místico III
+O Caçador
+O Caçador II
+O Caçador III
+Chuva Eremurus
+Tempestade Eremurus
+Fluxo Eremurus
 Element Type dummy
 Nenhum
 Corte
