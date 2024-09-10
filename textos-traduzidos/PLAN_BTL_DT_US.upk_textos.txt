@@ -16874,7 +16874,7 @@ Posição da Câmera: Zoom Perto
 Posição da Câmera: Zoom Longe
 Cursor de Alvo [Esquerda]
 Cursor de Alvo [Direita]
-Cursor de Cancelar
+Cursor Cancelar Alvo
 Travar Alvo
 Ações
 gatilho de Encontrar Monstros
