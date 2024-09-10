@@ -16783,174 +16783,174 @@ Anular reserva
 Apresentar relatório
 '<f8fff4fff8ff010000001ce0> Mostrar no topo da lista
 '<f8fff4fff8ff010000001ce0> Cancela mostrar no topo da lista
-'<f8fff4fff8ff010000001ce0> Make art <1be0ff66ffff>unavailable
-'<f8fff4fff8ff010000001ce0> Make art <1be066ffffff>available
-*<f8fff4fff8ff010000001ce0> Shrink
-*<f8fff4fff8ff010001001ce0> Shrink
-+<f8fff4fff8ff010000001ce0> Enlarge
-+<f8fff4fff8ff010001001ce0> Enlarge
-(<f8fff4fff8ff010000001ce0> Clear binding(s)
-F<f8fff4fff8ff010000001ce0> Turbo Mode <1be066ffffff>On
-F<f8fff4fff8ff010000001ce0> Turbo Mode <1be0ff66ffff>Off
-Other
-Herbs
-Potions
-Lotions
-Explosives
-Shards
-Traps
+'<f8fff4fff8ff010000001ce0> Criar arte <1be0ff66ffff>indisponível
+'<f8fff4fff8ff010000001ce0> Criar arte <1be066ffffff>disponível
+*<f8fff4fff8ff010000001ce0> Encolher
+*<f8fff4fff8ff010001001ce0> Encolher
++<f8fff4fff8ff010000001ce0> Ampliar
++<f8fff4fff8ff010001001ce0> Ampliar
+(<f8fff4fff8ff010000001ce0> Limpar ligação(ões)
+F<f8fff4fff8ff010000001ce0> Modo Turbo <1be066ffffff>On
+F<f8fff4fff8ff010000001ce0> Modo Turbo <1be0ff66ffff>Off
+Outro
+Hervas
+Poções
+Locões
+Explosivos
+Cristais
+Armadilhas
 Ore
-Vegetation
-Metals
-Minerals
+Vegetação
+Metais
+Minerais
 Monster Components
-System
-Graphics
-Keyboard
-Gamepad
+Sistema
+Tela
+teclado
+Controle
 Mouse
-Resolution/Mode
-[Windowed]
-[Full Screen]
-Idle Movement
-No Pause
-Pause
-*This is available only in windowed mode.
-Language [Text]
-Language [Voice]
+Resolução/Modo
+[Janela]
+[Tela Inteira]
+Movimento ocioso
+Sem Pausa
+Pausa
+*Disponível apenas no modo Janela.
+Idioma [Texto]
+Idioma [Voz]
 Japanese
 English
 Français
 Italiano
 Deutsch
 Español
-*The game will restart after settings are complete.
-Texture - Characters
-Texture - World
-Texture - Shadow
-Texture - Others
-NONE
-LOW QUALITY
-MEDIUM QUALITY
-HIGH QUALITY
-Maximum Frame Rate
+*O jogo será reiniciado após a conclusão da configuração.
+Textura - Personagens
+Textura - Mundo
+Textura - Sombras
+Textura - Outros
+NADA
+BAIXA QUALIDADE
+MÉDIA QUALIDADE
+ALTA QUALIDADE
+Taxa de quadros Máxima
 30
 60
-Shadow
-Effect Levels
-Near
-Far
-Character LOD Distance
-Character Clip Distance
-Keyboard Type
-*<1ce0>Required
+Sombra
+Nível de Efeitos
+Perto
+Longe
+Distancia LOD Personagem
+Distancia Clip Personagem
+Tipo de Teclado
+*<1ce0>Requirido
 None
-Cursor [Up]
-Cursor [Down]
-Cursor [Left]
-Cursor [Right]
-Confirm
-Cancel
-Page Scroll
-Scroll Page [Up]
-Scroll Page [Down]
-Information Display
-Help Model Display
-Marking
-Return to Default Settings
-Call Up Sort Command
-Toggle Page [Left]
-Toggle Page [Right]
-Move Character [Forward]
-Move Character [Backward]
-Move Character [Left]
-Move Character [Right]
-Camera [Up]
-Camera [Down]
-Camera [Left]
-Camera [Right]
-Camera Position: Default
-Camera Position: Zoom In
-Camera Position: Zoom Out
-Target Cursor [Left]
-Target Cursor [Right]
-Cancel Target Cursor
-Lock Target
-Actions
-Monster Encounter Trigger
+Cursor [Cima]
+Cursor [Baixo]
+Cursor [Esuerda]
+Cursor [Direita]
+Confirmar
+Cancelar
+Rolagem da Página
+Rolagem da Página [Cima]
+Rolagem da Página [Baixo]
+Tela de Informação
+Modelo Tela de Ajuda
+Marcação
+Voltar as configurações Padrão
+Chamar Comando de Classificação
+Alternar Página [Esquerda]
+Alternar Página [Direita]
+Mover Personagem [Frente]
+Mover Personagem [Trás]
+Mover Personagem [Esquerda]
+Mover Personagem [Direita]
+Camera [Cima]
+Camera [Baixo]
+Camera [Esquerda]
+Camera [Direita]
+Posição da Câmera: Padrão
+Posição da Câmera: Zoom Perto
+Posição da Câmera: Zoom Longe
+Cursor de Alvo [Esquerda]
+Cursor de Alvo [Direita]
+Cursor de Cancelar
+Travar Alvo
+Ações
+gatilho de Encontrar Monstros
 Dobra Temporal
-Call Up Party Menu
-Call Up Navigation Map
-Exit to City/World Map
-Critical Trigger [Up]
-Critical Trigger [Down]
-Critical Trigger [Left]
-Critical Trigger [Right]
-Critical Trigger [Center]
-Turbo Mode
-Pause
-Event Skip
-Soft Reset
-Reset keyboard bindings
-Key Signal Display
-Xbox 360 Controller for Windows
+Chamar Menu do Grupo
+Chamar Mapa de Navegação
+Sair para o Mapa da Cidade/Mundo
+Gatilho Crítico [Cima]
+Gatilho Crítico [Baixo]
+Gatilho Crítico [Esquerda]
+Gatilho Crítico [Direita]
+Gatilho Crítico [Centro]
+Modo Turbo
+Pausar
+Pular Evento
+Reset Suave
+Redefinir vínculos de teclado
+Exibição do Sinal da Tecla
+Controle Xbox 360 para Windows
 Gamepad
-Keyboard
-Assign Movement Function
-Assign Camera Settings
-Set
+Teclado
+Atribuir Função de Movimento
+Atribuir Configurações da Câmera
+Definir
 None
-Preset
-Type A
-Type B
-Type C
-Type D
-Type E
-Type F
-Mouse Camera Settings
-None
-Standard
-Left button drag
-Center button drag
-Right button drag
-Left Button
-Right Button
-Center Button
-Scroll Wheel [Up]
-Scroll Wheel [Down]
-Reverse left and right buttons
-Reset mouse bindings
+Presete
+Tipo A
+Tipo B
+Tipo C
+Tipo D
+Tipo E
+Tipo F
+Configurações da Câmera do Mouse
+Nenhum
+Padrão
+Arrastar botão esquerdo
+Arrastar botão central
+Arrastar botão direito
+Botão Esquerdo
+Botão Direito
+Botão Central
+Roda de Deslocamento [Cima]
+Roda de Deslocamento [Baixo]
+Inverter botões esquerdo e direito
+Redefinir vínculos do mouse
 Surround
-Stereo
+Estéreo
 Surround
-Critical Trigger Settings
-%<f8fff4fff8ff010000001ce0> Wield Style
-Change wield style
-Auto Save
+Configurações do Gatilho Crítico
+%<f8fff4fff8ff010000001ce0> Estilo de Empunhadura
+Mudar estilo de empunhadura
+Salvar automaticamente
 On
 Off
 Hardware
 Software
-Sound Control
-Battle Light Effects
-Character Model LOD Level
+Controle de Som
+Efeitos de Luz de Batalha
+Nível LOD do Modelo do Personagem
 Off
 On
 Reset
-Battle Voices
+Vozes de Batalha
 On
 Off
-Depth of Field in Battle
+Profundidade de Campo em Batalha
 On
 Off
-Sensitivity
-Low
-High
-Field/Event Light Effects
+Sensibilidade
+Baixo
+Alto
+Efeitos de Luz de Campo/Eventos
 Off
 On
-Low
-High
+Baixo
+Alto
 Menu Misc dummy
 eqonly_name<0000> apenas
 reward_kingaku
