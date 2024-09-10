@@ -9957,15 +9957,15 @@ Longo Alcance: Alvo Secundário
 Em Espera: Não travado em duelo
 Em Espera: Travado em Duelo
 Não faça nada
-Cure them even if it kills them!
-Snievan, unleash Phantom Pain!
-Zuido, unleash Giant Press!
-Ludope, unleash Galaxy!
-Sisters, unleash Twin Snowpetal!
-Milton, unleash Iron Will!
-Hinnah, unleash Seduction!
-Young, unleash Brawl!
-Khrynia, unleash Dual Snowpetal!
+Cure-os mesmo que isso os mate!
+Snievan, libere Calvário Espectral!
+Zuido, libere Abraço de Gigante!
+Ludope, libere Galáxia!
+Irmãs, libere Pétala Glacial Dupla!
+Milton, libere Vontade de Ferro!
+Hinnah, libere Sedução!
+Young, libere Briga!
+Khrynia, libere Pétala Glacial Duplo!
 Formation dummy
 Posição de Combate
 Posição de Combate II
