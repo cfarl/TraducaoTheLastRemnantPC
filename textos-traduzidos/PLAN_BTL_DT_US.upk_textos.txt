@@ -4730,33 +4730,33 @@ Obrigado.
 Hee hee... mais um.
 Agora estou mais perto da perfeição.
 Inacreditável...
-Only someone of my beauty is worthy of this!
-This is it!
-Wonderful! This will only add to my beauty!
-What? You hideous beast!
-Me... Me want...
-Me... Me get...
-Me... Me make...
-What!? You're just askin' to die!
-Can I?
-Hehe... I've got them all!
-Hehe... I'll play you a new tune.
-You cruel, cruel mitra...
-May I?
-Thank you.
-I wanted this.
-Don't make me hurt you.
+Só alguém com a minha beleza é digno disto!
+Isso ai!
+Maravilha! Isto só vai aumentar a minha beleza!
+O quê? Sua horrível besta!
+Eu... Eu querer...
+Eu... Eu pegar...
+Eu... Eu fazer...
+O quê!? Você só está pedindo pra morrer!
+Posso?
+Hehe... Eu peguei todos!
+Hehe... Vou tocar uma nova música pra você.
+Você cruel, cruel mitra...
+Posso?
+Obrigado.
+Eu queria isto.
+Não me obrigue a te machucar.
 Hm.
-Good.
-This should do.
-You little...
-That's mine, right?
-Haha, suckers! It's mine!
-Perfect!
-That's not cool...
-Thanks for comin'!
-This should do it!
-Oh yeah! I'm the king!
+Bom.
+Isto deve dar.
+Seu maldito...
+Isso é meu, certo?
+Haha, otários! É meu!
+Perfeito!
+Isso não é legal...
+Obrigado por vir!
+Isto deve servir!
+Oh, sim! Eu sou o rei!
 Awww...
 PT dummy text
 Rush, preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que temos tempo para procurar?
@@ -6221,358 +6221,358 @@ Artes de combate, sem dúvida.
 Heh heh...hahahahahaha!!!
 Artes místicas, claro.
 Heh heh...hahahahahaha!!!
-I need <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Have we the time to go in search of some?
-Alright!
-How wonderful!
-Sorry.
-Oh, how I want it!
-I need <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Might I have it?
-Sure!
-How wonderful!
-Mmm, no, sorry.
-Oh, how I want it!
-Have we the time to go and fight some<03e0>battles? Beauty is not maintained by rest.
-Alright!
-How wonderful!
-Sorry.
-Oh, how I long to fight!
-To learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, or continue<03e0>with training...<03e0>Which is my chosen path?
-Anything new is worth trying!
-Perhaps that is also beauty.
-Focus on what you've got!
-Perhaps that is also beauty.
-Decide that for yourself.
-I must have been mad, asking an ugly<03e0>beast such as yourself.
-To learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, or continue<03e0>with training...<03e0>Which is my chosen path?
-Anything new is worth trying!
-Perhaps that is also beauty.
-Focus on what you've got!
-Perhaps that is also beauty.
-Decide that for yourself.
-I must have been mad, asking an ugly<03e0>beast such as yourself.
-What might I do to magnify my beauty?
-Jack-of-all-trades is ace.
-Perhaps that is also beauty.
-Combat arts, for sure.
-Perhaps that is also beauty.
-Mystic arts, for sure.
-Perhaps that is also beauty.
-What might I do to magnify my beauty?
-Jack-of-all-trades is ace.
-I see. That is indeed beauty!
-Combat arts, for sure.
-I see. That is indeed beauty!
-Mystic arts, for sure.
-I see. That is indeed beauty!
-M-me want <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Me go...get.
-Alright!
-M-me happy.
-Sorry.
-M-me sad.
-M-me want <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Me...take.
-Alright!
-M-me happy.
-Mmm, no, sorry.
-M-me sad.
-If we got any spare time, let's hit some<03e0>battlefields! I gotta taste for blood!
-Alright!
-I like the sound of that!
-Sorry.
-I don't like the sound of that...
-Think I should learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or keep trainin'<03e0>what I got?
-Anything new is worth trying!
-I like that!
-Focus on what you've got!
-I like that!
-Decide that for yourself.
+Preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Temos tempo para sair em busca de alguns?
+Tudo bem!  
+Que maravilhoso!  
+Desculpa.  
+Oh, como eu quero isso!
+Preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que posso tê-lo?
+Claro!
+Que maravilha!  
+Hmm, não, desculpa.  
+Oh, como eu quero isso!
+Temos tempo para ir e lutar contra algumas<03e0>batalhas? A beleza não se mantém pelo descanso.
+Tudo bem!  
+Que maravilhoso!  
+Desculpa.  
+Ah, como anseio lutar!
+Para aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, ou continuar<03e0>com treinamento...<03e0>Qual meu caminho escolhido?
+Qualquer coisa nova vale a pena tentar!  
+Talvez isso também seja belo.  
+Concentre-se no que você tem!  
+Talvez isso também seja belo.  
+Decida isso por si mesmo.
+Eu devo ter estado louco, pedindo a uma besta<03e0>feia como você.
+Para aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, ou continuar<03e0>com treinamento...<03e0>Qual meu caminho escolhido?
+Qualquer coisa nova vale a pena tentar!  
+Talvez isso também seja belo.  
+Concentre-se no que você tem!  
+Talvez isso também seja belo.  
+Decida isso por si mesmo.
+Eu devo ter estado louco, pedindo a uma besta<03e0>feia como você.
+O que eu poderia fazer para magnificar minha beleza?  
+Um verdadeiro faz-tudo é excelente.   
+Talvez isso também seja beleza.  
+As artes de combate, com certeza.  
+Talvez isso também seja beleza.  
+As artes místicas, com certeza.  
+Talvez isso também seja beleza.
+O que eu poderia fazer para magnificar minha beleza?  
+Um verdadeiro faz-tudo é excelente.   
+Talvez isso também seja beleza.  
+As artes de combate, com certeza.  
+Talvez isso também seja beleza.  
+As artes místicas, com certeza.  
+Talvez isso também seja beleza.
+E-eu querer <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Eu ir...buscar.
+Tudo bem!
+E-eu feliz.
+Desculpe.
+E-eu triste.
+E-eu querer <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Eu...pegar.
+Tudo bem!
+E-eu feliz.
+Mmm, não, desculpe.
+E-eu triste.
+Se tivermos algum tempo livre, vamos atacar alguns<03e0>campos de batalha! Estou com sede de sangue!
+Tudo bem!
+Eu gosto de como isso soa!
+Desculpe.
+Eu não gosto de como isso soa...
+Acho que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0> o que vai ser?
+Qualquer coisa nova vale a pena tentar!  
+Eu gosto disso!  
+Concentre-se no que você tem!  
+Eu gosto disso!  
+Decida isso por si mesmo.  
+Humph.
+Acho que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que vai ser?
+Qualquer coisa nova vale a pena tentar!  
+Eu gosto disso!  
+Concentre-se no que você tem!  
+Eu gosto disso!  
+Decida isso por si mesmo.  
+Humph.
+Oq-que eu fazer?
+Um verdadeiro faz-tudo é excelente. 
+E-eu sim.
+Artes de Combate, com certeza.
+E-eu sim.
+Artes Misticas, com certeza.
+E-eu sim.
+O que eu preciso fazer para provar mais sangue?
+Um verdadeiro faz-tudo é excelente. 
+Então me deixe mostrar o que eu tenho!
+Artes de Combate, com certeza.
+Então me deixe mostrar o que eu tenho!
+Artes Místicas, com certeza.
+Então me deixe mostrar o que eu tenho!
+Eu quero <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Vamos encontrar alguns.
+Tudo bem!
+Beleza.
+Desculpa.
+Merda!
+Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Posso ficar com isso? Posso?
+Claro!
+Beleza.
+Mmm, não, desculpa.
+Merda!
+Se tivermos algum tempo, vamos sair e <03e0>fazer um pouco de exercício. Minha cabeça está doendo <03e0>e eu não consigo ficar parado.
+Claro!
+Qual é, vamos lá!
+Mmm, não, desculpa.
+Minha cabeça...está doendo...
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei?
+Qualquer coisa nova vale a pena tentar!  
+Você está certo.  
+Concentre-se no que você tem!  
+Você está certo.  
+Decida isso por si mesmo.  
+Você está certo.  
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei?
+Qualquer coisa nova vale a pena tentar!  
+Você está certo.  
+Concentre-se no que você tem!  
+Você está certo.  
+Decida isso por si mesmo.  
+Você está certo. 
+Em quê eu deveria me focar?
+Um verdadeiro faz-tudo é excelente. 
+Sim, você está certo.  
+Artes de Combate, com certeza.  
+Sim, você está certo.  
+Artes Místicas, com certeza.  
+Sim, você está certo.
+O quê devo fazer?
+Um verdadeiro faz-tudo é excelente. 
+Você está certo. Chega de ficar pensando.  
+Artes de Combate, com certeza.  
+Você está certo. Chega de ficar pensando.  
+Artes Místicas, com certeza.  
+Você está certo. Chega de ficar pensando.
+Rush, eu preciso <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Temos tempo para reunir alguns?
+Tudo bem!
+Obrigado.
+Desculpa.
+Entendo...
+Estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Posso ficar?
+Claro!
+Obrigado.
+Mmm, não, desculpa.
+Entendo...
+Se tivermos tempo, poderíamos testar nossas<03e0>habilidades nos campos de batalha?
+Tudo bem!
+Você me fez muito feliz.
+Desculpa.
+Oh? E eu pensei que éramos amigos.
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei? O que você acha?
+Qualquer coisa nova vale a pena tentar!  
+É isso que eu vou escolher.  
+Concentre-se no que você já tem!  
+É isso que eu vou escolher.  
+Decida isso por si mesmo.  
+Eu não esperava isso de você.
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei? O que você acha?
+Qualquer coisa nova vale a pena tentar!  
+É isso que eu vou escolher.  
+Concentre-se no que você já tem!  
+É isso que eu vou escolher.  
+Decida isso por si mesmo.  
+Eu não esperava isso de você.
+Rush, não tenho ideia do que focar...
+Um verdadeiro faz-tudo é excelente. 
+É isso que eu vou escolher. 
+Artes de Combate, com certeza.
+É isso que eu vou escolher.
+Artes Místicas, com certeza.
+É isso que eu vou escolher. 
+Rush, perdi o foco.<03e0>Em que devo me concentrar?
+Um verdadeiro faz-tudo é excelente. 
+É isso que eu vou escolher.<03e0>Obrigado, Rush.
+Artes de Combate, com certeza.
+É isso que eu vou escolher.<03e0>Obrigado, Rush.
+Artes Místicas arts, for sure.
+É isso que eu vou escolher.<03e0>Obrigado, Rush.
+Vamos sair e reunir <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Isso é, se tivermos tempo sobrando.
+Tudo bem!
+Hrm.
+Desculpa.
 Hmph.
-Think I should learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or keep trainin'<03e0>what I got?
-Anything new is worth trying!
-I like that!
-Focus on what you've got!
-I like that!
-Decide that for yourself.
+Isso <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é meu.
+Claro!
+Hrm.
+Mmm, não, desculpa.
 Hmph.
-Wh-what me do?
-Jack-of-all-trades is ace.
-M-me yes.
-Combat arts, for sure.
-M-me yes.
-Mystic arts, for sure.
-M-me yes.
-What do I gotta do to taste more blood?
-Jack-of-all-trades is ace.
-Then lemme show you what I got!
-Combat arts, for sure.
-Then lemme show you what I got!
-Mystic arts, for sure.
-Then lemme show you what I got!
-I want <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Let's go find some.
-Alright!
-Nice.
-Sorry.
-Damn!
-That <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Can I have it? Can I?
-Sure!
-Nice.
-Mmm, no, sorry.
-Damn!
-If we have some time, let's go out and<03e0>get some exercise. My head is pounding<03e0>and I can't sit still.
-Sure!
-Come on, let's go!
-Mmm, no, sorry.
-My head...it hurts...
-Should I learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or keep training<03e0>what I know?
-Anything new is worth trying!
-You're right.
-Focus on what you've got!
-You're right.
-Decide that for yourself.
-You're right.
-Should I learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or keep training<03e0>what I know?
-Anything new is worth trying!
-You're right.
-Focus on what you've got!
-You're right.
-Decide that for yourself.
-You're right.
-What should I focus on?
-Jack-of-all-trades is ace.
-Yeah, you're right.
-Combat arts, for sure.
-Yeah, you're right.
-Mystic arts, for sure.
-Yeah, you're right.
-What should I do?
-Jack-of-all-trades is ace.
-You're right. No more dwelling.
-Combat arts, for sure.
-You're right. No more dwelling.
-Mystic arts, for sure.
-You're right. No more dwelling.
-Rush, I need <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Do we have time to gather some?
-Alright!
-Thank you.
-Sorry.
-I see...
-I'm in need of <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Might I have it?
-Sure!
-Thank you.
-Mmm, no, sorry.
-I see...
-If we have the time, might we test our<03e0>skills out in the battlefields?
-Alright!
-You've made me very happy.
-Sorry.
-Oh? And here I thought we were friends.
-Should I learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or keep training<03e0>what I know? What do you think?
-Anything new is worth trying!
-That's what I'll go with.
-Focus on what you've got!
-That's what I'll go with.
-Decide that for yourself.
-I didn't expect that from you.
-Should I learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or keep training<03e0>what I know? What do you think?
-Anything new is worth trying!
-That's what I'll go with.
-Focus on what you've got!
-That's what I'll go with.
-Decide that for yourself.
-I didn't expect that from you.
-Rush, I've no idea what to focus on...
-Jack-of-all-trades is ace.
-That's what I'll go with.
-Combat arts, for sure.
-That's what I'll go with.
-Mystic arts, for sure.
-That's what I'll go with.
-Rush, I've lost focus.<03e0>What should I concentrate on?
-Jack-of-all-trades is ace.
-That's what I'll go with.<03e0>Thank you, Rush.
-Combat arts, for sure.
-That's what I'll go with.<03e0>Thank you, Rush.
-Mystic arts, for sure.
-That's what I'll go with.<03e0>Thank you, Rush.
-Let us go and gather <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>That is, if we have time to spare.
-Alright!
-Hrm.
-Sorry.
+Se houver tempo sobrando, os campos de batalha nos aguardam.  
+Tudo bem!  
+Hrm.  
+Desculpe.
 Hmph.
-That <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> is mine.
-Sure!
+Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é necessário?<03e0>Ou devo continuar meu treinamento?
+Qualquer coisa nova vale a pena tentar!  
+Sim. Sim.  
+Concentre-se no que você tem!  
+Hrm.  
+Decida isso por si mesmo.  
+Criança impertinente.
+Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é necessário?<03e0>Ou devo continuar meu treinamento?
+Qualquer coisa nova vale a pena tentar!  
+Sim. Sim.  
+Concentre-se no que você tem!  
+Hrm.  
+Decida isso por si mesmo.  
+Criança impertinente.
+Para onde meu caminho me leva...?
+Um verdadeiro faz-tudo é excelente. 
 Hrm.
-Mmm, no, sorry.
-Hmph.
-If there is time to spare, the battlefields await us.
-Alright!
+Artes de Combate, com certeza.
 Hrm.
-Sorry.
-Hmph.
-Is learning <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> a necessity?<03e0>Or shall I continue my training?
-Anything new is worth trying!
-Yes. Yes.
-Focus on what you've got!
+Artes Místicas, com certeza.
 Hrm.
-Decide that for yourself.
-Impudent child.
-Is learning <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> a necessity?<03e0>Or shall I continue my training?
-Anything new is worth trying!
-Yes. Yes.
-Focus on what you've got!
+Para onde meu caminho me leva...?<03e0>Eu nunca estive tão incerto antes...
+Um verdadeiro faz-tudo é excelente. 
 Hrm.
-Decide that for yourself.
-Impudent child.
-Where does my path lead me...?
-Jack-of-all-trades is ace.
+Artes de Combate, com certeza.
 Hrm.
-Combat arts, for sure.
+Artes Místicas, com certeza.
 Hrm.
-Mystic arts, for sure.
-Hrm.
-Where does my path lead me...?<03e0>I have never been unsure before...
-Jack-of-all-trades is ace.
-Hrm.
-Combat arts, for sure.
-Hrm.
-Mystic arts, for sure.
-Hrm.
-I need <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!<03e0>Come on! Let's get going!
-Alright!
-That's what I'm talking about!
-Sorry.
-You're no fun.
-I need that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> that you got.<03e0>You're gonna give it to me, right?
-Sure!
-Thanks!
-Mmm, no, sorry.
-What'd you say!?
-Come on, Rush!<03e0>Let's go out and find some guys to fight!<03e0>I'm bored!
-Alright!
-Nice!<03e0>Looking forward to it!
-Sorry.
-Useless!
-Should I learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Or should I keep training?
-Anything new is worth trying!
-If you say so.
-Focus on what you've got!
-If you say so.
-Decide that for yourself.
-Yeah, you're probably right.
-Should I learn <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Or should I keep training?
-Anything new is worth trying!
-If you say so.
-Focus on what you've got!
-If you say so.
-Decide that for yourself.
-Yeah, you're probably right.
-I've lost sight of what I need to focus on...<03e0>Help me out.
-Jack-of-all-trades is ace.
-Sounds good!
-Combat arts is the way to go.
-Sounds good!
-Mystic arts, for sure.
-Sounds good!
-I've lost sight of what I need to focus on...<03e0>Help me out.
-Jack-of-all-trades is ace.
-You got it!
-Combat arts is the way to go.
-You got it!
-Mystic arts, for sure.
-You got it!
-We got some time?<03e0>I need to pick up <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.
-Alright!
-I like your way of thinking!
-Sorry.
+Eu preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!<03e0>Qual é! Vamos lá!
+Tudo bem!
+É disso que eu estava falando!
+Desculpa.
+Você não sem graça.
+Eu preciso daquele <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> que você tem.<03e0> Você vai me dar, certo?
+Claro!
+Obrigado!
+Mmm, não, desculpa.
+O quê você disse!?
+Qual é, Rush!<03e0>Vamos sair e encontrar alguns caras para lutar!<03e0>Estou entediado!
+Tudo bem!
+Legal!<03e0> Estou ansioso por isso!
+Desculpa.
+Inútil!
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou devo continuar treinando?
+Qualquer coisa nova vale a pena tentar!  
+Se você está dizendo. 
+Concentre-se no que você tem!  
+Se você está dizendo.  
+Decida isso por si mesmo.  
+Sim, você provavelmente está certo. 
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>? <03e0>Ou devo continuar treinando?
+Qualquer coisa nova vale a pena tentar!  
+Se você está dizendo. 
+Concentre-se no que você tem!  
+Se você está dizendo.  
+Decida isso por si mesmo.  
+Sim, você provavelmente está certo. 
+Eu esqueci no que preciso me concentrar...<03e0>Me ajude.
+Um verdadeiro faz-tudo é excelente. 
+Parece bom!  
+As Artes de Combate é o caminho a seguir.  
+Parece bom!  
+As Artes Místicas, com certeza.  
+Parece bom!  
+Eu esqueci no que preciso me concentrar...<03e0>Me ajude.
+Um verdadeiro faz-tudo é excelente. 
+Parece bom!  
+As Artes de Combate é o caminho a seguir.  
+Parece bom!  
+As Artes Místicas, com certeza.  
+Parece bom!
+Temos algum tempo?<03e0>Eu preciso pegar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.
+Tudo bem!
+Gosto do seu jeito de pensar!
+Desculpa.
 Huh?
-I need that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Fork it over.
-Sure!
-I like your way of thinking!
-Mmm, no, sorry.
+Eu preciso daquela <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Me dá ela.
+Claro!
+Gosto do seu jeito de pensar!
+Mmm, não, desculpa.
 Huh?
-I know some guys in need of some serious<03e0>hurtin'! We got time to cruise the battlefields?
-Alright!
-I like your way of thinking!
-Sorry.
-What the<07f0>?
-What's better?<03e0>Learning <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or stickin' with what I got?
-Anything new is worth trying!
-Gotcha!
-Focus on what you know.
-Gotcha.
-Decide that for yourself.
-Yeah, sorry.
-What's better?<03e0>Learning <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> or stickin' with what I got?
-Anything new is worth trying!
-Gotcha!
-Focus on what you know.
-Gotcha.
-Decide that for yourself.
-Yeah, sorry.
-Anything I should focus on?
-Jack-of-all-trades is ace.
-I'm always up for a challenge!
-Combat arts is the way to go.
-I'm always up for a challenge!
-Mystic arts, for sure.
-I'm always up for a challenge!
-Can you think of anything I should focus on?
-Jack-of-all-trades is ace.
-Watch out<07f0>here comes Mr. Young!
-Combat arts is the way to go.
-Watch out<07f0>here comes Mr. Young!
-Mystic arts, for sure.
-Watch out<07f0>here comes Mr. Young!
-That <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Might I have it?
-Sure!
-I thank you.
-Mmm, no, sorry.
-Damn...
-Rush, could I borrow that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
-Sure!
-This'll make me useful!
-Mmm, no, sorry.
+Eu conheço alguns caras que precisam de um sério ferimento!<03e0>Temos tempo para dar uma volta pelos campos de batalha?
+Tudo bem!
+Gosto do seu jeito de pensar!
+Desculpa.
+Mas que<07f0>?
+Qual é melhor? <03e0> Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar com o que eu tenho?
+Qualquer coisa nova vale a pena tentar!  
+Entendi!  
+Concentre-se no que você sabe.  
+Entendi.  
+Decida isso por si mesmo.  
+Sim, desculpe.
+Qual é melhor? <03e0> Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar com o que eu tenho?
+Qualquer coisa nova vale a pena tentar!  
+Entendi!  
+Concentre-se no que você sabe.  
+Entendi.  
+Decida isso por si mesmo.  
+Sim, desculpe.
+Alguma coisa na qual eu deva me concentrar?
+Um verdadeiro faz-tudo é excelente. 
+Estou sempre pronto para um desafio!  
+As artes de combate são o caminho a seguir.  
+Estou sempre pronto para um desafio!  
+As artes místicas, com certeza.  
+Estou sempre pronto para um desafio!  
+Você consegue pensar em algo em que eu deva focar?  
+Um verdadeiro faz-tudo é excelente.  
+Cuidado<07f0> lá vem o Sr. Young!  
+As artes de combate são o caminho a seguir.  
+Cuidado<07f0> lá vem o Sr. Young!  
+As artes místicas, com certeza.  
+Cuidado<07f0> lá vem o Sr. Young!  
+Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Posso ficar com isso?
+Claro!
+Eu agradeço.
+Mmm, não, desculpa.
+Merda...
+Rush, posso pegar isso emprestado <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!
+Isso me será útil!
+Mmm, não, desculpa.
 Hrm.
-Rush, would you mind handing <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0>over?
-Sure!
-Thanks!
-Mmm, no, sorry.
-What? Oh...
-C'mon, gimme that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
-Sure!
-You're a pal!
-Mmm, no, sorry.
-You've gotta be kidding me.
-Would you be kind enough to lend me that<03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
-Sure!
-This will make me stronger than ever!
-Mmm, no, sorry.
-But why...?
-That <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Mind if I take it?
-Sure!
+Rush, você se importaria de passar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0> para mim?
+Claro!
+Obrigado!
+Mmm, não, desculpa.
+O Que? Oh...
+Qual é, me dá isso <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
+Claro!
+Você é de mais!
+Mmm, não, desculpa.
+Você só pode estar brincado.
+Você seria tão gentil a ponto de me emprestar aquele <03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!
+Isso me tornará mais forte do que nunca!  
+Mmm, não, desculpe.  
+Mas por quê...?
+Aquele <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Você se importaria se eu pegasse?
+Claro!
 Thanks.
-Mmm, no, sorry.
-What!?
-Rush, can I have that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
-Sure!
-This is great!
-Mmm, no, sorry.
+Mmm, não, desculpe. 
+O Quê!?
+Rush, posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?  
+Claro!  
+Isso é ótimo!  
+Mmm, não, desculpe.
 Oh...
-Can I have that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
-Sure!
-Thanks a bunch!
-Mmm, no, sorry.
-Really? Oh...
-Gimme that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
-Sure!
-Alright! Thanks!
-Mmm, no, sorry.
-No way...
-Rush, may I borrow that <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
-Sure!
-This will help me a great deal!
-Mmm, no, sorry.
-But why...?
-Shopkeeper dummy text
+Posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!  
+Muito obrigado!  
+Mmm, não, desculpe.  
+Sério? Oh...
+Me passa esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
+Claro!
+Muito bom! Obrigado!
+Mmm, não, desculpa.
+Sério isso?...
+Rush, pode me emprestar esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!
+Isso vai me ajudar muito!  
+Mmm, não, desculpe.  
+Mas por que...?  
+dummy text do Comerciante.
 Tenho exatamente o que você precisa. Dê uma olhada!
 Vou comprar tudo que você tiver para vender!
 Parece que você não tem nada para vender.
@@ -6806,27 +6806,27 @@ Isso vai interromper o jogo.<03e0>Deseja continuar?
 Isso vai interromper o jogo.<03e0>O progresso que não foi salvo será perdido.<03e0>Confirmar?
 Essa chave já está associada a um outro comando.<03e0>Deseja associar ela a um novo comando?
 Esse botão já está associado a um outro comando.<03e0>Deseja associar ele a um novo comando?
-Resolution/mode settings have been changed.<03e0>Proceed? If uncomfirmed in the next 15 seconds,<03e0>the game will automatically reset to default settings.
-Returns all key bindings to the default setting.<03e0>Proceed?
-By selecting preset, all current gamepad<03e0>assignments will be lost.<03e0>Proceed?
-Returns all mouse assignments to the default setting.<03e0>Proceed?
-This will reverse the assignments for<03e0>the left and right mouse buttons.<03e0>Proceed?
-Press Up while executing an <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> Action command.<03e0>Execute the <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> Cancel command to quit setup.
-Press Down while executing an <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> Action command.<03e0>Execute the <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> Cancel command to quit setup.
-Press Left while executing an <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> Action command.<03e0>Execute the <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> Cancel command to quit setup.
-Press Right while executing an <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> Action command.<03e0>Execute the <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> Cancel command to quit setup.
-Settings are complete. Confirm entries with<03e0>the lit arrows on the left-hand side.<03e0>To continue, press Yes. Press No to return<03e0>to the selection page.
-The analog stick is assigned to character movement.<03e0>Overwrite with the current command?
-The analog stick is assigned to camera movement.<03e0>Overwrite with the current command?
-Game completion data has been saved.<03e0>Proceed?
-Auto Save data currently exists.<03e0>By activating Auto Save, the current data<03e0>will be overwritten. Proceed?
-The boss monster must be defeated in order to leave this area.<1ce003e01be0ff4060ff>Saving game progress here may result in halting game<1ce003e0>progression<1be0ff4060ff>if the monster cannot be defeated.<1ce003e01be0ff4060ff>Be careful when overwriting save data.<1ce0> Proceed?
-To set the key signal display to the gamepad,<03e0>the current gamepad assignments will reset.<03e0>Proceed?
-To set the key signal display to the Xbox 360 Controller for<03e0>Windows, the current gamepad assignments will reset.<03e0>Proceed?
-This will preset the key signal display to<03e0>the gamepad.<03e0>Proceed?
-This will preset the key signal display to<03e0>the Xbox 360 Controller for Windows.<03e0>Proceed?
-Set battle difficulty.<03e003e0>Play in <1be0ffbe34ff>Hard Mode<1ce0>?<03e0>Select No for normal difficulty.<03e01be0ff4060ff>Once a game has started, the mode cannot be changed.
-The game must be restarted to update settings.<03e0>To continue gameplay, please restart the game.<03e0>End current game?
+As configurações de resolução/modo foram alteradas. <03e0>Prosseguir? Se não confirmado nos próximos 15 segundos,<03e0>o jogo será redefinido automaticamente para as configurações padrão.  
+Retorna todas as vinculações de teclas para as configurações padrão.<03e0>Prosseguir?  
+Ao selecionar predefinição, todas as atribuições atuais do gamepad<03e0>serão perdidas.<03e0>Prosseguir?  
+Retorna todas as atribuições do mouse para as configurações padrão.<03e0>Prosseguir?
+Isso reverterá as atribuições para <03e0>os botões esquerdo e direito do mouse.<03e0> Prosseguir?  
+Pressione Cima enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.  
+Pressione Baixo enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.  
+Pressione Esquerda enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.  
+Pressione Direita enquanto executa um <1be040c0ffff2be0> <f8fff8fff8ff010000001ce0> comando de Ação.<03e0> Execute o <1be040c0ffff2be0>!<f8fff8fff8ff010000001ce0> comando de Cancelar para sair da configuração.
+As configurações estão completas. Confirme as entradas com <03e0>as setas acesas no lado esquerdo.<03e0> Para continuar, pressione Sim. Pressione Não para retornar <03e0>à página de seleção.  
+O controle analógico está atribuído ao movimento do personagem.<03e0> Deseja sobrescrever com o comando atual?  
+O controle analógico está atribuído ao movimento da câmera.<03e0> Deseja sobrescrever com o comando atual?  
+Os dados de conclusão do jogo foram salvos.<03e0> Prosseguir?
+Os dados de Auto Save já existem.<03e0> Ao ativar o Auto Save, os dados atuais<03e0>serão sobrescritos. Prosseguir?  
+O monstro chefe deve ser derrotado para deixar esta área.<1ce003e01be0ff4060ff> Salvar o progresso do jogo aqui pode resultar em uma parada no progresso do jogo <1ce003e0>se o monstro não puder ser derrotado.<1ce003e01be0ff4060ff> Tenha cuidado ao sobrescrever os dados de salvamento.<1ce0> Prosseguir?  
+Para definir a exibição do sinal de tecla para o gamepad,<03e0> as atribuições atuais do gamepad serão redefinidas.<03e0> Prosseguir?  
+Para definir a exibição do sinal de tecla para o Controle Xbox 360 para <03e0>Windows, as atribuições atuais do gamepad serão redefinidas.<03e0> Prosseguir?
+Isso definirá a exibição do sinal de tecla para<03e0> o gamepad.<03e0> Prosseguir?  
+Isso definirá a exibição do sinal de tecla para<03e0> o Controle Xbox 360 para Windows.<03e0> Prosseguir?  
+Defina a dificuldade da batalha.<03e003e0> Jogar em <1be0ffbe34ff>Modo Difícil<1ce0>?<03e0> Selecione Não para a dificuldade normal.<03e01be0ff4060ff> Uma vez que o jogo tenha começado, o modo não pode ser alterado.  
+O jogo deve ser reiniciado para atualizar as configurações.<03e0> Para continuar a jogabilidade, reinicie o jogo.<03e0> Deseja encerrar o jogo atual?
 System Message dummy text
 char_name<0000> se juntou ao grupo!
 char_name<0000> deixou o grupo.
@@ -16783,174 +16783,174 @@ Anular reserva
 Apresentar relatório
 '<f8fff4fff8ff010000001ce0> Mostrar no topo da lista
 '<f8fff4fff8ff010000001ce0> Cancela mostrar no topo da lista
-'<f8fff4fff8ff010000001ce0> Make art <1be0ff66ffff>unavailable
-'<f8fff4fff8ff010000001ce0> Make art <1be066ffffff>available
-*<f8fff4fff8ff010000001ce0> Shrink
-*<f8fff4fff8ff010001001ce0> Shrink
-+<f8fff4fff8ff010000001ce0> Enlarge
-+<f8fff4fff8ff010001001ce0> Enlarge
-(<f8fff4fff8ff010000001ce0> Clear binding(s)
-F<f8fff4fff8ff010000001ce0> Turbo Mode <1be066ffffff>On
-F<f8fff4fff8ff010000001ce0> Turbo Mode <1be0ff66ffff>Off
-Other
-Herbs
-Potions
-Lotions
-Explosives
-Shards
-Traps
+'<f8fff4fff8ff010000001ce0> Criar arte <1be0ff66ffff>indisponível
+'<f8fff4fff8ff010000001ce0> Criar arte <1be066ffffff>disponível
+*<f8fff4fff8ff010000001ce0> Encolher
+*<f8fff4fff8ff010001001ce0> Encolher
++<f8fff4fff8ff010000001ce0> Ampliar
++<f8fff4fff8ff010001001ce0> Ampliar
+(<f8fff4fff8ff010000001ce0> Limpar ligação(ões)
+F<f8fff4fff8ff010000001ce0> Modo Turbo <1be066ffffff>On
+F<f8fff4fff8ff010000001ce0> Modo Turbo <1be0ff66ffff>Off
+Outro
+Ervas
+Poções
+Locões
+Explosivos
+Cristais
+Armadilhas
 Ore
-Vegetation
-Metals
-Minerals
+Vegetação
+Metais
+Minerais
 Monster Components
-System
-Graphics
-Keyboard
-Gamepad
+Sistema
+Tela
+teclado
+Controle
 Mouse
-Resolution/Mode
-[Windowed]
-[Full Screen]
-Idle Movement
-No Pause
-Pause
-*This is available only in windowed mode.
-Language [Text]
-Language [Voice]
+Resolução/Modo
+[Janela]
+[Tela Inteira]
+Movimento ocioso
+Sem Pausa
+Pausa
+*Disponível apenas no modo Janela.
+Idioma [Texto]
+Idioma [Voz]
 Japanese
 English
 Français
 Italiano
 Deutsch
 Español
-*The game will restart after settings are complete.
-Texture - Characters
-Texture - World
-Texture - Shadow
-Texture - Others
-NONE
-LOW QUALITY
-MEDIUM QUALITY
-HIGH QUALITY
-Maximum Frame Rate
+*O jogo será reiniciado após a conclusão da configuração.
+Textura - Personagens
+Textura - Mundo
+Textura - Sombras
+Textura - Outros
+NADA
+BAIXA QUALIDADE
+MÉDIA QUALIDADE
+ALTA QUALIDADE
+Taxa de quadros Máxima
 30
 60
-Shadow
-Effect Levels
-Near
-Far
-Character LOD Distance
-Character Clip Distance
-Keyboard Type
-*<1ce0>Required
+Sombra
+Nível de Efeitos
+Perto
+Longe
+Distancia LOD Personagem
+Distancia Clip Personagem
+Tipo de Teclado
+*<1ce0>Requirido
 None
-Cursor [Up]
-Cursor [Down]
-Cursor [Left]
-Cursor [Right]
-Confirm
-Cancel
-Page Scroll
-Scroll Page [Up]
-Scroll Page [Down]
-Information Display
-Help Model Display
-Marking
-Return to Default Settings
-Call Up Sort Command
-Toggle Page [Left]
-Toggle Page [Right]
-Move Character [Forward]
-Move Character [Backward]
-Move Character [Left]
-Move Character [Right]
-Camera [Up]
-Camera [Down]
-Camera [Left]
-Camera [Right]
-Camera Position: Default
-Camera Position: Zoom In
-Camera Position: Zoom Out
-Target Cursor [Left]
-Target Cursor [Right]
-Cancel Target Cursor
-Lock Target
-Actions
-Monster Encounter Trigger
+Cursor [Cima]
+Cursor [Baixo]
+Cursor [Esquerda]
+Cursor [Direita]
+Confirmar
+Cancelar
+Rolagem da Página
+Rolagem da Página [Cima]
+Rolagem da Página [Baixo]
+Tela de Informação
+Modelo Tela de Ajuda
+Marcação
+Voltar as configurações Padrão
+Chamar Comando de Classificação
+Alternar Página [Esquerda]
+Alternar Página [Direita]
+Mover Personagem [Frente]
+Mover Personagem [Trás]
+Mover Personagem [Esquerda]
+Mover Personagem [Direita]
+Câmera [Cima]
+Câmera [Baixo]
+Câmera [Esquerda]
+Câmera [Direita]
+Posição da Câmera: Padrão
+Posição da Câmera: Zoom Perto
+Posição da Câmera: Zoom Longe
+Cursor de Alvo [Esquerda]
+Cursor de Alvo [Direita]
+Cursor Cancelar Alvo
+Travar Alvo
+Ações
+gatilho de Encontrar Monstros
 Dobra Temporal
-Call Up Party Menu
-Call Up Navigation Map
-Exit to City/World Map
-Critical Trigger [Up]
-Critical Trigger [Down]
-Critical Trigger [Left]
-Critical Trigger [Right]
-Critical Trigger [Center]
-Turbo Mode
-Pause
-Event Skip
-Soft Reset
-Reset keyboard bindings
-Key Signal Display
-Xbox 360 Controller for Windows
-Gamepad
-Keyboard
-Assign Movement Function
-Assign Camera Settings
-Set
-None
-Preset
-Type A
-Type B
-Type C
-Type D
-Type E
-Type F
-Mouse Camera Settings
-None
-Standard
-Left button drag
-Center button drag
-Right button drag
-Left Button
-Right Button
-Center Button
-Scroll Wheel [Up]
-Scroll Wheel [Down]
-Reverse left and right buttons
-Reset mouse bindings
+Chamar Menu do Grupo
+Chamar Mapa de Navegação
+Sair para o Mapa da Cidade/Mundo
+Gatilho Crítico [Cima]
+Gatilho Crítico [Baixo]
+Gatilho Crítico [Esquerda]
+Gatilho Crítico [Direita]
+Gatilho Crítico [Centro]
+Modo Turbo
+Pausar
+Pular Evento
+Reset Suave
+Redefinir vínculos de teclado
+Exibição do Sinal da Tecla
+Controle Xbox 360 para Windows
+Controle
+Teclado
+Atribuir Função de Movimento
+Atribuir Configurações da Câmera
+Definir
+Nada
+Predefinido
+Tipo A
+Tipo B
+Tipo C
+Tipo D
+Tipo E
+Tipo F
+Configurações da Câmera do Mouse
+Nenhum
+Padrão
+Arrastar botão esquerdo
+Arrastar botão central
+Arrastar botão direito
+Botão Esquerdo
+Botão Direito
+Botão Central
+Roda de Deslocamento [Cima]
+Roda de Deslocamento [Baixo]
+Inverter botões esquerdo e direito
+Redefinir vínculos do mouse
 Surround
-Stereo
+Estéreo
 Surround
-Critical Trigger Settings
-%<f8fff4fff8ff010000001ce0> Wield Style
-Change wield style
-Auto Save
+Configurações do Gatilho Crítico
+%<f8fff4fff8ff010000001ce0> Estilo de Empunhadura
+Mudar estilo de empunhadura
+Salvar automaticamente
 On
 Off
 Hardware
 Software
-Sound Control
-Battle Light Effects
-Character Model LOD Level
+Controle de Som
+Efeitos de Luz de Batalha
+Nível LOD do Modelo do Personagem
 Off
 On
-Reset
-Battle Voices
+Resetar
+Vozes de Batalha
 On
 Off
-Depth of Field in Battle
+Profundidade de Campo em Batalha
 On
 Off
-Sensitivity
-Low
-High
-Field/Event Light Effects
+Sensibilidade
+Baixo
+Alto
+Efeitos de Luz de Campo/Eventos
 Off
 On
-Low
-High
+Baixo
+Alto
 Menu Misc dummy
 eqonly_name<0000> apenas
 reward_kingaku
