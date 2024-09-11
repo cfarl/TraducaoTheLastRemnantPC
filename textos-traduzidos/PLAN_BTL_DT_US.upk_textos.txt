@@ -857,14 +857,14 @@ Libera o poder oculto do talismã.
 [Específico de um monstro]<1ce0> Em espera: travado em duelo
 [Específico de um monstro]<1ce0> Não faz nada
 Nocauteia uma unidade para liberá-la de uma maldição.
-Ordena um ataque total centrado no Phantom Pain de Snievan.
-Ordena um ataque total centrado no Giant Press de Zuido.
-Ordena um ataque total centrado no Galaxy de Ludope.
-Ordena um ataque total centrado no Twin Snowpetal de Hannah e Hinnah.
-Ordena um ataque total centrado no Iron Will de Milton.
-Ordena um ataque total centrado no Seduction de Hinnah.
-Ordena um ataque total centrado no Brawl de Young.
-Ordena um ataque total centrado no Dual Snowpetal de Khrynia e Irina.
+Ordena um ataque total centrado no Calvário Espectral de Snievan.
+Ordena um ataque total centrado no Abraço de Gigante de Zuido.
+Ordena um ataque total centrado no Galáxia de Ludope.
+Ordena um ataque total centrado no Pétala Glacial Dupla de Hannah e Hinnah.
+Ordena um ataque total centrado no Vontade de Ferro de Milton.
+Ordena um ataque total centrado no Sedução de Hinnah.
+Ordena um ataque total centrado no Briga de Young.
+Ordena um ataque total centrado no Pétala Glacial Dupla de Khrynia e Irina.
 Formation dummy help
 Aumenta a mobilidade das fileiras frontais.
 Aumenta o poder dos ataques laterais.<03e0>Muito eficaz contra homens-fera.
