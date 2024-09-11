@@ -10276,9 +10276,9 @@ Destruição de Porcenala
 Selo Místico
 Selo Místico II
 Selo Místico III
-O Caçador
-O Caçador II
-O Caçador III
+O Matador
+O Matador II
+O Matador III
 Chuva Eremurus
 Tempestade Eremurus
 Fluxo Eremurus
@@ -14928,7 +14928,7 @@ Coração da Lealdade
 Coração da Lealdade
 Corrente de Porcelana
 Selo Místico
-O Caçador
+O Matador
 Chuva Eremurus
 Consumables dummy
 Folha de Cura
