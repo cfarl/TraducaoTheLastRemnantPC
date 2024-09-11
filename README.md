@@ -106,6 +106,9 @@ Total de arquivos revisados, por tradutor:
 - alves_tr: 39 arquivos
 - cfarl: 73 arquivos
 
+Tradução de linhas do PLAN_BTL que só existiam na versão PC:
+- LeonamMiiller
+
 Revisão final de todos os textos traduzidos:
 - cfarl
 
