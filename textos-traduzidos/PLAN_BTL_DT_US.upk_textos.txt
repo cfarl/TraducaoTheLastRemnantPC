@@ -5035,7 +5035,7 @@ Você não vai muito longe com essa atitude.
 Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Não consigo decidir se vale a pena<03e0>me desviar do que venho estudando.
 Vá em frente!
 Heh. É claro.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Então devo me concentrar em feitiços mais avançados<03e0>nas áreas que já domino.
 Você deve escolher, não eu.
 Oho... Você é cheio de surpresas.
@@ -5216,7 +5216,7 @@ Experimente algo novo!
 Um homem de verdade não se deixa ser seduzido<03e0>por cada novo rosto que cruza seu caminho...<03e0>Mas é necessário abrir a mente para novas experiências.
 Tente melhorar o que já sabe.
 Entendo. Sendo assim, vou me concentrar nas minhas<03e0>especialidades. Em breve estarei dominando as técnicas<03e0>mais poderosas que você já viu!
-Decida por você.
+Decida isso por si mesmo.
 Entendo... A resposta está dentro de em mim, aguardando<03e0>que o próprio destino possa arrancá-la do meu peito...<03e0>Devo dar a ele o tempo que for necessário.
 Em que artes devo me especializar? Ai de mim,<03e0>já é demasiado difícil escolher uma dama para <03e0>poder entregar o meu amor...
 Pratique um pouco de tudo!
@@ -5250,7 +5250,7 @@ Ahh... Achei que estivesse descocupado... Foi mal.
 Hmm... Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo aperfeiçoando os feitiços que já conheço?<03e0>Qual é a decisão mais sensata?
 Experimente algo novo!
 Sim...<03e0>Talvez assim eu consiga me lembrar de alguma coisa...
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Ahh... Então, devo tentar me tornar<03e0>ainda melhor nos feitiços que já conheço.
 Você é quem deve decidir.
 Ah...Tudo bem.
@@ -5381,7 +5381,7 @@ Claro! Experimente algo novo.
 Certo.<03e0>Vou fazer o que puder para dominar essas novas artes.
 Tente melhorar o que já sabe.
 Concordo. Preciso aperfeiçoar ainda mais os feitiços<03e0>que já conheço.
-Decida por você.
+Decida isso por si mesmo.
 Você tem razão...<03e0>Se meu pai soubesse da minha indecisão,<03e0>ficaria muito aborrecido...
 Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo com meus estudos? O que você acha, Rush?
 Experimente algo novo!
@@ -5422,9 +5422,9 @@ Ah, entendo.<03e0>Bem, talvez na próxima...
 Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo meus estudos? O que você acha, Rush?
 Vá em frente!
 Você acha mesmo? Tudo bem... farei o meu melhor.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Ahh... você tem razão. Vou tentar melhorar<03e0>os feitiços que já conheço para serem mais poderosos.
-Decida por você.
+Decida isso por si mesmo.
 Ah... Você tem razão. Se não for capaz tomar decisões<03e0>por conta própria, como poderei ajudar a Kate...
 Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo meus estudos? O que você acha, Rush?
 Experimente algo novo!
@@ -5465,7 +5465,7 @@ Tudo bem. Sinto muito por ter incomodado.
 Será que começo a estudar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo praticando os feitiços que conheço? Hmm...
 Experimente algo novo!
 Você tem razão. Isso parece ser mais útil.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Entendido. Vou me esforçar para tornar minhas artes<03e0>místicas o mais forte possível.
 Você é quem deve decidir.
 Tem razão. Sinto muito por ter incomodado.
@@ -5639,14 +5639,14 @@ Experimente algo novo!
 Tudo bem, vou tentar.<03e0>Feitiços não são o meu forte.
 Continue praticando o que sabe!
 Faz sentido. Vou tentar melhorar aquilo que<03e0>já conheço para aprender feitiços ainda mais poderosos.
-Decida por você.
+Decida isso por si mesmo.
 Você tem razão. Minha nossa, pareço o Rhagoh.
 Você acha que vale a pena aprender<03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou não?
 Vá em frente!
 Certo.<03e0>Mas saiba que isso não faz o meu estilo.
 Concentre-se no que já sabe.
 Faz sentido. Vou tentar melhorar aquilo que<03e0>já conheço para aprender técnicas ainda mais poderosas.
-Decida por você.
+Decida isso por si mesmo.
 Você tem razão. Minha nossa, pareço o Rhagoh.
 Rush. Então, se estivesse no meu lugar, em que tipo de<03e0>artes iria se concentrar? Odeio admitir isso, mas não<03e0>consigo decidir.
 Estude um pouco de tudo.
@@ -5732,7 +5732,7 @@ Experimente algo novo!
 Tudo bem então. Quanto mais eu souber melhor, não é?
 Tente melhorar o que já sabe.
 Tudo bem então. Tenho certeza que as artes que já<03e0>conheço podem ser melhoradas, não é mesmo?
-Decida por você.
+Decida isso por si mesmo.
 Ahh... Sim, minha irmã ficaria desapontada se<03e0>me ouvisse fazendo uma pergunta dessas.
 Em que tipo de artes eu deveria estar concentrando meu<03e0>treinamento? Tenho andando indeciso ultimamente...
 Estude um pouco de tudo.
@@ -5766,7 +5766,7 @@ O quêêê?<03e0>Eu não convido qualquer um!
 Será que começo a estudar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo praticando os feitiços que conheço? Hmm...
 Experimente algo novo!
 Duvido que eu consiga ficar mais poderoso<03e0>do que eu já sou, mas tudo bem, vou tentar.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 A ideia de ter à minha disposição feitiços ainda<03e0>mais poderosos é bem sinistra, não é mesmo?<03e0>Mas tudo bem, vou continuar com isso.
 Você é quem deve decidir.
 Não acredito que estou ouvindo isso.
@@ -5775,7 +5775,7 @@ Experimente algo novo!
 Duvido que eu consiga ficar mais poderoso<03e0>do que eu já sou, mas tudo bem, vou tentar.
 Tente melhorar o que já sabe.
 A ideia de eu ter à minha disposição técnicas ainda<03e0>mais poderosas é bem sinistra, não é mesmo?<03e0>Mas tudo bem, vou continuar com isso.
-Decida por você.
+Decida isso por si mesmo.
 Não acredito que estou ouvindo isso.
 Ok, teste rápido, espertalhão.<03e0>Você é um incrível mercenário.<03e0>Em que artes você se especializaria?
 Faça de tudo um pouco!
@@ -5809,16 +5809,16 @@ Harumph...<03e0>O que aconteceu com o respeito pelos mais velhos?
 Hmm... <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0>parece bem interessante, hmm? Mas aprender novas artes<03e0>é um desafio quando se chega na minha idade...
 Experimente algo novo!
 Ho ho ho...<03e0>Tudo bem. Vejamos o que esses velhos ossos podem fazer.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Entendido. Vou me esforçar para melhorar aquilo que<03e0>já conheço.
-Decida por você.
+Decida isso por si mesmo.
 Ha ha ha...<03e0>Vindo da boca de um garoto...
 Hmm... <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0>parece bem interessante, hmm? Mas aprender novas artes<03e0>é um desafio quando se chega na minha idade...
 Você consegue!
 Você acha mesmo?<03e0>Então vejamos se esse cachorro velho<03e0>consegue aprender um truque novo.
 Concentre-se no que já sabe.
 Entendido.<03e0>Vou me esforçar para aprimorar minhas artes de combate.
-Decida por você.
+Decida isso por si mesmo.
 Ha ha ha...<03e0>Vindo da boca de um garoto...
 Em que artes devo me especializar?<03e0>Não quero ser um fardo para vocês, jovens...
 Estude um pouco de tudo.
@@ -5852,14 +5852,14 @@ Ahh, agora não dá.
 Será que dou uma olhada em <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...
 Experimente algo novo!
 Tudo bem. Estou sempre pronto para um desafio!
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Sim... Vou continuar treinando para<03e0>aprender feitiços ainda mais poderosos.
 Você é quem deve decidir.
 Parece que sim...<03e0>Vou pensar um pouco mais sobre esse assunto.
 Será que dou uma olhada em <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...
 Experimente algo novo!
 Tudo bem. Estou sempre pronto para um desafio!
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Sim... Vou continuar treinando para<03e0>aprender feitiços ainda mais poderosos.
 Você é quem deve decidir.
 Parece que sim...<03e0>Vou pensar um pouco mais sobre esse assunto.
@@ -5895,7 +5895,7 @@ Coooomo? Agora não dá? Não tem tempo para mim!?<03e0>Por que ninguém me dá 
 Ei, Rush... Devo aprender essa nova arte, <03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Não sei... E se eu não for tão bem nisso?
 Experimente algo novo!
 Sério? Acho que isso é normal para mim.<03e0>Boa ideia!
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Mesmo? Tudo bem! Vou aperfeiçoar meus feitiços<03e0>até me tornar um mestre das artes místicas!
 Você é quem deve decidir.
 Argh... Odeio ter de decidir...
@@ -5904,7 +5904,7 @@ Experimente algo novo!
 Eu sei, tá bom?<03e0>Quanto mais artes, mais incrível!
 Tente melhorar o que já sabe.
 Eu sei, tá bom? Vou tentar aperfeiçoar as técnicas que<03e0>já conheço até que elas sejam tão brilhantes como eu<03e0>sou! Ou algo assim...
-Decida por você.
+Decida isso por si mesmo.
 Sabe... Eu perguntei a você<03e0>porque odeio tomar decisões!
 Ei, Rush, o que devo praticar agora<03e0>para ser ainda mais temível e perigoso?<03e0>Nem sei se tal coisa é possível, mas...
 Aprenda um pouco de tudo.
@@ -5938,14 +5938,14 @@ Coooooomo é?
 Será que começo a estudar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo praticando os feitiços que conheço? Hmm...
 Experimente algo novo!
 Sim, sim, você tem razão.<03e0>Assim serei forte e poderoso.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Huh, tudo bem.<03e0>Vou me empenhar para melhorar minhas técnicas<03e0>e conseguir aprender feitiços ainda mais poderosos.
 Você é quem deve decidir.
 Bah, você fala que nem o Pagus...
 Será que começo a estudar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo praticando os feitiços que conheço? Hmm...
 Experimente algo novo!
 Sim, sim, você tem razão.<03e0>Assim serei forte e poderoso.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Huh, tudo bem.<03e0>Vou me empenhar para melhorar minhas técnicas<03e0>e conseguir aprender feitiços ainda mais poderosos.
 Você é quem deve decidir.
 Nah, você fala que nem o Maddox...
@@ -5981,7 +5981,7 @@ Ahh, tudo bem... Acho que você está bem atarefado...
 Ei, Rush. Estava aqui me perguntando se devo aprender<03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...
 Experimente algo novo!
 Você acha? Tudo bem, vou tentar então...<03e0>Com sorte, ficarei ainda mais forte.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Huhhh, então devo estudar mais para que possa<03e0> aprender feitiços mais poderosos? Entendi!
 Você é quem deve decidir.
 Uuh... Tá, eu acho. Perdão.
@@ -5990,7 +5990,7 @@ Experimente algo novo!
 Você acha? Tudo bem, vou tentar então...<03e0>Com sorte, ficarei ainda mais forte.
 Tente melhorar o que já sabe.
 Huhhh, então devo estudar mais para<03e0> aprender técnicas mais poderosas? Entendi!
-Decida por você.
+Decida isso por si mesmo.
 Uuh... T-tudo bem. Perdão.
 Não sei em que artes devo me especializar...<03e0>O que você acha, Rush?
 Estude um pouco de tudo.
@@ -6024,7 +6024,7 @@ Ahh, agora não dá.
 Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo praticando os feitiços que já conheço?<03e0>O que você acha, Rush?
 Experimente algo novo!
 Ho ho ho... Tudo bem.<03e0>Vejamos o que esses velhos ossos podem fazer.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Hmm, entendo...<03e0>Então continuarei praticando para aprender<03e0>feitiços ainda mais poderosos.
 Você é quem deve decidir.
 Você fala que nem o Pagus... *suspiro*
@@ -6033,7 +6033,7 @@ Experimente algo novo!
 Ho ho ho... Tudo bem.<03e0>Vejamos o que esses velhos ossos podem fazer.
 Tente melhorar o que já sabe.
 Hmm, entendo...<03e0>Então continuarei praticando para aprender<03e0>técnicas ainda mais poderosas.
-Decida por você.
+Decida isso por si mesmo.
 Você fala que nem o Sibal... *suspiro*
 Rush, você acha que meu treinamento está indo na<03e0>direção correta? Tenho andado<03e0>um pouco preocupado, ultimamente.
 Experimente um pouco de tudo.
@@ -6052,7 +6052,7 @@ Entendido.<03e0>Parece que ainda tenho muito trabalho pela frente!
 Preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, por isso você<03e0>deveria parar o que está fazendo para procurar.
 Certo!
 Tudo de acordo com meus planos.<03e0>Vamos!
-Sinto muito.
+Desculpa... Agora não dá.
 ...Você vai se arrepender disso.
 Mas o que é isso que temos aqui? <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>... Passe isso para cá! <03e0>
 Claro!
@@ -6074,12 +6074,12 @@ Resposta típica de um mitra...
 Aprendo <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>,<03e0>que é uma nova técnica, ou continuo aprimorando minhas<03e0>habilidades? Você pode dar sua opinião dessa vez.
 Experimente uma coisa nova!
 Heh. É isso mesmo que eu estava pensando em fazer.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Aprender versões mais poderosas das técnicas que<03e0>conheço? É claro que já tinha pensado nisso.
-Decida por você.
+Decida isso por si mesmo.
 Resposta típica de um mitra...
 Em que artes devo me concentrar?<03e0>Estou com medo de ficar poderoso<03e0>demais...
-O melhor é saber de tudo.
+Saber um pouco de tudo é uma boa.
 He... É claro.
 Artes de combate, com certeza!
 He... É claro.
@@ -6110,7 +6110,7 @@ Entendo...
 Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou continuo praticando os feitiços que já conheço?<03e0>O que você acha, Rush?
 Experimente algo novo!
 Você tem razão. Isso parece ser mais útil.
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Entendido. Vou tentar aperfeiçoar os feitiços<03e0>que já conheço, para deixá-los o mais forte possível.
 Você é quem deve decidir.
 Já haviam me dito isso antes...
@@ -6119,7 +6119,7 @@ Experimente algo novo!
 Você tem razão. Isso parece ser mais útil.
 Tente melhorar o que já sabe.
 Entendido. Tentarei aperfeiçoar as técnicas<03e0>que já conheço, para deixá-las o mais forte<03e0>possível.
-Decida por você.
+Decida isso por si mesmo.
 Já haviam me dito isso antes...
 Em que artes devo me especializar, a partir<03e0>de agora? Gostaria de saber sua opinião, Rush.
 Estude um pouco de tudo.
@@ -6155,14 +6155,14 @@ Vai fundo!
 Heh... Você é mais sábio do que aparenta, pela sua<03e0>idade... Estamos de acordo. Essa seria uma boa<03e0>habilidade para adicionar ao meu repertório...
 Concentre-se no que já sabe.
 Heh... estamos de acordo. Nesse momento não tenho<03e0>outra escolha a não ser me tornar mais proficiente<03e0>nas habilidades que já domino.
-Decida por você.
+Decida isso por si mesmo.
 Que outra coisa poderia se esperar de um mitra?
 Estudo <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0>ou não.... Você se diz o líder desse grupo,<03e0>então dê sua opinião!
 Vai fundo!
 Heh... estamos de acordo. Essa seria uma boa técnica<03e0>para adicionar ao meu repertório.
 Tente melhorar o que já sabe.
 Heh... estamos de acordo. Nesse momento não tenho<03e0>outra escolha a não ser me tornar mais proficiente<03e0>nas habilidades que já domino.
-Decida por você.
+Decida isso por si mesmo.
 Que outra coisa poderia se esperar de um mitra?
 Qual caminho devo seguir no meu treinamento?<03e0>Sei que já sou perfeito, mas posso ser<03e0>ainda mais!
 Estude um pouco de tudo.
@@ -6196,9 +6196,9 @@ Heh...heheheh... Mhmhmhm...
 Melhoro meus feitiços... Ou começo a estudar<03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...
 Experimente algo novo!
 Umm... Isso vai me deixar ainda mais forte...
-Concentre-se no que já sabe!
+Concentre-se no que você já sabe!
 Heheheh...<03e0>Então vou continuar treinando... para fazer com que<03e0>meus feitiços sejam cada vez mais poderosos...
-Decida por você.
+Decida isso por si mesmo.
 ...Mmhmhmhm......
 ptalk_embed<00001ce0>...<03e0>Eu poderia aprender isso...<03e0>Mas... Isso vai me deixar mais forte?
 ...Por que não experimenta?
@@ -6221,358 +6221,358 @@ Artes de combate, sem dúvida.
 Heh heh...hahahahahaha!!!
 Artes místicas, claro.
 Heh heh...hahahahahaha!!!
-Preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Temos tempo para sair em busca de alguns?
-Tudo bem!  
-Que maravilhoso!  
-Desculpa.  
-Oh, como eu quero isso!
-Preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que posso tê-lo?
+Estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que temos tempo para procurar?
 Claro!
-Que maravilha!  
-Hmm, não, desculpa.  
-Oh, como eu quero isso!
-Temos tempo para ir e lutar contra algumas<03e0>batalhas? A beleza não se mantém pelo descanso.
-Tudo bem!  
-Que maravilhoso!  
-Desculpa.  
-Ah, como anseio lutar!
-Para aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, ou continuar<03e0>com treinamento...<03e0>Qual meu caminho escolhido?
-Qualquer coisa nova vale a pena tentar!  
-Talvez isso também seja belo.  
-Concentre-se no que você tem!  
-Talvez isso também seja belo.  
+Que bom!
+Desculpa... Agora não dá.
+Ah, como eu quero isso!
+Estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que posso ficar com ele?
+Claro!
+Que bom!
+Mmm, não, sinto muito.
+Ah, como eu quero isso!
+Será que temos tempo para algumas batalhas?<03e0>O ócio nunca foi bom para conservar a beleza.
+Certo!
+Que bom!
+Desculpa... Agora não dá.
+Ah, que vontade de lutar!
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar<03e0>meu treinamento...<03e0>Qual caminho devo seguir?
+Qualquer coisa nova vale a pena tentar!
+Talvez aí também possa ser encontrada a beleza.
+Concentre-se no que você já sabe!
+Talvez aí também possa ser encontrada a beleza.
 Decida isso por si mesmo.
-Eu devo ter estado louco, pedindo a uma besta<03e0>feia como você.
-Para aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>, ou continuar<03e0>com treinamento...<03e0>Qual meu caminho escolhido?
-Qualquer coisa nova vale a pena tentar!  
-Talvez isso também seja belo.  
-Concentre-se no que você tem!  
-Talvez isso também seja belo.  
+Como é que me ocorreu isso, de fazer uma pergunta<03e0>dessas a uma besta imunda como você?
+Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar<03e0>meu treinamento...<03e0>Qual caminho devo seguir?
+Qualquer coisa nova vale a pena tentar!
+Talvez aí também possa ser encontrada a beleza.
+Concentre-se no que você já sabe!
+Talvez aí também possa ser encontrada a beleza.
 Decida isso por si mesmo.
-Eu devo ter estado louco, pedindo a uma besta<03e0>feia como você.
-O que eu poderia fazer para magnificar minha beleza?  
-Um verdadeiro faz-tudo é excelente.   
-Talvez isso também seja beleza.  
-As artes de combate, com certeza.  
-Talvez isso também seja beleza.  
-As artes místicas, com certeza.  
-Talvez isso também seja beleza.
-O que eu poderia fazer para magnificar minha beleza?  
-Um verdadeiro faz-tudo é excelente.   
-Talvez isso também seja beleza.  
-As artes de combate, com certeza.  
-Talvez isso também seja beleza.  
-As artes místicas, com certeza.  
-Talvez isso também seja beleza.
-E-eu querer <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Eu ir...buscar.
+Como é que me ocorreu isso, de fazer uma pergunta<03e0>dessas a uma besta imunda como você?
+O será que posso fazer para ser ainda mais belo?
+Saber um pouco de tudo é uma boa.
+Talvez aí também possa ser encontrada a beleza.
+Artes de combate, com certeza!
+Talvez aí também possa ser encontrada a beleza.
+Artes místicas, com certeza.
+Talvez aí também possa ser encontrada a beleza.
+O será que posso fazer para ser ainda mais belo?
+Saber um pouco de tudo é uma boa.
+Entendo. Isso sim é uma beleza!
+Artes de combate, com certeza!
+Entendo. Isso sim é uma beleza!
+Artes místicas, com certeza.
+Entendo. Isso sim é uma beleza!
+E-eu querer <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Eu ir... pegar.
 Tudo bem!
 E-eu feliz.
-Desculpe.
+Desculpa... Agora não dá.
 E-eu triste.
-E-eu querer <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Eu...pegar.
+E-eu querer <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Eu... pegar.
 Tudo bem!
 E-eu feliz.
-Mmm, não, desculpe.
+Mmm, não, sinto muito.
 E-eu triste.
-Se tivermos algum tempo livre, vamos atacar alguns<03e0>campos de batalha! Estou com sede de sangue!
+Se estivermos com tempo livre, poderíamos sair em<03e0>busca de batalhas! Estou com sede de sangue!
 Tudo bem!
-Eu gosto de como isso soa!
-Desculpe.
-Eu não gosto de como isso soa...
-Acho que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0> o que vai ser?
-Qualquer coisa nova vale a pena tentar!  
-Eu gosto disso!  
-Concentre-se no que você tem!  
-Eu gosto disso!  
-Decida isso por si mesmo.  
+É assim que se fala!
+Desculpa... Agora não dá.
+Não seja um covarde...
+Você acha que eu deveria aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou<03e0>continuar praticando o que já domino?
+Qualquer coisa nova vale a pena tentar!
+Assim é que se fala!
+Concentre-se no que você já sabe!
+Assim é que se fala!
+Decida isso por si mesmo.
 Humph.
-Acho que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que vai ser?
-Qualquer coisa nova vale a pena tentar!  
-Eu gosto disso!  
-Concentre-se no que você tem!  
-Eu gosto disso!  
-Decida isso por si mesmo.  
+Você acha que eu deveria aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou<03e0>continuar praticando o que já domino?
+Qualquer coisa nova vale a pena tentar!
+Assim é que se fala!
+Concentre-se no que você já sabe!
+Assim é que se fala!
+Decida isso por si mesmo.
 Humph.
-Oq-que eu fazer?
-Um verdadeiro faz-tudo é excelente. 
+O q-que fazer eu?
+Saber um pouco de tudo é uma boa.
 E-eu sim.
-Artes de Combate, com certeza.
+Artes de combate, com certeza!
 E-eu sim.
-Artes Misticas, com certeza.
+Artes místicas, com certeza.
 E-eu sim.
-O que eu preciso fazer para provar mais sangue?
-Um verdadeiro faz-tudo é excelente. 
-Então me deixe mostrar o que eu tenho!
-Artes de Combate, com certeza.
-Então me deixe mostrar o que eu tenho!
-Artes Místicas, com certeza.
-Então me deixe mostrar o que eu tenho!
-Eu quero <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Vamos encontrar alguns.
-Tudo bem!
-Beleza.
-Desculpa.
-Merda!
-Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Posso ficar com isso? Posso?
+O que preciso fazer para ser mais terrível em batalha?
+Saber um pouco de tudo é uma boa.
+Então deixe-me mostrar do que sou capaz!
+Artes de combate, com certeza!
+Então deixe-me mostrar do que sou capaz!
+Artes místicas, com certeza.
+Então deixe-me mostrar do que sou capaz!
+Eu quero <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Vamos procurar.
 Claro!
-Beleza.
-Mmm, não, desculpa.
-Merda!
-Se tivermos algum tempo, vamos sair e <03e0>fazer um pouco de exercício. Minha cabeça está doendo <03e0>e eu não consigo ficar parado.
+Que bom.
+Desculpa... Agora não dá.
+Droga!
+Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Será que posso pegar para mim? Posso?
 Claro!
-Qual é, vamos lá!
-Mmm, não, desculpa.
-Minha cabeça...está doendo...
-Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei?
-Qualquer coisa nova vale a pena tentar!  
-Você está certo.  
-Concentre-se no que você tem!  
-Você está certo.  
-Decida isso por si mesmo.  
-Você está certo.  
-Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei?
-Qualquer coisa nova vale a pena tentar!  
-Você está certo.  
-Concentre-se no que você tem!  
-Você está certo.  
-Decida isso por si mesmo.  
-Você está certo. 
-Em quê eu deveria me focar?
-Um verdadeiro faz-tudo é excelente. 
-Sim, você está certo.  
-Artes de Combate, com certeza.  
-Sim, você está certo.  
-Artes Místicas, com certeza.  
-Sim, você está certo.
-O quê devo fazer?
-Um verdadeiro faz-tudo é excelente. 
-Você está certo. Chega de ficar pensando.  
-Artes de Combate, com certeza.  
-Você está certo. Chega de ficar pensando.  
-Artes Místicas, com certeza.  
-Você está certo. Chega de ficar pensando.
-Rush, eu preciso <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Temos tempo para reunir alguns?
-Tudo bem!
-Obrigado.
-Desculpa.
-Entendo...
-Estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Posso ficar?
+Que bom.
+Mmm, não, sinto muito.
+Droga!
+Se estivermos com tempo, que tal sairmos<03e0>em busca de exercício? Minha cabeça já está<03e0>latejando. Não consigo ficar parado.
+Claro!
+Então vamos lá!
+Mmm, não, sinto muito.
+Minha cabeça... está latejando...
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou<03e0>devo continuar praticando o que já domino?
+Qualquer coisa nova vale a pena tentar!
+Você tem razão.
+Concentre-se no que você já sabe!
+Você tem razão.
+Decida isso por si mesmo.
+Você tem razão.
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou<03e0>devo continuar praticando o que já domino?
+Qualquer coisa nova vale a pena tentar!
+Você tem razão.
+Concentre-se no que você já sabe!
+Você tem razão.
+Decida isso por si mesmo.
+Você tem razão.
+Em quê eu deveria me concentrar?
+Saber um pouco de tudo é uma boa.
+Sim, você tem razão.
+Artes de combate, com certeza!
+Sim, você tem razão.
+Artes místicas, com certeza.
+Sim, você tem razão.
+O que devo fazer?
+Saber um pouco de tudo é uma boa.
+Você tem razão. Mãos à obra!
+Artes de combate, com certeza!
+Você tem razão. Mãos à obra!
+Artes místicas, com certeza.
+Você tem razão. Mãos à obra!
+Rush, estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Será que temos tempo para procurar?
 Claro!
 Obrigado.
-Mmm, não, desculpa.
+Desculpa... Agora não dá.
 Entendo...
-Se tivermos tempo, poderíamos testar nossas<03e0>habilidades nos campos de batalha?
-Tudo bem!
+Estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Posso pegar para mim?
+Claro!
+Obrigado.
+Mmm, não, sinto muito.
+Entendo...
+Se estivermos com tempo, será que podemos colocar<03e0>nossas habilidades à prova em batalha?
+Claro!
 Você me fez muito feliz.
-Desculpa.
-Oh? E eu pensei que éramos amigos.
-Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei? O que você acha?
-Qualquer coisa nova vale a pena tentar!  
-É isso que eu vou escolher.  
-Concentre-se no que você já tem!  
-É isso que eu vou escolher.  
-Decida isso por si mesmo.  
-Eu não esperava isso de você.
-Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar treinando<03e0>o que eu já sei? O que você acha?
-Qualquer coisa nova vale a pena tentar!  
-É isso que eu vou escolher.  
-Concentre-se no que você já tem!  
-É isso que eu vou escolher.  
-Decida isso por si mesmo.  
-Eu não esperava isso de você.
-Rush, não tenho ideia do que focar...
-Um verdadeiro faz-tudo é excelente. 
-É isso que eu vou escolher. 
-Artes de Combate, com certeza.
-É isso que eu vou escolher.
-Artes Místicas, com certeza.
-É isso que eu vou escolher. 
-Rush, perdi o foco.<03e0>Em que devo me concentrar?
-Um verdadeiro faz-tudo é excelente. 
-É isso que eu vou escolher.<03e0>Obrigado, Rush.
-Artes de Combate, com certeza.
-É isso que eu vou escolher.<03e0>Obrigado, Rush.
-Artes Místicas arts, for sure.
-É isso que eu vou escolher.<03e0>Obrigado, Rush.
-Vamos sair e reunir <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0> Isso é, se tivermos tempo sobrando.
+Desculpa... Agora não dá.
+Não? E eu que pensei que éramos amigos...
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou<03e0>devo continuar praticando o que já domino? O que você acha?
+Qualquer coisa nova vale a pena tentar!
+Sim, é isso o que vou fazer.
+Concentre-se no que você já sabe!
+Sim, é isso o que vou fazer.
+Decida isso por si mesmo.
+Eu não esperava ouvir isso de você.
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou<03e0>devo continuar praticando o que já domino? O que você acha?
+Qualquer coisa nova vale a pena tentar!
+Sim, é isso o que vou fazer.
+Concentre-se no que você já sabe!
+Sim, é isso o que vou fazer.
+Decida isso por si mesmo.
+Eu não esperava ouvir isso de você.
+Rush, não sei onde eu deveria me concentrar...
+Saber um pouco de tudo é uma boa.
+Sim, é isso o que vou fazer.
+Artes de combate, com certeza!
+Sim, é isso o que vou fazer.
+Artes místicas, com certeza.
+Sim, é isso o que vou fazer.
+Rush, acho que perdi o foco.<03e0>Onde devo me concentrar?
+Saber um pouco de tudo é uma boa.
+É isso que vou fazer.<03e0>Obrigado, Rush.
+Artes de combate, com certeza!
+É isso que vou fazer.<03e0>Obrigado, Rush.
+Artes místicas, com certeza.
+É isso que vou fazer.<03e0>Obrigado, Rush.
+Que tal sairmos para procurar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>É claro, se estivermos com tempo sobrando.
 Tudo bem!
-Hrm.
-Desculpa.
+Mmm...
+Desculpa... Agora não dá.
 Hmph.
-Isso <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é meu.
+Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é meu.
 Claro!
-Hrm.
-Mmm, não, desculpa.
+Mmm...
+Mmm, não, sinto muito.
 Hmph.
-Se houver tempo sobrando, os campos de batalha nos aguardam.  
-Tudo bem!  
-Hrm.  
-Desculpe.
-Hmph.
-Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é necessário?<03e0>Ou devo continuar meu treinamento?
-Qualquer coisa nova vale a pena tentar!  
-Sim. Sim.  
-Concentre-se no que você tem!  
-Hrm.  
-Decida isso por si mesmo.  
-Criança impertinente.
-Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> é necessário?<03e0>Ou devo continuar meu treinamento?
-Qualquer coisa nova vale a pena tentar!  
-Sim. Sim.  
-Concentre-se no que você tem!  
-Hrm.  
-Decida isso por si mesmo.  
-Criança impertinente.
-Para onde meu caminho me leva...?
-Um verdadeiro faz-tudo é excelente. 
-Hrm.
-Artes de Combate, com certeza.
-Hrm.
-Artes Místicas, com certeza.
-Hrm.
-Para onde meu caminho me leva...?<03e0>Eu nunca estive tão incerto antes...
-Um verdadeiro faz-tudo é excelente. 
-Hrm.
-Artes de Combate, com certeza.
-Hrm.
-Artes Místicas, com certeza.
-Hrm.
-Eu preciso de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!<03e0>Qual é! Vamos lá!
+Se tivermos tempo, o campo de batalha nos aguarda.
 Tudo bem!
-É disso que eu estava falando!
-Desculpa.
-Você não sem graça.
-Eu preciso daquele <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> que você tem.<03e0> Você vai me dar, certo?
+Mmm...
+Desculpa... Agora não dá.
+Hmph.
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou devo continuar meu treinamento?
+Qualquer coisa nova vale a pena tentar!
+Sim, sim...
+Concentre-se no que você já sabe!
+Mmm...
+Decida isso por si mesmo.
+Criança insolente...
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou devo continuar meu treinamento?
+Qualquer coisa nova vale a pena tentar!
+Sim, sim...
+Concentre-se no que você já sabe!
+Mmm...
+Decida isso por si mesmo.
+Criança insolente...
+Para onde meu caminho deve me levar...?
+Saber um pouco de tudo é uma boa.
+Mmm...
+Artes de combate, com certeza!
+Mmm...
+Artes místicas, com certeza.
+Mmm...
+Para onde meu caminho deve me levar...?<03e0>Nunca estive tão confuso assim...
+Saber um pouco de tudo é uma boa.
+Mmm...
+Artes de combate, com certeza!
+Mmm...
+Artes místicas, com certeza.
+Mmm...
+Estou precisando de <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!<03e0>Vamos lá! Não temos tempo a perder!
+Claro!
+É assim que se fala, Rush!
+Desculpa... Agora não dá.
+Você não é nada engraçado.
+Estou precisando desse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> que você tem.<03e0>Você vai dar para mim, não vai?
 Claro!
 Obrigado!
-Mmm, não, desculpa.
-O quê você disse!?
-Qual é, Rush!<03e0>Vamos sair e encontrar alguns caras para lutar!<03e0>Estou entediado!
-Tudo bem!
-Legal!<03e0> Estou ansioso por isso!
-Desculpa.
-Inútil!
-Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou devo continuar treinando?
-Qualquer coisa nova vale a pena tentar!  
-Se você está dizendo. 
-Concentre-se no que você tem!  
-Se você está dizendo.  
-Decida isso por si mesmo.  
-Sim, você provavelmente está certo. 
-Devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>? <03e0>Ou devo continuar treinando?
-Qualquer coisa nova vale a pena tentar!  
-Se você está dizendo. 
-Concentre-se no que você tem!  
-Se você está dizendo.  
-Decida isso por si mesmo.  
-Sim, você provavelmente está certo. 
-Eu esqueci no que preciso me concentrar...<03e0>Me ajude.
-Um verdadeiro faz-tudo é excelente. 
-Parece bom!  
-As Artes de Combate é o caminho a seguir.  
-Parece bom!  
-As Artes Místicas, com certeza.  
-Parece bom!  
-Eu esqueci no que preciso me concentrar...<03e0>Me ajude.
-Um verdadeiro faz-tudo é excelente. 
-Parece bom!  
-As Artes de Combate é o caminho a seguir.  
-Parece bom!  
-As Artes Místicas, com certeza.  
-Parece bom!
-Temos algum tempo?<03e0>Eu preciso pegar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.
-Tudo bem!
-Gosto do seu jeito de pensar!
-Desculpa.
+Mmm, não, sinto muito.
+O quê você disse???
+Vamos lá, Rush!<03e0>Vamos procurar alguns manés e arrumar uma briga!<03e0>Estou morrendo de tédio!
+Claro!
+Que bom!<03e0>Você não sabe o quanto estou esperando por isso!
+Desculpa... Agora não dá.
+Seu inútil!
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou é melhor continuar treinando?
+Qualquer coisa nova vale a pena tentar!
+Se você está dizendo...
+Concentre-se no que você já sabe!
+Se você está dizendo...
+Decida isso por si mesmo.
+Sim, talvez seja melhor eu fazer isso.
+Será que devo aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?<03e0>Ou devo continuar treinando?
+Qualquer coisa nova vale a pena tentar!
+Se você está dizendo...
+Concentre-se no que você já sabe!
+Se você está dizendo...
+Decida isso por si mesmo.
+Sim, talvez seja melhor eu fazer isso.
+Já não sei mais onde devo me concentrar...<03e0>Preciso de ajuda.
+Saber um pouco de tudo é uma boa.
+Parece uma boa ideia!
+Artes de combate, sem dúvida.
+Parece uma boa ideia!
+Artes místicas, com certeza.
+Parece uma boa ideia!
+Já não sei mais onde devo me concentrar...<03e0>Preciso de ajuda.
+Saber um pouco de tudo é uma boa.
+Assim é que se fala!
+Artes de combate, sem dúvida.
+Assim é que se fala!
+Artes místicas, com certeza.
+Assim é que se fala!
+Será que temos um tempo livre?<03e0>Preciso encontrar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.
+Claro!
+É assim que eu gosto!
+Desculpa... Agora não dá.
 Huh?
-Eu preciso daquela <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Me dá ela.
+Preciso desse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>.<03e0>Anda, passe logo para cá.
 Claro!
-Gosto do seu jeito de pensar!
-Mmm, não, desculpa.
+É assim que eu gosto!
+Mmm, não, sinto muito.
 Huh?
-Eu conheço alguns caras que precisam de um sério ferimento!<03e0>Temos tempo para dar uma volta pelos campos de batalha?
-Tudo bem!
-Gosto do seu jeito de pensar!
-Desculpa.
-Mas que<07f0>?
-Qual é melhor? <03e0> Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar com o que eu tenho?
-Qualquer coisa nova vale a pena tentar!  
-Entendi!  
-Concentre-se no que você sabe.  
-Entendi.  
-Decida isso por si mesmo.  
-Sim, desculpe.
-Qual é melhor? <03e0> Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar com o que eu tenho?
-Qualquer coisa nova vale a pena tentar!  
-Entendi!  
-Concentre-se no que você sabe.  
-Entendi.  
-Decida isso por si mesmo.  
-Sim, desculpe.
-Alguma coisa na qual eu deva me concentrar?
-Um verdadeiro faz-tudo é excelente. 
-Estou sempre pronto para um desafio!  
-As artes de combate são o caminho a seguir.  
-Estou sempre pronto para um desafio!  
-As artes místicas, com certeza.  
-Estou sempre pronto para um desafio!  
-Você consegue pensar em algo em que eu deva focar?  
-Um verdadeiro faz-tudo é excelente.  
-Cuidado<07f0> lá vem o Sr. Young!  
-As artes de combate são o caminho a seguir.  
-Cuidado<07f0> lá vem o Sr. Young!  
-As artes místicas, com certeza.  
-Cuidado<07f0> lá vem o Sr. Young!  
-Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Posso ficar com isso?
+Conheço uns caras que estão precisando de uma boa<03e0>taca! Será que temos tempo para ir atrás deles?
 Claro!
-Eu agradeço.
-Mmm, não, desculpa.
-Merda...
-Rush, posso pegar isso emprestado <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+É assim que eu gosto!
+Desculpa... Agora não dá.
+Mas...
+O que é melhor?<03e0>Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar com o que já tenho?
+Qualquer coisa nova vale a pena tentar!
+Entendi!
+Concentre-se no que você sabe.
+Entendi.
+Decida isso por si mesmo.
+Sim, me desculpe....
+O que é melhor? <03e0> Aprender <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0> ou continuar com o que já tenho?
+Qualquer coisa nova vale a pena tentar!
+Entendi!
+Concentre-se no que você sabe.
+Entendi.
+Decida isso por si mesmo.
+Sim, me desculpe....
+No que eu deveria me concentrar?
+Saber um pouco de tudo é uma boa.
+Isso! Eu adoro um desafio!
+Artes de combate, sem dúvida.
+Isso! Eu adoro um desafio!
+Artes místicas, com certeza.
+Isso! Eu adoro um desafio!
+Você consegue me dizer onde eu deveria me concentrar?
+Saber um pouco de tudo é uma boa.
+Então se prepare! Porque aí vem o Mr. Young!
+Artes de combate, sem dúvida.
+Então se prepare! Porque aí vem o Mr. Young!
+Artes místicas, com certeza.
+Então se prepare! Porque aí vem o Mr. Young!
+Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Será que posso pegar para mim?
 Claro!
-Isso me será útil!
-Mmm, não, desculpa.
-Hrm.
-Rush, você se importaria de passar <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0> para mim?
+Você tem minha gratidão.
+Mmm, não, sinto muito.
+Droga...
+Rush, posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!
+Isso será muito útil para mim!
+Mmm, não, sinto muito.
+Mmm...
+Rush, você poderia me dar esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce003e0>?
 Claro!
 Obrigado!
-Mmm, não, desculpa.
-O Que? Oh...
-Qual é, me dá isso <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
+Mmm, não, sinto muito.
+O quê? Oh...
+Anda logo! Me dê esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
 Claro!
-Você é de mais!
-Mmm, não, desculpa.
-Você só pode estar brincado.
-Você seria tão gentil a ponto de me emprestar aquele <03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Você é demais!
+Mmm, não, sinto muito.
+Você só pode estar de brincadeira comigo...
+Você faria a gentileza de me dar esse <03e01be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
 Claro!
-Isso me tornará mais forte do que nunca!  
-Mmm, não, desculpe.  
+Isso vai me fazer ainda mais forte!
+Mmm, não, sinto muito.
 Mas por quê...?
-Aquele <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Você se importaria se eu pegasse?
+Esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>...<03e0>Será que posso pegar para mim?
 Claro!
-Thanks.
-Mmm, não, desculpe. 
-O Quê!?
-Rush, posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?  
-Claro!  
-Isso é ótimo!  
-Mmm, não, desculpe.
+Obrigado!
+Mmm, não, sinto muito.
+O quê!?
+Rush, posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!
+Que maravilha!
+Mmm, não, sinto muito.
 Oh...
-Posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
-Claro!  
-Muito obrigado!  
-Mmm, não, desculpe.  
-Sério? Oh...
+Será que posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Claro!
+Muito obrigado!
+Mmm, não, sinto muito.
+Você está falando sério? E eu que pensava que...
 Me passa esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>!
 Claro!
 Muito bom! Obrigado!
-Mmm, não, desculpa.
-Sério isso?...
-Rush, pode me emprestar esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
+Mmm, não, sinto muito.
+É sério isso?
+Rush, posso ficar com esse <1be0ffbe34ff2ae00b00>ptalk_embed<00001ce0>?
 Claro!
-Isso vai me ajudar muito!  
-Mmm, não, desculpe.  
-Mas por que...?  
-dummy text do Comerciante.
+Isso vai me ajudar muito!
+Mmm, não, sinto muito.
+Mas por quê...?
+Shopkeeper dummy text
 Tenho exatamente o que você precisa. Dê uma olhada!
 Vou comprar tudo que você tiver para vender!
 Parece que você não tem nada para vender.
