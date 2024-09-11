@@ -1,4 +1,4 @@
-﻿-- ----------------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------------
 -- Texts extracted from file PLAN_BTL_DT 
 -- Lines started with -- and blank lines are ignored 
 -- Lines format: text position in the list of texts, text and translation 
