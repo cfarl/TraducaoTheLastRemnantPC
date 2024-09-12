@@ -10270,18 +10270,18 @@ Mochila III
 Asas de Morcego
 Asas de Morcego II
 Asas de Morcego III
-Porcelain Chain
-Porcelain Blast
-Porcelain Destruction
-Mystic Seal
-Mystic Seal II
-Mystic Seal III
-The Slayer
-The Slayer II
-The Slayer III
-Eremurus Rain
-Eremurus Storm
-Eremurus Stream
+Corrente de Porcenala
+Golpe de Porcenala
+Destruição de Porcenala
+Selo Místico
+Selo Místico II
+Selo Místico III
+Assassino
+Assassino II
+Assassino III
+Chuva de Espinhos
+Tempestade de Espinhos
+Tornado de Espinhos
 Element Type dummy
 Nenhum
 Corte
@@ -14224,8 +14224,8 @@ Nightbloom Mist
 Frostsword
 Frostsword Artis
 Frostsword Virtutis
-Witch's Seal
-Faleria Heart
+Selo de Bruxa
+Coração Faleriano
 Weapon Type dummy
 Espada
 Espada
@@ -14919,17 +14919,17 @@ Leito
 Cesto
 Mochila
 Asas de Morcego
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Heart of Loyalty
-Porcelain Chain
-Mystic Seal
-The Slayer
-Eremurus Rain
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Corrente de Porcelana
+Selo Místico
+Assassino
+Chuva de Espinhos
 Consumables dummy
 Folha de Cura
 Raiz de Cura
@@ -15818,13 +15818,13 @@ Amuleto Maligno da Água
 Fragmento de Ídolo
 Amuleto Maligno do Raio
 Crepúsculo dos Deuses
-Coração da Lealdade
-Coração da Lealdade
-Coração da Lealdade
-Coração da Lealdade
-Coração da Lealdade
-Coração da Lealdade
-Coração da Lealdade
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
+Coração Leal
 Captured Monsters dummy
 Guerreiro Jhana capturado
 Xamã Jhana capturado
