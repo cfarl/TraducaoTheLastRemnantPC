@@ -856,15 +856,15 @@ Libera o poder oculto do talismã.
 [Específico de um monstro]<1ce0> Em espera, não travado em duelo
 [Específico de um monstro]<1ce0> Em espera: travado em duelo
 [Específico de um monstro]<1ce0> Não faz nada
-Nocauteia uma unidade para libertá-la de uma maldição.
-Realiza um ataque com tudo centrado na técnica Calvário Espectral de Snievan.
-Realiza um ataque com tudo centrado na técnica Abraço de Gigante de Zuido.
-Realiza um ataque com tudo centrado na técnica Galáxia de Ludope.
-Realiza um ataque com tudo centrado na técnica Pétala Glacial Dupla de Hannah e Hinnah.
-Realiza um ataque com tudo centrado na técnica Vontade de Ferro de Milton.
-Realiza um ataque com tudo centrado na técnica Sedução de Hinnah.
-Realiza um ataque com tudo centrado na técnica Briga de Young.
-Realiza um ataque com tudo centrado na técnica Pétala Glacial Dupla de Khrynia e Irina.
+Nocauteia uma unidade para liberá-la de uma maldição.
+Orders a full-out attack centering around Snievan's Phantom Pain.
+Orders a full-out attack centering around Zuido's Giant Press.
+Orders a full-out attack centering around Ludope's Galaxy.
+Orders a full-out attack centering around Hannah and Hinnah's Twin Snowpetal.
+Orders a full-out attack centering around Milton's Iron Will.
+Orders a full-out attack centering around Hinnah's Seduction.
+Orders a full-out attack centering around Young's Brawl.
+Orders a full-out attack centering around Khrynia and Irina's Dual Snowpetal.
 Formation dummy help
 Aumenta a mobilidade das fileiras frontais.
 Aumenta o poder dos ataques laterais.<03e0>Muito eficaz contra homens-fera.
@@ -2527,29 +2527,29 @@ Uma vestimenta feita de borracha.
 Uma vestimenta feita a partir dos restos<03e0>de um demônio.
 Um batom de cor vermelho sangue.
 Uma rocha contendo inscrições que<03e0>profetizam o fim do mundo.
-Um Remanescente em forma de lança.<03e0>Uma arma muito poderosa, de uso privado do Snievan.
-Uma versão mais poderosa do Rhongomynad.
-Uma versão de alta qualidade do Rhongomynad.<03e0>Seu poder foi consideravelmente aumentado.
-Um Remanescente em forma de uma espada de duas mãos.<03e0>Uma arma muito poderosa, de uso privado do Zuido.
-Uma versão mais poderosa da Somberblade.
-Uma versão de alta qualidade do Somberblade.<03e0>Seu poder foi consideravelmente aumentado.
-Um Remanescente em forma de martelo de guerra.<03e0>Uma arma muito poderosa, de uso privado do Ludope.
-Uma versão mais poderosa do Dvergr.
-Uma versão de alta qualidade do Dvergr.<03e0>Seu poder foi consideravelmente aumentado.
-Um Remanescente em forma de katana.<03e0>Uma arma muito poderosa, de uso privado da Hannah.
-Uma versão mais poderosa da Crimsonblade.
-Uma versão de alta qualidade do Crimsonblade.<03e0>Seu poder foi consideravelmente aumentado.
-Um Remanescente em forma de katana.<03e0>Uma arma muito poderosa, de uso privado do Milton.<03e0>Sua lâmina é capaz de cortar até mesmo o aço.
-Uma versão mais poderosa da Meteor.
-Uma versão de alta qualidade da Meteor.<03e0>Seu poder foi consideravelmente aumentado.
-Um Remanescente em forma de katana.<03e0>Uma arma muito poderosa, de uso privado da Hinnah.
-Uma versão mais poderosa da Azureblade.
-Uma versão de alta qualidade da Azureblade.<03e0>Seu poder foi consideravelmente aumentado.
-Um Remanescente em forma de espada.<03e0>Uma arma muito poderosa, de uso privado do Young.
-Uma versão mais poderosa da Frostsword.
-Uma versão de alta qualidade da Frostsword.<03e0>Seu poder foi consideravelmente aumentado.
-Um amuleto desgastado que dizem<03e0>conter os poderes de uma bruxa.
-Uma réplica do Remanescente de Athlum, o Coração<03e0>Valente. Tem grande demanda.
+A spear-like Remnant.<03e0>A very powerful, Snievan-specific weapon.
+A customization of the Rhongomynad,<03e0>making it more powerful.
+A high-quality customization of the Rhongomynad.<03e0>Its power has been massively increased.
+A large, sword-like Remnant.<03e0>A very powerful Zuido-specific weapon.
+A customization of the Somberblade,<03e0>making it more powerful.
+A high-quality customization of the Somberblade.<03e0>Its power has been massively increased.
+A hammer-like Remnant.<03e0>A very powerful, Ludope-specific weapon.
+A customization of the Dvergr,<03e0>making it more powerful.
+A high-quality customization of the Dvergr.<03e0>Its power has been massively increased.
+A katana-like Remnant.<03e0>A very powerful, Hannah-specific<03e0>weapon.
+A customization of the Crimsonblade,<03e0>making it more powerful.
+A high-quality customization of the Crimsonblade.<03e0>Its power has been massively increased.
+A katana-like Remnant.<03e0>A Milton-specific weapon, its blade<03e0>can even cut through steel.
+A customization of the Meteor,<03e0>making it more powerful.
+A high-quality customization of the Meteor.<03e0>Its power has been massively increased.
+A katana-like Remnant.<03e0>A very powerful, Hinnah-specific<03e0>weapon.
+A customization of the Azureblade,<03e0>making it more powerful.
+A high-quality customization of the Azureblade.<03e0>Its power has been massively increased.
+A sword-like Remnant.<03e0>A very powerful, Young-specific weapon.
+A customization of the Frostsword,<03e0>making it more powerful.
+A high-quality customization of the Frostsword.<03e0>Its power has been massively increased.
+A frayed charm said to hold<03e0>a witch's powers.
+A replica of Athlum's Remnant, the Valeria Heart.<03e0>It is in high demand.
 Guild Task dummy text
 Objetivo: Derrotar 6 Flauros<03e0>Localização: A Passagem Subterrânea
 Objetivo: Derrotar 5 Abutres<03e0>Localização: Lavafender
@@ -3157,17 +3157,17 @@ Um fragmento de pergaminho que descreve<03e0>a formação Leito.
 Um pergaminho que revela os segredos da<03e0>formação Cesto.
 Um fragmento de pergaminho que descreve<03e0>a formação Mochila.
 Um pergaminho que revela os segredos da<03e0>formação Asas de Morcego.
-Uma estatueta que representa a lealdade de Snievan.<03e0>Ela emite uma luz misteriosa.
-Uma estatueta que representa a lealdade de Zuido.<03e0>Ela emite uma luz misteriosa.
-Uma estatueta que representa a lealdade de Ludope.<03e0>Ela emite uma luz misteriosa.
-Uma estatueta que representa a lealdade de Hannah.<03e0>Ela emite uma luz misteriosa.
-Uma estatueta que representa a lealdade de Milton.<03e0>Ela emite uma luz misteriosa.
-Uma estatueta que representa a lealdade de Hinnah.<03e0>Ela emite uma luz misteriosa.
-Uma estatueta que representa a lealdade de Young.<03e0>Ela emite uma luz misteriosa.
-Um pergaminho que revela os segredos<03e0>da formação Corrente de Porcenala.
-Um pergaminho que revela os segredos<03e0>da formação Selo Místico.
-Um pergaminho que revela os segredos<03e0>da formação Assassino.
-Um pergaminho que revela os segredos<03e0>da formação Chuva de Espinhos.
+A figurine representing Snievan's loyalty.<03e0>It emits a mysterious light.
+A figurine representing Zuido's loyalty.<03e0>It emits a mysterious light.
+A figurine representing Ludope's loyalty.<03e0>It emits a mysterious light.
+A figurine representing Hannah's loyalty.<03e0>It emits a mysterious light.
+A figurine representing Milton's loyalty.<03e0>It emits a mysterious light.
+A figurine representing Hinnah's loyalty.<03e0>It emits a mysterious light.
+A figurine representing Young's loyalty.<03e0>It emits a mysterious light.
+A scroll used to learn the formation<03e0>Porcelain Chain.
+A scroll used to learn the formation<03e0>Mystic Seal.
+A scroll used to learn the formation<03e0>The Slayer.
+A scroll used to learn the formation<03e0>Eremurus Rain.
 Consumables dummy help
 Uma folha com poderes de cura.<03e0>É usada para fazer misturas de ervas.
 Uma raiz com poderes de cura.<03e0>É usada para fazer misturas de ervas.
@@ -6854,20 +6854,20 @@ Seu grupo já tem o número máximo de soldados de Athlum.<03e0>Não é possíve
 Os valores padrão podem ser restabelecidos a partir<03e0>do menu Configuração.
 Você capturou um monstro!
 Pressione <1be040c0ffff2be03e00f8fff8fff8ff010000001ce0> para abrir o <1be0ffbe34ff>Menu Principal<1ce0>.<03e0>Verifique o <1be0ffbe34ff>Equipamento do Rush<1ce0> para ver a arma obtida.
-Salve o progresso do jogo no Menu <1be0ffbe34ff>Salvar<1ce0>.<03e0>Isso só poderá ser feito quando o Menu Principal estiver disponível.
-Ao pressionar <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0> os monstros dentro de<03e0>uma faixa de alcance serão adicionados à batalha.
-Monstros que estão com o símbolo <28e01700>$$<0200ff>ÿ<00000028e0>7$<1200deff050002000000> sobre suas cabeças<03e0>estão perto o suficiente para ingressar na batalha.
-Se um monstro atacar você antes de você ter<03e0>a chance de atacá-lo, você iniciará a batalha<03e0>em posição de desvantagem. Tenha cuidado!
-Todos personagens do grupo <1be0ffbe34ff>se recuperam por completo<1ce003e0>depois da batalha. Isso torna mais fácil enfrentar<03e0>batalhas consecutivas.
+Salve o progresso do jogo no Menu <1be0ffbe34ff>Salvar<1ce0>.<03e0>Isso só poderá ser feito quando o Menu Principal estiver acessível.
+Ao pressionar <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0>, os monstros dentro de<03e0>uma faixa de alcance serão adicionados à batalha.
+Monstros com o símbolo <28e01700>$$<0200ff>ÿ<00000028e0>7$<1200deff050002000000> sobre suas cabeças<03e0>estão perto o suficiente para serem encontrados.
+Se um monstro atacar você antes de você ter<03e0>a chance de atacá-lo, você estará em clara<03e0>desvantagem na batalha. Esteja avisado.
+Todos personagens <1be0ffbe34ff>se recuperam completamente<1ce0> depois da batalha,<03e0>tornando mais fácil as batalhas consecutivas.
 Pressione <1be040c0ffff2be0>@<f8fff8fff8ff010000001ce0> para abrir o Mapa da Cidade quando estiver nelas.
 O <1be0ffbe34ff>Inventário do Grupo<1ce0> foi adicionado ao Menu Principal.<03e0>Pressione <1be040c0ffff2be03e00f8fff8fff8ff010000001ce0> para abrir o Menu Principal.
-Quanto mais monstros participarem de uma batalha,<03e0>maiores serão as chances de conseguir recompensas.
-Ainda que exista um maior risco envolvido,<03e0>é possível obter recompensas inesperadas.
-A Dobra Temporal<1ce0> agora está disponível.<03e0>Pressione <1be040c0ffff2be0>=<f8fff8fff8ff010000001ce0> para executá-la, reduzindo o fluxo temporal<03e0>durante um curto intervalo de tempo.
-Ao executar uma Dobra Temporal, os monstros que<03e0>estão próximos serão marcados com destaque.
-Pressione <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0> durante uma Dobra Temporal para iniciar<03e0>uma batalha com todos monstros em destaque.
-A opção <1be0ffbe34ff>Painel da Unidade<1ce0> foi adicionada ao Menu Principal.<03e0>Agora você pode criar unidades ao seu gosto.
-O item Sr. Garras<1ce0> foi adicionado ao Menu Principal.
+Quanto mais monstros tiverem em uma batalha,<03e0>maiores serão as chances de receber recompensas.
+Embora exista um maior risco envolvido,<03e0>pode haver recompensas inesperadas.
+A Dobra Temporal<1ce0> agora está habilitada.<03e0>Pressione <1be040c0ffff2be0>=<f8fff8fff8ff010000001ce0> para executá-la, reduzindo o fluxo temporal<03e0>durante um curto intervalo de tempo.
+Ao executar uma Dobra Temporal, monstros próximos serão<03e0>marcados como encontráveis.
+Pressione <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0> durante uma Dobra Temporal para iniciar<03e0>uma batalha com todos monstros marcados.
+A opção <1be0ffbe34ff>Unidades<1ce0> foi adicionada ao menu principal.<03e0>Agora você pode criar unidades ao seu gosto.
+O item Sr. Garras<1ce0> foi adicionado ao menu principal.
 O número de vezes que o Sr. Garras pode escavar é<03e0>mostrado como <1be0ffbe34ff>Número de Escavadas<1ce0>. A contagem é<03e0>reiniciada em cada retorno ao mapa do mundo.
 O misterioso... essa coisa, Sr. Garras, se juntou ao grupo!<03e0>Agora é possível procurar tesouros nos pontos de extração<03e0>dentro de cavernas e outros locais.
 O número de escavadas aumentou em 1!<03e0>O número de escavadas foi restaurado ao máximo!
@@ -7310,49 +7310,48 @@ Missão Adicional<1ce0>: Destrua todos os Ídolos!
 Missão Adicional<1ce0>: Derrote o Remanescente Esquecido!
 Missão Adicional<1ce0>: Derrote os Sete Generais Iluminados
 Missão Adicional<1ce0>: Derrote o Conquistador Iluminado
-Esse comando ainda não foi associado.<03e0>Por favor, associe algo a ele.
-Reinicie o jogo para atualizar a configuração.
-A configuração de resolução/modo não foi confirmada<03e0>em 15 segundos, e por isso será retornada a<03e0>configuração padrão.
-A configuração falhou. Por favor, certifique-se de<03e0>que apenas um controle analógico foi pressionado.<03e0>Retornando para o menu.
-A configuração falhou. Não é possível associar outro<03e0>controle analógico às direções para cima/para baixo.<03e0>Retornando para o menu.
-A configuração falhou. Não é possível associar outro<03e0>controle analógico às direções de esquerda/direita.<03e0>Retornando para o menu.
-Entrada falhou.<03e0>O mantete analógico escolhido já está atribuído às<03e0>direções cima/baixo. Retornando para a tela de entrada.
-A configuração falhou. O controle analógico escolhido<03e0>já está associado às direções para cima/para baixo.<03e0>Retornando para o menu.
-Dados do jogo concluído. Se você carregar esses<03e0>dados será iniciado um novo jogo com os itens da<03e0>partida anterior.<1be0ff4060ff>Tome cuidado para não sobrescrever arquivos quando<03e0>for salvar o progresso do jogo.
-Bônus adicional!<1ce003e003e0>Você se tornou amigo do Duke Ghor,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Jager,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Haruko,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Gabriel,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Jorgen,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Roberto,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Loki,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Paris,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Rhagoh,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Glenys,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Violet,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Nora,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Khrynia,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Kate,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Sheryl,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Baulson,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Gaou,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Zolean,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Yuniver,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Darien,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Sibal,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Leshau,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Maddox,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Allan,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Caedmon,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Leucetius,<03e0>despertando assim seus verdadeiros poderes!
-Bônus adicional!<1ce003e003e0>Você se tornou amigo de Wyngale,<03e0>despertando assim seus verdadeiros poderes!
-A autenticação do usuário falhou.
-Rush<1ce0> ingressou na batalha!
-Emma<1ce0> ingressou na batalha!
-Blocter<1ce0> ingressou na batalha!
-Emmy<1ce0> ingressou na batalha!
-A tecla selecionada não pode ser usada.<03e0>Por favor, selecione outra tecla.
-O botão selecionado não pode ser usado.<03e0>Por favor, selecione outro botão.
+Nothing is assigned to this command.<03e0>Please assign something to this command.
+Restart game to update settings.
+Resolution/mode settings were not confirmed<03e0>within 15 seconds and have returned to<03e0>default settings.
+Entry failed.<03e0>Please make sure only one analog stick is<03e0>pressed. Returning to entry screen.
+Entry failed.<03e0>Another analog stick cannot be assigned to<03e0>up/down directions. Returning to entry screen.
+Entry failed.<03e0>Another analog stick cannot be assigned to<03e0>left/right directions. Returning to entry screen.
+Entry failed.<03e0>The chosen analog stick is already assigned to<03e0>up/down directions. Returning to entry screen.
+Save game completion data. Loading this data will start a new<03e0>game with a portion of G and items from the previous game.<03e01be0ff4060ff>Be careful of overwriting files when saving game progress.
+Parameter bonus!<1ce003e003e0>You have become chummy with Duke Ghor,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Jager,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Haruko,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Gabriel,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Jorgen,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Roberto,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Loki,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Paris,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Rhagoh,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Glenys,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Violet,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Nora,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Khrynia,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Kate,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Sheryl,<03e0>thus awakening her true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Baulson,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Gaou,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Zolean,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Yuniver,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Darien,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Sibal,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Leshau,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Maddox,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Allan,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Caedmon,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Leucetius,<03e0>thus awakening his true powers!
+Parameter bonus!<1ce003e003e0>You have become chummy with Wyngale,<03e0>thus awakening his true powers!
+Steam authentication failed.
+Rush<1ce0> has joined the battle!
+Emma<1ce0> has joined the battle!
+Blocter<1ce0> has joined the battle!
+Emmy<1ce0> has joined the battle!
+The selected key cannot be used.<03e0>Please select another key.
+The selected button cannot be used.<03e0>Please select another button.
 1.23457E+25
 Parameters dummy text
 param_name<00001ce0> aumentou!
@@ -9774,9 +9773,9 @@ Vontade de Ferro III
 Submissão Total
 Submissão Total II
 Submissão Total III
-Briga
-Briga II
-Briga III
+Rixa
+Rixa II
+Rixa III
 Chamas Azuis
 Chamas Azuis II
 Chamas Azuis III
@@ -9839,19 +9838,19 @@ Punição Divina III
 Armagedon
 Armagedon II
 Armagedon III
-Calvário Espectral
-Abraço de Gigante
-Galáxia
-Pétala Glacial Dupla
-Vontade de Ferro
-Sedução
-Briga
-Pétala Glacial Dupla
-Fogo Escarlate
-Fogo Escarlate II
-Fogo Escarlate III
-Fogo Escarlate IV
-Fogo Escarlate V
+Phantom Pain
+Giant Press
+Galaxy
+Twin Snowpetal
+Iron Will
+Seduction
+Brawl
+Dual Snowpetal
+Crimson Flare
+Crimson Flare II
+Crimson Flare III
+Crimson Flare IV
+Crimson Flare V
 Battle Commands dummy
 O inimigo está muito distante!
 O inimigo está muito distante!
@@ -9958,15 +9957,15 @@ Longo Alcance: Alvo Secundário
 Em Espera: Não travado em duelo
 Em Espera: Travado em Duelo
 Não faça nada
-Cure-os mesmo que isso os mate!
-Snievan, ataque com o Calvário Espectral!
-Zuido, ataque com o Abraço de Gigante!
-Ludope, ataque com a Galáxia!
-Gêmeas, ataquem com a Pétala Glacial Dupla!
-Milton, ataque com a Vontade de Ferro!
-Hinnah, ataque com a Sedução!
-Young, ataque com a Briga!
-Khrynia, ataque com a Pétala Glacial Dupla!
+Cure them even if it kills them!
+Snievan, unleash Phantom Pain!
+Zuido, unleash Giant Press!
+Ludope, unleash Galaxy!
+Sisters, unleash Twin Snowpetal!
+Milton, unleash Iron Will!
+Hinnah, unleash Seduction!
+Young, unleash Brawl!
+Khrynia, unleash Dual Snowpetal!
 Formation dummy
 Posição de Combate
 Posição de Combate II
@@ -10271,18 +10270,18 @@ Mochila III
 Asas de Morcego
 Asas de Morcego II
 Asas de Morcego III
-Corrente de Porcenala
-Golpe de Porcenala
-Destruição de Porcenala
-Selo Místico
-Selo Místico II
-Selo Místico III
-Assassino
-Assassino II
-Assassino III
-Chuva de Espinhos
-Tempestade de Espinhos
-Tornado de Espinhos
+Porcelain Chain
+Porcelain Blast
+Porcelain Destruction
+Mystic Seal
+Mystic Seal II
+Mystic Seal III
+The Slayer
+The Slayer II
+The Slayer III
+Eremurus Rain
+Eremurus Storm
+Eremurus Stream
 Element Type dummy
 Nenhum
 Corte
@@ -14225,8 +14224,8 @@ Nightbloom Mist
 Frostsword
 Frostsword Artis
 Frostsword Virtutis
-Selo de Bruxa
-Coração Faleriano
+Witch's Seal
+Faleria Heart
 Weapon Type dummy
 Espada
 Espada
@@ -14920,17 +14919,17 @@ Leito
 Cesto
 Mochila
 Asas de Morcego
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Corrente de Porcelana
-Selo Místico
-Assassino
-Chuva de Espinhos
+Heart of Loyalty
+Heart of Loyalty
+Heart of Loyalty
+Heart of Loyalty
+Heart of Loyalty
+Heart of Loyalty
+Heart of Loyalty
+Porcelain Chain
+Mystic Seal
+The Slayer
+Eremurus Rain
 Consumables dummy
 Folha de Cura
 Raiz de Cura
@@ -15819,13 +15818,13 @@ Amuleto Maligno da Água
 Fragmento de Ídolo
 Amuleto Maligno do Raio
 Crepúsculo dos Deuses
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
-Coração Leal
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
+Coração da Lealdade
 Captured Monsters dummy
 Guerreiro Jhana capturado
 Xamã Jhana capturado
@@ -18895,20 +18894,3 @@ Comandos de Batalha
 Comandos Especiais
 Magia Arcana
 
--- ----------------------------------------------------------------------------------
--- (Export 0) QE0020_1_QE0_MSG
--- ----------------------------------------------------------------------------------
-Minha esposa desapareceu já faz algum tempo.<03e0>Creio que tenha ido ver o Liafort outra vez.<04e0>Ela sempre faz isso comigo...
-Meu jovem, será que posso pedir a você um favor?<03e0>Minha esposa foi de novo até os <1be0ffbe34ff>Picos de Marfim<1ce0>.<03e0>Se trazê-la de volta, prometo recompensá-lo.<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Não, isso vai dar trabalho.
-Muito obrigado, meu jovem. Agora vá.
-Hmph. Essa juventude...
-Meu jovem, permita-me insistir uma vez mais no pedido.<03e0>Minha esposa foi outra vez até os <1be0ffbe34ff>Picos de Marfim<1ce0>.<03e0>Se trazê-la de volta, prometo recompensá-lo.<06e0000008e0000000000000>Claro, por que não?<09e008e0010000000300>Não, isso vai dar trabalho.
-Muito obrigado, meu jovem. Agora vá.
-Hmph. Essa juventude...
-E então?<03e0>Vejo que ainda não a encontrou.<06e0000008e0000000000000>Estava indo procurar agora.<09e008e0010000000300>Fique tranquilo, temos tempo.
-Então porque ainda está aqui perdendo tempo?<03e0>Vá logo!
-Você é um jovem muito impertinente!<03e0>Suma da minha frente!
-Muito obrigado. Violet finalmente voltou para mim.<03e0>Mas desde que regressou, passa o dia trancada<03e0>no seu quarto.<04e0>Entendo sua frustração no que diz respeito à situação<03e0>da sua família, mas ela precisa entender que nenhuma<03e0>dinastia dura para sempre.<04e0>Mas enfim, chega de conversa fiada.<03e0>Aqui está sua recompensa, conforme prometido.
-Até a próxima.
-
--- ----------------------------------------------------------------------------------
