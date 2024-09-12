@@ -3157,17 +3157,17 @@ Um fragmento de pergaminho que descreve<03e0>a formação Leito.
 Um pergaminho que revela os segredos da<03e0>formação Cesto.
 Um fragmento de pergaminho que descreve<03e0>a formação Mochila.
 Um pergaminho que revela os segredos da<03e0>formação Asas de Morcego.
-A figurine representing Snievan's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Zuido's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Ludope's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Hannah's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Milton's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Hinnah's loyalty.<03e0>It emits a mysterious light.
-A figurine representing Young's loyalty.<03e0>It emits a mysterious light.
-A scroll used to learn the formation<03e0>Porcelain Chain.
-A scroll used to learn the formation<03e0>Mystic Seal.
-A scroll used to learn the formation<03e0>The Slayer.
-A scroll used to learn the formation<03e0>Eremurus Rain.
+Uma estatueta que representa a lealdade de Snievan.<03e0>Ela emite uma luz misteriosa.
+Uma estatueta que representa a lealdade de Zuido.<03e0>Ela emite uma luz misteriosa.
+Uma estatueta que representa a lealdade de Ludope.<03e0>Ela emite uma luz misteriosa.
+Uma estatueta que representa a lealdade de Hannah.<03e0>Ela emite uma luz misteriosa.
+Uma estatueta que representa a lealdade de Milton.<03e0>Ela emite uma luz misteriosa.
+Uma estatueta que representa a lealdade de Hinnah.<03e0>Ela emite uma luz misteriosa.
+Uma estatueta que representa a lealdade de Young.<03e0>Ela emite uma luz misteriosa.
+Um pergaminho que revela os segredos<03e0>da formação Corrente de Porcenala.
+Um pergaminho que revela os segredos<03e0>da formação Selo Místico.
+Um pergaminho que revela os segredos<03e0>da formação Assassino.
+Um pergaminho que revela os segredos<03e0>da formação Chuva de Espinhos.
 Consumables dummy help
 Uma folha com poderes de cura.<03e0>É usada para fazer misturas de ervas.
 Uma raiz com poderes de cura.<03e0>É usada para fazer misturas de ervas.
@@ -7310,48 +7310,48 @@ Missão Adicional<1ce0>: Destrua todos os Ídolos!
 Missão Adicional<1ce0>: Derrote o Remanescente Esquecido!
 Missão Adicional<1ce0>: Derrote os Sete Generais Iluminados
 Missão Adicional<1ce0>: Derrote o Conquistador Iluminado
-Nothing is assigned to this command.<03e0>Please assign something to this command.
-Restart game to update settings.
-Resolution/mode settings were not confirmed<03e0>within 15 seconds and have returned to<03e0>default settings.
-Entry failed.<03e0>Please make sure only one analog stick is<03e0>pressed. Returning to entry screen.
-Entry failed.<03e0>Another analog stick cannot be assigned to<03e0>up/down directions. Returning to entry screen.
-Entry failed.<03e0>Another analog stick cannot be assigned to<03e0>left/right directions. Returning to entry screen.
-Entry failed.<03e0>The chosen analog stick is already assigned to<03e0>up/down directions. Returning to entry screen.
-Save game completion data. Loading this data will start a new<03e0>game with a portion of G and items from the previous game.<03e01be0ff4060ff>Be careful of overwriting files when saving game progress.
-Parameter bonus!<1ce003e003e0>You have become chummy with Duke Ghor,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Jager,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Haruko,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Gabriel,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Jorgen,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Roberto,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Loki,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Paris,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Rhagoh,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Glenys,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Violet,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Nora,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Khrynia,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Kate,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Sheryl,<03e0>thus awakening her true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Baulson,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Gaou,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Zolean,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Yuniver,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Darien,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Sibal,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Leshau,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Maddox,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Allan,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Caedmon,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Leucetius,<03e0>thus awakening his true powers!
-Parameter bonus!<1ce003e003e0>You have become chummy with Wyngale,<03e0>thus awakening his true powers!
-Steam authentication failed.
-Rush<1ce0> has joined the battle!
-Emma<1ce0> has joined the battle!
-Blocter<1ce0> has joined the battle!
-Emmy<1ce0> has joined the battle!
-The selected key cannot be used.<03e0>Please select another key.
-The selected button cannot be used.<03e0>Please select another button.
+Esse comando ainda não foi associado.<03e0>Por favor, associe algo a ele.
+Reinicie o jogo para atualizar a configuração.
+A configuração de resolução/modo não foi confirmada<03e0>em 15 segundos, e por isso será retornada a<03e0>configuração padrão.
+A configuração falhou. Por favor, certifique-se de<03e0>que apenas um controle analógico foi pressionado.<03e0>Retornando para o menu.
+A configuração falhou. Não é possível associar outro<03e0>controle analógico às direções para cima/para baixo.<03e0>Retornando para o menu.
+A configuração falhou. Não é possível associar outro<03e0>controle analógico às direções de esquerda/direita.<03e0>Retornando para o menu.
+Entrada falhou.<03e0>O mantete analógico escolhido já está atribuído às<03e0>direções cima/baixo. Retornando para a tela de entrada.
+A configuração falhou. O controle analógico escolhido<03e0>já está associado às direções para cima/para baixo.<03e0>Retornando para o menu.
+Bônus adicional!<1ce003e003e0>Você se tornou amigo do Duke Ghor,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Jager,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Haruko,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Gabriel,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Jorgen,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Roberto,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Loki,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Paris,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Rhagoh,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Glenys,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Violet,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Nora,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Khrynia,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Kate,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Sheryl,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Baulson,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Gaou,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Zolean,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Yuniver,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Darien,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Sibal,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Leshau,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Maddox,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Allan,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Caedmon,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Leucetius,<03e0>despertando assim seus verdadeiros poderes!
+Bônus adicional!<1ce003e003e0>Você se tornou amigo de Wyngale,<03e0>despertando assim seus verdadeiros poderes!
+A autenticação do usuário falhou.
+Rush<1ce0> ingressou na batalha!
+Emma<1ce0> ingressou na batalha!
+Blocter<1ce0> ingressou na batalha!
+Emmy<1ce0> ingressou na batalha!
+A tecla selecionada não pode ser usada.<03e0>Por favor, selecione outra tecla.
+O botão selecionado não pode ser usado.<03e0>Por favor, selecione outro botão.
 1.23457E+25
 Parameters dummy text
 param_name<00001ce0> aumentou!
