@@ -6854,20 +6854,20 @@ Seu grupo já tem o número máximo de soldados de Athlum.<03e0>Não é possíve
 Os valores padrão podem ser restabelecidos a partir<03e0>do menu Configuração.
 Você capturou um monstro!
 Pressione <1be040c0ffff2be03e00f8fff8fff8ff010000001ce0> para abrir o <1be0ffbe34ff>Menu Principal<1ce0>.<03e0>Verifique o <1be0ffbe34ff>Equipamento do Rush<1ce0> para ver a arma obtida.
-Salve o progresso do jogo no Menu <1be0ffbe34ff>Salvar<1ce0>.<03e0>Isso só poderá ser feito quando o Menu Principal estiver acessível.
-Ao pressionar <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0>, os monstros dentro de<03e0>uma faixa de alcance serão adicionados à batalha.
-Monstros com o símbolo <28e01700>$$<0200ff>ÿ<00000028e0>7$<1200deff050002000000> sobre suas cabeças<03e0>estão perto o suficiente para serem encontrados.
-Se um monstro atacar você antes de você ter<03e0>a chance de atacá-lo, você estará em clara<03e0>desvantagem na batalha. Esteja avisado.
-Todos personagens <1be0ffbe34ff>se recuperam completamente<1ce0> depois da batalha,<03e0>tornando mais fácil as batalhas consecutivas.
+Salve o progresso do jogo no Menu <1be0ffbe34ff>Salvar<1ce0>.<03e0>Isso só poderá ser feito quando o Menu Principal estiver disponível.
+Ao pressionar <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0> os monstros dentro de<03e0>uma faixa de alcance serão adicionados à batalha.
+Monstros que estão com o símbolo <28e01700>$$<0200ff>ÿ<00000028e0>7$<1200deff050002000000> sobre suas cabeças<03e0>estão perto o suficiente para ingressar na batalha.
+Se um monstro atacar você antes de você ter<03e0>a chance de atacá-lo, você iniciará a batalha<03e0>em posição de desvantagem. Tenha cuidado!
+Todos personagens do grupo <1be0ffbe34ff>se recuperam por completo<1ce003e0>depois da batalha. Isso torna mais fácil enfrentar<03e0>batalhas consecutivas.
 Pressione <1be040c0ffff2be0>@<f8fff8fff8ff010000001ce0> para abrir o Mapa da Cidade quando estiver nelas.
 O <1be0ffbe34ff>Inventário do Grupo<1ce0> foi adicionado ao Menu Principal.<03e0>Pressione <1be040c0ffff2be03e00f8fff8fff8ff010000001ce0> para abrir o Menu Principal.
-Quanto mais monstros tiverem em uma batalha,<03e0>maiores serão as chances de receber recompensas.
-Embora exista um maior risco envolvido,<03e0>pode haver recompensas inesperadas.
-A Dobra Temporal<1ce0> agora está habilitada.<03e0>Pressione <1be040c0ffff2be0>=<f8fff8fff8ff010000001ce0> para executá-la, reduzindo o fluxo temporal<03e0>durante um curto intervalo de tempo.
-Ao executar uma Dobra Temporal, monstros próximos serão<03e0>marcados como encontráveis.
-Pressione <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0> durante uma Dobra Temporal para iniciar<03e0>uma batalha com todos monstros marcados.
-A opção <1be0ffbe34ff>Unidades<1ce0> foi adicionada ao menu principal.<03e0>Agora você pode criar unidades ao seu gosto.
-O item Sr. Garras<1ce0> foi adicionado ao menu principal.
+Quanto mais monstros participarem de uma batalha,<03e0>maiores serão as chances de conseguir recompensas.
+Ainda que exista um maior risco envolvido,<03e0>é possível obter recompensas inesperadas.
+A Dobra Temporal<1ce0> agora está disponível.<03e0>Pressione <1be040c0ffff2be0>=<f8fff8fff8ff010000001ce0> para executá-la, reduzindo o fluxo temporal<03e0>durante um curto intervalo de tempo.
+Ao executar uma Dobra Temporal, os monstros que<03e0>estão próximos serão marcados com destaque.
+Pressione <1be040c0ffff2be03c00f8fff8fff8ff010000001ce0> durante uma Dobra Temporal para iniciar<03e0>uma batalha com todos monstros em destaque.
+A opção <1be0ffbe34ff>Painel da Unidade<1ce0> foi adicionada ao Menu Principal.<03e0>Agora você pode criar unidades ao seu gosto.
+O item Sr. Garras<1ce0> foi adicionado ao Menu Principal.
 O número de vezes que o Sr. Garras pode escavar é<03e0>mostrado como <1be0ffbe34ff>Número de Escavadas<1ce0>. A contagem é<03e0>reiniciada em cada retorno ao mapa do mundo.
 O misterioso... essa coisa, Sr. Garras, se juntou ao grupo!<03e0>Agora é possível procurar tesouros nos pontos de extração<03e0>dentro de cavernas e outros locais.
 O número de escavadas aumentou em 1!<03e0>O número de escavadas foi restaurado ao máximo!
@@ -9773,9 +9773,9 @@ Vontade de Ferro III
 Submissão Total
 Submissão Total II
 Submissão Total III
-Rixa
-Rixa II
-Rixa III
+Briga
+Briga II
+Briga III
 Chamas Azuis
 Chamas Azuis II
 Chamas Azuis III
@@ -9838,19 +9838,19 @@ Punição Divina III
 Armagedon
 Armagedon II
 Armagedon III
-Phantom Pain
-Giant Press
-Galaxy
-Twin Snowpetal
-Iron Will
-Seduction
-Brawl
-Dual Snowpetal
-Crimson Flare
-Crimson Flare II
-Crimson Flare III
-Crimson Flare IV
-Crimson Flare V
+Calvário Espectral
+Abraço de Gigante
+Galáxia
+Pétala Glacial Dupla
+Vontade de Ferro
+Sedução
+Briga
+Pétala Glacial Dupla
+Fogo Escarlate
+Fogo Escarlate II
+Fogo Escarlate III
+Fogo Escarlate IV
+Fogo Escarlate V
 Battle Commands dummy
 O inimigo está muito distante!
 O inimigo está muito distante!
@@ -9957,15 +9957,15 @@ Longo Alcance: Alvo Secundário
 Em Espera: Não travado em duelo
 Em Espera: Travado em Duelo
 Não faça nada
-Cure them even if it kills them!
-Snievan, unleash Phantom Pain!
-Zuido, unleash Giant Press!
-Ludope, unleash Galaxy!
-Sisters, unleash Twin Snowpetal!
-Milton, unleash Iron Will!
-Hinnah, unleash Seduction!
-Young, unleash Brawl!
-Khrynia, unleash Dual Snowpetal!
+Cure-os mesmo que isso os mate!
+Snievan, ataque com o Calvário Espectral!
+Zuido, ataque com o Abraço de Gigante!
+Ludope, ataque com a Galáxia!
+Gêmeas, ataquem com a Pétala Glacial Dupla!
+Milton, ataque com a Vontade de Ferro!
+Hinnah, ataque com a Sedução!
+Young, ataque com a Briga!
+Khrynia, ataque com a Pétala Glacial Dupla!
 Formation dummy
 Posição de Combate
 Posição de Combate II
