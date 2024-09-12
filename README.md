@@ -1,7 +1,7 @@
 -------------------------------------------
 Versionamento
 -------------------------------------------
-Última atualização: 18/09/2024, às 13h30m
+Última atualização: 12/09/2024, às 16h20m
 
 Pontos ainda pendentes:
 - Editar as imagens que contém textos
