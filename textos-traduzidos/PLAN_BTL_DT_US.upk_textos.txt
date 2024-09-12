@@ -856,15 +856,15 @@ Libera o poder oculto do talismã.
 [Específico de um monstro]<1ce0> Em espera, não travado em duelo
 [Específico de um monstro]<1ce0> Em espera: travado em duelo
 [Específico de um monstro]<1ce0> Não faz nada
-Nocauteia uma unidade para liberá-la de uma maldição.
-Orders a full-out attack centering around Snievan's Phantom Pain.
-Orders a full-out attack centering around Zuido's Giant Press.
-Orders a full-out attack centering around Ludope's Galaxy.
-Orders a full-out attack centering around Hannah and Hinnah's Twin Snowpetal.
-Orders a full-out attack centering around Milton's Iron Will.
-Orders a full-out attack centering around Hinnah's Seduction.
-Orders a full-out attack centering around Young's Brawl.
-Orders a full-out attack centering around Khrynia and Irina's Dual Snowpetal.
+Nocauteia uma unidade para libertá-la de uma maldição.
+Realiza um ataque com tudo centrado na técnica Calvário Espectral de Snievan.
+Realiza um ataque com tudo centrado na técnica Abraço de Gigante de Zuido.
+Realiza um ataque com tudo centrado na técnica Galáxia de Ludope.
+Realiza um ataque com tudo centrado na técnica Pétala Glacial Dupla de Hannah e Hinnah.
+Realiza um ataque com tudo centrado na técnica Vontade de Ferro de Milton.
+Realiza um ataque com tudo centrado na técnica Sedução de Hinnah.
+Realiza um ataque com tudo centrado na técnica Briga de Young.
+Realiza um ataque com tudo centrado na técnica Pétala Glacial Dupla de Khrynia e Irina.
 Formation dummy help
 Aumenta a mobilidade das fileiras frontais.
 Aumenta o poder dos ataques laterais.<03e0>Muito eficaz contra homens-fera.
@@ -2527,29 +2527,29 @@ Uma vestimenta feita de borracha.
 Uma vestimenta feita a partir dos restos<03e0>de um demônio.
 Um batom de cor vermelho sangue.
 Uma rocha contendo inscrições que<03e0>profetizam o fim do mundo.
-A spear-like Remnant.<03e0>A very powerful, Snievan-specific weapon.
-A customization of the Rhongomynad,<03e0>making it more powerful.
-A high-quality customization of the Rhongomynad.<03e0>Its power has been massively increased.
-A large, sword-like Remnant.<03e0>A very powerful Zuido-specific weapon.
-A customization of the Somberblade,<03e0>making it more powerful.
-A high-quality customization of the Somberblade.<03e0>Its power has been massively increased.
-A hammer-like Remnant.<03e0>A very powerful, Ludope-specific weapon.
-A customization of the Dvergr,<03e0>making it more powerful.
-A high-quality customization of the Dvergr.<03e0>Its power has been massively increased.
-A katana-like Remnant.<03e0>A very powerful, Hannah-specific<03e0>weapon.
-A customization of the Crimsonblade,<03e0>making it more powerful.
-A high-quality customization of the Crimsonblade.<03e0>Its power has been massively increased.
-A katana-like Remnant.<03e0>A Milton-specific weapon, its blade<03e0>can even cut through steel.
-A customization of the Meteor,<03e0>making it more powerful.
-A high-quality customization of the Meteor.<03e0>Its power has been massively increased.
-A katana-like Remnant.<03e0>A very powerful, Hinnah-specific<03e0>weapon.
-A customization of the Azureblade,<03e0>making it more powerful.
-A high-quality customization of the Azureblade.<03e0>Its power has been massively increased.
-A sword-like Remnant.<03e0>A very powerful, Young-specific weapon.
-A customization of the Frostsword,<03e0>making it more powerful.
-A high-quality customization of the Frostsword.<03e0>Its power has been massively increased.
-A frayed charm said to hold<03e0>a witch's powers.
-A replica of Athlum's Remnant, the Valeria Heart.<03e0>It is in high demand.
+Um Remanescente em forma de lança.<03e0>Uma arma muito poderosa, de uso privado do Snievan.
+Uma versão mais poderosa do Rhongomynad.
+Uma versão de alta qualidade do Rhongomynad.<03e0>Seu poder foi consideravelmente aumentado.
+Um Remanescente em forma de uma espada de duas mãos.<03e0>Uma arma muito poderosa, de uso privado do Zuido.
+Uma versão mais poderosa da Somberblade.
+Uma versão de alta qualidade do Somberblade.<03e0>Seu poder foi consideravelmente aumentado.
+Um Remanescente em forma de martelo de guerra.<03e0>Uma arma muito poderosa, de uso privado do Ludope.
+Uma versão mais poderosa do Dvergr.
+Uma versão de alta qualidade do Dvergr.<03e0>Seu poder foi consideravelmente aumentado.
+Um Remanescente em forma de katana.<03e0>Uma arma muito poderosa, de uso privado da Hannah.
+Uma versão mais poderosa da Crimsonblade.
+Uma versão de alta qualidade do Crimsonblade.<03e0>Seu poder foi consideravelmente aumentado.
+Um Remanescente em forma de katana.<03e0>Uma arma muito poderosa, de uso privado do Milton.<03e0>Sua lâmina é capaz de cortar até mesmo o aço.
+Uma versão mais poderosa da Meteor.
+Uma versão de alta qualidade da Meteor.<03e0>Seu poder foi consideravelmente aumentado.
+Um Remanescente em forma de katana.<03e0>Uma arma muito poderosa, de uso privado da Hinnah.
+Uma versão mais poderosa da Azureblade.
+Uma versão de alta qualidade da Azureblade.<03e0>Seu poder foi consideravelmente aumentado.
+Um Remanescente em forma de espada.<03e0>Uma arma muito poderosa, de uso privado do Young.
+Uma versão mais poderosa da Frostsword.
+Uma versão de alta qualidade da Frostsword.<03e0>Seu poder foi consideravelmente aumentado.
+Um amuleto desgastado que dizem<03e0>conter os poderes de uma bruxa.
+Uma réplica do Remanescente de Athlum, o Coração<03e0>Valente. Tem grande demanda.
 Guild Task dummy text
 Objetivo: Derrotar 6 Flauros<03e0>Localização: A Passagem Subterrânea
 Objetivo: Derrotar 5 Abutres<03e0>Localização: Lavafender
