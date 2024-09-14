@@ -1,10 +1,10 @@
 -------------------------------------------
 Versionamento
 -------------------------------------------
-Última atualização: 18/09/2024, às 13h30m
+Última atualização: 13/09/2024, às 23h30m
 
 Pontos ainda pendentes:
-- Editar as imagens que contém textos
+- Editar imagens contendo o nome de cidades e lugares
 
 -------------------------------------------
 Sobre o Projeto
@@ -132,7 +132,7 @@ Antes de mais nada, é necessário ter o Java instalado no computador.
 Feito isso:
 - Faça o download dos arquivos do projeto (usando git clone ou pegando todos arquivos em um pacote .zip)
 - Altere o arquivo "traduzir.bat", colocando no lugar de "C:\Games\The Last Remnant" o caminho onde o game foi instalado
-- Caso seja encontrado algum problema na tradução, basta alterar o arquivo corresponde da pasta "textos-traduzidos" e executar novamente a ferramenta.
+- Caso seja encontrado algum problema na tradução, basta alterar o arquivo correspondente da pasta "textos-traduzidos" e executar novamente a ferramenta.
 
 Para que a tradução possa ser continuamente aprimorada, pede-se que os problemas sejam reportados no site do projeto, acima mencionado, para que sejam efetuados nesse repositório as alterações necessárias.
 
