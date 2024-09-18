@@ -1,10 +1,7 @@
 -------------------------------------------
 Versionamento
 -------------------------------------------
-Última atualização: 16/09/2024, às 16h35m
-
-Pontos ainda pendentes:
-- Editar imagens contendo o nome de cidades e lugares
+Última atualização: 18/09/2024, às 23h30m
 
 -------------------------------------------
 Sobre o Projeto
