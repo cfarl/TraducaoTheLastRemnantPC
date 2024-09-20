@@ -1,7 +1,7 @@
 -- ----------------------------------------------------------------------------------
 -- (Export 0) EV0390_1_EV0_MSG
 -- ----------------------------------------------------------------------------------
-Ah, está aqui.
+Ah, você está aí.
 O que está acontecendo?
 Rush, o Conselho vai se reunir<0fe003e00ee0>em Elysion daqui a alguns dias.
 O Conselho? O que é isso?
