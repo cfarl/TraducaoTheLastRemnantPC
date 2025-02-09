@@ -6820,7 +6820,7 @@ O controle analógico está associado ao movimento do personagem.<03e0>Deseja us
 O controle analógico está associado ao movimento da câmera.<03e0>Deseja usar essa nova associação?
 Os dados do jogo concluído foram salvos.<03e0>Deseja continuar?
 Já existem dados de salvamento automático.<03e0>Se for ativada a função de salvamento automático<03e0>os dados atuais serão sobrescritos. Prosseguir?
-O monstro chefe deve ser derrotado para sair dessa área.<1ce003e01be0ff4060ff>Se você salvar o jogo aqui, poderá ficar parado nesse<1ce003e0>lugar caso não consiga derrotar o monstro.<1ce003e01be0ff4060ff>Tenha isso em mente antes de sobrescrever seus dados.<1ce0>Deseja continuar?
+O chefe da área precisa ser derrotado para sair dela.<1ce003e01be0ff4060ff>Se você salvar o jogo nesse lugar, poderá ficar <1ce003e0>travado<1be0ff4060ff> caso não consiga derrotá-lo. Tenha isso<1ce003e01be0ff4060ff>em mente antes de confirmar. <1ce0>Deseja continuar?
 Ao associar ao controle as teclas que aparecerão<03e0>na tela, a configuração atual dele será reiniciada.<03e0>Deseja continuar?
 Ao associar ao controle de Xbox 360 as teclas que aparecerão<03e0>na tela, a configuração atual dele será reiniciada.<03e0>Deseja continuar?
 Essa opção vai associar ao controle as teclas que<03e0>aparecerão na tela.<03e0>Deseja continuar?
