@@ -12,5 +12,5 @@ O Coração Valente...<0fe003e00ee0>Ele...?
 A... tabuleta...
 Desgraçado... por que você...
 O que foi isso?
-Eu não sei...<1ae0000028420fe002e001000be00000007700>
+Eu não sei...<07f0><1ae0000028420fe002e001000be00600000000000000>
 

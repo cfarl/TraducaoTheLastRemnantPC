@@ -11,7 +11,7 @@ Eu sou o Presidente do Conselho,<0fe003e00ee0>duque Wilfred Hermeien.
 Senhor... Conquistador, é isso?<0fe003e00ee0>Será que poderia nos declarar suas intenções?
 Acredito que já conheça minhas intenções.
 Você deseja ser nomeado senhor, e quer que seja<0fe003e00ee0>outorgado a você seu próprio Remanescente, hmm?
-Isso é inconcebível! Conquistar um fim de mundo<0fe003e00ee0>como Veyriel e depois esperar que...<1ae0000047430fe002e001000be00ee0>
+Isso é inconcebível! Conquistar um fim de mundo<0fe003e00ee0>como Veyriel e depois esperar que...<07f0><1ae0000047430fe002e001000be00ee0>
 Acredito que você tenha sido avisado para<0fe003e00ee0>aguardar pacientemente até que o Conselho<1ae0000002430fe005e001000ee0>tenha tomado sua decisão.
 Eu estou aqui porque minha vinda foi profetizada<0fe003e00ee0>pelo próprio Imperador Celestial.<1ae0000000430fe005e001000ee0>Que necessidade tenho eu da aprovação do Conselho?
 Os dias em que as palavras do Imperador<0fe003e00ee0>eram a lei há muito se foram.<1ae000000c430fe005e001000ee0>Ele deveria saber disso melhor que ninguém...

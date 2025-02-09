@@ -20,7 +20,7 @@ Isso é obra de um só homem. Um homem que está<0fe003e00ee0>usando Wagram como
 Ao mesmo tempo ele está manipulando<0fe003e00ee0>o Conquistador para desencadear uma guerra,<1ae0000012430fe005e001000ee0>e tudo isso para demonstrar as atrocidades<0fe003e00ee0>que podem ser causadas pelos Remanescentes.<1ae0000002430fe005e001000ee0>Quando a guerra assolar o mundo,<0fe003e00ee0>as pessoas não irão mais acreditar que os Lordes<1ae00000fa420fe005e001000ee0>têm a capacidade de controlar os Remanescentes.
 Se nesse momento aparecesse uma descendente de<0fe003e00ee0>Marion Marshall, as pessoas sem dúvida confiariam<1ae0000025430fe005e001000ee0>a ela o controle de todos os Remanescentes...<1ae000005c420fe005e001000ee0>E tendo Irina ao seu lado, ele se tornaria<0fe003e00ee0>o novo Imperador Celestial.
 E você está se referindo a...?
-Ao Presidente do Conselho<0fe003e00ee0>Duque Wilfred Hermeien.
+Ao Presidente do Conselho<07f0><0fe003e00ee0>Duque Wilfred Hermeien.
 Tudo faz sentido agora.
 Lorde David, sei que esse não é o momento<0fe003e00ee0>para se fazer pedidos egoístas...<1ae0000034430fe005e001000ee0>Mas você precisa salvar minha filha!
 Eu já havia prometido ao Rush que Irina<0fe003e00ee0>não seria um peão nessa guerra.<1ae0000017430fe005e001000ee0>Por favor, levante-se.
