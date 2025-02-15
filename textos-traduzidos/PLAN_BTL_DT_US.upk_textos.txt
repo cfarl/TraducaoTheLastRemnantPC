@@ -7317,7 +7317,7 @@ A configuração falhou. Por favor, certifique-se de<03e0>que apenas um controle
 A configuração falhou. Não é possível associar outro<03e0>controle analógico às direções para cima/para baixo.<03e0>Retornando para o menu.
 A configuração falhou. Não é possível associar outro<03e0>controle analógico às direções de esquerda/direita.<03e0>Retornando para o menu.
 Entrada falhou.<03e0>O mantete analógico escolhido já está atribuído às<03e0>direções cima/baixo. Retornando para a tela de entrada.
-A configuração falhou. O controle analógico escolhido<03e0>já está associado às direções para cima/para baixo.<03e0>Retornando para o menu.
+Dados do jogo concluído. Se você carrregar esses dados será<03e0>iniciado um novo jogo com o ouro e itens do jogo anterior.<03e01be0ff4060ff>Tenha cuidado para não sobrescrever seus outros arquivos.
 Bônus adicional!<1ce003e003e0>Você se tornou amigo do Duke Ghor,<03e0>despertando assim seus verdadeiros poderes!
 Bônus adicional!<1ce003e003e0>Você se tornou amigo de Jager,<03e0>despertando assim seus verdadeiros poderes!
 Bônus adicional!<1ce003e003e0>Você se tornou amigo de Haruko,<03e0>despertando assim seus verdadeiros poderes!
