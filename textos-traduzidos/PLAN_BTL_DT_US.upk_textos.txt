@@ -2567,10 +2567,10 @@ Objetivo: Derrotar 16 Caçahomens<03e0>Localização: Fornstrand
 Objetivo: Derrotar 15 Demônios Gigantes<03e0>Localização: Monte Vackel
 Objetivo: Derrotar 14 Glagonos<03e0>Localização: A Segunda Galeria, Siebenbur
 Objetivo: Derrotar 24 Insetos Assassinos<03e0>Localização: A Sexta Galeria, Siebenbur
-Objetivo: Derrotar um Olho da Condenação<03e0>Localização: Castelo Mojcado
-Objetivo: Derrotar um Goko<03e0>Localização: As Minas de Numor
-Objetivo: Derrotar um Caudazul<03e0>Localização: Torre de Flaumello
-Objetivo: Derrotar um Mercuriano<03e0>Localização: Floresta Negra
+Objetivo: Derrotar um Regente do Amanhecer<03e0>Localização: Picos de Marfim
+Objetivo: Derrotar um Yamamai<03e0>Localização: Vale dos Deuses
+Objetivo: Derrotar um Lágrimas de Sangue<03e0>Localização: Estrada do Sudoeste
+Objetivo: Derrotar um Espírito Animal Rin<03e0>Localização: Monte Vackel
 Objetivo: Derrotar um monstro desconhecido<03e0>Localização: Desconhecida
 Objetivo: Derrotar um monstro desconhecido<03e0>Localização: Desconhecida
 Consiga 4 ossos de homem-fera.
@@ -12593,7 +12593,7 @@ Ferrão Mortal
 Mosquito Sônico
 Mosquito Dourado
 Rainha Esquecida
-Dominador da Alvorada
+Regente do Amanhecer
 Vasculhacrânio
 Abutre
 Hraesvelg
